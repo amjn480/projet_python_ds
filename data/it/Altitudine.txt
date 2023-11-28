@@ -1,0 +1,39 @@
+L'altitudine è la distanza verticale di un oggetto dal livello del mare, ossia l'altezza sul livello del mare, o altezza assoluta, una delle tre coordinate geografiche terrestri assieme alla latitudine e alla longitudine. Il termine generico altezza si riferisce invece all'altezza relativa, ovvero la distanza di un oggetto da un livello di riferimento arbitrario ossia la differenza tra le altitudini di due diversi luoghi, ad esempio tra la vetta di una montagna e il fondovalle o tra un aeromobile e il terreno sottostante.
+
+
+== Descrizione ==
+Nel sistema internazionale di unità di misura, l'altitudine viene misurata in metri sul livello del medio mare, mentre negli Stati Uniti d'America e nel Regno Unito viene solitamente misurata nel sistema anglosassone, cioè in piedi.
+Superfici isoipse coincidono con le superfici equipotenziali gravitazionali a meno di variazioni locali della gravità terrestre. La pressione atmosferica e la densità dell'aria diminuiscono circa esponenzialmente con l'aumento dell'altitudine. L'altitudine si misura comunemente attraverso l'altimetro oppure ricorrendo a misure geodetiche di triangolazione trigonometrica tramite teodoliti o livelli. Convenzionalmente come altitudine di un centro abitato comunale si prende a riferimento il luogo esatto dove è posto il Municipio del comune stesso.
+
+
+== Ipsografia ==
+L'ipsografia è lo studio delle altitudini. L'altitudine media delle terre emerse è compresa tra i 500 e i 600 m così ripartita tra i continenti:
+Le maggiori altitudini terrestri sono rappresentate dalle montagne, la cui cima più elevata, l'Everest raggiunge circa gli 8.850 metri sul livello del mare, praticamente molto poco rispetto al raggio terrestre (6.378,14 km): se si rappresentasse il globo terrestre con una sfera di un metro di raggio infatti si dovrebbe rappresentare l'Everest con appena un rilievo di un millimetro, dato che in proporzione è circa 1/720 del raggio terrestre . 
+
+
+== Note ==
+
+
+== Voci correlate ==
+Altimetria
+Coordinate geografiche
+Latitudine
+Longitudine
+Dislivello
+Prominenza topografica
+Isolamento topografico
+Pendenza topografica
+Geoide
+Normalnull
+Mal di montagna
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «altitudine»
+ Wikimedia Commons contiene immagini o altri file su altitudine
+
+
+== Collegamenti esterni ==
+
+(EN) altitude, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

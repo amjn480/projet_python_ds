@@ -1,0 +1,158 @@
+El código postal es un esquema que se asigna a distintas zonas o lugares de un país, un código que sirve para facilitar y mecanizar el encaminamiento de una pieza de correo. Generalmente, es una serie de dígitos, aunque en algunos países incluyen letras. También se utiliza en los navegadores GPS para ubicar lugares.
+En determinadas definiciones posee hacinamientos que permiten y magnifican su uso general en ramificaciones de geografía, así como el postulante para la consulta del Código Postal en pueblos estados o ciudades de México corroborándose la información detallada en la página oficial de Correos de México.
+El sistema moderno de codificación postal se introdujo por primera vez en Ucrania (entonces, parte de la URSS) en 1932, aunque se abandonó en 1939. Alemania inauguró el suyo en 1941, seguido por Argentina en 1958, el Reino Unido en 1959, los Estados Unidos en 1963 y Suiza en 1964.
+La gran mayoría de los servicios de correos estatales del mundo utilizan códigos postales. Sin embargo, hay países en los que no existen en territorios cuya extensión es tan reducida que la implantación del código postal es innecesaria, como Gibraltar o Hong Kong.
+Los códigos postales tienen distintos formatos y normas de uso dependiendo del país. En la mayor parte de Europa, el código postal va antes del nombre del lugar o ciudad y a veces precedido por el código del país, mientras que en los países anglófonos suele ir detrás del nombre del lugar.
+Aunque los códigos postales se suelen asignar a zonas geográficas, también existen algunos que identifican a ciertas instituciones que reciben grandes cantidades de correo, como organismos oficiales, grandes empresas, cadenas de televisión, etc.
+
+
+== Códigos postales en el mundo ==
+
+
+=== En Alemania ===
+Los códigos postales alemanes constan de cinco dígitos. El primero de ellos marca el área geográfica, mientras que los sucesivos indican subdivisiones de esas áreas. Hay que destacar que las divisiones en áreas asignadas a los números no corresponden con las divisiones administrativas.
+El actual sistema de códigos postales se introdujo en 1993. Anteriormente, la República Federal de Alemania y la República Democrática Alemana tenían sendos sistemas de códigos postales de cuatro cifras.
+
+
+=== En Argentina ===
+
+El código postal argentino consta de ocho caracteres; el primero es la letra que identifica a la provincia según la norma ISO 3166-2:AR; los cuatro siguientes son numéricos, e identifican a la ciudad; finalmente, tres letras identifican exactamente el frente de manzana, paraje rural o casilla de correo. Estos últimos son fijos en aquellas poblaciones que no superan los 500 habitantes.
+El sistema actual entró en vigor en 1998. El sistema anterior, que no empleaba el identificador de manzana ni el de la provincia, todavía está vigente.
+
+
+=== En Chile ===
+
+El código postal es un número que identifica el frente de una manzana o cuadra. En promedio un código postal agrupa a 20 direcciones[cita requerida]. Se trata de un número de siete dígitos de los cuales los tres primeros corresponden a una comuna, y los cuatro siguientes identifican un frente de manzana. Cada comuna puede poseer más de un trío inicial, los cuales están relacionados con los sectores de distribución postal.
+Actualmente el sistema de códigos postales, administrado por Correos Chile, está implantado en todas las comunas del país.
+
+
+=== En Colombia ===
+
+Los códigos postales se establecieron en 2009 en Colombia pero solo hasta el 2013 comenzó su implementación en todo el país. Este código consta de seis dígitos, que identifican siempre una posición geográfica, una de encaminamiento y finalmente la que nos ubica dentro del área postal.
+La estructura que tiene el código postal colombiano es la siguiente:
+
+Los dos primeros dígitos representan a los Departamentos Nacionales, utilizando la codificación vigente del DANE, debiéndose rellenar con un cero a la izquierda los menores de 10.
+01-89: Permiten dividir cada departamento hasta en ochenta y nueve Zonas de Encaminamiento Postal.
+90-99: Indicará que la correspondencia va dirigida a casillas de apartados situadas en las oficinas postales de cada departamento.Las dos últimas posiciones del código postal nacional permiten asignar 100 distritos postales a cada uno de las diez zonas postales creadas en cada departamento.Todos los colombianos pertenecen o están domiciliados bajo un código postal.
+
+
+=== En Costa Rica ===
+
+En Costa Rica, la empresa estatal Correos de Costa Rica S.A. es el correo oficial.
+Cada código postal identifica un único distrito dentro del país, y se compone de cinco dígitos donde el primer dígito corresponde a la provincia, el conjunto de los dos segundos dígitos corresponde al cantón y los últimos dos dígitos corresponden al distrito. A su vez, los tres primeros dígitos corresponden al código único de cantón. 
+Los códigos postales se derivan de y son equivalentes a los códigos para identificar distritos utilizados por el Instituto Nacional de Estadística y Censos de Costa Rica y por la División Territorial Administrativa.[1]​
+Por ejemplo, en la Provincia de San José, identificada con el código de provincia 1, se encuentra el primer cantón de la provincia, cantón de San José, identificado con el código de cantón 101, dentro del cual está el noveno distrito, Pavas, identificado con el código postal 10109.[2]​
+
+
+=== En Dinamarca ===
+En Dinamarca, el código postal tiene cuatro cifras. La primera cifra indica la región, con algunas excepciones como Bornholm o Groenlandia, que utilizan dos cifras. Las islas Feroe utilizaban el mismo sistema de numeración, comenzando con el código 38, pero actualmente utilizan un sistema local de tres cifras.
+Ejemplos:
+
+8660 - 8: Corresponde a la región de Jutlandia Central, 660 a Skanderborg.
+3700 - 3: Corresponde a Región Capital, 7 a la isla de Bornholm, 00 a Rønne.
+2412 - Es el código postal reservado para las cartas a Julemanden, que en la tradición danesa vive en Uummannaq.
+
+
+=== En Ecuador ===
+En Ecuador, la Agencia Nacional Postal es el órgano regulador del servicio postal.
+El código postal de Ecuador tiene seis dígitos numéricos: dos para la provincia, dos para el distrito y dos para la zona postal, por ejemplo:
+170515 17: provincia de Pichincha, 05: Distrito número 5, y 15: Zona Postal número 15.
+
+
+=== En El Salvador ===
+Se utiliza el código postal 00106-8000 indistintamente del departamento, ciudad, o localidad hacia donde se envíe la correspondencia.
+En realidad, el Servicio Postal de El Salvador no utiliza el sistema de códigos postales por no tener un sistema para ello, pero de acuerdo a la UPU —Universal Postal Union—, los códigos existen y se componen de las letras CP y cuatro dígitos que señalan la localización específica.
+
+
+=== En España ===
+
+El código postal español consta de cinco dígitos. Los dos primeros hacen referencia a la provincia, fueron asignados siguiendo un orden alfabético, del 01 al 50, y a las ciudades de Ceuta y Melilla, que al estar fuera de la división provincial, se les asignaron el 51 y el 52 respectivamente. Los tres últimos corresponden a zonas postales y de reparto asignadas por la Sociedad Estatal Correos y Telégrafos conforme a criterios internos. Existen además unas terminaciones especiales, dispuestas a continuación de los dos dígitos provinciales, reservadas para determinados destinos, tales como apartados postales (xx080), correspondencia exclusivamente postal o telegráfica (xx070) y organismos oficiales (xx071).
+Puede descargar el listado de códigos postales de España en formato CSV o Excel desde aquí.
+
+
+=== En Francia ===
+
+El código postal francés consta de cinco dígitos. Los dos primeros identifican el departamento y los otros tres identifican el lugar dentro de él. En este sistema van incluidos los territorios franceses de ultramar.[3]​
+
+
+=== En Israel ===
+Los códigos postales en Israel constan de cinco dígitos. El primero de ellos marca el área geográfica del país de norte al sur, mientras que los sucesivos indican subdivisiones de esas áreas. Hay que destacar que las divisiones en áreas asignadas a los números no corresponden con las divisiones administrativas.
+A partir de febrero de 2013, este cambio de 5 dígitos a 7 dígitos para facilitar el manejo interno e internacional de rutas de envío de diversas mercancías para la mejora de su comercio.
+
+
+=== En México ===
+
+El código postal mexicano consta de cinco dígitos. Los dos primeros identifican el estado o parte del mismo. Para el caso de la Ciudad de México, Distrito Federal, los dos primeros dígitos representan la división administrativa (delegación).
+Los códigos postales de este país son propiedad del Gobierno de México y administrados por el organismo público Correos de México. En México existen 31 276 códigos postales asignados a 143 411 asentamientos humanos o colonias (Catálogo SEPOMEX 2014).
+Las oficinas de correos de México asignan códigos postales específicos a grandes usuarios como hoteles, palacios de gobierno y grandes empresas.
+
+
+=== En Perú ===
+Los códigos postales peruanos han sido alfanuméricos durante mucho tiempo y se usaban solamente para los distritos de las provincias de Lima y del Callao, utilizándose, por ejemplo:
+Callao 1 para el Distrito del Callao.
+Lima 5 para el Distrito de Breña.
+Actualmente, están formados por cinco dígitos. Los dos primeros señalan el departamento mientras que los tres siguientes corresponden a la zona postal, que considera la densidad, por lo que un mismo distrito puede tener un único código o podría también tener cuatro o cinco, según el tamaño y la población.
+Códigos de cada departamento del Perú:
+
+Amazonas
+Ancash
+Apurímac
+Arequipa
+Ayacucho
+Cajamarca
+Provincia Constitucional del Callao
+Cusco
+Huancavelica
+Huánuco
+Ica
+Junín
+La Libertad
+Lambayeque
+Lima
+Loreto
+Madre de Dios
+Moquegua
+Pasco
+Piura
+Puno
+San Martín
+Tacna
+Tumbes
+UcayaliTeniendo así, por ejemplo, para una zona postal de Lima el 15789 o 15047, o para una de Tacna el 23500.[4]​
+
+
+=== En Portugal ===
+Los códigos postales portugueses de los Correios de Portugal constan de 7 dígitos en 2 grupos, siendo el primero de 4 dígitos y el segundo de 3, separados por una raya y seguidos de una designación postal de 25 caracteres como máximo. Este sistema es extremamente eficaz, pues, sólo con el código postal y nada más, se puede llegar hasta la puerta del edificio del destinatario.
+
+
+=== En Rusia ===
+Los códigos postales rusos constan de seis dígitos, XXXYYY, donde XXX es el código de la ciudad, e YYY es el número de la oficina de correos. Algunas grandes ciudades —por ejemplo, Moscú— tienen varios códigos de ciudad.
+Para una lectura automática de los códigos, en los sobres se imprime un esbozo con nueve segmentos para cada dígito que el remitente rellena. Esto sin embargo no es obligatorio, el código postal se puede escribir a mano.
+
+
+=== En Estados Unidos ===
+Los códigos postales de Estados Unidos constan de cinco dígitos: XXXXX. El primer dígito es para la región particular, y el segundo y el tercer dígito es para el estado, por ejemplo,
+0 es para los estados de Connecticut (060-069), Maine (039-049), Massachusetts (010-027), Nueva Hampshire (030-038), Nueva Jersey (070-089), Rhode Island (028-029), y Vermont (050-059), y además para Puerto Rico (006, 007, 009), las islas Vírgenes de EE. UU. (008) y también las bases de Fuerzas Armadas en Europa (090-098).
+1 es para los estados de Nueva York (100-149), Pensilvania (150-196) y Delaware (197-199).
+2 es para Washington, DC (200, 202-205), y los estados de Maryland (206-219), Virginia (201, 220-247), Virginia Occidental (248-269), Carolina del Norte (270-289) y Carolina del Sur (290-299).
+3 es para los estados de Georgia (300-319), Florida (320-349), Alabama (350-369), Tennessee (370-385) y Misisipi (386-397).
+4 es para los estados de Kentucky (400-429), Ohio  (430-459), Indiana (460-469) y Míchigan (480-499).
+5 es para los estados de Iowa (500-529), Wisconsin (530-549), Minnesota (550-569), Dakota del Norte (570-579), Dakota del Sur (580-589) y Montana (590-599).
+6 es para los estados de Illinois (600-629), Misuri (630-659), Kansas (660-679) y Nebraska (680-699).
+7 es para los estados de Luisiana (700-714), Arkansas (715-729), Oklahoma (730-749) y Texas (750-799, 885).
+8 es para los estados de Colorado (800-819), Wyoming (820-831), Idaho (832-839), Utah (840-849), Arizona (850-869), Nuevo México (870-884) y Nevada (889-899).
+9 es para los estados de California (900-961), Hawái (967-968), Oregón (970-979), Washington (980-994), Alaska (995-999), las islas Guam (969), Mariana del Norte (969), la Samoa Americana (967) y las bases de las Fuerzas Armadas en la región de Pacífico (962-966).
+
+
+=== En Venezuela ===
+Los códigos postales de Venezuela constan de cuatro (4) dígitos: XXXX, gracias a los cuales se puede especificar exactamente la localidad donde se encuentra. La empresa venezolana responsable de la administración postal es Ipostel, que desde hace más de 10 años garantiza la emisión de filatelia del país, la cual tiene denominación desde Bs. 0.30 hasta Bs. 100.00. Algunos ejemplos de código postal serían: 1204 (San Antonio de Los Altos, Municipio Los Salias, Estado Miranda) y 8051 (San Félix, Municipio Caroní, Estado Bolívar).
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Códigos postales de México
+Códigos postales de Honduras
+Códigos postales de España
+Códigos postales de Chile

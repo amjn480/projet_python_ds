@@ -1,0 +1,182 @@
+Google ist eine Internet-Suchmaschine des US-amerikanischen Unternehmens Google LLC. Mit mehr als 3 Milliarden Suchanfragen pro Tag hat Google einen Anteil von über 92 % am globalen Suchmaschinenmarkt und ist die meistbesuchte Website der Welt.Google steht in direkter Konkurrenz zu anderen Suchmaschinen wie zum Beispiel Bing von Microsoft, Yandex in Russland, Baidu in China und Qwant in Europa.
+
+
+== Geschichte ==
+
+Der Vorläufer BackRub, der von Larry Page und Sergey Brin an der Stanford University entwickelt wurde, begann mit dem Echtbetrieb im Jahr 1996, seit 15. September 1997 ist die Suchmaschine unter dem Namen Google online. Seitdem hat sich ihre Oberfläche nur geringfügig verändert. Durch den Erfolg der Suchmaschine in Kombination mit kontextsensitiver Werbung (Sponsorenlinks) auf den Ergebnisseiten aus dem AdWords-Programm konnte das Unternehmen Google Inc. eine Reihe weiterer Produkte finanzieren. Die Suche ist allerdings nach wie vor das Kern-Geschäftsfeld von Google.
+Die Bezeichnung Google basiert auf einem Wortspiel, manche Quellen sprechen auch von einem Rechtschreibfehler, mit der amerikanischen Aussprache des Wortes googol. Milton Sirotta, der Neffe des US-Mathematikers Edward Kasner, hatte den Ausdruck in den 1920er Jahren geprägt, um der Zahl 10100 (einer Eins gefolgt von einhundert Nullen) einen Namen zu geben. Die Google-Gründer wiederum suchten eine treffende Bezeichnung für die Fülle an Informationen, die ihre Suchmaschine im Web finden sollte.Ende 2010 wurde „Instant Previews“, eine Funktion zur schnellen Ergebnisvorschau, eingeführt. Dies wurde im April 2013 entfernt, da es laut Angabe von Google selten benutzt wurde.
+
+
+== Funktionen ==
+Google zeigt zehn Suchergebnisse je Seite an, bietet aber auch Einstellungen bis 100 Ergebnissen pro Seite. Die Darstellungsform eines Treffers kann sich unterscheiden, normalerweise werden der Titel, die Zusammenfassung und der Link angezeigt. Auf der Ergebnisseite wird über den Ergebnissen eine Leiste angezeigt, mit der man schnell zu anderen Suchdiensten von Google, wie der Landkarten-, Nachrichten-, Bilder-, Video-, Shopping- und Bücher-Suche, wechseln kann. Bei einigen Suchbegriffen zeigt Google bereits auf der Ergebnisseite direkt Informationen, News und Bilder zum Suchbegriff an.
+Google vereinfacht durch verschiedene Funktionen die Eingabe von Suchanfragen. Wenn der Benutzer ein Suchwort eintippt, werden seit 2008 Vorschläge für den gesuchten Begriff unter dem Tippfeld angezeigt, ursprünglich mit der ungefähren Ergebnisanzahl der einzelnen Vorschläge. Dieses Verfahren heißt automatische Vervollständigung (englisch autocomplete, früher Google Suggest). Diese Funktion ist in Deutschland seit dem 1. April 2009 verfügbar. Die Funktionalität wird auf Basis der Ajax-Technologie zur Verfügung gestellt, bei der für die Datenübertragung kein erneuter Seitenabruf im Webbrowser nötig ist. Google filtert anstößige Vervollständigungen aus den Vorschlägen.Zudem bietet Google eine Rechtschreibprüfung, diese liefert bei falsch geschriebenen Wörtern einen Vorschlag zur richtigen Schreibweise („Meinten Sie …“). Die Empfehlung beruht auf einem phonetischen, vollautomatisierten Vergleich.
+
+Die Google-Suche ist in viele Webbrowser standardmäßig integriert, so z. B. in Googles eigenem Webbrowser Google Chrome. Es existieren Google-Apps für iOS, Android und Windows, in denen unter anderem auch mit Sprache gesucht werden kann. Zudem gibt es die Google Toolbar für den Internet Explorer.
+Wenn der Benutzer nach dem Eintippen des Suchbegriffes auf die Schaltfläche Auf gut Glück klickt, wird er direkt zum ersten Suchergebnis weitergeleitet. Diese Funktion ist nur in der Desktop-Version verfügbar.
+Mit der Vorstellung des Chatbots Bard kündigte Google an die Suche um KI-gestützte Funktionen zu erweitern.
+
+
+=== Knowledge Graph ===
+Im Dezember 2012 führte Google den „Knowledge Graph“ ein, eine semantische Such-Funktion, die bei bestimmten Suchbegriffen wie Tieren, Pflanzen, Orten, Bauwerken und berühmten Menschen, aber auch bei sachlichen Begriffen wie Kugel oder Salzsäure eine Detailansicht mit Daten und einem Teil der Einleitung des entsprechenden Wikipedia-Artikels anzeigt. Bei geographischen oder ortsfesten Begriffen, wie Bauwerken oder z. B. Baumarkt München wird zudem eine durch Anklicken vergrößerbare Google-Maps-Karte mit markierten Standort(en) eingeblendet. Ebenfalls werden ähnliche Suchbegriffe bzw. Objekte angezeigt. Auch beantwortet Google nun selber einfache Fragen. So wird z. B. bei der Frage: „Wie hoch ist der Eiffelturm?“ noch über dem ersten Ergebnis die Antwort eingeblendet. Der „Knowledge Graph“ bietet die Grundlage für Google Now und Google Home. Die Informationen dafür stammen aus öffentlichen Lexika wie Wikipedia und dem CIA World Factbook.
+
+
+=== Zusatzfunktionen ===
+Die Hauptanwendung von Google ist die Suche nach Internetseiten, Google bietet aber auch andere Funktionen, von denen hier eine kleine Auswahl vorgestellt wird:
+
+Taschenrechner: Bei Eingabe einfacher mathematischer Schreibweisen wie z. B. „2+5(4/5)^8“ gibt Google das Ergebnis der Rechnung (= 2.8388608) zurück.
+Funktionsgraphen: Durch die Eingabe einer Funktion wie „y=x*x“ wird diese in einem Graphen angezeigt, in diesem Beispiel eine Normalparabel.
+Einheitenrechner: Es können auch Einheiten umgerechnet werden, etwa „inch in cm“, „usd in euro“ oder „l/100 km in miles/gallon“
+Adressen-Suche: Wer eine Adresse bei der Google-Suche eingibt, bekommt diese auf einer Karte von Google Maps angezeigt.
+Übersetzer: Beim Eingeben von „Übersetzung“ („Translate“ bei der englischen Sprachversion) und einem beliebigen Wort übersetzt Google dieses automatisch. Oftmals reicht auch schon die alleinige Eingabe des Begriffs ohne den Zusatz „Übersetzung“, um diese angezeigt zu bekommen. Auf Wunsch kann man sich die Aussprache des Wortes anhören.
+Wetter: Durch die Eingabe von „Wetter“ und dem Namen der Stadt erscheint der Wetterbericht für die kommenden sieben Tage.
+
+
+=== Erweiterte Suche ===
+Die Google-Suche unterstützt neben einfachen Begriffen auch eine erweiterte Syntax. Die erweiterte Syntax kann entweder direkt im Suchfeld eingegeben werden oder über den Menüpunkt „erweiterte Suche“. Google unterstützt einerseits Boolesche Operatoren sowie spezielle Schlüsselbegriffe. Ein Schlüsselbegriff wird dabei durch einen Doppelpunkt „:“ gekennzeichnet. Es darf bei den Schlüsselbegriffen kein Leerzeichen auf den Doppelpunkt folgen.
+Neben den offiziell von Google gelisteten Schlüsselbegriffen bzw. Suchoperatoren gibt es noch weitere, welche ebenfalls existieren, jedoch nicht in der Google-eigenen Übersicht auftauchen. Nachfolgend ist eine kleine Auswahl dargestellt.
+
+Alternativ können die Ergebnisse für die Schlüsselbegriffe „Im Cache“ und „Ähnliche Seiten“ auch über ein Pulldown-Menü aufgerufen werden. Das Menü verbirgt sich hinter dem Pfeil bei einem angezeigten Ergebnis.
+Die angewendeten Suchformeln lassen sich in Form der URL, die Google bei einer Suche ausgibt, speichern, wiederholen und verlinken.
+
+
+=== Verschlüsselte Suchanfragen ===
+Im Oktober 2011 kündigte Google an, Suchanfragen auf eine verschlüsselte Verbindung umzustellen, damit Angreifer im selben Netzwerk keine persönlichen Daten der Anwender mitlesen können. Im ersten Schritt wurde die Google-Suche für alle Personen mit Google-Konto bei der Eingabe von HTTP-URLs automatisch auf eine  über HTTPS-Verbindung weitergeleitet; nicht angemeldete Nutzer mussten jedoch die HTTPS-Adresse weiterhin selbst eingeben, falls das nicht durch eine Browsererweiterung wie HTTPS Everywhere automatisch erfolgte. Google setzt für die HTTPS-Anfragen Perfect Forward Secrecy bei der Schlüssel-Verhandlung ein (ECDHE-ECDSA). 2016 wurde bei der Domain google.com den Sicherheitsmechanismus HTTP Strict Transport Security (HSTS) implementiert. Das bedeutet, dass ein unverschlüsselter Zugriff auf diese Google-Domain nicht mehr möglich ist. 2016 lag der Anteil verschlüsselter Verbindungen zu Google bei rund 80 Prozent.
+
+
+=== Internationalisierung ===
+Die Google-Website ist in 173 Sprachen internationalisiert. Google bietet für viele dieser Sprachen eigene Domains, unter anderem google.de (Deutschland), .li (Liechtenstein), .at (Österreich) und .ch (Schweiz). Die Oberfläche von Google wird auch in den Kunstsprachen Klingonisch, Elmer Fudd, Piratisch, Hacker und Bork, bork, bork! angeboten.
+
+
+=== Google Doodle ===
+
+Ein Google Doodle („Gekritzel“ oder „Kritzelei“) ist ein zeitweiser Ersatz für das normale Google-Logo. Anlässe sind meist Geburtstage bekannter Persönlichkeiten, Wahlen oder Jahrestage. Das erste Doodle erschien im Jahr 1998, damals noch sehr einfach gehalten. Ihre Gestaltung wird immer aufwendiger, oft sind nicht einmal mehr die Buchstaben erkennbar. Das erste interaktive Doodle gab es 2010 zum Jubiläum des Spieles Pac-Man. Ein Jahr darauf erhielt Google ein Patent auf die Doodles. Das Patent beschreibt ein System, das eine sich regelmäßig ändernde Handlung oder ein Unternehmenslogo für spezielle Ereignisse bereitstellt, um Benutzer auf eine Website zu führen. Mittlerweile erscheint fast jeden Tag ein neues Doodle, welches nicht unbedingt weltweit sichtbar ist.
+
+
+== Technik ==
+
+
+=== Arbeitsweise der Suche ===
+Die Google-Suchmaschine folgt mit Hilfe von Webcrawlern den gefundenen Links und versucht so, viele publizierte Seiten in ihren Suchindex aufzunehmen. Dabei werden die Seiten nach Suchbegriffen und Schlüsselwörtern aufgegliedert.
+Google zielt darauf ab, den Nutzern die Suchergebnisse nach Relevanz sortiert zu liefern. Die exakte Funktionsweise der Ergebnissortierung ist Googles Betriebsgeheimnis. Google möchte damit auch verhindern, dass nicht relevante Seiten durch Manipulationen der Anbieter unangemessen hoch in den Ergebnissen präsentiert werden. Diese Anbieter wenden dazu Methoden der Suchmaschinenoptimierung an. Eine solche Optimierung ist in bestimmtem Maße von Google erwünscht, etwa um die Seite für Googles Algorithmen verständlicher zu gestalten. Webmaster können Probleme auf ihrer Website, die Google beim crawlen festgestellt hat, in der Google Search Console sehen und ihre Website mit Hilfe von Google Page Speed optimieren.
+Der Sortieralgorithmus der Suchergebnisse stützt sich unter anderem auf ein patentiertes Verfahren, das den sogenannten PageRank-Wert errechnet. Dieser repräsentiert die Linkpopularität, d. h., er gibt an, wie gut und von wem ein Dokument verlinkt ist. Neben dem PageRank werden weitere Faktoren in die Sortierung einbezogen, z. B. das Auftreten der Suchbegriffe im Dokumententitel, in Überschriften oder als Ankertext in verweisenden Dokumenten. Google gibt an, mehr als 200 Faktoren in die Berechnung einfließen zu lassen.Google passt seine Algorithmen laufend an, um auf neue Trends zu reagieren. Wichtige Veränderungen wurden insbesondere mit den Updates Google Panda (2011), Google Penguin (2012), Mobilegeddon (2015) und Google Fred (2017) vorgenommen. Die wichtigste Modifikation des Suchalgorithmus war der 2013 neu eingeführte Algorithmus Hummingbird, der zum Zeitpunkt der Einführung rund 90 % aller Suchanfragen beeinflusste. Hummingbird bewertet neben der Linkpopularität auch die Verbindung zwischen den einzelnen Wörtern einer Suchanfrage. Dies ist von Bedeutung, weil Suchen zunehmend über die Spracheingabe von Smartphones stattfinden.Aber auch gleichzeitig durchgeführte Suchen mit dem gleichen Suchbegriff führen nicht zur gleichen Reihenfolge der Ergebnisse auf Google. So bezieht Google etwa auch den Standort des Benutzers und die von ihm ausgewählte Sprache in die Sortierung ein. Auch sind die Suchergebnisse immer mehr personalisiert worden. In dem sogenannten Webprotokoll speichert Google u. a. die durchgeführten Suchvorgänge sowie die daraufhin besuchten Seiten. Damit soll es für den jeweiligen Benutzer relevantere Ergebnisse liefern, in dem es annimmt, dass etwa jemand, der sich in der Vergangenheit für die Sportart Golf und damit verwandte Begriffe interessiert hat, bei einer Suche nach „Golf“ eher wieder die Sportart meint und nicht etwa das Auto VW Golf.
+Im Jahr 2021 kündigte Google an, ab 2022 auf Tracking-basierte personalisierte Werbung zu verzichten. Cookies würden dann lediglich lokal auf Endnutzergeräten gesammelt. Anstelle von Daten über individuelles Kaufverhalten werde Google nur noch Kohorten-Daten verkaufen. Die Einführung der FLoC-Technologie, die die lokale Datensammlung ermöglichen sollte, wurde aber auf 2023 verschoben und könnte im EU-Raum aufgrund von Datenschutzgesetzen nicht legal sein.
+
+
+==== Indexgröße ====
+Die ungefähre Anzahl der Dokumente im Index der Websuche wurde während der ersten sieben Jahre unten auf der Hauptseite eingeblendet. Seit dem siebten Geburtstag des Unternehmens Google im September 2005 wird die Größe des Index nicht mehr auf der Hauptseite angezeigt, da laut Eric Schmidt keine eindeutige Zählweise existiert.
+Außerdem existierte im Juni 2005 nach eigener Aussage ein Index von 1.187.630.000 Bildern, einer Milliarde Usenet-Artikeln, 6600 Katalogen und 4500 Nachrichtenquellen. Im Juli 2008 ermittelte Google nach eigenen Angaben das Vorhandensein von mehr als einer Billion URLs im World Wide Web. Im Jahr 2012 waren Google bereits über 30 Billionen URLs bekannt, wovon mehr als 20 Milliarden durchschnittlich täglich gecrawlt werden.
+
+
+==== Manipulation der Suchergebnisse ====
+Wegen seiner bedeutenden Marktposition ist Google ein häufiges Ziel von Suchmaschinen-Spamming. Dabei wird versucht, gute Positionen bei möglichst vielen Suchbegriffen zu erzielen. Diese Suchbegriffe haben oft nichts mit dem eigentlichen Inhalt der Seite zu tun. Manipulationen mit dem Zweck, die Ergebnis-Platzierung („ranking“) von Websites speziell bei Google zu verbessern, werden als Google Spamming bezeichnet. Versuche, konkurrierende Internetseiten aus den Google-Ergebnissen „herauszukegeln“, bezeichnet man als Google Bowling.
+Seit Januar 2006 geht Google stärker gegen unseriöse Methoden bei der Optimierung von Webseiten vor. Als erste Konsequenz des von Google-Mitarbeiter Matt Cutts angekündigten verschärften Kampfes gegen Spam in Deutschland und anderen nicht-angelsächsischen Ländern entfernte die Suchmaschine die Online-Fahrzeugbörse Automobile.de und den Fahrzeughersteller BMW aus ihrem Index. Ihnen wurde vorgeworfen, durch massiven Einsatz von Schlüsselwörtern (Spam), Doorway Pages und JavaScript-Weiterleitungen Suchergebnisse zum eigenen Vorteil unlauter optimiert zu haben. Die Seite von BMW wurde bereits nach wenigen Tagen wieder in den Index aufgenommen, nachdem der Betreiber die strittigen „Doorway Pages“ entfernt hatte. Google variiert regelmäßig seine Algorithmen zur Bestimmung der Rangfolge von Suchergebnissen, um den Missbrauch zu verhindern oder zumindest zu erschweren.
+Bei einer Google-Bombe werden die Google-Suchergebnisse für eine bestimmte Webseite durch vielfaches Setzen von Links manipuliert. Google-Bomben werden vielfach eingesetzt, um Webseiten bestimmter Personen gezielt mit oft diffamierenden Schlagworten in Verbindung zu bringen. Google änderte 2007 ihren Algorithmus jedoch, um das Google-Bombing zu erschweren. Erstmals im größeren Umfang öffentlich wahrgenommen wurde die Möglichkeit der Suchmaschinenmanipulation im Zusammenhang mit einer Google-Bombe, die sich auf den amerikanischen Präsidenten George W. Bush bezog. Der Suchbegriff „miserable failure“ (zu Deutsch: „klägliches Scheitern“ oder „jämmerlicher Versager“) wurde von Bush-Gegnern mit seiner offiziellen Biografie verknüpft. Im Gegenzug versuchten Bush-Unterstützer dasselbe mit Michael Moore. Durch die Änderung des Algorithmus 2007 erscheint die Biografie nun jedoch nicht mehr in der Suche.
+
+
+=== Hardware ===
+Durch Ablage der einzelnen Datenstrukturen (Indizes, Dokumentenkopien, Verzeichnisse aller Art) auf verschiedenen Rechnern und die große Anzahl verfügbarer Einzelrechner lassen sich Anfragen sehr schnell beantworten, da durch die Parallelisierung der zu erledigenden Arbeit nur ein Bruchteil der Zeit benötigt wird, die ein einzelner Rechner benötigen würde. Praktisch beschäftigen sich bis zu 1000 Einzelrechner mit jeder Suchanfrage. Eine Antwortzeit von höchstens einer halben Sekunde wird als Richtwert angestrebt. Die schnelle Lieferung von Ergebnissen hatte auch frühzeitig zur Popularität von Google beigetragen, weil die Konkurrenz oft mehr Zeit benötigte. Insbesondere bei inkrementellen Anfragen, also immer weiter verfeinerten Anfragen des Benutzers, der das jeweils vorherige Suchergebnis berücksichtigt, ist die Zeitersparnis insgesamt deutlich spürbar.Google hat im Jahr 2012 bekannt gegeben, dass der Bedarf an elektrischer Energie einer Google-Suche 0,3 Wattstunden beträgt.
+
+
+=== Software ===
+
+Als Betriebssystem wird eine modifizierte Linux-Distribution verwendet. Die Programmiersprachen C, C++ und Python sind die wesentliche Basis der Implementierung der proprietären Suchmaschinensoftware.Der zentrale Aspekt aller verteilten Google-Anwendungen, allen voran die Indizierung des Internets und die Suche darin, ist der von Google entwickelte Algorithmus MapReduce für die automatisierte Parallelisierung von Arbeitsaufträgen in Clustern. Der Entwickler muss bei diesem speziellen Programmierstil nur zwei Hooks implementieren, die, in Anlehnung an entsprechend benannte und ähnlich arbeitende Funktionen der Lisp-Sprachfamilie, map und reduce genannt werden.
+Die Map-Funktion erzeugt dabei in allen entsprechend entworfenen Anwendungen aus allen Eingabedaten (zum Beispiel der Gesamtheit aller betrachteten Webseiten) eine Liste von Zwischenresultaten in Form von Wertepaaren, die einen Schlüssel mit einem symbolischen Wert kombinieren. Zum Beispiel wird so für jedes Vorkommen von „Wert“ in einem Text ein Paar ('Wert','1') erzeugt – jedes Mal, wenn die Funktion auf das Wort trifft. Die Menge der Zwischenresultate wird dann durch die Reduce-Funktion derart reduziert, dass mit jedem Schlüssel nur noch ein symbolischer Wert assoziiert ist, der sich aus der Menge aller symbolischen Werte für diesen Schlüssel in den Zwischenergebnissen ergibt. Eine typische Aufgabe wäre, unter Rückgriff auf das Beispiel weiter oben, alle (beispielsweise 43) Paare ('Wert','1') je Schlüssel zu einem einzigen Paar pro Schlüssel zu kombinieren – etwa ('Wert','43').Die Leistung von MapReduce ist nun, dass alle anderen Aufgaben, die mit der Parallelisierung dieser Aufgaben zusammenhängen und sich prinzipiell für alle solch parallelisierten Anwendungen wiederholen, vom Framework übernommen werden. Es kümmert sich um die Verteilung der Funktionalitäten der Daten und Zwischenergebnisse und um das Sammeln der Ergebnisse und beinhaltet zudem Maßnahmen zur Fehlerbehandlung durch redundante oder wiederholte Ausführung, zum Beispiel wenn ein einzelner Rechner ausfällt oder so schlechte Leistungen zeigt, dass er die Fertigstellung des Gesamtergebnisses übermäßig verzögern würde.
+Google selbst setzt den Algorithmus in steigendem Maße für seine eigene Arbeit ein. Nach Einführung von MapReduce im Jahre 2003 hatte sich die Anzahl der Produktionsanwendungen in der Code-Bibliothek von Google innerhalb von zwei Jahren auf fast 1000 Anwendungen deutlich vervielfacht. In der zentralen Anwendung, dem Aufbau des Dokumenten-Indexes für die Suchmaschine selbst, sind 24 Instanzen von MapReduce hintereinander geschaltet.
+
+
+=== Einbettungen der Google-Suche ===
+
+Die Google-Suche lässt sich über vorgefertigte Code-Fragmente in eine Webseite einbinden. Diese Möglichkeit nutzen auch alternative Google-Oberflächen von Drittanbietern, z. B. Blackle, das durch seinen schwarzen Seitenhintergrund beim Energiesparen vor allem bei der Nutzung eines CRT-Bildschirms helfen soll.
+
+
+== Übertragene Bedeutungen ==
+
+
+=== Verb „googeln“ ===
+Der Rechtschreib-Duden nahm das Verb googeln (sprich: [ˈɡuːɡl̩n] „guhg(e)ln“) 2004 in die 23. Auflage auf; das Österreichische Wörterbuch folgte 2006.2006 ließ Google diverse Zeitungs- und Wörterbuchredaktionen durch seine Anwälte auffordern, „to google“ oder „googeln“ nicht allgemein als die „Suche im Internet“ zu bezeichnen, um einer Gattungsbegriffbildung und damit dem Verlust des Markenschutzes vorzubeugen. Bekannt geworden sind ein Einfluss auf die Duden-Redaktion und auf Merriam-Webster’s Collegiate Dictionary. Auch der schwedische Sprachenrat sah sich gezwungen, das Wort ogooglebar „ungooglebar“ in generischer Bedeutung („nicht mit einer Suchmaschine zu finden“) aus einer Liste von Neologismen zu streichen, um einer juristischen Auseinandersetzung mit Google zu entgehen. Auf eine Bitte von Google wurde der Eintrag in der 24. Auflage des Dudens als „mit Google im Internet suchen“ bzw. „mit der Suchmaschine Google eine Information im Internet suchen“ im Österreichischen Wörterbuch genauer definiert.
+
+
+=== „Dr. Google“ ===
+Wird Google als Hilfe und Ratgeber bei Gesundheitsfragen verwendet, wird davon gesprochen, „Dr. Google“ zu befragen. Nach der Bertelsmann Stiftung sucht in Deutschland über die Hälfte der Menschen im Internet nach ärztlichen Informationen. Über 90 % der Nutzer zeigt sich zufrieden mit den Suchergebnissen, welche dem aufgesuchten Arzt aber häufig verschwiegen werden. Allerdings raten Experten dazu, sich nicht auf Suchergebnisse bei Google zu verlassen und auf jeden Fall einen Arzt aufzusuchen.
+
+
+== Rechtliche Einschränkungen ==
+
+
+=== Eingriffe in die Suchvorschläge ===
+Der deutsche Bundesgerichtshof entschied 2013, dass Google bestimmte automatische Suchvorschläge („Autovervollständigung“, „autocomplete“) entfernen muss, wenn sie Persönlichkeitsrechte verletzen, sobald Google über solch eine Rechtsverletzung informiert wurde (BGH, Urteil vom 14. Mai 2013, Az. VI ZR 269/12). Bei der Eingabe des Namens des klagenden Unternehmers hatte Google die Suche um die Begriffe „Scientology“ und „Betrug“ ergänzt. Ein Recht auf Schadensersatz besteht jedoch laut einem Urteil des Oberlandesgerichts Köln nicht.In einem ähnlichen Fall einigten sich Bettina Wulff und Google 2015 außergerichtlich.2014 verbot das Landgericht Köln Google in einem einstweiligen Verfügungsverfahren, die Eingabe eines Firmennamens mit den Ergänzungsvorschlägen „Betrug“ oder „Betrugsverdacht“ zu kombinieren (OLG Köln, Beschluss vom 26. November 2014, Az. 28 O 518/14).
+
+
+=== Bereinigung der Suchergebnisse ===
+In der Schweiz können private Personen eine Löschung eines Links fordern, sofern ein Link im Zusammenhang mit der eigenen Person im Suchergebnis von Google erscheint. Diesbezüglich muss sich Google Inc. an das Bundesgesetz über den Datenschutz halten.
+Auch in Deutschland und anderen Staaten blendet Google mitunter Suchergebnisse aus, die nicht mit den nationalen Gesetzen vereinbar sind.
+Google bereinigt die Suchergebnisse von Websites mit strafbaren oder jugendgefährdenden Inhalten. Anfangs wurden wegen Urheberrechtsverletzung auch Seiten der Scientology-Kirche herausgefiltert. Mittlerweile entfernt Google alle Inhalte, für die jemand bei Google eine infringement notification (deutsch: „Rechtsverletzungsbescheid“) gemäß dem US-amerikanischen Digital Millennium Copyright Act einreicht. Um wie viele Seiten es sich handelt und inwieweit derzeit eine Ausweitung auf andere Inhalte wie zum Beispiel kinderpornografische oder politisch extremistische Inhalte stattfindet, ist nicht bekannt. Die Filtertechnik von Google wird auch als SafeSearch-Filtertechnik bezeichnet. Dieser Name wurde erstmals von Google verwendet. Weitere Suchmaschinen bieten heute diese Filtertechnik an, um jugendgefährdende und pornografische Inhalte auszufiltern. Der Benutzer wird über einen Hinweis auf die Filterung der Suchergebnisse „aus Rechtsgründen“ aufmerksam gemacht. Dabei wird auf eine Erläuterung verwiesen, dass Google über unrechtmäßige Inhalte informiert wurde. Einzelheiten darüber sind im Hinweis verlinkt.Im August 2012 wurde bekannt, dass Google ab sofort auch Seiten mit urheberrechtsverletzenden Inhalten aus den Suchergebnisse entfernen oder deren Bewertung entsprechend herabsetzen will. Ausdrücklich ausgenommen davon ist die Google-Tochterfirma YouTube.
+
+
+=== Recht auf Vergessenwerden ===
+
+Im Mai 2014 urteilte der Europäische Gerichtshof, dass Google auf Verlangen Suchergebnisse entfernen muss, wenn sie das Recht auf Privatsphäre und Datenschutz einer Person verletzen. Im selben Monat stellte Google ein Online-Formular bereit, mit dem Nutzer die Löschung von Inhalten aus der Trefferliste in Auftrag geben können.
+Als Reaktion auf Kritik an seiner Umsetzung des EuGH-Urteils vom 13. Mai 2014 zum Recht auf Vergessenwerden hat Google einen Beirat mit externen Experten aus europäischen Ländern gegründet, der bei der Erarbeitung eines Lösch-Leitfadens beraten soll. Aus Deutschland gehört dem ohne Entlohnung tätigen, achtköpfigen Gremium die ehemalige Bundesjustizministerin Sabine Leutheusser-Schnarrenberger an. Weitere Mitglieder sind der Wikipedia-Mitgründer Jimmy Wales, die französische Journalistin Sylvie Kauffmann (Zeitung Le Monde), der ehemalige spanische Datenschutzbeauftragte José Luis Piñar Mañas, der UN-Sonderberichterstatter für das Recht auf Meinungsfreiheit und freie Meinungsäußerung, Frank William La Rue, die belgische Medienrechtsprofessorin Peggy Valcke von der Katholieke Universiteit Leuven, der italienische Informationsethik-Philosoph Luciano Floridi (Universität Oxford) und die Direktorin des polnischen Trust for Civil Society in Central and Eastern Europe, Lidia Kolucka-Zuk.
+
+
+=== Lumen Database ===
+Die Lumen Database, eine von einem Institut der Harvard University für Google betriebene Datenbank, beinhaltet Informationen über Änderungen am Suchindex auf richterliche Anordnungen hin.
+
+
+== Easter Eggs ==
+Auf einigen Websites versteckten Google-Programmierer Easter Eggs, also scherzhafte Überraschungen. Einige wurden bekannt, so etwa:
+
+Einige Text-Eingaben werden als Zahlen gedeutet. Dazu gehören „answer to life, the universe and everything“, eine Anspielung auf Douglas Adams’ Werk Per Anhalter durch die Galaxis, in dem 42 die Antwort auf die Frage „nach dem Leben, dem Universum und dem ganzen Rest“ ist, „number of horns on a unicorn“ (deutsch: „Anzahl der Hörner eines Einhorns“) sowie the loneliest number (Deutsch: Die einsamste Zahl) mit dem Wert 1, und “once in a blue moon” ist 1.16699016 × 10−8 Hertz. Mit diesen Eingaben sind auch Berechnungen möglich.
+Auf einige Anfragen erhält man scherzhafte Antworten. Beim englischen Suchbegriff “anagram” (deutsch: „Anagramm“) erhält man: “Did you mean: nag a ram” (deutsch: „Meinten Sie: nag a ram“). Gibt man „Anagramm“ auf Deutsch ein, erscheint ebenfalls ein Anagramm von Anagramm: Meinten Sie: „mama rang?“ und bei der Suche nach „recursion“ (deutsch: „Rekursion“) wird der Vorschlag „Did you mean: recursion“ angezeigt, obwohl man das Wort richtig schrieb. Klickt man darauf, erscheint die Seite wieder, mit demselben Vorschlag. In der deutschen Google-Ausgabe ist dies auch mit „Rekursion“ möglich.
+Sucht man nach „chess“, wird der Google-Schriftzug unten auf der Seite, der zu den verschiedenen Ergebnisseiten führt, mit Schachfiguren anstelle der Buchstaben des Unternehmenslogos dargestellt.
+Wer seit dem 27. April 2012 „Zerg Rush“ sucht, sieht kleine zerstörende Kreise. Sie lassen Suchergebnisse von oben herab verschwinden, bis die Kreise ein bildschirmfüllendes „GG“ (für: Good Game) bilden. Man kann die Kreise im Mauszeiger-Fadenkreuz abschießen wie im Spiel StarCraft, nur ist dies schwierig.
+Am unteren Rand der internen Suchstatistik Google Zeitgeist 2012 befindet sich ein Balken in den Google-Farben. Fährt man mit dem Mauszeiger darüber, erscheint der Android-Roboter und tanzt im Gangnam Style.
+Gibt man beim amerikanischen „Google Bilder“ das Wort Atari Breakout ein, erscheint das Spiel Atari Breakout. Dabei kann man alle Bildergebnisse mit einem Ball abschießen. Bei Erfolg folgt die nächste Seite der Bildergebnisse. Verliert man alle Leben, beginnt man erneut. Das Easter Egg findet man nicht in der deutschsprachigen Bild-Suche.
+
+
+== Kritik ==
+
+
+=== Datenschutz ===
+Die Suchmaschine Google und Google Inc., die nach Gründung anfänglich eine sehr gute Presse hatten, werden in jüngerer Zeit häufig wegen Datenschutzproblemen kritisiert. So wurden nach Ankündigung im Rahmen einer angeblichen „Vereinfachung“ der Datenschutzbestimmungen ab März 2012 Daten über Nutzer quer über alle Dienste von Google Inc. ausgewertet, um einen möglichst vielfältigen Wissensstand über alle Lebensbereiche eines Nutzers aufbauen zu können.
+Die Personalisierung der Suchergebnisse wurde unter anderem von der Wochenzeitung Die Zeit kritisiert. Im Juni 2011 schrieb sie: „Wenn wir mit Google suchen oder Neuigkeiten bei Facebook lesen, passt das Netz sich unmerklich unseren Vorlieben an. Was bedeutet diese Verengung der Welt?“
+
+
+=== Mögliche Manipulation der Suchergebnisse durch Google ===
+Wiederholt werden Vorwürfe der Manipulation der Suchergebnisse durch Google geäußert, die allerdings zumeist nicht beweisbar sind. In internen E-Mails, die im September 2018 publik wurden, diskutierten Google-Mitarbeiter, wie sie nach Präsident Trumps Einreisestopp für Bürger aus sieben Ländern die Suche manipulieren könnten, um die Benutzer auf Pro-Migrations-Seiten zu lenken und ihnen zu zeigen, wie man Politiker und Regierungsstellen in der Sache kontaktieren kann. Google bestreitet, dass diese Ideen umgesetzt wurden.
+
+
+=== Anpassungen für den chinesischen Markt: „Project Dragonfly“ ===
+Google arbeitete für die Rückkehr auf den chinesischen Markt am „Projekt Dragonfly“. Obwohl Google kaum Details dazu bekannt gab, bestand die Befürchtung, dass diese Suchmaschine Begriffe auf Wunsch der chinesischen Regierung zensieren oder dem Regime Zugriff auf individuelle Daten der Nutzer geben wird. Laut dem mit der Programmierung von Projekt Dragonfly betrauten Softwareentwickler Jack Poulsen, der aus Protest kündigte, sollte Google auf Wunsch Pekings innerhalb des neuen Produkts Suchanfragen chinesischer Nutzer mit deren individuellen Handynummern verknüpfen und so völlig transparent machen, wer in China nach welchen Begriffen sucht.In einer Anhörung im Justizausschuss des US-Senats im Juli 2019 erklärte Karan Bhatia, bei Google für die Regierungsbeziehungen zuständig, dass das Projekt eingestellt wurde. Ein Firmensprecher bestätigte daraufhin: „Wir haben keine Pläne, eine Suchapplikation in China zu starten. Es laufen keine Arbeiten an einem solchen Projekt.“ Zuvor berichtete das Magazin The Intercept, dass es Hinweise gäbe, dass an dem Code für das Projekt weiterhin Änderungen vorgenommen würden.
+
+
+== Literatur ==
+
+
+=== Berichte ===
+Florian Rötzer: Die Welt ist keineswegs alles, was Google auflistet. In: Telepolis. 25. Oktober 2002, abgerufen am 18. Dezember 2017. 
+Internet: Die wachsende Macht der Suchmaschinen (Memento vom 9. März 2014 im Internet Archive), FAZ, 28. Juni 2006
+Gerald Reischl: Die Google-Falle. Die unkontrollierte Weltmacht im Internet. 5. Auflage. Carl Ueberreuter Verlag, Wien 2008, ISBN 978-3-8000-7323-8. 
+Lars Reppesgaard: Das Google-Imperium. Murmann-Verlag GmbH, Hamburg 2008, ISBN 978-3-86774-046-3. 
+Douglas Edwards: Google-Mitarbeiter Nr. 59. Redline Verlag, München 2012, ISBN 978-3-86881-331-9. 
+Jo Bager: Gooliath. In: c’t. Nr. 11. Heise Zeitschriften Verlag, 5. Mai 2014, ISSN 0724-8679, S. 128–133. 
+Torsten Fricke, Ulrich Novak, Robert Epstein, Thomas Höppner: Die Akte Google. Wie der US-Konzern Daten missbraucht, die Welt manipuliert und Jobs vernichtet. Herbig, München 2015, ISBN 978-3-7766-2763-3. 
+
+
+=== Wissenschaftliche Werke ===
+Henk van Ess: Der Google-Code. Addison-Wesley, München 2011, ISBN 978-3-8273-3036-9.
+Kai Lehmann, Michael Schetsche, Die Google-Gesellschaft. Vom digitalen Wandel des Wissens, (2. Auflage), Bielefeld: transcript 2007, ISBN 978-3-89942-780-6
+Hektor Haarkötter: Google & mehr: Online-Recherche. Wie Sie exakte Treffer auf Ihre Suchanfragen erhalten, Köln: Halem 2016, ISBN 978-3-86764-684-0
+Steven Levy: Google Inside. Wie Google denkt, arbeitet und unser Leben verändert. mitp, Heidelberg 2012, ISBN 978-3-8266-9243-7. (Amerikanische Originalausgabe: In the Plex. How Google Thinks, Works and Shapes Our Lives. Simon & Schuster, New York 2011)
+Marcel Machill, Markus Beiler, Martin Zenker: Journalistische Recherche im Internet. Bestandsaufnahme journalistischer Arbeitsweisen in Zeitungen, Hörfunk, Fernsehen und Online. In: Schriftenreihe Medienforschung der Landesanstalt für Medien Nordrhein-Westfalen. Band 60. Vistas, 2008, ISBN 978-3-89158-480-4 (Journalistische Recherche im Internet (Memento vom 19. April 2009 im Internet Archive) [PDF]). 
+Birgit Stark, Dieter Dörr und Stefan Aufenanger (Hrsg.): Die Googleisierung der Informationssuche. Suchmaschinen zwischen Nutzung und Regulierung. Verlag de Gruyter, Berlin/Boston, Massachusetts, USA 2014, ISBN 978-3-11-033818-8.
+
+
+== Weblinks ==
+google.com
+Blog von Google
+Trailer | Billionen von Fragen: Ein Blick hinter die Kulissen der Google Suche auf YouTube, abgerufen am 7. August 2022.
+Literatur zu Google Suche im Katalog der Deutschen Nationalbibliothek
+
+
+== Einzelnachweise ==

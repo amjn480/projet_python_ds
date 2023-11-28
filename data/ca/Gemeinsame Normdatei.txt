@@ -1,0 +1,18 @@
+El Gemeinsame Normdatei (abreujat GND), en anglès Integrated Authority File (IAF), és un control d'autoria internacional per l'organització de noms personals, encapçalaments de tema i organitzacions corporatives de catàlegs. Es fa servir principalment per documentació en biblioteques i arxius. El GND és controlat per la Biblioteca Nacional d'Alemanya en cooperació amb diverses xarxes de biblioteques. El GND es troba dins de la llicència Creative Commons Zero (C00).L'especificació GND proveeix una jerarquia d'entitats d'alt nivell i subclasses, útils per la classificació bibliotecària, i una aproximació a la identificació inequívoca d'elements. També comprèn una ontologia de noms de propietats i tipus de dades, pensats per la representació del coneixement en el web semàntic, disponible en el format XML.Alguns altres controls d'autoria són: Virtual International Authority File (VIAF), Autories de la Biblioteca del Congrés dels Estats Units (LCNAF), Autoritats Web NDL de la Biblioteca Nacional de la Dieta del Japó i LIBRIS de la Biblioteca Nacional de Suècia.
+
+
+== Tipus d'entitats GND d'alt nivell ==
+El Gemeinsame Normdatei esdevingué operatiu l'abril de 2012 i integra el contingut dels següents controls d'autoria que, des de llavors, són obsolets:
+
+Personennamendatei (PND)
+Gemeinsame Körperschaftsdatei (GKD)
+Schlagwortnormdatei (SWD)
+Einheitssachtitel-Datei des Deutschen Musikarchivs (DMA-EST)En el moment de la seva introducció (5 d'abril de 2012) el GND contenia 9.493.860 entrades, incloent-hi 2,650,000 noms personalitzats.
+Hi ha sis tipus principals d'entitats GND:
+
+
+== Referències ==
+
+
+== Enllaços externs ==
+Search via OGND (anglès), (alemany)

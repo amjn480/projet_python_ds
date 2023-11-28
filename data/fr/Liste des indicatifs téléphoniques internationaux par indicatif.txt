@@ -1,0 +1,63 @@
+Voici la liste des indicatifs téléphoniques internationaux, classés par indicatif, permettant d'utiliser les services téléphoniques vers un autre pays et d'identifier un appel venant d'un pays étranger.
+Un indicatif téléphonique international est un préfixe téléphonique utilisé dans les numéros de téléphone des pays ou des régions membres de l'Union internationale des télécommunications. L'indicatif indique le pays où se trouve le propriétaire du numéro.
+La liste est établie par l'Union internationale des télécommunications, dans sa recommandation UIT-T E.164 et ses annexes qui sont régulièrement mises à jour.
+
+
+== Indicatifs téléphoniques internationaux par zones géographiques ==
+
+
+== Tableaux des indicatifs classés par zone ==
+Attention : certains indicatifs internationaux listés ci-dessous comportent 1 chiffre (Russie, États-Unis), d’autres 2 chiffres, 3 chiffres ou même 4 chiffres pour certains pays (zone Caraïbes). Si un indicatif à 3 chiffres n’existe pas dans les tableaux (ex. : +343), il faut utiliser l'indicatif à 2 chiffres correspondant, dans l’exemple précédent : + 34 = Espagne, donc +34x = numéro espagnol. Si un indicatif à 2 ou 3 chiffres n’existe pas, il s'agit probablement d'un indicatif à 1 chiffre : Russie / Kazakhstan (zone 7 : +7) ou États-Unis / Canada (zone 1 : +1).
+
+
+=== Zone 0 : Réservée ===
+La zone 0 est pour l'instant réservée à une utilisation future non encore établie.
+
+
+=== Zone 1 : États-Unis et leurs territoires du Pacifique, Canada, Caraïbes (en partie), Bermudes ===
+La zone 1 couvre les États-Unis et leurs territoires du Pacifique, le Canada, ainsi que certaines parties des Caraïbes et les Bermudes. Toute la zone est gérée par la North American Numbering Plan Administration (NANPA, Administration du plan de numérotation nord-américaine) et possède un unique indicatif : +1. Presque tout le reste de l’Amérique se trouve en zone 5 (sauf le Groenland et Aruba en zone 2).
+
+
+=== Zone 2 : Afrique (principalement) ===
+La zone 2 couvre toute l’Afrique (y compris les îles des océans Atlantique et Indien), ainsi que quelques zones d’Amérique du Nord (le Groenland et Aruba) et d’Europe (les îles Féroé).
+
+
+=== Zone 3 : Europe ===
+La zone 3 est l’une des deux zones, avec la zone 4, qui couvrent presque toute l’Europe (à l’exception des Îles Féroé en zone 2).
+
+
+=== Zone 4 : Europe ===
+La zone 4 est l’une des deux zones qui, avec la zone 3, couvrent presque toute l’Europe (à l’exception des Îles Féroé en zone 2).
+
+
+=== Zone 5 : Mexique, Amérique centrale et méridionale, Antilles ===
+La zone 5 couvre presque tous les autres pays d’Amérique qui ne sont pas gérés par le plan de numérotation nord-américaine (zone 1, à l’exception du Groenland et Aruba en zone 2).
+
+
+=== Zone 6 : Asie du Sud-Est, Pacifique Sud et Océanie ===
+La zone 6 couvre l'Asie du Sud-Est insulaire et la Thaïlande, le Pacifique Sud et l'Océanie.
+
+
+=== Zone 7 : Russie et Kazakhstan ===
+La zone 7 était auparavant attribuée à l'URSS ; il n'y reste que la Russie et le Kazakhstan. 
+
+
+=== Zone 8 : Asie de l'Est, Asie du Sud-Est continentale (sauf Birmanie et Thaïlande) et services spéciaux ===
+La zone 8 couvre l'Asie de l'Est, l'Asie du Sud-Est continentale (sauf la Thaïlande) et est également utilisée pour tous les services téléphoniques spéciaux non géographiques.
+
+
+=== Zone 9 : Asie centrale et du Sud, Proche et Moyen-Orient ===
+La zone 9 couvre quasiment toute l'Asie : le proche et le Moyen-Orient, l'Asie centrale et du Sud.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Liens externes ===
+[PDF] Annexe E164D au Bulletin d'exploitation de l'UIT - avril 2009.
+(en) Site officiel du World Telephone Numbering Guide
+(en) NANPA: North American Numbering Plan Administration, Administration du plan de numérotation nord-américaine.
+ Portail des télécommunications

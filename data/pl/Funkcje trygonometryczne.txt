@@ -1,0 +1,8139 @@
+Funkcje trygonometryczne – funkcje matematyczne, wyrażające między innymi stosunki między długościami boków trójkąta prostokątnego względem miar jego kątów wewnętrznych, będące przedmiotem badań trygonometrii.
+Funkcje trygonometryczne, choć wywodzą się z pojęć geometrycznych, są rozpatrywane także w oderwaniu od geometrii. W analizie matematycznej są one definiowane m.in. za pomocą szeregów potęgowych lub jako rozwiązania pewnych równań różniczkowych.
+Do funkcji trygonometrycznych współcześnie zalicza się: sinus, cosinus (inna pisownia: kosinus), tangens, cotangens (kotangens), secans (sekans), cosecans (kosekans), z czego dwóch ostatnich obecnie rzadko się używa.
+Funkcje trygonometryczne znajdują zastosowanie w wielu działach matematyki, innych naukach ścisłych i technice; działem matematyki badającym te funkcje jest trygonometria, lub ściślej: goniometria.
+
+
+== Definicje ==
+Istnieje wiele równoważnych definicji funkcji trygonometrycznych, zarówno bazujących na pojęciach geometrycznych, jak i analitycznych.
+
+
+=== Definicja z elementów trójkąta prostokątnego ===
+Funkcje trygonometryczne można zdefiniować jako stosunki długości odpowiednich dwóch boków trójkąta prostokątnego (niżej zastosowano typowe oznaczenia, przedstawione na rysunku obok):
+
+sinus – oznaczany w Polsce jako 
+  
+    
+      
+        sin
+      
+    
+    {\displaystyle \sin }
+   – stosunek długości przyprostokątnej 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   leżącej naprzeciw kąta 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   i długości przeciwprostokątnej 
+  
+    
+      
+        c
+        ;
+      
+    
+    {\displaystyle c;}
+  
+cosinus (lub kosinus) – oznaczany w Polsce jako 
+  
+    
+      
+        cos
+      
+    
+    {\displaystyle \cos }
+   – stosunek długości przyprostokątnej 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   przyległej do kąta 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   i przeciwprostokątnej 
+  
+    
+      
+        c
+        ;
+      
+    
+    {\displaystyle c;}
+  
+tangens – oznaczany w Polsce jako 
+  
+    
+      
+        tg
+      
+    
+    {\displaystyle \operatorname {tg} }
+   – stosunek długości przyprostokątnej 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   leżącej naprzeciw kąta 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   i długości przyprostokątnej 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   przyległej do tego kąta;
+cotangens (kotangens) 
+  
+    
+      
+        (
+        
+          
+            
+              1
+              tg
+            
+          
+        
+        )
+      
+    
+    {\displaystyle ({\tfrac {1}{\operatorname {tg} }})}
+   – oznaczany w Polsce jako 
+  
+    
+      
+        ctg
+      
+    
+    {\displaystyle \operatorname {ctg} }
+   – stosunek długości przyprostokątnej 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   przyległej do kąta 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   i długości przyprostokątnej 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   leżącej naprzeciw tego kąta;
+secans (sekans) 
+  
+    
+      
+        (
+        
+          
+            
+              1
+              cos
+            
+          
+        
+        )
+      
+    
+    {\displaystyle ({\tfrac {1}{\cos }})}
+   – oznaczany w Polsce jako 
+  
+    
+      
+        sec
+      
+    
+    {\displaystyle \sec }
+   – stosunek długości przeciwprostokątnej 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   i długości przyprostokątnej 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   przyległej do kąta 
+  
+    
+      
+        α
+        ;
+      
+    
+    {\displaystyle \alpha ;}
+   odwrotność cosinusa (nie mylić z funkcją odwrotną 
+  
+    
+      
+        arccos
+      
+    
+    {\displaystyle \arccos }
+  );
+cosecans (kosekans) 
+  
+    
+      
+        (
+        
+          
+            
+              1
+              sin
+            
+          
+        
+        )
+      
+    
+    {\displaystyle ({\tfrac {1}{\sin }})}
+   – oznaczany w Polsce jako 
+  
+    
+      
+        cosec
+      
+    
+    {\displaystyle \operatorname {cosec} }
+   – stosunek długości przeciwprostokątnej 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   i długości przyprostokątnej 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   leżącej naprzeciw kąta 
+  
+    
+      
+        α
+        ;
+      
+    
+    {\displaystyle \alpha ;}
+   odwrotność sinusa (nie mylić z funkcją odwrotną 
+  
+    
+      
+        arcsin
+      
+    
+    {\displaystyle \arcsin }
+  ).W innych krajach stosowane są inne nazwy funkcji trygonometrycznych.
+Powyższe definicje można zebrać w postaci tabelki:
+
+Dawniej używano też kilku innych funkcji, takich jak:
+
+sinus versus:
+  
+    
+      
+        versin
+        ⁡
+        α
+        =
+        1
+        −
+        cos
+        ⁡
+        α
+      
+    
+    {\displaystyle \operatorname {versin} \alpha =1-\cos \alpha }
+  haversin (ang. half of the versine):
+  
+    
+      
+        haversin
+        ⁡
+        α
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        versin
+        ⁡
+        α
+      
+    
+    {\displaystyle \operatorname {haversin} \alpha ={\tfrac {1}{2}}\operatorname {versin} \alpha }
+  cosinus versus:
+  
+    
+      
+        covers
+        ⁡
+        α
+        =
+        1
+        −
+        sin
+        ⁡
+        α
+      
+    
+    {\displaystyle \operatorname {covers} \alpha =1-\sin \alpha }
+  exsecans:
+  
+    
+      
+        exsec
+        ⁡
+        α
+        =
+        sec
+        ⁡
+        α
+        −
+        1
+      
+    
+    {\displaystyle \operatorname {exsec} \alpha =\sec \alpha -1}
+  Obecnie nie są one używane, choć zastosowanie funkcji haversin upraszczało obliczanie odległości dwóch punktów na powierzchni Ziemi.
+
+
+=== Definicja na okręgu jednostkowym i etymologia nazw ===
+Jeżeli wokół wierzchołka kąta poprowadzony zostanie okrąg o promieniu 1, czyli tzw. okrąg jednostkowy, to funkcje trygonometryczne miary kąta ostrego 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   wyrażać się będą przez długości odpowiednich odcinków:
+
+  
+    
+      
+        sin
+        ⁡
+        θ
+        =
+        
+          |
+        
+        A
+        C
+        
+          |
+        
+      
+    
+    {\displaystyle \sin \theta =|AC|}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        θ
+        =
+        
+          |
+        
+        O
+        C
+        
+          |
+        
+      
+    
+    {\displaystyle \cos \theta =|OC|}
+  
+
+  
+    
+      
+        tg
+        ⁡
+        θ
+        =
+        
+          |
+        
+        A
+        E
+        
+          |
+        
+      
+    
+    {\displaystyle \operatorname {tg} \theta =|AE|}
+  
+
+  
+    
+      
+        ctg
+        ⁡
+        θ
+        =
+        
+          |
+        
+        A
+        F
+        
+          |
+        
+      
+    
+    {\displaystyle \operatorname {ctg} \theta =|AF|}
+  
+
+  
+    
+      
+        sec
+        ⁡
+        θ
+        =
+        
+          |
+        
+        O
+        E
+        
+          |
+        
+      
+    
+    {\displaystyle \sec \theta =|OE|}
+  
+
+  
+    
+      
+        cosec
+        ⁡
+        θ
+        =
+        
+          |
+        
+        O
+        F
+        
+          |
+        
+      
+    
+    {\displaystyle \operatorname {cosec} \theta =|OF|}
+  Alternatywnie, jako argument funkcji trygonometrycznych zamiast długości łuku 
+  
+    
+      
+        D
+        A
+      
+    
+    {\displaystyle DA}
+   można przyjąć pole wycinka 
+  
+    
+      
+        O
+        B
+        D
+        A
+      
+    
+    {\displaystyle OBDA}
+   – ich wartości dla promienia 1 są równe. Definicja na okręgu jednostkowym ma swój odpowiednik dla funkcji hiperbolicznych, gdzie argument funkcji definiowany jest jako pole wycinka hiperboli, analogicznego do 
+  
+    
+      
+        O
+        B
+        D
+        A
+      
+    
+    {\displaystyle OBDA}
+  .
+Definicja ta była historycznie pierwsza. Wynikają z niej nazwy funkcji trygonometrycznych. Pierwotnie tymi nazwami określano właśnie długości odpowiednich odcinków, niekoniecznie na okręgu jednostkowym.
+
+Sinus, czyli połowa długości cięciwy 
+  
+    
+      
+        A
+        B
+        ,
+      
+    
+    {\displaystyle AB,}
+   był w pracach hinduskiego matematyka Aryabhaty w sanskrycie nazywany ardha-jiva („połowa cięciwy”), co zostało skrócone do jiva, a następnie transliterowane do arabskiego jiba (جب). Europejscy tłumacze, Robert z Chester i Gerardo z Cremony w XII-wiecznym Toledo pomylili jiba z jaib (جب), oznaczającym „zatokę” prawdopodobnie dlatego, że jiba (جب) i jaib (جب) są tak samo pisane po arabsku (informacja o samogłoskach jest gubiona w piśmie). Sinus znaczy po łacinie właśnie zatoka.
+Tangens pochodzi od łacińskiego tangere – dotykający, styczny, gdyż odcinek 
+  
+    
+      
+        A
+        E
+      
+    
+    {\displaystyle AE}
+   jest styczny do okręgu.
+Secans pochodzi z łacińskiego secare – dzielić, rozcinać, rozstrzygać i znaczy odcięcie. Pierwotnie nazwa odnosiła się do odcinka 
+  
+    
+      
+        O
+        E
+        ,
+      
+    
+    {\displaystyle OE,}
+   odcinanego przez styczną (tangens).
+Cosinus, cotangens i cosecans powstały przez złożenie łacińskiego co- (wspólnik, towarzysz) i słów sinus, tangens i secans. Pierwotnie cosinus był nazywany complementi sinus, czyli sinus kąta dopełniającego. Rzeczywiście jest on równy sinusowi miary kąta dopełniającego 
+  
+    
+      
+        ∠
+        A
+        O
+        F
+        .
+      
+    
+    {\displaystyle \angle AOF.}
+   Podobnie cotangens i cosecans są równe tangensowi i secansowi tego kąta. Przedrostek „ko-” był jednak używany w stosunku do cosinusa już w sanskrycie u Aryabhaty (koti-jya, kojya); trudno określić, w jakim stopniu nazwa łacińska do tego nawiązuje.
+
+
+=== Definicja za pomocą szeregu Taylora ===
+Definicje za pomocą szeregów określają wartości funkcji trygonometrycznych dla dowolnych liczb rzeczywistych, dla których da się je zdefiniować, pozwalają też na uogólnienie tych funkcji na zbiór liczb zespolonych, kwaternionów, macierzy, a nawet na algebry operatorów, przestrzenie unormowane czy pierścienie nilpotentne. Definicje te są też stosowane do numerycznego obliczania wartości funkcji trygonometrycznych.
+Zachodzą równości:
+
+  
+    
+      
+        
+          
+            
+              
+                sin
+                ⁡
+                x
+              
+              
+                
+                =
+                x
+                −
+                
+                  
+                    
+                      
+                        x
+                        
+                          3
+                        
+                      
+                      
+                        3
+                        !
+                      
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        x
+                        
+                          5
+                        
+                      
+                      
+                        5
+                        !
+                      
+                    
+                  
+                
+                −
+                
+                  
+                    
+                      
+                        x
+                        
+                          7
+                        
+                      
+                      
+                        7
+                        !
+                      
+                    
+                  
+                
+                +
+                …
+                =
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                (
+                −
+                1
+                
+                  )
+                  
+                    n
+                  
+                
+                
+                  
+                    
+                      
+                        x
+                        
+                          2
+                          n
+                          +
+                          1
+                        
+                      
+                      
+                        (
+                        2
+                        n
+                        +
+                        1
+                        )
+                        !
+                      
+                    
+                  
+                
+                ,
+              
+            
+            
+              
+                cos
+                ⁡
+                x
+              
+              
+                
+                =
+                1
+                −
+                
+                  
+                    
+                      
+                        x
+                        
+                          2
+                        
+                      
+                      
+                        2
+                        !
+                      
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        x
+                        
+                          4
+                        
+                      
+                      
+                        4
+                        !
+                      
+                    
+                  
+                
+                −
+                
+                  
+                    
+                      
+                        x
+                        
+                          6
+                        
+                      
+                      
+                        6
+                        !
+                      
+                    
+                  
+                
+                +
+                …
+                =
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                (
+                −
+                1
+                
+                  )
+                  
+                    n
+                  
+                
+                
+                  
+                    
+                      
+                        x
+                        
+                          2
+                          n
+                        
+                      
+                      
+                        (
+                        2
+                        n
+                        )
+                        !
+                      
+                    
+                  
+                
+                ,
+              
+            
+            
+              
+                tg
+                ⁡
+                x
+              
+              
+                
+                =
+                x
+                +
+                
+                  
+                    
+                      
+                        x
+                        
+                          3
+                        
+                      
+                      3
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        2
+                        
+                          x
+                          
+                            5
+                          
+                        
+                      
+                      15
+                    
+                  
+                
+                +
+                …
+                =
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    n
+                    =
+                    1
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      
+                        
+                          B
+                          
+                            2
+                            n
+                          
+                        
+                        (
+                        −
+                        4
+                        
+                          )
+                          
+                            n
+                          
+                        
+                        (
+                        1
+                        −
+                        
+                          4
+                          
+                            n
+                          
+                        
+                        )
+                      
+                      
+                        (
+                        2
+                        n
+                        )
+                        !
+                      
+                    
+                  
+                
+                
+                  x
+                  
+                    2
+                    n
+                    −
+                    1
+                  
+                
+                ,
+                
+                
+                  |
+                
+                x
+                
+                  |
+                
+                <
+                
+                  
+                    
+                      π
+                      2
+                    
+                  
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\sin x&=x-{\tfrac {x^{3}}{3!}}+{\tfrac {x^{5}}{5!}}-{\tfrac {x^{7}}{7!}}+\ldots =\\&=\sum _{n=0}^{\infty }(-1)^{n}{\tfrac {x^{2n+1}}{(2n+1)!}},\\\cos x&=1-{\tfrac {x^{2}}{2!}}+{\tfrac {x^{4}}{4!}}-{\tfrac {x^{6}}{6!}}+\ldots =\\&=\sum _{n=0}^{\infty }(-1)^{n}{\tfrac {x^{2n}}{(2n)!}},\\\operatorname {tg} x&=x+{\tfrac {x^{3}}{3}}+{\tfrac {2x^{5}}{15}}+\ldots =\\&=\sum _{n=1}^{\infty }{\tfrac {B_{2n}(-4)^{n}(1-4^{n})}{(2n)!}}x^{2n-1},\quad |x|<{\tfrac {\pi }{2}},\end{aligned}}}
+  gdzie 
+  
+    
+      
+        
+          B
+          
+            n
+          
+        
+      
+    
+    {\displaystyle B_{n}}
+   to liczby Bernoulliego,
+
+  
+    
+      
+        
+          
+            
+              
+                ctg
+                ⁡
+                x
+              
+              
+                
+                =
+                
+                  
+                    
+                      1
+                      x
+                    
+                  
+                
+                −
+                
+                  
+                    
+                      x
+                      3
+                    
+                  
+                
+                −
+                
+                  
+                    
+                      
+                        x
+                        
+                          3
+                        
+                      
+                      45
+                    
+                  
+                
+                −
+                
+                  
+                    
+                      
+                        2
+                        
+                          x
+                          
+                            5
+                          
+                        
+                      
+                      945
+                    
+                  
+                
+                −
+                …
+                =
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      
+                        (
+                        −
+                        1
+                        
+                          )
+                          
+                            n
+                          
+                        
+                        
+                          2
+                          
+                            2
+                            n
+                          
+                        
+                        
+                          B
+                          
+                            2
+                            n
+                          
+                        
+                        
+                          x
+                          
+                            2
+                            n
+                            −
+                            1
+                          
+                        
+                      
+                      
+                        (
+                        2
+                        n
+                        )
+                        !
+                      
+                    
+                  
+                
+                ,
+                
+                0
+                <
+                
+                  |
+                
+                x
+                
+                  |
+                
+                <
+                π
+                ,
+              
+            
+            
+              
+                sec
+                ⁡
+                x
+              
+              
+                
+                =
+                1
+                +
+                
+                  
+                    
+                      
+                        x
+                        
+                          2
+                        
+                      
+                      2
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        5
+                        
+                          x
+                          
+                            4
+                          
+                        
+                      
+                      24
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        61
+                        
+                          x
+                          
+                            6
+                          
+                        
+                      
+                      720
+                    
+                  
+                
+                +
+                …
+                =
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      
+                        (
+                        −
+                        1
+                        
+                          )
+                          
+                            n
+                          
+                        
+                        
+                          E
+                          
+                            2
+                            n
+                          
+                        
+                      
+                      
+                        (
+                        2
+                        n
+                        )
+                        !
+                      
+                    
+                  
+                
+                
+                  x
+                  
+                    2
+                    n
+                  
+                
+                ,
+                
+                
+                  |
+                
+                x
+                
+                  |
+                
+                <
+                
+                  
+                    
+                      π
+                      2
+                    
+                  
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\operatorname {ctg} x&={\tfrac {1}{x}}-{\tfrac {x}{3}}-{\tfrac {x^{3}}{45}}-{\tfrac {2x^{5}}{945}}-\ldots =\\&=\sum _{n=0}^{\infty }{\tfrac {(-1)^{n}2^{2n}B_{2n}x^{2n-1}}{(2n)!}},\quad 0<|x|<\pi ,\\\sec x&=1+{\tfrac {x^{2}}{2}}+{\tfrac {5x^{4}}{24}}+{\tfrac {61x^{6}}{720}}+\ldots =\\&=\sum _{n=0}^{\infty }{\tfrac {(-1)^{n}E_{2n}}{(2n)!}}x^{2n},\quad |x|<{\tfrac {\pi }{2}},\end{aligned}}}
+  gdzie 
+  
+    
+      
+        
+          E
+          
+            n
+          
+        
+      
+    
+    {\displaystyle E_{n}}
+   to liczby Eulera,
+
+  
+    
+      
+        
+          
+            
+              
+                cosec
+                ⁡
+                x
+              
+              
+                
+                =
+                
+                  
+                    
+                      1
+                      x
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      x
+                      6
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        7
+                        
+                          x
+                          
+                            3
+                          
+                        
+                      
+                      360
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        31
+                        
+                          x
+                          
+                            5
+                          
+                        
+                      
+                      15120
+                    
+                  
+                
+                +
+                …
+                =
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      
+                        (
+                        −
+                        1
+                        
+                          )
+                          
+                            n
+                            +
+                            1
+                          
+                        
+                        2
+                        (
+                        
+                          2
+                          
+                            2
+                            n
+                            −
+                            1
+                          
+                        
+                        −
+                        1
+                        )
+                        
+                          B
+                          
+                            2
+                            n
+                          
+                        
+                        
+                          x
+                          
+                            2
+                            n
+                            −
+                            1
+                          
+                        
+                      
+                      
+                        (
+                        2
+                        n
+                        )
+                        !
+                      
+                    
+                  
+                
+                ,
+                
+                0
+                <
+                
+                  |
+                
+                x
+                
+                  |
+                
+                <
+                π
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\operatorname {cosec} x&={\tfrac {1}{x}}+{\tfrac {x}{6}}+{\tfrac {7x^{3}}{360}}+{\tfrac {31x^{5}}{15120}}+\ldots =\\&=\sum _{n=0}^{\infty }{\tfrac {(-1)^{n+1}2(2^{2n-1}-1)B_{2n}x^{2n-1}}{(2n)!}},\quad 0<|x|<\pi .\end{aligned}}}
+  Każdą z funkcji trygonometrycznych, na dowolnym przedziale zawierającym się w jej dziedzinie, można z dowolną dokładnością jednostajnie przybliżać wielomianami. W otoczeniu zera mogą do tego służyć początkowe wyrazy szeregu Taylora. Nie jest jednak możliwe jednostajne przybliżenie wielomianami funkcji trygonometrycznych w całej ich dziedzinie, jeśli dziedzina przybliżanej funkcji nie jest zbiorem liczb rzeczywistych 
+  
+    
+      
+        
+          R
+        
+        .
+      
+    
+    {\displaystyle \mathbb {R} .}
+  
+
+
+=== Definicja za pomocą równań funkcyjnych ===
+Twierdzenie: Istnieje dokładnie jedna para funkcji rzeczywistych 
+  
+    
+      
+        (
+        s
+        ,
+        c
+        )
+      
+    
+    {\displaystyle (s,c)}
+   taka, że dla każdego 
+  
+    
+      
+        x
+        ,
+        y
+        ∈
+        
+          R
+        
+        
+          :
+        
+      
+    
+    {\displaystyle x,y\in \mathbb {R} {:}}
+  
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  s
+                  (
+                  x
+                  
+                    )
+                    
+                      2
+                    
+                  
+                  +
+                  c
+                  (
+                  x
+                  
+                    )
+                    
+                      2
+                    
+                  
+                  =
+                  1
+                
+              
+              
+                
+                  s
+                  (
+                  x
+                  +
+                  y
+                  )
+                  =
+                  s
+                  (
+                  x
+                  )
+                  c
+                  (
+                  y
+                  )
+                  +
+                  c
+                  (
+                  x
+                  )
+                  s
+                  (
+                  y
+                  )
+                
+              
+              
+                
+                  c
+                  (
+                  x
+                  +
+                  y
+                  )
+                  =
+                  c
+                  (
+                  x
+                  )
+                  c
+                  (
+                  y
+                  )
+                  −
+                  s
+                  (
+                  x
+                  )
+                  s
+                  (
+                  y
+                  )
+                
+              
+              
+                
+                  0
+                  <
+                  x
+                  c
+                  (
+                  x
+                  )
+                  <
+                  s
+                  (
+                  x
+                  )
+                  <
+                  x
+                   
+                  
+                    d
+                    l
+                    a
+                  
+                   
+                  0
+                  <
+                  x
+                  <
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}s(x)^{2}+c(x)^{2}=1\\[2pt]s(x+y)=s(x)c(y)+c(x)s(y)\\[2pt]c(x+y)=c(x)c(y)-s(x)s(y)\\[2pt]0<xc(x)<s(x)<x\ \mathrm {dla} \ 0<x<1\end{cases}}}
+  Tymi funkcjami są:
+
+  
+    
+      
+        s
+        (
+        x
+        )
+        =
+        sin
+        ⁡
+        x
+        ,
+        
+        c
+        (
+        x
+        )
+        =
+        cos
+        ⁡
+        x
+        .
+      
+    
+    {\displaystyle s(x)=\sin x,\quad c(x)=\cos x.}
+  Funkcje trygonometryczne sinus i cosinus można zdefiniować również jako jedyne funkcje 
+  
+    
+      
+        s
+        (
+        x
+        )
+      
+    
+    {\displaystyle s(x)}
+   oraz 
+  
+    
+      
+        c
+        (
+        x
+        )
+      
+    
+    {\displaystyle c(x)}
+   spełniające poniższe trzy warunki:
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  s
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  −
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                  =
+                  s
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  )
+                  c
+                  (
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                  −
+                  c
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  )
+                  s
+                  (
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                
+              
+              
+                
+                  c
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  −
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                  =
+                  c
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  )
+                  c
+                  (
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                  +
+                  s
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  )
+                  s
+                  (
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                
+              
+              
+                
+                  
+                    lim
+                    
+                      x
+                      →
+                      0
+                    
+                  
+                  
+                    
+                      
+                        
+                          s
+                          (
+                          x
+                          )
+                        
+                        x
+                      
+                    
+                  
+                  =
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}s(x_{1}-x_{2})=s(x_{1})c(x_{2})-c(x_{1})s(x_{2})\\[2pt]c(x_{1}-x_{2})=c(x_{1})c(x_{2})+s(x_{1})s(x_{2})\\[2pt]\lim _{x\to 0}{\tfrac {s(x)}{x}}=1\end{cases}}}
+  
+
+
+=== Definicja za pomocą równań różniczkowych ===
+Sinus i cosinus są rozwiązaniami szczególnymi równania różniczkowego
+
+  
+    
+      
+        
+          y
+          ″
+        
+        =
+        −
+        y
+        ,
+      
+    
+    {\displaystyle y''=-y,}
+  które opisuje m.in. ruch masy podwieszonej na sprężynie (tzw. oscylator harmoniczny, patrz Harmoniki).
+Sinus jest jedynym rozwiązaniem tego równania spełniającym warunki:
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  y
+                  (
+                  0
+                  )
+                  =
+                  0
+                
+              
+              
+                
+                  y
+                  
+                    
+                    ′
+                  
+                  (
+                  0
+                  )
+                  =
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}y(0)=0\\[2pt]y\,'(0)=1\end{cases}}}
+  Cosinus natomiast jest jedynym rozwiązaniem, dla którego
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  y
+                  (
+                  0
+                  )
+                  =
+                  1
+                
+              
+              
+                
+                  y
+                  
+                    
+                    ′
+                  
+                  (
+                  0
+                  )
+                  =
+                  0
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}y(0)=1\\[2pt]y\,'(0)=0\end{cases}}}
+  
+
+
+=== Definicja za pomocą iloczynów nieskończonych ===
+Funkcje trygonometryczne można też wprowadzić za pomocą iloczynów nieskończonych:
+
+  
+    
+      
+        sin
+        ⁡
+        x
+        =
+        x
+        
+          ∏
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  
+                    
+                      π
+                      
+                        2
+                      
+                    
+                    
+                      n
+                      
+                        2
+                      
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \sin x=x\prod _{n=1}^{\infty }\left(1-{\tfrac {x^{2}}{\pi ^{2}n^{2}}}\right),}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        x
+        =
+        
+          ∏
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  
+                    
+                      π
+                      
+                        2
+                      
+                    
+                    (
+                    n
+                    −
+                    
+                      
+                        1
+                        2
+                      
+                    
+                    
+                      )
+                      
+                        2
+                      
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \cos x=\prod _{n=1}^{\infty }\left(1-{\tfrac {x^{2}}{\pi ^{2}(n-{\frac {1}{2}})^{2}}}\right).}
+  
+
+
+=== Definicja za pomocą ułamków łańcuchowych ===
+Niektóre funkcje trygonometryczne można wyrazić w postaci ułamków łańcuchowych:
+
+  
+    
+      
+        sin
+        ⁡
+        x
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  x
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              x
+                              
+                                2
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            (
+                            2
+                            ⋅
+                            3
+                            −
+                            
+                              x
+                              
+                                2
+                              
+                            
+                            )
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      2
+                                      ⋅
+                                      3
+                                      
+                                        x
+                                        
+                                          2
+                                        
+                                      
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      (
+                                      4
+                                      ⋅
+                                      5
+                                      −
+                                      
+                                        x
+                                        
+                                          2
+                                        
+                                      
+                                      )
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                4
+                                                ⋅
+                                                5
+                                                
+                                                  x
+                                                  
+                                                    2
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                (
+                                                6
+                                                ⋅
+                                                7
+                                                −
+                                                
+                                                  x
+                                                  
+                                                    2
+                                                  
+                                                
+                                                )
+                                                +
+                                                …
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \sin x={\cfrac {x}{1+{\cfrac {x^{2}}{(2\cdot 3-x^{2})+{\cfrac {2\cdot 3x^{2}}{(4\cdot 5-x^{2})+{\cfrac {4\cdot 5x^{2}}{(6\cdot 7-x^{2})+\ldots }}}}}}}},}
+  
+
+  
+    
+      
+        tg
+        ⁡
+        x
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  x
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  1
+                  −
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              x
+                              
+                                2
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            3
+                            −
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      
+                                        x
+                                        
+                                          2
+                                        
+                                      
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      5
+                                      −
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                
+                                                  x
+                                                  
+                                                    2
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                7
+                                                −
+                                                …
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            x
+                          
+                        
+                      
+                    
+                  
+                  −
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      3
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      x
+                                    
+                                  
+                                
+                              
+                            
+                            −
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                5
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                x
+                                              
+                                            
+                                          
+                                        
+                                      
+                                      −
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                1
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                
+                                                  
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          7
+                                                        
+                                                      
+                                                    
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          x
+                                                        
+                                                      
+                                                    
+                                                  
+                                                
+                                                −
+                                                …
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \operatorname {tg} x={\cfrac {x}{1-{\cfrac {x^{2}}{3-{\cfrac {x^{2}}{5-{\cfrac {x^{2}}{7-\ldots }}}}}}}}={\cfrac {1}{{\cfrac {1}{x}}-{\cfrac {1}{{\cfrac {3}{x}}-{\cfrac {1}{{\cfrac {5}{x}}-{\cfrac {1}{{\cfrac {7}{x}}-\ldots }}}}}}}},}
+  
+
+  
+    
+      
+        ctg
+        ⁡
+        x
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  x
+                
+              
+            
+          
+        
+        −
+        
+          
+            
+              
+                
+              
+              
+                
+                  x
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  3
+                  −
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              x
+                              
+                                2
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            5
+                            −
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      
+                                        x
+                                        
+                                          2
+                                        
+                                      
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      7
+                                      −
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                
+                                                  x
+                                                  
+                                                    2
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                9
+                                                −
+                                                …
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \operatorname {ctg} x={\cfrac {1}{x}}-{\cfrac {x}{3-{\cfrac {x^{2}}{5-{\cfrac {x^{2}}{7-{\cfrac {x^{2}}{9-\ldots }}}}}}}}}
+  
+
+
+=== Definicje za pomocą ogólniejszych funkcji ===
+Funkcje trygonometryczne można też zdefiniować analitycznie jako szczególne przypadki funkcji Bessela, funkcji Mathieu albo funkcji eliptycznych Jacobiego.
+
+
+== Własności ==
+
+
+=== Funkcje trygonometryczne zmiennej rzeczywistej ===
+
+
+==== Przebieg zmienności funkcji ====
+W matematyce na poziomie szkół średnich i w wielu praktycznych zastosowaniach rozpatruje się funkcje trygonometryczne dla argumentu będącego liczbą rzeczywistą. Mają one wówczas następujące własności:
+
+Dziedzina i asymptotyFunkcje sinus i cosinus określone są dla każdej liczby rzeczywistej.
+Tangens jest określony w zbiorze powstałym ze zbioru wszystkich liczb rzeczywistych przez usunięcie liczb mających postać 
+  
+    
+      
+        
+          
+            
+              π
+              2
+            
+          
+        
+        +
+        k
+        π
+        ,
+      
+    
+    {\displaystyle {\tfrac {\pi }{2}}+k\pi ,}
+   gdzie 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   jest liczbą całkowitą.
+Cotangens jest określony w zbiorze wszystkich liczb rzeczywistych poza liczbami postaci 
+  
+    
+      
+        k
+        π
+        ,
+      
+    
+    {\displaystyle k\pi ,}
+   gdzie 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   jest liczbą całkowitą.
+Tangens i secans mają asymptoty pionowe w punktach postaci 
+  
+    
+      
+        x
+        =
+        
+          
+            
+              π
+              2
+            
+          
+        
+        +
+        k
+        π
+        ,
+      
+    
+    {\displaystyle x={\tfrac {\pi }{2}}+k\pi ,}
+   a cotangens i cosecans w punktach postaci 
+  
+    
+      
+        x
+        =
+        k
+        π
+        .
+      
+    
+    {\displaystyle x=k\pi .}
+   Żadna z tych funkcji nie ma asymptot innego rodzaju.PrzeciwdziedzinaSinus i cosinus są ograniczone: przyjmują wartości z przedziału 
+  
+    
+      
+        [
+        −
+        1
+        ,
+        1
+        ]
+        .
+      
+    
+    {\displaystyle [-1,1].}
+   Tangens i cotangens przyjmują dowolne wartości rzeczywiste, a secans i cosecans wartości ze zbioru 
+  
+    
+      
+        (
+        −
+        ∞
+        ,
+        −
+        1
+        ]
+        ∪
+        [
+        1
+        ,
+        ∞
+        )
+        .
+      
+    
+    {\displaystyle (-\infty ,-1]\cup [1,\infty ).}
+  EkstremaMaksymalną wartość, dla obu funkcji 
+  
+    
+      
+        1
+        ,
+      
+    
+    {\displaystyle 1,}
+   sinus przyjmuje w punktach 
+  
+    
+      
+        x
+        =
+        
+          
+            
+              π
+              2
+            
+          
+        
+        +
+        2
+        k
+        π
+        ,
+      
+    
+    {\displaystyle x={\tfrac {\pi }{2}}+2k\pi ,}
+   a cosinus w punktach 
+  
+    
+      
+        x
+        =
+        2
+        k
+        π
+        ,
+      
+    
+    {\displaystyle x=2k\pi ,}
+   gdzie 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   jest liczbą całkowitą.
+Minimalną wartość, dla obu funkcji 
+  
+    
+      
+        −
+        1
+        ,
+      
+    
+    {\displaystyle -1,}
+   sinus przyjmuje w punktach 
+  
+    
+      
+        x
+        =
+        −
+        
+          
+            
+              π
+              2
+            
+          
+        
+        +
+        2
+        k
+        π
+        ,
+      
+    
+    {\displaystyle x=-{\tfrac {\pi }{2}}+2k\pi ,}
+   a cosinus w punktach 
+  
+    
+      
+        x
+        =
+        π
+        +
+        2
+        k
+        π
+        ,
+      
+    
+    {\displaystyle x=\pi +2k\pi ,}
+   gdzie 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   jest liczbą całkowitą.Miejsca zeroweMiejscami zerowymi sinusa i tangensa są punkty postaci 
+  
+    
+      
+        x
+        =
+        k
+        π
+        ,
+      
+    
+    {\displaystyle x=k\pi ,}
+   gdzie 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   jest liczbą całkowitą.
+Miejscami zerowymi cosinusa i cotangensa są punkty postaci 
+  
+    
+      
+        x
+        =
+        
+          
+            
+              π
+              2
+            
+          
+        
+        +
+        k
+        π
+        ,
+      
+    
+    {\displaystyle x={\tfrac {\pi }{2}}+k\pi ,}
+   gdzie 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   jest liczbą całkowitą.Parzystość i nieparzystośćFunkcje sinus, tangens, cotangens, cosecans są nieparzyste, a funkcje cosinus i secans parzyste:
+
+  
+    
+      
+        
+          
+            
+              
+                sin
+                ⁡
+                (
+                −
+                x
+                )
+                =
+                −
+                sin
+                ⁡
+                x
+              
+              
+                cos
+                ⁡
+                (
+                −
+                x
+                )
+                =
+                cos
+                ⁡
+                x
+              
+            
+            
+              
+                tg
+                ⁡
+                (
+                −
+                x
+                )
+                =
+                −
+                tg
+                ⁡
+                x
+              
+              
+                ctg
+                ⁡
+                (
+                −
+                x
+                )
+                =
+                −
+                ctg
+                ⁡
+                x
+              
+            
+            
+              
+                sec
+                ⁡
+                (
+                −
+                x
+                )
+                =
+                sec
+                ⁡
+                x
+              
+              
+                cosec
+                ⁡
+                (
+                −
+                x
+                )
+                =
+                −
+                cosec
+                ⁡
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{l l}\sin(-x)=-\sin x&\cos(-x)=\cos x\\\operatorname {tg} (-x)=-\operatorname {tg} x&\operatorname {ctg} (-x)=-\operatorname {ctg} x\\\sec(-x)=\sec x&\operatorname {cosec} (-x)=-\operatorname {cosec} x\end{array}}}
+  OkresowośćFunkcje trygonometryczne są funkcjami okresowymi. Okresem podstawowym sinusa, cosinusa, secansa i cosecansa jest liczba 
+  
+    
+      
+        2
+        π
+        ,
+      
+    
+    {\displaystyle 2\pi ,}
+   a tangensa i cotangensa 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  :
+
+  
+    
+      
+        
+          
+            
+              
+                sin
+                ⁡
+                x
+                =
+                sin
+                ⁡
+                (
+                x
+                +
+                2
+                k
+                π
+                )
+              
+              
+                cos
+                ⁡
+                x
+                =
+                cos
+                ⁡
+                (
+                x
+                +
+                2
+                k
+                π
+                )
+              
+            
+            
+              
+                tg
+                ⁡
+                x
+                =
+                tg
+                ⁡
+                (
+                x
+                +
+                k
+                π
+                )
+              
+              
+                ctg
+                ⁡
+                x
+                =
+                ctg
+                ⁡
+                (
+                x
+                +
+                k
+                π
+                )
+              
+            
+            
+              
+                sec
+                ⁡
+                x
+                =
+                sec
+                ⁡
+                (
+                x
+                +
+                2
+                k
+                π
+                )
+              
+              
+                cosec
+                ⁡
+                x
+                =
+                cosec
+                ⁡
+                (
+                x
+                +
+                2
+                k
+                π
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{l l}\sin x=\sin(x+2k\pi )&\cos x=\cos(x+2k\pi )\\\operatorname {tg} x=\operatorname {tg} (x+k\pi )&\operatorname {ctg} x=\operatorname {ctg} (x+k\pi )\\\sec x=\sec(x+2k\pi )&\operatorname {cosec} x=\operatorname {cosec} (x+2k\pi )\end{array}}}
+  gdzie 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   jest liczbą całkowitą.
+Ciągłość i różniczkowalnośćFunkcje sinus i cosinus są ciągłe i różniczkowalne w każdym punkcie prostej rzeczywistej. Tangens, cotangens, secans i cosecans także są ciągłe i różniczkowalne w swoich dziedzinach (zob. wyżej).OdwracalnośćŻadna z nich nie jest różnowartościową, a zatem nie istnieją funkcje odwrotne do funkcji trygonometrycznych w całej dziedzinie. W pewnych przedziałach funkcje te są jednak różnowartościowe i można tam określić funkcje do nich odwrotne.Własności algebraiczneFunkcje trygonometryczne zalicza się do funkcji elementarnych. Nie są one jednak funkcjami algebraicznymi.
+Liczby 
+  
+    
+      
+        sin
+        ⁡
+        x
+      
+    
+    {\displaystyle \sin x}
+   oraz 
+  
+    
+      
+        cos
+        ⁡
+        x
+      
+    
+    {\displaystyle \cos x}
+   są liczbami algebraicznymi dla dowolnych liczb postaci 
+  
+    
+      
+        x
+        =
+        r
+        π
+        ,
+      
+    
+    {\displaystyle x=r\pi ,}
+   gdzie 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   jest liczbą wymierną.
+
+
+==== Wykresy ====
+Krzywe, będące wykresami funkcji sinus, cosinus, tangens, cotangens nazywa się odpowiednio: sinusoidą, cosinusoidą (kosinusoidą), tangensoidą i cotangensoidą (kotangensoidą).
+Cosinusoida jest sinusoidą przesuniętą o wektor 
+  
+    
+      
+        
+          [
+          
+            −
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            ,
+            0
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle \left[-{\tfrac {\pi }{2}},0\right].}
+   Szare linie pionowe na dolnych wykresach to asymptoty. Wykresy można powiększyć przez kliknięcie myszką.
+
+			
+			
+		
+		
+			
+			
+		
+
+			
+			
+		
+		
+			
+			
+		
+
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Wartości dla typowych kątów ====
+Wartości funkcji trygonometrycznych dla kątów 0°, 15°, 30°, 45°, 60°, 75°, 90°, 180°:
+
+Wartości wszystkich funkcji trygonometrycznych dla argumentów postaci 
+  
+    
+      
+        
+          
+            
+              
+                n
+                π
+              
+              m
+            
+          
+        
+        ,
+        n
+        ∈
+        
+          Z
+        
+        ,
+        m
+        ∈
+        
+          
+            N
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {n\pi }{m}},n\in \mathbb {Z} ,m\in \mathbb {N_{+}} }
+   dają się zapisać za pomocą skończonego wzoru z użyciem podstawowych działań arytmetycznych i pierwiastka kwadratowego wtedy i tylko wtedy, gdy po skróceniu ułamka 
+  
+    
+      
+        
+          
+            
+              n
+              m
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {n}{m}}}
+   liczba 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   jest iloczynem potęgi dwójki i różnych liczb pierwszych Fermata (jak dotąd znanych jest pięć takich liczb: 3, 5, 17, 257, 65537). W szczególności nie da się zapisać w ten sposób dokładnej wartości funkcji kąta 1°, gdyż 
+  
+    
+      
+        
+          1
+          
+            ∘
+          
+        
+        =
+        
+          
+            
+              π
+              180
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle 1^{\circ }={\tfrac {\pi }{180}},}
+   a 
+  
+    
+      
+        180
+        =
+        
+          2
+          
+            2
+          
+        
+        ⋅
+        
+          3
+          
+            2
+          
+        
+        ⋅
+        5
+      
+    
+    {\displaystyle 180=2^{2}\cdot 3^{2}\cdot 5}
+   ma drugą potęgę przy trójce. Warunek na 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   jest identyczny jak warunek konstruowalności 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  -kąta foremnego za pomocą cyrkla i linijki (por. twierdzenie Gaussa-Wantzela).
+
+
+==== Wzory redukcyjne ====
+Wzory redukcyjne pozwalają sprowadzić dowolny rzeczywisty argument funkcji trygonometrycznej do argumentu z przedziału 
+  
+    
+      
+        [
+        0
+        ,
+        
+          
+            
+              π
+              2
+            
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle [0,{\tfrac {\pi }{2}}),}
+   czyli 
+  
+    
+      
+        [
+        
+          0
+          
+            ∘
+          
+        
+        ,
+        
+          90
+          
+            ∘
+          
+        
+        )
+      
+    
+    {\displaystyle [0^{\circ },90^{\circ })}
+  :
+
+Aby zapamiętać zmianę funkcji, można wspomagać się następującą obserwacją: funkcja przechodzi w swoją kofunkcję, jeżeli rozpatrywany kąt ma postać 
+  
+    
+      
+        
+          90
+          
+            ∘
+          
+        
+        ±
+        α
+      
+    
+    {\displaystyle 90^{\circ }\pm \alpha }
+   bądź 
+  
+    
+      
+        
+          270
+          
+            ∘
+          
+        
+        ±
+        α
+        ,
+      
+    
+    {\displaystyle 270^{\circ }\pm \alpha ,}
+   w przypadkach 
+  
+    
+      
+        
+          0
+          
+            ∘
+          
+        
+        ±
+        α
+        =
+        
+          360
+          
+            ∘
+          
+        
+        ±
+        α
+      
+    
+    {\displaystyle 0^{\circ }\pm \alpha =360^{\circ }\pm \alpha }
+   oraz 
+  
+    
+      
+        
+          180
+          
+            ∘
+          
+        
+        ±
+        α
+      
+    
+    {\displaystyle 180^{\circ }\pm \alpha }
+   funkcja nie ulega zmianie. Znaki w poszczególnych ćwiartkach układu dla odpowiednich funkcji w powyższej tabelce zgodne są ze znakami redukowanych funkcji w danej ćwiartce według tabeli:
+
+Metodą mnemotechniczną zapamiętania znaków dla stosowanych najczęściej w redukcji pierwszych czterech spośród powyższych funkcji jest popularny wierszyk nieznanego autora:
+
+W pierwszej ćwiartce są dodatnie,
+w drugiej tylko sinus,
+w trzeciej tangens i cotangens,
+a w czwartej cosinus.W innych wersjach pierwszy wers brzmi:
+
+W pierwszej ćwiartce same plusy lub W pierwszej wszystkie są dodatnie.
+
+
+==== Podstawowe tożsamości trygonometryczne ====
+Związki między funkcjami trygonometrycznymi spełnione dla dowolnego argumentu ich dziedziny to tzw. tożsamości trygonometryczne. Są one prawdziwe zarówno w dziedzinie rzeczywistej, jak i zespolonej. Często używane są:
+
+jedynka trygonometryczna:
+  
+    
+      
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        α
+        +
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        α
+        =
+        1
+      
+    
+    {\displaystyle \sin ^{2}\alpha +\cos ^{2}\alpha =1}
+  definicja tangensa i cotangensa za pomocą sinusa i cosinusa (pozwala wyprowadzić tożsamości dla tangensa i cotangensa z tożsamości dla sinusa i cosinusa):
+  
+    
+      
+        
+          
+            
+              
+                tg
+                ⁡
+                α
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        sin
+                        ⁡
+                        α
+                      
+                      
+                        cos
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+                ,
+                
+                α
+                ≠
+                
+                  
+                    
+                      π
+                      2
+                    
+                  
+                
+                +
+                k
+                π
+              
+            
+            
+              
+                ctg
+                ⁡
+                α
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        cos
+                        ⁡
+                        α
+                      
+                      
+                        sin
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+                ,
+                
+                α
+                ≠
+                k
+                π
+              
+            
+          
+        
+        ,
+        
+        k
+        ∈
+        
+          Z
+        
+        .
+      
+    
+    {\displaystyle {\begin{aligned}\operatorname {tg} \alpha &={\tfrac {\sin \alpha }{\cos \alpha }},\;\alpha \neq {\tfrac {\pi }{2}}+k\pi \\\operatorname {ctg} \alpha &={\tfrac {\cos \alpha }{\sin \alpha }},\;\alpha \neq k\pi \end{aligned}},\quad k\in \mathbb {Z} .}
+  wzory na sinus i cosinus sumy i różnicy kątów:
+  
+    
+      
+        sin
+        ⁡
+        (
+        α
+        ±
+        β
+        )
+        =
+        sin
+        ⁡
+        α
+        ⋅
+        cos
+        ⁡
+        β
+        ±
+        cos
+        ⁡
+        α
+        ⋅
+        sin
+        ⁡
+        β
+      
+    
+    {\displaystyle \sin(\alpha \pm \beta )=\sin \alpha \cdot \cos \beta \pm \cos \alpha \cdot \sin \beta }
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        α
+        ±
+        β
+        )
+        =
+        cos
+        ⁡
+        α
+        ⋅
+        cos
+        ⁡
+        β
+        ∓
+        sin
+        ⁡
+        α
+        ⋅
+        sin
+        ⁡
+        β
+      
+    
+    {\displaystyle \cos(\alpha \pm \beta )=\cos \alpha \cdot \cos \beta \mp \sin \alpha \cdot \sin \beta }
+  wzory na sumę i różnicę sinusów i cosinusów:
+  
+    
+      
+        sin
+        ⁡
+        α
+        ±
+        sin
+        ⁡
+        β
+        =
+        2
+        sin
+        ⁡
+        
+          
+            
+              
+                α
+                ±
+                β
+              
+              2
+            
+          
+        
+        ⋅
+        cos
+        ⁡
+        
+          
+            
+              
+                α
+                ∓
+                β
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \sin \alpha \pm \sin \beta =2\sin {\tfrac {\alpha \pm \beta }{2}}\cdot \cos {\tfrac {\alpha \mp \beta }{2}}}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        α
+        +
+        cos
+        ⁡
+        β
+        =
+        2
+        cos
+        ⁡
+        
+          
+            
+              
+                α
+                +
+                β
+              
+              2
+            
+          
+        
+        ⋅
+        cos
+        ⁡
+        
+          
+            
+              
+                α
+                −
+                β
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \cos \alpha +\cos \beta =2\cos {\tfrac {\alpha +\beta }{2}}\cdot \cos {\tfrac {\alpha -\beta }{2}}}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        α
+        −
+        cos
+        ⁡
+        β
+        =
+        −
+        2
+        sin
+        ⁡
+        
+          
+            
+              
+                α
+                +
+                β
+              
+              2
+            
+          
+        
+        ⋅
+        sin
+        ⁡
+        
+          
+            
+              
+                α
+                −
+                β
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \cos \alpha -\cos \beta =-2\sin {\tfrac {\alpha +\beta }{2}}\cdot \sin {\tfrac {\alpha -\beta }{2}}}
+  wzory na sinus i cosinus podwojonego argumentu:
+  
+    
+      
+        sin
+        ⁡
+        2
+        α
+        =
+        2
+        sin
+        ⁡
+        α
+        ⋅
+        cos
+        ⁡
+        α
+      
+    
+    {\displaystyle \sin 2\alpha =2\sin \alpha \cdot \cos \alpha }
+  
+
+  
+    
+      
+        cos
+        ⁡
+        2
+        α
+        =
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        α
+        −
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        α
+        =
+        2
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        α
+        −
+        1
+        =
+        1
+        −
+        2
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        α
+      
+    
+    {\displaystyle \cos 2\alpha =\cos ^{2}\alpha -\sin ^{2}\alpha =2\cos ^{2}\alpha -1=1-2\sin ^{2}\alpha }
+  wzory na sinus i cosinus połowy argumentu:
+  
+    
+      
+        
+          |
+          
+            sin
+            ⁡
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            α
+          
+          |
+        
+        =
+        
+          
+            
+              
+                
+                  1
+                  −
+                  c
+                  o
+                  s
+                  α
+                
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \left|\sin {\tfrac {1}{2}}\alpha \right|={\sqrt {\tfrac {1-cos\alpha }{2}}}}
+  
+
+  
+    
+      
+        
+          |
+          
+            cos
+            ⁡
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            α
+          
+          |
+        
+        =
+        
+          
+            
+              
+                
+                  1
+                  +
+                  c
+                  o
+                  s
+                  α
+                
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \left|\cos {\tfrac {1}{2}}\alpha \right|={\sqrt {\tfrac {1+cos\alpha }{2}}}}
+  iloczyn w postaci sumy:
+  
+    
+      
+        cos
+        ⁡
+        α
+        ⋅
+        cos
+        ⁡
+        β
+        =
+        
+          
+            
+              
+                cos
+                ⁡
+                (
+                α
+                −
+                β
+                )
+                +
+                cos
+                ⁡
+                (
+                α
+                +
+                β
+                )
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \cos \alpha \cdot \cos \beta ={\tfrac {\cos(\alpha -\beta )+\cos(\alpha +\beta )}{2}}}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        α
+        ⋅
+        sin
+        ⁡
+        β
+        =
+        
+          
+            
+              
+                cos
+                ⁡
+                (
+                α
+                −
+                β
+                )
+                −
+                cos
+                ⁡
+                (
+                α
+                +
+                β
+                )
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \sin \alpha \cdot \sin \beta ={\tfrac {\cos(\alpha -\beta )-\cos(\alpha +\beta )}{2}}}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        α
+        ⋅
+        cos
+        ⁡
+        β
+        =
+        
+          
+            
+              
+                sin
+                ⁡
+                (
+                α
+                −
+                β
+                )
+                +
+                sin
+                ⁡
+                (
+                α
+                +
+                β
+                )
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \sin \alpha \cdot \cos \beta ={\tfrac {\sin(\alpha -\beta )+\sin(\alpha +\beta )}{2}}}
+  wzory na wyrażanie jednych funkcji trygonometrycznych przez inne:
+  
+    
+      
+        sin
+        ⁡
+        α
+        =
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            −
+            α
+          
+          )
+        
+      
+    
+    {\displaystyle \sin \alpha =\cos \left({\tfrac {\pi }{2}}-\alpha \right)}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        α
+        =
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            −
+            α
+          
+          )
+        
+      
+    
+    {\displaystyle \cos \alpha =\sin \left({\tfrac {\pi }{2}}-\alpha \right)}
+  
+
+  
+    
+      
+        tg
+        ⁡
+        α
+        =
+        
+          
+            
+              
+                sin
+                ⁡
+                α
+              
+              
+                cos
+                ⁡
+                α
+              
+            
+          
+        
+        =
+        ctg
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            −
+            α
+          
+          )
+        
+        =
+        
+          
+            
+              1
+              
+                ctg
+                ⁡
+                α
+              
+            
+          
+        
+      
+    
+    {\displaystyle \operatorname {tg} \alpha ={\tfrac {\sin \alpha }{\cos \alpha }}=\operatorname {ctg} \left({\tfrac {\pi }{2}}-\alpha \right)={\tfrac {1}{\operatorname {ctg} \alpha }}}
+  
+
+  
+    
+      
+        ctg
+        ⁡
+        α
+        =
+        
+          
+            
+              
+                cos
+                ⁡
+                α
+              
+              
+                sin
+                ⁡
+                α
+              
+            
+          
+        
+        =
+        tg
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            −
+            α
+          
+          )
+        
+        =
+        
+          
+            
+              1
+              
+                tg
+                ⁡
+                α
+              
+            
+          
+        
+      
+    
+    {\displaystyle \operatorname {ctg} \alpha ={\tfrac {\cos \alpha }{\sin \alpha }}=\operatorname {tg} \left({\tfrac {\pi }{2}}-\alpha \right)={\tfrac {1}{\operatorname {tg} \alpha }}}
+  
+
+  
+    
+      
+        sec
+        ⁡
+        α
+        =
+        
+          
+            
+              1
+              
+                cos
+                ⁡
+                α
+              
+            
+          
+        
+        =
+        cosec
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            −
+            α
+          
+          )
+        
+      
+    
+    {\displaystyle \sec \alpha ={\tfrac {1}{\cos \alpha }}=\operatorname {cosec} \left({\tfrac {\pi }{2}}-\alpha \right)}
+  
+
+  
+    
+      
+        cosec
+        ⁡
+        α
+        =
+        
+          
+            
+              1
+              
+                sin
+                ⁡
+                α
+              
+            
+          
+        
+        =
+        sec
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            −
+            α
+          
+          )
+        
+      
+    
+    {\displaystyle \operatorname {cosec} \alpha ={\tfrac {1}{\sin \alpha }}=\sec \left({\tfrac {\pi }{2}}-\alpha \right)}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      sin
+                      
+                        2
+                      
+                    
+                    ⁡
+                    α
+                  
+                  =
+                
+              
+              
+                1
+                −
+                
+                  cos
+                  
+                    2
+                  
+                
+                ⁡
+                α
+                =
+              
+              
+                
+                  
+                    
+                      
+                        
+                          tg
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                      
+                        1
+                        +
+                        
+                          tg
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+                =
+              
+              
+                
+                  
+                    
+                      1
+                      
+                        1
+                        +
+                        
+                          ctg
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                1
+                −
+                
+                  sin
+                  
+                    2
+                  
+                
+                ⁡
+                α
+                =
+              
+              
+                
+                  
+                    
+                      cos
+                      
+                        2
+                      
+                    
+                    ⁡
+                    α
+                  
+                  =
+                
+              
+              
+                
+                  
+                    
+                      1
+                      
+                        1
+                        +
+                        
+                          tg
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+                =
+              
+              
+                
+                  
+                    
+                      
+                        
+                          ctg
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                      
+                        1
+                        +
+                        
+                          ctg
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      
+                        
+                          sin
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                      
+                        1
+                        −
+                        
+                          sin
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+                =
+              
+              
+                
+                  
+                    
+                      
+                        1
+                        −
+                        
+                          cos
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                      
+                        
+                          cos
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+                =
+              
+              
+                
+                  
+                    
+                      tg
+                      
+                        2
+                      
+                    
+                    ⁡
+                    α
+                  
+                  =
+                
+              
+              
+                
+                  
+                    
+                      1
+                      
+                        
+                          ctg
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      
+                        1
+                        −
+                        
+                          sin
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                      
+                        
+                          sin
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+                =
+              
+              
+                
+                  
+                    
+                      
+                        
+                          cos
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                      
+                        1
+                        −
+                        
+                          cos
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+                =
+              
+              
+                
+                  
+                    
+                      1
+                      
+                        
+                          tg
+                          
+                            2
+                          
+                        
+                        ⁡
+                        α
+                      
+                    
+                  
+                
+                =
+              
+              
+                
+                  
+                    
+                      ctg
+                      
+                        2
+                      
+                    
+                    ⁡
+                    α
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}\color {red}{\sin ^{2}\alpha }=&1-\cos ^{2}\alpha =&{\tfrac {\operatorname {tg} ^{2}\alpha }{1+\operatorname {tg} ^{2}\alpha }}=&{\tfrac {1}{1+\operatorname {ctg} ^{2}\alpha }}\\1-\sin ^{2}\alpha =&\color {red}{\cos ^{2}\alpha }=&{\tfrac {1}{1+\operatorname {tg} ^{2}\alpha }}=&{\tfrac {\operatorname {ctg} ^{2}\alpha }{1+\operatorname {ctg} ^{2}\alpha }}\\{\tfrac {\sin ^{2}\alpha }{1-\sin ^{2}\alpha }}=&{\tfrac {1-\cos ^{2}\alpha }{\cos ^{2}\alpha }}=&\color {red}{\operatorname {tg} ^{2}\alpha }=&{\tfrac {1}{\operatorname {ctg} ^{2}\alpha }}\\{\tfrac {1-\sin ^{2}\alpha }{\sin ^{2}\alpha }}=&{\tfrac {\cos ^{2}\alpha }{1-\cos ^{2}\alpha }}=&{\tfrac {1}{\operatorname {tg} ^{2}\alpha }}=&\color {red}{\operatorname {ctg} ^{2}\alpha }\end{matrix}}}
+  (Zastrzeżenie formalne: Równości powyżej są prawdziwe tylko dla argumentów, dla których wszystkie użyte funkcje są określone, a w mianownikach nie występują zera)
+
+
+==== Pochodne funkcji trygonometrycznych ====
+Zachodzą równości:
+
+  
+    
+      
+        
+          sin
+          ′
+        
+        ⁡
+        x
+        =
+        cos
+        ⁡
+        x
+        =
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            +
+            x
+          
+          )
+        
+      
+    
+    {\displaystyle \sin 'x=\cos x=\sin \left({\tfrac {\pi }{2}}+x\right)}
+  
+
+  
+    
+      
+        
+          cos
+          ′
+        
+        ⁡
+        x
+        =
+        −
+        sin
+        ⁡
+        x
+        =
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            +
+            x
+          
+          )
+        
+      
+    
+    {\displaystyle \cos 'x=-\sin x=\cos \left({\tfrac {\pi }{2}}+x\right)}
+  
+
+  
+    
+      
+        
+          tg
+          ′
+        
+        ⁡
+        x
+        =
+        
+          
+            
+              1
+              
+                
+                  cos
+                  
+                    2
+                  
+                
+                ⁡
+                x
+              
+            
+          
+        
+        =
+        
+          sec
+          
+            2
+          
+        
+        ⁡
+        x
+        =
+        1
+        +
+        
+          tg
+          
+            2
+          
+        
+        ⁡
+        x
+        
+          
+             dla 
+          
+        
+        x
+        ≠
+        
+          
+            
+              π
+              2
+            
+          
+        
+        +
+        k
+        π
+        ,
+        k
+        ∈
+        
+          Z
+        
+      
+    
+    {\displaystyle \operatorname {tg} 'x={\tfrac {1}{\cos ^{2}x}}=\sec ^{2}x=1+\operatorname {tg} ^{2}x{\mbox{ dla }}x\neq {\tfrac {\pi }{2}}+k\pi ,k\in \mathbb {Z} }
+  
+
+  
+    
+      
+        
+          ctg
+          ′
+        
+        ⁡
+        x
+        =
+        −
+        
+          
+            
+              1
+              
+                
+                  sin
+                  
+                    2
+                  
+                
+                ⁡
+                x
+              
+            
+          
+        
+        =
+        −
+        
+          cosec
+          
+            2
+          
+        
+        ⁡
+        x
+        =
+        −
+        (
+        1
+        +
+        
+          ctg
+          
+            2
+          
+        
+        ⁡
+        x
+        )
+        
+          
+             dla 
+          
+        
+        x
+        ≠
+        k
+        π
+        ,
+        k
+        ∈
+        
+          Z
+        
+      
+    
+    {\displaystyle \operatorname {ctg} 'x=-{\tfrac {1}{\sin ^{2}x}}=-\operatorname {cosec} ^{2}x=-(1+\operatorname {ctg} ^{2}x){\mbox{ dla }}x\neq k\pi ,k\in \mathbb {Z} }
+  
+
+  
+    
+      
+        
+          sec
+          ′
+        
+        ⁡
+        x
+        =
+        
+          
+            
+              
+                sin
+                ⁡
+                x
+              
+              
+                
+                  cos
+                  
+                    2
+                  
+                
+                ⁡
+                x
+              
+            
+          
+        
+        =
+        tg
+        ⁡
+        x
+        sec
+        ⁡
+        x
+        
+          
+             dla 
+          
+        
+        x
+        ≠
+        
+          
+            
+              π
+              2
+            
+          
+        
+        +
+        k
+        π
+        ,
+        k
+        ∈
+        
+          Z
+        
+      
+    
+    {\displaystyle \sec 'x={\tfrac {\sin x}{\cos ^{2}x}}=\operatorname {tg} x\sec x{\mbox{ dla }}x\neq {\tfrac {\pi }{2}}+k\pi ,k\in \mathbb {Z} }
+  
+
+  
+    
+      
+        
+          cosec
+          ′
+        
+        ⁡
+        x
+        =
+        −
+        
+          
+            
+              
+                cos
+                ⁡
+                x
+              
+              
+                
+                  sin
+                  
+                    2
+                  
+                
+                ⁡
+                x
+              
+            
+          
+        
+        =
+        −
+        ctg
+        ⁡
+        x
+        cosec
+        ⁡
+        x
+        
+          
+             dla 
+          
+        
+        x
+        ≠
+        k
+        π
+        ,
+        k
+        ∈
+        
+          Z
+        
+      
+    
+    {\displaystyle \operatorname {cosec} 'x=-{\tfrac {\cos x}{\sin ^{2}x}}=-\operatorname {ctg} x\operatorname {cosec} x{\mbox{ dla }}x\neq k\pi ,k\in \mathbb {Z} }
+  Można z nich otrzymać pochodne wyższych rzędów:
+
+  
+    
+      
+        
+          sin
+          
+            (
+            n
+            )
+          
+        
+        ⁡
+        x
+        =
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  
+                    n
+                    π
+                  
+                  2
+                
+              
+            
+            +
+            x
+          
+          )
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  sin
+                  ⁡
+                  x
+                
+                
+                  n
+                  =
+                  4
+                  k
+                
+              
+              
+                
+                  cos
+                  ⁡
+                  x
+                
+                
+                  n
+                  =
+                  4
+                  k
+                  +
+                  1
+                
+              
+              
+                
+                  −
+                  sin
+                  ⁡
+                  x
+                
+                
+                  n
+                  =
+                  4
+                  k
+                  +
+                  2
+                
+              
+              
+                
+                  −
+                  cos
+                  ⁡
+                  x
+                
+                
+                  n
+                  =
+                  4
+                  k
+                  +
+                  3
+                
+              
+            
+            
+          
+        
+        
+          
+             dla 
+          
+        
+        k
+        ∈
+        {
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        }
+        ,
+      
+    
+    {\displaystyle \sin ^{(n)}x=\sin \left({\tfrac {n\pi }{2}}+x\right)={\begin{cases}\sin x&n=4k\\[2pt]\cos x&n=4k+1\\[2pt]-\sin x&n=4k+2\\[2pt]-\cos x&n=4k+3\end{cases}}{\mbox{ dla }}k\in \{0,1,2,\dots \},}
+  
+  
+    
+      
+        
+          cos
+          
+            (
+            n
+            )
+          
+        
+        ⁡
+        x
+        =
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  
+                    n
+                    π
+                  
+                  2
+                
+              
+            
+            +
+            x
+          
+          )
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  cos
+                  ⁡
+                  x
+                
+                
+                  n
+                  =
+                  4
+                  k
+                
+              
+              
+                
+                  −
+                  sin
+                  ⁡
+                  x
+                
+                
+                  n
+                  =
+                  4
+                  k
+                  +
+                  1
+                
+              
+              
+                
+                  −
+                  cos
+                  ⁡
+                  x
+                
+                
+                  n
+                  =
+                  4
+                  k
+                  +
+                  2
+                
+              
+              
+                
+                  sin
+                  ⁡
+                  x
+                
+                
+                  n
+                  =
+                  4
+                  k
+                  +
+                  3
+                
+              
+            
+            
+          
+        
+        
+          
+             dla 
+          
+        
+        k
+        ∈
+        {
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        }
+        .
+      
+    
+    {\displaystyle \cos ^{(n)}x=\cos \left({\tfrac {n\pi }{2}}+x\right)={\begin{cases}\cos x&n=4k\\[2pt]-\sin x&n=4k+1\\[2pt]-\cos x&n=4k+2\\[2pt]\sin x&n=4k+3\end{cases}}{\mbox{ dla }}k\in \{0,1,2,\dots \}.}
+  Wzory na 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -te pochodne pozostałych funkcji trygonometrycznych również istnieją, jednak są o wiele bardziej skomplikowane.
+
+
+==== Całki funkcji trygonometrycznych ====
+Podstawowe całki to:
+
+  
+    
+      
+        ∫
+        sin
+        ⁡
+        x
+        
+          d
+        
+        x
+        =
+        −
+        cos
+        ⁡
+        x
+        +
+        C
+        ,
+      
+    
+    {\displaystyle \int \sin x\mathrm {d} x=-\cos x+C,}
+  
+
+  
+    
+      
+        ∫
+        cos
+        ⁡
+        x
+        
+          d
+        
+        x
+        =
+        sin
+        ⁡
+        x
+        +
+        C
+        ,
+      
+    
+    {\displaystyle \int \cos x\mathrm {d} x=\sin x+C,}
+  
+
+  
+    
+      
+        ∫
+        tg
+        ⁡
+        x
+        
+          d
+        
+        x
+        =
+        −
+        ln
+        ⁡
+        
+          |
+        
+        cos
+        ⁡
+        x
+        
+          |
+        
+        +
+        C
+        ,
+      
+    
+    {\displaystyle \int \operatorname {tg} x\mathrm {d} x=-\ln |\cos x|+C,}
+  
+
+  
+    
+      
+        ∫
+        ctg
+        ⁡
+        x
+        
+          d
+        
+        x
+        =
+        ln
+        ⁡
+        
+          |
+        
+        sin
+        ⁡
+        x
+        
+          |
+        
+        +
+        C
+        ,
+      
+    
+    {\displaystyle \int \operatorname {ctg} x\mathrm {d} x=\ln |\sin x|+C,}
+  
+
+  
+    
+      
+        ∫
+        sec
+        ⁡
+        x
+        
+          d
+        
+        x
+        =
+        ln
+        ⁡
+        
+          |
+        
+        sec
+        ⁡
+        x
+        +
+        tg
+        ⁡
+        x
+        
+          |
+        
+        +
+        C
+        ,
+      
+    
+    {\displaystyle \int \sec x\mathrm {d} x=\ln |\sec x+\operatorname {tg} x|+C,}
+  
+
+  
+    
+      
+        ∫
+        cosec
+        ⁡
+        x
+        
+          d
+        
+        x
+        =
+        −
+        ln
+        ⁡
+        
+          |
+        
+        cosec
+        ⁡
+        x
+        +
+        ctg
+        ⁡
+        x
+        
+          |
+        
+        +
+        C
+        ,
+      
+    
+    {\displaystyle \int \operatorname {cosec} x\mathrm {d} x=-\ln |\operatorname {cosec} x+\operatorname {ctg} x|+C,}
+  gdzie 
+  
+    
+      
+        C
+        ∈
+        
+          R
+        
+        .
+      
+    
+    {\displaystyle C\in \mathbb {R} .}
+  
+
+Każda całka funkcji wymiernej postaci 
+  
+    
+      
+        R
+        (
+        sin
+        ⁡
+        x
+        ,
+        cos
+        ⁡
+        x
+        )
+      
+    
+    {\displaystyle R(\sin x,\cos x)}
+   jest elementarna, można ją obliczyć przez podstawienie:
+
+  
+    
+      
+        t
+        =
+        tg
+        ⁡
+        
+          
+            
+              x
+              2
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle t=\operatorname {tg} {\tfrac {x}{2}},}
+  wówczas:
+
+  
+    
+      
+        d
+        ⁡
+        x
+        =
+        
+          
+            
+              
+                2
+                d
+                ⁡
+                t
+              
+              
+                1
+                +
+                
+                  t
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \operatorname {d} x={\tfrac {2\operatorname {d} t}{1+t^{2}}},}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        x
+        =
+        
+          
+            
+              
+                2
+                t
+              
+              
+                1
+                +
+                
+                  t
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \sin x={\tfrac {2t}{1+t^{2}}},}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        x
+        =
+        
+          
+            
+              
+                1
+                −
+                
+                  t
+                  
+                    2
+                  
+                
+              
+              
+                1
+                +
+                
+                  t
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \cos x={\tfrac {1-t^{2}}{1+t^{2}}},}
+  
+
+  
+    
+      
+        tg
+        ⁡
+        x
+        =
+        
+          
+            
+              
+                2
+                t
+              
+              
+                1
+                −
+                
+                  t
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \operatorname {tg} x={\tfrac {2t}{1-t^{2}}},}
+  
+
+  
+    
+      
+        ctg
+        ⁡
+        x
+        =
+        
+          
+            
+              
+                1
+                −
+                
+                  t
+                  
+                    2
+                  
+                
+              
+              
+                2
+                t
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \operatorname {ctg} x={\tfrac {1-t^{2}}{2t}},}
+  
+
+  
+    
+      
+        sec
+        ⁡
+        x
+        =
+        
+          
+            
+              
+                1
+                +
+                
+                  t
+                  
+                    2
+                  
+                
+              
+              
+                1
+                −
+                
+                  t
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \sec x={\tfrac {1+t^{2}}{1-t^{2}}},}
+  
+
+  
+    
+      
+        cosec
+        ⁡
+        x
+        =
+        
+          
+            
+              
+                1
+                +
+                
+                  t
+                  
+                    2
+                  
+                
+              
+              
+                2
+                t
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \operatorname {cosec} x={\tfrac {1+t^{2}}{2t}}.}
+  
+
+
+=== Funkcje trygonometryczne zmiennej zespolonej ===
+Używając definicji analitycznych funkcji trygonometrycznych można te funkcje uogólnić m.in. na liczby zespolone.
+
+
+==== Porównanie z funkcjami zmiennej rzeczywistej ====
+Uogólnione w ten sposób funkcje trygonometryczne zachowują większość własności zmiennej rzeczywistej:
+
+okresowość (w tym okres podstawowy),
+tożsamości trygonometryczne,
+miejsca zerowe,
+punkty nieokreśloności:
+sinus i cosinus są określone w całym zbiorze liczb zespolonych,
+tangens jest określony w zbiorze liczb zespolonych, których usunięto liczby postaci 
+  
+    
+      
+        
+          
+            
+              
+                (
+                2
+                k
+                −
+                1
+                )
+                π
+              
+              2
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\tfrac {(2k-1)\pi }{2}},}
+   a cotangens – punktów postaci 
+  
+    
+      
+        k
+        π
+        ,
+      
+    
+    {\displaystyle k\pi ,}
+   gdzie 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   jest całkowita.Zasadniczą różnicą jest brak ograniczoności funkcji sinus i cosinus. Przykładowo cosinus niezerowego argumentu urojonego jest zawsze liczbą rzeczywistą większą od 
+  
+    
+      
+        1
+        ,
+      
+    
+    {\displaystyle 1,}
+   w szczególności:
+
+  
+    
+      
+        cos
+        ⁡
+        i
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        (
+        
+          e
+          
+            −
+            1
+          
+        
+        +
+        e
+        )
+        ≈
+        1,543
+        ;
+        
+        sin
+        ⁡
+        i
+        =
+        
+          
+            
+              1
+              
+                2
+                i
+              
+            
+          
+        
+        (
+        
+          e
+          
+            −
+            1
+          
+        
+        −
+        e
+        )
+        ≈
+        1,175
+        i
+      
+    
+    {\displaystyle \cos i={\tfrac {1}{2}}(e^{-1}+e)\approx 1{,}543;\qquad \sin i={\tfrac {1}{2i}}(e^{-1}-e)\approx 1{,}175i}
+  Funkcje trygonometryczne zmiennej zespolonej są (nieskończenie) wielokrotne na całej płaszczyźnie zespolonej.
+
+
+==== Części rzeczywiste, urojone, moduły i argumenty ====
+Argument 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   oblicza się według wzorów:
+
+  
+    
+      
+        sin
+        ⁡
+        φ
+        =
+        
+          
+            
+              
+                Im
+                ⁡
+                ω
+              
+              
+                
+                  |
+                
+                ω
+                
+                  |
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \sin \varphi ={\tfrac {\operatorname {Im} \omega }{|\omega |}},}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        φ
+        =
+        
+          
+            
+              
+                Re
+                ⁡
+                ω
+              
+              
+                
+                  |
+                
+                ω
+                
+                  |
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \cos \varphi ={\tfrac {\operatorname {Re} \omega }{|\omega |}},}
+  gdzie 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   to wartość odpowiedniej funkcji trygonometrycznej.
+
+
+==== Wzór Eulera ====
+W dziedzinie zespolonej zachodzi związek, zwany wzorem Eulera:
+
+  
+    
+      
+        
+          e
+          
+            i
+            z
+          
+        
+        =
+        cos
+        ⁡
+        z
+        +
+        i
+        sin
+        ⁡
+        z
+        .
+      
+    
+    {\displaystyle e^{iz}=\cos z+i\sin z.}
+  Wynika z niego, iż:
+
+  
+    
+      
+        sin
+        ⁡
+        z
+        =
+        
+          
+            
+              
+                
+                  e
+                  
+                    i
+                    z
+                  
+                
+                −
+                
+                  e
+                  
+                    −
+                    i
+                    z
+                  
+                
+              
+              
+                2
+                i
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \sin z={\tfrac {e^{iz}-e^{-iz}}{2i}},}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        z
+        =
+        
+          
+            
+              
+                
+                  e
+                  
+                    i
+                    z
+                  
+                
+                +
+                
+                  e
+                  
+                    −
+                    i
+                    z
+                  
+                
+              
+              2
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \cos z={\tfrac {e^{iz}+e^{-iz}}{2}},}
+  
+
+  
+    
+      
+        tg
+        ⁡
+        z
+        =
+        
+          
+            
+              
+                
+                  e
+                  
+                    i
+                    z
+                  
+                
+                −
+                
+                  e
+                  
+                    −
+                    i
+                    z
+                  
+                
+              
+              
+                (
+                
+                  e
+                  
+                    i
+                    z
+                  
+                
+                +
+                
+                  e
+                  
+                    −
+                    i
+                    z
+                  
+                
+                )
+                i
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \operatorname {tg} z={\tfrac {e^{iz}-e^{-iz}}{(e^{iz}+e^{-iz})i}},}
+  
+
+  
+    
+      
+        ctg
+        ⁡
+        z
+        =
+        
+          
+            
+              
+                
+                  e
+                  
+                    i
+                    z
+                  
+                
+                +
+                
+                  e
+                  
+                    −
+                    i
+                    z
+                  
+                
+              
+              
+                
+                  e
+                  
+                    i
+                    z
+                  
+                
+                −
+                
+                  e
+                  
+                    −
+                    i
+                    z
+                  
+                
+              
+            
+          
+        
+        i
+        ,
+      
+    
+    {\displaystyle \operatorname {ctg} z={\tfrac {e^{iz}+e^{-iz}}{e^{iz}-e^{-iz}}}i,}
+  
+
+  
+    
+      
+        sec
+        ⁡
+        z
+        =
+        
+          
+            
+              2
+              
+                
+                  e
+                  
+                    i
+                    z
+                  
+                
+                +
+                
+                  e
+                  
+                    −
+                    i
+                    z
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \sec z={\tfrac {2}{e^{iz}+e^{-iz}}},}
+  
+
+  
+    
+      
+        cosec
+        ⁡
+        z
+        =
+        
+          
+            
+              
+                2
+                i
+              
+              
+                
+                  e
+                  
+                    i
+                    z
+                  
+                
+                −
+                
+                  e
+                  
+                    −
+                    i
+                    z
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \operatorname {cosec} z={\tfrac {2i}{e^{iz}-e^{-iz}}},}
+  gdzie:
+
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   jest stałą, zwaną podstawą logarytmu naturalnego,
+
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   jest jednostką urojoną 
+  
+    
+      
+        (
+        
+          i
+          
+            2
+          
+        
+        =
+        −
+        1
+        )
+        .
+      
+    
+    {\displaystyle (i^{2}=-1).}
+  Wzory te pozwalają na niemal mechaniczne upraszczanie wyrażeń trygonometrycznych.
+
+
+==== Wykresy ====
+Liczby zespolone na płaszczyźnie zespolonej zostały oznaczone kolorami, zgodnie z umownym schematem. Odcienie barw określają argument, a jasność – moduł wyniku
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Związki z innymi funkcjami ===
+
+
+==== Funkcje odwrotne do trygonometrycznych ====
+Funkcje odwrotne do trygonometrycznych nazywane są też funkcjami kołowymi lub cyklometrycznymi. Ze względu na okresowość funkcji trygonometrycznych funkcje te są do nich odwrotne jedynie w przedziale obejmującym jeden okres.
+
+
+==== Harmoniki ====
+Funkcje postaci
+
+  
+    
+      
+        u
+        (
+        t
+        )
+        =
+        A
+        sin
+        ⁡
+        (
+        ω
+        t
+        +
+        ϕ
+        )
+        ,
+      
+    
+    {\displaystyle u(t)=A\sin(\omega t+\phi ),}
+  gdzie:
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   – amplituda,
+
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   – prędkość kątowa (pulsacja),
+
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   – faza początkowasą nazywane harmonikami. Funkcje sinus i cosinus są ich szczególnymi przypadkami. Harmoniki mają duże znaczenie w praktyce, przy analizie funkcji okresowych. Kombinacja liniowa kilku harmonik o tej samej częstotliwości jest ciągle harmoniką o tej częstotliwości.
+Harmoniki stosowane są w fizyce przy badaniu wszelkich zjawisk okresowych, np. drgań. Wiele z tych zjawisk, np. masa na sprężynie, wahadło przy niewielkim wychyleniu albo elektryczny obwód rezonansowy, w wyidealizowanym przypadku (przy braku strat energii), opisuje równanie różniczkowe:
+
+  
+    
+      
+        
+          x
+          ″
+        
+        =
+        −
+        k
+        x
+        ,
+      
+    
+    {\displaystyle x''=-kx,}
+  którego rozwiązaniami są harmoniki.
+
+
+==== Funkcje hiperboliczne ====
+Jak podano w sekcji Definicja za pomocą równań funkcyjnych, funkcje sinus i cosinus można zdefiniować w następujący sposób:
+
+  
+    
+      
+        
+          {
+          
+            
+              
+                
+                  W
+                  1
+                  :
+                
+                
+                  s
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  −
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                  =
+                  s
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  )
+                  c
+                  (
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                  −
+                  c
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  )
+                  s
+                  (
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                
+              
+              
+                
+                  W
+                  2
+                  :
+                
+                
+                  c
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  −
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                  =
+                  c
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  )
+                  c
+                  (
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                  +
+                  s
+                  (
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  )
+                  s
+                  (
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  )
+                
+              
+              
+                
+                  W
+                  3
+                  :
+                
+                
+                  
+                    lim
+                    
+                      x
+                      →
+                      0
+                    
+                  
+                  
+                    
+                      
+                        
+                          s
+                          (
+                          x
+                          )
+                        
+                        x
+                      
+                    
+                  
+                  =
+                  1
+                
+              
+            
+          
+          
+        
+      
+    
+    {\displaystyle \left\{{\begin{matrix}W1\colon &s(x_{1}-x_{2})=s(x_{1})c(x_{2})-c(x_{1})s(x_{2})\\W2\colon &c(x_{1}-x_{2})=c(x_{1})c(x_{2})+s(x_{1})s(x_{2})\\W3\colon &\lim _{x\to 0}{\tfrac {s(x)}{x}}=1\end{matrix}}\right.}
+  Jeśli warunek W2 zmienić na:
+
+  
+    
+      
+        W
+        
+          2
+          ′
+        
+        :
+        
+        c
+        (
+        
+          x
+          
+            1
+          
+        
+        −
+        
+          x
+          
+            2
+          
+        
+        )
+        =
+        c
+        (
+        
+          x
+          
+            1
+          
+        
+        )
+        c
+        (
+        
+          x
+          
+            2
+          
+        
+        )
+        −
+        s
+        (
+        
+          x
+          
+            1
+          
+        
+        )
+        s
+        (
+        
+          x
+          
+            2
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle W2'\colon \quad c(x_{1}-x_{2})=c(x_{1})c(x_{2})-s(x_{1})s(x_{2}),}
+  wówczas warunki W1, W2', W3 będą spełnione przez inne funkcje, które przez analogię nazywane są sinusem hiperbolicznym (sinh) i cosinusem hiperbolicznym (cosh).
+Analogicznie jak dla funkcji trygonometrycznych definiuje się też tangens, cotangens, secans i cosecans hiperboliczny jako odpowiednie ilorazy z udziałem sinusa i cosinusa hiperbolicznego. Istnieje także całkowy sinus hiperboliczny i całkowy cosinus hiperboliczny.
+
+Także definicja na okręgu jednostkowym dla funkcji trygonometrycznych ma swój odpowiednik hiperboliczny. Zamiast okręgu jednostkowego
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle x^{2}+y^{2}=1}
+  należy wziąć hiperbolę o równaniu
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        =
+        1.
+      
+    
+    {\displaystyle x^{2}-y^{2}=1.}
+  Na okręgu jednostkowym argument funkcji trygonometrycznych odpowiadał mierze kąta, jednak jest ona równa polu wycinka kołowego, symetrycznego względem osi OX. Podobnie w przypadku funkcji hiperbolicznych argumentowi odpowiada pole odpowiedniego wycinka.
+Biorąc długości odcinków, które na okręgu odpowiadały funkcjom sinus, cosinus i tangens, uzyskuje się na hiperboli sinus, cosinus i tangens hiperboliczny.
+Istnieją też inne analogie. Dla funkcji trygonometrycznych zachodzą równości, podane w sekcji Wzór Eulera.
+Analogiczne wzory występują dla funkcji hiperbolicznych:
+
+  
+    
+      
+        
+          
+            
+              
+                sinh
+                ⁡
+                x
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        
+                          e
+                          
+                            x
+                          
+                        
+                        −
+                        
+                          e
+                          
+                            −
+                            x
+                          
+                        
+                      
+                      2
+                    
+                  
+                
+              
+            
+            
+              
+                cosh
+                ⁡
+                x
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        
+                          e
+                          
+                            x
+                          
+                        
+                        +
+                        
+                          e
+                          
+                            −
+                            x
+                          
+                        
+                      
+                      2
+                    
+                  
+                
+              
+            
+            
+              
+                tgh
+                ⁡
+                x
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        
+                          e
+                          
+                            x
+                          
+                        
+                        −
+                        
+                          e
+                          
+                            −
+                            x
+                          
+                        
+                      
+                      
+                        
+                          e
+                          
+                            x
+                          
+                        
+                        +
+                        
+                          e
+                          
+                            −
+                            x
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                ctgh
+                ⁡
+                x
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        
+                          e
+                          
+                            x
+                          
+                        
+                        +
+                        
+                          e
+                          
+                            −
+                            x
+                          
+                        
+                      
+                      
+                        
+                          e
+                          
+                            x
+                          
+                        
+                        −
+                        
+                          e
+                          
+                            −
+                            x
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\sinh x&={\tfrac {e^{x}-e^{-x}}{2}}\\\cosh x&={\tfrac {e^{x}+e^{-x}}{2}}\\\operatorname {tgh} x&={\tfrac {e^{x}-e^{-x}}{e^{x}+e^{-x}}}\\\operatorname {ctgh} x&={\tfrac {e^{x}+e^{-x}}{e^{x}-e^{-x}}}\end{aligned}}}
+  Istnieją też analogie niektórych tożsamości trygonometrycznych:
+
+  
+    
+      
+        sinh
+        ⁡
+        (
+        x
+        +
+        y
+        )
+        =
+        sinh
+        ⁡
+        x
+        cosh
+        ⁡
+        y
+        +
+        cosh
+        ⁡
+        x
+        sinh
+        ⁡
+        y
+      
+    
+    {\displaystyle \sinh(x+y)=\sinh x\cosh y+\cosh x\sinh y}
+  
+
+  
+    
+      
+        
+          cosh
+          
+            2
+          
+        
+        ⁡
+        x
+        −
+        
+          sinh
+          
+            2
+          
+        
+        ⁡
+        x
+        =
+        1
+      
+    
+    {\displaystyle \cosh ^{2}x-\sinh ^{2}x=1}
+  
+
+  
+    
+      
+        cosh
+        ⁡
+        2
+        x
+        =
+        
+          cosh
+          
+            2
+          
+        
+        ⁡
+        x
+        +
+        
+          sinh
+          
+            2
+          
+        
+        ⁡
+        x
+      
+    
+    {\displaystyle \cosh 2x=\cosh ^{2}x+\sinh ^{2}x}
+  Podobieństwa te wynikają z głębokiej symetrii pomiędzy funkcjami trygonometrycznymi a hiperbolicznymi, przejawiającej się także po ich uogólnieniu na argumenty zespolone.
+
+
+== Niektóre zastosowania ==
+Ze względu na obecność funkcji trygonometrycznych w najróżniejszych działach nauki i techniki nie jest możliwe podanie wszystkich ich zastosowań. Poniżej wymieniono więc tylko niektóre.
+
+
+=== Geometria ===
+Bezpośrednim zastosowaniem funkcji trygonometrycznych w geometrii elementarnej jest wyznaczanie długości boków lub kątów trójkąta. Poniżej podano kilka innych zastosowań.
+
+
+==== Twierdzenia sinusów, cosinusów i tangensów ====
+W każdym trójkącie (przy oznaczeniach standardowych, zob. rysunek) zachodzą następujące równości:
+Twierdzenie sinusów, inaczej twierdzenie Snelliusa:
+
+  
+    
+      
+        
+          
+            a
+            
+              sin
+              ⁡
+              α
+            
+          
+        
+        =
+        
+          
+            b
+            
+              sin
+              ⁡
+              β
+            
+          
+        
+        =
+        
+          
+            c
+            
+              sin
+              ⁡
+              γ
+            
+          
+        
+        =
+        2
+        R
+      
+    
+    {\displaystyle {\frac {a}{\sin \alpha }}={\frac {b}{\sin \beta }}={\frac {c}{\sin \gamma }}=2R}
+  (
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   jest promieniem okręgu opisanego)
+Twierdzenie cosinusów, inaczej twierdzenie Carnota:
+
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+        =
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        −
+        2
+        a
+        b
+        cos
+        ⁡
+        γ
+      
+    
+    {\displaystyle c^{2}=a^{2}+b^{2}-2ab\cos \gamma }
+  Twierdzenie tangensów, inaczej twierdzenie Regiomontana:
+
+  
+    
+      
+        
+          
+            
+              a
+              −
+              b
+            
+            
+              a
+              +
+              b
+            
+          
+        
+        =
+        
+          
+            
+              tg
+              ⁡
+              
+                
+                  
+                    α
+                    −
+                    β
+                  
+                  2
+                
+              
+            
+            
+              tg
+              ⁡
+              
+                
+                  
+                    α
+                    +
+                    β
+                  
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {a-b}{a+b}}={\frac {\operatorname {tg} {\frac {\alpha -\beta }{2}}}{\operatorname {tg} {\frac {\alpha +\beta }{2}}}}.}
+  W geometrii sferycznej istnieje także twierdzenie haversinów, związane z nieużywaną dziś funkcją trygonometryczną 
+  
+    
+      
+        haversin
+        ⁡
+        x
+        =
+        1
+        −
+        cos
+        ⁡
+        
+          
+            
+              x
+              2
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \operatorname {haversin} x=1-\cos {\tfrac {x}{2}},}
+   pozwalające na obliczanie odległości pomiędzy dwoma punktami na sferze.
+
+
+==== Wzory na pole trójkąta ====
+Wzory na pole trójkąta często wykorzystują funkcje trygonometryczne:
+
+  
+    
+      
+        S
+        =
+        
+          
+            
+              b
+              c
+              sin
+              ⁡
+              α
+            
+            2
+          
+        
+      
+    
+    {\displaystyle S={\frac {bc\sin \alpha }{2}}}
+  lub
+
+  
+    
+      
+        S
+        =
+        2
+        
+          R
+          
+            2
+          
+        
+        sin
+        ⁡
+        α
+        sin
+        ⁡
+        β
+        sin
+        ⁡
+        γ
+      
+    
+    {\displaystyle S=2R^{2}\sin \alpha \sin \beta \sin \gamma }
+  lub
+
+  
+    
+      
+        S
+        =
+        
+          
+            
+              
+                a
+                
+                  2
+                
+              
+              +
+              
+                b
+                
+                  2
+                
+              
+              +
+              
+                c
+                
+                  2
+                
+              
+            
+            
+              4
+              (
+              ctg
+              ⁡
+              α
+              +
+              ctg
+              ⁡
+              β
+              +
+              ctg
+              ⁡
+              γ
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle S={\frac {a^{2}+b^{2}+c^{2}}{4(\operatorname {ctg} \alpha +\operatorname {ctg} \beta +\operatorname {ctg} \gamma )}},}
+  gdzie:
+
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+   to boki trójkąta,
+
+  
+    
+      
+        α
+        ,
+        β
+        ,
+        γ
+      
+    
+    {\displaystyle \alpha ,\beta ,\gamma }
+   to miary kątów o wierzchołkach leżących naprzeciw boków odpowiednio 
+  
+    
+      
+        a
+        ,
+        b
+      
+    
+    {\displaystyle a,b}
+   i 
+  
+    
+      
+        c
+        ,
+      
+    
+    {\displaystyle c,}
+  
+
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   to promień koła opisanego.
+
+
+==== Iloczyny wektorów ====
+W geometrii i algebrze liniowej definiowane są iloczyny wektorów, m.in. iloczyny skalarny i wektorowy. Czasem konieczne jest obliczenie wartości iloczynu skalarnego lub wektorowego dla wektorów o znanych kierunkach, zwrotach i długościach. Wzory wykorzystują funkcje trygonometryczne kąta 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   między wektorami:
+
+iloczyn skalarny,
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              b
+              →
+            
+          
+        
+        =
+        
+          |
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+          |
+        
+        
+        
+          |
+        
+        
+          
+            
+              b
+              →
+            
+          
+        
+        
+          |
+        
+        cos
+        ⁡
+        θ
+        ,
+      
+    
+    {\displaystyle {\vec {a}}\cdot {\vec {b}}=|{\vec {a}}|\,|{\vec {b}}|\cos \theta ,}
+  
+iloczyn wektorowy,
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              b
+              →
+            
+          
+        
+        =
+        (
+        
+          |
+        
+        
+          
+            
+              a
+              →
+            
+          
+        
+        
+          |
+        
+        
+        
+          |
+        
+        
+          
+            
+              b
+              →
+            
+          
+        
+        
+          |
+        
+        sin
+        ⁡
+        θ
+        )
+        
+        
+          
+            
+              n
+              →
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {a}}\times {\vec {b}}=(|{\vec {a}}|\,|{\vec {b}}|\sin \theta )\,{\vec {n}},}
+  gdzie 
+  
+    
+      
+        
+          
+            
+              n
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {n}}}
+   jest ustalonym wektorem jednostkowym prostopadłym tak do 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {a}},}
+   jak i do 
+  
+    
+      
+        
+          
+            
+              b
+              →
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {b}}.}
+  
+
+
+==== Współrzędne biegunowe, sferyczne i walcowe ====
+Najczęściej w geometrii stosowany jest układ współrzędnych kartezjańskich. Niekiedy jednak wygodnie jest stosować inne układy, w których niektóre współrzędne są wyznaczone za pomocą kątów. Do takich układów należy układ współrzędnych biegunowych, układ współrzędnych sferycznych (jego zastosowaniem są np. współrzędne geograficzne) i układ współrzędnych walcowych. Wówczas przydatne są funkcje trygonometryczne, m.in. do przeliczania takich współrzędnych na współrzędne kartezjańskie.
+
+
+==== Geometria sferyczna ====
+Funkcje trygonometryczne są ważnymi narzędziami geometrii sferycznej i jej zastosowań w astronomii, nawigacji i geodezji, gdzie służą m.in. do rozwiązywania trójkątów sferycznych.
+
+
+=== Analiza matematyczna ===
+
+
+==== Szereg Fouriera ====
+Funkcje 
+  
+    
+      
+        
+          {
+          
+            
+              
+                
+                  1
+                  
+                    2
+                    π
+                  
+                
+              
+            
+            ,
+            
+              
+                
+                  
+                    sin
+                    ⁡
+                    n
+                    x
+                  
+                  
+                    π
+                  
+                
+              
+            
+            ,
+            
+              
+                
+                  
+                    cos
+                    ⁡
+                    n
+                    x
+                  
+                  
+                    π
+                  
+                
+              
+            
+          
+          }
+        
+      
+    
+    {\displaystyle \left\{{\tfrac {1}{\sqrt {2\pi }}},{\tfrac {\sin nx}{\sqrt {\pi }}},{\tfrac {\cos nx}{\sqrt {\pi }}}\right\}}
+   tworzą dla dowolnego 
+  
+    
+      
+        n
+        ∈
+        
+          
+            N
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle n\in \mathbb {N} _{+}}
+   układ ortonormalny. Dzięki temu funkcje okresowe 
+  
+    
+      
+        S
+        (
+        x
+        )
+      
+    
+    {\displaystyle S(x)}
+   spełniające warunki Dirichleta mogą być wyrażone w postaci szeregu Fouriera:
+
+  
+    
+      
+        S
+        (
+        x
+        )
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          a
+          
+            0
+          
+        
+        +
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          (
+          
+            
+              a
+              
+                n
+              
+            
+            cos
+            ⁡
+            
+              
+                
+                  
+                    2
+                    n
+                    π
+                  
+                  T
+                
+              
+            
+            x
+            +
+            
+              b
+              
+                n
+              
+            
+            sin
+            ⁡
+            
+              
+                
+                  
+                    2
+                    n
+                    π
+                  
+                  T
+                
+              
+            
+            x
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle S(x)={\tfrac {1}{2}}a_{0}+\sum _{n=1}^{\infty }\left(a_{n}\cos {\tfrac {2n\pi }{T}}x+b_{n}\sin {\tfrac {2n\pi }{T}}x\right).}
+  Można go również wyrazić za pomocą np. samych funkcji sinus. Poszczególne składowe tego szeregu nazywane są harmonicznymi. Szereg Fouriera odgrywa wielką rolę w fizyce, teorii drgań, a nawet teorii muzyki (zob. szereg harmoniczny (muzyka), alikwoty).
+
+
+==== Funkcja Weierstrassa ====
+Za pomocą szeregu trygonometrycznego definiowana jest funkcja Weierstrassa, która jest ciągła, jednak nie jest w żadnym punkcie różniczkowalna:
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          a
+          
+            n
+          
+        
+        cos
+        ⁡
+        (
+        
+          b
+          
+            n
+          
+        
+        π
+        x
+        )
+        ,
+      
+    
+    {\displaystyle f(x)=\sum _{n=0}^{\infty }a^{n}\cos(b^{n}\pi x),}
+  gdzie 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   jest pewną liczbą z przedziału 
+  
+    
+      
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle (0,1)}
+   natomiast 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   jest liczbą nieparzystą, spełniającą warunek 
+  
+    
+      
+        a
+        b
+        >
+        1
+        +
+        
+          
+            
+              3
+              2
+            
+          
+        
+        π
+        .
+      
+    
+    {\displaystyle ab>1+{\tfrac {3}{2}}\pi .}
+  
+
+
+==== Funkcja Dirichleta ====
+Za pomocą funkcji cosinus definiowana jest tzw. funkcja Dirichleta, która przyjmuje wartość 1 dla argumentów wymiernych i 0 dla niewymiernych:
+
+  
+    
+      
+        
+          1
+          
+            
+              Q
+            
+          
+        
+        (
+        x
+        )
+        =
+        
+          lim
+          
+            m
+            →
+            ∞
+          
+        
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          cos
+          
+            2
+            n
+          
+        
+        ⁡
+        (
+        m
+        !
+        π
+        x
+        )
+        .
+      
+    
+    {\displaystyle 1_{\mathbb {Q} }(x)=\lim _{m\to \infty }\lim _{n\to \infty }\cos ^{2n}(m!\pi x).}
+  
+
+
+=== Teoria liczb ===
+Choć teoria liczb jest dziedziną daleką od analizy matematycznej, także tutaj pojawiają się funkcje trygonometryczne. Na przykład:
+
+  
+    
+      
+        
+          ∑
+          
+            
+              
+                
+                  
+                    1
+                    ⩽
+                    x
+                    <
+                    n
+                    ,
+                  
+                
+                
+                  
+                    NWD
+                    ⁡
+                    (
+                    x
+                    ,
+                    n
+                    )
+                    =
+                    1
+                  
+                
+              
+            
+          
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        cos
+        ⁡
+        
+          
+            
+              
+                2
+                π
+                x
+              
+              n
+            
+          
+        
+        =
+        μ
+        (
+        n
+        )
+        ,
+      
+    
+    {\displaystyle \sum _{\begin{smallmatrix}1\leqslant x<n,\\\operatorname {NWD} (x,n)=1\end{smallmatrix}}\!\!\!\!\!\!\!\!\cos {\tfrac {2\pi x}{n}}=\mu (n),}
+  gdzie 
+  
+    
+      
+        μ
+        (
+        n
+        )
+      
+    
+    {\displaystyle \mu (n)}
+   to tzw. funkcja Möbiusa.
+
+
+=== Zastosowania poza matematyką ===
+Funkcje trygonometryczne mają wiele zastosowań w najróżniejszych dziedzinach nauki i techniki, takich jak na przykład:
+
+akustyka: np. analiza harmoniczna,
+architektura, mechanika: bezpośrednie zastosowanie do elementów trójkąta
+astronomia, nawigacja, kartografia, oceanografia: trygonometria sferyczna stosowana do powierzchni Ziemi
+astronomia i geodezja: paralaksa pozwala wyznaczać odległości bez przebywania ich, nawet tysięcy lat świetlnych.
+chemia i krystalografia: obliczanie odległości pomiędzy atomami w krysztale,
+ekonomia (w szczególności analiza rynków finansowych), probabilistyka, statystyka, meteorologia: np. analiza harmoniczna szeregów czasowych
+elektryka i elektronika: np. przebiegi sinusoidalne prądu zmiennego
+fizyka: np. ruch harmoniczny, prawo załamania światła, zob. też sekcję Harmoniki tego artykułu,
+fonetyka, analiza języka naturalnego: analiza harmoniczna głosek
+geodezja, inżynieria lądowa: w szczególności niwelacja trygonometryczna,
+geofizyka, sejsmologia: badanie fal sejsmicznych,
+grafika komputerowa: np. symulowanie odbicia i załamania światła w ray tracingu
+kompresja obrazu: np. przy kompresji JPEG
+kryptologia: w związku z zastosowaniami w teorii liczb,
+obrazowanie medyczne: tomografia komputerowa i USG wymagają obliczeń trygonometrycznych
+optyka: prawo załamania światła, polaryzacja fali,
+robotyka: np. algorytm sterowania sinusoidalnego,
+teoria chaosu,
+teoria muzyki: np. alikwoty, szereg harmoniczny.
+
+
+== Historia ==
+
+
+== Polskie nazwy ==
+Poloniści dopuszczają zarówno formy „cosinus, cotangens, cosecans, secans”, jak i „kosinus, kotangens, kosekans, sekans”. Słowniki języka polskiego skłaniają się ku tym drugim jako bardziej naturalnym dla języka polskiego, jednak słowniki i encyklopedie matematyczne raczej nie używają form spolszczonych, podobnie w naukowej literaturze matematycznej są one rzadko spotykane.
+Już pod koniec XVIII wieku Jan Śniadecki próbował wprowadzić całkowicie polskie odpowiedniki nazw i skrótów funkcji trygonometrycznych (w nawiasie proponowany skrót):
+
+sinus – wstawa (wst),
+cosinus – dostawa (dost),
+tangens – styczna (sty),
+cotangens – dostyczna (dosty),
+secans – sieczna (sie),
+cosecans – dosieczna (dosie).Propagował je potem m.in. Andrzej Radwański w dziele „Słownik wyrazów grecko-łacińskich w poznawaniu Rody używanych… bezpłatnie dodany do dzieła Treść nauki przyrodzenia” wydanym w 1850 roku. Zwalczał tam wszelkie nazwy pochodzące z greki i łaciny.
+W latach 1918–1924 polskie nazwy próbował forsować rektor Szkoły Politechnicznej we Lwowie, prof. Maksymilian Thullie (1853–1939). Stosował je w swoich pracach, np. w podręczniku Statyka budowli (wyd. IV, Lwów 1921), jednak nie przyjęły się.
+
+
+== Oznaczenia funkcji trygonometrycznych ==
+W różnych krajach stosowane są różne skróty funkcji trygonometrycznych:
+
+Secans i cosecans są generalnie rzadko używane, lecz wszędzie stosuje się skróty sec i cosec/csc. Jedynie we Francji często dodawany jest nad tymi skrótami akcent: séc/coséc.
+
+
+== Zobacz też ==
+cosinusy kierunkowe
+funkcja sinc
+kąt między dwiema krzywymi
+sinus i cosinus całkowy
+sinusoida zagęszczona
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Igor N. Bronsztejn, Konstantin A. Siemiendiajew: Matematyka, poradnik encyklopedyczny. Wyd. VI. Warszawa: PWN, 1976.
+Lidia Filist, Artur Malina, Alicja Solecka: Słownik encyklopedyczny – matematyka. Wydawnictwo Europa, 1998. ISBN 83-85336-06-0.brak strony w książce
+Franciszek Leja: Funkcje zespolone. Warszawa: PWN, 1976.brak strony w książce
+Franciszek Leja: Rachunek różniczkowy i całkowy ze wstępem do równań różniczkowych. Wyd. III. Warszawa: PWN, 1954.brak strony w książce
+Fritz Reinhardt, Heinrich Soeder: Atlas matematyki. Warszawa: Prószyński i S-ka, 2006. ISBN 83-7469-189-1.

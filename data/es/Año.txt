@@ -1,0 +1,225 @@
+Un año, año terrestre, año sideral, sidéreo o año juliano (símbolo: a)[1]​ se refiere al tiempo orbital del planeta Tierra, es decir, al tiempo que tarda dicho planeta en dar una vuelta completa alrededor del Sol. El término año también se usa para referirse al periodo orbital de cualquier planeta y, por extensión, se aplica a otros ciclos orbitales.[2]​
+Un año natural es una aproximación al número de días del período orbital de la Tierra, tal y como se cuenta en un determinado calendario. El calendario gregoriano, o calendario moderno, presenta su año natural como un año común de 365 días o como un año bisiesto de 366 días, al igual que los  calendarios julianos; "véase" abajo. Para el calendario gregoriano, la duración media del año civil (el año medio) a lo largo del ciclo bisiesto completo de 400 años es de 365.2425 días. La norma ISO ISO 80000-3, Anexo C, admite el símbolo a (del latín annus) para representar un año de 365 o 366 días. En inglés, se suelen utilizar las abreviaturas y y yr.
+En astronomía, el año juliano es una unidad de tiempo; se define como 365.25 días de exactamente 86 400 segundos (unidad base del SI), que suman exactamente 31 557 600 segundos en el año astronómico juliano.[3]​
+La palabra año también se utiliza para periodos vagamente asociados con el calendario o el año astronómico, pero no idénticos a ellos, como el año estacional, el año fiscal, el Año escolar, etc. Del mismo modo, año puede significar el período orbital de cualquier planeta; por ejemplo, un  año marciano y un  año venusiano son ejemplos del tiempo que tarda un planeta en transitar una órbita completa. El término también puede usarse en referencia a cualquier período o ciclo largo, como el Gran Año.[4]​
+
+
+== Etimología ==
+El inglés year (vía sajón occidental ġēar (/jɛar/), anglosajones ġēr) continúa Protogermánico *jǣran (*jē₁ran). Los cognados son alemán Jahr, Alto alemán antiguo jār, nórdico antiguo ár y Gótica [:wikt:𐌾𐌴𐍂|jer]], del sustantivo  protoindoeuropeo *yeh₁r-om "año, estación". Los cognados que también descienden del mismo sustantivo protoindoeuropeo (con variación en el sufijo ablaut) son el  avestano yārǝ "año", griego ὥρα (hṓra) "año, estación, período de tiempo" (de donde "hora"), Eslavo eclesiástico antiguo jarŭ, y latín hornus "de este año". 
+Latín annus (un sustantivo masculino de  2ª declinación; annum es el acusativo singular; annī es genitivo singular y nominativo plural; annō el dativo y ablativo singular) procede de un sustantivo de la  lengua protoindoeuropea-PIE *h₂et-no-, que también dio lugar al gótico aþn "año" (solo se atestigua el dativo plural aþnam).
+Aunque la mayoría de las lenguas tratan la palabra como temático *yeh₁r-o-, hay pruebas de una derivación original con un sufijo *-r/n, *yeh₁-ro-. Ambas palabras indoeuropeas para año, *yeh₁-ro- y *h₂et-no-, derivarían entonces de raíces verbales que significan "ir, moverse", *h₁ey- y *h₂et-, respectivamente (compárese sánscrito védico éti "va", atasi "vas, vagas"). Varias palabras inglesas derivan del latín annus, como anual, annuity, aniversario, etc.; per annum significa "cada año", annō Dominī significa "en el año del Señor".
+La palabra griega para "año", ἔτος, es cognada del latín vetus "viejo", de la palabra PIE *wetos- "año", también conservada en este significado en sánscrito. vat-sa-ras "año" y vat-sa- "yearling (calf)", este último también reflejado en el latín [:wikt:vitulus|vitulus]] "becerro", inglés wether "carnero" (inglés antiguo weðer, gótico wiþrus "cordero").
+En algunas lenguas, es común contar los años haciendo referencia a una estación, como en "veranos", o "inviernos", o "cosechas". Algunos ejemplos son el chino 年 "año", originalmente 秂, un compuesto ideográfico de una persona que lleva un haz de trigo que denota "cosecha". El eslavo además de [:wikt:Reconstrucción:Protoeslavo/godъ|godŭ] "período de tiempo; año" utiliza [:wikt:Reconstruction:Proto-Slavic/lěto|lěto] "verano; año".
+
+
+== Intercalación ==
+Los años astronómicos no tienen un número entero de días o meses lunares. Cualquier calendario que siga a un año astronómico debe tener un sistema de intercalación como los años bisiestos.
+
+
+=== Calendario juliano ===
+En el calendario juliano, la duración media de un año es de 365,25 días. En un año no bisiesto, hay 365 días, en un año bisiesto hay 366 días. Un año bisiesto ocurre cada cuatro años, o año bisiesto, durante el cual un día bisiesto es intercalado en el mes de febrero. El nombre "Día bisiesto" se aplica al día añadido.
+El Calendario juliano revisado, propuesto en 1923 y utilizado en algunas  Iglesias ortodoxas orientales
+tiene 218 años bisiestos cada 900 años, con una duración media del año de 365,242 222 2 días, cercana a la duración del año tropical medio, 365,242 19 días (error relativo de 9-10-8).
+En el año 2800 d. C., los calendarios gregoriano y juliano revisado comenzarán a diferir en un día de calendario.[5]​
+
+
+=== Calendario gregoriano ===
+El calendario gregoriano intenta que el  equinoccio hacia el norte caiga en el 21 de marzo o poco antes, por lo que sigue el año del equinoccio hacia el norte, o año tropical.[6]​ Dado que 97 de los 400 años son bisiestos, la duración media del año del calendario gregoriano es de 365,242 días; con un error relativo inferior a una ppm (8-10-7) con respecto a la duración actual del año tropical medio 365,242 días y aún más cerca del actual año del equinoccio de marzo de 365,242 días que pretende igualar. Se estima que para el año 4000 de nuestra era, el equinoccio hacia el norte se retrasará un día en el calendario gregoriano, no por esta diferencia, sino por la ralentización de la rotación de la Tierra y el consiguiente alargamiento del día.
+
+
+=== Otros calendarios ===
+
+Históricamente, los calendarios lunisolares intercalaban  meses bisiestos enteros de forma observacional. Los calendarios lunisolares han caído en desuso, excepto por razones litúrgicas (calendario hebreo, varios calendarios hindúes).
+Una adaptación moderna del histórico calendario Jalali, conocida como  calendario Solar Hijri (1925), es un calendario solar puramente con un patrón irregular de días bisiestos basado en la observación (o en el cálculo astronómico), cuyo objetivo es situar el año nuevo (Nouruz) en el día del equinoxiovernal (para el huso horario de Teherán), en lugar de utilizar un sistema algorítmico de años bisiestos.
+
+
+== Cómputo ==
+La sencillez de la definición oculta la complejidad de su cómputo.
+Se consideran diversos años según la referencia elegida para determinar su duración:
+El año o año sidéreo cuando:
+
+El tiempo que trascurre entre dos pasos consecutivos de la Tierra por un mismo punto de su órbita. Generalmente usado por los astrónomos, es la medida más precisa de un año.
+Referencia: las estrellas.
+Duración: 366.255 936 días siderales, o 365.256 363 004 días solares medios, 365 días 6 horas 9 minutos 9.76 segundos, es decir, menos medio (1/2) día solar.El año trópico, año solar o año tropical cuando:
+
+El tiempo transcurrido entre dos pasos sucesivos del Sol por el equinoccio medio. En otras palabras, tiempo de primavera a primavera por ejemplo. Referencia: equinoccio vernal. Las civilizaciones Mesopotámica y Egipcia lograron unos valores muy aproximados al real para el año trópico, sobre todo considerando la escasez de medios de la época.
+Duración: 365.242 190 402 días solares medios, 365 d 5 h 48 m 45.22 s.Año de calendario cuando:
+
+El número de días completos considerados como un año a efectos civiles o religiosos. Para que se ajuste a los ciclos astronómicos, que importan fracciones de día, este cómputo de tiempo varía cada año.
+
+
+== Otras definiciones ==
+En astronomía y astrofísica, además del año sideral son de interés:
+
+El año anomalístico: tiempo transcurrido entre dos pasos sucesivos de la Tierra por el perihelio de su órbita (365.2596 días)
+El año cósmico o galáctico: tiempo transcurrido en una órbita del Sol en torno al centro de la Vía Láctea (unos 220 millones de años)
+El año platónico: tiempo en el que el eje de la Tierra describe un círculo completo en la esfera celeste debido a la precesión (unos 25 800 años)
+El año de eclipse: tiempo entre dos pasos sucesivos del Sol por un nodo de la órbita de la Luna, momento en que puede suceder un eclipse.
+
+
+== Variaciones en la duración del año y el día ==
+La duración exacta de un año astronómico cambia a lo largo del tiempo. Las causas principales de estos cambios son:
+
+La precesión de los equinoccios cambia la posición de los acontecimientos astronómicos respecto a los ejes de la órbita de la Tierra. Un acontecimiento que se mueva hacia el perihelio se repite con un periodo más corto de un año a otro; un acontecimiento que se mueva hacia el perihelio se repetirá con un periodo más largo de un año a otro (a pesar de que este efecto no cambia el valor mediano de la duración del año).
+La influencia gravitatoria de la luna y los planetas cambia el movimiento de la Tierra en una órbita constante alrededor del Sol. La órbita de la Tierra varía de una manera caótica, pero en un intervalo bastante más limitado que las órbitas de los planetas más próximos.
+La resistencia de marea entre la Tierra y la Luna y el Sol incrementa la duración del día y del mes (transfiriendo momento angular de la rotación de la Tierra a la revolución de la Luna); como el día solar mediano aparente es la unidad con que se mide la longitud del día en la vida civil, hace el efecto que cambia la duración del año. A su vez, la resistencia de marea depende de factores como por ejemplo el Rebote posglaciar y la subida del nivel del mar.
+Los cambios en la masa efectiva del Sol, causados por el viento solar y la radiación de energía generada por fusión nuclear y radiada por su superficie, afectarán el periodo orbital de la Tierra sobre un periodo largo (aproximadamente 1,25 microsegundos por año[7]​).
+Otros efectos tienden a acortar el periodo orbital terrestre, como por ejemplo el efecto Poynting-Robertson (aproximadamente 30 nanosegundos por año) o la onda gravitatoria (aproximadamente 165 attosegundos por año[8]​).
+
+
+== Evolución histórica del año solar ==
+Año egipcio
+Estimaba que un año duraba 365 días. El calendario egipcio sufrió desfases de tiempo muy notables y se trató de reformar durante el Congreso de Canopo (véase Decreto de Canopo), donde se concluyó que el año duraba 365.25 días. 
+Año solar juliano
+Basado en el Decreto de Canopo, estimaba que un año duraba 365.25 días solares, o sea 365 días y 6 horas. También consideraba que cada cuatro años se contaran 366 días solares. A ese año cuarto se le llamó bisiesto porque los antiguos romanos contaban la fecha 24 de febrero dos veces.
+Año solar gregoriano
+Es el año calendario. Es una corrección en el conteo del año solar juliano, porque en 1582 unos astrónomos descubrieron un desfase paulatino de tiempo en el calendario juliano. Después de una larga investigación, concluyeron que un año duraba aproximadamente 365,2425 días solares, es decir 365 días, 5 horas, 49 minutos y 12 segundos. También se determinó que los años seculares podían ser bisiestos, solo si eran divisibles entre 400.
+
+
+== Símbolo ==
+El símbolo establecido para el año en la norma ISO 80000 es a (del latín annus). De él se pueden derivar, con el uso de múltiplos, Ma (megaaños, millones de años) y ka (kiloaños, miles de años).
+
+
+== Año bisiesto ==
+Cada cuatro años se tiene que añadir un día para ajustar el año del calendario al año natural.
+Los romanos lo situaban entre el veintitrés y el veinticuatro de febrero, y por motivos de superstición no tenía nombre ni cifra: si el veintitrés era el día sextum ante calendas martii, de este día de más decían día bisextum, el otro sexto.
+Se creía que este año traía mala suerte. Durante el día añadido (29 de febrero) los demonios y los malos espíritus dominaban. Los nacidos este día son seres "extraños", cuando menos porque solo cumplen años cada cuatro. Hay la creencia que en el año bisiesto todas las hojas de olivo se giran hacia abajo y quienes nacen en año bisiesto no atrapan la viruela.[9]​
+
+
+== Años astronómicos ==
+
+
+=== Año juliano ===
+El año juliano, tal y como se utiliza en astronomía y otras ciencias, es una unidad de tiempo definida exactamente como 365.25 días. Este es el significado normal de la unidad "año" utilizada en diversos contextos científicos. El siglo juliano de 36 525 días y el milenio juliano de 365 250 días se utilizan en los cálculos astronómicos. Fundamentalmente, expresar un intervalo de tiempo en años julianos es una forma de especificar con precisión cuántos días (no cuántos años "reales"), para intervalos de tiempo largos en los que indicar el número de días sería poco manejable y poco intuitivo. Por convención, el año juliano se utiliza en el cálculo de la distancia recorrida por un año-luz.
+En el Código Unificado de Unidades de Medida, el símbolo a (sin subíndice) se refiere siempre al año juliano, aj, de exactamente 31 557 600 segundos.
+
+365.25 d × 86 400 s = 1 a = 1 aj = 31.5576 ms
+
+
+=== Años siderales, tropicales y anómalos ===
+Las relaciones entre ellos se estudian con más detalle en Precesión de los equinoccios.
+Cada uno de estos tres años puede llamarse, de forma general, año astronómico.
+El año sideral es el tiempo que tarda la Tierra en completar una revolución de su órbita, medida con respecto a un marco de referencia fijo (como las estrellas fijas, latín sidera, singular sidus). Su duración media es de 365,256 363 004 días (365 d 6 h 9 min 9,76 s) (en la época J2000.0 = 1 de enero de 2000, 12:00:00 TT).[10]​
+Hoy en día el año tropical medio se define como el periodo de tiempo para que la longitud eclíptica media del Sol aumente 360 grados.[11]​ Dado que la longitud eclíptica del Sol se mide con respecto al equinoccio,[12]​ el año tropical comprende un ciclo completo de las estaciones; debido a la importancia biológica y socioeconómica de las estaciones, el año tropical es la base de la mayoría de los calendarios. La definición moderna del año tropical medio difiere del tiempo real entre los pasos de, por ejemplo, el equinoccio hacia el norte por varias razones que se explican a continuación. Debido a la precesión axial de la Tierra, este año es unos 20 minutos más corto que el año sideral. El año tropical medio es de aproximadamente 365 días, 5 horas, 48 minutos, 45 segundos, utilizando la definición moderna[13]​ ( = 365,242 19 d × 86 400 s).
+El año anómalo es el tiempo que tarda la Tierra en completar una revolución con respecto a su ápsides. La órbita de la Tierra es elíptica; los puntos extremos, llamados ápsides, son el perihelio, donde la Tierra está más cerca del Sol (5 de enero, 07:48 UT en 2020), y el afelio, donde la Tierra está más lejos del Sol (4 de julio, 11:35 UT en 2020). El año anómalo suele definirse como el tiempo que transcurre entre los pasos del perihelio. Su duración media es de 365,259 636 días (365 d 6 h 13 min 52,6 s) (en la época J2011.0).[14]​
+
+
+=== Año dracónico ===
+El año dracónico, año draconítico, año de eclipse o año eclíptico es el tiempo que tarda el Sol (visto desde la Tierra) en completar una revolución con respecto al mismo nodo lunar. (punto en el que la órbita de la Luna se cruza con la eclíptica). El año está asociado a los eclipses: éstos ocurren solo cuando tanto el Sol como la Luna están cerca de estos nodos; por lo que los eclipses ocurren dentro de aproximadamente un mes de cada medio año de eclipse. Por lo tanto, hay dos temporadas de eclipsess cada año de eclipses. La duración media del año de eclipses es
+346,620075883 días (346 d 14 h 52 min 54 s) (en la época J2000.0).
+Este término se utiliza a veces erróneamente para el período dracónico o nodal de precesión lunar, es decir, el período de una revolución completa del nodo ascendente de la Luna alrededor de la eclíptica: 18,612815932 años julianos, es decir, 6798,331019 días; en la época J2000.0).
+
+
+=== Ciclo de luna llena ===
+El  ciclo de luna llena es el tiempo que tarda el Sol (visto desde la Tierra) en completar una revolución con respecto al perigeo de la órbita de la Luna. Este periodo está asociado al tamaño aparente de la luna llena, y también a la duración variable del mes sinódico. La duración de un ciclo de luna llena es:
+411,78443029 días (411 días 18 horas 49 minutos 35 segundos) (en la época J2000.0).
+
+
+=== Año lunar ===
+El  año lunar comprende doce ciclos completos de las fases de la Luna, vistos desde la Tierra. Tiene una duración de aproximadamente 354,37 días. Los musulmanes lo utilizan para celebrar sus Eids y para marcar el inicio del mes de ayuno del Ramadán. El año civil musulmán se basa en el ciclo lunar. El calendario judío también es esencialmente lunar, excepto que se añade un mes lunar intercalar una vez cada dos o tres años, para mantener el calendario sincronizado también con el ciclo solar. Así, un año lunar en el calendario judío (hebreo) consta de doce o trece meses lunares.
+
+
+=== Año vago ===
+El año vago, de annus vagus o año errante, es una aproximación integral al año que equivale a 365 días, que vaga en relación con años más exactos. Normalmente el año vago se divide en 12 schematic meses de 30 días cada uno más 5 epagomenal días. El año vago fue utilizado en los calendarios de Etiopía, Antiguo Egipto, Irán, Armenia y en Mesoamérica entre los Aztecas y Mayas.[15]​ Todavía es utilizado por muchas comunidades zoroastrianas.
+
+
+=== Año helíaco ===
+Un año helíaco es el intervalo entre las  salidas helíacas de una estrella. Se diferencia del año sideral para las estrellas alejadas de la eclíptica debido principalmente a la precesión de los equinoccios.
+
+
+=== Año sótico ===
+El año sótico es el intervalo entre las salidas helíacas de la estrella Sirio. Actualmente es menor que el año sideral y su duración es muy cercana al año juliano de 365,25 días.
+
+
+=== Año gaussiano ===
+El año gaussiano es el año sideral para un planeta de masa despreciable (respecto al Sol) y no perturbado por otros planetas que se rige por la constante gravitatoria gaussiana. Dicho planeta estaría ligeramente más cerca del Sol que la distancia media de la Tierra. Su longitud es:
+365,2568983 días (365 d 6 h 9 min 56 s).
+
+
+=== Año besseliano ===
+Esta sección está enlazada desde Tiempo Universal
+El Año besseliano es un año tropical que comienza cuando el Sol medio (ficticio) alcanza una longitud eclíptica de 280°. En la actualidad, esto ocurre el 1 de enero o cerca de esa fecha. Recibe su nombre del astrónomo y matemático alemán del siglo XIX Friedrich Bessel. La siguiente ecuación puede utilizarse para calcular la época besseliana actual (en años):[16]​
+
+B = 1900,0 + (fecha julianaTT -2 415 020,31352 / 365,242 198 781El subíndice TT indica que para esta fórmula, la fecha juliana debe utilizar la escala del Tiempo Terrestre, o su predecesor, el tiempo de efemérides.
+
+
+== Otros años ==
+
+
+=== Año fiscal ===
+Uno año fiscal, o año financiero, es un periodo de 12 meses usado para calcular informes financieros anuales en negocios y otras organizaciones. En la mayoría de jurisdicciones hay leyes que regulan la contabilidad y requieren estos informes una vez cada doce meses. Este año no corresponde necesariamente con el año civil.
+
+
+=== Año judicial ===
+Periodo, generalmente del 1 de septiembre de un año al 31 de julio del año siguiente, durante el cual son desarrolladas las tareas normales de los tribunales y órganos de la administración de justicia.
+
+
+=== Año escolar ===
+El año escolar, año académico o curso académico, es el periodo del año en que los alumnos van a sus centros de enseñanza. Generalmente dura 9 meses y se puede dividir en semestres, trimestres o cuatrimestres dependiente del país e institución.
+En diferentes países el año escolar o año académico empieza y acaba en diferentes fechas. En la mayoría de los países de Sudamérica, por ejemplo, el año empieza en marzo y acaba en diciembre. En Europa, en cambio, generalmente empieza en septiembre y acaba en junio.
+
+
+=== Año agrícola ===
+Es el periodo de los trabajos agrícolas desde el inicio de las labores de preparación hasta las de recolección. Estos trabajos no coinciden con el año natural. A efectos legales, cada ciclo cuenta como un año agrícola. Véase también año agrícola y calendario agrícola.
+
+
+=== Año forestal ===
+Un año forestal es un periodo de 12 meses, generalmente del 1 de octubre de un año al 30 de septiembre del año siguiente, durante el cual se desarrollan los aprovechamientos forestales.
+
+
+=== Año litúrgico ===
+Se trata de un año ordenado de forma que se celebren sucesivamente los principales acontecimientos de la vida de Cristo y los misterios más importantes del cristianismo. Consta de dos partes: la del temporal, o ciclo de las fiestas móviles, y centrada en la celebración de la Pascua, y la parte del santoral, o calendario de fiestas fijas.
+
+
+==== Jubileo o Año Santo ====
+El jubileo o año santo es una celebración que tiene lugar en distintas Iglesias cristianas históricas, particularmente la Iglesia católica y la Iglesia ortodoxa, y que conmemora un año sabático con significados particulares.
+
+
+=== Año sabático ===
+Inicialmente según la ley judía, el año sabático es el último de cada siete años durante el cual la tierra no podía ser cultivada y cada amo tenía que liberar un esclavo hebreo, si este lo quería. Por otro lado en los países de tradición cultural anglosajona, el año sabático se refería al curso o semestre que se concede cada seis o siete años a un profesor para dedicarlo en sus estudios o en la investigación, eximiéndolo de la enseñanza.
+
+
+== Años particulares ==
+Año olímpico : Año contado a partir de la olimpiada. Fue introducido en Grecia por el historiador Timeo de Tauromenio, el cual calculó los años, a partir del 776 a. C., según la lista de los vencedores de los juegos olímpicos. El sistema se puso en práctica desde el 260 a. C. (130.ª olimpiada), y fue abolido en tiempo de Teodosio el Grande, en 395.
+Año zodíaco : El año del calendario egipcio en que acababa el periodo zodíaco y, por lo tanto, coincidían aproximadamente el año civil y el año trópico.
+Año de la fundación de Roma: Año contado a partir de la fecha supuesta de la fundación de Roma, el 753 a. C..
+Año del consulado: Año contado a partir del nombramiento de los cónsules. El origen de este cómputo, que la ley romana mandaba de emplear para la datación de los documentos públicos, se remonta al inicio de la república (509 a. C.).
+Año del imperio: Año contado a partir de la proclamación del emperador. Esta fórmula fue adjuntada a la del año del consulado, en el bajo imperio romano, y finalmente la sustituyó.
+Año de la confusión o Annus confusionis: El año 46 a. C., en que tuvo lugar la reforma juliana. Duró 445 días.[17]​
+Año del reino: Año contado a partir de la elevación del rey al trono. Este sistema de datación fue empleado por los reinos cristianos de la Alta Edad Media, por analogía con el año del imperio o del pontificado, hasta que, gradualmente, fue sustituido por el de la era cristiana.
+
+
+== Duración de los años de los diferentes planetas ==
+Se indica la duración  en días terrestres. Redondeado a dos cifras decimales.
+
+
+== Anécdotas causadas por la adopción del calendario gregoriano ==
+Santa Teresa de Ávila murió el jueves 4 de octubre de 1582 y fue enterrada el día siguiente viernes 15 de octubre. La fiesta de Santa Teresa se celebra el 15 de octubre.[20]​
+Shakespeare y Cervantes murieron en la misma fecha, el 23 de abril de 1616, pero no el mismo día. Cervantes murió el 23 de abril de 1616 según el calendario gregoriano vigente en España desde 1582. Shakespeare murió el 3 de mayo de 1616 según el calendario juliano vigente en Inglaterra hasta 1752.[21]​
+Rusia no aceptó la reforma del calendario gregoriano hasta la llegada de los sóviets. La adopción del nuevo calendario se hizo de forma que el 1 de febrero de 1918 pasó a ser el día 14 de febrero. Se da el caso curioso que la llamada “Revolución de Octubre”, en la antigua URSS, se celebraba en noviembre. Esto era debido al hecho que la revolución había tenido lugar el 25 / 26 de octubre de 1917, según el calendario juliano vigente en la Rusia zarista, fecha que, cuando el nuevo régimen adoptó el calendario gregoriano, fue a caer el 7 / 8 de noviembre. El cumpleaños de la revolución siempre se celebró en noviembre e, incluso, a veces se habla de la “Revolución de Noviembre”.
+
+
+== Véase también ==
+Década
+Año cero
+Año luz
+Año común
+Año bisiesto
+Jubileo
+Sistema horario de 24 horas
+Samvatsara, término en sánscrito para año.
+Calendario lunar
+Calendario maya
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikiquote alberga frases célebres de o sobre año.
+ Wikcionario  tiene definiciones y otra información sobre año.
+
+
+== Bibliografía ==
+Fraser, Julius Thomas (1987). Time, the Familiar Stranger (illustrated edición). Amherst: University of Massachusetts Press. ISBN 0870235761. OCLC 15790499. 
+Whitrow, Gerald James (2003). What is Time?. Oxford: Oxford University Press. ISBN 0198607814. OCLC 265440481.

@@ -1,0 +1,34 @@
+W [dubbel-ve] är den tjugotredje bokstaven i det moderna latinska alfabetet. Bokstaven räknades i den svenska versionen av detta alfabet fram till 2006 som en variant av V, enligt Svenska Akademien. Det innebar bland annat att V och W sorterades tillsammans vid alfabetisk ordning. Detta ändrades i 2006 års upplaga av Svenska Akademiens ordlista, SAOL, bland annat till följd av bokstavens mer utbredda användning i etablerade lånord som ”webben”, som stundom uttalas såsom på engelska; tyska lånord som stavas med W uttalas dock precis likadant som om de stavades med V. Det finns ett fåtal exempel på minimala ordpar där man i uttal och definition kan skilja på V och W, som tvist och twist.
+
+
+== Historia ==
+Bokstaven W är ursprungligen en ligatur (två sammanskrivna tecken) av två V:n. Den började först användas av anglosaxiska skribenter på 600-talet, för att beteckna halvvokalen [w], och upptogs senare i tyskan, där det på den tiden uttalades på samma sätt. U och V var fram till 1500-talet bara skilda stilar för att skriva samma bokstav, vilket är anledningen till att man på engelska kallar "W" för ”double u”.
+
+
+== Betydelser ==
+
+
+=== Versalt W ===
+Länsbokstav för Dalarnas län.
+Kemiskt tecken för grundämnet volfram. Se även periodiska systemet.
+Förkortning för watt, enheten för effekt i Internationella måttenhetssystemet.
+Symbol för den fysikaliska storheten mekaniskt arbete, energi.
+Smeknamn, öknamn och kampanjnamn för USA:s före detta president George W. Bush. Uttalas då vanligen på amerikanskt sydstatsvis (det vill säga Texas) som ”dubya”, eftersom det är vad Bush själv gör.
+En film om den amerikanske presidenten George W Bush av Oliver Stone, se W (film).
+Den statistiska kategorin vinst i baseboll.
+
+
+=== Gement w ===
+Betecknar i det internationella fonetiska alfabetet en koartikulerad fon, en tonande labialiserad velar approximant.
+
+
+== Datateknik ==
+I datafiler och -program som använder Unicode lagras W samt förkomponerade bokstäver med W som bas och vissa andra varianter av W med följande kodpunkter:
+
+I ASCII-baserade kodningar lagras W med värdet 0x57 (hexadecimalt) och w med värdet 0x77 (hexadecimalt).
+I EBCDIC-baserade kodningar lagras W med värdet 0xE6 (hexadecimalt) och w med värdet 0xA6 (hexadecimalt).
+Övriga varianter av W lagras med olika värden beroende på vilken kodning som används, om de alls kan representeras.
+
+
+== Externa länkar ==
+”Alfabetet blir längre – växer med W”. Dagens Nyheter. 21 april 2006. Arkiverad från originalet den 1 oktober 2007. https://web.archive.org/web/20071001091738/http://www.dn.se/DNet/jsp/polopoly.jsp?d=1058&a=538744&previousRenderType=3. Läst 10 januari 2011.

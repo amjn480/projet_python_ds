@@ -1,0 +1,47 @@
+Höhe über dem Meeresspiegel (auch See- oder Meereshöhe) bezeichnet den lotrechten Abstand eines bestimmten Punktes in Bezug auf ein festgelegtes Meeresniveau. Als Nullniveau dieser geodätischen Höhenangaben wird dabei ein mittlerer Meeresspiegel angegeben, der aus lokalen Messungen von Küstenpegelstationen ermittelt sein kann oder per Definition festgelegt wird. Nach Angabe eines Nullpunktes sind Höhenangaben im Prinzip vom tatsächlichen Meeresspiegel unabhängig. Je nach Land werden meist unterschiedliche Höhendefinitionen verwendet. In Deutschland ist derzeit eine Version des Normalhöhennull die amtlichen Bezugshöhe.
+
+
+== Meeresspiegel als Höhenbezug ==
+Bezugsflächen können mit Hilfe der Geodäsie genau definiert sein. Je nach Land oder Anwendung werden unterschiedliche Berechnungsmethoden (Höhendefinitionen) und unterschiedliche Bezugshöhen verwendet. Einige Systeme haben nur regionale Bedeutung (z. B. das Helgoland Null) oder beziehen sich wie das Wiener Null auf von Flusspegeln abgeleitete Höhendefinitionen. Im 18. und 19. Jahrhundert wurde die Verwendung einer festgelegten Höhendefinition meist auf das gesamte jeweilige Staatsgebiet ausgedehnt.
+Für Bezugshöhen der Landesvermessungen wurde oft der definierte Mittelwert eines Küstenpegels oder ein Datumspunkt im Landesinneren als Referenz für einen Nullpunkt herangezogen. Von hier aus werden die über das gesamte Land verteilten amtlichen Höhenfestpunkte (HFP) netzartig mit einem Nivellement verbunden und so höhenmäßig bestimmt. Wichtige Beispiele für solche Höhendefinitionen in Europa sind die seit 1684 festgelegte Höhe des Amsterdamer Pegels, der Kronstädter Pegel (Mittelwert der Jahre 1825 bis 1839), die beiden Höhendefinitionen am Molo Sartorio aus den Jahren 1875 und 1900 oder der Pegel Marseille (Mittelwert der Jahre 1884 bis 1896). Mit Festlegung des Nullpunktes des Höhenbezugssystems wurde die Höhenangabe von Wasserspiegelschwankungen des ursprünglichen Pegels unabhängig. An die Abhängigkeit von einem Wasserstand erinnert nur noch das Wort Pegel im Namen. Beispiele für Referenzpunkte im Landesinneren sind der ehemalige deutsche Normalhöhenpunkt 1879 in Berlin oder der Repère Pierre du Niton (an einem Felsen im Hafen von Genf) in der Schweiz.
+Es wird versucht, Höhendefinitionen international zu vereinheitlichen, in Europa beispielsweise im Europäischen Höhenreferenzsystem und dem United European Levelling Net (UELN). Seit 2015 befindet sich das International Height Reference System (IHRS) als weltweit gültiges Höhen-Bezugssystem im Aufbau.
+
+
+== Amtliche Höhensysteme ausgewählter Länder ==
+Die Unterschiede Δ zwischen den Höhensystemen betragen in der Regel wenige Zentimeter bis einige Dezimeter, können in Extremfällen auch Meter annehmen.Eine Umrechnung zwischen den verschiedenen Systemen mit einem konstanten Wert ist nur sehr ungenau (> 1 dm) möglich, da der Korrekturwert auch von der Lage im Höhennetz und bei abweichender Höhendefinition auch von der Höhe abhängt. Letzteres wirkt sich besonders im Hochgebirge aus.
+
+
+=== Grenzüberschreitende Bauwerke ===
+Eine besondere Bedeutung haben die unterschiedlichen Höhensysteme bei grenzüberschreitenden Bauwerken, wobei es auch zu Fehlern kommen kann. So wurde beispielsweise 2003 bei der Hochrheinbrücke die errechnete Differenz von 27 cm zwar prinzipiell berücksichtigt, jedoch wurde durch einen Vorzeichenfehler der Unterschied auf 54 cm verdoppelt.
+
+
+== Höhenangaben mit GPS ==
+Mit dem Global Positioning System (GPS) werden ellipsoidische Höhen über dem Referenzellipsoid des World Geodetic Systems (WGS84) bestimmt. Diese Höhenwerte sind in Deutschland 36 m (in Vorpommern) bis 50 m (im Schwarzwald und in den Alpen) höher als Angaben nach Normalhöhennull. Bei Handempfängern werden die GPS-Höhen meist direkt vom Empfänger über ein Geoidmodell in lokale Höhenwerte umgerechnet. Mit professionellen GPS-Geräten ist eine sehr genaue Höhenbestimmung möglich. Zur Umrechnung von Höhen über WGS84 in den aktuellen deutschen Höhenreferenzrahmen DHHN2016 muss dann das dazugehörige Quasigeoidmodell GCG2016 verwendet werden.
+
+
+== Höhenangaben in Karten ==
+Die Geländehöhe wird in topografischen Karten mittels Höhenpunkten (Koten), Höhenlinien oder farbigen Höhenschichten dargestellt. Bei Höhenangaben von Ortschaften wird oft ein repräsentativer Punkt im Zentrum gewählt. Das ist meist der Marktplatz, ein Punkt am Rathaus, dem Bahnhof oder an der Kirche. Bei Gewässern wird die Höhe des mittleren Wasserstandes angegeben. Höhenpunkte finden sich meist an markanten, wiederauffindbaren Punkten wie z. B. Wegekreuzungen oder -knicken, trigonometrischen Punkten oder Gipfelkreuzen. Die höchsten oder tiefsten Punkte des Geländes sind jedoch nicht immer dargestellt, zum Beispiel, wenn ein trigonometrischer Punkt oder ein Gipfelkreuz nicht an der höchsten Stelle stehen. Das Höhensystem, auf das sich die Höhen der Karte beziehen, sollte am Kartenrand angegeben sein.
+
+
+== Höhenangaben in der Seefahrt ==
+In der Seefahrt und in Seekarten benutzt man das sogenannte Seekartennull (SKN) (auch Kartennull), das sich auf Lowest Astronomical Tide (LAT) in Tidengewässern, beziehungsweise auf Mittleren Wasserstand (MW) in tidenfreien Gewässern bezieht. Höhen im Meer werden, auf SKN bezogen, als Wassertiefe angegeben (negative Höhe, seewärts der Linie des Seekartennulls). Höhen an der Küste, also im Watt vom Seekartennull bis zur Küstenlinie, werden ebenfalls auf das Seekartennull bezogen (positive Höhe). Höhen landwärts der Küstenlinie hingegen beziehen sich meist auf die jeweilige Bezugshöhe.
+
+
+== Höhenangaben in der Luftfahrt ==
+In der Luftfahrt findet die Höhe über dem Meeresspiegel unter der englischsprachigen Bezeichnung (Above) Mean Sea Level ((A)MSL) unter anderem zur Angabe von Flughöhen und Hindernishöhen Anwendung. MSL ist dabei über das EGM-96-Geoid definiert, das auch in WGS 84 verwendet wird. In Gebieten, wo EGM-96 nicht die benötigte Genauigkeit erreicht, können abweichend regionale, nationale oder lokale Geoid-Modelle verwendet werden. Diese werden dann im entsprechenden Luftfahrthandbuch bekanntgegeben.
+
+
+== Literatur ==
+Herbert Heyde: Die Höhennullpunkte der amtlichen Kartenwerke europäischer Staaten und ihre Lage zu Normal-Null. Hrsg.: Manfred Spata (= Schriftenreihe des Förderkreises Vermessungstechnisches Museum e. V. Band 28). Förderkreis Vermessungstechnisches Museum, Dortmund 1999, ISBN 3-00-004699-2 (Erstausgabe:  Berlin  1923, Dissertation, erstveröffentlicht in: Zeitschrift der Gesellschaft für Erdkunde. 1928. Neu herausgegeben und mit einem Nachwort versehen durch Manfred Spata). 
+
+
+== Weblinks ==
+Erklärung von Höhenreferenzsystemen (BKG)
+Beschreibungen und Transformationsparameter europäischer Höhenbezugssysteme. BKG
+Umrechnung zwischen WGS84 Referenz-Ellipsoid und EGM96 Geoid
+Kartenbezugssysteme
+Ein Meeresspiegel für alle – Das Schwerefeld der Erde als Basis des Internationalen-Höhen-Referenz-Systems Pressemitteilung der Technischen Universität München zum Internationalen Höhen-Referenz-System, IHRS; abgerufen am 6. April 2021
+Andreas Pfeufer: Fehlerquelle Höhensystem. (PDF) In: DEGA Galabau. Februar 2010, S. 18, abgerufen am 27. März 2018. 
+
+
+== Einzelnachweise ==

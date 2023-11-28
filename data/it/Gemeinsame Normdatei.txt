@@ -1,0 +1,58 @@
+Il Gemeinsame Normdatei (GND) è un sistema di controllo di autorità gestito dalla Biblioteca nazionale tedesca in collaborazione con altre biblioteche, principalmente di aree di lingua tedesca, che ne curano gli aggiornamenti tramite OAI. Serve per catalogare dati su persone, persone giuridiche, enti, opere, argomenti, congressi ed eventi, elementi geografici. Viene utilizzato principalmente dalle biblioteche, ma in maniera crescente anche da archivi, musei e per applicazioni in rete.
+I dati del GND agevolano la procedura di catalogazione, consentono approcci di ricerca univoci e la possibilità di collegamento a differenti fonti di informazione. Inoltre fanno parte del sistema Virtual International Authority File (VIAF), nel quale il GND viene collegato virtualmente con altri controlli di autorità a livello internazionale.
+Dal 19 aprile 2012 GND ha sostituito le liste di controllo fino a quel momento utilizzate per le persone, le istituzioni, i soggetti e i titoli dall'Archivio musicale tedesco (Deutsches Musikarchiv, DMA-EST-Datei).
+Da luglio 2014 vengono inclusi i dati del RDA, utilizzati fra gli altri anche dalla Library of Congress.Il GND utilizza le specifiche del MARC 21 e pone gratuitamente a disposizione i dati in formato RDF con licenza CC0.
+
+
+== Storia ==
+GND fa parte di un progetto globale della Deutsche Nationalbibliothek, iniziato nel 2009 e conclusosi il 30 giugno 2012, rivolto all'insieme delle biblioteche di lingua tedesca e delle banche dati in rete di periodici elettronici. Lo scopo del progetto era quello di riunificare i vari tipi di dati fino ad allora gestiti separatamente, uniformandone il formato ed adattandone le regole esistenti.
+La costruzione del formato si basava su diverse regole preesistenti: le regole per la catalogazione alfabetica (Regeln für die alphabetische Katalogisierung, RAK-WB e RAK-Musik) per la forma, e le regole per la catalogazione semantica (Regeln für den Schlagwortkatalog, RSWK) per il contenuto.
+Le regole preesistenti per la costruzione dei termini accettati non erano omogenee e conducevano a risultati ridondanti, in particolare per quanto riguardava gli enti, i congressi e le aree geografiche. Pertanto per il GND vennero concepite disposizioni transitorie nel caso di deviazioni delle regole per la parte formale e per quella semantica, in modo da consentire un utilizzo generale per la composizione dei dati. Tali disposizioni transitorie si allineavano per quanto possibile alle regole del RDA.
+Anche il formato dei dati dell'archivio di controllo, così come i formati interni e quelli di scambio, si differenziavano a volte considerevolmente. Attraverso il ricongiungimento di tutti i formati esistenti nell formato di scambio di GND, basato sulla specifica MARC 21, potevano essere sanate tutte le disparità.
+
+
+=== IN2N ===
+Nel dicembre 2012 venne lanciato il progetto di cooperazione denominato Institutionenübergreifende Integration von Normdaten (IN2N, "Estensione alle Istituzioni dell'integrazione dei dati") fra la Deutschen Nationalbibliothek (DNB) e l'Istituto cinematografico tedesco (Deutschen Filminstitut, DIF).
+Scopo di tale progetto, nato dalla Società tedesca per la ricerca (Deutsche Forschungsgemeinschaft, DFG) era la possibilità di utilizzare l'archivio GND al di fuori dell'ambito bibliotecario, coinvolgendo le istituzioni nell'aggiornamento dei dati.All'interno del progetto venne anche reso possibile l'allineamento dei dati con le voci di persona su Wikipedia.Alla fine del 2014 venne completato l'allineamento dei dati del DIF nel GND. Nei mesi precedenti nel GND erano intanto confluiti i dati, fra gli altri, dell'Istituto latino-americano di Berlino e del sito di ricerca scientifica per l'Europa orientale dell'Università di Brema.
+Il contenuto del Gemeinsame Normdatei nel giugno 2015 superava gli undici milioni di dati; sul sito web della Biblioteca nazionale tedesca vengono riportati aggiornamenti periodici sulle variazioni nel contenuto e nei formati.
+
+
+== Caratteristiche ==
+Nell'archivio GND viene fornito per ogni entità un codice univoco che sta alla base dell'Uniform Resource Identifier. Inoltre sono stabilite le regole in base alle quali vengono identificati i termini da utilizzare al posto di altri e registrate le forme divergenti e le diverse caratteristiche descrittive, che possono essere facilmente archiviate in rapporto ad altri dati dei quali sia stato singolarmente codificato il tipo di relazione.Esempi di caratteristiche poste in relazione sono i luoghi di nascita e di morte delle persone, così come le loro attività professionali. Per gli enti possono essere le istituzioni precedenti e successive, ma anche gli enti sovraordinati da un punto di vista amministrativo. In tal modo si crea una rete di connessioni fra i dati che facilita la ricerca e la navigazione sul web.
+
+
+== Note ==
+
+
+== Bibliografia ==
+(DE) Eva-Maria Gulder, Die Gemeinsame Normdatei (GND) (PDF), su bibliothek.uni-augsburg.de, Bayerische Staatsbibliothek München, settembre 2011. URL consultato il 15 agosto 2015.
+(DE) Renate Behrens-Neumann, Die Gemeinsame Normdatei (GND). Ein Projekt kommt zum Abschluss, in Dialog mit Bibliotheken : Fachzeitschrift für die Bezieher und Nutzer der zentralen Dienstleistungen der Deutschen Bibliothek, vol. 24, n. 1, Frankfurt am Main, Deutsche National Bibliothek, 2012,  pp. 25–28, ISSN 0936-1138, OCLC 906632192. URL consultato il 15 agosto 2015.
+(DE) Brigitte Wiechmann, Die Gemeinsame Normdatei (GND) : Rückblick und Ausblick, in Dialog mit Bibliotheken : Fachzeitschrift für die Bezieher und Nutzer der zentralen Dienstleistungen der Deutschen Bibliothek, vol. 24, n. 2, Frankfurt am Main, Deutsche National Bibliothek, 2012,  pp. 20-22, ISSN 0936-1138, OCLC 906632192. URL consultato il 14 agosto 2015.
+(DE) Renate Behrens-Neumann, Aus der 62. Sitzung der Arbeitsgemeinschaft der Verbundsysteme am 17. und 18. April 2012 in München (PDF), su dnb.de, Deutsche Nationalbibliothek, 2012. URL consultato il 13 agosto 2015 (archiviato dall'url originale il 23 settembre 2015).
+(DE) Alexander Haffner, Institutionenübergreifende Integration von Normdaten (IN2N), in Dialog mit Bibliotheken : Fachzeitschrift für die Bezieher und Nutzer der zentralen Dienstleistungen der Deutschen Bibliothek, vol. 25, n. 2, Frankfurt am Main, Deutsche National Bibliothek, 2013,  pp. 42-45, ISSN 0936-1138, OCLC 906632192. URL consultato il 14 agosto 2015 (archiviato dall'url originale il 23 settembre 2015).
+(DE) Renate Behrens e Christine Frodl, Erste Meilensteine im RDA-Projekt, in Dialog mit Bibliotheken : Fachzeitschrift für die Bezieher und Nutzer der zentralen Dienstleistungen der Deutschen Bibliothek, vol. 26, n. 1, Frankfurt am Main, Deutsche National Bibliothek, 2014,  pp. 25–31, ISSN 0936-1138, OCLC 906632192. URL consultato l'11 agosto 2015 (archiviato dall'url originale il 23 settembre 2015).
+(DE) Heike Eichenauer, Datendienst: Aktueller Grundbestand der Gemeinsamen Normdatei (GND) (PDF), su dnb.de, Deutsche Nationalbibliothek, 8 giugno 2015. URL consultato il 13 agosto 2015 (archiviato dall'url originale il 23 settembre 2015).
+(DE) Heike Eichenauer, Neue Entwicklungen in den Datendiensten und informationen zu Formatänderungen , su dnb.de, Deutsche Nationalbibliothek. URL consultato il 13 agosto 2015.
+(DE) GND-Formate und Schnittstellen, su dnb.de, Deutsche Nationalbibliothek. URL consultato il 13 agosto 2015 (archiviato dall'url originale il 23 settembre 2015).
+(DE) Datendienst "Bibliografische Dienstleistungen", su dnb.de, Deutsche Nationalbibliothek. URL consultato il 13 agosto 2015 (archiviato dall'url originale il 23 settembre 2015).
+(DE) GND: Liste der Codierungen in Unterfeld $4 – alphabetisch nach Code (PDF), su dnb.de, Deutsche Nationalbibliothek. URL consultato il 14 agosto 2015 (archiviato dall'url originale il 23 settembre 2015).
+(DE) IN2N, su deutsches-filminstitut.de, Das Deutsche Filminstitut. URL consultato il 14 agosto 2015 (archiviato dall'url originale il 12 agosto 2015).
+
+
+== Voci correlate ==
+Biblioteca nazionale tedesca
+Associazione delle biblioteche tedesche
+Associazione delle biblioteche austriache
+
+
+== Collegamenti esterni ==
+
+(DE) Sito ufficiale, su gnd.network. 
+ Gemeinsame Normdatei, su ISIL. 
+(EN) Informazioni sul sistema GND, su dnb.de. URL consultato il 1º marzo 2015 (archiviato dall'url originale il 25 febbraio 2015).
+(DE) Ricerca sui dati GND, su swb.bsz-bw.de.
+(DE) Biblioteca nazionale tedesca, Gemeinsame Normdatei (GND), su dnb.de, Deutsche Nationalbibliothek, 16 marzo 2015. URL consultato il 13 agosto 2015 (archiviato dall'url originale il 10 giugno 2020).
+(DE) DNB-Portal, su dnb.de, Deutsche Nationalbibliothek. URL consultato il 15 agosto 2015.
+
+(EN) Risorse bibliotecarie su Gemeinsame Normdatei: tua biblioteca (se impostata) · altre biblioteche 
+(EN) Risorse bibliotecarie con autore Gemeinsame Normdatei: tua biblioteca (se impostata) · altre biblioteche

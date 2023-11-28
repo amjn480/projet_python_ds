@@ -1,0 +1,63 @@
+Encyklopedia internetowa – kompendium ludzkiej wiedzy zapisane i udostępnione w Internecie.
+Pierwszą internetową encyklopedię postanowiono stworzyć w 1991 roku. Wówczas przygotowano internetową wersję The Hitchhiker's Guide to the Galaxy.
+
+
+== Najwcześniejsze encyklopedie internetowe ==
+Najprawdopodobniej pierwsza wolna encyklopedia pisana przez ochotników ruszyła w 1991 roku. Została ona zainicjowana przez czytelników grupy usenetowej alt.fan.douglas-adams, którzy rozpoczęli projekt polegający na stworzeniu prawdziwej wersji The Hitchhiker's Guide to the Galaxy, fikcyjnej encyklopedii używanej w pracach Douglasa Adamsa. Projekt stał się znany jako Project Galactic Guide. Początkowo miał zawierać prawdziwe i rzeczowe artykuły, zasada ta została zmieniona tak, aby można było tworzyć artykuły na tematy niewyobrażalne i nierealne. Project Galactic Guide zawiera około 1700 artykułów. Od 2000 roku nie powiększano tej liczby artykułów. Prawdopodobnie pośrednią przyczyną tego zastoju było założenie h2g2, bardziej oficjalnego projektu z podobnymi zasadami.
+Kluczową gałęzią digitalizacji domeny publicznej była digitalizacja starych encyklopedii. W styczniu 1995 wystartował Projekt Gutenberg mający na celu upublicznienie tekstu jedenastej edycji Encyklopedii Britannica (z 1911 roku), ale spór związany z metodami wstrzymał prace nad pierwszym tomem. Z powodu znaków towarowych encyklopedia ta została opublikowana jako Gutenberg Encyclopedia. W 2002 roku tekst wszystkich 28 tomów został opublikowany przez inne źródło na stronie o nazwie Classic encyclopedia.
+Projekt Gutenberg ponownie rozpoczął pracę nad digitalizacją tej encyklopedii, jednak do czerwca 2005 roku wciąż nie została ona wydana. W tym czasie, przed obliczem rywali takich jak Encarta, ostatnia Britannica została przepisana przez ich wydawców i wydana jako pierwsza encyklopedia na płycie CD, a następnie udostępniona jako serwis internetowy.
+Najprawdopodobniej najważniejszym udanym procesem digitalizacji encyklopedii był projekt o nazwie Bartleby Project opierający się na Columbia Encyclopedia, Sixth Edition, 2000, która została udostępniona na stronie tego projektu w początku 2000 roku i jest okresowo uaktualniana.
+
+
+== Wybrane encyklopedie internetowe ==
+
+
+=== Polskojęzyczne ===
+Polska Wikipedia – polskojęzyczna Wikipedia powstała 26 września 2001.
+Encyklopedia PWN – bezpłatna encyklopedia powszechna
+WikiZagłębie – regionalna encyklopedia poświęcona Zagłębiu Dąbrowskiemu, powstała 26 czerwca 2011.
+Encyklopedia Województwa Śląskiego – powstała 26 października 2013.
+Dubbingpedia – polska encyklopedia dubbingu filmowego.
+
+
+=== Obcojęzyczne ===
+Encyklopedia Britannica – bezpłatna encyklopedia powszechnaEncyklopedia Britannica (1911) – Encyklopedia Britannica wydana w 1911 r., dostępna w Wikiźródłach jako 1911 Encyclopædia Britannica (ang.)Bulbapedia – encyklopedia Pokémonów, stworzona przez użytkowników strony fanowskiej o Pokémonach, Bulbagarden.
+Consumerium – projekt mający na celu opisanie produktów dostępnych w sprzedaży oraz wzrost roli konsumenta na rynku.
+EcuRed – Kubańska encyklopedia internetowa, prezentująca rzeczywistość z perspektywy rewolucji kubańskiej
+Enciclopedia Libre – projekt stworzenia hiszpańskiej encyklopedii używając oprogramowania wiki, publikowanej na licencji GFDL.
+Ekşi Sözlük – starszy turecki projekt w założeniach podobny do h2g2.
+Ekopedia jest projektem praktycznej encyklopedii mówiącej o alternatywnych metodach życia.
+Everything2 ma większy zakres artykułów i nie koncentruje się jedynie na tworzeniu encyklopedii. Jej zawartość nie jest dostępna na żadnej licencji copyleft.
+EvoWiki to „Wiki o ewolucji i początkach. Skupia się ona na edukacji ewolucyjnej, częściowo odwołując się do kreacjonizmu i Intelligent Design z perspektywy nauki. Inspirowana przez strony, takie jak talkorigins.org i talkdesign.org, wiki, której celem jest bardziej uzupełnienie niż duplikowanie tych zasobów”.
+h2g2 to kolekcja humorystycznym artykułów encyklopedycznych, bazująca na idei The Hitchhiker’s Guide to the Galaxy stworzonej przez Douglasa Adamsa. Artykuły nie są dostępne na copyleftowej licencji.
+NeoDex to encyklopedia o Neopets, założona przez członków strony fanowskiej Neopets, Pink Poogle Toy.
+Project Galactic Guide – starszy projekt zainspirowany przez The Hitchhiker's Guide to the Galaxy.
+Rehber Ansiklopedisi – internetowa wersja tureckiej encyklopedii „Yeni Reber Ansiklopedisi”, często używana w tureckiej Wikipedii jako źródło informacji
+SourceWatch (początkowo nazwana Disinfopedia) – projekt mający na celu wyjawianie propagandy.
+Turkcebilgi – projekt encyklopedii podobnej do Wikipedii w języku tureckim.
+Wikipedia – najpopularniejszy, wielojęzyczny projekt, powstały 15 stycznia 2001 roku
+MusicBrainz – otwarta encyklopedia muzyczna, najpopularniejszy i największy projekt o tej tematyce
+Encyclopaedia Metallum – encyklopedia muzyki metal obejmująca zespoły metalowe i ich wydawnictwa
+Wikitravel – darmowym przewodnik turystyczny, dostępny od czerwca 2003.
+Yellowikis próbuje być dla książek telefonicznych, tym, czym Wikipedia dla Britanniki.
+YoutubeWiki – encyklopedia kanałów i wideoblogów YouTubeRóżne internetowe encyklopedie zajmują się również specjalnie wybranymi dziedzinami (poniżej lista wybranych matematycznych encyklopedii internetowych):
+
+MathWorld – własnościowy system tworzony w Wolfram Research.
+PlanetMath – darmowa encyklopedia matematyczna oparta o mechanizm wiki. Początkowo tworzona była, by zastąpić MathWorld, który został zamknięty z powodów prawnych. Gdy MathWorld znowu powrócił, PlanetMath nie zostało zamknięte.
+
+
+=== Nieistniejące ===
+Interpedia – projekt encyklopedii internetowej tworzonej przez ogół internautów dyskutowany na grupie usenetowej comp.infosystems.interpedia; nie doszedł do skutku.
+Nupedia – projekt tworzenia encyklopedii internetowej tworzonej przez ogół internautów, ale z procesem recenzowania przez ekspertów; Nupedia została zamknięta 26 września 2003; przez proces recenzji przeszło do tego czasu kilka artykułów, które zostały włączone do Wikipedii.
+GNUPedia, inicjatywa Richarda Stallmana, zaproponowana w 1999, funkcjonowała w latach 2001–2002; miała uproszczony w stosunku do Nupedii system recenzowania przez wybieranych przez Stallmana „ekspertów” wywodzących się z grona edytorów tej encyklopedii; projekt został zamknięty przez Stallmana, artykuły zostały przeniesione do Wikipedii.
+
+
+== Zobacz też ==
+biblioteka cyfrowa
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+Atlas krajowych encyklopedii internetowych świata

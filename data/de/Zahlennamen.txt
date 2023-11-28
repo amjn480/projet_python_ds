@@ -1,0 +1,201 @@
+In diesem Artikel geht es um den Aufbau von Zahlennamen und die Benennung von Zahlen im Dezimalsystem. Diese Namen wurden 2001 bei der mathematischen Sitzung in Berlin festgelegt.
+
+
+== Der Aufbau von Zahlennamen ==
+Am Beispiel der Zahl vierhundertsiebenundzwanzigtausendfünfhundertvierunddreißig (427.534) kann man den abgestuften Aufbau der Zahlennamen ersehen. Auffällig ist dabei in der deutschen Sprache die systematische Umkehrung der Zehner- und der Einerstelle, die zum Beispiel im heutigen Englischen nur von 13 bis 19 vorkommt.
+
+
+=== Null bis neun ===
+Die Werte der Dezimalziffern sind: null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun. Der Name null steht immer alleine; auf den anderen neun Zahlennamen baut das gesamte Namenssystem auf. Bis auf sieben sind all diese Zahlwörter einsilbig.
+
+
+=== Zehn ===
+Aus dem urgermanischen Wort *tehun, das unter anderem mit altgriechisch deka (δεκα) und lateinisch decem verwandt ist, hat sich über althochdeutsch zehan das heutige Wort zehn entwickelt.
+
+
+=== Elf und zwölf als Ausnahmen ===
+Die Zahlwörter elf und zwölf (von gotisch ainlif und twalif mit der Nachsilbe -lif ‚das Darüberhinausgehende‘) bedeutet eins darüber hinausgehend bzw. zwei darüber hinausgehend, also eins bzw. zwei mehr als die Zehn.Auch in allen anderen germanischen Sprachen, beispielsweise im Englischen (eleven, twelve) oder Niederländischen (elf, twaalf), gibt es diese Ausnahmen. Hier merkt man den früheren Ansatz für ein auf zwölf Zahlen basierendes Zahlensystem. Siehe auch Dutzend (= 12), Schock (fünf Dutzend = 60) und das Gros (zwölf Dutzend = 144).
+
+
+=== Dreizehn bis neunzehn ===
+Im Gegensatz zu den Zahlen über zwanzig, bei denen die Einerstelle und die Zehnerstelle mit und verknüpft werden (siebenundzwanzig), entfällt dies bei den Zahlen von dreizehn bis neunzehn. Bei den Zahlen sechzehn und siebzehn wird die Einerstelle verkürzt ausgesprochen und geschrieben (sechzehn statt „sechszehn“ und siebzehn statt „siebenzehn“).
+
+
+=== Zwanzig bis neunundneunzig ===
+Zwanzig: von gotisch twai tigjus (= „zwei Zehn-Einheiten“), später twai tig. Diese Bildungsform setzt sich bis neunzig fort, wobei auch hier die Endsilben der Sechs und der Sieben teils verkürzt sind (sechzig statt „sechszig“ und siebzig statt „siebenzig“). Eine Ausnahme bildet die Verwendung von dreißig (statt „dreizig“). Die Einereinheit wird zuerst genannt, dabei wird eins zu ein- verkürzt.
+
+
+==== Andere Sprachen ====
+In manchen Sprachen sind noch Reste eines Vigesimalsystems erhalten: Zum Beispiel ist im Französischen (in Frankreich und Kanada) diese Reihe nur bis 60 nach diesem Muster aufgebaut. Danach folgen „sechzig-und-zehn“ (soixante-dix), „vier-mal-zwanzig“ (quatre-vingts) und „vier-mal-zwanzig-und-zehn“ (quatre-vingt-dix). Allerdings gibt es im belgischen Französisch abweichend für 70 und 90 die Zahlwörter septante und nonante und im Schweizer Französisch zusätzlich huitante und octante für 80. Das Dänische kennt für die Zahlen von 50 bis 90 das Vigesimalsystem; so heißt beispielsweise 60 im Dänischen tres(indstyve), d. h. „drei-mal-zwanzig“, oder 50 heißt halvtreds(indstyve), d. h. „halb drei-mal-zwanzig“ (für 2½ × 20).
+Im Gegensatz zur deutschen Sprache kommt in den meisten anderen Sprachen, wie der russischen, ukrainischen, englischen, schwedischen oder französischen, die Zehnereinheit zuerst (z. B. im Englischen twenty-five). Weitere Sprachen, in denen Einer- und Zehnernamen wie im Deutschen gereiht werden, sind das Niederländische, das Dänische, das Luxemburgische, das Slowenische, das Arabische und Hindi. Im Tschechischen sind beide Varianten möglich, d. h. „Zwanzig und eins“ oder „Einundzwanzig“; desgleichen im Norwegischen, wo die dem Deutschen oder Dänischen entsprechende Reihung offiziell per Gesetz durch die dem Englischen oder Schwedischen entsprechende abgelöst wurde, in der gesprochenen Sprache aber nach wie vor üblich ist.
+
+
+=== Hunderter ===
+Hundert: von gotisch hunda und lateinisch centum. Ursprünglich nur als Mehrzahlwort verwendet, das heißt, erst ab zweihundert. Das erste Hundert wurde noch bis ins Mittelhochdeutsche durch das Zahlwort zehen-zec/ic, zehent-, zên-zic („zehnzig“) abgeschlossen. Heutzutage wird entweder die Hundert, oder die einfache Hundert, also Einhundert, verwendet. Um ein Mehrfaches von hundert auszudrücken, wird eine einstellige Zahl vor die Hundert gestellt. So ist der Zahlname für das Dreifache von hundert dreihundert. Wenn das Mehrfache von hundert größer als 9 ist, wechselt man zum Tausender.
+Für den speziellen Zahlenbereich von 1100 bis 1999, also eigentlich schon im nachfolgenden Tausenderbereich, gibt es jedoch im Deutschen – und ähnlich in diversen anderen Sprachen – die Bezeichnungen Elfhundert, Zwölfhundert bis Neunzehnhundert, die bei Jahreszahlen fast ausschließlich verwendet werden (je höher die Zahl, desto seltener ist die Verwendung mit tausend) und ansonsten gelegentlich auch dann, wenn Einer und Zehner fehlen oder sehr einfach sind. Abweichend vom Deutschen wird dies im Englischen auch bis zu Zahlenwerten von 9999 fortgesetzt.
+
+
+=== Tausender ===
+Tausend: von gotisch thusundi. Für Zahlen über Einhundert hat sich im indogermanischen Sprachraum keine einheitliche Bezeichnung entwickelt. Der Wortstamm „Tausend“ kommt nur im germanischen, slawischen und baltischen Sprachraum vor, während im romanischen die Bezeichnung von lateinisch mille hergeleitet ist und im griechischen von χιλιοι.
+
+
+=== Million und Milliarde ===
+Million: von lateinisch mille (= tausend) und -one (vergrößerndes Suffix); also eigentlich „Großtausend“. Die Million ist das Quadrat der Tausend.
+Die Milliarde ist die dritte Potenz zur Tausend oder auch tausend Millionen.
+
+
+=== Billion, Billiarde und darüber hinaus ===
+
+Ab einer Milliarde wiederholt sich das Schema -illion und -illiarde. Die Präfixe leiten sich aus dem Lateinischen ab: Bi- für 2 (Billion und Billiarde), Tri- für 3, Quadri- für 4, Quinti- (auch: Quinqui-) für 5 und so weiter. Sie geben also Potenzen der Million an: eine Billion ist 1 000 0002, eine Trillion ist 1 000 0003, eine Quadrillion ist 1 000 0004 und so weiter. Eine Billiarde sind tausend Billionen. Das gleiche Schema lässt sich auf Trilliarde, Quadrilliarde und so weiter anwenden. Dieses System wird als Lange Skala bezeichnet. Es geht auf Nicolas Chuquet und Jaques Peletier du Mans zurück.
+
+
+=== Unterschied Europa zu USA ===
+
+Seit dem 17. Jahrhundert gibt es zwei unterschiedliche Konventionen für Namen großer Zahlen oberhalb der Million, die auch noch identische Zahlennamen für völlig verschiedene Zahlen verwenden. Das führt in der Praxis oft zu Missverständnissen:
+
+Das in diesem Artikel beschriebene ursprüngliche, seit dem 15. Jahrhundert attestierte System der langen Skala ist das anerkannte Referenzsystem. Die Zahlen ab einer Million werden mit den Namen Million – Milliarde – Billion – Billiarde – Trillion – … bezeichnet, wobei jede Zahl um den Faktor 1000 größer als die vorherige ist.
+Im System der kurzen Skala ist die Billion nur das 1000-Fache einer Million. Das 1000-Fache einer Billion ist dann die Trillion und so weiter. Die Vorsilben entsprechen den Potenzen der Zahl 1000, jedoch ist die lateinische Bedeutung der Vorsilbe stets um 1 kleiner als die Potenz: eine Billion sind also 10003, eine Trillion 10004. Dieses System wurde in einigen Ländern ab dem 17. Jahrhundert gebräuchlich.Das System der langen Skala sollte auf Vorschlag der 9. Konferenz des Bureau International des Poids et Mesures von 1948 weltweit einheitlich verwendet werden. Nachdem auch Frankreich 1961 per Gesetz vom bis dahin üblichen System der kurzen Skala gewechselt hatte, wurde das System der langen Skala für eine kurze Zeit in ganz Europa verwendet. Doch infolge des Einflusses der USA und der internationalen Medien wird immer stärker davon abgewichen. Praktisch alle englischsprachigen Länder einschließlich des Vereinigten Königreichs verwenden es nicht mehr; in Kanada wird es nur mehr im Französisch sprechenden Teil, in Südafrika nur von Afrikaans-Sprechern verwendet.
+Das System der kurzen Skala wird in den USA offiziell verwendet, in den übrigen englischsprachigen Ländern ist es mittlerweile gängiger Sprachgebrauch. Verwendung findet es auch in Puerto Rico, Brasilien und in der Türkei, wobei aber im Sprachgebrauch der Türkei das Wort milyar für Milliarde (109) fest verankert ist. Das britische Englisch hat sich dem US-amerikanischen Sprachgebrauch angepasst. Im US-Englisch fehlen die Bezeichnungen auf die Endung -arde (Milliarde, Billiarde …); im britischen Englisch werden sie nur noch selten verwendet. Mehr zur Entstehung dieses Systems ist im Artikel Billion zu finden. Vielleicht auch wegen der möglichen Missverständnisse sind diese großen Zahlennamen jenseits der billion im täglichen Sprachgebrauch im englischen Sprachraum auch eher selten, meist greift man lieber zu Konstruktionen wie a thousand million millions.
+
+
+== Nomenklatur für Zahlen ab 1.000.000 ==
+
+Zahlwörter mit einem Wert ab 1.000.000 werden nach dem System von Nicolas Chuquet nach lateinischen Präfixen benannt. Eine Ausnahme stellt Million von lat. mille ‚tausend‘ dar. Die Einzelpräfixe, die nicht in Kombinationen mit anderen Präfixen auftauchen, leiten sich von lateinischen Ordinalzahlen ab. Die Kombinationspräfixe leiten sich von lateinischen Kardinalzahlen ab.
+
+Die Präfixe werden als Einer-Zehner-Hunderter kombiniert und die Endung -llion oder -illiarde anfügt. Wird ein Einer-Präfix mit einem Zehner- oder Hunderter-Präfix verbunden, mit dem es einen eingeklammerten Buchstaben gemeinsam hat, wird dieser Buchstabe nach dem Einer-Präfix eingefügt; ansonsten entfallen die eingeklammerten Buchstaben:
+
+tre(s)+(m/s)viginti (s gemeinsam) → tres-viginti → Tresvigintillion (1.000.00023)
+se(x)+(n/x/s)zenti (x gemeinsam) → sex-zenti → Sexzentillion (1.000.000106)
+septe(m/n)+(m/x)oktoginta+(n/x/s)zenti (m gemeinsam) → septem-oktogintazenti → Septemoktogintazentillion (1.000.000187)
+septe(m/n)+(n/s)trezenti (n gemeinsam) → septen-trezenti → Septentrezentillion (1.000.000307)
+se(x)+(n/s)quingenti (keine Übereinstimmung) → se-quingenti → Sequingentillion (1.000.000506)Mit der Endung -illion entspricht die gebildete Zahl 1.000.000n = 10n·6 und mit der Endung -lliarde 1.000.000n+½ = 10n·6+3 (nach Jaques Peletier du Mans):
+
+Zentillion = 1.000.000100 = 10100⋅6 = 10600
+Zentilliarde = 1.000.000100+½ = 10(100+½)⋅6 = 10600+3 = 10603Folgt auf ein Zehner-Präfix ab 30 kein Hunderter-Präfix, wird die Endung -a durch -i ersetzt:
+
+triginta → triginti → Trigintillion (1.000.00030).
+nove(m/n)+nonaginta → novenonaginti → Novenonagintillion (1.000.00099).Die größte Potenz von 10, die sich damit bilden lässt, ist 100·10999·6+3 = 100·1.000.000999+½, also hundert Novenonagintanongentilliarden, eine Eins gefolgt von 5999 Nullen.
+Hinweis: Einige Zahlen, beispielsweise Treszentillion (1.000.000103) und Trezentillion (1.000.000300), werden ähnlich geschrieben und ausgesprochen.
+
+
+=== Ab 6000 Nullen ===
+John Horton Conway und Allan Wechsler haben eine Erweiterung des obigen Systems zur Darstellung einer Zahl mit 6000 und mehr Nullen vorgeschlagen:Um das Zahlwort zu 1.000.000n oder 1.000.000n+½ bilden, wird n in Dreiergruppen aufgeteilt. Jede Dreiergruppe wird separat als Hunderter-Zehner-Einer-Tripel wie oben behandelt, wobei die Gruppe 000 mit -ni- (von lat. nihil ‚nichts‘) wiedergegeben wird. Die Gruppen werden mit -lli- verbunden und an die resultierende Kette wird schließlich -llion oder -lliarde angehängt.
+Beispiel: Die Zahl 1.000.00015.500.000.001 heißt
+
+quindezi- für 15 + -lli- (weil eine weitere Gruppe folgt),
+quingenti- für 500 + -lli- (weil eine weitere Gruppe folgt),
+-ni- für 000 (Nuller-Gruppe) + -lli- (weil eine weitere Gruppe folgt),
+mi- für 001 (Einzelpräfix) + -llion (letzte Gruppe),insgesamt: Quindezi-lli-quingenti-lli-ni-lli-mi-llion.
+Das Zahlwort für 1.000.0001000 lautet folglich: Mi-lli-ni-llion.
+
+
+=== Synonyme ===
+Sexdezillion = Sedezillion
+Novemdezillion = Novendezillion
+Quinquillion = QuintillionNach dem System von Nicolas Chuquet kann man von (spät)lateinischen Zahlwörtern folgende Präfixe herleiten:
+18 – duodeviginti
+19 – undeviginti
+28 – duodetriginta
+29 – undetriginta
+38 – duodequadraginta
+39 – undequadraginta
+48 – duodequinquaginta
+49 – undequinquaginta
+58 – duodesexaginta
+59 – undesexaginta
+68 – duodeseptuaginta
+69 – undeseptuaginta
+78 – duodeoctoginta
+79 – undeoctoginta
+88 – duodenonaginta
+89 – undenonaginta
+98 – duodecenti
+99 – undecenti
+
+
+=== Abkürzungen ===
+Die folgenden Abkürzungen sind üblich:
+
+
+==== Deutsch ====
+Mio. = Million
+Mill. = Million/Millionär
+Mrd./Mia./Md. = Milliarde
+Bio./Bill. = Billion
+Brd./Bld. = Billiarde
+
+
+==== Englisch ====
+m/mn = million (= Million = 106)
+b/bn = billion (= Milliarde = 109)
+t/tn = trillion (= Billion = 1012) seltenDie Abkürzungen kommen auch mit Punkt vor: m., mn., b. usw.
+
+
+== Zusammenstellung der Unregelmäßigkeiten (deutsche Sprache) ==
+Es wird erst die Hunderter-, dann die Einer- und dann die Zehnersilbe genannt.
+Man verwendet die Nachsilbe „-zig“ anstatt „-zehn“, eine Ausnahme ist „-ßig“ bei dreißig.
+Die Zahl 10 heißt „zehn“ (statt „einzig“).
+Die Zahl 11 heißt „elf“ (statt „einszehn“).
+Die Zahl 12 heißt „zwölf“ (statt „zweizehn“).
+Die Zahl 20 heißt „zwanzig“ (statt „zweizig“).
+Bei einer Zahlenzusammensetzung mit „eins-“ wird das „s“ generell gestrichen (Beispiel „einhundert“).
+Bei einer Zahlenzusammensetzung mit „sechs-“ wird das „s“ in den beiden Sonderfällen „sechzehn“ und „sechzig“ gestrichen und die Buchstabenkombination „ch“ nicht wie „k“, sondern mit dem Ichlaut gesprochen.
+Bei einer Zahlenzusammensetzung mit „sieben-“ wird das „en“ in den beiden Sonderfällen „siebzehn“ und „siebzig“ gestrichen.
+Einer- und Zehnersilbe werden ab der Zahl 21 mit „und“ verknüpft (Beispiel „einundzwanzig“).
+
+
+== Brüche ==
+Bruchzahlen werden mit den Ordinalzahlen und dem Suffix -el gebildet: drittel (nicht: dreitel), viertel, fünftel usw.
+Die Begriffe eintel (anstatt ganz) und zweitel (anstatt halb) sind ungebräuchlich.
+Bruchzahlen als Adjektive können auch substantiviert werden, beispielsweise sind zwei Sechstel gleich ein Drittel.
+
+
+== Myriade und Myriaden ==
+Die Myriade steht für eine Anzahl von 10.000 (altgriech. μυριάς – myriás), dazu die Längeneinheit Myriameter = 10.000 m. Der Plural Myriaden bezeichnet hingegen eine unzählbare Menge (μύριοι – mýrioi: unzählige, unendlich viele).
+
+
+== Zig ==
+Der umgangssprachliche Ausdruck zig beschreibt eine Zahl, die – von daher stammt der Begriff – aus dem Bereich der auf -zig endenden Zahlen, also zwanzig bis neunundneunzig stammen kann. Das überwiegend nur gesprochene Wort lässt anklingen, dass die damit abgeschätzte Zahl subjektiv als hoch empfunden wird. Zig ist mehr als ungefähr oder ein gutes Dutzend, jedoch weniger als knapp / an die hundert.
+Zu Beginn der Erzählung der bekannten Trilogie Der Herr der Ringe des britischen Schriftstellers J. R. R. Tolkien feiert der Hobbit Bilbo Beutlin seinen einundelfzigsten (111.) Geburtstag.
+
+
+== Zillion ==
+Aufgrund nicht mehr fassbarer Zahlenwerte wurde im Englischen in Anlehnung an Million, Billion und wohl auch an Zahlennamen wie decillion, undecillion, duodecillion usw. das Wort „zillion“ geprägt, das umgangssprachlich für eine gewaltige, jedoch unbestimmte Anzahl steht und keine mathematische Gültigkeit hat.
+Erstmals nachweisbar ist „Zillion“ 1944 beim Journalisten und Schriftsteller Damon Runyan (1880–1946), doch finden sich schon früher mit „Bazillion“ (1939, NY Times), „Jillion“ [ʤilljən] (1942) und „Squillion“ (1943) ähnlich gebildete Namen für fiktive Zahlen unermesslicher Größen. Seither hat sich die Zahl solcher im Allgemeinen scherzhaft oder als Jargon gebrauchter englischer Phantasienamen für große Zahlen stark vermehrt, wenn auch keiner dieser Namen so großen Anklang gefunden hat wie „Zillion“. Beispielsweise existieren jetzt (in alphabetischer Ordnung):
+
+bajillion, bazillion, bizillion, brazillion (zu Brazil = Brasilien), dillion, fantillion, gadzillion, gagillion, gajillion, gazillion, godzillion (zu Godzilla),  grillion, hojillion, jillion, kabillion, kajillion, katrillion, kazillion, killion, quazadrillion, robillion, skillion, squidillion, squillion, trazillion, umptillion (zu umpteen = „zig“).Im Deutschen finden sich diese Bezeichnungen jedoch wohl nur in Übersetzungen angelsächsischer Quellen. Die Donald-Duck-Übersetzerin Erika Fuchs allerdings hat Dagobert Ducks Vermögen von 607 Tillionen, 386 Zillionen etc. bzw. von 5 multiplujillion, 9 impossibidillion, 7 fantasticatrillion bzw. von 5 billion quintiplitillion unptuplatillion multuplatillion impossibidillion fantasticatrillion Dollars umgerechnet und mit ihren Wortschöpfungen von Fantastilliarden, Fantastillionen und Pimpillionen wiedergegeben.
+In ein anderes System gebracht wurden fiktive Zahlen unter Einschluss von zoogol und gazoogol (Neuschöpfungen in Anlehnung an das vom neunjährigen Mathematikerneffen Milton Sirotta 1938 geprägte „Googol“ – 
+  
+    
+      
+        
+          10
+          
+            100
+          
+        
+      
+    
+    {\displaystyle 10^{100}}
+  , also 1 mit 100 Nullen) vom franko-amerikanischen „Pataphysiker“ André Joyce in der Darstellung von Michael Joseph Halm.Eine popkulturelle Erwähnung der Zillionen findet sich im Album How to Be a … Zillionaire! der Gruppe ABC.
+
+
+== Siehe auch ==
+Liste besonderer Zahlen
+Römische Zahlschrift – Römische Ziffern
+Schreibweise von Zahlen
+Vorsätze für Maßeinheiten
+Zahlwortsysteme - beschreibt die Struktur der Benennung von Zahlen
+Zahlen in unterschiedlichen Sprachen
+Zahlensymbolik – Numerologie
+Zahlensystem
+Zahlwort
+Zwanzigeins – Verein Zwanzigeins
+
+
+== Weblinks ==
+
+Zahlennamen in USA und Europa
+
+
+== Einzelnachweise ==

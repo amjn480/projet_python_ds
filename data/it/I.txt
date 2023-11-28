@@ -1,0 +1,38 @@
+I o i è la nona lettera dell'alfabeto italiano e latino. Nella sua forma maiuscola, il simbolo può anche rappresentare la lettera iota dell'alfabeto greco o la vocale quasi anteriore quasi chiusa non arrotondata nell'alfabeto fonetico internazionale. Nella sua forma minuscola, il simbolo può anche rappresentare la vocale anteriore chiusa non arrotondata.
+
+
+== Storia ==
+Nelle lingue semitiche, la lettera Jodh rappresentava probabilmente un braccio e una mano, derivando dal geroglifico con suono [ʕ]. Il semitico però conservò solo un suono semi-consonantico [j] (come nella parola aia), dal momento che la parola che significava "braccio" iniziava probabilmente con questo suono. La lettera poteva tuttavia conservare il suono vocalico [i] nella pronuncia delle parole straniere.
+Il greco derivò da questa lettera la iota, una vocale breve. Essa passò poi senza mutare forma all'alfabeto etrusco e infine a quello latino. Furono gli amanuensi del Medioevo ad aggiungere un punto sopra la i, per distinguerla dalla u, dalla m e dalla n simili nella scrittura gotica. Da essa si evolve poi la J in alcune lingue per indicare la semi-consonante, ma le due lettere si differenziarono nettamente solo a partire dal XVI secolo.
+
+
+== Lettera I nell'ortografia italiana ==
+Nell'ortografia italiana la lettera I ha un ruolo particolare per la sua poliedricità, avendo diverse funzioni fonologiche e grafiche.
+Complessivamente si possono identificare quattro tipi di I nell'uso complessivo che l'ortografia italiana fa di tale lettera: una I vocalica, una semiconsonantica, una diacritica e, ancora, una di natura meramente "ortografica". Tale classificazione per quanto oggettiva è del tutto priva di qualsiasi carattere funzionale o ufficiale (generalmente non è accennata nelle grammatiche), ma viene qui usata per spiegare meglio la complessità del fenomeno.
+La I è vocalica quando rappresenta il fonema vocalico /i/. Ciò avviene sempre quando è sede dell'accento di parola. Quando non è sede di accento, I è vocalica quando rappresenta un nucleo di sillaba, e cioè più comunemente quando è interposta tra due consonanti o precede una vocale di un'altra sillaba (vi-à-le) o, in principio di parola, quando precede una consonante o una vocale di un'altra sillaba (i-o); conserva questo valore quando, in presenza di altri segni vocalici, forma la coda di un dittongo discendente (ai, ei, oi, ui), anche se in questo caso sarebbe più corretto definirla semivocale.
+La I è semiconsonantica quando rappresenta il fonema semiconsonantico /j/, ovvero tutte quelle volte in cui la I è primo elemento di un dittongo e trittongo che non rientrano nei casi di sopra, o quando è tra due vocali. In passato, fino alla prima metà del XX secolo, era sentita la necessità, o il vezzo, di distinguere questi due statuti fonetici anche graficamente, scrivendo quest'ultimo con la lettera J, ma limitata ai casi in cui la semiconsonante fosse in principio di parola ("Jonio"), intervocalica ("notajo") o come terminazione del plurale dei nomi in -io atono ("varj"), ma mai in altri contesti (*"bjanco"). Caratteristica di I semiconsonantica è l'influenza esercitata sull'elisione: l'elisione degli articoli lo, la e gli (e delle rispettive preposizioni articolate) avviene molto raramente davanti a parole inizianti per I semiconsonantica, preferendosi optare per le forme intere (lo iato; la Iolanda) mentre è molto comune, e in alcuni casi obbligatoria, davanti a I vocalica (l'indice).
+La I ha valore diacritico quando non rappresenta alcun fonema ma determina, da sola o in unione ad un altro segno grafico immediatamente precedente, il valore fonetico di una lettera precedente, che da sola sarebbe differente. Nel primo caso la I diacritica forma un digramma (ci; gi) e nel secondo, un trigramma (sci e gli). Tutti questi composti possono precedere tutte le quattro le restanti vocali, ma quando i primi tre precedono E, il valore diacritico della I viene meno: in questi casi infatti E oltre a conservare il suo valore fonologico assume anche lo stesso valore diacritico di I, per cui ce, ge e sce hanno lo stesso identico suono di cie (/ʧe/), gie (/ʤe/) e scie (/ʃe/), e la I risulta quindi superflua, cioè puramente ortografica.
+Possiamo considerare ortografica, cioè occorrente dal punto di vista meramente ortografico, quella I che non ha funzione fonologica né diacritica, ma comunque richiesta dall'ortografia in quanto motivata da più profonde ragioni d'ordine storico, etimologico (sufficiente, per influenza culturale del modello latino) o grammaticale (per esempio nella voce verbale sogniamo I è parte della desinenza -iamo) o, ancora, per semplice convenzione (cielo, per distinguerlo da celo, voce verbale).
+
+
+== Note ==
+
+
+== Voci correlate ==
+I eufonica
+Alfabeto
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni di o su I
+ Wikizionario contiene il lemma di dizionario «i»
+ Wikimedia Commons contiene immagini o altri file su I
+
+
+== Collegamenti esterni ==
+
+ i, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+ i, I, su Vocabolario Treccani, Istituto dell'Enciclopedia Italiana. 
+(EN) i, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ i, in Enciclopedia dantesca, Istituto dell'Enciclopedia Italiana, 1970.

@@ -1,0 +1,34 @@
+YouTube is 'n webwerf wat gebruikers in staat stel om video's op te laai, koers, kommentaar, deel, en na ander opgelaaide video's te kyk. Die webwerf behels films, musiek videos, nuus, opvoedkundige programme, sowel as video blogs, skyfievertonings, humoristiese video's, en nog baie meer te kyk. YouTube is tans die grootste video webwerf op die Internet.
+YouTube is in Februarie 2005 opgerig deur drie voormalige PayPal medewerkers. 'n Groot verskil met ander video webwerwe in die tyd was dat alle video's outomaties omgeskakel word na een formaat wat vir baie mense toeganklik is, Flash video (.flv). Dit, gekombineerd daarmee dat die hele webwerf gratis vir gebruik is, het daarvoor gesorg dat YouTube nou die grootste videowebwerf op die internet geword het, en één van die grootste webwerwe op die internet in sy geheel.
+Die meerderheid van die video's op YouTube word deur indiwiduë uit die publiek uit opgelaai, alhoewel sommige mediamaatskappye soos CBS, BBC, VEVO, Hulu en andere ook van hulle eie materiaal beskikbaar stel. Ongeregistreerde YouTube gebruikers kan gratis na video's kyk, terwyl geregistreerde gebruikers video's kan oplaai. Sommige video's wat as moontlik beledigend of aanstootlik beskou word, kan slegs deur geregistreerde gebruikers van ouer as 18 jaar gekyk word. In November 2006 is YouTube deur Google oorgeneem, teen 'n bedrag van 1.65 miljard Amerikaanse dollar. YouTube is dus tans as 'n onderafdeling van Google.
+Daar word nie baie statistieke uitgegee nie, maar in Julie 2006 het YouTube 'n berig uitgegee dat daar elke dag meer as 100 miljoen video's gekyk word, en in die hele maand was uiteindelik 2,5 miljard video's afgelaai. Net in Januarie 2008 is daar al 3 miljard video's deur slegs 79 miljoen mense afgelaai.
+
+
+== Gevolg van die sukses van YouTube ==
+Voor die loods van hierdie webwerf, was daar baie min geleenthede gewees om video's op die Internet te laai. Ná YouTube begin is, het daar 'n hele aantal ander webwerwe opgespring wat ook gebruikers in staat gestel het om video's op die Internet te laai.
+
+
+== Kopiereg ==
+In ruil vir die stoor van die video's moet die oplaaier van alle outeursregte afstand doen. Dit beteken dat jy nie iemand anders se werk mag oplaai indien dit onder kopiereg beskerm word nie. In sommige gevalle bevat opgelaaide video's wel materiaal wat onder kopiereg staan, en kan hulle soms deur YouTube geblokkeer word.
+Die skending van kopiereg deur YouTube gebruikers het al tot verskeie regsgedinge gelei. In Maart 2007 het Viacom in 'n saak teen Google, die YouTube eienaar, 'n bedrag van 1 miljard dollar geëis omdat daar 160 000 van sy video's op YouTube beskikbaar was. In September 2007 is YouTube deur 20th Century Fox gedwing om honderde video's te verwyder. Verskeie mediagroepe, waaronder Sony BMG, BBC en Samsung het egter al ooreenkomste met YouTube bereik waarvolgens hulle video- en klankmateriaal wel in sommige gevalle gebruik mag word.
+
+
+== Hoe dit werk ==
+Op YouTube mag gebruikers video's oplaai met 'n maksimum grootte van 1 024 MB, maar elke video mag slegs 10 minute lank wees. Formate soos .avi (XviD met MP3), .mp4 (H.264 met AAC+,) .mov, .mpeg word aanvaar. Die video's word omgeskakel na .flv, met daarin die H.263 videoenkodering en 64kbit/s MP3 monogeluid. Die datastroom het 'n totale bitrate van +/- 330 kbit/s, die resolusie is 320x240. Sedert Maart 2008 gee YouTube ook die keuse om die video's in hoër gehalte af te laai. Die resolusie is verhoog van 320x240 na 480x360.
+Daar is twee moontlikhede: tik jy &fmt=6 agter die adres van die video in jou webblaaier, dan kry jy 'n H.263 stroom van +/- 600kbit/s met 96kbit/s MP3 mono. Met &fmt=18 kan jy luister na 'n stereostroom, die formaat is dan nie .flv nie, maar .mp4. Die .mp4 bestaan uit 'n H.264-beeldstroom van 300-400kbit/s en +/- 128kbit/s AAC-geluid.
+
+
+== Lokalisasie ==
+Op 19 Junie 2007 was Eric E. Schmidt in Parys om die nuwe lokaliseringstelsel van stapel te stuur. In die volgende lande is die stelsel al in werking gestel:
+
+
+== Sien ook ==
+Vimeo
+
+
+== Verwysings ==
+
+
+== Eksterne skakels ==
+(en)  Amptelike webwerf
+(en)  Sensuur by Youtube: YouTube Taps ADL as Partner in Fight Against Hate Geargiveer 16 Desember 2008 op Wayback Machine, deur die International Business Times

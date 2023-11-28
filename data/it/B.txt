@@ -1,0 +1,42 @@
+La B o b (nome italiano bi [bi]) è la seconda lettera dell'alfabeto latino e italiano, nonché di quelli derivanti dall'alfabeto fenicio.
+Nella lingua italiana corrisponde alla consonante occlusiva bilabiale sonora [b] (come nell'alfabeto fonetico internazionale).
+Nella sua veste maiuscola somiglia alla lettera beta dell'alfabeto greco e alla В dell'alfabeto cirillico, con le quali ha origini comuni.
+
+
+== Storia ==
+
+
+=== Evoluzione della lettera ===
+La lettera deriva dall'antichissimo alfabeto lineare, usato nel Sinai più di 3.500 anni fa, a sua volta derivato dal geroglifico, in cui il suono [b] era rappresentato da una casa.
+Nel 1500 a.C., la seconda lettera dell'alfabeto fenicio, detta beth per analogia con l'alfabeto ebraico, aveva assunto una forma che servì come base a tutti i successivi alfabeti che da esso si sono evoluti, come l'alfabeto greco. Questa lettera chiamata beta, ruotata di 180° e sdoppiata, diede origine al moderno B, dal quale si evolve, con l'apparire della scrittura minuscola, in β.
+La lettera è poi passata all'alfabeto latino tramite l'etrusco: in questo passaggio, le lettere avevano perso il loro nome riducendosi al mero suono, e così beta viene ribattezzato be (la e è una vocale di appoggio per un suono altrimenti impronunciabile).
+
+
+=== Tipografia ===
+La grafia della lettera b minuscola moderna è nata alla fine dell'Impero Romano, allorché gli scribi cominciarono a omettere la curva superiore della lettera.
+
+
+== Uso nelle lingue ==
+Nella maggior parte delle lingue che utilizzano l'alfabeto latino come sistema di scrittura (italiano compreso), la B rappresenta il suono AFI [b]. In spagnolo, però, rappresenta il suono AFI [β] quando si trova tra due vocali (da notare che in spagnolo le lettere B e V hanno lo stesso valore fonetico).
+
+
+== Codici informatici ==
+Unicode: maiuscola U+0042, minuscola U+0062
+ASCII: maiuscola 66, minuscola 98; in binario 01000010 e 01100010 rispettivamente
+EBCDIC: maiuscola 194, minuscola 130
+Entity: maiuscola &#66; e minuscola &#98;
+
+
+== Note ==
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni di o su b
+ Wikizionario contiene il lemma di dizionario «b»
+ Wikimedia Commons contiene immagini o altri file su b
+
+
+== Collegamenti esterni ==
+
+(EN) b, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

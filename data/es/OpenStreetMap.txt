@@ -1,0 +1,224 @@
+OpenStreetMap (también conocido como OSM) es un proyecto colaborativo para crear mapas editables y libres. En lugar del mapa en sí, los datos generados por el proyecto se consideran su salida principal.
+Los mapas se crean utilizando información geográfica capturada con dispositivos GPS móviles, ortofotografías y otras fuentes libres. Esta cartografía, tanto las imágenes creadas como los datos vectoriales almacenados en su base de datos, se distribuye bajo licencia abierta Licencia Abierta de Bases de Datos (en inglés ODbL).[nota 1]​
+En mayo de 2023 en el proyecto estaban registrados en torno a 10 millones de usuarios,[4]​ con unos 6.500 miembros activos diarios.[4]​
+Por países el mayor número de ediciones provienen de Alemania, EE. UU., Francia, Reino Unido e Italia.[4]​
+Los usuarios registrados pueden subir sus trazas desde el GPS y crear y corregir datos vectoriales mediante herramientas de edición creadas por la comunidad OpenStreetMap. Cada semana se añaden 90.000 km de nuevas carreteras con un total de casi 24.000.000 km de viales (febrero de 2011), eso sin contar otros tipos de datos (pistas, caminos, puntos de interés, etc.).[5]​
+El tamaño de la base de datos (llamada planet.osm) en el formato de archivo binario PBF se situaba en enero de 2021 en 55 gigabytes.[6]​[7]​
+
+
+== Motivaciones ==
+En la mayoría de los países la información geográfica pública no es de libre uso. Al no estar considerada por las administraciones públicas como un servicio similar a una infraestructura de orden público, el usuario paga dos veces por esa información, la primera al generarla, a través de sus impuestos, y la segunda al adquirirla para su uso.
+Asimismo, las licencias de uso a veces restringen su utilización al tener el usuario un derecho limitado de aplicación de la cartografía. No se puede corregir errores, añadir nuevos datos o emplear esos mapas de determinados modos (integración en aplicaciones informáticas, publicaciones, etc.) sin pagar por ellos.
+Por otro lado, en los últimos años han surgido iniciativas comerciales como MapShare de TomTom o Map Maker de Google, orientadas a animar a los usuarios de sus servicios a completar estos, actualizando y corrigiendo su cartografía y agregando nuevos datos. En la mayoría de estos casos los usuarios no tienen derecho alguno sobre esa cartografía o datos que están añadiendo o editando, pasando a ser sus contribuciones propiedad de dichas empresas (esto es, seguirá siendo cartografía propietaria y no libre).[8]​
+El historiador inglés Jerry Brotton, uno de los principales expertos en la historia de los mapas y la cartografía renacentista, lo resume de la siguiente manera poniendo como ejemplo el servicio de mapas de Google, Google Maps:
+
+ 
+
+De igual manera, el trabajo de estos servicios comerciales se centra en ciudades principales, lo cual dificulta la incorporación de cartografía de poblaciones pequeñas.[10]​
+
+
+== Historia ==
+En julio de 2004 el inglés Steve Coast funda OpenStreetMap en respuesta a los altos precios que cobraba la Ordnance Survey, la agencia cartográfica de Gran Bretaña, por su información geográfica.
+En abril de 2006 OSM inició el proceso para transformarse en una fundación. El 22 de agosto de ese mismo año fue inscrita como tal en el registro de Inglaterra y Gales:
+
+ 
+
+En diciembre de 2006 Yahoo! confirmó que OpenStreetMap podría utilizar sus fotografías aéreas como base para la producción de mapas. El servicio estuvo activo hasta el cierre de la API de Yahoo! Maps el 13 de septiembre de 2011.[11]​
+En abril de 2007 la empresa neerlandesa Automotive Navigation Data (AND) dona un completo conjunto de datos de los Países Bajos y las principales carreteras de la India y China para el proyecto.[12]​
+y en julio de ese mismo año, durante la primera conferencia internacional sobre OSM The State of the Map 2007 celebrada en Mánchester (Reino Unido), se anuncia que se han alcanzado los 9000 usuarios registrados. En agosto se puso en marcha un proyecto independiente llamado OpenAerialMap cuyo fin es la obtención de una base de datos de fotografías aéreas disponibles para sus distribución bajo licencia libre[13]​
+y en octubre también de ese año se completó la importación de geodatos sobre viales provenientes de la base de datos TIGER de la oficina del censo de los Estados Unidos.[14]​
+En diciembre, la Universidad de Oxford se convertiría en la primera institución importante en utilizar datos OpenStreetMap en su sitio web.[15]​
+En enero de 2008 se crea una nueva funcionalidad para la descarga de cartografía OSM en dispositivos GPS destinado especialmente al ciclismo urbano y cicloturismo.[16]​
+En febrero se llevaron a cabo talleres de aprendizaje para la producción cartográfica de datos OSM en la India.[17]​
+En marzo la Fundación OpenStreetMap anuncia que han recibido financiación por 2,4 millones de euros de CloudMade, una empresa comercial que utilizará los datos de OpenStreetMap.[18]​
+En julio de 2008, durante la conferencia anual The State of the Map 2008 celebrada en Limerick (Irlanda), se señala que el proyecto OpenStreetMap ha alcanzado los 45.000 usuarios registrados.
+En noviembre de 2008 la Fundación OpenStreetMap y la iniciativa pública canadiense GeoBase.ca[nota 2]​ anuncian la donación por parte de la segunda de todo su conjunto de geodatos de Canadá, convirtiéndose por su extensión en la mayor donación de este tipo al proyecto OpenStreetMap hasta el momento.[19]​
+En enero de 2009 la agencia catastral francesa permite a OSM el uso de su servicio WMS para la vectorización de geodatos.[20]​
+En abril de 2009 el capítulo alemán de Wikimedia anuncia en su reunión de desarrolladores llevada a cabo en Berlín la financiación con 15.000 euros de un proyecto piloto de colaboración con OpenStreetMap para interrelacionar ambos proyectos.[21]​
+Se persigue facilitar la integración de la base cartográfica de OSM en Wikipedia para ilustrar sus artículos y permitir enlazar contenidos en ambos sentidos (consultar artículos de la Wikipedia desde el mapa de OpenStreetmap y viceversa).[22]​
+En la actualidad los artículos georreferenciados de la Wikipedia en diferentes idiomas ya permiten desplegar un mapa con cartografía de OpenStreetMap con marcadores sobre la localización a que hace referencia el texto así como imágenes geoetiquetadas de Wikimedia Commons.
+Durante el terremoto de Haití de 2010, voluntarios de OpenStreetMap y Crisis Commons utilizaron imágenes de satélite disponibles para trazar un mapa de carreteras, edificios y campos de refugiados de Puerto Príncipe en solamente dos días.[23]​ Este mapa está considerado como el "mapa digital de carreteras más completo de Haití".[24]​ La cartografía ha sido utilizada por diferentes organizaciones que prestan asistencia y socorro, tales como el Banco Mundial,[25]​ el Centro Común de Investigación de la Comisión Europea,[26]​ la Oficina para la Coordinación de Asuntos Humanitarios,[27]​ el UNOSAT[27]​ y otros.[28]​
+En noviembre de 2010 se anunció que Bing concede al proyecto el derecho de dibujar desde sus imágenes aéreas.
+En 2012 Google cambia la política de uso de su producto Google Maps, pasando a cobrar por la utilización del API a sitios web que generan mucho tráfico.[nota 3]​ Este hecho hace que empresas de referencia como Foursquare abandonen Google Maps en favor de datos de OSM. Así mismo, Apple presenta una nueva versión del software iPhoto en las que se pudo apreciar como la geolocalización de fotografías se sustenta en mapas basados en cartografía de OpenStreetMap.[29]​
+
+
+== Estado del Mapa ==
+Desde 2007, la comunidad OSM organiza una conferencia internacional de carácter anual denominada State Of The Map. Los lugares donde se han celebrado han sido:
+
+			
+			
+		
+		
+			
+			
+		
+
+
+== Producción de cartografía ==
+
+
+=== Técnica ===
+Los primeros datos del mapa fueron recopilados desde cero por voluntarios mediante un sistemático trabajo de campo a través de dispositivos GPS de mano y ordenadores portátiles o grabadoras de voz, información que posteriormente se incorporaban a la base de datos de OpenStreetMap.
+Más recientemente la disponibilidad de fotografías aéreas y otras fuentes de datos comerciales y públicas ha aumentado considerablemente la velocidad de este trabajo, permitiendo que el levantamiento de información tenga una mayor precisión.
+Cuando se dispone de un gran conjunto de datos un equipo técnico se encarga de la conversión e importación de estos.
+
+
+=== Levantamientos de información ===
+El levantamiento de información en campo es realizado por voluntarios, que consideran la contribución al proyecto un adictivo hobby. Aprovechando sus desplazamientos a pie, en bicicleta o en automóvil y utilizando un dispositivo GPS, van capturando las trazas y waypoints, utilizando además, para registrar la información asociada a esas trazas o puntos de interés, bloc de notas, grabadora de voz o una cámara de fotos digital. También suelen interrogar a los transeúntes por su conocimiento local sobre datos concretos del lugar que se desconocen (nombres de calles, sentidos de circulación, etc.). Posteriormente y frente al ordenador esta información es subida a la base de datos común del proyecto.
+Algunos contribuidores comprometidos cartografían sistemáticamente la localidad donde residen durante largos periodos hasta ver completada su zona. Así mismo, se suelen organizar las denominadas mapping parties, en la que se organizan reuniones de colaboradores para cartografiar y completar zonas determinadas de las que se carece de información y compartir además experiencias. Estos eventos son una mezcla de LAN parties, beers & blogs y quedadas de las comunidades virtuales.
+Aparte de estas prospecciones de información organizadas, el proyecto se fundamenta principalmente en el gran número de pequeñas ediciones realizadas por la mayoría de los contribuyentes, que corrigen errores o añaden nuevos datos al mapa.
+
+
+=== Fuentes de datos públicas ===
+La existencia o liberación de datos públicos de instituciones gubernamentales con un tipo de licencia compatible con la de OpenStreetMap ha permitido importar esa información geográfica en la base de datos del proyecto. Así, la mayor parte de la información relativa a Estados Unidos procede de este tipo de fuentes, donde las leyes obligan a que el gobierno federal haga públicos estos datos. Tal es el caso de:
+
+Las imágenes provenientes del satélite Landsat 7.
+La coberturas vectoriales del Prototype Global Shorelines (PGS).
+Los datos TIGER del U.S. Census Bureau.Diversas autoridades locales han liberado también sus fotografías aéreas poniéndolas a disposición pública a través de OpenAerialMap.
+En España el Instituto Geográfico Nacional (IGN), organismo público encargado de la creación, mantenimiento y comercialización de la cartografía oficial en el país, ha modificado en abril de 2008 la licencia de utilización de sus datos, liberando parte de estos de forma gratuita para cualquier tipo de uso.[45]​
+Del mismo modo, aquella cartografía en papel o digital (esta última en menor medida) cuyos derechos de autor han caducado es susceptible de ser utilizada en el proyecto OpenStreetMap.[nota 6]​
+
+
+=== Fuentes de datos comerciales ===
+Algunas empresas han donado datos al proyecto bajo licencias adecuadas para este fin. En particular, los datos provenientes de la compañía holandesa Automotive Navigation Data (AND), la cual donó la cobertura completa para los Países Bajos y las principales carreteras de China e India.
+Así mismo, Yahoo! y Bing permitieron a OpenStreetMap poder hacer uso de sus fotografías aéreas, las cuales están disponibles para utilizarlas como base fotográfica sobre la que poder "dibujar" mediante los diferentes software de edición del proyecto. Los contribuyentes pueden crear sus mapas vectoriales como una obra derivada, pero bajo una licencia libre y abierta.
+
+
+== Formato de datos ==
+OpenStreetMap utiliza una estructura de datos topológica. Los datos se almacenan en el datum WGS84 lat/lon (EPSG:4326) de proyección de Mercator. Los datos primitivos o elementos básicos de la cartografía de OSM son:
+
+Los nodos (nodes). Son puntos que recogen una posición geográfica dada.
+Las vías (ways). Son una lista ordenada de nodos que representa una polilínea o un polígono (cuando una polilínea empieza y finaliza en el mismo punto).
+Las relaciones (relations). Son grupos de nodos, vías u otras relaciones a las que se pueden asignar determinadas propiedades comunes, por ejemplo, todas aquellas vías que forman parte del Camino de Santiago. Su flexibilidad permite representar una amplia gama de datos geográficos y vínculos entre ellos. Las relaciones pueden ser de varios tipos, lo que determinará su grado de complejidad:
+Relaciones de enrutamiento: En OSM, se pueden crear relaciones complejas para representar rutas o redes de transporte público. Estas relaciones pueden incluir nodos (paradas), vías (rutas) y otros elementos, junto con información adicional como horarios, direcciones y tipos de transporte.
+Relaciones multipolígonos: OSM permite crear áreas complejas mediante la combinación de polígonos más simples en relaciones multipolígonos. Esto es especialmente útil para representar áreas con agujeros (polígonos donuts), islas o características geográficas complejas.
+Relaciones de colecciones: Se pueden utilizar relaciones para agrupar elementos relacionados en una colección. Por ejemplo, se pueden crear relaciones para agrupar todas las tiendas de una cadena en particular, todos los puntos de interés turístico en una ciudad o todas las secciones de una ruta de senderismo.
+Relaciones de jerarquía y subrelaciones: Las relaciones pueden tener una estructura jerárquica y pueden contener subrelaciones. Esto permite representar relaciones de anidamiento, como divisiones administrativas (países, estados, municipios) o categorías de objetos (edificios principales, anexos).Las etiquetas (tags). Se pueden asignar a nodos, caminos o relaciones y constan de una clave (key) y de un valor (value). Por ejemplo: highway=trunk define una vía como carretera troncal.Los atributos de los datos siguen un modelo más elaborado que las folcsonomías de indexación social. La ontología de los objetos geográficos del mapa —conocidos por el término inglés feature[nota 7]​— en un contexto (principalmente el significado de las etiquetas) se mantiene mediante una wiki.
+
+
+== Aplicaciones ==
+A partir de los datos del proyecto OpenStreetMap no solo se puede producir mapas de carreteras, sino también para la creación de mapas de senderismo, mapas de vías ciclables, mapas náuticos, mapas de estaciones de esquí, etc. También se usan en aplicaciones para el cálculo de las rutas óptimas para vehículos y peatones. Gracias a su licencia abierta los datos brutos son de libre acceso para el desarrollo de otras aplicaciones.
+Por lo general la cartografía de OSM contiene datos en dos dimensiones -esto es, no suele registrar la tercera dimensión, la altura o Z- lo que hace que, por ejemplo, no existan datos sobre líneas de altitud. La importación de datos de elevaciones en la base de datos de OpenStreetMap no está programada. No obstante, existen herramientas para la transformación y representación de los datos de la Misión topográfica Radar Shuttle (SRTM) para crear mapas topográficos con isolíneas o sombreados sobre la que superponer los datos de OSM.
+A medida que el proyecto ha ido madurando y su base de datos ha mejorado rápidamente en calidad y cobertura, ha ido surgiendo a su alrededor todo un ecosistema de herramientas informáticas y servicios, convirtiéndose en una fuente de datos factible para determinados proyectos complejos que hacen uso de estos datos «de una forma creativa, productiva o inesperada».[46]​
+
+
+=== Mapas en línea ===
+Existen diferentes servicios en sitios web que hacen uso de los datos de OpenStreetMap para mostrar la cartografía mediante mapas en línea con diferentes estilos de renderizado y visualización. Estos van desde el propio servicio aplicaciones de mapas en web que facilita la Fundación OpenStreetMap, hasta por ejemplo el ofrecido por Yahoo para ciudades como Bagdad, Pekín, Kabul, Sídney, Tokio o Santiago de Chile en su sitio web Flickr.[47]​
+Por otro lado existe un proyecto de colaboración entre Wikimedia y OpenStreetMap cuyo fin es integrar la cartografía de este dentro de los proyectos de la Fundación Wikimedia y avanzar en la creación de mapas semánticos.[48]​
+
+
+=== Cálculo de rutas y navegación ===
+El cálculo de las rutas óptimas utilizando los datos de OpenStreetMap no está totalmente desarrollado, sin embargo el avance en este sentido en los últimos tiempos ha sido muy importante.[49]​ En numerosas regiones los datos existentes hasta la fecha todavía no son suficientemente detallados para que lleguen a ser plenamente fiables, ya que a menudo se carece de información sobre nombres de calles o números de policía, por ejemplo.
+Así mismo, pueden existir problemas de consistencia topológica al haber errores comunes de digitalización involuntarios o de etiquetado, como viales no conectados, cruces de calles sin nodo en común, errores de flujo motivados por el sentido de las vías, etc. El proyecto OpenStreetMap y diversos usuarios facilitan a los colaboradores herramientas para poder detectar y corregir la mayoría de estos problemas.
+Existen diferentes sitios web que ofrecen servicios de enrutamiento basados en datos OSM mediante conocidos algoritmos de búsqueda en grafos (A*, Dijkstra, etc.). En la mayoría de los casos estas implementaciones no tratan necesariamente el camino más corto, sino el de menor impedancia en función de las etiquetas OSM tenidas en cuenta. Hay alguna experiencia en el análisis de rutas óptimas multimodales con cartografía de OpenStreetMap.[50]​
+También existen numerosas aplicaciones para dispositivos móviles destinadas al cálculo de caminos óptimos cuyo listado puede ser consultado en la web del proyecto.
+Algunos miembros de la comunidad también proporcionan mapas derivados de datos de OpenStreetMap en el formato .img de Garmin.[nota 8]​ Una gran variedad de modelos de GPS de esta marca pueden utilizar esta cartografía con capacidades para el cálculo de rutas. Estos mapas se pueden crear con la ayuda del programa mkgmap,[51]​ lo que permite a cualquier usuario componer sus propios mapas personalizados para Garmin a partir de datos de OSM.
+Para otros dispositivos de navegación GPS no es posible por ahora utilizar los mapas vectoriales de OpenStreetMap ya que, al ser en la mayoría de los casos formatos de archivos nativos cerrados, no existen conversores para ello.[nota 9]​
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Software cartográfico ===
+OpenStreetMap facilita los datos en bruto para su descarga desde su propia página web. Estos pueden ser modificados para cada proyecto así como presentados con estilos de renderizado personalizados. Tal es el caso de aplicaciones como Marble o Kosmos.
+Por otro lado también existen varias páginas web que realizan conversiones y volcados periódicos de los datos de OpenStreetMap a formato shapefile, estándar de facto dentro de los Sistemas de Información Geográfica (SIG).[nota 10]​
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Simuladores ===
+Los datos provenientes de OpenStreetMap son utilizados por simuladores de vuelo muy conocidos como FlightGear o X-Plane. Estos utilizan cartografía OSM para crear partes de su paisaje 3D (carreteras, edificaciones, etc.), mezclado con otras fuentes, en sus escenarios oficiales.
+
+
+== Tecnología ==
+
+
+=== Servidores ===
+Tanto los servidores principales como la infraestructura asociada al proyecto de la Fundación OpenStreetMap se alojan principalmente en la University College de Londres (UCL) y la Imperial College London (ILC), además de otros lugares distribuidos geográficamente por varios continentes que sirven de apoyo. Todos ellos dedicados a albergar la base de datos, las aplicaciones para el sitio web, aplicaciones para la API y el renderizado del mapa. Además, existen otros computadores de menores prestaciones destinados a servicios auxiliares, tales como la wiki del proyecto, el repositorio de código y las funciones de búsqueda del mapa. A los servidores de OpenStreetMap se les asigna internamente nombres de dragones ficticios provenientes de la cultura popular, de acuerdo a la práctica medieval de poner criaturas mitológicas en los anecúmenes recogidos en los mapas (Hic sunt dracones).[52]​[53]​
+El sitio y la API están programados en gran medida en Ruby on Rails. El servidor principal que alberga la base de datos de OpenStreetMap utiliza PostgreSQL como sistema de gestión de bases de datos, y aunque a través de su extensión espacial PostGIS es posible almacenar diferentes tipos de geometría de objetos geográficos, la base de datos principal del proyecto no hace uso de ello al utilizarse una representación propia de datos primitivos.
+La base de datos contiene los datos espaciales, es decir, los atributos asociados a cada línea o punto. Estos datos se almacena en formato vectorial y es el producto principal del proyecto. No obstante, también se generan datos en formatos raster (PNG) destinados el visor cartográfico del proyecto. Esta cartografía raster se crea usando, por un lado, los datos de la base de datos PostGIS, y por el otro el renderizador de Mapnik. Así, se rasterizan los datos vectoriales en bruto que se almacenan en la base de datos -por lo general con un retraso de 10 minutos respecto a su inclusión en esta-, lo que permite visualizar los cambios en el visor cartográfico de forma casi inmediata. No obstante, en momentos de sobrecarga la visualización de datos recientes se puede retrasar. Para reducir la carga de trabajo del servidor, solo se vuelven a renderizar aquellas teselas en las que han existido modificaciones en la cartografía.
+El renderizado mediante Mapnik ofrece un estándar de calidad en la semiología gráfica del mapa, siendo esta supervisada por cartógrafos profesionales. El estilo principal del mapa que se puede ver en el sitio web de OpenStreetMap, denominado Standard, está definido mediante CartoCSS, un lenguaje de sintaxis que permite personalizar el renderizado de los datos espaciales, siendo similar en concepto a las hojas de estilos CSS en el diseño web.
+
+
+=== Formato de datos ===
+La forma más común de capturar los datos espaciales es mediante el uso de dispositivos GPS. Así mismo, algunos navegadores GPS para vehículos permiten grabar trazas de rutas. Estos tracks se pueden cargar en el servidor de OpenStreetMap, aunque esto no es obligatorio. Para convertir los datos en un formato adecuado para el proyecto, por ejemplo de NMEA a GPX, se utilizan programas de conversión como GPSBabel, entre otros. Todos los datos son recopilados en formato GPX bajo el sistema de coordenadas cartográficas mundial WGS84 lat. long.[nota 11]​
+El formato de archivo de referencia de OpenStreetMap es el formato de OSM XML. No obstante existen también otra serie de formatos como PBF o O5M con un mayor ratio de compresión y velocidad de lectura/escritura destinados a aplicaciones que requieran procesar un gran volumen de datos OSM. Cada semana está disponible una copia actualizada de la base de datos llamada planet.osm.
+
+
+=== Herramientas de edición ===
+Para editar los datos existen diferentes posibilidades, la gran mayoría de sencillo manejo. El usuario debe registrarse de manera gratuita mediante una dirección de correo verificada para evitar el spam y vandalismo. Si no se va a realizar edición alguna y únicamente se desea visualizar la cartografía no es necesario realizar registro alguno.
+Los datos en bruto -las trazas de ruta- que los contribuidores han capturado con sus dispositivos GPS sirven como guía para dibujar sobre ella las nuevas vías. Estos datos en bruto suelen cargarse desde el equipo local del usuario o bien solicitando al servidor de OSM que nos descargue aquellas trazas de la zona que vamos a editar y que otros usuarios han subido previamente a OpenStreetMap.
+Junto a estos datos en bruto en forma de trazas GPS las herramientas de edición también permiten descargar fotografías aéreas e imágenes de satélite libres sobre las que podemos trazar nuestro mapa.
+Una vez tengamos la información geográfica básica sobre la que poder dibujar es el momento de añadir los elementos del mapa que queremos representar mediante nodos, puntos que representan elementos puntuales, y vías, líneas que conectan varios nodos que pueden representar elementos lineales o superficies (si la vía empieza y termina en un mismo punto).
+A estos puntos y líneas se les asigna uno o varios atributos que los caracteriza. Por ejemplo, a una línea se le indica la etiqueta y la clave highway:motorway para señalar que es una autopista y name:Autovía del Cantábrico para recoger su odónimo. En principio cualquiera puede asignar libremente cualquier atributo, pero lo más común y recomendado es que se tengan en cuenta la ontología aprobada por la comunidad y documentada en la wiki del proyecto.[54]​
+Para editar los datos es necesario un editor. Con este fin el proyecto OpenStreetMap facilita a los contribuidores diferentes opciones:
+
+El editor on-line iD. Actualmente es el editor de referencia para ediciones en línea del proyecto OpenStreetMap en sustitución de Potlatch, que estaba desarrollado en tecnología Adobe Flash. iD está escrito en su totalidad en HTML5, buscando especialmente una interfaz intuitiva y clara que facilite la edición del mapa a cualquier persona que lo desee con una curva de aprendizaje muy baja.El editor off-line JOSM. Es una aplicación de escritorio que el usuario se descarga y ejecuta directamente en ordenador. Está basado en tecnología Java y es multiplataforma. Actualmente es el editor más avanzado que posee la comunidad por su versatilidad y características, y en cuyo desarrollo está involucrado un mayor número de personas.El editor off-line Merkaartor. Este editor multiplataforma posee un cuidado entorno gráfico haciendo uso de la biblioteca Qt.Estos son los principales editores. Aparte existen otros desarrollados por terceros como Mapzen, iLOE para el iPhone, Vespucci para Android, extensiones para los Sistemas de Información Geográfica QGIS y ArcGIS, etc.
+
+
+== Características actuales y desafíos futuros del proyecto ==
+Un estudio de la empresa Beyonav de enero de 2011 resaltaba las siguientes cuestiones sobre el proyecto OpenStreetMap:[5]​
+
+La cobertura de datos se extiende al conjunto de todos los países del mundo, siendo esta cada vez mayor en las regiones emergentes del planeta.
+El crecimiento es sorprendentemente constante, lo que significa una gran cantidad de personas trabajando activamente en aportar datos al mapa.
+La gran cantidad de datos que soporta la base de datos de OSM está llegando a un nivel que hace que sea difícil procesarlos sin una infraestructura de servidores costosos. Esta es una de las razones por la que, según el informe, se ha incrementado el soporte por parte de empresas comerciales a la cartografía de OSM.
+A pesar del fuerte aumento de requerimientos técnicos por el gran volumen de datos que se maneja, la infraestructura de servidores del proyecto parece ser todavía muy estable.
+Observando las tendencias en la expansión de cobertura y el soporte que se está dando a los datos de OSM por terceros, el proyecto está listo para ser adoptado en servicios de navegación tradicional y aplicaciones LBS.
+
+
+== Véase también ==
+Información Geográfica Voluntaria
+Crowdsourcing
+Neogeografía
+
+
+== Notas ==
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una galería multimedia sobre OpenStreetMap.
+Web del proyecto OpenStreetMap
+Wiki del proyecto OpenStreetMap
+Web del proyecto OpenStreetMap en España
+Web del proyecto OpenStreetMap en Venezuela
+Web del proyecto OpenStreetMap en Argentina
+Alternativas Libres Mapas navegables de OpenStreetMap para dispositivos GPS Garmin.
+OpenStreetBugs Para localizar errores en el mapa de OpenStreetMap e informar de estos a los colaboradores para su corrección.
+Breve entrevista a Steve Coast (fundador) e Iván Sánchez (OSM España)
+OpenStreetMap Chile Principales noticias sobre OpenStreetMap en español.
+OpenAndroMaps Repositorio de mapas offline libres.
+
+OpenStreetMap en X (antes Twitter)
+
+OpenStreetMap en Telegram
+App OsmGps App del proyecto OpenStreetMap.

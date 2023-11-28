@@ -1,0 +1,193 @@
+Un terratrèmol, sisme (del grec σεισμός, sismós, 'tremolor') o, simplement, tremolor de terra (en algunes zones es considera que un sisme és un terratrèmol de menor magnitud), és el resultat de l'alliberament brusc d'energia acumulada pels desplaçaments i les friccions de les diferents plaques de l'escorça terrestre (fenòmens reagrupats sota el nom de plaques tectòniques). Els més estranys són els sismes deguts a l'activitat volcànica o d'origen artificial (explosions per exemple). Es produeixen nombrosos sismes cada dia, però la majoria no són sentits pels éssers humans. Aproximadament cent mil sismes són gravats anualment sobre el planeta. Els més poderosos d'ells compten entre les catàstrofes naturals més destructores.
+La ciència que estudia aquests fenòmens és la sismologia, i l'aparell de mesura electrònica el sismòmetre, el qual disposa d'un rellotge precís i enregistra els moviments tant en amplitud i fase com en freqüència per identificar magnituds, distàncies de l'epicentre i tipus d'ona. Antigament es feia servir un l'instrument d'estudi gràfic anomenat sismògraf.
+
+
+== Característiques principals ==
+Els terratrèmols de més magnitud solen anar acompanyats d'altres de secundaris (però no necessàriament menys destructius) que segueixen el xoc principal i que reben el nom de rèpliques. Quan diversos esdeveniments ocorren simultàniament, o gairebé, poden haver estat induïts pel terratrèmol inicial en provocar altres fractures de la roca que ja era a prop del punt crític de la ruptura. L'origen del terratrèmol se situa generalment en una zona a l'interior de l'escorça terrestre, que en el cas dels terratrèmols més devastadors pot tenir una extensió de l'ordre d'un miler de quilòmetres, però generalment és possible determinar un punt precís com a origen de les ones sísmiques. Aquest punt es denomina hipocentre i és on s'origina el moviment d'una fractura preexistent (falla) o d'una nova fractura. La projecció vertical de l'hipocentre sobre la superfície de la Terra és el lloc que anomenem epicentre i és el punt on solen produir-se els danys més importants.
+
+
+=== Les tres categories de terratrèmols ===
+Un terratrèmol és una sotragada més o menys violenta del sòl que pot tenir tres orígens: ruptura d'una falla o d'un segment de falla (sismes tectònics); intrusió i desflamejat d'un magma (sismes volcànics); explosió, esfondrament d'una cavitat (sisme d'origen natural o deguts a l'activitat humana). A la pràctica es classifiquen els sismes en tres categories segons els fenòmens que els ha engendrat:
+
+Els sismes tectònics són de lluny els més freqüents i devastadors. Una gran part dels sismes tectònics es produeix als límits de les plaques, on existeix una lliscada entre dos mitjans rocosos. Aquesta lliscada, localitzada sobre una o diverses falles, és bloquejada durant els períodes intersísmics (entre els sismes), i l'energia s'acumula per la deformació elàstica de les roques. Aquesta energia i la lliscada són bruscament relaxades en el moment dels sismes. A les zones de subducció, els sismes representen la meitat dels destructors de la Terra, i dissipen un 75% de l'energia sísmica del planeta. És l'únic indret on es troben sismes profunds (de 300 a 645 quilòmetres). A les dorsals mig-oceàniques, els sismes tenen llars superficials (0 a 10 quilòmetres), i corresponen a un 5% de l'energia sísmica total. Igualment, a les grans falles de desenganxament, tenen lloc els sismes que tenen llars de profunditat intermediària (de 0 a 20 quilòmetres de mitjana) que corresponen a un 15% de l'energia. L'afluixament de l'energia acumulada no es fa generalment en una sola sotragada, i poden produir-se diversos reajustaments abans de trobar una configuració estable. Així, es comproven rèpliques en resposta a la sotragada principal d'un sisme, d'amplitud decreixent, i sobre una duració anant d'alguns minuts amb més d'un any. Aquestes sotragades secundàries són de vegades més devastadores que la sotragada principal, ja que poden fer desplomar-se els edificis que només havien estat malmesos, mentre que els socorsos són a l'obra. Es pot produir també una rèplica més poderosa encara que la sotragada principal sigui quina sigui la seva magnitud. Per exemple, un sisme de 9,0 pot ser seguit d'una rèplica de 9,3 diversos mesos més tard encara que aquest encadenament es queda extremadament rar. En teoria, el moviment relatiu entre ambdues superfícies de la falla seria suau, no produiria sismes, si no existissin asperitats en les superfícies de falla que causen en realitat les sotragades durant el moviment relatiu. En l'estudi dels terratrèmols tectònics, encara que no representi el model acurat en general, s'han estudiat sovint els moviments relatius de les superfícies com a exemple del fenomen de stick-slip, que s'estudia també en el cas de moviment relatiu entre dues peces sotmeses a fricció en l'àmbit de l'enginyeria mecànica. Aquests models són adaptables a determinades mostres de dades de sismes i també donen lloc a l'explicació de determinades reaccions sísmiques sobre la base dels seus estudis de laboratori com a efecte de la fricció en falles. En altres casos els estudis basats en stick-slip sobre dades de laboratori presenten una adaptabilitat limitada i precisen estudis més detallats.
+Els sismes d'origen volcànic són resultat de l'acumulació de magma a la cambra magmàtica d'un volcà. Els sismògrafs graven llavors una multitud de microsismes deguts a ruptures en les roques comprimides o al desflamejat del magma. La pujada progressiva dels hipocentres (vinculada a la pujada del magma) és un indici provant que el volcà és en fase de despertar i que una erupció és imminent.
+Els sismes d'origen artificial (o "sismes induïts") són deguts a certes activitats humanes tals que preses, bombaments profunds, extracció minera, explosions subterrànies o proves nuclears, que poden comportar sismes de feble a mitjana magnitud.Els terratrèmols engendren de vegades tsunamis, la potència destructora dels quals amenaça una part creixent de la humanitat, instal·lada a les ribes del mar. També poden amenaçar les instal·lacions petrolieres i relatives al gas extraterritorials i dispersar les descàrregues submarines que contenen deixalles tòxiques, deixalles nuclears i municions immerses. S'intenta preveure'ls, per tal de protegir-se'n, amb l'ajuda d'una xarxa mundial d'alerta, que s'estableix a Indonèsia i Àsia del Sud, sobretot.
+En certs casos, els sismes provoquen la liqüefacció del sòl: un sòl tou i ric en aigua perdrà la seva cohesió sota l'efecte d'una sotragada.
+
+
+=== Magnitud i intensitat ===
+Magnitud i intensitat són dos conceptes diferents que no han de ser confosos, malgrat que els mitjans de comunicació acostumin a utilitzar-los com a sinònims. La magnitud d'un terratrèmol es refereix a un valor numèric que quantifica l'estimació de l'energia alliberada. La intensitat descriu els efectes del terratrèmol en funció del punt d'observació.
+
+
+==== Magnitud ====
+La potència d'un terratrèmol pot ser quantificada per la seva magnitud, aquest concepte va ser introduït el 1935 pel sismòleg Charles Francis Richter. La magnitud es calcula a partir dels diferents tipus d'ones sísmiques tenint en compte paràmetres com la distància a l'epicentre, la profunditat de l'hipocentre, la freqüència del senyal, el tipus de sismògraf utilitzat, etc. Basant-se en aquest càlcul de caràcter logarítmic, quan l'amplitud del moviment o l'energia alliberada pel sisme varien d'un factor 10, la magnitud canvia d'una unitat. Així, un sisme de magnitud 7 serà deu vegades més fort que un esdeveniment de magnitud 6, cent vegades més fort que un de magnitud 5. Tanmateix els científics van abandonar aviat la idea de Richter de la proporcionalitat amb l'energia, i s'utilitzen escales diferents en funció del tipus de terratrèmol.La magnitud, sovint dita magnitud sobre l'escala de Richter, el terme més conegut pel gran públic, és generalment calculada a partir de l'amplitud o de la duració del senyal gravat per un sismògraf. Diversos valors poden així ésser calculats (Magnitud local ML, de duració MD, de les ones de superfícies MS, de les ones internes MB). Però aquests diferents valors, només són fiables dintre de certs intervals i no són massa fiables en el cas dels terratrèmols molt intensos. A partir de l'estudi del terratrèmol de San Francisco del 1906 H.F. Reid va proposar mecanisme per explicar la generació d'un terratrèmol conegut com a rebot elàstic, segons aquest concepte un terratrèmol és una dislocació de material a la que un costat es desplaça respecte de l'altre. Es pot demostrar que el sistema de forces equivalent d'una dislocació de cisallament és un doble parell de forces sense moment resultant que es pot caracteritzar pel moment d'un dels parells de forces. Els sismòlegs prefereixen aquesta magnitud de moment sísmic (notada MW) que està relacionada directament amb l'energia alliberada pel sisme, en estar directament relacionat amb els paràmetres del trencament i a més aquests paràmetres es poden deduir a partir dels sismogrames.A causa de les limitacions esmentades de les escales de magnitud el 1977 es va introduir una nova escala per representar la mida dels terratrèmols, coneguda com a escala de magnitud de moment (MW) i creada per Thomas C. Hanks i Hiroo Kanamori. El moment sísmic dona l'estimació més fiable de la magnitud d'un sisme, en particular per als més grans. Això és així perquè aquest concepte es deriva del que a la física es coneix com a parell de forces i dona una idea de la magnitud física del terratrèmol, la mida de la ruptura de la falla i del desplaçament que l'acompanya, i l'energia alliberada.
+
+
+==== Intensitat ====
+La magnitud d'un sisme no ha de ser confosa amb la intensitat macrosísmica que es funda en l'observació dels efectes i de les conseqüències del sisme en un lloc donat: vibració de les finestres, moltes persones que senten les sotragades, amplitud dels danys, etc. Les escales d'intensitat impliquen graus anotats en nombres romans, de I a XII per a les escales més conegudes (mercalli, MSK o EMS). Entre les diferents escales, es pot citar:
+
+L'escala Rossi-Forel (també RF).
+L'escala Medvedev-Sponheuer-Karnik (també MSK).
+L'escala de Mercalli (MM en la seva versió modificada).
+L'escala de Shindo de l'agència meteorològica japonesa.
+L'escala macrosísmica europea (també EMS98).Les relacions entre magnitud i intensitat són complexes. La intensitat depèn del lloc d'observació dels efectes. Disminueix generalment quan un s'allunya de l'epicentre basant-se en l'atenuació introduïda pel mitjà geologia travessat per les ones sísmiques, però eventuals efectes d'indret (eco, amplificació local, per exemple) poden pertorbar aquesta llei mitjana de decreixement.
+
+
+== Els diferents tipus d'ones sísmiques ==
+Les ones sísmiques són les ones que es propaguen per l'interior de la Terra transportant l'energia dels terratrèmols. Aquestes ones, de tipus elàstic, viatgen en totes les direccions des del punt originari del terratrèmol i s'acostumen a classificar en quatre tipus principals englobats en dos grans grups:
+
+Ones de volum o ones internes
+Ones P o primàries
+Ones S o secundàries
+Ones superficials
+Ones R o de Rayleigh
+Ones Q o de Love (Q per querwellen, transversal o lateral en alemany)
+
+
+=== Ones internes ===
+Les ones internes o de volum es propaguen per l'interior de la Terra, la seva velocitat depèn del material que travessen i, de manera general, augmenta amb la fondària en tant que el material esdevé més dens. Entre les ones internes es distingeixen: Les ones P o primàries i les ones S o secundàries.
+
+Les ones P són longitudinals o de compressió, són "compressions" i "dilatacions" successives dels materials, de manera similar a les ones sonores, les vibracions es transmeten com oscil·lacions en la mateixa direcció de propagació de les ones. Poden travessar tots els materials, la seva velocitat de propagació depèn de les propietats elàstiques del material i de la seva densitat. A l'aigua es propaguen a una velocitat típica de 330 m/s, a l'aire com a ones sonores a 330 m/s, al granit al voltant dels 5.000 m/s però segons el material poden arribar a assolir els 10 quilòmetres per segon. Atès que les ones P es propaguen més ràpidament, són també les primeres (P = primària) en arribar i ser registrades als sismògrafs.Les ones S, secundàries o de cisallament, són transversals, les vibracions s'efectuen perpendicularment al sentit de propagació de l'ona, com sobre una corda de guitarra. Aquestes ones només es propaguen a través dels sòlids, els fluids no oposen resistència. La seva velocitat és d'aproximadament un 60% de la de les ones P per al mateix material, oscil·la entre 2,3 i 4,6 km/s. En ser més lentes que les ones P, arriben més tard i apareixen en segon lloc sobre els sismogrames. La seva amplitud és unes quantes vegades més gran que la de les ones P.Fall
+
+
+=== Ones superficials ===
+Les ones superficials són anàlogues, ja que es propaguen a l'aigua i es desplacen just a sota de la superfície de la terra. Es creen com a resultat de la intersecció entre les ones internes (P i S) amb una superfície de discontinuïtat física, la més estudiada que és la zona de separació entre l'escorça i l'atmosfera terrestre. Aquestes ones es propaguen al llarg de la superfície i la seva energia decau exponencialment amb la profunditat. Cal assenyalar que a l'hipocentre d'un terratrèmol només es generen ones P i S. Són molt més lentes que les ones internes però la seva amplitud és força més gran i la seva capacitat destructiva també, habitualment són aquestes ones de superfície les que produeixen els efectes més destructius dels sismes. Se'n diferencien dos tipus: les ones Rayleigh i les ones Love.
+
+Les ones de Rayleigh o ones R, van ser predites el 1885 per John William Strutt 3r baró de Rayleigh. La seva propagació és similar a les ones que es produeixen en llançar una pedra a una bassa, com un seguit de pertorbacions en forma el·líptica que s'allunyen del punt on s'han generat. Aquestes ones no són audibles pels humans però si per molts animals.Les ones de Love, ones L o sovint ones Q (querwellen), el 1911 Augustus Edward Hough Love va desenvolupar un model matemàtic d'aquestes ones. Aquestes ones fan vibrar en terreny transversalment, en un pla horitzontal i perpendicularment respecte a la direcció de propagació de la pertorbació.
+
+
+== Les Falles ==
+Les falles són fractures de les roques amb desplaçament o dislocació d'un bloc respecte d'un altre. Normalment aquestes fractures van acompanyades de terratrèmols de diferent intensitat. N'hi ha tres tipus: directa, inversa i d'esquinçament.
+La falla directa es forma per l'acció d'esforços distensius. Els llavis de falla llisquen per allunyament de blocs. La falla inversa es forma per l'acció d'esforços compressius. Un llavi de falla s'aixeca damunt l'altre i finalment la falla d'esquinçament es forma per esforços de cisalla. El desplaçament dels llavis de falla és horitzontal.
+
+
+== Enregistrament de sismes ==
+
+
+=== Els sismes més poderosos enregistrats des de 1900 (ordenats per data) ===
+Equador, 8,8, 1906.
+San Francisco, 8,5, 18 d'abril de 1906.
+Valparaiso, 8,2, 17 d'agost de 1906.
+Kanto, 8,3.
+Kamtchatka, 8,5, 1923.
+Indonèsia, 8,5, 1923.
+Chillàn, Xile, 8,3, 24 de gener de 1939.
+Tibet, 8,6, 1950.
+Kamtchatka, 9,0, 1952.
+Alaska, 9,1, 1957.
+Xile, 9,5, 22 de maig de 1960.
+Illes Kouriles, 8,5, 1963.
+Alaska, 9,2, 27 de març de 1964.
+Alaska, 8,7, 1965.
+Perú, 7,5, 31 de maig de 1970.
+Ciutat de Mèxic, 7,5, 31 de maig de 1970.
+Ciutat de Mèxic, 19 de setembre de 1985.
+Kobe, Japó, 6,9, 17 de gener de 1995. Moren 6.300 persones.
+Sumatra, 9,3, 26 de desembre de 2004.
+Sumatra, Nias, 8,7, 28 de març de 2005.
+Tonga, 8,3, 4 de maig de 2006.
+Kouriles, 8,3, 15 de novembre de 2006.
+Kouriles, 8,3, 12 de gener de 2007.
+Perú, 8, 15 d'agost de 2007.
+Martinica, 7,4, 29 de novembre de 2007.
+Sichuan, Xina, 7,9, 12 de maig de 2008.
+Terratrèmol de Sumatra del 2009 (Indonèsia) 7,6, 30 de setembre de 2009.
+Terratrèmol de Sendai de 2011 8,9, 11 de març de 2011
+Terratrèmol de l'oceà Índic, 11 d'abril de 2012
+Terratrèmol d'Iquique, 8,2, 1 d'abril de 2014
+Terratrèmol del Nepal, 7,8, 25 d'abril de 2015.
+
+
+=== Sismes més mortífers des de 1900 ===
+Terratrèmols havent fet més de 15.000 víctimes, segons les estimacions de les autoritats locals (la notació implica respectivament el lloc, el país, la data, la magnitud notada M i el nombre d'ésser humans morts):
+
+Kangra, Índia, el 04/04/1905, M=8,6, 19 000 morts.
+Santiago de Xile, Xile, el 17/08/1906, M=8,6, 20 000 morts.
+Messine, Itàlia, el 28/12/1908, M=7,5, 100 000 morts.
+Avezzano, Itàlia, el 13/01/1915, M=7,5, 29 980 morts.
+Bali, Indonèsia, el 21/01/1917, M=?, 15 000 morts.
+Gansu, Xina, el 16/12/1920, M=8,6, 200 000 morts.
+Tôkyô, Japó, el 01/09/1923, M=8,3, 143 000 morts. El sisme és control d'un gegantí incendi.
+Xining, Xina, el 22/05/1927, M=8,3, 200 000 morts.
+Gansu, Xina, el 25/12/1932, M=7,6, 70 000 morts.
+Quetta, Pakistan, el 30/05/1935, M=7,5, 45 000 morts.
+Chillán, Xile, el 24/01/1939, M=8,3, 28 000 morts.
+Erzincan, Turquia, el 26/12/1939, M=8,0, 30 000 morts.
+Ashgabat, Turkmenistan, el 05/10/1948, M=7,3, 110 000 morts.
+Agadir, Marroc, el 29/02/1960, M=5,9,intensité X(MM), aproximadament 12 000 morts. (vegeu Terratrèmol d'Agadir de 1960)
+Iran, el 31/08/1968, M=7,3, 16 000 morts.
+Chimbote, Perú, el 31/05/1970, M=7,8, 66 000 morts.
+Yibin, Xina, el 10/05/1974, M=6,8, 20 000 morts.
+Guatemala, el 04/02/1976, M=7,5, 23 000 morts.
+Tangshan, Xina, el 27/07/1976[8], M=8. El nombre oficial de morts són 240 000 personnes. Altres estimacions han estat de 500 000[10] a 800 000 víctimes directes o indirectes. (vegeu: Terratrèmol de 1976 a Tangshan).
+Michoacan, Mèxic, el 19/09/1985, M=8,1, 20 000 morts (vegeu: Terratrèmol de Mèxic de 1985).
+Armènia, el 07/12/1988, M=7,0, 25 000 morts. (vegeu: Sisme del 7 de desembre de 1988 a Armènia).
+Zangan, Iran, el 20/06/1990, M=7,7, 45 000 morts.
+Kocaeli, Turquia, el 17/08/1999, M=7,4, 17 118 morts. (vegeu: Terratrèmol a Turquia).
+Bhuj, Índia, el 26/01/2001, M=7,7, 20 085 morts.
+Bam, Iran, el 26/12/2003, M=6,6, 26 200 morts.
+Sumatra, Indonèsia, el 26/12/2004, M=9,3, 227 898 morts.
+Nord del Pakistan, el 08/10/2005, M=7,6, 79 410 morts. (vegeu: Terratrèmol del 8 d'octubre de 2005).
+Sisme del Sichuan de maig de 2008, la Xina, província del Sichuan, el 12/05/2008, M=7,9, 87 149 morts.
+Sisme d'Haití del gener de 2010, a Port au Prince 12/01/2010 M=7,0 250.000 morts.
+Terratrèmol del Japó, 11/03/2011, M=8,9, 15 800 morts.
+Terratrèmol del Nepal, 25/04/2015, M=7,8, 5 000 morts.
+
+
+== Mètodes de detecció ==
+
+
+=== Antic mètode xinès ===
+L'antic mètode xinès consistia en un gerro de bronze implicant vuit dracs sobre el perímetre. Una bola era col·locada a la cara de cadascun d'ells, llesta per caure. Quan un sisme tenia lloc (a proximitat relativa), el gerro de bronze tremolava i dues boles queien, apuntant una cap a l'epicentre, l'altre apuntant al contrari. L'emperador xinès -no podent saber quin costat era el bo- enviava tropes en les dues direccions per tal que ajudessin a organitzar els socors i a mantenir l'ordre després de la catàstrofe.
+
+
+=== Mètodes moderns ===
+La localització de l'epicentre per mitjans moderns es fa amb l'ajuda de diverses estacions sísmiques (3 com a mínim), i un càlcul tridimensional. Els captadors moderns permeten detectar esdeveniments molt sensibles, tals com una explosió nuclear.
+
+
+== Mètodes de previsió ==
+Es poden distingir tres tipus de previsions: la previsió a llarg termini (sobre diversos anys), a mitjà termini (sobre diversos mesos), i a curt termini (inferior a alguns dies).
+Les previsions a llarg termini descansen sobre una anàlisi estadística de les falles catalogades. Permeten definir normes per a la construcció d'edificis. De manera general, com més hi ha temps entre dos sismes, més el segon és proper i serà més poderós. Certes falles tals com la de Sant Andres a Califòrnia han estat objecte d'estudis estadístics importants havent permès predir el sisme de Santa Cruz el 1989. Sismes importants són així esperats a Califòrnia o al Japó.
+Les previsions a mitjà termini són més interessants per a la població. Les investigacions són en curs per validar certes eines, com el reconeixement de formes.
+Les previsions a curt termini es basen en observacions molt precises dels terrenys a risc. Els mitjans de detecció poden tenir un cost important i resultats no garantits, a conseqüència de la gran heterogeneïtat dels signes precursors d'un sisme, fins i tot la seva absència en sismes tanmateix de gran amplitud, tals com TangShan o Michoacan, que havia estat previst a mitjà termini però no a curt termini. A més els governs tenen necessitat d'informacions certificades per evacuar una població dels indrets sospitats. Grècia estudia sobretot la fiabilitat del mètode FURGÓ, que funciona per gravacions de variacions dels corrents electrotel·lúrics. Aquest mètode, encara que fortament discutit en el mitjà científic, sembla haver detectat 5 sismes majors amb uns quants dies d'anticipació. Els Estats Units utilitzen eines de gran sensibilitat al voltant dels punts estadísticament sensibles (com Parkfield a Califòrnia): vibradors sísmics utilitzats d'exploració petroliera, extensòmetres a fil d'invar, geodimetres en làser, xarxa d'anivellament d'alta precisió, magnetòmetres, anàlisi dels pous... Al Japó s'estudien els moviments de l'escorça terrestre per GPS i per interferometria (VLBI), mètodes dits de geodèsia espacial. A Sud-àfrica, les gravacions es fan als passadissos de mines d'or, a 2 km de profunditat. A la Xina es basa en estudis pluridisciplinaris, com la geologia, la prospecció geofísica o l'experimentació en laboratori.
+
+
+== Els terratrèmols en la cultura ==
+
+
+=== Mitologia i religió ===
+A la mitologia nòrdica, els terratrèmols s'expliquen com la violenta lluita del déu Loki. Quan Loki, Déu de l'entremaliadura i la lluita, va assassinar Balder, déu de la bellesa i la llum, va ser castigat a estar lligat en una cova amb una serp verinosa col·locada damunt del seu cap que degota verí. L'esposa de Loki Sigyn estava al seu costat amb un plat per a prendre el verí, però cada vegada que havia de buidar el recipient, el seu contingut queia a la cara de Loki, que l'obligava a sacsejar el seu cap, colpejant-se i provocant que la terra tremoli.A la mitologia grega, Posidó va ser la causa i el déu dels terratrèmols. Quan estava de mal humor, colpejava el terra amb un trident, causant terratrèmols i altres calamitats. També va utilitzar els terratrèmols per castigar i atemorir la gent com a venjança.En mitologia japonesa, el Namazu (鲶) és un gegant bagra, que causa els terratrèmols. Namazu viu al fang sota terra, i està custodiat pel déu Kashima que restringeix el peix amb una pedra. Quan Kashima abaixà la guàrdia, Namazu feia destrosses, causant violents terratrèmols.
+
+
+=== La cultura popular ===
+A la cultura popular moderna, la representació dels terratrèmols està determinada per la memòria de les grans ciutats devastades, com el gran Terratrèmol de Hanshin de 1995 o San Francisco el 1906. terratrèmols de ficció tendeixen a atacar de sobte i sense previ avís. Per això, les històries sobre els terratrèmols en general comencen amb el desastre i se centren en les seves conseqüències immediates, com a un passeig curt d'estiu (1972), Una arruga a la pell (1968) o Terratrèmol a Nova York (1998). Un exemple notable és la novel·la clàssica de Heinrich von Kleist, El Terratrèmol a Xile, que descriu la destrucció de Santiago el 1647. La col·lecció d'històries curtes de ficció Després del Terratrèmol de Haruki Murakami, que descriu les conseqüències del terratrèmol de Kobe de 1995.
+El terratrèmol més popular a la ficció és l'hipotètic "Big One" que s'espera algun dia a la falla de San Andrés de Califòrnia, com es mostra a les novel·les Richter 10 (1996) i Adéu Califòrnia (1977) entre altres obres. Jacob M. Appel és la història d'una antologia molt curta, Sismologia comparada, conta com un estafador convenç a una dona gran que un terratrèmol apocalíptic és imminent. A navegació d'esbarjo a la badia Lituya, una de les històries de Jim Shepard, el "Big One" porta a un tsunami encara més devastador.
+A la pel·lícula 2012 (2009), les flamarades solars (geològicament inversemblant) que afecten el nucli de la Terra provoquen una desestabilització massiva de les capes de l'escorça terrestre. Aquesta destrucció creada a tot el planeta amb els terratrèmols i els tsunamis, els previstos pels Maies la cultura i el mite s'assenyalava al calendari mesoamericà cap al 2012.
+
+
+== Conducta a seguir en cas de terratrèmol ==
+A les primeres sotragades, no s'ha d'intentar ni entrar ni sortir d'immobles. Cal mantenir-se al marge dels vidres i dels cables. Si s'està conduint, s'ha d'aturar el cotxe, però no sortir-ne.
+És recomanable amagar-se sota taules immediatament.
+S'ha d'agafar fortament tot nadó o nen petit i amagar-lo sota una taula.
+Per seguretat cal allunyar-se de mobles alts, com vitrines, prestatges, llums de peu.
+S'ha de retirar dels fogons o de la cuina qualsevol cassola o paella en què s'estigui cuinant quelcom.
+S'ha de cobrir el cap amb les mans.
+Després de la tremolor, s'ha de verificar l'aigua, el gas i l'electricitat. Reservar el telèfon a les urgències i escoltar les consignes de ràdio.
+Un cop acabades les tremolors, cal sortir immediatament i ràpida dels edificis i immobles i dirigir-se a espais oberts, com places o parcs, endur-se els nens i deixar enrere qualsevol objecte personal pesant o que pugui donar dificultats a l'hora de poder sortir corrents en cas de nova tremolor.
+
+
+== Vegeu també ==
+Terratrèmol de Tivissa de 1845
+Tremor
+Terratrèmols a les Illes Balears
+
+
+== Referències ==
+
+
+== Enllaços externs ==
+«Fabra - Secció sísmica». Arxivat de l'original el 2008-09-23. [Consulta: 23 juliol 2008].
+«EMSC - European-Mediterranean Seismological Centre» (en anglès). Arxivat de l'original el 2008-10-20. [Consulta: 23 juliol 2008].
+«Vilaweb - Els terratrèmols».
+
+Viccionari

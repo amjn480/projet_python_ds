@@ -1,0 +1,291 @@
+El Zilog Z80 és un microprocessador de 8 bits dissenyat i venut per Zilog des del juliol de 1976. S'utilitzava àmpliament tant en microordinadors així com per a propòsits militars. El Z80 i els seus derivats i els clons constitueixen una de les famílies de CPU més comunament utilitzades de tot el temps, i, junt amb la família 6502, dominava el mercat de microordinadors de 8 bits fins a finals dels anys 1970 a mitjan anys 1980.
+
+
+== Història ==
+
+
+=== Introducció ===
+El Z80 va ser dissenyat principalment per Federico Faggin, que va estar treballant a Intel com a dissenyador cap de l'Intel 4004 i de l'Intel 8080. Quan es va acabar de produir, el 1974, Federico Faggin va deixar Intel, va fundar Zilog i va començar a treballar en el disseny de Z80 basant-se en l'experiència adquirida creant l'Intel 8080 i basant-se en l'estructura d'aquest últim. Dos anys després estava a la venda el Z80.
+El Z80 estava dissenyat per ser compatible a nivell de codi amb l'Intel 8080, de manera que la majoria dels programes pel 8080 poguessin funcionar en ell, especialment el sistema operatiu CP/M.
+El Z80 tenia vuit millores fonamentals respecte a l'Intel 8080:
+
+Un conjunt d'instruccions millorat, incloent els nous registres índex IX i IY i les instruccions necessàries per manejar-los.
+Dos bancs de registres que podien ser canviats de forma ràpida per accelerar la resposta a interrupcions.
+Instruccions de moviment de blocs, E/S de blocs i recerca de bytes.
+Instruccions de manipulació de bits.
+Un comptador de direccions pel refresc de la DRAM integrat, que en el 8080 havia de ser proporcionat pel conjunt de circuits de suport.
+Alimentació única de 5 volts.
+Necessitat de menys circuits auxiliars, tant per a la generació del senyal de rellotge com per a l'enllaç amb la memòria i la E/S.
+Més barat que l'Intel 8080.
+Una tipus especial de reset que només reinicia el comptador de programa de manera que el Z80 es pot usar en un sistema de desenvolupament HISSI (In-Circuit Emulator).El Z80 va eliminar ràpidament a l'Intel 8080 del mercat i es va convertir en un dels processadors de 8 bits més populars. Les primeres versions funcionaven a 2,5 MHz, però la seva velocitat ha augmentat fins als 20 MHz. Així, la versió més utilitzada va ser el Z80A funcionant a 3,58 MHz (un quart de la freqüència PAL o NTSC) sent la velocitat de fàbrica de 4 MHz.En l'actualitat Zilog segueix fabricant versions del Z80 original i altres models compatibles que milloren les prestacions.
+
+
+=== Usos notables ===
+Al començament dels anys 1980 el Z80 o versions clòniques del mateix van ser usades en multitud d'ordinadors domèstics, com la gamma MSX, el Radio Shack TRS-80, el Sinclair ZX80, ZX81 i ZX Spectrum. També va ser usat en l'Osborne 1, el Kaypro i una gran quantitat d'ordinadors empresarials que dominaven el mercat per aquella època i que usaven el sistema operatiu CP/M.
+A mitjan anys 1980 el Z80 va ser usat en el Tatung Einstein i la família d'ordinadors domèstics i empresarials Amstrad CPC i Amstrad PCW. El Z80 també va ser usat en els ordinadors Tiki 100, que s'empraven en els col·legis de Noruega en aquells dies.
+Va ser tan gran la popularitat del Z80 i el CP/M que altres ordinadors basats en el MOS Technology 6502 o 6510 que ja estaven al mercat, com el BBC Micro, l'Apple II i el Commodore 64 podien ser ampliats mitjançant una targeta o cartutx que contenia un processador Z80. També el Commodore 128 incloïa un Z80 secundari al costat del MOS Technology 8502 principal per poder usar CP/M.
+Ja en els anys 1990 el Z80 ha estat usat en les videoconsoles Sega Master System i Sega Game Gear. A més les videoconsoles SNK Neo-Geo i la Sega Mega Drive i moltes màquines arcade usen un Z80 com el processador especialitzat en so.
+Les Game Boy i Game Boy Color de Nintendo utilitzen una variant del Z80 fabricada per Sharp.
+En l'actualitat, part de la gamma de calculadores gràfiques programables de Texas Instruments com les TU-73 (1998), TU-73 Explorer (2003), TU-82 (només el model de 1999), TU-83 Plus (només models de 1999 i 2001), i les seves successores empren una versió clònica del Z80 fabricada per NEC com a processador principal.
+A més el Z80 també és un microprocessador popular per ser usat en sistemes incrustats, camp on s'empra de manera extensiva.
+
+
+=== Segones fonts i clònics ===
+Mostek i SGS van ser segones fonts del Z80 (Mostek MK3880 i SGS Z8400). Sharp i NEC fabriquen clònics del Z80 (Sharp LH-0080 i NEC µPD780C). National Semiconductor va fabricar un processador clònic, el NSC800, amb tecnologia CMOS però que no era compatible pin a pin. Hitachi va fabricar una versió amb tecnologia CMOS millorada, la segona font de la qual va ser curiosament la pròpia Zilog.
+A la República Democràtica Alemanya es va produir una versió clònica del Z80 anomenada U880, que va ser emprada en els sistemes informàtics de Robotron i de VEB Mikroelektronik Mühlhausen, així com les sèries KC85 i en molts ordinadors de fabricació casolana.
+A Romania es va fabricar una versió clònica del Z80, el MMN80, i que segons algunes fonts va ser també fabricada a la Unió Soviètica, on es van crear diverses còpies del Z80, sent el més conegut el T34. Aquest microprocessador va ser utilitzat en la majoria d'ordinadors fabricats en aquest país, gairebé tots clons dels Sinclair ZX Spectrum: Ice Felix HC85, HC90, HC91, HC2000, Datatim/Universitat Tècnica de Timisoara TIM-S, MicroTIM i MicroTIM+ o els Intreprinderea Electrónica CIP, CIP-02, CIP-03, CIP-04.
+Avui en dia existeixen dos nuclis de processador anomenats T80 i TV80 que són funcionalment equivalents al Zilog Z80 i es troben disponibles sota una llicència de tipus BSD. El codi font d'aquests nuclis està disponible tant a Verilog com a VHDL. Una vegada sintetitzada aquesta última versió pot funcionar fins a 35 MHz en una FPGA Xilinx Spartan II.
+En l'actualitat la pròpia Zilog fabrica una versió millorada del Z80 anomenada eZ80, que funcionant a 50 MHz té un rendiment similar a un Z80 funcionant a 150 MHz i a més pot adreçar fins a 16 MB de memòria RAM estenent la grandària dels registres, davant dels 64 KB del Z80.
+Existeixen dissenys de maquinari actuals que implementen un Z80 dins d'un xip programables programant part del xip perquè compleixi les funcions del Z80.
+
+No tots els clons d'aquest microprocessador tenen connectat el pin NMI, per la qual cosa en intentar usar-lo en alguns models aquest fa cas omís.
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Evolucions ==
+
+
+=== Z180 ===
+El Z180 és el successor del Z80. És compatible amb una llarga col·lecció de programari. La família Z180 afegeix majors prestacions i funcions de perifèrics integrats com el generador de rellotge, comptadors/rellotges de 16 bits, controlador d'interrupcions, generadors d'estat d'espera, ports sèrie i un controlador DMA. Usa cicles de lectura i escriptura separats, usant rellotges similars als del Z80 i als processadors Intel. La MMU integrada té la capacitat d'adreçar fins a 1 MB de memòria. És possible configurar el Z180 perquè operi com un Hitachi HD64180.
+
+
+=== Z80182 ===
+El Z80182 és una versió millorada del Z80 i és part de la família Z180. Se li sobrenomena Controlador de perifèrics intel·ligents de Zilog (ZIP: Zilog Intelligent Peripheral Controller). També és completament estàtic (el rellotge pot ser parat i no es perden dades dels registres) i té una opció de baixa interferència electromagnètica que redueix el slew rate de les sortides.
+El Z80182 pot operar a 33 MHz amb un oscil·lador extern operant a 5 volts, o a 20 MHz usant l'oscil·lador intern a 3,3 V.
+
+
+=== Hitachi HD64180 ===
+
+El HD64180 és un microprocessador basat en el Z80 desenvolupat per Hitachi que inclou una MMU. L'HD64180 Super Z80 va ser posteriorment llicenciat a Zilog i venut amb el nom Z64180 incloent algunes millores com les presents en el Z180.
+
+
+=== Z280 ===
+
+El Z280 va ser una millora de l'arquitectura Z80 presentada al juliol de 1987. Bàsicament és una versió CMOS lleugerament millorada de l'anterior Z800. Ambdues versions, el Z280 i el Z800, van ser fracassos comercials.
+
+
+== Estructura ==
+Malgrat ser un microprocessador de 8 bits, el Z80 pot manejar instruccions de 16 bits i pot adreçar fins a 64 KiB de RAM. Una de les característiques més ressenyables és que té les instruccions de l'Intel 8080 com a subconjunt, de manera que alguns ordinadors basats en Z80 podien executar programes dissenyats pel CP/M de l'8080. Això ha fet que els formats d'instrucció del Z80 siguin bastant complexos, ja que han de mantenir la seva compatibilitat amb el 8080. No obstant això el Z80 ha aconseguit millorar al microprocessador d'Intel en velocitat, ha afegit noves maneres d'adreçament i conté un joc d'instruccions més ampli.
+
+
+=== Registres ===
+L'estructura de registres del Z80 està composta per un banc principal, un altre alternatiu i finalment un banc compost per registres especials. L'existència del banc alternatiu millora la velocitat davant la presència de les interrupcions, ja que permet canviar des del banc principal a l'alternatiu. Els registres són:
+
+A, B, C, D, E, H i L (banc principal)
+A', B', C', D', E', H' i L' (banc alternatiu)
+I, R, IX, IY, SP i PC (registres especials)Els registres del banc principal són generals i de 8 bits. Es poden prendre per parelles, sent llavors IX i IY els registres índexs. El registre A serveix d'acumulador. El R emmagatzema el bloc de memòria al refresc de la qual es va a procedir. El SP és el punter de cim de pila. El PC és el comptador de programa. El F conté els flags o també anomenats bits de condició.
+
+Registres primaris Registres alternatius
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|       A       |S Z - A - P N C| F  |       A'      |S Z - A - P N C| F'
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|       B       |       C       |    |       B'      |       C'      |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|       D       |       E       |    |       D'      |       E'      |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|       H       |       L       |    |       H'      |       L'      |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Registres índex
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|              IX               |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|              IY               |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Punter de pila i Comptador de programa
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|              SP               | Punter de pila
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|              PC               | Comptador de programa
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Registre d'interrupcions i
+Registre de refresc de memòria
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|       I       |       R       |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+
+==== Acumulador ====
+El registre utilitzat per guardar la dada que s'està usant.
+És el registre més important, al costat del registre F (amb el qual forma el parell de registres AF). La majoria de les operacions matemàtiques i lògiques de 8 bits es realitzen a través d'aquest registre, d'aquí la seva importància.
+
+
+==== Parell HL ====
+És el parell de registres més versàtil, utilitzat sobretot per contenir adreces de memòria.
+En el registre simple L es col·loca el byte més baix (LOW en anglès) de l'adreça de memòria, i en H, es col·loca el byte més alt (HIGH en anglès) de l'adreça de memòria. Així mateix, és molt utilitzat per les trucades a subrutines BIOS (CALL) per a dades d'entrada/sortida de la subrutina anomenada. Algunes instruccions Assembler són específiques d'aquest parell de registres.
+
+
+==== Parells BC i DE ====
+S'utilitzen com a parells auxiliars d'HL en instruccions que manipulen blocs com LDI, LDIR, etc.
+
+
+==== Registres indexats IX i IY ====
+Són 2 registres de 16 bits.
+S'utilitzen com a registres basi per apuntar a una adreça de memòria d'on es va a prendre una dada. S'indica un byte addicional que implica desplaçament.
+
+Encara que no està documentat oficialment, es poden utilitzar com 2 registres de 8 bits independents, obtenint un total de 4 registres de 8 bits extres.
+
+
+==== Punter de pila SP ====
+Permet l'amidament de rutines. Apunta a una zona de memòria anomenada STACK que és una estructura de pila o LIFO.
+
+
+==== Registres especials ====
+Flag F: Indica condicions especials en realitzar operacions matemàtiques o lògiques.Serveix com a conjunt de banderes, que ens indiquen la informació sobre les operacions que s'estan realitzant.
+Registre d'interrupcions I: S'utilitza per executar qualsevol subrutina com a resposta a una interrupció maquinari, utilitzant-se com a capdavanter I com la part alta de l'adreça i la dada que existeixi en el bus de dades com la part baixa, això permet manejar 128 interrupcions diferents.
+Registre de refresc R: El valor del registre R es col·loca en el bus d'adreces mentre s'activa el senyal de refresc proporcionada per la CPU. Això ocorre mentre la CPU descodifica una instrucció, o un prefix d'instrucció.
+
+
+=== Bits de condició (flags) del Z80 ===
+0-C: Implic.
+1-N: Resta BCD, per a correcció amb DAA.
+2-P/V: Paritat/desbordament.
+4-H: Mitjà implic, per a correcció BCD amb DAA.
+6-Z: Zero.
+7-S: Signe.Els bits 3 i 5 no s'utilitzen, però certes instruccions els modifiquen, encara que no estan oficialment documentats.
+
+
+=== Pins ===
+Els pins del Z80. Les línies del bus de direccions es veuen en vermell, les del bus de dades en blau i les del bus de control en color verd.
+
+             +--\/--+
+<-- A11    1|      |40 A10    --> 
+<-- A12    2|      |39 A9     --> 
+<-- A13    3|      |38 A8     --> 
+<-- A14    4|      |37 A7     --> 
+<-- A15    5|      |36 A6     --> 
+--> CLK    6|      |35 A5     --> 
+<-> D4     7|      |34 A4     --> 
+<-> D3     8|      |33 A3     --> 
+<-> D5     9| Z80  |32 A2     --> 
+<-> D6    10|      |31 A1     --> 
+ +5V Vcc   11|      |30 A0     --> 
+<-> D2    12|      |29 GND
+<-> D7    13|      |28 !RFSH  --> 
+<-> D0    14|      |27 !M1    --> 
+<-> D1    15|      |26 !RESET <-- 
+--> !INT  16|      |25 !BUSRQ <-- 
+--> !NMI  17|      |24 !WAIT  <-- 
+<-- !HALT  18|      |23 !BUSAK --> 
+<-- !MREQ  19|      |22 !WR    --> 
+<-- !IORQ  20|      |21 !RD    --> 
+             +------+
+
+
+== Vegeu també ==
+Intel 8080
+Intel 8085
+MOS 6502
+Zilog Z8000.
+TI-86.
+
+
+== Referències ==
+
+
+== Bibliografia ==
+
+
+=== Text ===
+ Z280 MPU Microprocessor Unit Preliminary Technical Manual.  Zilog, 1989 [Consulta: 15 juliol 2009].  Arxivat 2011-06-08 a Wayback Machine. (Nota: Fitxer PDF de 20MB)
+ Z80 Family Data Book.  Zilog, Gener de 1989. 
+Reh, Tilmann «The CPU280 and Z280». TCJ, 16-09-1991 [Consulta: 15 juliol 2009].
+Sesto Rubino, Patrizio; Giuseppe Pranzo Zaccaria. Editrice Il Rostro. Il nuovo manuale Z80, 1982. 
+ Zilog. Zilog Components Data Book (en anglès), 1985. 
+ Zilog. Zilog Z-80 Data Book (pdf) (en anglès), 1978 [Consulta: 20 juliol 2009].  Arxivat 18 October 2010 a Wayback Machine.
+Anderson, Alexander John. CRC Press,. Foundations of Computer Technology (en anglès), 8 set 1994. ISBN 0-412-59810-8. 
+Artwick, Bruce A. Prentice-Hall. Microcomputer interfacing (en anglès), 1980. ISBN 978-0-13-580902-0. 
+Axelson, Jan. Lakeview research. Embedded ethernet and internet complete (en anglès), 2003. ISBN 978-1-931448-00-0. 
+Balch, Mark. «Digital Fundamentals». A: McGraw-Hill Professional. Complete Digital Design: A Comprehensive Guide to Digital Electronics and Computer System Architecture (en anglès), 2003. ISBN 0-07-140927-0. 
+Brock, Gerald W. Harvard University Press. The second information revolution (en anglès), 2003. ISBN 978-0-674-01178-6. 
+Wai-Kai Chen. «61.4 - Microprocessor Based Degins: Interfacing». A: CRC Press. The circuits and filters handbook (en anglès), 2002. ISBN 978-0-8493-0912-0. 
+Ciarcia, Steve. BYTE. Build your own Z80 computer: design guidelines and application notes (en anglès), octubre 1981. ISBN 0-07-010962-1. 
+Commodore Business Machines. Bantam Books. Commodore 128: Programmer's Reference Guide (en anglès), 1986. ISBN 978-0-553-34292-5. 
+Daniel Sánchez-Crespo Dalmau. New Riders. Core techniques and algorithms in game programming (en anglès), 2004. ISBN 978-0-13-102009-2. 
+Froehlich, Robert A. Crown Publishers. Free software catalog and direct (en anglès), 1984. ISBN 978-0-517-55448-7. 
+Joe Grand et al.. Syngress. Game console hacking: Xbox, PlayStation, Nintendo, Game Boy, Atari, & Sega (en anglès), 2004. ISBN 978-1-931836-31-9. 
+Heath, Steve. Newnes. Embedded systems design (en anglès), dicembre 2002. ISBN 978-0-7506-5546-0. 
+Holtz, Herman. Chapman and Hall. Computer work stations - A Manager's Guide to Office Automation and Multi-User Systems (en anglès), 1985. ISBN 978-0-412-00491-9. 
+Hyder, Kamal; Bob Perrin. Newnes. Embedded systems design using the Rabbit 30000 microprocessor (en anglès), 2004. ISBN 978-0-7506-7872-8. 
+Longley, Dennis; Michael Shain. MacMillan Press. Expanding and networking microcomputers: the complete and up to date guide to over 600 boards for Apple and IBM PCs (en anglès), 1985. ISBN 978-0-333-38006-2. 
+Aditya P. Mathur. McGraw Hill. Introduction to Microprocessors (en anglès), 1990. ISBN 978-0-07-460222-5. 
+Meystel, Alex. World Scientific. Autonomous mobile robots: vehicles with cognitive control (en anglès), 1991. ISBN 978-9971-5-0089-4. 
+Miesenberger, Klaus. Springer-Verlag. Computers Helping People with Special Needs (en anglès), 2008. ISBN 978-3-540-70539-0. 
+Nelson, Ross P. Microsoft Press. The 80386 book: assembly language programmer's guide for the 80386 (en anglès), 1989. ISBN 978-1-55615-138-5. 
+Nitsche, Michael. «Games and Rules». A: MIT Press. Video Game Spaces: Image, Play, and Structure in 3D Worlds (en anglès), 2009. ISBN 0-262-14101-9. 
+Sanchez, Julio; Maria P. Canton. CRC Press. Software solutions for engineers and scientists (en anglès), 2008. ISBN 978-1-4200-4302-0. 
+Scanlon, Leo J. Brady Books. 8086/8088/80286 assembly language (en anglès), 1978. ISBN 978-0-13-246919-7. 
+Sinclair, Ian R. Newnes. Practical electronics handbook (en anglès), 2000. ISBN 978-0-7506-4585-0. 
+Zaks, Rodnay. Sybex Inc. Programming the Z80 (en anglès), 1981. ISBN 978-0-89588-069-7. 
+ Cahners Asia Limited. Electronic Business Asia (en anglès), 1997. 
+
+
+=== Publicacions ===
+Franco Maddaleno «Nuove istruzioni dello Z-80». revista italiana, 1979.
+ «History of the 8-bit: travelling far in a short time» (en anglès). InfoWorld Media Group, 4, 29-11-1982. ISSN: 0199-6649.
+Federico Faggin «The Birth of the Microprocessor - My Recollections» (en anglès). intel4004.com, 15 ottobre 2001 [Consulta: 4 octubre 2010].
+ «Z180 Family Questions and Answers» (PDF) (en anglès). Zilog, març 1994. Arxivat de l'original el 5 gen 2009 [Consulta: 9 novembre 2010].
+ «Zilog product specification - Z8400/Z84C00 NMOS/CMOS Z80 CPU Central Processing Unit» (en anglès). Zilog. Z80.info [Consulta: 21 agost 2010].
+ «Z80 Family CPU User Manual» (en anglès). Zilog, 2005.
+ «Z80 Relocating Macro Assembler User's Guide» (en anglès). SLR Systems, 1984. Arxivat de l'original el 20 jul 2011. Arxivat 20 de juliol 2011 a Wayback Machine.
+InfoWorld Media Group «Macro-Mon, an advanced monitor for the TSR-80» (en anglès). InfoWorld, 4, 21-06-1982.
+ «Section 6 MOS MPU, MCU, and Peripherals Market Trends» (en anglès). Smithsonian.
+Dvorak, John C. «After CP/M, object oriented operating systems may lead the field» (en anglès). InfoWorld. InfoWorld Media Group, 4, 10-05-1982.
+Petersen, Marty «Review: Premium Softcard IIe» (en anglès). InfoWorld. InfoWorld Media Group, 6, 06-02-1984.
+ «Midway Pac-Man Parts and Operating Manual» (en anglès). Midway Games, desembre 1980 [Consulta: 9 novembre 2010].
+ «Midway Galaxian Parts and Operating Manual» (en anglès). Midway Games, febrer 1980 [Consulta: 9 novembre 2010].
+ «Midway Galaga Parts and Operating Manual» (en anglès). Midway Games, octubre 1981 [Consulta: 9 novembre 2010].
+ «Electronic Christmas, Zappy New Year» (en anglès). InfoWorld. InfoWorld, 4, 20-12-1982.
+ «Japanese computer firms in court again» (en anglès). New Scientist. Reed Business Information Ltd, 05-05-1983 [Consulta: 9 novembre 2010].
+ «Zilog Z8S180/Z8L180» (en anglès). Zilog, Inc., 2000 [Consulta: 12 novembre 2010].
+ «eZ80 CPU User Manual» (en anglès). Zilog, Inc., 2008 [Consulta: 12 novembre 2010].
+
+
+=== Articles de l'arquitectura del Z80 ===
+A. El-Hajj; K.Y. Kabalan; M. Mneimneh; F. Karablieh «Microprocessor simulation and program assembling using spreadsheets» (en anglès). Simulation, 75, agosto 2000. DOI: 10.1119/1.14604.
+K. Nagasawa; K. Taki; H. Tamemoto; B.Y. Lee; H. Tanaka; S. Imai; Y. Kajikawa; D. Azuma «Design and evaluation for super low power Z80 with pass-transistor logic» (en anglès). Sharp Technical Journal, 67, abril 1997.
+W. Lunscher «Semaphore Strategy For Z80» (en anglès). IEEE Micro, 5, 1985. DOI: 10.1109/MM.1985.304535.
+M. Smith; B.E. Luff «Automatic Assembler Source Translation From The Z80 To The Mc6809» (en anglès). IEEE Micro. IEEE, 4, 1984. DOI: 10.1109/MM.1984.291314.
+
+
+=== Usos educatius ===
+H.B. Diab; I. Demashkieh «A computer-aided teaching package for microprocessor systems education» (en anglès). IEEE Transactions on Education. IEEE, 34, maig 1991. DOI: 10.1109/13.81598.
+M.H. Nehrir; A.J. Odermann; B.D. Bowen «A microcomputer-microprocessor-based DC motor speed controller for undergraduate electric machinery laboratory» (en anglès). IEEE Transactions on Education. IEEE, 33, novembre 1990. DOI: 10.1109/13.61087.
+C. D. Spencer; P. F. Seligmann «Microcomputers as digital electronics» (en anglès). American Journal of Physics. AAPT, 54, maggio 1986. Arxivat de l'original el 23 feb 2013. DOI: 10.1119/1.14604 [Consulta: 3 setembre 2010]. Arxivat 23 de febrer 2013 at Archive.is
+Trevor N. Mudge; Gregory D. Buzzard «Teaching Assembly Language Programming With ZIP, A Z80 Assembly Language Interpreter Program» (en anglès). IEEE Transactions on Education. IEEE, 26, 1983. DOI: 10.1109/TE.1983.4321615.
+Sistema Microprofessor I amb Z80, amb manuals de curs i d'aprenentatge.
+
+
+=== Aplicacions científiques ===
+F.O. Otieno; B.O. Kola; F. N. Onyango «On-line determination of thermophysical properties in an absorption calorimeter» (en anglès). Measurement Science & Technology. IOP, 8, març 1997. DOI: 10.1088/0957-0233/8/3/004.
+S. Altieri; F. Fossati; A. Lanza; T. Pinelli «An Automated-System to Control the Polarization Voltage of Silicon Detectors» (en anglès). IEEE Transactions on Nuclear Science. IEEE, 42, abril 1995. DOI: 10.1109/23.372132.
+F.M. Xiao; S. Li «A Front-End Data Acquisition-System for Mossbauer-Spectroscopy» (en anglès). Hyperfine Interactions. Springer Netherlands, 71, 1992. DOI: 10.1007/BF02397372.
+T. Brenner; S. Buttgenbach; T. Fabula; W. Rupprecht «Real-time data acquisition system for laser and radio frequency spectroscopy» (en anglès). J. Phys. E: Sci. Instrum.. IOP, 21, 1988. DOI: 10.1088/0022-3735/21/12/005.
+P.M. Kennedy; Z.H. Stachurski «A novel semi-contact extensometer based on Z80 microprocessor» (en anglès). J. Phys. E: Sci. Instrum.. IOP, 19, 1986. DOI: 10.1088/0022-3735/19/2/003.
+L. Thomas; W. Bunn; S. Woodward; T. Baer «Design and operation of a 12.5-ns multichannel scaler» (en anglès). Review of Scientific Instruments. AIP, 55, novembre 1984. Arxivat de l'original el 23 feb 2013. DOI: 10.1063/1.1137678 [Consulta: 3 setembre 2010]. Arxivat 23 de febrer 2013 at Archive.is
+K. L. Sala; R. LeSage; R. W. Yip «S-100/Z80 microprocessor-based scanning microdensitometer and signal processing system» (en anglès). Review of Scientific Instruments. AIP, 53, novembre 1982. Arxivat de l'original el 23 feb 2013. DOI: 10.1063/1.1136870 [Consulta: 3 setembre 2010]. Arxivat 23 de febrer 2013 at Archive.is
+
+
+== Enllaços externs ==
+Joan Cabestany Moncusí. Disseny de sistemes digitals amb microprocessadors. Edicions UPC, 2000, p. 69. (català)
+Documentació oficial del Z80 Arxivat 2005-12-24 a Wayback Machine. (anglès)
+Varietats del Z80 fabricades actualment per Zilog (anglès)
+Tutorial de codi màquina del Z80 (anglès)
+OCR de un curset de la revista MicroHobby (anglès)
+Llista de tots els proccessadors Hitachi 64180 amb les seves freqüències de rellotge (anglès)

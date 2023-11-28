@@ -1,0 +1,444 @@
+Der Universal Serial Bus (USB) [ˌjuːnɪˈvɜːsl ˈsɪɹiəl bʌs] ist ein bit-serielles Datenübertragungssystem zur Verbindung eines Computers mit externen Geräten. Mit USB ausgestattete Geräte oder Speichermedien, wie etwa USB-Speichersticks, können im laufenden Betrieb miteinander verbunden (Hot Plugging) und angeschlossene Geräte sowie deren Eigenschaften automatisch erkannt werden. Vor der Einführung von USB gab es eine Vielzahl verschiedener Schnittstellentypen mit unterschiedlichsten Steckern zum Anschluss von Zubehör und Peripheriegeräten an Heim- und Personal Computer. Fast alle diese Schnittstellenvarianten wurden durch USB ersetzt, was für die Anwender Vereinfachungen mit sich brachte, die jedoch durch die Vielzahl an unterschiedlichen USB-Steckern und -Buchsen wieder teilweise relativiert wurden. USB wurde 1996 mit einer maximalen Datenübertragungsrate von 12 Mbit/s als USB 1.0 eingeführt. Im Jahr 2000 ist Version USB 2.0 mit 480 Mbit/s spezifiziert worden. Bei dem 2014 eingeführten Standard USB 3.1 Gen 2 beträgt die maximale Brutto-Datenübertragungsrate für SuperSpeed+ 10 Gbit/s. 2017 wurde USB 3.2 mit einer Übertragungsrate bis zu 20 Gbit/s spezifiziert. Trotz des Begriffs „Bus“ in der Bezeichnung „Universal Serial Bus“ verwendet USB eine Baum-Topologie mit dem Root-Hub als Wurzel.
+
+
+== Überblick ==
+Der USB überträgt die Daten bit-seriell, das heißt die einzelnen Bits werden nacheinander übertragen.
+Die Übertragung erfolgt differenziell über ein symmetrisches Adernpaar: liegt auf der ersten Ader der High-Pegel an, so liegt auf der zweiten der Low-Pegel an und umgekehrt. Der Signalempfänger wertet an einem Terminierungswiderstand die Differenzspannung aus. Aus deren Vorzeichen ergeben sich die beiden logischen Zustände Null oder Eins. Durch das differenzielle Verfahren und die Verwendung verdrillter Adern werden elektrisch eingestrahlte Störungen weitgehend eliminiert. Das erhöht die Übertragungssicherheit und unterdrückt Gleichtaktstörungen. Die Übertragung der Daten in beiden Richtungen (von und zum Peripheriegerät) erfolgt bei Datenübertragungsraten bis zu 480 MBit/s über dasselbe Adernpaar; erst die mit USB 3.0 eingeführten schnelleren Modi erfordern weitere Adernpaare. Zwei weitere Adern versorgen angeschlossene Geräte mit Energie. Durch die Verwendung von nur vier Adern in einem Kabel (tauglich bis 480 MBit/s) kann dieses dünner ausgeführt und günstiger gefertigt werden als bei parallelen Schnittstellen. Im Vergleich zu byte-parallelen Verbindungen – wie etwa IEEE 1284 („Centronics“) – ist eine hohe Datenübertragungsrate mit relativ geringem Aufwand zu erreichen, da nicht mehrere Signale gleichzeitig mit gleichem elektrischen Verhalten übertragen werden müssen.
+Es steht eine Palette unterschiedlicher Übertragungsgeschwindigkeiten zur Verfügung. Je nach den sich aus der Anwendung ergebenden Anforderungen kann die maximale Datenübertragungsrate zwischen 1,5 Mbit/s und fast 40 Gbit/s betragen (siehe Abschnitt Datenraten). Die Wahl der maximalen Datenübertragungsrate hat Einfluss auf diverse Parameter, wie etwa Aufwand der Implementierung, Auswahl des Kabelmaterials, Steckertypen oder auch benutzte Signalspannungen.
+Die elektrische Verbindung ist eine Direktverbindung (Punkt-zu-Punkt-Verbindung); zu einem Bus-System wird USB erst oberhalb der physischen Ebene. Die Bus-Spezifikation sieht einen zentralen Host-Controller (Master) vor, der die angeschlossenen Peripherie-Geräte (der sog. Slave-Clients) koordiniert. Daran können theoretisch bis zu 127 verschiedene Geräte angeschlossen werden. An einem USB-Port kann immer nur ein USB-Gerät angeschlossen werden. Sollen an einem Host mehrere Geräte angeschlossen werden, muss deshalb ein Verteiler (Hub) für deren Kopplung sorgen. Durch die Hubs entstehen Baumstrukturen, die alle im Host-Controller enden.
+
+
+== Einsatzgebiete des USB ==
+USB eignet sich für viele Geräte wie Massenspeicher (etwa Festplatten, Disketten, DVD-Laufwerke), Drucker, Scanner, Webcams, Mäuse, Tastaturen, aktive Lautsprecher, aber auch Dongles und sogar Grafikkarten und Monitore. USB kann für Geräte mit geringem Stromverbrauch wie Mäuse, Telefone, Tastaturen, aber beispielsweise auch CIS-Scanner oder manche 2,5-Zoll-Festplatten und externe Soundkarten die Stromversorgung übernehmen.
+Über USB können heute mehrere Gerätetypen angeschlossen werden, die vor der USB-Einführung über eine größere Zahl verschiedener Schnittstellentypen angebunden wurden. Zu den abgelösten älteren Typen gehören sowohl serielle (RS-232, PS/2-Schnittstelle für Tastatur und Maus, Apple Desktop Bus), parallele (Centronics-Schnittstelle) als auch analoge (Gameport) Schnittstellen. Die alten Schnittstellen werden auf manchen Rechner-Hauptplatinen und Notebooks teils noch immer angeboten, auch wenn entsprechende Geräte nicht mehr im Handel erhältlich sind. Alte Geräte mit solchen Anschlüssen wie serielle 56k-Modems oder parallele Drucker sind aber vielerorts noch vorhanden. Im industriellen Bereich wird noch oft RS-232 über ältere PCs oder Adapterkarten eingesetzt, da entsprechende USB-Adapter nicht echtzeitfähig und Peripheriegeräte in diesem Umfeld wesentlich langlebiger sind. Mittlerweile hat USB auch externe SCSI-Schnittstellen weitgehend verdrängt.
+Im Vergleich zu den früheren Lösungen bietet USB deutlich höhere Datenübertragungsraten. Die Daten werden jedoch in Paketen übertragen. Für manche zeitkritische Anwendungen ist es deshalb weniger geeignet – etwa bei mit nur wenigen Bytes belegten Paketen, die die Übertragungsrate senken, oder wenn das Sammeln von Bytes zum Füllen eines Pakets die Übertragung verzögern würde.
+Bereits seit der Einführung der USB-2.0-Spezifikation sind relativ hohe Datenübertragungsraten möglich. Dadurch eignet sich USB für den Anschluss weiterer Gerätearten wie Festplatten, TV-Schnittstellen und Fotokameras. Bei externen Massenspeicherlösungen steht USB in Konkurrenz zu FireWire und eSATA und hat diese zumindest im Heimbereich fast vollständig verdrängt.
+Über USB können auch universelle zusätzliche Faktoren für die Zwei-Faktor-Authentifizierung mit Betriebssystemen oder Webbrowsern kommunizieren, wie zum Beispiel Security-Tokens für den offenen U2F-Standard.
+
+
+== Geschichte und Entwicklung ==
+
+
+=== USB 1.0 ===
+Der universelle serielle Bus (USB 1.0) wurde von einem Konsortium aus den Unternehmen Compaq, DEC, Intel, IBM, Microsoft, NEC und Nortel entwickelt und 1996 eingeführt. Wichtige Beiträge leistete das Entwicklungsteam um Ajay Bhatt bei Intel. USB ersetzt viele bisherige PC-Schnittstellen und vereinheitlichte den Anschluss für Tastaturen und Peripheriegeräte wie Drucker, Scanner und externe Massenspeicher.
+Als einer der ersten Chipsätze unterstützte 1996 der für den Pentium Pro entwickelte und auch mit dem Pentium II verwendete 440FX das USB-Protokoll, was vor Einführung der ATX-Mainboards jedoch kaum beworben wurde. Ein Grund war die geringe USB-Unterstützung durch die Betriebssysteme Windows 95 und Windows NT 4.0. Auch fehlte es anfangs an USB-Geräten.
+
+
+=== USB 1.1 ===
+Die Spezifikation USB 1.1 behob 1998 Fehler und Unklarheiten der 1.0-Spezifikation und fügte den Interrupt Out Transfer hinzu. USB 1.x war keine Konkurrenz zu Apples FireWire-Standard (IEEE 1394), der ab 1995 bereits 400 Mbit/s übertrug und 2003 auf 800 Mbit/s beschleunigt wurde. Dennoch setzte Apple die Schnittstelle in der Revision USB 1.1 im 1998 veröffentlichten iMac G3 ein und ersetzte damit den ADB.
+
+
+=== USB 2.0 ===
+Im Jahr 2000 wurde USB 2.0 spezifiziert. Damit wurde eine Datenrate von 480 Mbit/s möglich. Diese nutzten Produkte wie Festplatten und Videogeräte ab 2002. Unterstützt wird USB 2.0 ab Windows XP Service Pack 1 und ab Windows 2000 Service Pack 4.
+
+
+=== USB 3.0 ===
+2008 folgte die Spezifikation für USB 3.0 SuperSpeed. Hier werden 5 Gbit/s übertragen. Das ist die Datenrate des verwendeten Leitungscodes 8b10b, mit dem je 8 Nutzdatenbits zur Übertragung in 10 Kanalbits kodiert werden. Daher ergibt sich eine maximale Brutto-Datentransferrate von 4 Gbit/s. Die mögliche Netto-Datenrate liegt etwas unter der Brutto-Datenrate. Dafür wurden neue Stecker, Kabel und Buchsen eingeführt, die teilweise mit den alten kompatibel sind.Ab Juli 2011 wurde USB 3.0 von AMD in den Chipsatz A75 integriert, sodass keine Zusatzchips auf den Mainboards mehr nötig waren. Zusätzliche Chips steigern die Kosten und den Aufwand für Mainboard-Hersteller, sodass die Integration in den Chipsatz entscheidend zur Verbreitung von USB 3.0 beigetragen hat. Etwa ein Jahr später hat auch Intel USB 3.0 in die 7er-Chipsätze integriert.
+
+
+=== USB 3.1 ===
+Die im Juli 2013 verabschiedete USB-3.1-Spezifikation Superspeed verdoppelte die Übertragungsgeschwindigkeit gegenüber USB 3.0 auf 10 Gbit/s brutto. Der mit 128b132b effizientere Leitungscode ermöglichte rechnerisch 1,2 GB/s. Dies führte zu einer Umbenennung. Die USB-3.0-Spezifikation ging in der USB-3.1-Spezifikation auf und heißt nun USB 3.1 Gen 1 (ehemals Superspeed).
+Der schnellere SuperSpeed+-Standard wird auch USB 3.1 Gen 2 genannt.
+
+
+=== USB 3.2 ===
+USB 3.2 verdoppelt die Datenrate auf bis zu 20 Gbit/s bei je einem USB-C-Stecker an jedem Kabelende. Dabei wird ein in vollbeschalteten USB-C-Kabeln vorhandenes zweites Adernpaar parallel verwendet.
+Die Benennung unterscheidet USB 3.2 Gen 1 bzw. SuperSpeed USB (5 Gbit/s), USB 3.2 Gen 2 bzw. SuperSpeed USB 10Gbps (10 Gbit/s) und USB 3.2 Gen 2×2 bzw. SuperSpeed USB 20Gbps (20 Gbit/s). Bei den Geschwindigkeiten 5 und 10 Gbit/s ist das nur eine neue Benennung; technisch gibt es keinen Unterschied zu den mit USB 3.1 benutzten Protokollen.
+
+
+=== USB 4 ===
+Die Spezifikation für USB4 wurde 2019 veröffentlicht. USB4 ist der gemeinsame Nachfolger von USB 3.2 und Thunderbolt 3. Die Thunderbolt-Spezifikation wurde dazu Anfang 2019 dem USB-IF übergeben. Diese unterstützt nun baumartig verzweigende Strukturen (Hub-Topologie), wie es bei USB mittels Hubs seit jeher möglich ist. Verpflichtend wurde damit auch der USB-C-Port. Es ist keine höhere Geschwindigkeitsstufe vorgesehen als bei Thunderbolt 3 (40 Gbit/s). Neu ist USB4 Gen 3x2 mit ebenfalls einer Geschwindigkeit von 40 Gbit/s. Zudem ist diese Geschwindigkeit nur optional; mindestens sind nur 20 Gbit/s notwendig. Auch die bekannte Unterstützung von PCI Express bei Thunderbolt 3 ist optional, ebenso USB-PD. Lediglich die USB4-Hubs müssen alle Features beherrschen und sind damit voll kompatibel zu Thunderbolt 3.Die Video Electronics Standards Association (VESA) gab den Bildübertragungsstandard DisplayPort 2.0 (bzw. DisplayPort Alt Mode 2.0) mit USB4 frei – mit einer Übertragungsrate von bis zu 77,37 GBit/s über ein USB-C-Kabel. Das genügt ohne Komprimierung für 8-K-Videodaten (7680 × 4320 Pixel) bei 60 Hertz Wiederholrate und 12 Bit je Farbkanal. Mit Datenstromkomprimierung (Display Stream Compression, DSC) genügt es für 16-K-Bilder (15360 × 8460 Pixel) bei 60 Hertz und 8 Bit.
+
+
+== Energieversorgung ==
+Schon mit USB 1.0 war eine Stromversorgung angeschlossener Geräte über die USB-Kabelverbindungen möglich. Allerdings war die maximale Leistung nur für Geräte mit geringem Strombedarf (wie Maus oder Tastatur) ausreichend, für die meisten Festplatten aber nicht. Mitunter werden daher USB-Ports außerhalb der spezifizierten Leistungsgrenzen betrieben. Eine kurzzeitige Überlastung eines USB-Ports, die etwa beim Anlaufen von Festplatten auftritt, kann funktionieren oder den USB-Port beschädigen.Um die bei der Stromversorgung auftretenden Probleme zu lösen, wurden mit höheren Versionen der USB-Spezifikation erweiterte Möglichkeiten der Spannungsversorgung geschaffen. Dabei stieg die maximale Leistung von 100 W in der Version 3.0, auf maximal 240 W in Version 3.1, ausreichend beispielsweise für das Laden eines Notebooks.
+
+
+=== USB-Netzteile ===
+Die Versorgung von USB-Verbrauchern kann mit eigenen Netzteilen erfolgen oder durch USB-Hubs, die ihrerseits mit einem Netzteil verbunden sind. USB-Netzteile stellen im Rahmen der USB-Spezifikation einen Ladeanschluss (englisch Dedicated Charging Port (DCP)) zur Verfügung, den USB-Geräte mit Laderegler und integriertem Akkumulator (z. B. Mobiltelefone) zum Aufladen nutzen können, aber im Prinzip auch andere elektrische Verbraucher. Die EU-Initiative für einheitliche USB-Netzteile basiert im Wesentlichen auf der Battery Charging Specification. (USB Battery Charging oder kurz USB-BC). Es sind Ströme bis 1,5 A vorgesehen.Um das USB-Netzteil, oft ein Steckernetzteil, im Aufbau möglichst einfach gestalten zu können, wurde eine Lösung gewählt, die den Aufwand der Implementierung auf Seiten des Netzteils minimiert: USB-Geräte mit integrierter Ladefunktion erkennen einen Ladeanschluss an einem Widerstand, welcher zwischen die beiden Datenleitungen D+ und D− im USB-Netzteil geschaltet ist. Das ist möglich, da bei einem einfachen USB-Netzteil die USB-Datenleitungen nicht für die Datenübertragung verwendet werden. Beträgt der Widerstandswert zwischen den beiden Datenleitungen D+ und D− unter 200 Ω – im einfachsten Fall können die beiden Leitungen auch kurzgeschlossen sein –, geht der Laderegler im USB-Gerät davon aus, an einem USB-Ladeanschluss (DCP) angesteckt zu sein, welcher mindestens 0,5 A liefern kann.Neben dem allgemeinen Standard für den USB-Ladeanschluss sind mehrere proprietäre USB-Ladeschnittstellen entstanden, die im Wesentlichen die Schnellladung energiehungriger Mobilgeräte wie Smartphones über USB ermöglichen. Am Markt übliche USB-Schnellladeschnittstellen sind die zueinander inkompatiblen Verfahren VOOC von Oppo Electronics und Quick Charge vom Unternehmen Qualcomm sowie USB Power Delivery (siehe nachfolgenden Abschnitt). Dabei werden die Datenleitungen zur Kommunikation zwischen Verbrauchsgerät und Netzteil verwendet.
+Die Ausgangsspannung soll dabei Gleichstrom mit wenig überlagertem Wechselstromanteil (Ripple) sein, um Störwirkungen auf das vom Netzteil versorgte USB-Gerät zu vermeiden. Nach der seit 2011 geltenden EU-Norm EN 62684:2011-05 darf der Ripple zwischen zwei Spannungsspitzen nicht mehr als 80 mV betragen, was nicht jedes Netzteil einhält.Von der USB-2.0-Spezifikation wird außerdem gefordert, dass USB-Hubs mit eigener Stromversorgung andere angeschlossene Energiequellen, z. B. den damit verbundenen PC, nicht rückwärts (also vom Hub zum PC) mit Strom versorgen.
+
+
+=== Höhere Leistungen (USB-PD) ===
+Über den 5-V-Standard hinaus lassen sich über eine USB-Typ-C-Steckverbindung Geräte mit einer Leistungsaufnahme bis 240 W ohne zusätzliche Stromversorgung betreiben, z. B. Monitore, Tintenstrahldrucker und Aktivlautsprecher. Diese Spezifikation wird auch als USB Power Delivery (USB-PD) bezeichnet. Verschiedene Profile definieren die möglichen Stromstärken (bis 5 A) und mögliche Spannungen. Zusätzlich zur bisher üblichen Spannung von 5 V sind 12 V bzw. 20 V möglich.Die Spannung auf USB beträgt beim Anschließen eines Gerätes stets 5 V, kann aber nach Verhandlungen zwischen Gerät und Host mittels seriellen Protokolls auf 12 V oder 20 V erhöht werden. Ebenso kann der entnehmbare Strom abgefragt werden.
+Eine weitere grundlegende Änderung ist die Freigabe der Flussrichtung der Energieversorgung. Ein Computer kann einen Monitor mit Strom versorgen, genauso wie ein Monitor einen Computer mit Strom versorgen kann.
+Profil 1 ist das einzige Profil, welches mit den üblichen USB-Kabeln realisierbar ist. Die höheren Profile benötigen spezielle Kabel, die für höhere Spannungen und Ströme ausgelegt sind.
+Mit USB Power Delivery 3.0 werden die starren Profile durch Power Rules ersetzt. Die Geräte handeln die übertragene Leistung aus durch Anpassen der Spannung und des Stroms. 
+Bei Micro-USB und USB-A(B) Steckern ist die Spannung auf 5 Volt begrenzt, der Strom maximal auf 3 Ampere (USB Battery Charging (BC)).
+Der USB-C Standard begrenzt den Maximalstrom ebenfalls auf 3 Ampere bei 5 Volt. Höhere Ströme setzen Spezialkabel voraus, die über einen integrierten Chip die Leistung aushandeln.
+Bei frei ausgehandelten Werten liegt die Obergrenze bei 20 Volt und 5 Ampere, damit bei 100 Watt.
+
+
+=== Stromversorgung externer Festplatten ===
+Externe 1,8-Zoll-Festplatten benötigen typischerweise Betriebsströme um 150 mA und Anlaufströme um 400 mA. Solche Festplatten können damit von einem USB-2.0-Anschluss problemlos versorgt werden.
+Externe 2,5-Zoll-Festplatten benötigen typischerweise Betriebsströme von 250 mA bis 400 mA (Stand 2010) und Anlaufströme von 600 mA bis 1100 mA. Obwohl die Ströme hier den nach USB-2.0-Spezifikation zulässigen Wert überschreiten können, funktioniert der Betrieb solcher Stromverbraucher in der Praxis meist trotzdem, da die Ports nur kurzzeitig überlastet werden. Bei Problemen mit besonders stromhungrigen Festplatten behalf man sich bis ca. 2010 oft dadurch, den Verbraucher über ein (laut USB-Spezifikation nicht zulässiges) Y-Kabel von einem zweiten Port zusätzlich mit Strom versorgen zu lassen, oder die Festplatten verfügten über einen separaten Betriebsspannungseingang.
+Externe 3,5-Zoll-Festplatten benötigen typischerweise noch höhere Ströme und außerdem eine zweite Betriebsspannung von 12 V. Daher können sie erst mittels USB Power Delivery spezifikationskonform über einen USB-Port mit Energie versorgt werden.
+
+
+== Übertragungstechnik und Spezifikation ==
+
+
+=== Host-Controller ===
+Die Kommunikation bei USB wird von einem Host-Controller gesteuert, der heute in der Regel auf dem Motherboard eines Computers verbaut ist. Nur dieser kann Daten von einem Gerät lesen oder zu einem Gerät senden (Ausnahme: siehe USB On-the-Go). Ein Gerät darf nur dann Daten zum Host-Controller senden, wenn es von diesem abgefragt wird. Bei zeitkritischen Datenströmen, wie etwa bei Mausbewegungen, muss der Hostcontroller von sich aus häufig genug beim Gerät anfragen (Polling), ob es Daten senden will, um ein Ruckeln zu verhindern.
+Die USB-Controller-Chips in den PCs halten sich an einen von vier etablierten Standards. Diese unterscheiden sich in ihrer Leistungsfähigkeit und der Implementierung von bestimmten Funktionen. Für ein USB-Gerät sind die verwendeten Controller (fast) vollständig transparent, allerdings ist es für den Benutzer des PC mitunter wichtig, feststellen zu können, welche Art Chip der Rechner verwendet, um den korrekten Treiber auswählen zu können.
+
+Universal Host Controller Interface
+UHCI wurde im November 1995 von Intel spezifiziert. Die aktuelle Version des Dokuments trägt die Revisionsnummer 1.1. UHCI-Chips bieten Unterstützung für USB-Geräte mit 1,5 oder 12 Mbit/s Datenrate im Low- oder Full-Speed-Modus. Sie werden ausschließlich von den Herstellern Intel und VIA Technologies gebaut.
+Open Host Controller Interface
+OHCI ist eine Spezifikation, die gemeinsam von Compaq, Microsoft und National Semiconductor entwickelt wurde. Version 1.0 des Standards wurde im Dezember 1995 veröffentlicht. Die aktuelle Fassung trägt die Versionsnummer 1.0a und stammt von September 1999. Ein OHCI-Controller hat prinzipiell die gleichen Fähigkeiten wie seine UHCI-Pendants, erledigt aber mehr Aufgaben in Hardware und ist dadurch marginal schneller als ein UHCI-Controller. Dieser Unterschied bewegt sich meist in Bereichen, die gerade noch messbar sind, daher kann man ihn in der Praxis vernachlässigen; Mainboard- bzw. Treiberentwickler müssen ihn jedoch berücksichtigen. Bei USB-Controllern auf Hauptplatinen mit Chipsätzen, die nicht von Intel oder VIA stammen, und auf USB-PCI-Steckkarten mit Nicht-VIA-Chipsätzen handelt es sich mit hoher Wahrscheinlichkeit um OHCI-Controller.
+Enhanced Host Controller Interface
+EHCI stellt USB-2.0-Funktionen bereit. Es wickelt dabei nur die Übertragungen im Hi-Speed-Modus (480 Mbit/s) ab. Wenn man USB-1.1-Geräte an einen Port mit EHCI-Chip steckt, reicht der EHCI-Controller den Datenverkehr an einen hinter ihm liegenden UHCI- oder OHCI-Controller weiter (alle Controller sind typischerweise auf demselben Chip). Wenn kein EHCI-Treiber verfügbar ist, werden Hi-Speed-Geräte ebenfalls an den USB-1.1-Controller durchgereicht und arbeiten dann, soweit möglich, mit langsamerer Geschwindigkeit.
+Extensible Host Controller Interface
+Die xHCI-Spezifikation 1.0 wurde im Mai 2010, die xHCI-Spezifikation 1.1 im Dezember 2013 von Intel veröffentlicht und stellt zusätzlich zu den mit USB 2.0 verfügbaren Übertragungsgeschwindigkeiten den SuperSpeed-Modus mit 5,0 Gbit/s (9,7 Gbit/s bei USB 3.1) bereit.
+
+
+=== Einstellungen und Schnittstellen ===
+Intern adressiert der USB-Controller die angeschlossenen Geräte mit einer sieben Bit langen Kennung, wodurch sich die theoretische Obergrenze der 127 anschließbaren Geräte ergibt. Wenn an einem Port ein neues Gerät erkannt wird, schaltet der Host-Controller dieses ein und sendet dem angeschlossenen Gerät einen Reset, indem er beide Datenleitungen für mindestens 10 ms auf Massepotential legt. Dadurch belegt das Gerät zunächst die Adresse 0 und bekommt dann vom Host eine eindeutige Adresse zugeteilt. Da zu jedem Zeitpunkt immer nur höchstens ein Port mit noch nicht konfiguriertem Gerät aktiviert wird, kommt es zu keinen Adresskollisionen.
+Der Host-Controller fragt meist zuerst nach einem Device-Deskriptor, der unter anderem die Hersteller- und Produkt-ID enthält. Mit weiteren Deskriptoren teilt das Gerät mit, welche alternativen Konfigurationen es besitzt, in die es von seinem Gerätetreiber geschaltet werden kann. Bei einer Webcam könnten diese Alternativen etwa darin bestehen, ob die Kamera eingeschaltet ist oder ob nur das Mikrofon läuft. Für den Controller ist dabei relevant, dass die unterschiedlichen Konfigurationen auch Unterschiede in der Leistungsaufnahme mit sich bringen können.
+Innerhalb einer Konfiguration kann das Gerät verschiedene Schnittstellen definieren, die jeweils über einen oder mehrere Endpunkte verfügen. Unterschiedlicher Bedarf an reservierter Datenrate wird über Alternate Settings signalisiert. Ein Beispiel dafür ist eine Kamera (etwa eine Webcam), die Bilder in zwei verschiedenen Auflösungen senden kann. Das Alternate Setting 0 wird aktiviert, wenn ein Gerät keine Daten übertragen möchte und somit pausiert.
+
+
+=== Geräteklassen ===
+Damit nicht für jedes Gerät ein eigener Treiber nötig ist, definiert der USB-Standard verschiedene Geräteklassen, die sich durch generische Treiber steuern lassen. Auf diese Weise sind USB-Tastaturen, -Mäuse, USB-Massenspeicher, Kommunikations- („Communications Device Class“, kurz: CDC) und andere Geräte mit ihren grundlegenden Funktionen sofort verwendbar, ohne dass zuvor die Installation eines spezifischen Treibers notwendig ist. Herstellerspezifische Erweiterungen (die einen eigenen Treiber erfordern) sind möglich. Die Information, zu welchen Geräteklassen sich ein Gerät zählt, kann im Device-Deskriptor (wenn das Gerät nur einer Klasse angehört) oder in einem Interface-Deskriptor (bei Geräten, die zu mehreren Klassen gehören) untergebracht werden.
+
+
+=== Übertragungsmodi ===
+Der USB bietet den angeschlossenen Geräten verschiedene Übertragungsmodi an, die diese für jeden einzelnen Endpunkt festlegen können.
+
+
+==== Endpunkte ====
+USB-Geräte verfügen über eine Anzahl von durchnummerierten Endpunkten (endpoints), gewissermaßen Unteradressen des Gerätes. Die Endpunkte sind in den Geräten hardwareseitig vorhanden und werden von der USB SIE (Serial Interface Engine) bedient. Über diese Endpunkte können voneinander unabhängige Datenströme laufen. Geräte mit mehreren getrennten Funktionen (Webcams, die Video und Audio übertragen) haben mehrere Endpunkte. Die Übertragungen von und zu den Endpunkten erfolgen meist unidirektional, für bidirektionale Übertragungen ist deshalb ein IN- und ein OUT-Endpunkt erforderlich (IN und OUT beziehen sich jeweils auf die Sicht des Hostcontrollers). Eine Ausnahme davon sind Endpunkte, die den Control Transfer Mode verwenden.
+In jedem USB-Gerät muss ein Endpunkt mit Adresse 0 vorhanden sein, über den die Erkennung und Konfiguration des Gerätes läuft, darüber hinaus kann er auch noch weitere Funktionen übernehmen. Endpunkt 0 verwendet immer den Control Transfer Mode. Ein USB-Gerät darf maximal 31 Endpunkte haben: Den Control-Endpunkt (der zwei Endpunkte zusammenfasst) und je 15 In- und 15 Out-Endpunkte. Low-Speed-Geräte sind auf Endpunkt 0 plus maximal zwei weitere Endpunkte im Interrupt Transfer Mode mit maximal 8 Bytes pro Transfer beschränkt.
+
+
+==== Isochroner Transfer ====
+Der isochrone Transfer ist für Daten geeignet, die eine garantierte Datenrate benötigen. Diese Transferart steht für Full-Speed- und Hi-Speed-Geräte zur Verfügung. Definiert das Alternate Setting einen Endpunkt mit isochronem Transfer, so reserviert der Host-Controller-Treiber die erforderliche Datenrate. Steht diese Datenrate nicht zur Verfügung, so schlägt die Aktivierung des genannten Alternate Settings fehl, und es kann mit diesem Gerät keine isochrone Kommunikation aufgebaut werden.
+Die erforderliche Datenrate ergibt sich aus dem Produkt des Abfrageintervalls und der Größe des Datenpuffers. Full-Speed-Geräte können jede Millisekunde bis zu 1023 Byte je isochronem Endpunkt übertragen (1023 kB/s), Hi-Speed-Geräte können bis zu drei Übertragungen je Micro-Frame (125 µs) mit bis zu 1024 Byte ausführen (24576 kB/s). Stehen in einem Gerät mehrere isochrone Endpunkte zur Verfügung, erhöht sich die Datenrate etwas, da jede Verbindung diese Datenrate anfordern kann. Allerdings ist man insbesondere bei Fullspeed schon nah an der maximalen Gesamtdatenrate (Fullspeed: ca. 81 %, Hi-Speed: ca. 49 %). Die Übertragung ist mit einer Prüfsumme (CRC16) gesichert, wird aber bei einem Übertragungsfehler durch die Hardware nicht wiederholt. Der Empfänger kann erkennen, ob die Daten korrekt übertragen wurden. Isochrone Übertragungen werden zum Beispiel von der USB-Audio-Class benutzt, die bei externen USB-Soundkarten Verwendung findet.
+
+
+==== Interrupt-Transfer ====
+Interrupt-Transfers dienen zur Übertragung von kleinen Datenmengen, die zu nicht genau bestimmbaren Zeitpunkten verfügbar sind. Im Endpoint Descriptor teilt das Gerät mit, in welchen maximalen Zeitabständen es nach neuen Daten gefragt werden möchte. Das kleinstmögliche Abfrageintervall beträgt bei Low Speed 10 ms, bei Full Speed 1 ms und bei Hi-Speed bis zu drei Abfragen in 125 µs. Bei Low Speed können pro Abfrage bis zu 64 Bits, bei Full Speed bis zu 64 Byte und bei Hi-Speed bis zu 1024 Byte übertragen werden. Daraus ergeben sich maximale Datenraten von 0,8 kB/s bei Low Speed, 64 kB/s bei Full Speed und 24576 kB/s bei Hi-Speed. Die Daten sind mit einer Prüfsumme (CRC16) gesichert und werden bei Übertragungsfehlern bis zu dreimal durch die Hardware wiederholt. Geräte der HID-Klasse (Human Interface Device), zum Beispiel Tastaturen, Mäuse und Joysticks, übertragen die Daten über den Interrupt-Transfer.
+
+
+==== Bulk-Transfer ====
+Bulk-Only Transfers (BOT) sind für große und nicht zeitkritische Datenmengen gedacht, wie beispielsweise das Lesen oder Schreiben von Dateien auf einer USB-Festplatte. Diese Transfers sind niedrig priorisiert und werden vom Controller durchgeführt, wenn alle isochronen und Interrupt-Transfers abgeschlossen sind und noch Datenrate übrig ist. Bulk-Transfers sind durch eine Prüfsumme (CRC16) gesichert und werden durch die Hardware bis zu dreimal wiederholt. Low-Speed-Geräte können diese Transferart nicht benutzen. Full-Speed-Geräte benutzen Puffer-Größen von 8, 16, 32 oder 64 Byte. Hi-Speed-Geräte verwenden immer einen 512 Byte großen Puffer.
+Nach der Einführung von USB 3.0 wurde der Bulk-Only Transfer bei der Anbindung von Festplatten und SSDs durch das schnellere USB Attached SCSI (UAS) abgelöst, während bei USB-Speichersticks auch in den 2020er Jahren weiterhin der technisch einfacher zu realisierende Bulk-Transfer eingesetzt wird.
+
+
+==== Control-Transfer ====
+Control-Transfers sind eine Art von Datentransfers, die einen Endpunkt erfordern, der sowohl In- als auch Out-Operationen durchführen kann. Control-Transfers werden generell in beide Richtungen bestätigt, so dass Sender und Empfänger immer sicher sein können, dass die Daten auch angekommen sind. Daher wird der Endpunkt 0 im Control-Transfer-Modus verwendet. Control-Transfers sind zum Beispiel nach dem Detektieren des USB-Geräts und zum Austausch der ersten Kommunikation elementar wichtig.
+
+
+=== Datenraten ===
+USB erlaubt es einem Gerät, Daten mit 1,5 Mbit/s (Low Speed), 12 Mbit/s (Full Speed), 480 Mbit/s (Hi-Speed), 4 Gbit/s (SuperSpeed) oder 9,7 Gbit/s (Superspeed+) zu übertragen.
+Diese Raten basieren auf dem Systemtakt der jeweiligen USB-Geschwindigkeit und stellen die physikalische Datenübertragungsrate dar. Die Toleranzen werden für USB-2.0-Geräte und für die älteren USB-1.0-/1.1-Geräte getrennt behandelt. Der tatsächliche Datendurchsatz liegt – durch Protokoll-Overhead, Bit-Stuffing und Verluste durch Turn-Around-Zeiten – um einiges darunter. Im USB-Standard ist für USB 2.0 eine maximale theoretische Datenlast bei Hi-Speed unter idealen Bedingungen von 49.152.000 B/s (Isochronous Mode) beziehungsweise 53.248.000 B/s (Bulk-Mode) angegeben. Dazu kommt die Verwaltung der Geräte, so dass bei aktuellen Systemen für USB 2.0 eine nutzbare Datenrate in der Größenordnung von 320 Mbit/s und für USB 3.0 2400 Mbit/s bleibt. Bei älteren Systemen wurde diese durch eine unzureichende Anbindung des USB-Chips an den Systembus zusätzlich reduziert.
+
+Anmerkungen zu dieser Tabelle: 
+
+Die Eigenschreibweise variiert: Low und Full Speed werden mit Leerzeichen getrennt, Hi-Speed mit Bindestrich (und High wird verkürzt zu Hi), SuperSpeed wird zusammengeschrieben.
+SI-Präfixe sind dezimale Präfixe: 1 kbit = 103 bit, 1 Mbit = 106 bit, 1 Gbit = 109 bit, gleiches für Byte und Hz.
+Bit-Stuffing: Nach 6 Eins-Bits wird 1 Null-Bit eingefügt.
+USB 3.0 überträgt mit der Symbolrate 5 GBd, die effektive Datenrate nach 8b10b-Kodierung beträgt hier 4 Gbit/s. Die Bitrate ergibt sich aus der Symbolrate multipliziert mit den Bits je Symbol (0,8 bei 8b10b).
+USB 3.1 überträgt mit der Symbolrate 10 GBd, die effektive Datenrate nach 128b132b-Kodierung beträgt hier 9,697 Gbit/s. Die Bitrate ergibt sich aus der Symbolrate multipliziert mit den Bits je Symbol (0,96968 bei 128b132b).
+Die theoretisch erzielbare Nettodatenrate liegt bei Hi-Speed um 11,3 Prozent (Bulk-Mode) und 18,1 Prozent (Isochron-Modus) unter der Bruttodatenrate. Bei Full Speed im Bulk-Mode liegt sie 19 Prozent unter der Bruttodatenrate.
+Real erzielbare Nettodatenraten liegen um mindestens 30 Prozent, meist aber um die 45 Prozent unter der Bruttodatenrate (reale Messungen an USB-2.0-Systemen).Wird die Schnittstelle eines Geräts mit „USB 2.0“ angegeben, heißt das nicht unbedingt, dass dieses Gerät auch die hohe Datenrate von 480 Mbit/s anbietet. Standpunkt der Anbieter ist dabei, dass ein USB-2.0-kompatibles Gerät grundsätzlich jede der drei Geschwindigkeiten benutzen kann und die 2.0-Kompatibilität in erster Linie bedeutet, dass die neueste Fassung der Spezifikation eingehalten wird. 480 Mbit/s dürfen also nur erwartet werden, wenn ein Gerät mit dem Logo „Certified USB Hi-Speed“ ausgezeichnet ist.
+
+
+=== USB On-the-go ===
+Eine direkte Kommunikation zwischen USB-Geräten, also ohne Beteiligung des zentralen Host-Controllers, war im USB-Standard ursprünglich nicht vorgesehen; diese wurde erst durch die Erweiterung USB On-the-go (OTG) eingeschränkt ermöglicht.
+Durch USB On-the-go können entsprechend ausgerüstete Geräte kommunizieren, indem eines der beiden eine eingeschränkte Host-Funktion übernimmt. Typische Einsatzgebiete von USB OTG sind die Verbindung von Digitalkamera und Drucker oder der Austausch von Musikdateien zwischen zwei MP3-Spielern. Außerdem muss die OTG-Funktion bei manchen Handys manuell aktiviert werden, damit Dateien zwischen USB-Stick und Handy übertragen oder aufgerufen werden können.
+Auch bei USB OTG ist die Kommunikation zentral von einem Host gesteuert. Im Gegensatz dazu bieten andere Kommunikationsmechanismen, etwa der FireWire-Standard, der für ähnliche Einsatzzwecke wie USB geschaffen wurde und mit diesem in Konkurrenz steht, die Möglichkeit einer Peer-to-Peer-Kommunikation zwischen Geräten ohne Beteiligung eines zentralen Hosts. Das bietet etwa die Möglichkeit, ein Netzwerk aufzubauen.
+Gekennzeichnet werden USB-OTG-Produkte durch das USB-Logo mit zusätzlichem grünem Pfeil auf der Unterseite und weißem „On-The-Go“-Schriftzug. Die USB-OTG-Spezifikation wurde am 18. Dezember 2001 verabschiedet. OTG-Geräte sind zum Beispiel die seit November 2007 erhältlichen Nokia-Telefone 6500c, N8, C7, N810, 808 PureView, das Samsung Galaxy S II und andere Android-Smartphones sowie einige externe Festplatten zum direkten Anschluss an Digitalkameras.
+
+
+=== Wireless USB ===
+
+Momentan besetzen zwei Initiativen den Begriff „Wireless USB“. Die ältere der beiden wurde von dem Unternehmen Cypress initiiert, mittlerweile ist Atmel als zweiter Chiphersteller auf den Zug aufgesprungen. Das „Cypress-WirelessUSB“-System ist kein drahtloses USB, sondern eine Technik, um drahtlose Endgeräte zu bauen, die dann über einen am USB angeschlossenen Empfänger/Sender (Transceiver) mit dem Computer verbunden sind. Dazu wird eine Übertragungstechnik im lizenzfreien 2,4-GHz-Band benutzt, die Datenrate beträgt bis zu 62,5 kbit/s (neuere Chips von Cypress erreichen 1 Mbit/s) und ist damit für Eingabegeräte ausreichend, für andere Anwendungen aber oft zu knapp bemessen.
+Das zweite Wireless-USB-Projekt wird von der USB-IF vorangetrieben und ist wesentlich anspruchsvoller. Neben Intel ist auch NEC dabei, entsprechende Chips zu entwickeln. Ziel ist es, eine Technik zu schaffen, mit der die vollen 480 Mbit/s des Hi-Speed-Übertragungsmodus drahtlos übertragen werden können. Dabei ist eine kurze Reichweite unter 10 m vorgesehen; die Übertragung soll auf einer Ultrabreitband-Technik basieren.
+Am 16. Januar 2008 gab in Deutschland die Bundesnetzagentur für die Ultrabreitband-Technik Frequenzbereiche frei. Der dabei für USB vorgesehene Bereich von 6 bis 8,5 GHz ist jedoch nicht so breit wie von USB-IF spezifiziert, so dass Geräte aus anderen Ländern eventuell in Deutschland nicht verwendet werden dürfen.
+
+
+=== USB 3 ===
+
+
+==== USB 3.0 ====
+Im November 2008 stellte das USB Implementers Forum, dem unter anderem die Unternehmen HP, Microsoft und Intel angehören, die Spezifikation für USB 3.0 vor. Im SuperSpeed-Modus wird eine Symbolrate von 5 Gbit/s verwendet, was aufgrund der ANSI-8b10b-Kodierung eine Bruttodatenrate von 500 MB/s ergibt. Durch ca. achtfach höhere Frequenzen auf den Datenleitungen sowie das verbesserte USB-Protokoll und die Vollduplex-Übertragung steigt die Bruttodatenrate von 60 MB/s auf 500 MB/s. Das stellt höhere Anforderungen an die Kabel.
+USB-3.0-Kabel enthalten neben dem bisherigen Signal-Adernpaar (D+ / D−) und der Stromversorgung (GND, VBUS) zwei Signal-Adernpaare (SSTX+ / SSTX−, SSRX+ / SSRX−) sowie eine weitere Masseverbindung (GND). Das erfordert für USB 3.0 neue Stecker am Host und an angeschlossenen Geräten als auch neue Kabel.
+Diese Anschlüsse sind an der hellblauen Färbung erkennbar. Die Kabel sind durch die neuen Leitungen und die bessere Abschirmung (wie eSATA- oder CAT-5e-/6-Kabel) dicker und weniger flexibel. Es kann bei ungenügender Abschirmung der USB-3.0-Kabel zu Störungen im Rahmen der elektromagnetischen Verträglichkeit (EMV) kommen, welche sich unter anderem im von Wireless Local Area Network (WLAN), Bluetooth oder drahtlose Hardware genutzten 2,4-GHz-Bereich auswirken. Dabei kommt es in der Nähe von USB-3.0-Geräten zu einer reduzierten Reichweite und zu vermehrten Übertragungsfehlern. Bei Mäusen und Tastaturen wird die Eingabe nicht auf dem Computer wiedergegeben.Die Kompatibilität besteht in folgendem Sinne:
+
+USB-3.0-Kabel können aufgrund der Anbauten nicht mit USB-2.0-Endgeräten benutzt werden – USB-3.0-Typ-B-Stecker sind nicht abwärtskompatibel.
+USB-3.0-Kabel können an USB-2.0-Hosts benutzt werden, erfordern dann aber USB-3.0-Endgeräte.
+USB-2.0-Kabel können an USB-3.0-Hosts benutzt werden.
+USB-3.0-Endgeräte können an USB-2.0-Hosts angeschlossen werden. Ggf. gibt es Probleme, wenn diese mehr als 500 mA Strom aufnehmen (USB 3.0 erlaubt bis zu 900 mA, USB 2.0 nur bis 500 mA).
+USB-2.0-Endgeräte können an USB-3.0-Hosts angeschlossen werden.USB-3.0-Übertragungen finden aber nur statt, wenn alle drei Komponenten (Host, Kabel, Endgerät) USB-3.0-tauglich sind. Ansonsten wird auf USB 2.0 heruntergeschaltet:
+
+Unter Linux wird USB 3.0 ab Kernel-Version 2.6.31 unterstützt, und es war damit das erste Betriebssystem mit offiziellem USB-3.0-Support.Weitere Besonderheiten:
+
+Die bei bisherigen USB-Standards übliche Reihumabfrage der Geräte (Polling) kann entfallen. Dadurch und durch neue Befehle können Geräte in die Energiesparmodi U0 bis U3 geschaltet werden.
+Am USB-3.0-Port kann jedes Gerät 150 mA Strom (statt 100 mA wie bei USB 2.0) bis hin zu 900 mA auf Anforderung erhalten (USB 2.0 Low Power: 100 mA, USB 2.0 High Power: 500 mA).
+Da USB-3.0-Hubs keinen Transaction Translator wie USB-2.0-Hubs (Hi-Speed) nutzen, hat man keinen Gewinn, wenn man mehrere USB-2.0-Geräte über einen USB-3.0-Hub an einen PC anschließt.
+Ältere Treiber bleiben verwendbar, doch nur neuere Versionen unterstützen neue Strom sparende Betriebsarten.
+Zu Hubs siehe USB 3.0 und HubsAnders als bei USB 2.0 dürfen sich Geräte nur „USB-3.0-kompatibel“ nennen, die den schnellstmöglichen Übertragungsmodus (SuperSpeed-Modus) anbieten.
+
+
+==== USB 3.1 ====
+Die USB-3.1-Spezifikation beschreibt
+
+eine Geschwindigkeitsverdopplung gegenüber USB 3.0 auf 10 Gbit/s brutto
+USB Power Delivery für Geräte mit bis zu 100 Watt Leistungsbedarf
+passive Kabel ohne interne Elektronik
+einen neuen, beidseitig steckbaren Steckverbindertyp („USB Typ C“), der die Stromübertragung (Power Delivery) unterstützt
+Adapter für ältere Buchsen zwecks KompatibilitätDa laut Video Electronics Standards Association (VESA) USB-3.1-Anschlüsse den DisplayPort-Standard unterstützen, kann man damit Displays mit 4K/Ultra-HD-Auflösung (3.840 × 2.160 Pixel) mit 60 Hz Bildwiederholungsrate betreiben. Verzichtet man auf die USB-3.1-Funktionen und nutzt alle Datenleitungen zur Übertragung des Videosignals, ist sogar 5K-Auflösung (5.120 × 2.880 Pixel) möglich.
+
+
+==== USB 3.2 ====
+ab 2017 bis zu 20 GBit/s; erste Geräte mit über 10 GBit/s ab 2018
+
+
+=== USB Attached SCSI ===
+
+Im Zuge der Einführung von USB 3.0 wurde auch USB Attached SCSI (UAS) mit dem USB Attached SCSI Protocol (UASP) definiert, das seitdem den langsameren Bulk-Only Transfer (BOT) bei der Anbindung von Festplatten und SSDs abgelöst hat.
+
+
+=== Inter-Chip-USB (HSIC, SSIC) ===
+HSIC (englisch High-Speed Inter-Chip, USB 2.0) und SSIC (englisch SuperSpeed Inter-Chip, USB 3.0) sind als Standard für USB-Chip-zu-Chip-Verbindungen spezifiziert. Sie basieren auf dem USB-Standard, es werden aber keine Kabel oder Hot-Plug-n-Play oder analoge Komponenten unterstützt. Die Länge der Datenleitungen darf maximal 10 cm betragen, die Signalpegel liegen bei 1,2 V (LVCMOS) statt 3,3 V; die Geschwindigkeit beträgt mindestens 480 Mbps. Auf der Treiberebene ist HSIC kompatibel zu USB.
+HSIC bzw. SSIC ist eine Alternative zu Bussystemen wie I²C, I3C, SPI/Quad-SPI sowie proprietären Lösungen und bietet eine höhere Übertragungsgeschwindigkeit als die erstgenannten. So sind beispielsweise USB-Ethernet-Chips mit HSIC-Schnittstelle verfügbar. Auch die ETSI-Spezifikation TS 102 600 definiert HSIC für die Verbindung zwischen SIM-Karte und dem Mobiltelefon.
+
+
+== Hardware ==
+
+
+=== USB-Stecker und -Buchsen ===
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Mechanische Ausführung ====
+Die Stecker eines USB-Kabels sind verpolungs- und vertauschungssicher gestaltet.
+In Richtung des Hostcontrollers (Upstream) werden flache Stecker (Typ A „DIN IEC 61076-3-107“) verwendet. Zum angeschlossenen Gerät hin (Downstream) werden die Kabel entweder fix montiert oder über annähernd quadratische Steckverbinder (Typ B „DIN IEC 61076-3-108“) angeschlossen (vereinzelt und nicht standardkonform auch mit Typ-A-Steckverbindern). Entsprechend den USB-1.1- bis 2.0-Standards besitzen USB-Typ-A- und Typ-B-Verbinder vier Leitungen plus Schirm. Beide Steckverbinder sollen in einer der drei Farben grau, „natur“ (elfenbeinfarben/weiß) oder schwarz ausgeführt werden. Mit USB 3.0 kommen neue Varianten der Typ-A- und Typ-B-Verbinder auf den Markt (siehe unten).
+Die sich aus der Norm ergebenden Konstruktionsdetails können bei der Benutzung des Steckers, insbesondere bei häufigem Umstecken, zu Kontaktproblemen und Beschädigungen führen: Da keine Verschraubung der Buchsen und Stecker auf der Platine oder am Gehäuse vorgesehen ist, müssen sämtliche Kräfte, die bei Steckvorgängen oder Bewegungen auf Stecker und Buchse wirken, von den (wenig belastbaren) Lötstellen der Buchse aufgenommen werden. Aus diesem Grund, aber auch wegen des Mangels an Arretierungsmöglichkeiten, werden in der professionellen Datenverkabelung bevorzugt andere Schnittstellen eingesetzt.
+Seit einiger Zeit sind auch Stecker und Buchsen vom Typ A und B mit Rändelschrauben erhältlich, die ein Herausrutschen verhindern. Allerdings muss das empfangende Gerät das auch unterstützen. Verschiedene Hersteller brachten vereinzelt mechanisch inkompatible Ausführungen von USB-Verbindern heraus, die sich jedoch elektrisch nicht von USB 1.x oder 2.0 unterscheiden, Beispiele dazu:
+
+„UltraPort“ an einigen IBM-Thinkpads
+10-polige Modular-Buchsen (10P10C/RJ50) an den USVs von APC
+Proprietäre USB-Verbinder an Microsofts Xbox
+Klinkenstecker, der gleichzeitig als Audioverbinder dient, bei Apples iPod Shuffle
+
+
+==== Nicht standardisierte Varianten ====
+Für den industriellen Einsatz, insbesondere bei POS-Anwendungen wie etwa Kassensystemen, gibt es weitere USB-Stecker-Varianten mit deutlich höheren Strombelastbarkeiten von bis zu 6 A (3 A pro Kontakt). Diese Varianten wurden nicht vom USB-Konsortium standardisiert, sondern um 1999 in zum Teil lizenzpflichtigen Standards namens Retail USB, PoweredUSB, USB PlusPower oder USB +Power von Unternehmen wie IBM, Microsoft, NCR und Berg/FCI. Technisch wird die höhere Strombelastbarkeit über vier zusätzliche Leitungen realisiert. Während clientseitig kein spezieller Stecker definiert ist (es gibt jedoch verschiedene Empfehlungen, teilweise mit unterschiedlichen Hotplug-Fähigkeiten), bestehen die Steckverbinder hostseitig aus einer Kombination aus einem mechanisch und elektrisch unveränderten USB-Typ-A-Stecker einerseits und einem hochstromfähigen vierpoligen Steckverbinder andererseits. Insgesamt sind sie ähnlich einem Stack von zwei USB-Buchsen annähernd quadratisch (siehe Abb. oben). Für die Stromsteckverbinder ist eine mechanische Arretierung zwischen Buchse und Stecker vorgesehen. Die Stromsteckverbinder gibt es in vier Varianten, wobei eine mechanische Kodierung verhindert, dass unterschiedliche Varianten zusammengesteckt werden können.
+
+
+==== USB-3 Steckverbinder ====
+Im Rahmen des im Jahr 2008 verabschiedeten USB-3.0-Standards wurden weitere sechs Steckverbindertypen mit zusätzlichen Kontakten definiert:
+Diese unterteilen sich in je drei Steckverbinder, die als weitestgehend rückwärtskompatible Erweiterungen der bisherigen Typ-A- und Typ-B-Steckverbinder angesehen werden können (genannt: USB 3.0 Standard-A, USB 3.0 Standard-B und USB 3.0 Powered-B) sowie drei kleinere Verbinder, die sich an die bisherigen Micro-USB-Verbinder anlehnen (genannt: USB 3.0 Micro-A, USB 3.0 Micro-AB und USB 3.0 Micro-B). Zur eindeutigen Kennzeichnung werden die bisherigen Steckverbinder nun als USB 2.0 Standard-A, USB 2.0 Standard-B, USB 2.0 Micro-A, USB 2.0 Micro-AB und USB 2.0 Micro-B bezeichnet. Zur besseren Unterscheidung sollen die USB-3.0-Standard-A-Verbinder in der Farbe Blau (Pantone 300C) ausgeführt und gegebenenfalls mit einem doppelten S-Symbol gekennzeichnet werden.
+
+
+==== Miniaturformen ====
+Insbesondere für Geräte mit geringerem Platzangebot (digitale Kameras, Mobiltelefone, MP3-Player und andere mobile Geräte) existieren auch verschiedene kompaktere USB-Steckverbinder. Im USB-2.0-Standard verankert sind dabei lediglich fünfpolige Mini- und Micro-Varianten (plus Schirm), die gegenüber den normalen USB-Steckverbindern über einen zusätzlichen ID-Pin verfügen.
+
+
+===== Mini-USB =====
+Zunächst wurde im Jahr 2000 ein trapezförmiger Mini-B-Steckverbinder für die Downstream-Seite definiert, der in der Farbe Schwarz ausgeführt werden sollte. Bei zukünftigen Geräten sollen Gerätehersteller jedoch auf die Micro-USB-Verbinder (siehe unten) ausweichen. Auch Mini-A- (in weißer Farbe) und Mini-AB-Steckverbinder (in Grau) waren für eine gewisse Zeit Teil des Standards und sollten insbesondere in Verbindung mit USB On-the-Go (OTG) eine Rolle spielen, wurden jedoch im Mai 2007 offiziell zurückgezogen. Die Kabel mit Mini-B-Stecker passen in den Anschluss von Mini-AB.
+
+
+===== Micro-USB =====
+
+Im Januar 2007 wurden mit der Standarderweiterung Micro-USB für USB 2.0 noch kleinere Steckverbinder vorgestellt, die eine besonders kompakte Bauform der Geräte ermöglichen. Die Micro-USB-Spezifikation kann USB On-the-Go (OTG) unterstützen. Die Micro-USB-Verbinder sind elektrisch gleichwertig, mechanisch allerdings nicht steckkompatibel, dafür jedoch dank der im Standard geforderten Edelstahlkrampe deutlich stabiler ausgeführt. Gemäß USB-2.0-Standard gibt es drei Varianten, die genau wie bei Mini-USB allesamt fünfpolig ausgeführt sind: Micro-A (rechteckige Bauform, für die Host-Seite, Farbe Weiß), Micro-AB (rechteckige Bauform, für USB-On-the-Go-Geräte, Farbe Grau) und Micro-B (Trapez-Bauform, für die Geräteseite, Farbe Schwarz). Die Open Mobile Terminal Platform (OMTP) hat Micro-USB 2007 als Standardverbinder für den Datentransfer und die Energieversorgung von Mobilfunkgeräten übernommen, in China und in der EU müssen Mobiltelefone seither mit dieser Schnittstelle ausgestattet werden, um eine Zulassung zu bekommen. Mit USB 3.0 kommen neue Varianten der Micro-A-, AB- und -B-Steckverbinder auf den Markt (siehe unten).
+Für Netzteile der Geräteklasse der Smartphones ist zur Eindämmung dieser Vielfalt seit 2011 durch die Europäische Norm EN 62684:2010 der Micro-USB-Stecker europaweit gefordert.
+
+
+===== Weitere Miniaturformen =====
+Daneben gibt es noch eine ganze Reihe proprietäre, das heißt geräteherstellerspezifische Miniaturbauformen der Steckverbinder (siehe auch erstes Bild der Galerie), die zwar in der Regel elektrisch mit USB 2.0 kompatibel sind, jedoch nur über teilweise schwer erhältliche Adapterkabel mit USB-Komponenten gemäß dem USB-Standard verbunden werden können. Fälschlicherweise werden jedoch auch diese Steckverbinder häufig als „Mini“-USB bezeichnet, was immer wieder zu Missverständnissen führt und vermieden werden sollte. Verbreitet sind unterschiedlichste Ausführungen mit
+
+4 Pins, insbesondere Varianten von Mitsumi, Aiptek, Hirose
+8 Pins in einer großen Zahl von Varianten, darunter mehrere inkompatible Varianten, die sich bei Digitalkameras in begrenztem Rahmen auch über Herstellergrenzen hinweg verbreitet haben
+11 Pins für ExtUSB für HTC-Mobiltelefone; kompatibel zu Mini-USB
+12 Pins für verschiedene Olympus-Digitalkameras und
+14 Pins in zwei Varianten für verschiedene Fuji-Finepix-Digitalkameras und als Nokias Pop-Port für manche Mobiltelefone. Diese vereinen zusätzlich zu den USB-Signalen noch andere (bei Digitalkameras z. B. Analog-Video und -Audio) im gleichen Konnektor.
+
+
+===== USB Typ C =====
+
+Im August 2014 wurde die Spezifikation der neuen, mit bisheriger Hardware nicht kompatiblen Typ-C-Steckverbindung verabschiedet. Die neue Steckverbindung ist rotationssymmetrisch und kann in beiden möglichen Orientierungen eingesteckt werden.Zudem unterstützt sie alle bisherigen Übertragungsspezifikationen inklusive USB 3.1 (bis zu 10 Gbit/s) und USB Power Delivery (maximal 100 W). Ein weiterer Vorteil der Typ-C-Steckverbindung ist eine niedrige Bauhöhe und geringe Breite der Buchse von 8,4 mm, verglichen mit ca. 12,4 mm bei einer USB-3.0-Micro-B-Buchse, wie sie heute bei praktisch allen externen USB-3.0-Festplatten eingesetzt wird. Die Typ-C-Steckverbindung ist damit auch besser für portable Geräte wie Smartphones, Tablets oder Digitalkameras geeignet, in denen zuvor aus Platzgründen meist die USB-2.0-Micro-B-Buchse verwendet wurde. Darüber hinaus gibt es Adapter und passendes Zubehör, wie z. B. externe Festplatten.
+
+
+==== Spezifikationen ====
+Verbreitet haben sich darüber hinaus diverse Varianten von Stiftleisten im Rastermaß von 2,54 Millimeter (= 100 mil) auf PC-Mainboards, vorwiegend mit 1×4, 1×5 und 2×2 Stiften bzw. für Doppel-USB-Verbinder mit 2×4 oder 2×5 Stiften. Gab es zunächst mehrere zueinander inkompatible Belegungsvarianten, hat sich im Zuge neuerer Mainboard-Spezifikationen von Intel inzwischen eine bestimmte 2×5-polige Belegung etabliert, die auch mit USB-Flash-Modulen kompatibel ist.
+
+
+=== USB-Kabel ===
+In einem USB-2.x-Kabel werden vier Adern benötigt. Zwei Adern übertragen dabei die Daten, die anderen beiden versorgen das angeschlossene Gerät mit einer Spannung von 5 V. Der USB-Spezifikation entsprechende Geräte dürfen bis zu 100 mA oder 500 mA aus dem Bus beziehen, abhängig davon, wie viel der Port liefern kann, an den sie angeschlossen werden. Geräte mit einer Leistung bis zu 2,5 W können also über den Bus versorgt werden. Je nach Kabellänge muss der Leiterquerschnitt der beiden Stromversorgungsadern angepasst sein, um den zulässigen Spannungsabfall nicht zu überschreiten; auch daher sind Verlängerungsleitungen nicht gemäß dem USB Standard.
+Die Leitungsadern sind je nach Geschwindigkeit unterschiedlich abgeschirmt. Adern, die lediglich der Spezifikation Low Speed entsprechen, dürfen über keinen B-Stecker verfügen, sondern müssen fix am Gerät montiert sein oder einen herstellerspezifischen Stecker verwenden. Sie sind weniger stark abgeschirmt, kommen ohne verdrillte Adern aus und sind dadurch flexibler als Full-/Hi-Speed-Kabel. Sie sind daher gut für zum Beispiel Mäuse und Tastaturen geeignet. Die geringe Abschirmung des Kabels würde zu Problemen bei Geräten mit höheren Geschwindigkeiten führen.
+Die Längen von Full-/Hi-Speed- und Low-Speed-Kabeln vom Hub zum Gerät sind auf fünf beziehungsweise drei Meter begrenzt. Längere Strecken können überwunden werden, indem USB-Hubs zwischengeschaltet werden. USB-Repeaterkabel entsprechen in ihren Funktionen einem Bus-Powered-Hub (s. u.) mit einem einzigen Downstream-Port und einem fest angeschlossenen Kabel am Upstream-Port. Da die elektrischen Auswirkungen dieser Kabel im USB-Bus denen eines Bus-Powered-USB-Hubs mit fünf Meter Kabel entsprechen, müssen bei ihrer Verwendung zusätzlich die Beschränkungen beim Kaskadieren von USB-Hubs beachtet werden.
+USB arbeitet mit einem Wellenwiderstand von 90 Ω. Direkte Verbindungskabel sollten daher auch in diesem Wellenwiderstandswert ausgeführt sein. Für die Überbrückung von Längen über 30 Metern werden USB-Line-Extender angeboten. Diese bestehen aus zwei Komponenten: einem Base-Modul, das an den Computer angeschlossen wird, und einem Remote-Modul für den Anschluss des USB-Gerätes. Zur Distanzüberbrückung zwischen diesen beiden Komponenten werden meist Ethernetkabel oder Lichtleiter eingesetzt. Da sich diese Line-Extender jedoch immer auf bestimmte, nicht vom Standard vorgeschriebene Verhaltensdetails der angeschlossenen Geräte verlassen und zudem bei langen Kabelstrecken die Signallaufzeit zu Protokollverletzungen führt, ist der Einsatz dieser Geräte oft mit Problemen verbunden.
+Eine andere Möglichkeit, USB-Geräte weiter entfernt vom Rechner anzuschließen, sind Lösungen, die einen „remote host“ verwenden, also einen USB-Hostcontroller, der außerhalb des PCs liegt. Dabei geschieht die Kommunikation zwischen PC und Hostcontroller zum Beispiel über Ethernet. Das Ethernet ersetzt dabei den lokalen Bus, an dem sonst der Hostcontroller angeschlossen wäre. Auf dem PC muss also nur ein entsprechender Treiber installiert werden, der die Kommunikation mit dem Hostcontroller übernimmt. Treiber für die USB-Geräte erkennen dann keinen Unterschied zu einem lokal angeschlossenen Gerät. Beispiele für ein solches Gerät sind der USB-Server von Keyspan und die USB-Fernanschlussfunktion einer Fritz!Box.
+
+
+==== Kontaktbelegung und Adernfarben ====
+Der USB-Standard legt neben der Belegung der Stecker auch die Namen der einzelnen Signale fest, für die Aderfarbe werden nur Empfehlungen gemacht. Tatsächlich variieren die verwendeten Aderfarben von Hersteller zu Hersteller. Die Nummer eines Stecker-Pins kann in den oben angeführten Schemazeichnungen abgelesen werden.
+
+
+==== Probleme mit USB-Typ-C-Kabeln ====
+Wie Anfang 2016 durch Pressemeldungen bekannt wurde, treten mit USB-Typ-C-Kabeln durch mangelhafte Fertigung und die daraus resultierenden Spezifikationsüberschreitungen vermehrt Probleme auf, die irreversible Schäden an den daran angeschlossenen Geräte bewirken können.Es wurden inzwischen Webseiten veröffentlicht, die ungefährliche USB-Typ-C-Kabel auflisten.
+
+
+==== USB-Typ-C-Authentifizierungsprogramm ====
+Die für das Marketing und die Spezifikationen des USB-Standards zuständige gemeinnützige Organisation USB-IF hat 2016 das USB Type-C Authentication Program angekündigt, das kryptografische Authentifizierung definiert. Durch die Authentifizierung soll Schaden an Geräten verhindert werden.
+
+
+=== USB-Hubs ===
+
+Ein USB-Hub ist ein USB-Gerät, welches das USB-Signal an mehrere Ports verteilt. Handelsüblich sind USB-Hubs mit bis zu sieben Downstream-Ports, vereinzelt sind aber inzwischen auch Hubs mit bis zu 28 Ports zu finden. Hubs können ihren Strom aus dem Bus selbst beziehen (als Bus-Powered- oder passiver Hub bezeichnet) oder über eine eigene Stromversorgung verfügen (als Self-Powered- oder aktiver Hub bezeichnet).
+
+
+=== USB-Umschalter ===
+Ein USB-Umschalter (auch USB-Switch oder USB-Weiche genannt) ist ein Gerät zum Betrieb eines Peripheriegeräts an mehreren Rechnern ohne Umstecken. Dem Umschalter kann auch ein USB-Hub nachgeschaltet werden bzw. dieser sich im selben Gehäuse befinden.
+Hier kann immer nur einer der Rechner auf die jeweiligen Peripheriegeräte geschaltet werden. Das erfolgt entweder durch einen manuellen Umschalter oder automatisch, bei letzterem löst z. B. das Einschalten eines Rechners und die damit einhergehende USB-Stromversorgung die Umschaltung aus.
+
+
+=== USB-Card-Bus ===
+Der Cardbus-Standard (PC Card Standard 5.0) wurde ursprünglich für PCMCIA-Karten als Datenspeichermedium entwickelt, unterscheidet sich aber vom PCMCIA-Standard durch eine völlig andere Architektur. Es sind auch Steckkarten mit CardBus-Controller am Markt erhältlich, die USB in CardBus umsetzen, so dass USB-Stecker beispielsweise auch an Mobilgeräten ohne integrierte USB-Schnittstelle verwendet werden können – sie sind aber auf den 32 Bit breiten CardBus beschränkt. Ein Nachrüsten bei Computern mit 16-Bit-Bus ist daher nicht möglich. CardBus wurde vom neueren und leistungsfähigeren ExpressCard-Standard abgelöst.
+
+
+=== Galvanische Trennung ===
+In bestimmten Anwendungsbereichen, wie in industriellen Umgebungen oder in der Medizintechnik, kann es zur Vermeidung von problematischen Masseschleifen notwendig sein, eine galvanische Trennung zwischen verschiedenen USB-Geräten vornehmen zu müssen. Diese umfasst neben den Versorgungsleitungen der Schnittstelle mittels Gleichspannungswandler mit galvanischer Trennung auch die Datenleitungen. Da die Datenleitungen bis Hi-Speed (480 Mbit/s) bidirektional betrieben werden, ist für die galvanische Trennung der Schnittstelle eine entsprechende zusätzliche Kontrolllogik für die Steuerung der Treiberstufen nötig, die in integrierten Schaltungen zusammengefasst ist und als USB-Isolator bezeichnet werden. Dadurch reduziert sich bei USB-Isolatoren die erzielbare Datenrate.
+
+
+== Software-Architektur ==
+Alle USB-Transaktionen werden durch die USB-Software auf dem Host-Computer realisiert. Das geschieht durch den jeweiligen USB-Gerätetreiber, der mit seinem Gerät kommunizieren will. Der USB-Bustreiber ist die Schnittstelle zwischen dem USB-Gerätetreiber und dem USB-Host-Controller.
+
+
+=== USB-Bustreiber ===
+Der USB-Bustreiber (USB-Driver) kennt die spezifischen Kommunikationseigenschaften der einzelnen USB-Geräte, zum Beispiel die Datenmenge pro Frame oder Abstände zwischen den periodischen Zugriffen. Er erkennt diese Eigenschaften beim Analysieren der Geräte-Deskriptoren während der Konfigurationsphase. Wenn der USB-Bustreiber ein IRP von einem USB-Gerätetreiber erhält, erzeugt er entsprechend dieser Anfrage einzelne Transaktionen, die innerhalb des Übertragungsrahmens (Frame) von einer Millisekunde ausführbar sind.
+
+
+=== USB-Host-Controller-Treiber ===
+Der USB-Host-Controller-Treiber (host controller driver) organisiert die zeitliche Abfolge der einzelnen Transaktionen (Scheduling). Dazu baut er eine Folge von Transaktionslisten auf. Jede dieser Listen besteht aus den noch nicht abgearbeiteten Transaktionen in Richtung eines Gerätes, das am Bus angeschlossen ist. Sie definiert die Reihenfolge der Transaktionen innerhalb des 1-ms-Zeitrahmens. Der USB-Bustreiber kann eine einzelne Anfrage für einen Datentransfer in mehrere Transaktionen zerlegen. Das Scheduling hängt von einer Reihe von Einflussfaktoren wie Transferart, Geräteeigenschaften und Busbelastung ab. Der USB-Host-Controller-Treiber löst die Transaktionen dann über den Root-Hub aus. Dieser setzt der Reihe nach alle Transaktionen um, die in der aktuellen Liste enthalten sind.
+
+
+=== Unterstützung in Betriebssystemen ===
+AmigaOS:
+Amiga OS3.x unterstützt standardmäßig kein USB. Lediglich mit Hard- und Software anderer Anbieter (Poseidon, Sirion, Anaiis) ist eine Anbindung von USB-1.1- und USB-2.0-Geräten möglich (mit breiter Unterstützung verschiedener Geräteklassen bei Poseidon). Bei Poseidon kann in Zusammenarbeit mit einer Flash-Rom-Karte sogar von USB-Massenspeichern gebootet werden. Ab Amiga OS4 wird – je nach Hardware – USB 1.1 und 2.0 unterstützt (kein USB 2.0 Hi-Speed, da der EHCI-Treiber noch fehlt). Unter AmigaOS 4 Classic kann jedoch alternativ auch Poseidon eingesetzt werden.
+Amiga OS4.x unterstützt ab Version 4.0 USB 1.1. Seit dem AmigaOS4.1 Update3 unterstützt es auch USB 2.0.
+AROS enthält seit August 2009 eine quelloffene Portierung von Poseidon, der die alte Implementierung ersetzt. Es unterstützt OHCI/UHCI (USB 1.1) und EHCI (USB 2.0 Hi-Speed) sowie die meisten der in Poseidon für AmigaOS vorhandenen Gerätetreiber. Der Stack liegt (teilweise) im Kernel und es kann damit von USB-Massenspeichern gebootet werden.
+Atari MiNT unterstützt standardmäßig kein USB, es sind jedoch für MiNT verschiedene Treiber in Entwicklung, die Add-on-Karten (wie EtherNAT, eine Kombination aus USB- und Ethernet Erweiterung für den Atari Falcon) unterstützen.
+eComStation als Nachfolger von OS/2 bringt ebenfalls Unterstützung für USB 2.0 mit.
+FreeBSD unterstützt ab Version 3.0 OHCI und UHCI Controller (USB 1.1), ab Version 5.2 EHCI (USB 2.0) und ab Version 8.2 auch XHCI (USB 3.x). Es existieren Treiber für USB-Geräte wie Tastatur, Maus, Drucker, TV-Receiver, Kameras, Ethernet, WLAN, Massenspeicher, Smartphones, serielle Schnittstellenadapter und viele mehr. In FreeBSD 8.0 erschien eine komplett neue USB-Implementierung, die die Treiber-Situation eine Weile beeinträchtigt hatte. In der aktuellen Version ist das Problem aber nicht mehr vorhanden.
+Der Linux-Kernel unterstützt ab Version 2.2.7 (1999) USB-1.1-Controller. Seit der Kernelversion 2.4 sind Treiber für UHCI-, OHCI- (USB 1.1) und EHCI-Controller (USB 2.0) sowie Unterstützung für gängige USB-Endgeräte integriert. Die Unterstützung für EHCI-Controller gilt erst ab Version 2.6 (2003) als stabil. Ab Kernelversion 2.6.31 (2009) wird USB 3.0 unterstützt. Mit sogenannten Gadget-Treibern kann ein Linuxsystem bei Anschluss an einen USB-Host selbst als USB-Gerät erscheinen, zum Beispiel als Massenspeicher, Netzwerkkarte oder serielle Schnittstelle.
+Mac:
+Mac OS unterstützt USB 1.1 ab Mac OS 8.1 (1998). Mit der Zeit wurde der Umfang an Geräten, die mit Klassentreibern unterstützt werden, deutlich erweitert; von Mac OS 8.5 (ebenfalls 1998) an werden die meisten üblichen Geräteklassen unterstützt.
+macOS (von 1999 bis 2012 „Mac OS X“ bzw. bis 2016 „OS X“) unterstützt in allen Versionen USB 1.1 und ab Version 10.2.8 auch USB 2.0. Ab OS X 10.8 (Mountain Lion, 2012) wird auch USB 3.0 auf entsprechend werkseitig ausgestatteten Macs unterstützt. Mit entsprechendem Treiber gibt es auch die Möglichkeit, Erweiterungskarten mit USB 2.0 und 3.0 unter früheren Mac-OS-X-Versionen zu nutzen.
+MorphOS wird mit dem Poseidon-USB-Stack ausgeliefert mit voller Unterstützung von UHCI, OHCI und EHCI (nicht alle Treiber unterstützen isochronen Transfer).
+MS-DOS und kompatible unterstützen USB standardmäßig nicht. USB-Tastaturen und USB-Massenspeicher sind über die Legacy-Emulation vieler verbreiteter PC-BIOS-Versionen dennoch verwendbar, aber meist nicht Hotplug-fähig. Auch USB-Mäuse funktionieren meist mit für PS/2-Mäuse vorgesehenen Treibern, wenn der Legacy-Mode aktiviert ist. Für FreeDOS gibt es den „motto hairu“-Treiber, der USB 2.0 zur Verfügung stellt. Andere Hersteller bieten Spezialtreiber an, die aber viel konventionellen Speicher belegen und deshalb mit vielen DOS-Programmen nicht kompatibel sind.
+NetBSD und OpenBSD unterstützen UHCI, OHCI und EHCI sowie gängige Endgeräte. NetBSD war 1998 das erste freie Betriebssystem mit USB-Unterstützung.
+OS/2 Warp 4 unterstützt erst über den Aufrüstpack Warp 4.51 Convenience Pack 1 (vom Dezember 2000) USB 1.1. Dieser ist kostenpflichtig. Treiber-Aktualisierungen auf USB 2.0 sind ebenfalls verfügbar.
+Palm OS unterstützt ab Version 3.2 USB als Kommunikationsplattform für HotSync, ab Palm OS 5 können (teilweise mit Zusatzprogrammen) auch Modemfunktionen über USB genutzt werden. Bestimmte PDAs (so bei Sony Clié) können mit der USB-Schnittstelle einen Massenspeicher emulieren.
+QNX unterstützt ab der Version 6 UHCI, OHCI und EHCI, mit separat erhältlichen Treibern ist USB-Unterstützung auch in QNX4 nachrüstbar. Die mitgelieferten Treiber beschränken sich auf den HID-Bootmode, einige RS232- und Ethernet-Adapter sowie Massenspeicher.
+Microsoft Windows:
+Windows 95 bietet ab OEM Service Release 2.1 eine rudimentäre Unterstützung von USB 1.0, die jedoch als höchst fehlerhaft und praktisch unbrauchbar gilt.
+Windows 98 unterstützt USB 1.0, ab Windows 98 SE auch USB 1.1. USB 2.0 ist nur mit Treibern von Chipsatzherstellern möglich.
+Windows Me unterstützt USB 1.1 und verfügt als einziges System der 9x-Serie über einen generischen Gerätetreiber für Massenspeicher. USB 2.0 ist nur mit Treibern von Chipsatzherstellern möglich. Nach der Installation gerätespezifischer USB-Treiber ist – im Gegensatz zu Windows 98 und 95 – kein Neustart mehr erforderlich.
+Windows NT 4.0 hat ab Werk keinerlei USB-Unterstützung. Von Fremdherstellern sind zwar Systemerweiterungen dafür erhältlich, doch da USB-Geräte in der Regel nicht mit diesen Erweiterungen getestet werden, beschränkt sich die Nutzbarkeit auf Spezialfälle.
+Windows 2000 (SP4), Windows XP (ab SP1), Windows Server 2003, Windows Vista, Windows Server 2008, Windows 7 und Microsoft Windows Server 2008 R2 unterstützen USB 1.1 und USB 2.0 und unterstützen erstmals Massenspeicher generisch ab Werk. Weil der USB-Hostcontroller gelegentlich fehlerhaft erkannt wird, sollten die Treiber des Chipsatzherstellers installiert werden.
+Windows 8 unterstützt USB 1.0, 1.1, 2.0 und 3.0.
+Windows 10 unterstützt USB 1.0, 1.1, 2.0, 3.0 und 3.1.Das BIOS eines PC kann auch Betriebssystemen ohne USB-Unterstützung die Verwendung von USB-Eingabegeräten wie Mäusen und Tastaturen ermöglichen. Dazu aktiviert man einen „USB Legacy Support“ (etwa „USB-Unterstützung für Altsysteme“), das die USB-Geräte dem Betriebssystem als PS/2-Geräte übermittelt. Die dazu nötigen Einstellungen heißen in jeder BIOS-Variante unterschiedlich, beispielsweise einfach „USB Keyboard Support“. Auch ein Starten von USB-Speichermedien wird von den meisten Firmware-Implementierungen ermöglicht, obwohl es in der Praxis teilweise an Inkompatibilitäten scheitert. Unter Open Firmware auf Apple-Macintosh-Computern mit PowerPC-Prozessor gibt es z. B. ein Firmware-Kommando, womit von einem angeschlossenen USB-Massenspeicher gestartet werden kann. Auf PCs mit BIOS wird meist genau ein USB-Laufwerk (wie USB-Stick, USB-Kartenleser, USB-Festplatte, USB-Floppy) eingebunden; weitere USB-Laufwerke werden nur eingebunden, wenn das startende Betriebssystem selbst USB unterstützt. Ältere Firmware (auch BIOS bei Computern bis 1995) kann mit USB nicht umgehen. Bei aktueller Firmware kann angenommen werden, dass USB sowohl für Eingabegeräte (Tastatur, Maus) sowie für das Startmedium verwendet werden kann. UEFI beispielsweise unterstützte USB von Beginn an voll.
+
+
+== Sicherheitsprobleme ==
+Auf der Black Hat 2014 erläuterten Karsten Nohl und Jakob Lell Sicherheitsrisiken von USB-Geräten. Viele USB-Controller-Chips in USB-Geräten lassen sich umprogrammieren. Ein wirksamer Schutz vor einer Neubeschreibung besteht nicht, so dass sich ein scheinbar harmloses USB-Gerät als schädliches Gerät missbrauchen lässt. Ein USB-Gerät kann:
+
+eine Tastatur und Befehle im Namen des angemeldeten Benutzers emulieren, somit Malware installieren und angeschlossene USB-Geräte infizieren.
+sich als Netzwerkkarte ausgeben, die DNS-Einstellung im Computer ändern und Datenverkehr umleiten.
+beim Bootvorgang ein kleines Virus laden, welches das Betriebssystem vor dem Booten infiziert.Derartige Angriffe sind bisher schwer abwehrbar, da Malware-Scanner nicht die Firmware in USB-Geräten prüfen und die Verhaltenserkennung schwierig ist. USB-Firewalls, welche nur bestimmte Geräteklassen blockieren, existieren noch nicht.
+Einen gewissen Schutz bietet macOS beim Anstecken eines als Tastatur erkannten USB-Geräts, indem es fragt, ob man die Tastatur aktivieren will.
+Die sonst übliche Beseitigung von Malware –  durch Neuinstallation des Betriebssystems – nutzt nichts, da ein USB-Speicher, von dem installiert wird, bereits infiziert sein kann. Andere USB-Geräte sind von der Neuinstallation des Betriebssystems ebenfalls nicht betroffen und enthalten die Malware daher immer noch. Zu beachten ist, dass USB auch als interne Schnittstelle zur Anbindung fest eingebauter Peripherie-Komponenten (etwa einer Webcam im Laptop-Deckel) verbreitet ist.Im Oktober 2014 stellten die Sicherheitsforscher Adam Caudill und Brandon Wilson auf der Konferenz DerbyCon eine modifizierte Firmware und Werkzeuge zur Schadensbehebung vor.
+
+
+== USB als standardisierte Spannungsquelle ==
+Des Weiteren wird USB teilweise als standardisierte Spannungsquelle eingesetzt. So haben sich im Jahr 2009 namhafte Mobiltelefonhersteller auf Druck der EU-Kommission darauf geeinigt, Micro-USB als Standard-Gerätebuchse für den Ladekontakt einzusetzen. Vereinzelt haben Hersteller anderer elektronischer Kleingeräte wie kompakter Digitalkameras nachgezogen – im Bereich der (tragbaren) Medienabspielgeräte (insbesondere bei MP3-Playern) war ein Aufladen via USB-Schnittstelle schon zuvor verbreitet.
+Der USB-Standard sieht vor, dass Geräte zunächst im Low-Power-Modus (100 mA oder 150 mA) starten und bei höherem Strombedarf diesen erst vom Host anfordern, bevor sie den normalen Modus schalten. Das können bei USB 2.0 bis zu weiteren viermal 100 mA, bei USB 3.0 bis zu weiteren fünfmal 150 mA sein. Schlägt diese Anforderung fehl, muss sich das Gerät abschalten. Die meisten der vorgenannten Geräte verwenden den USB-Anschluss jedoch ungefragt nur als Spannungsquelle und verstoßen gegen den USB-Standard, indem sie ohne Erlaubnis des Hosts mehr als 100 mA Strom beziehen. Das könnte im Extremfall den USB-Anschluss des Hosts beschädigen oder das Energiemanagement des Rechners durcheinanderbringen, was zu instabilem Verhalten führen kann. Sparsame 2,5-Zoll-Festplatten können meist mit 2,5 W (500 mA) an einem 2.0-USB-Port mit Adapter betrieben werden, größere 3,5-Zoll-Festplatten jedoch nicht. Weiterhin gibt es sparsame Notebook-CD/DVD/Bluray-Brenner, die am USB-Port betrieben werden können. Deren Stromaufnahme liegt jedoch insbesondere beim Brennen mit höheren Geschwindigkeiten mit teilweise permanent über 1000 mA weit außerhalb der USB-Spezifikation.
+Mittlerweile gibt es Netzteile, die an einer USB-A-Buchse oder einem Kabel mit Micro-USB-B-Stecker 5 V zur Verfügung stellen. Der verfügbare Strom liegt meist bei 1000 mA (allgemein zwischen 500 und 2500 mA). Generell gilt bei Smartphones die USB-Battery Charging Specification als Referenz (dies ist nicht mit dem Energiemanagement zu verwechseln, das beim Enumeration-Prozess, beim Anschließen an einen USB-Host, stattfindet). Diese standardisiert die Beschaltung der Datenleitungen, damit es eine einheitliche Konfiguration gibt und möglichst alle Smartphones mit ein und demselben Netzteil geladen werden können. Allerdings halten sich nicht alle Smartphone-Hersteller an diese Vorgabe, so dass bestimmte Geräte nicht mit jedem Netzteil geladen werden können (z. B. Apple). Wenn ein Gerät nicht an einem dafür gebauten Netzteil, sondern an einem USB-Host (z. B. PC/Notebook) geladen wird, werden Befehle bzgl. des Energiemanagements während der Enumeration ausgetauscht. Letzteres ist notwendig, wenn das zu ladende Gerät sich exakt an den USB-Standard hält und nur den Strom entnimmt, der ihm genehmigt wurde. Ein bekannter Vertreter ist das iPhone: Es erkennt, dass es an einem Netzteil geladen wird, wenn bestimmte Spannungspegel an den Datenleitungen anliegen. An einem Rechner wird stattdessen über das Energiemanagement verhandelt, wie viel Strom das Gerät entnehmen darf.
+
+
+== Kurioses ==
+Auch ausgefallene Geräte sind auf den Markt gekommen, die USB vorwiegend zur Stromversorgung nutzen. Beispielsweise gibt es USB-Wärmeplatten, mit denen etwa eine Kaffeetasse über die USB-Schnittstelle warmgehalten werden kann, USB-Lampen für Notebooks, um die Tastatur zu beleuchten, USB-Tastatur-Staubsauger, USB-Ventilatoren, Rotoren mit LED-Lichteffekten, USB-Weihnachtsbäume oder beheizbare USB-Handschuhe, USB-Butt-Plugs, USB-Hörgerätetrockner und USB-Pantoffeln.
+Ajay Bhatt wurde aus der Gruppe der Entwickler des USB-Standards besonders hervorgehoben, als er in dem Werbespot Ajay Bhatt – The Real USB Rock Star! des Unternehmens Intel als Rockstar porträtiert wurde.
+
+
+== Literatur ==
+Hans-Joachim Kelm: USB 2.0. Franzis, Poing 2006, ISBN 3-7723-7965-6. 
+Jan Axelson: USB Complete. Everything You Need to Develop Custom USB Peripherals. 4. Auflage. Lakeview Research, Madison 2009, ISBN 978-1-931448-08-6 (englisch). 
+USB 2.0. Handbuch für Entwickler. 3. Auflage. mitp, Heidelberg 2007, ISBN 978-3-8266-1690-7 (Originaltitel: USB Complete. Everything You Need to Develop Custom USB Peripherals. Übersetzt von Gerhard Franken). 
+Bernhard Redemann: Steuern und Messen mit USB, Hard- und Softwareentwicklung mit dem FT232, 245 und 2232. Eigenverlag, Berlin 2006, ISBN 3-00-017884-8. 
+
+
+== Weblinks ==
+
+
+== Anmerkungen ==
+
+
+== Einzelnachweise ==

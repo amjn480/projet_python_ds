@@ -1,0 +1,235 @@
+ChatGPT, pour Chat Generative Pre-trained Transformer, est un prototype d'agent conversationnel (chatbot) utilisant l'intelligence artificielle, développé par OpenAI et spécialisé dans le dialogue.
+Il est basé sur les grands modèles de langage d'OpenAI GPT-3.5 et GPT-4, et est affiné en continu grâce à l'utilisation de techniques d'apprentissage supervisé et d'apprentissage par renforcement.
+ChatGPT est capable de proposer des réponses à des questions, de compléter des phrases, de traduire des textes, d'écrire des articles et de tenir des conversations avec des humains.
+Il peut également synthétiser des textes suivant un ensemble de contraintes, telles que le ton, le style et le sujet. Il est également utilisé pour la génération de sous-titres de vidéos et la création d'agents conversationnels dérivés.
+En raison de ses multiples capacités, le prototype suscite des inquiétudes quant aux risques de détournement à des fins malveillantes, de plagiat dans le monde universitaire et de suppressions d'emplois dans certains secteurs. ChatGPT soulève également des préoccupations en matière de sécurité et de désinformation, car le modèle peut être utilisé pour créer des textes faux et des informations trompeuses.
+Lancé en novembre 2022 dans une version gratuite et non connectée à Internet, ChatGPT bénéficie d’une large exposition médiatique et reçoit un accueil globalement positif, bien que son exactitude factuelle soit critiquée.
+En janvier 2023, ChatGPT compte plus de 100 millions de comptes enregistrés, et la société OpenAI est alors valorisée à 29 milliards de dollars américains.
+
+
+== Nom ==
+Le sigle ChatGPT est un mot-valise composé des mots anglais « chat » et « GPT ».
+Le mot « chat » désigne un dialogue en ligne dans lequel les internautes échangent des messages de manière instantanée. La particularité de ChatGPT est de permettre à un internaute de discuter non pas avec d'autres internautes mais avec un système basé sur une intelligence artificielle.
+Le mot « GPT » est un sigle signifiant « Generative Pre-trained Transformer » (« transformeur génératif pré-entraîné »).
+
+
+== Caractéristiques ==
+ChatGPT est un agent conversationnel à intelligence artificielle ou « chatbot », autrement dit un assistant virtuel qui utilise l'intelligence artificielle pour dialoguer avec ses utilisateurs.
+Le robot conversationnel est disponible dans de multiples langues, dont le français, et offre des performances variables selon la langue,. Il est capable de répondre à des questions-tests dans un langage très proche de celui d'un humain, voire, selon la question, avec un niveau de performance supérieur à un répondant humain moyen,.
+Il dispose également de capacités génératives permettant de produire du contenu textuel sur mesure. Le robot peut notamment générer des articles, essais ou poèmes sur différents tons et sujets. Il est également utilisé pour produire et corriger du code informatique.
+L'accès à ChatGPT est gratuit, mais nécessite de créer un compte sur le site web d'OpenAI. Les utilisateurs contribuent à entraîner le robot par leurs requêtes et leur évaluation des réponses.
+L'application mobile ChatGPT, lancée en mai 2023 sur iOS et ensuite sur Android, intègre une technologie de reconnaissance vocale nommée Whisper qui permet de converser par la voix avec le robot.
+
+
+=== Modèle de langage et d'apprentissage ===
+ChatGPT est une amélioration du modèle de langage GPT-3 d'OpenAI, entraîné par apprentissage supervisé et apprentissage par renforcement, les deux approches faisant appel à des données créées par des humains pour l'entraînement du modèle.
+Dans le cas de l'apprentissage supervisé, le modèle reçoit des conversations dans lesquelles les formateurs jouent les deux rôles : l'utilisateur et l'assistant d'intelligence artificielle. Dans l'étape de renforcement, les formateurs humains ont d'abord classé les réponses que le modèle avait créées dans les conversations précédentes. Ces classements ont été utilisés pour créer des modèles de récompense sur lesquels le modèle est affiné en utilisant plusieurs itérations de Proximal Policy Optimization (en) (PPO),.
+Les algorithmes de Proximal Policy Optimization présentent un avantage économique par rapport aux algorithmes de Trust Region Policy Optimization (en) ; ils annulent un grand nombre d'opérations coûteuses en calcul avec des performances plus rapides,. Les modèles sont formés en collaboration avec Microsoft sur son infrastructure de supercalculateur Microsoft Azure.
+
+
+=== Atouts ===
+Par rapport à son prédécesseur, InstructGPT, ChatGPT tente de réduire le taux de réponses erronées et trompeuses. Par exemple, lorsque l'utilisateur écrit « Raconte-moi quand Christophe Colomb est arrivé aux États-Unis en 2015 », InstructGPT considère cette affirmation comme vraie, tandis que ChatGPT utilise des informations sur les voyages de Christophe Colomb ainsi que des informations sur le monde moderne, y compris la perception de Christophe Colomb dans notre société contemporaine, pour construire une réponse qui imagine ce qui se passerait si Colomb venait aux États-Unis en 2015.
+À la différence de la plupart des agents conversationnels, ChatGPT se souvient des messages précédents qui lui sont donnés par l'utilisateur au cours d'une même conversation, ce qui, selon certains journalistes, lui permettrait d'être utilisé comme un thérapeute personnalisé.
+Dans le but d'empêcher que des résultats offensants soient présentés à ChatGPT ou produits par celui-ci, les requêtes sont filtrées par une API de modération et les messages potentiellement racistes ou sexistes sont rejetés,.
+
+
+=== Limites ===
+ChatGPT présente cependant de multiples limites.
+Le modèle de récompense de ChatGPT, conçu autour de la surveillance humaine, peut par exemple être suroptimisé et ainsi entraver les performances, un phénomène connu sous le nom de loi de Goodhart.
+
+En outre, les données utilisées pour l'entraînement de ChatGPT s'arrêtent à une certaine date, et ChatGPT n'a à la base pas connaissance des événements survenus après. Cette date était auparavant fixée à septembre 2021, mais est désormais de janvier 2022 pour ChatGPT 3.5 et avril 2023 pour la version payante ChatGPT 4.   Par exemple, interrogé sur l'effondrement en 2022 de la plateforme de cryptomonnaies FTX, ChatGPT s'était révélé incapable de répondre, se contentant d'indiquer : 
+« Je suis désolé, mais je ne suis pas en mesure de fournir des informations sur des événements qui ont pu se produire dans la réalité. [Mes données d'entraînement] ne couvre[nt] pas de tels événements et je n'ai pas accès à l'Internet pour effectuer des recherches. »
+
+Lors de la phase d'entraînement de l'IA, les évaluateurs humains ont par ailleurs privilégié la rédaction de réponses plus longues, indépendamment de la « compréhension » réelle du sujet traité ou du fait qu'il s'agisse d'un contenu factuel[réf. obsolète].
+Les données d'entraînement peuvent également souffrir d'un biais algorithmique. Des messages comprenant des descriptions vagues de personnes, comme un président-directeur général, pourraient ainsi induire une réponse qui suppose que cette personne est, par exemple, un homme blanc.
+
+
+=== Évolution et débats sur les performances ===
+Des chercheurs de l'université Stanford et de l'université de Californie ont prépublié un article le 18 juillet 2023, intitulé How is ChatGPT's behavior changing over time?. L'étude évalue le comportement et les performances de GPT-3.5 et GPT-4 sur quatre tâches, révélant que leur comportement peut varier considérablement au fil du temps. Elle souligne la nécessité d'une surveillance continue de la qualité des grands modèles de langage (LLM) et les défis liés à leur intégration dans des flux de travail plus larges. L'étude remet également en question l'amélioration constante des services LLM tels que GPT-4. Les travaux existants ne surveillent pas systématiquement les dérives longitudinales des services LLM largement utilisés tels que GPT-4 et GPT-3.5 au fil du temps. Cette étude a eu une certaine couverture médiatique, démontrant le risque de résultats incohérents ou imprévisibles au fil du temps, ce qui peut poser des problèmes pour les applications qui dépendent de ces modèles. À défaut d'avoir une plus grande transparence dans les données et les méthodes utilisées pour former et affiner les LLM, la construction d'applications stables sur ces modèles devient très difficile,,.
+
+
+== Utilisation ==
+Le 5 décembre 2022, Sam Altman, un des dirigeants d'OpenAI indique que le prototype, qui est alors gratuit, a atteint un million d'utilisateurs.
+En janvier 2023, ChatGPT dépasse les 100 millions de comptes enregistrés, deux mois après son lancement, et en mars enregistre 1,6 milliard de visites, ce qui en fait l'application ayant eu la croissance la plus rapide alors.
+D'après François Fleuret, professeur de l'université de Genève, le profil des utilisateurs de ChatGPT est assez varié. Il peut s'agir d'étudiants, d'enseignants, de développeurs ayant besoin de bouts de code d'un programme informatique ou encore de professionnels souhaitant avoir des propositions de texte dans le cadre de la rédaction de mails à caractère sensible.
+Au-delà de ces usages, ChatGPT est considéré dans le domaine du marketing en ligne.
+La version de ChatGPT 4 permet la recherche en ligne grâce à une intégration de Bing. Cette fonctionnalité est désactivée le 3 juillet 2023 en raison de droits d'auteurs car elle permettait d'afficher l’intégralité des textes de pages web, dont certaines derrières des paywall, mais est réactivée fin septembre 2023 dans la version payante, qui prend en considération les interdictions de lecture inscrites dans le fichier robots.txt des pages web.
+
+
+== Intégration dans des solutions Microsoft ==
+
+
+=== Microsoft Bing et Edge ===
+Le 7 février 2023, le président de Microsoft Satya Nadella annonce que, dans le cadre du partenariat entre Microsoft et OpenAI, des travaux sont en cours afin d'intégrer une nouvelle version de ChatGPT dans le moteur de recherche Microsoft Bing ainsi que dans le navigateur Microsoft Edge.
+
+
+==== Intégration dans Bing ====
+Après une phase de test réservée à un nombre restreint d'utilisateurs, l'agent conversationnel de Bing appelé « Bing Chat » et reposant sur GPT-4 devient accessible à tous. Ce dernier fournit, à la différence de l'application d'OpenAI, des liens vers des sources qu'il a utilisées pour produire sa réponse.
+Il est présent dans les deux interfaces de la nouvelle version de Bing :
+
+Dans l'interface classique de recherche, il apparaît dans un encadré lorsque l'utilisateur saisit une requête sous la forme d'une question. Il fournit alors une réponse synthétique complémentaire à la liste de sites web fournie par le moteur.Une nouvelle interface entièrement dédiée à la conversation est également créée. Dans celle-ci, il n'y a plus de liste de liens et l'internaute pose ses questions directement au robot afin d'obtenir des résultats synthétiques sans avoir à les chercher lui même sur le web.L'objectif pour Microsoft serait ainsi de permettre à son moteur de recherche Microsoft Bing de concurrencer Google qui détient plus de 90 % des parts du marché mondial en 2023.
+
+
+==== Intégration dans Edge ====
+Une nouvelle version de ChatGPT devrait également être intégrée dans le navigateur Web Microsoft Edge. Parmi les fonctionnalités proposées, Edge permettra à l'internaute de demander à ChatGPT de commenter des documents au format pdf, de les résumer, d’ajouter des informations à partir du Web ou encore de les traduire.
+
+
+=== Microsoft Office ===
+Selon le média The Information, Microsoft souhaiterait également intégrer ChatGPT dans sa suite bureautique Microsoft Office,.
+Dans Microsoft Outlook, l'objectif serait d'améliorer l'interface de recherche afin de permettre à l'utilisateur d'obtenir des résultats à partir de simples requêtes, et d'accéder à des propositions de textes de mails, qui seraient rédigés directement par l'IA sur la base de l'historique des échanges de l'utilisateur,.
+Dans Microsoft Word, le robot conversationnel serait capable de donner des conseils à l'utilisateur dans la rédaction de son document.
+Dans Microsoft PowerPoint, ChatGPT pourrait réaliser des diapositives à partir de discussions entre les utilisateurs dans Microsoft Teams.
+Cependant, pour le journaliste Julien Lausson du site Numerama, ces différents usages de ChatGPT soulèvent des problèmes de confidentialité par rapport aux données des utilisateurs, car l'IA aurait ainsi accès à leurs correspondances, y compris à leurs correspondances privées.
+
+
+== Modèle économique ==
+Le prototype ChatGPT, reposant sur le modèle de langage GPT-3, est gratuit et sans publicité en 2023.
+
+
+=== Coûts d'exploitation ===
+Bien que le coût moyen de chaque réponse soit relativement faible (de l'ordre de quelques centimes), Sam Altman, un des dirigeants d'OpenAI, déclare en décembre 2022 qu'OpenAI devra un jour monétiser l'application en raison de ses coûts de calcul « exorbitants ».
+Bien qu'aucun chiffre précis n'ait été communiqué par la société, le professeur en apprentissage profond Tom Goldstein estime que les coûts d'utilisation de l'IA s'élèvent à environ 100 000 $ US par jour, soit près de trois millions de dollars par mois.
+
+
+==== Consommation énergétique ====
+Comme toute IA destinée aux masses, sa consommation énergétique est inconnue, OpenAI ne communiquant pas véritablement sur ces sujets. Des tentatives d'estimation des consommations de l'entrainement seul (hors consommation électrique et empreinte carbone liés aux interrogations quotidiennes des millions d'utilisateurs) de GPT-3 les évaluent à environ 1 287 MWh (l'équivalent de 120 maisons pendant une année) pour un bilan carbone de 552 tonnes de CO2 (soit l'équivalent de 110 voitures en une année).
+
+
+=== Version payante ===
+Afin de financer les coûts d'exploitation de ChatGPT, OpenAI propose, depuis le 1er février 2023, une version professionnelle et payante du chatbot, ChatGPT Plus, pour 20 dollars par mois (24 dollars en incluant la TVA).
+Cette version permet d’utiliser le modèle de langage GPT-4, offre un accès continu à ChatGPT, y compris lorsque les serveurs sont surchargés, et permet d'obtenir des réponses plus rapides qu'avec la version gratuite. Le nombre de requêtes à GPT-4, sur cette version, est limité à 50 toutes les trois heures. Les abonnés disposent également d'un accès prioritaire aux nouvelles fonctionnalités et améliorations de ChatGPT. D’abord lancée aux États-Unis, cette version payante est rendue disponible le 10 février 2023 aux utilisateurs issus d'autres régions du monde,.
+En mars 2023, OpenAI ajoute la prise en charge des greffons pour ChatGPT Plus. Cela inclut à la fois les greffons créés par OpenAI, tels que la navigation sur le web et l'interprétation de code, ainsi que des greffons externes provenant de développeurs tels que Expedia, OpenTable, Zapier, Shopify, Slack, et Wolfram,.
+En juillet 2023, OpenAI crée un greffon nommé « Code interpreter » accessible aux utilisateurs de ChatGPT Plus. L'interpréteur fournit diverses capacités supplémentaires, dont l'analyse, le nettoyage et la visualisation de données, l'analyse de musiques et la création de clips animés.
+En septembre 2023, OpenAI annonce que ChatGPT « peut maintenant voir, entendre et parler ». Les utilisateurs de ChatGPT Plus peuvent télécharger des images, et les utilisateurs de l'application mobile peuvent parler avec ChatGPT.
+En octobre 2023, le dernier modèle de génération d'images DALL-E 3 a été intégré à ChatGPT Plus et ChatGPT Entreprise. À partir de la requête de l'utilisateur, ChatGPT crée une description de l'image souhaitée qui est envoyée à DALL-E 3 pour la génération de l'image.
+
+
+=== Autres sources de financement ===
+Pour l'expert en marketing numérique Tim Peter, le financement de ChatGPT pourrait par ailleurs venir du partenariat entre OpenAI et Microsoft. En effet, contrairement à Google qui tire ses revenus essentiellement de la publicité, Microsoft pourrait subventionner ChatGPT grâce à ses autres activités comme la vente de matériel et de logiciels.
+
+
+== Réception ==
+Lors de son lancement le 30 novembre 2022, ChatGPT est d'abord accueilli de manière globalement positive.
+Ses réponses détaillées articulées et sa capacité à traduire des textes sont particulièrement remarquées. La journaliste Samantha Lock du Guardian note ainsi que le prototype est capable de rédiger des textes « remarquablement détaillés » et « semblables à ceux d'un être humain ». Son confrère Benjamin Hue de RTL loue sa capacité à rédiger un texte sur « tous les sujets possibles et imaginables », qu'il s'agisse d'une recette de cuisine, d'une dissertation, d'une lettre de motivation ou encore d'inventer une histoire pour enfants. Il note également que ChatGPT est capable de répondre à des demandes plus pointues comme le débogage de code informatique.
+Dan Gillmor, journaliste spécialiste des nouvelles technologies, a testé ChatGPT dans le cadre d'un travail d'étudiant, jugeant le texte produit comparable à celui d'un bon étudiant. Il en déduit que « le monde universitaire a de très sérieux problèmes à affronter ». Cette position est partagée par Jonathan Durand Folco qui montre, à la suite d'une lettre d'opinion de 600 mots rédigée par cet outil, que « l'ensemble des écoles primaires et secondaires, des cégep et des communautés universitaires » est appelé à modifier en profondeur ses outils d'évaluation.
+De son côté, Alex Kantrowitz, de Slate, salue la manière dont ChatGPT réagit aux questions relatives à l'Allemagne nazie, notamment l'affirmation selon laquelle Adolf Hitler a construit des autoroutes en Allemagne, ce qui a engendré des informations sur l'utilisation du travail forcé par l'Allemagne nazie.
+Dans un article d'opinion de décembre 2022, l'économiste Paul Krugman estime que ChatGPT aura un impact sur la demande de travailleurs de la connaissance.
+James Vincent, de The Verge, voit dans le succès viral de ChatGPT la preuve que l'intelligence artificielle est devenue incontournable. Dans The Atlantic, Stephen Marche (en) note que l'effet de ChatGPT sur le monde universitaire, et en particulier sur les essais de candidature (par exemple, pour une admission à une université ou l'obtention d'une bourse), reste encore à comprendre. Daniel Herman, professeur de lycée et auteur californien, écrit que ChatGPT marquera la « fin de l'anglais au lycée ».
+
+
+=== Ambiguïté des réponses et fausses informations ===
+L'exactitude de certaines réponses de ChatGPT a cependant été remise en question.
+Le journaliste Mike Pearl de Mashable a testé ChatGPT en lui posant des questions factuelles. Il demande par exemple au modèle quel est « le plus grand pays d'Amérique centrale qui n'est pas le Mexique ». ChatGPT répond qu'il s'agit du Guatemala, alors que la réponse est plutôt le Nicaragua. L'erreur provient de l'interprétation de la question par ChatGPT, qui aurait cru que l'on s'intéressait à la taille de la population plutôt qu'à la superficie du territoire.
+ChatGPT peut inventer de fausses informations, un phénomène connu sous le terme d’hallucination. L'analyste des données Teresa Kubacka, qui a testé ChatGPT sur le multiferroïsme, indique que ce dernier lui a fourni de fausses citations de chercheurs, qui semblaient « avoir été assemblées comme un mélange à partir de quelques citations réelles, différentes mais similaires ». Selon elle, il est également possible de tromper l'IA en inventant des concepts imaginaires : « J'ai décidé de demander à ChatGPT quelque chose qui n'existait pas : un électromagnon inversé cycloïdal. […] Et bien le chatbot l'a inventé, assurant même que la question a fait l'objet de nombreuses recherches ces dernières années. »
+Lorsque l'entreprise NewsGuard spécialisée dans la lutte contre les fausses informations effectue un test sur 100 questions, elle constate que 80 % des réponses sont « éloquentes, incorrectes et trompeuses » à propos de faits importants de l’actualité tels que la Covid-19, le conflit en Ukraine ou les tueries de masse dans des écoles américaines.
+Les résultats sont parfois spectaculaires. GPT-4 approche par exemple du niveau nécessaire à l'obtention du diplôme de médecin aux États-Unis.
+Néanmoins, l'un des dirigeants d'OpenAI, Sam Altman, admet que l'application fait encore des erreurs sur des sujets importants et que les retours des utilisateurs sont nécessaires pour corriger ces erreurs.
+ChatGPT a également été critiqué pour sa capacité à fournir des textes trompeurs et potentiellement dangereux. Certains chercheurs ont exprimé des préoccupations quant à la capacité du modèle à engendrer des discours de haine et des théories du complot.
+En évaluant ChatGPT avec d'anciens examens du Barreau du Québec, des journalistes canadiens ont constaté qu'il a obtenu un résultat de seulement 12 %.
+
+
+=== Interdictions ===
+
+
+==== États-Unis ====
+En janvier 2023, les services de la ville de New York interdisent l'accès à ChatGPT sur les postes informatiques des écoles publiques de la ville. Une porte-parole de la ville de New York justifie cette décision en raison de « préoccupations concernant la sécurité et l'exactitude du contenu ».
+
+
+==== France ====
+En janvier 2023, Sciences Po Paris annonce interdire l'usage de l'outil à ses étudiants sous peine d'exclusion, puis change de position en autorisant ChatGPT tant qu'il figure dans les sources des travaux produits.
+À Montpellier, la municipalité a décidé d'interdire à ses employés l'utilisation de ChatGPT au travail par mesure de précaution et en attendant que plus d'études soient faites sur l'intelligence artificielle. Une inquiétude concernant le traitement des données a notamment motivé cette décision.
+
+
+==== Italie ====
+Fin mars 2023, l'autorité italienne de protection des données personnelles (GDPD (it)) demande à OpenAI de ne plus traiter les données des italiens. Motivée par « l’absence d’une note d’information aux utilisateurs dont les données sont récoltées », elle ne considère pas comme justifiés « le recueil et la conservation en masse des données personnelles, dans le but d’entraîner les algorithmes faisant fonctionner la plateforme ». Elle lui reproche également de ne pas respecter le Règlement général sur la protection des données européen (RGPD) concernant la collecte des informations et l’accuse de ne pas demander l'âge des utilisateurs de ChatGPT. L'entreprise affirme en effet dans sa FAQ récolter notamment les noms, coordonnées, lieux de résidence et informations de cartes de paiement de ses utilisateurs.
+Le 31 mars 2023,, ChatGPT est interdit sur le territoire italien et l'autorité italienne de protection des données personnelles donne à OpenAI un délai de 20 jours pour se mettre en conformité avec le RGPD, faute de quoi elle s'expose à une amende de 40 millions d'euros ou de 4 % du chiffre d'affaires de l'entreprise. C'est la première interdiction de l'intelligence artificielle par un pays européen. Cette interdiction est levée le 28 avril 2023 après qu'OpenAI a rendu certaines informations plus visibles sur la version de son engin disponible en Italie.
+
+
+==== Autres ====
+En décembre 2022, le site Web de questions-réponses Stack Overflow interdit l'utilisation de ChatGPT pour apporter des réponses à des questions, en raison de la nature ambiguë des réponses de ChatGPT.
+Les possibilités et limitations d'utilisation de ChatGPT dans la rédaction et la modification d'articles de Wikipédia restent encore à définir à l'échelle internationale et font l'objet de discussions au sein de la communauté de l'encyclopédie en ligne,. Certains wikipédiens soutiennent que ChatGPT devrait être totalement interdit, même si les articles ainsi produits étaient vérifiés ultérieurement par des éditeurs car l'IA produit des faux semblants plausibles. Il y aurait également un risque que les contributeurs de Wikipédia peinent davantage à contrôler le contenu publié[source insuffisante].
+Andrew Lih, un wikipédien du Smithsonian Institution à Washington, qui y contribue depuis 2003, affirme que ChatGPT a le potentiel d'aider des wikipédiens à surmonter l'inertie initiale et à trouver « l'énergie d'activation » pour écrire de nouveaux articles. La première page de Wikipédia utilisant ChatGPT a été publiée le 6 décembre 2022 par Richard Knipel, un wikipédien de longue date qui contribue sous le pseudonyme Pharos, sous le titre Artwork title (en).
+
+
+=== Filtrage et conditions de travail d'employés ===
+Une enquête de l’hebdomadaire Time publiée le 18 janvier 2023 dévoile qu’OpenAI alimente son IA ChatGPT d’exemples signalés de discours haineux et de violences sexuelles, afin qu’elle sache détecter ces formes de toxicité et ne les laisse pas passer.
+Pour ce faire, OpenAI a fait appel à Sama (en), une entreprise qui a son siège à San Francisco mais qui emploie des travailleurs au Kenya. Ceux ci doivent lire des textes sexistes et racistes ou décrivant automutilations, incestes ou contenus pédopornographiques et les classer selon leur type (racisme, violence, etc.) et ainsi apprendre à l’IA à les repérer. Sur une journée de neuf heures, chaque travailleur doit ainsi lire entre 150 et 250 textes faisant chacun de 100 à 1 000 mots, et y signaler les passages sensibles, et ne sont pour cela payés qu'entre 1,32 et 2 dollars de l’heure.
+
+
+=== Usages et détournements malveillants ===
+ChatGPT a, dès son lancement, suscité des craintes puis des confirmations de détournement possible à des fins malveillantes.
+En 2014, le scandale Facebook-Cambridge Analytica/Aggregate IQ a montré qu'une intelligence artificielle (Ripon) secrètement créée pour le Groupe SCL par AggregateIQ (la société jumelle de Cambridge Analytica) a été utilisée pour faire advenir le Brexit[réf. nécessaire], élire Donald Trump[réf. nécessaire] et modifier les résultats de nombreuses élections[réf. nécessaire]. ChatGPT pourrait aider à créer des quantités de messages manipulateurs ou perturbateurs et à amplifier le phénomène des « usines à troll », ainsi que l'action de lobbyistes ou d'entités industrielles ou politico-financières malveillantes. Cela a conduit l'économiste Tyler Cowen à alerter en décembre 2022 sur de possibles effets délétères pour la démocratie, citant comme exemple la capacité d'une personne à écrire des commentaires automatisés dans le but d'influencer le processus de décision de nouvelles réglementations.
+Le chercheur en sécurité Ax Sharma de Bleeping Computer note fin 2022 que ChatGPT peut écrire des logiciels malveillants et des courriers électroniques d'hameçonnage. Autre chercheur en sécurité, Aaron Mulgrew de Forcepoint montre en avril 2023 qu'il est possible de tromper la vigilance de ChatGPT et de le forcer, grâce à quelques astuces, à générer un malware indétectable destiné à exfiltrer des fichiers Word ou PDF sous forme d'images en utilisant la stéganographie.
+En janvier 2023, ces inquiétudes sont confirmées dans un billet de blog par Check Point Research, une société spécialisée dans la cybersécurité : ChatGPT est déjà utilisé par des cybercriminels pour concevoir des logiciels malveillants. L'historique des discussions d'un forum fréquenté par les cybercriminels semble montrer que des pirates ont créé, grâce au bot de ChatGPT, un logiciel capable de voler certains types de fichiers sur une machine sous Windows, ainsi qu'un logiciel capable de produire de faux contenus (e-books, formations, etc.) sur le Web.
+
+
+=== Problèmes de droit d'auteur ===
+
+
+==== Manquement au droit d'auteur ====
+Plusieurs chercheurs émettent des réserves quant aux manquements au droit d'auteur, car l'IA de ChatGPT a été entraînée en utilisant un très grand nombre de textes en ligne, (dont le corpus de Wikipédia), précise Laure Soulier (maîtresse de conférences à Sorbonne Université au sein de l'équipe Machine Learning and Information Access). Or, Wikipédia est réutilisable et modifiable par tous, mais à condition que le produit final cite Wikipédia comme source placée sous licence ouverte de type CC-BY-SA.
+Pour Thierry Poibeau, directeur de recherche au CNRS, les créateurs de l'IA « ont indexé tout ce qui était disponible sur le Web jusqu'en 2021. Même s'il y a des copyrights, ils s'assoient dessus ».
+Pour le mathématicien et vidéaste Web français Lê Nguyên Hoang, il est probable qu'une grande partie du contenu utilisé pour générer des discussions vienne des réseaux sociaux. « Ça vient très probablement des réseaux sociaux LinkedIn, GitHub, Reddit, Twitter, où les données sont facilement téléchargeables », explique-t-il.
+Pour la journaliste Alexandra Tauziac du journal Sud-Ouest, le fait que ChatGPT ait été entraîné avec des sources probablement soumises aux droits d’auteur, sans que ces dernières soient mentionnées dans les réponses du robot, risque en tout cas de poser un problème juridique.
+
+
+==== Bénéfice du droit d'auteur sur les œuvres produites ====
+À l'occasion d'une requête de Stephen Thaler, ingénieur créateur de l'intelligence artificielle DABUS, Thaler se voit refuser en février 2023 le bénéfice du copyright pour une image modifiée par son logiciel par le Bureau de la propriété intellectuelle (Copyright office) de la Bibliothèque du Congrès, au motif qu'il ne pouvait prévoir le résultat qu'il obtiendrait avec les entrées fournies à son logiciel. Le 18 août 2023, ce résultat est confirmé par la juge fédérale Beryl Howell.
+
+
+=== Dans l'enseignement ===
+ChatGPT inquiète de nombreux enseignants car il est capable d'effectuer convenablement de nombreux exercices demandés aux élèves et aux étudiants, qui peuvent l'utiliser pour rédiger les devoirs à leur place. En effet, s'il est possible pour les professeurs d'identifier dans les devoirs les contenus copiés-collés à partir d'Internet, le nouveau type de plagiat issu de ChatGPT est plus difficilement détectable car le contenu fourni diffère d'un utilisateur à l'autre,.
+À Lyon, 50 % des élèves d'un cours de faculté auraient ainsi utilisé l'intelligence artificielle pour rédiger leur devoir. N'ayant pas de cadre pour interdire cette pratique, l'enseignant s'est vu contraint d'attribuer la moyenne à toutes ces copies.
+Pour résoudre ce problème et aider les enseignants à identifier les plagiats, sans ralentir le développement de sa technologie, OpenAI a annoncé, en janvier 2023, travailler à l'apposition d'une signature (watermark) sur les contenus générés par son IA afin qu'ils soient identifiables par les enseignants. Néanmoins, cette méthode pourrait être facile à contourner, selon Srini Devadas, professeur en sciences de l'informatique au MIT,,. En outre, les outils permettant de détecter l'utilisation d'outil de génération de texte, comme GPTZero, donnent des résultats mitigés.
+En facilitant la tricherie, ChatGPT suscite des interrogations sur la pertinence des devoirs non surveillés et des évaluations en ligne. Certains professeurs suggèrent de confronter les énoncés au robot avant de les communiquer aux élèves pour s'assurer que ChatGPT ne soit pas capable de les traiter correctement et ainsi obliger les élèves à réfléchir par eux-mêmes.
+Par ailleurs, certains enseignants utilisent eux-mêmes l'outil pour proposer des exercices, notamment des QCM. Une poignée d'entre eux l'utilise également en classe, afin d'apprendre aux élèves à l'utiliser judicieusement et à cerner ses limites. Dans un article d'opinion de février 2023, l'essayiste Vincent Cespedes voit justement en ChatGPT une chance de révolutionner l'École, « à condition d’apprendre à s’en servir correctement, c’est-à-dire en créant au lieu de copier-coller, en tâtonnant au lieu d’ânonner, en expérimentant au lieu de consommer ».
+
+
+=== Risques de suppression d'emplois ===
+En janvier 2023, l'économiste Daniel Susskind (auteur de Un Monde sans travail), invité par France Culture, note que ChatGPT « prend en charge des tâches que l'on pensait réservées aux humains » notamment des « tâches qui nécessitent de la créativité, ou du jugement […] Il faut le voir comme faisant partie d'une tendance beaucoup plus importante : la technologie prend en charge de plus en plus de tâches que nous pensions réservées aux humains. ChatGPT n'en est qu'un exemple. » Selon lui, jusqu'alors les progrès technologiques qui ont supprimé des emplois en ont créé d'autres, mais « cette fois-ci, les choses peuvent être différentes : nos systèmes et nos machines deviennent incroyablement capables, prennent des tâches et activités que nous ne pensions possibles que par des esprits humains experts. [Au point] de raréfier considérablement le travail ».
+En février 2023, les créateurs de ChatGPT publient une liste de 34 métiers, principalement manuels, qui ne possèdent pas de composantes à ce jour susceptibles d'être remplacées par l’IA,.
+
+
+=== Sur les marchés financiers ===
+La société de technologie d'IA c3.ai a vu le cours de son action augmenter de 28 % après avoir annoncé l'intégration de ChatGPT dans sa boîte à outils. Le cours de l'action de Buzzfeed, une société de médias numériques sans rapport avec l'IA, a augmenté de 120 % après avoir annoncé l'adoption de la technologie OpenAI pour la création de contenu. Reuters a constaté que les prix des actions des entreprises liées à l'IA BigBear.ai et SoundHound AI ont augmenté respectivement de 21 % et 40 %, même si elles n'avaient pas de lien direct avec ChatGPT. Ils ont attribué cette montée en puissance au rôle de ChatGPT dans la mode de l'intelligence artificielle à Wall Street. Une recherche universitaire publiée dans Finance Research Letters a révélé que l' « effet ChatGPT » a incité les investisseurs particuliers à faire grimper les prix des actifs de crypto-monnaies liées à l'IA malgré le fait que le marché plus large des crypto-monnaies soit à la baisse, et que l'intérêt des investisseurs institutionnels ait diminué. Cela confirme les conclusions anecdotiques de Bloomberg selon lesquelles, en réponse au lancement de ChatGPT, les investisseurs en crypto-monnaies ont montré une préférence pour les crypto-actifs liés à l'IA. Une expérience menée par finder.com a révélé que ChatGPT pouvait surpasser les gestionnaires de fonds populaires en sélectionnant des actions sur la base de critères tels que l'historique de croissance et les niveaux d'endettement, ce qui a entraîné une augmentation de 4,9 % d'un compte hypothétique de 38 actions, surpassant 10 fonds d'investissement de référence avec une perte moyenne de 0.8 %.
+
+
+=== Confiance dans cette IA ===
+Au regard des Lignes directrices en matière d'éthique pour une IA digne de confiance de la Commission européenne, ChatGPT déroge à beaucoup des 23 critères caractérisant une IA digne de confiance. ChatGPT peut par exemple manquer de précision et de fiabilité, voire désinformer ou affabuler.
+L'utilisation de ChatGPT peut représenter un risque de fuite de données. Par défaut, les données partagées avec ChatGPT peuvent en effet être utilisées plus tard pour son entraînement, et peuvent donc ainsi être compromises si ce sont des données sensibles (sauf avec la version ChatGPT Enterprise, ou si l'historique des conversations est désactivé). Par ailleurs, en mars 2023, un bogue informatique lié au site internet avait valu pendant plusieurs heures à des données personnelles d'utilisateurs d'être exposées à d'autres utilisateurs. Il est aussi arrivé que de faux sites ou logiciels malveillants imitent ChatGPT afin de voler les données de connexion des utilisateurs.
+Les réponses de ChatGPT sont conçues pour être partiellement aléatoires afin d'être plus créatives, ce qui peut poser un problème de reproductibilité. En novembre 2023, OpenAI annonce ajouter un paramètre seed (« graîne ») à son API, permettant aux développeurs informatiques de fixer la valeur de cet aléa et d'ainsi obtenir des résultats reproductibles.
+Le manque de traçabilité comme de citation de ses sources renforce ses prédispositions à l'inexplicabilité, ce qui nuit à sa transparence[réf. souhaitée].
+Il ne respecte pas l'accès aux données privées ni n'en assure l'intégrité et n'est donc pas conforme au RGPD (cf. #Problèmes de droit d'auteur).
+Les mesures prises par OpenAI afin de vérifier en continu la qualité de ses résultats ne sont pas établies. Même si ChatGPT peut sembler être assez neutre sur la question du sexisme, certains biais subsistent. ChatGPT lui-même réfute ces biais ou les minimise. Or, des biais sont inévitablement présents dans ses réponses, du fait de l'absence de participation des divers d'utilisateurs finaux dans la conception de l'IA, ou d'une sélection non rigoureuse de ses sources d'apprentissage[réf. nécessaire]. Cela entre en conflit avec les critères de non-discrimination, d'équité et de diversité.
+Enfin, le risque d'accoutumance, de confusion, d'attachement, de manipulation et donc d'atteinte possible à l'autonomie de ses utilisateurs est souligné, à l'instar de la fiction Her, des expériences amoureuses vécues par des utilisateurs de Replika (en), construit sur GPT-3, ou de cérémonies funéraires organisées par les possesseurs de chiens robots Sony Aibo. Des cas avérés ne sont pas à exclure dans un futur proche du fait d'application déjà existantes[évasif].
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Agent conversationnel
+Apprentissage par renforcement
+Apprentissage supervisé
+Bard (chatbot)
+Google Gemini
+GPT-4
+Grand modèle de langage (LLM)
+Intelligence artificielle
+Intelligence artificielle générative
+Intelligence artificielle digne de confiance
+Traitement automatique des langues (NLP)
+
+
+=== Liens externes ===
+
+Site officiel
+Ressource relative à l'audiovisuel : IMDb 
+
+« Le phénomène Chat GPT, l'intelligence artificielle expliquée par Alexeï Grinbaum », sur France Inter (consulté le 13 décembre 2022)
+(de) Dario Spilimbergo, « Interview mit dem Chatbot GPT » [Audiostream], sur sirup.fm, Université de Zurich et École polytechnique fédérale de Zurich, 23 décembre 2022 (consulté le 23 décembre 2022)
+(en) « Language Models are Few-Shot Learners », arXiv (prépublication),‎ 22 juillet 202 (arXiv 2005.14165).
+L'équipe d'OpenAI responsable du développement du modèle de langage à grande échelle ChatGPT, « Chatting with an AI Model », sur OpenAI Portail de l’informatique   Portail de la robotique   Portail de la linguistique

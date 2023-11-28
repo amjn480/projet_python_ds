@@ -1,0 +1,104 @@
+El zinc o zenc és l'element químic de símbol Zn i nombre atòmic 30. És un metall de transició de primera fila, al grup 12 de la taula periòdica. El zinc és químicament similar al magnesi, car el seu ió té una mida similar i el seu únic estat d'oxidació comú és +2. Zinc és el 24è element més abundant de l'escorça de la Terra i té cinc isòtops estables. El mineral de zinc més explotat és l'esfalerita, o sulfur de zinc; els dipòsits explotables més grans es troben a Austràlia, el Canadà i els Estats Units. La producció de zinc inclou la flotació del mineral, la torrefacció l'extracció final mitjançant l'ús d'electricitat.
+El llautó, un aliatge de coure i zinc, ha estat utilitzat com a mínim des del segle x aC. No es produí metall de zinc impur a gran escala fins al segle xiii a l'Índia, mentre que el metall romangué desconegut a Europa fins a la fi del segle xvi. Els alquimistes cremaven zinc a l'aire per formar el que anomenaven «llana filosofal» o «neu blanca». L'element fou batejat probablement per l'alquimista Paracels a partir del mot alemany Zinke. Se sol atribuir al químic alemany Andreas Sigismund Marggraf el descobriment del zinc metàl·lic pur en un experiment del 1746. El 1800, el treball de Luigi Galvani i Alessandro Volta ja havia revelat les propietats electroquímiques del zinc. El zincatge resistent a la corrosió de l'acer és l'ús principal del zinc. Altres usos són per bateries o aliatges, com ara el llautó. S'utilitzen habitualment una sèrie de compostos de zinc, com ara el clorur de zinc (en desodorants) i el metilzinc o el dietilzinc al laboratori orgànic.
+El zinc és un mineral essencial "d'excepcional importància biològica i per la salut pública". La deficiència de zinc afecta uns 2.000 milions de persones als països en desenvolupament, i està associada amb moltes malalties. En els infants causa un creixement alentit, una maduració sexual retardada, susceptibilitat a les infeccions i diarrea, contribuint a la mort d'uns 800.000 infants arreu del món cada any. Els enzims amb un àtom de zinc al centre reactiu són comuns en la bioquímica, com per exemple l'alcohol deshidrogenasa en els humans. Un consum excessiu de zinc pot provocar atàxia, letargia i deficiència de coure.
+
+
+== Propietats fisicoquímiques ==
+El zinc, també conegut com a zenc quan es presenta en làmines, és un metall diamagnètic llustrós de color blanc blavós, tot i que la majoria de tipus comercials del metall tenen un acabat mat. És una mica menys dens que el ferro i té una estructura cristal·lina hexagonal.És un metall dur i fràgil a la majoria de temperatures però esdevé mal·leable a entre 100 i 150 °C. Per sobre de 210 °C, el metall torna a esdevenir fràgil i pot ser polvoritzat per impacte. El zinc és un conductor elèctric mitjanament bo. Per ser un metall, els punts de fusió (420 °C) i d'ebullició (900 °C) del zinc són relativament baixos. El seu punt de fusió és el més baix de tots els metalls de transició tret del mercuri i el cadmi.La majoria d'aliatges contenen zinc, incloent-hi el llautó, un aliatge de zinc i coure. Altres metalls que se sap des de fa temps que formen aliatges binaris amb el zinc són l'alumini, l'antimoni, el bismut, l'or, el ferro, el plom, el mercuri, l'argent, l'estany, el magnesi, el cobalt, el níquel, el tel·luri i el sodi. Mentre que ni el zinc ni el zirconi són ferromagnètics, el seu aliatge ZrZn₂ exhibeix ferromagnetisme per sota de 35 K.
+
+
+== Aplicacions ==
+La principal aplicació del zinc —prop del 50% del consum anual— és el galvanitzat de l'acer per a protegir-lo de la corrosió, protecció efectiva inclús quan es clavilla el recobriment, ja que el zinc actua com a ànode de sacrifici. Altres usos inclouen
+
+bateries de Zn-AgO usades en la indústria aeroespacial per a míssils i càpsules espacials pel seu òptim rendiment per unitat de pes i bateries zinc-aire per a ordinadors portàtils.
+Peces de fosa injectada en la indústria d'automoció.
+Metal·lúrgia de metalls preciosos i eliminació de la plata del plom.
+En síntesi orgànica, una de les principals aplicacions del zinc és la creació d'enllaços C-C mitjançant la formació de compostos organometàl·lics d'aquest metall. La reacció de Reformatsky i l'acoblament de Negishi són dos exemples d'aquest tipus de reaccions.
+
+
+== Rol biològic ==
+El zinc és un element químic essencial per als humans: intervé al metabolisme de proteïnes i àcids nucleics, estimula l'activitat de més d'un centenar d'enzims, col·labora al bon funcionament del sistema immunitari, és necessari per a la cicatrització de les ferides, intervé a les percepcions del gust i l'olfacte i a la síntesi de l'ADN. El metall es troba a la insulina, les proteïnes amb el motiu dit de zinc (zinc finger) i a alguns enzims com la superòxid dismutasa.
+El zinc es troba a alguns aliments com les ostres, carns vermelles, aus de corral, alguns peixos i mariscos, faves i nous. La quantitat diària recomanada de zinc volta els 10 mg, menys per a nounats, nens i adolescents (pel seu pes corporal més baix) i una mica més per a dones embarassades i durant la lactància.
+La deficiència de zinc pot produir retard del creixement, pèrdua del cabell, diarrea, impotència, lesions oculars i de pell, pèrdua de gana, pèrdua de pes, tardança de la cicatrització de les ferides i anomalies de l'olfacte. Les causes de la deficiència de zinc són la poca ingesta i la mala absorció del mineral —com ara l'alcoholisme, que fa que s'elimini per l'orina,— o per massa eliminació a causa de trastorns digestius.
+L'excés de zinc s'ha associat amb baixos nivells de coure, alteracions en la funció del ferro i disminució de la funció immunològica i dels nivells del colesterol bo.
+
+
+== Història ==
+Els aliatges de zinc s'han utilitzat durant segles —peces de llautó datades en 1000-1400 aC s'han trobat a Palestina i altres objectes amb continguts de fins al 87% de zinc han aparegut a l'antiga regió de Transsilvània— malgrat el seu baix punt de fusió i reactivitat química el metall tendeix a evaporar-se pel que la veritable naturalesa del metall no va ser compresa pels antics.
+Se sap que la fabricació de llautó era coneguda pels romans cap a 30 aC. Plini el Vell i Diògenes Laerci descriuen l'obtenció de aurichalcum (llautó) pel procediment d'escalfar en un gresol una mescla de cadmia (calamina) amb coure; el llautó obtingut posteriorment era fos o forjat per a fabricar objectes.
+La fusió i extracció de zinc impur es va dur a terme cap a l'any 1000 a l'Índia —a l'obra Rasarnava (c. 1200) d'autor desconegut es descriu el procediment— i posteriorment a la Xina i a la fi del segle xiv els indis coneixien ja l'existència del zinc com a metall diferent dels set coneguts en l'Antiguitat, el vuitè metall. El 1597 Andreas Libavius descriu una «peculiar classe d'estany» que havia estat feta a l'Índia i va arribar a les seues mans una petita quantitat a través d'un amic; de les seues descripcions es dedueix que es tractava del zinc encara que no va arribar a reconèixer-lo com el metall procedent de la calamina.
+A occident, cap a 1248, Albert Magne descriu la fabricació de llautó a Europa, i en el segle xvi ja es coneixia l'existència del metall. Georgius Agricola va observar el 1546 que podia rascar-se un metall blanc condensat de les parets dels forns en què es fonien minerals de zinc; afegint en les seues notes que un metall semblant denominat zincum es produïa en Silèsia. Paracels va ser el primer a suggerir que el zincum era un nou metall i que les seues propietats diferien de les dels metalls coneguts sense donar, això no obstant, cap indicació sobre el seu origen. Tot i això, als tractats posteriors les freqüents referències al zinc, amb els seus noms diferents, es referixen generalment al mineral no al metall lliure i a vegades es confon amb el bismut.
+Johann Kunkel el 1677 i poc més tard Stahl el 1702 indiquen que al preparar el llautó amb el coure i la calamina aquesta última es redueix prèviament a l'estat de metall lliure, el zinc, que va ser aïllat pel químic Anton von Swab el 1742 i per Andreas Marggraf el 1746, l'exhaustiu i metòdic treball del qual Sobre el mètode d'extracció del zinc del seu mineral veritable, la calamina va fonamentar la metal·lúrgia del zinc i la seua reputació com a descobridor del metall.
+El 1743 es va fundar a Bristol el primer establiment per a la fosa del metall a escala industrial però el seu procediment va quedar en secret pel que va caldre esperar setanta anys fins que Daniel Dony desenvolupés un procediment industrial per a l'extracció del metall i s'establira la primera fàbrica en el continent europeu.
+Després del desenvolupament de la tècnica de flotació del sulfur de zinc es va desplaçar a la calamina com a mena principal. El mètode de flotació és avui en dia emprat en l'obtenció de diversos metalls.
+
+
+== Abundància i obtenció ==
+El zinc representa aproximadament 75 ppm (0,007%) de l'escorça terrestre, on és el 24è element més abundant. El sòl conté 5-770 ppm de zinc, amb una mitjana de 64 ppm. L'aigua de mar només té 0,03 ppm de zinc, mentre que l'atmosfera en conté 0,1–4 µg/m³.
+A les menes, aquest element se sol trobar en associació amb altres metalls base com ara el coure i el plom. El zinc és un element calcòfil ("que estima el sofre"), cosa que significa que té una baixa afinitat per l'oxigen i prefereix unir-se amb el sofre en sulfurs altament insolubles. Els calcòfils es formaren a mesura que l'escorça se solidificava sota les condicions reductores de l'atmosfera de la Terra primitiva. L'esfalerita, una forma de sulfur de zinc, és el mineral portador de zinc més minat, car el seu concentrat conté un 60-62% de zinc.Altres minerals dels quals s'extreu zinc inclouen la smithsonita (carbonat de zinc), l'hemimorfita (silicat de zinc), la wurtzita (un altre sulfur de zinc) i a vegades la hidrozincita (carbonat de zinc bàsic). Amb l'excepció de la wurtzita, tots aquests altres minerals es formaren com a resultat de l'acció de processos d'erosió sobre els sulfurs de zinc primordials.Els recursos globals de zinc pugen a uns 1.800 milions de tones. Gairebé 200 milions de tones eren econòmicament viables el 2008; afegint-hi les reserves marginalment econòmiques i subeconòmiques, s'ha identificat una reserva base total de 500 milions de tones. N'hi ha dipòsits grans a Austràlia, el Canadà i els Estats Units. Al ritme actual de consum, s'estima que aquestes reserves s'exhauriran en algun moment entre el 2027 i el 2055. El 2002, se n'havien extret uns 346 teragrams (un teragram equival a una megatona) al llarg de tota la història, i una estimació sosté que aproximadament 109 teragrams encara estan sent utilitzats.
+El zinc és el 23è element més abundant en l'escorça terrestre. Les menes més riques contenen prop d'un 10% de ferro i entre el 40 i 50% de zinc. Els minerals dels que s'extrau són l'esfalerita i blenda (sulfur), smithsonita (carbonat), hemimorfita (silicat) i franklinita (òxid).
+A les reserves mundials demostrades, l'explotació de les quals és econòmica, ascendixen a quasi 220 milions de tones i es reparteixen més de la meitat a parts iguals entre Estats Units, Austràlia, Xina i Kazakhstan.
+La producció del zinc comença amb l'extracció del mineral, que pot ser tant a cel obert com en jaciments subterranis. Els minerals extrets es trituren amb posterioritat i se sotmeten a un procés de flotació per a obtenir el concentrat.
+
+
+=== Via seca ===
+Els minerals amb alts continguts de ferro es tracten per via seca: primerament es torra el concentrat per a transformar el sulfur en òxid, que rep la denominació de calcina, i a continuació es redueix aquest amb carboni obtenint el metall (l'agent reductor és en la pràctica el monòxid de carboni que es forma). Les reaccions en ambdues etapes són:
+
+2 ZnS + 3 O₂ → 2 ZnO + 2 SO₂
+ZnO + CO → Zn + CO₂
+
+
+=== Via humida ===
+Per via humida primerament es fa el torrat obtenint l'òxid que es lixivia amb àcid sulfúric diluït; els lleixius obtinguts es purifiquen separant les distintes fases presents. El sulfat de zinc se sotmet posteriorment a electròlisi amb ànode de plom i càtode d'alumini sobre el qual es diposita el zinc formant plaques d'alguns mil·límetres de gruix que es retiren cada cert temps. Els càtodes obtinguts es fonen i es cola el metall per a la seua comercialització.
+Com a subproductes s'obtenen diferents metalls com mercuri, òxid de germani, cadmi, or, plata, coure, plom, etc. en funció de la composició dels minerals. El diòxid de sofre obtingut en la torrada del mineral s'usa per a produir àcid sulfúric que es reutilitza en el lixiviat comercialitzant l'excedent produït.
+
+
+=== Puresa ===
+Els tipus de zinc obtinguts es classifiquen segons la norma ASTM en funció de la seua puresa:
+
+SHG, Special High Grade (99,99% mínim)
+HG, High Grade (99,90% mínim)
+PWG Prime Western Grade (98% mínim)La norma EN 1179 considera cinc graus Z1 a Z5 amb continguts de zinc entre 99,995% i 98,5% i hi ha normes equivalents al Japó i Austràlia. Per a harmonitzar totes elles l'ISO va publicar al2004 la norma ISO 752 sobre classificació i requisits del zinc primari.
+
+
+== Aliatges ==
+Els aliatges més emprats són els d'alumini (3,5-4,5%, Zamak; 11-13%, Zn-Al-Cu-Mg; 22%, Prestal, aliatge que presenta superplasticitat) i coure (al voltant de l'1%) que milloren les característiques mecàniques del zinc i la seua aptitud al modelatge.
+És un component minoritari en aliatges diversos, principalment de coure com llautons (3 a 45% de zinc), alpaques (Cu-Ni-Zn) i bronzes (Cu-Sn) de modelatge.
+
+
+== Compostos ==
+Aproximadament la quarta part del zinc consumit ho és en forma de compost. L'òxid de zinc (ZnO), és el més conegut i utilitzat industrialment, especialment com a base de pigments blancs per a pintura, però també en la indústria del cautxú i en cremes solars. Altres compostos importants són el clorur de zinc (ZnCl₂) (desodorants) i sulfur de zinc (ZnS) - a la natura en forma d'(esfalerita o de wurtzita- (pintures luminescents).
+
+
+== Isòtops ==
+El zinc existent a la natura està format per quatre isòtops estables, Zn-64 (48,6%), Zn-66, Zn-67, i Zn-68. S'han caracteritzat 22 radioisòtops dels quals els més estables són Zn-65 i Zn-72 de període de semidesintegració de 244,26 dies i 46,5 hores respectivament; la resta d'isòtops radioactius tenen vides mitjanes menors de 14 hores i la majoria menors d'un segon. El zinc té quatre estats metaestables.
+
+
+== Precaucions ==
+El zinc metall no és considerat com a tòxic però sí alguns dels seus compostos com l'òxid i el sulfur. En la dècada de 1940 es va observar que en la superfície de l'acer galvanitzat es formen amb el temps «pèls de zinc» (zinc whiskers) que poden alliberar-se a l'ambient provocant curtcircuits i fallades en components electrònics. Aquests pèls es formen després d'un període d'incubació que pot durar dies o anys i creixen a un ritme de l'orde d'1 mm a l'any. El problema causat per aquests pèls s'ha aguditzat amb el pas del temps per haver-se construït les sales d'ordinadors i equips informàtics sobre sòls elevats per a facilitar el cablejat en les que era comú l'ús d'acer galvanitzat, tant en l'estructura portant com en la part posterior dels taulells. Les edats d'aquestes sales, en molts casos de 20 o 30 anys propicien l'existència de pèls en quantitats i longituds perilloses susceptibles de provocar fallades informàtiques. A més, la progressiva miniaturització dels equips disminueix la longitud necessària per a provocar la fallada i els petits voltatges de funcionament impedixen que s'arribi a la temperatura de fusió del metall provocant fallades cròniques que poden ser inclús intermitents.
+
+
+== Notes ==
+
+
+== Referències ==
+
+
+== Bibliografia ==
+
+
+== Vegeu també ==
+Abzug
+Aparell de Kipp
+
+
+== Enllaços externs ==
+Laboratori Nacional de Los Alamos: Zinc Arxivat 2007-06-30 a Wayback Machine. (anglès)
+WebElements.com: Zinc (anglès)
+Història i etimologia del zinc (anglès)
+Estadístiques i informació del Servei Geològic dels Estats Units (anglès)
+Agents reductors: Zinc (anglès)
+Associació Americana del Zinc - Informació sobre els usos i les propietats del zinc (anglès)
+Informació de seguretat sobre el zinc Arxivat 2007-05-21 a Wayback Machine. (anglès)
+
+Viccionari

@@ -1,0 +1,92 @@
+El ISBN (por las siglas en inglés de International Standard Book Number, en español «código Internacional normalizado para libros»)[1]​ es un identificador único para libros.[Nota 1]​ Mediante este sistema, a cada libro se le asigna una cadena alfanumérica única internacional que sirve para identificar datos básicos del objeto tales como título, editorial, tirada, extensión, materia, país, traductor, lengua original, etc. No debe confundirse con el ISSN (International Standard Serial Number, en español «número internacional normalizado de publicaciones periódicas»),[2]​ que corresponde al de las publicaciones periódicas, como revistas y diarios.
+
+
+== Descripción ==
+
+
+=== El ISBN de diez dígitos ===
+Fue creado en 1970 al adoptar el estándar internacional ISO 2108,[3]​ hasta la reforma que entró en vigor en 2007, cada edición y variación (excepto las reimpresiones) de un libro recibía un ISBN compuesto por 10 dígitos de longitud, y dividido en cuatro partes:
+
+el código de país o lengua de origen,
+el editor,
+el número del artículo y
+un dígito de control.Estas partes tienen distintas longitudes y, para mejorar su legibilidad (lectura humana), es conveniente, aunque no obligatorio, que se separen con espacios en blanco o con guiones. Además, se utilizan prefijos para asegurarse de que dos códigos no puedan comenzar de la misma forma.
+En caso de usarse, tiene que estar situado correctamente, el primer guion se colocaba después del primer dígito, el segundo guion era de ubicación variable y el tercer guion después del noveno, justo antes del dígito de control.[4]​
+El código de país era 0 o 1 para países de habla inglesa, 2 para países de habla francesa, 3 para países de habla alemana, etc. El sistema original ISBN carecía del código de país, pero anteponiendo un 0 a un número SBN de 9 dígitos se creaba un ISBN válido. El código de país puede tener hasta 5 dígitos de longitud; por ejemplo, el 99936 se usa para Bután. Se puede consultar la lista de ISBN por países.
+El número del editor es asignado por la agencia nacional del ISBN, y el número del artículo es elegido por el editor.
+Los editores reciben bloques de ISBN más grandes de los que se espera que necesiten; un editor pequeño puede recibir ISBN que consistan en un dígito para el idioma, siete dígitos para el editor y un solo dígito para los artículos individuales. Una vez que termine ese bloque puede recibir otro, con un número de editor diferente. Por tanto, a veces diferentes números de editor corresponden en realidad al mismo.
+El dígito de control de un ISBN de diez cifras se halla mediante un cálculo basado en el módulo 11: Se multiplica cada uno de los nueve primeros dígitos por la posición que ocupan en la secuencia numérica, es decir, el primero por 1, el segundo por dos y así sucesivamente hasta el noveno que se multiplica por 9. Luego se suman estas multiplicaciones y el resultado se divide entre 11. Dicha división dejará un resto entre 0 y 10. Si el resto está entre 0 y 9, este mismo valor es el del dígito de control. Pero si el resto es 10, entonces se establece como dígito de control la letra X.
+
+
+=== El ISBN de trece dígitos ===
+Debido a la escasez existente en ciertas categorías del ISBN, la organización internacional de estándares adoptó implantar un ISBN de trece dígitos desde el 1 de enero de 2007. Esta actualización pone a la par el sistema del ISBN con el sistema de códigos de barras EAN.[5]​ Los ISBN existentes se prefijan con «978» (y el dígito de control será recalculado); cuando se agoten los ISBN «978», se introducirá el prefijo 979. Cabe señalar la poca probabilidad de que coincidan los números de identificación del editor asignados en los ISBN «978» y «979».
+El dígito de control de un ISBN de trece cifras se calcula de un modo diferente al del ISBN de 10 cifras, con un cálculo basado en el módulo 10: multiplicando el primero de los 12 números iniciales por 1, el segundo por 3, el tercero por 1, el cuarto por 3, y así sucesivamente hasta llegar al número 12; el dígito de control es el valor que se debe añadir a la suma de todos estos productos para hacerla divisible por 10 (por ejemplo si la suma es 97, el dígito de control es 3, porque 97 + 3 = 100, que es divisible por 10; si la suma es 86, el dígito de control será 4; si suman 120, será 0; y así en cualquier otro caso).[6]​
+Muchos editores, incluida la editorial Barnes & Noble, han optado por utilizar los ISBN. Pero muchos detallistas prefieren el estándar más universal European Article Number (EAN), puesto que este se aplica a todos los soportes y no solo a los libros.
+
+
+=== Bookland ===
+Bookland es el nombre informal del prefijo de Código Único de País (UCC) asignado en la década de 1980 para los identificadores de Número de Artículo Europeo (EAN) de los libros publicados, independientemente del país de origen, por lo que el espacio de nombres EAN puede mantener un sistema de numeración paralela redundante. En otras palabras, Bookland es un país ficticio que existe únicamente en EAN con el propósito de catalogar geográficamente los libros en el sistema de codificación EAN, que de otro modo tendría una clave geográfica.
+
+
+== Sistemas similares ==
+ASIN: Amazon Standard Identification Number o ‘Número de Identificación Estándar de Amazon’.
+ISMN: International Standard Music Number o ‘Número Musical Estándar Internacional’.
+ISAN: International Standard Audiovisual Number o ‘Número Audiovisual Estándar Internacional’.
+ISSN: International Standard Serial Number o ‘Número Internacional Normalizado de Publicaciones Periódicas’,[7]​ que se utiliza en publicaciones periódicas, como revistas y periódicos.
+IBSN: Internet Blog Serial Number o ‘Número Serie de Blogs de Internet’.
+
+
+== Véase también ==
+ASIN
+European Article Number
+Página especial: fuentes de libros
+Wikipedia:Fuentes de libros
+
+
+== Notas ==
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+
+Lista completa de ISBN (en inglés).
+Como hacer códigos ISBN y EAN.
+Códigos de Barras EAN.
+Consultas al ISBN español.
+Página de ISBN.
+ISBN Chile.
+Buscador de ISBN en Perú.
+Consultas al ISBN argentino.
+Buscador de ISBN en Ecuador.
+Consultas al ISBN en México (Instituto Nacional del Derecho de Autor de la Secretaría de Educación Pública del gobierno mexicano).
+Número Internacional Normalizado de Publicaciones Periódicas.
+Página de ISBN (en inglés).
+Breve resumen sobre el ISBN (en inglés).
+Cómo encontrar un libro desde Wikibooks (en inglés).
+Generador de Código de Barras de ISBN 13 en línea (en inglés).
+Generador en línea de código de barras ISBN (de 10 o 13 dígitos).
+Página para generar códigos IBSN para blogs.
+
+
+=== Agencias nacionales e internacionales ===
+Agencia Internacional de ISBN. Coordina y supervisa el uso del ISBN a nivel mundial (en inglés).
+Agencia argentina del ISBN.
+Agencia peruana del ISBN.
+Agencia del ISBN de España.
+Agencia de ISBN para el Reino Unido y la República de Irlanda Nielsen BookData (en inglés).
+Agencia de ISBN para Estados Unidos y Puerto Rico R. R. Bowker LLC (en inglés).
+Lista de identificadores por grupo Lista de prefijos de idioma y región (en inglés).
+La Agencia del ISBN de Venezuela.
+Agencia ISBN de Ecuador
+Agencia ISBN de Honduras.
+
+
+=== Herramientas en línea ===
+ISBN España Busca de libros editados en España.
+ISBNdb.com Busca libros por ISBN, autor, título, tema, etc.; corrige automáticamente el dígito de control del ISBN si fuera necesario (en inglés).
+ISBN.nu Ofrece búsquedas gratuitas en una base de datos de títulos (en inglés).
+RFC 3187  Using International Standard Book Numbers as Uniform resource names (URN) (en inglés).
+BarcodeRobot  Permite generar códigos de barras a partir de números ISBN format pdf (en inglés).
+Guía de Implementación Para el código ISBN de 13 dígitos (documento pdf en inglés).

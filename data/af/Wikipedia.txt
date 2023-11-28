@@ -1,0 +1,74 @@
+Wikipedia is 'n veeltalige "kopielinkse" ensiklopedie ontwerp om deur enigiemand gelees, verbeter en uitgebrei te word.  Dit berus op samewerkende verandering en onderhoud deur duisende gebruikers deur middel van wiki-sagteware, en word verskaf en ondersteun deur die nie-winsgewende Wikimedia-stigting. Waarnemers beskou die tweeledige bestuur, waarin 'n informele gemeenskap van aktiewe gebruikers die gesag oor 'n globale digitale projek met 'n stigting deel en sodoende formele met informele organisasiestrukture verbind word, as 'n eksperiment wat steeds aan die gang is.Afgesien van tipiese ensiklopedie-inskrywings sluit Wikipedia ook inligting in wat meer algemeen verbind word met almanakke, aardrykskundige woordeboeke en spesialis-tydskrifte, asook dekking van huidige gebeure.
+Daar bestaan tans Wikipediaweergawes in 327 tale en daar is ongeveer 114 000 aktiewe gebruikers (meer as 44 miljoen geregistreerde gebruikers) wat saamwerk aan die Engelse uitgawe van Wikipedia, wat dit moontlik gemaak het om die ensiklopedie in minder as vier jaar te laat groei tot die wêreld se grootste ensiklopedie, tans met meer as sesmiljoen artikels (wat steeds groei teen 'n tempo van duisende per dag). As die weergawes in al die tale bymekaar getel word, bevat Wikipedia meer as 59 miljoen artikels.
+Wikipedia is een van die gewildste verwysingswerwe op die Web, met ongeveer 80 miljoen besoeke per dag.  Wikipedia ontvang lof vanweë die feit dat dit vrylik toeganklik is en 'n wye reeks onderwerpe in diepte dek.  Dit is al gekritiseer vir die potensiaal wat dit het om onakkurate inligting te bevat, die gebrek aan gesaghebbendheid teenoor 'n tradisionele ensiklopedie, vir 'n sistematiese vooroordeel en vir gebreke in die meer tradisionele ensiklopediese onderwerpe. Vandalisme is 'n gereelde probleem, hoewel dit oor die algemeen vinnig opgemerk en artikels maklik en gou herstel word.
+
+
+== Verwante projekte ==
+
+
+=== Taaluitgawes ===
+Sedert 2004 word Wikipedia in baie tale bedryf. Agtien taaluitgawes het reeds meer as eenmiljoen artikels in 2022. Van die taaluitgawes met die meeste artikels sluit in:
+
+Engels 6,545 miljoen
+Cebuano  6,1258 miljoen
+Duits 2,707 miljoen
+Sweeds  3,551 miljoen
+Frans 2,438 miljoen
+Nederlands  2,096 miljoen
+Russies 1,837 miljoen
+Spaans 1,789 miljoen
+Italiaans 1,763 miljoen
+Egiptiese Arabies 1,589 miljoen
+Pools  1,529 miljoen
+Japannees  1,334 miljoen
+Chinees 1,291 miljoen
+Viëtnamees 1,274 miljoen
+Portugees  1,094 miljoenSedertdien vergroot verskeie weergawes, met vele tale met meer as honderdduisend artikels, ook Afrikaans. Sien hier vir die volledige lys, en hier vir 'n volledige tabel van die aantal artikels in elke taaluitgawe.
+
+
+=== Susterprojekte ===
+Wikipedia het die volgende susterprojekte:
+
+WikiWoordeboek (Wiktionary), 'n gratis woordeboek
+WikiBoeke (WikiBooks), 'n gratis handboek
+WikiAanhaling (WikiQuote), 'n gratis ensiklopedie van aanhalings
+WikiBron (WikiSource), 'n stoor van brontekste in enige taal wat in die publieke domein of onder die GFDL vrygestel is
+Wikivoyage- 'n vrye reisgidsIn Februarie 2002 het meeste deelnemers aan die Spaanse Wikipedia nie saamgestem met die rigting van die projek nie, en weggebreek om die Enciclopedia Libre te vorm.
+
+
+== Toekennings en nominasies ==
+
+
+=== 2004 ===
+In Mei 2004 het Wikipedia twee groot toekennings verwerf:  Die eerste was die Golden Nica for Digital Communities, wat deur Prix Ars Electronica toegeken is, tesame met 'n €10 000 vergunning en 'n uitnodiging om 'n toespraak te lewer by die PAE Cyberarts Festival in Oostenryk later daardie jaar. Die tweede was 'n "Beoordeelaars se Webby-toekenning" vir "Gemeenskap" [1] Geargiveer 22 Julie 2011 op Wayback Machine.  Wikipedia is ook genomineer vir 'n "Best Practices" Webby.
+In September 2004 het die Japannese Wikipedia 'n toekenning van die land se grootste Adverteerdersvereniging ontvang. Hierdie toekenning, wat gewoonlik aan individue wat 'n groot bydrae tot die Web in Japannees gelewer het, toegeken word, is namens die projek deur 'n jarelange bydraer in ontvangs geneem.
+
+
+== Sien ook ==
+Afrikaanse Wikipedia
+
+
+== Verwysings ==
+
+
+== Eksterne skakels ==
+Taalneutrale voorblad van Wikipedia
+Afrikaanse uitgawe van Wikipedia
+Wikipedia Frequently Asked Questions
+
+
+=== Verwante werwe ===
+Meta-Wikipedia – Beleid-verwante en tegniese bespreking oor Wikipedia en sy susterprojekte;  sluit 'n handleiding in oor hoe om 'n eie MediaWiki-werf te begin.
+Webwerf van MediaWiki – die sagteware van Wikipedia
+OpenFacts: Kopieë van Wikipedia-inhoud
+Die Wikipedia Cafeshop
+Argief van Wikipedia-persverklarings
+Wikipedia Trofee-uitstalling
+
+
+=== Opstelle ===
+The Free Universal Encyclopedia and Learning Resource deur Richard Stallman (RMS)
+IBM History Flow Geargiveer 3 Junie 2004 op Wayback Machine: Technical experiment on "visualizing dynamic, evolving documents and  the interactions of multiple collaborating authors".  Gebruik verskeie Wikipedia-artikels as voorbeelde.
+Kaplan Andreas, Haenlein Michael (2014) Collaborative projects (social media application): About Wikipedia, the free encyclopedia. Business Horizons, Volume 57 Issue 5, pp. 617–626
+Operation of a Large Scale, General Purpose Wiki Website Geargiveer 4 Februarie 2005 op Wayback Machine, November 2002, deur Lars Aronsson, stigter van susning.nu.
+Coase's Penguin deur Yochai Benkler.

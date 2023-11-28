@@ -1,0 +1,672 @@
+Orange est une société française de télécommunications. Elle comptait à la fin de 2019 près de 266 millions de clients dans le monde, des chiffres en hausse par rapport à ceux affichés en 2018. En 2020, l'entreprise est leader ou second opérateur dans 75 % des pays européens où elle est implantée et dans 83 % des pays en Afrique et au Moyen-Orient.
+Orange était à l'origine une entreprise de télécommunications britannique devenue, en 1999, la filiale de Mannesmann, puis en 2000 celle du groupe France Télécom, entreprise publique. L'ancien monopole public français s'est donc internationalisé à la suite du rachat d'Orange. Le nouveau groupe ainsi créé est présent notamment en Europe, en Afrique et dans les Antilles. À partir du rachat d'Orange, la plupart des marques du groupe France Télécom sont passées sous la marque Orange. Depuis février 2012 et le passage sous la marque Orange des activités de téléphonie fixe, la totalité des offres commercialisées par France Télécom utilise cette marque, qui, le 1er juillet 2013, est devenue la nouvelle appellation du groupe. Orange employait en 2019 près de 148 000 personnes, dont 88 000 en France. 
+En 2018, Orange a réalisé un chiffre d'affaires de 41,391 milliards d'euros pour l'ensemble de ses activités et comptait 266 millions de clients dans le monde dont 201 millions de clients en téléphonie mobile et 18,2 millions de clients haut débit fixe.
+Orange élargit ses activités à la vente de contenu (musique, cinéma, téléchargement…), au commerce électronique, à la publicité en ligne, aux solutions M2M, domotique et de téléassistance.
+
+
+== Histoire ==
+
+
+=== Les télécommunications, service industriel de l'État ===
+
+Durant la Révolution française, en 1792, le premier réseau de communication voit le jour pour permettre d'acheminer rapidement les informations dans un pays en guerre et peu sûr. Il s'agit du réseau de télégraphie optique de Chappe.
+Après l'invention du télégraphe électrique et ensuite du téléphone, l'État français crée en 1878 un ministère des Postes et Télégraphes. Ce dernier annexe bientôt les services du téléphone qui sont nationalisés en 1889. Pourtant, ce n'est qu'en 1923, que le second « T » apparaît, le ministère des P & T devenant celui des PTT.
+En 1941, une direction générale des Télécommunications est créée au sein de ce ministère et en 1944 le Centre national d'études des télécommunications (CNET) a pour mission de développer l'industrie des télécommunications en France.
+Dans les années 1970, la France met les bouchées doubles pour rattraper son retard sur plusieurs autres nations avec le programme « delta LP » (accroissement des lignes principales). C'est à cette époque que fut construite la plus grande partie de la boucle locale. De plus, avec le concours des industriels français sont mis au point par les ingénieurs et chercheurs du CNET la commutation numérique et le Minitel.
+Mention spéciale concernant le GSM et l'apport décisif de l'ancêtre d'Orange et du CNET:
+En 1981, au sein de la CEPT, l'idée d'une norme pan-européenne numérique de 2ème génération -pour en finir avec les systèmes 1G incompatibles entre eux et s'arrêtant aux frontières- fait son apparition. La concrétisation de cette idée a été rendue possible grâce aux efforts conjoints R&D publics des administrations françaises (DGT et CNET formant une équipe projet) et allemandes des postes et télécommunications. Ces efforts ont notamment permis de valider la faisabilité de ce système et de définir les concepts de base du standard GSM (numérique, TDMA, hand over, saut de fréquences, roaming, etc). En 2018, 2 européens, le suédois Thomas Haug et le français Philippe Dupuis, ont co-reçu la médaille IEEE/RSE James Clerk Maxwell pour leur contribution à la naissance de la première norme numérique mobile, le GSM, servant de base à la communication des smartphones. En effet, le GSM 2G a servi de socle à la 3G, 4G et 5G. Ceci fait donc des 2 opérateurs Orange, avec son ancêtre la DGT (Direction Générale des Télécommunications)/France Telecom et de Deutsche Telekom, avec son ancêtre la Deutshe Bunderpost, les co-concepteurs de la téléphonie mobile telle que nous la connaissons. Ce fait méconnu du grand public constitue un des plus grands succès de coopération technique et politique européenne réussie. Il a été créateur de beaucoup de richesses en Europe, les industriels européens ayant un temps d'avance; le reste du monde n'y croyant pas. De nos jours, le marché mondial de la téléphonie mobile, basé exclusivement sur la famille des normes GSM, représente 5% du PIB mondial et plus de 5,4 milliards d'utilisateurs (source GSMA intelligence 2023)
+
+
+=== Création de la société anonyme France Télécom ===
+
+Pour répondre à une directive européenne de mise en concurrence des services de télécommunications (téléphonie fixe principalement), sous forme de parution de son Livre Vert en juillet 1987, la direction générale des Télécommunications est renommée « France Télécom » le 1er janvier 1988.
+La loi no 90-568 du 2 juillet 1990 transforme France Télécom en un exploitant autonome de droit public à partir du 1er janvier 1991. Marcel Roulet en est le premier président. Cette structure est dotée d'une personnalité morale distincte de l'État et acquiert une autonomie financière. Auparavant, le budget des télécommunications était inscrit au sein du budget annexe des PTT voté chaque année par l'Assemblée nationale.
+Le 13 septembre 1995, Michel Bon est nommé président du Groupe France Télécom.
+Pour préparer l'ouverture à la concurrence au 1er janvier 1998, la loi no 96-660 est promulguée en juillet 1996 transformant l'exploitant autonome de droit public en société anonyme au 1er janvier 1997 dont l'État français est le seul actionnaire, créant ainsi l'entreprise nationale France Télécom.
+En 1997, le capital de la nouvelle société anonyme est ouvert avec succès, l'action est vendue 30 euros. Une seconde ouverture aura lieu en 1998 malgré la crise des marchés émergents, puis la bulle Internet qui rend les marchés boursiers euphoriques en 1999.
+
+
+=== Orange, opérateur mobile britannique ===
+En 1990, Pactel Corporation, British Aerospace, Millicom et Matra créent le consortium Communications Microtel avec pour but de développer une offre concurrente à celle de Vodafone au Royaume-Uni. En juillet 1991, Hutchison Whampoa devient actionnaire majoritaire de Microtel en prenant possession de 65 % des parts de la marque.
+En avril 1994, Microtel devient Orange plc et est lancé sur le marché britannique. En 1996, lors de l'introduction en bourse, les principaux actionnaires sont Hutchison Whampoa et British Aerospace détenant respectivement 48 % et 22 % du capital. En juillet 1997, la stratégie de croissance a payé : le cap du million de clients est franchi. L’entreprise présente également le plus faible taux de roulement, affiche de meilleures marges que ses concurrents et obtient d’excellents niveaux de satisfaction de la clientèle[réf. nécessaire].
+En septembre 1998, Orange est lancée à Hong Kong et passe de la quatrième à la première place du marché en six mois.[réf. nécessaire] En 1999, Orange s'implante en Autriche, en Belgique et en Suisse et une concession de licences de marque à Hong Kong, en Australie, en Israël et en Inde à différents opérateurs. En Israël, Orange gagne plus de 400 000 clients lors de la première année[réf. nécessaire].
+Fin 1999, l'allemand Mannesmann annonce l'acquisition d'Orange pour un prix équivalent à 7 900 euros par client soit 33 milliards de dollars US. En comparaison, Deutsche Telekom a versé 3 800 euros par client lorsqu’il a acheté son concurrent One-2-One soit 8,2 milliards de livres sterling. Peu après, Vodafone rachète Mannesmann, une opération conditionnée par la Commission européenne à la revente d'Orange plc.
+
+Frise chronologique d'Orange
+
+
+=== Rachat d'Orange par France Télécom durant la bulle internet ===
+Partie en retard dans le train de l'internationalisation lancé par des concurrents internationaux tels Vodafone, France Télécom se met à chercher des cibles au plus fort de la valorisation des années de la bulle Internet. Cela d'autant plus que son alliance avec Deutsche Telekom, caractérisée par une participation au capital croisée de 2 %, a éclaté lorsque cette dernière a annoncé un projet de rapprochement avec Telecom Italia (finalement abandonné) sans avertir les Français.
+En août 2000, France Télécom rachète Orange plc à Vodafone pour un coût total estimé à 39,7 milliards d’euros. Elle devra elle-même se séparer de la filiale belge d'Orange (intégralement cédée à KPN), puisqu'elle y possède déjà le réseau Mobistar depuis 1996.
+Les activités de téléphonie mobile d'Orange plc sont alors fusionnées avec la majorité des activités mobiles de France Télécom (Itineris, Ola et Mobicarte) constituant le nouveau groupe Orange SA. Le 13 février 2001, Orange SA est introduite à la bourse EuroNext Paris avec un prix d’action unitaire fixé à 10 € avec une cotation secondaire à Londres et, en mai 2001, Orange SA est cotée au CAC 40. Les marques de France Télécom Mobile (Itinéris, OLA, Mobicarte) sont remplacées par la marque Orange (« Mobicarte » devient le nom de l'une des offres d'Orange, et les deux autres disparaissent) en juin 2001.
+France Télécom procède également à de nombreuses autres acquisitions de sociétés (revendues pour certaines) dans le monde, devenant le quatrième opérateur mondial par sa taille (GlobalOne, Equant, Internet Telecom, Freeserve, EresMas, participation dans Wind, NTL, Mobilcom, etc.).
+
+
+=== Groupe France Télécom - Orange ===
+
+
+==== Désendettement ====
+La période d'expansion euphorique tous azimuts de la fin du XXe siècle connut le revers de la médaille en 2002. À la suite de changement de qualification d'une partie de la dette de « long terme » à « court terme » en vue d'obtenir un meilleur taux d'intérêt, les actionnaires s'aperçoivent que, de 2002 à 2005, France Télécom doit rembourser chaque année entre cinq et quinze milliards d'euros de dette.
+Le cours de l'action s'effondre à 6,94 euros le 30 septembre 2002, alors qu'il était à 219 euros le 2 mars 2000. L'entreprise qui avait une capitalisation boursière de 580 milliards d'euros, voit cette dernière chuter à 18 milliards d'euros.
+France Télécom fut obligée d'afficher pour la première fois depuis plusieurs décennies un déficit abyssal à la suite d'investissements hasardeux à l'étranger en vue d'en faire un groupe de taille européenne en préparation de l'ouverture à la concurrence.
+Le 2 octobre 2002, le président-directeur général est Thierry Breton. Il a été appelé pour redresser l'entreprise qui était à ce moment-là, la deuxième entreprise la plus endettée du monde[réf. nécessaire] (quant à la dette à court terme). Il a obtenu quinze milliards de réaménagement de la dette à prendre en charge par les banques et les investisseurs, quinze milliards d'augmentation de capital réclamés à l'État alors actionnaire majoritaire, et quinze milliards de trésorerie à dégager grâce à des économies en interne. Nommé ministre de l'économie, des finances et de l'industrie, il démissionne de France Télécom le 22 février 2005 pour rejoindre le gouvernement.
+Le 21 novembre 2003, France Télécom décide le retrait des 13,7 % du capital d'Orange disponible au sein de la bourse de Paris, en lançant une procédure de retrait obligatoire au prix d'introduction. Ce retrait obligatoire provoque la colère des actionnaires minoritaires représentés par l'ADAM, qui intente un recours contre l'opération,. En 2004, les actionnaires minoritaires perdent leurs recours, et l'action est retirée de la cote le 23 avril.
+L'endettement financier net de France Télécom au 30 juin 2008 en normes IFRS s'élève à 38,2 milliards d'euros, soit un ratio dette nette sur marge brute opérationnelle juste inférieur à 2.
+
+
+==== Privatisation ====
+En septembre 2004, l'État français cède une partie de ses actions pour passer en dessous de la barre des 50 %. France Télécom devient alors une entreprise privée. Cent quinze ans après sa nationalisation, la téléphonie redevient privée en France.
+En juin 2007, l'État français cède à nouveau 5 % de sa participation dans France Télécom. La participation publique (État Français et ERAP) est portée à 27 %. À cette même date, France Télécom revend Orange Pays-Bas et acquiert le fournisseur d'accès espagnol Ya, ainsi que l'opérateur mobile autrichien One.
+En septembre 2014, Bpifrance vend 1,9 % d'Orange, qu'il ne détient plus qu'à 11,6 %. BpiFrance et l'État français possédant 25 % des actions d'Orange.
+
+
+==== Acquisitions et scissions ====
+En 2003, Orange se retire d'Eutelsat, Telecom Argentina, Wind Telecomunicazioni, pour 1,5 milliard d'euros environ.
+En 2005, Orange se retire de l'association qu'il entretenait avec le câblo-opérateur Noos. Orange était jusqu'à cette date chargé de la maintenance du réseau câblé analogique de télévision distribué dans les habitations, puis liquide sa filiale France-Télécom Câble, en réaffectant ses personnels fonctionnaires qui y étaient détachés dans la maison mère, de BITCO, d'Orange Danemark, de STMicroelectronics [réf. souhaitée]. Au Danemark, l'opérateur Orange A/S (anciennement Mobilix, créé en 1997) est vendu à l'opérateur finno-suédois TeliaSonera pour la somme de 600 millions d'euros, payés comptant.
+Le 27 juillet 2005, France Télécom annonce le rachat de 80 % de l'opérateur de téléphonie mobile Amena, détenteur de 24 % de parts de marché en Espagne, pour la somme de 6,4 milliards d'euros dont trois par augmentation de capital. La même année, il se retire de Tower Participations/TDF France, Intelsat, France Télécom Câble, Mobilcom. [réf. souhaitée]En 2006, Orange se retire des Pages Jaunes Groupe et de France Télécom Mobile Satellite Communications. [réf. souhaitée]En 2007, Orange vend sa filiale Orange Pays-Bas.
+En mars 2008, les médias prêtent à France Télécom l'intention de racheter la société scandinave TeliaSonera. Le nouvel ensemble deviendrait le premier opérateur européen. Cette opération sera avortée.
+En 2009, Orange vend à Rue du Commerce sa filiale e-commerce spécialisée dans la vente en ligne de produits et services téléphoniques (boutiques en ligne de France Télécom et d'Orange) et de produits culturels et technologiques (Alapage, Clust, TopAchat…).
+Le 21 septembre 2010, France Télécom rentre au capital (40 %) de Meditelecom (marque Méditel), deuxième opérateur de téléphonie mobile du Maroc (10 millions de clients au moment de l'opération). L'accord prévoit la montée de France Télécom à 49 % du capital d'ici à 2015.
+Fin août 2010, Orange prend une participation de 11 % dans le site de streaming Deezer. L'opérateur propose ainsi à ses abonnés une nouvelle option « Deezer Premium », un service de streaming musical payant, sans publicité et en haute qualité, avec dix-huit millions de titres disponibles.
+Le 25 janvier 2011, Orange annonce l'acquisition de 49 % de Dailymotion, la plateforme de vidéo en ligne française, pour un coût de 58,8 millions d'euros. Le groupe a également posé une option pour acquérir, en 2013, la totalité du capital de la plateforme. Ce rachat illustre la nouvelle stratégie mise en place par Orange qui souhaite proposer à ses abonnés une offre complète de vidéo multi-écrans. C'est via cette acquisition qu'Orange Business Services a développé son offre de VoD entreprise nommée Galerie vidéo.
+En octobre 2011, France Télécom acquiert l'opérateur CCT en République démocratique du CongoEn 2012, France Télécom vend Orange Suisse à Apax Partners pour un montant de 1,6 milliard d’euros ; ainsi que TP Emitel (pl) opérateur polonais de TNT. Le 3 février 2012, Orange annonce la mise en vente des 35 % qu'elle détient dans sa filiale autrichienne.
+En novembre 2013, Orange vend ses activités en République dominicaine à Altice, pour 1,435 milliard de dollars (environ 1,285 milliard d'euros).
+En septembre 2014, Orange acquiert l'opérateur internet espagnol Jazztel pour 3,4 milliards d'euros,.
+Le 15 décembre 2014, BT annonce être entré en discussion pour l'acquisition d'EE pour 12,5 milliards de livres. Le 5 février 2015, Orange et Deutsche Telekom annoncent la signature d'un accord avec BT visant la cession de l'intégralité de leurs parts d'EE, entreprise commune aux deux sociétés au Royaume-Uni. Les deux parties se sont entendues sur une valeur d’entreprise de 12,5 milliards de livres sterling (environ 16,7 milliards d’euros). Ce qui permettra de réunir les 10 millions d'abonnés internet de BT aux 24,5 millions d'abonnées de téléphonies mobile de EE. Dans le cadre de cette opération, Orange et Deutsche Telekom prennent respectivement une participation de 12 % et 4 % dans BT.
+Le 12 janvier 2016, Orange via sa filiale Orange Côte d'Ivoire, acquiert la société CellCom Libéria.
+Le 13 janvier 2016, Orange et Airtel ont signé un accord portant sur l'acquisition par Orange des filiales d'Airtel au Burkina Faso et en Sierra Leone. Au Burkina, Orange est le premier à offrir la connexion internet 3,75G et ensuite la 4G. Orange Burkina est le réseau qui a su révolutionner le numérique dans la gestion de la relation avec sa clientèle.
+Le 8 février 2016, Orange renforce sa présence en République démocratique du Congo en prenant le contrôle de la filiale de Millicom dans ce pays (Tigo RDC : 5,83 millions de clients et Orange : 5,28 millions de clients données au 3e trimestre 2015). Millicom cède Tigo RDC à Orange pour 160 millions de dollars (environ 143 millions d'euros)
+En avril 2016, Orange finalise l'achat de 65 % de Groupama Banque qui prendra à l'horizon 2017 le nom d'Orange Bank. Cette activité bancaire complète sera introduite en France puis en Espagne et Belgique.
+Le 15 avril 2016, Orange annonce l'acquisition à 100 % de l'entreprise de sécurité informatique Lexsi via son entité destinée aux entreprises : Orange Business Services.
+Le 22 juin 2016, le groupe annonce l'acquisition à 100 % d'Airtel Burkina, deuxième opérateur mobile du pays, dont la gestion revient à Orange Côte d'Ivoire. Le Burkina Faso devient ainsi le 20e pays en Afrique et au Moyen-Orient à rejoindre Orange. En juillet 2016, la filiale d'Airtel en Sierra Leone passe également sous le contrôle d'Orange.
+En octobre 2020, Orange annonce la tarification de ses premiers forfaits compatibles 5G. Ceux-ci font suite aux enchères pour l'attribution des fréquences 5G organisée par l'Arcep que l'opérateur se démarque, annonçant même des forfaits 5G opérationnels à partir du mois de décembre 2020.
+En novembre 2020, Orange prend le contrôle de Telekom Romania en rachetant 54% des parts pour 268 millions d'euros. Il s'agit du leader roumain en matière de lignes internet fixes et de télévision payante. Déjà leader du marché des opérateurs mobiles du pays, Orange se dote ainsi de sa propre infrastructure fixe, lui offrant la possibilité de développer son offre en téléphonie et internet fixe et de déployer sa stratégie de convergence (offres d'abonnement global mobile et fixe) comme dans le reste de l'Europe.
+En décembre 2020, Orange SA parle de racheter la part des 47% d'actions qu'elle ne détient pas encore de sa filiale belge Orange Belgique,.
+
+
+==== Convergence sous la marque Orange ====
+Depuis le 1er juin 2006, via le plan NExT, France Télécom tend à commercialiser l'ensemble de ses produits dans le monde sous la seule marque commerciale Orange. Depuis cette date, Orange est la marque unique de France Télécom pour la téléphonie fixe et internet dans le monde, à quelques exceptions près comme Mobistar en Belgique et TPSA en Pologne. Le logo (esperluette) de la marque France Télécom est devenu plus arrondi, la charte (couleur et police) a été modifiée. Une campagne publicitaire mondiale de 200 millions d’euros accompagne cette évolution.
+En septembre 2011, Orange lance Sosh, sa marque low-cost et sans engagement.
+En février 2012, la ligne fixe France Télécom change de nom et devient la ligne fixe Orange. Tous les services d'Orange France portent désormais le même nom. Les sites internet de France Télécom renvoient tous vers les sites Orange. Toutefois, le nom juridique de l'entreprise, sa raison sociale, son adresse, son RCS restent France Télécom SA pour les offres fixe et internet.
+Le changement complet de nom au profit d'Orange est finalement voté lors de l'assemblée générale du 28 mai 2013 avec effet à compter du 1er juillet 2013.
+
+
+=== De France Télécom à Orange ===
+La transition de France Télécom à Orange s'est faite progressivement. Plusieurs étapes clés ont effectivement conduit l'opérateur historique à son opération de rebranding. Tout d'abord, le nom actuel d'Orange prend son origine dans l'opération de rachat d'Orange plc à Vodafone. En 2000, France Télécom effectue plusieurs modifications au niveau de son logo et de sa charte graphique. Cette acquisition conduit, en effet, à l'adoption de l'orange comme couleur dominante. Près d'un an plus tard, d'autres modifications majeures ont lieu au niveau des services de téléphonie de France Télécom. Le 21 juin 2001, les offres de téléphonie mobile Itinéris, Ola et Mobicarte de l'opérateur historique français changent de nom pour devenir  Orange.
+Au mois de juin 2006, les activités internet Wanadoo et de télévision Ma Ligne TV sont également regroupées sous la marque Orange ». Pour sa part, Equant devient « Orange Business Services » (OBS). Au même moment, le logo de France Télécom évolue. Quelques mois plus tard, en janvier 2007, « France Télécom R&D » devient Orange Labs. La « Fondation France Télécom » change par ailleurs de nom et devient la Fondation Orange.
+Dès le début des années 2010, l'opérateur France Télécom communique en tant que Groupe France Télécom - Orange. Les agences France Télécom deviennent d'ailleurs des boutiques Orange. Dans la continuité de ces évolutions, les services de téléphonie fixe de France Télécom sont commercialisés sous la marque Orange au mois de février 2012. C'est le 28 mai 2013 que le changement de nom est voté au cours d'une assemblée générale. La décision, prise avec 99 % de votes favorables, voit le changement de nom devenir effectif à compter du 1er juillet de la même année.
+Dans les années qui suivent, Orange poursuit son évolution à travers différents plans. En octobre 2015, l'opérateur annonce ainsi la construction de 22 000 m2 de bureaux à Lyon et installe 2 000 salariés dans de nouveaux locaux.
+Au cours de l'année 2017, Orange développe son activité procédant à l'achat de « Groupama Bank » qui devient Orange Bank.Le 4 décembre 2019, Stéphane Richard présente le nouveau plan stratégique « Engage 2025 » qui annonce les ambitions du groupe en matière de développement durable, d'égalité numérique et de diversification.
+En avril 2020, dans le cadre de la pandémie de Coronavirus, Orange annonce une baisse du dividende au titre de l'année 2019 à cause des « incertitudes générées par cette crise exceptionnelle ». En juin, Orange est condamné à verser près de 250 millions d'euros de dommages-intérêts à Digicel, un opérateur antillais, pour des pratiques anticoncurrentielles.
+Après une bataille judiciaire de sept ans, l'État français est condamné le 13 novembre 2020 par le Conseil d'État à rembourser à Orange la somme de 2,2 milliards d'euros, montant qui correspond aux 2 milliards d'euros d'impôts que France Télécom a dû payer en 2013 à la suite de la dissolution en 2005 de sa filiale Cogecom, ainsi que les intérêts de cette somme,.
+Stéphane Richard a annoncé sa démission fin 2021, alors que son mandat se terminait au printemps 2022 dans le cadre de sa condamnation dans l'affaire de l'arbitrage entre Bernard Tapie et le Crédit lyonnais. Il sera remplacé au rôle de directrice générale par Christel Heydemann, vice-présidente exécutive pour l'Europe de Schneider Electric, qui prendra ses fonctions le 4 avril 2022.
+Le 7 février 2022, Orange annonce la fin de la commercialisation de son réseau téléphonique historique  ainsi que l'internet via ADSL qui y est lié. En vue d'une consultation publique qui aura lieu jusqu'au début avril 2022, la société a remis à l'Arcep un plan de fermeture progressive de ce réseau qui débutera en 2026 et s'étalera jusqu'en 2030. La totalité des communes utilisant le réseau historique passeront donc sur un réseau de fibres optiques,,.
+
+
+== Activité, résultats, effectif ==
+
+
+== Activités ==
+Orange développe et commercialise cinq grandes familles de services :
+
+les services de communication résidentiels (SCR), c'est-à-dire, la téléphonie fixe, Internet bas débit (par modem), haut débit (par ADSL) et très haut débit (par la fibre optique), la téléphonie IP, la visiophonie, la télévision numérique (la TV d'Orange) et les contenus multimédias (ex : vidéo à la demande) ;
+les services de communication personnels (SCP), c'est-à-dire mobiles ;
+les services de communication d'entreprise (SCE) sous la marque Equant puis Orange Business Services.
+les services bancaires avec Orange Bank
+les services domotiques avec les offres Maison Protégée et Maison Connectée
+
+
+=== Boutiques Orange ===
+Les « boutiques » ont succédé aux anciennes « agences France Télécom ». Orange reçoit son public dans 487 de ces boutiques Orange (chiffre de 2017). Le réseau d'accueil physique est le plus important des quatre opérateurs télécoms français, même si ce nombre est en chute rapide. L'arrivée de Free en 2012 a entraîné la fermeture de 150 boutiques. Il restait encore 917 boutiques en 2014, et 661 en 2016. Ces fermetures sont régulièrement mal ressenties localement,, tandis que l'opérateur explique vouloir aller vers des « smart-stores » qu'il qualifie de « design » et « ludiques ».
+
+
+=== Internet ===
+Orange propose des offres d'accès internet haut débit, ADSL/VDSL et via la fibre optique, ainsi que des services et périphériques multimédias via la Livebox, commercialisée dès 2004 par Wanadoo, produite à l'origine par Inventel et actuellement par Sagemcom. En 2008, 7,3 millions de Livebox étaient louées, soit une augmentation de +12,3 % sur un an. Après deux rebranding de ses offres fixes entre 2012 et 2013, Orange a proposé ses box internet Zen, Play et Jet de 2013 à 2018. La gamme d'abonnements internet du fournisseur d'accès a de nouveau évolué en octobre 2018 avec le lancement des offres Livebox et Livebox Up.
+Au 31 décembre 2010, Orange comptait 13,7 millions de clients ADSL haut-débit dans le monde, dont 67% en France. Dans son baromètre traitant des résultats des opérateurs sur l'année 2020, paru début janvier 2021, nPerf présente Orange comme étant le fournisseur d'accès avec les meilleures performances de l'internet fixe en 2020.
+Orange est l'un des rares opérateurs mondiaux actifs dans la mise en place et l'entretien des câbles sous-marins par lesquels circule l'Internet mondial. Le groupe possède 15% de la flotte mondiale consacrée à ce secteurs.
+
+
+=== Les services personnels / Mobile ===
+
+Orange utilise principalement les réseaux mobiles de 2e, 3e et 4e générations qui sont commercialisés sous la marque Orange.
+Au 31 décembre 2010, Orange comptait 150 millions de clients mobiles dans le monde dont 17,9 % en France.
+Orange est le premier opérateur de télécommunications mobiles en France avec 45,38 % de parts de marché au 2 novembre 2009.
+Il est présent dans vingt-sept pays.
+
+Sources chiffres : rapport annuel 2007 / rapports 1er semestre 2008 - Orange.com
+
+
+=== Services convergents ===
+Orange fonde une partie de sa stratégie dans les services convergents, dont Unik aura été la première manifestation la plus visible. Unik était, jusqu'en septembre 2012, un service développé par Orange, permettant aux abonnés mobile d'utiliser un réseau Wi-Fi pour des appels téléphoniques grâce à des téléphones spécifiques bi-modes GSM/Wi-Fi. En décembre 2010, Orange comptait 300 000 nouveaux abonnés à ce type d'offre.
+Orange propose d'autres services convergents comme un service de téléphonie IP avec ou sans ligne téléphonique France Télécom ou des services nommées « Mes Services Unifiés » permettant un accès à sa messagerie vocale depuis sa boîte de courriel, ou de ses courriels directement depuis le site wap d'Orange.
+
+
+=== Paiement mobile ===
+Orange introduit en Afrique le paiement mobile en 2008 avec un service de transfert d'argent appelé Orange Money.
+En 2014, cinq villes françaises sont sélectionnées (Caen, Rennes, Lille, Nice, et Strasbourg) pour tester l'application de m-paiement Cash pendant une année. L'application est officiellement présentée au public en octobre 2015. Elle fonctionne selon le système de SIM NFC, et constitue un porte-monnaie virtuel que l'utilisateur est libre de recharger, pour pouvoir régler ses achats dans tous les commerces dotés d'un terminal de paiement NFC. Seuls les abonnés Orange bénéficient du service.
+
+
+=== Orange Bank ===
+
+Stéphane Richard annonce sur son compte Twitter le lancement d'Orange Bank le 2 novembre 2017 en France. Contrairement aux services financiers déjà proposés en Afrique axés uniquement sur le paiement mobile, Orange Bank a pour ambition d'être une banque mobile.
+L'application Orange Bank est disponible sur Android et iOS, et est compatible avec les services de paiements Google Pay et Apple Pay.
+En 2023, Orange annonce la fin d'Orange Bank et propose à ses clients de migrer vers Hello bank!, la banque en ligne de BNP Paribas.
+
+
+=== Domotique et téléassistance ===
+Le 16 avril 2019, Orange annonce le lancement de ses offres Maison Connectée et Maison Protégée.
+Maison Connectée remplace l'offre Homelive et permet aux clients de contrôler les objets connectés de leur maison depuis l’application mobile Maison Connectée, disponible sur Android et iOS.
+Maison protégée est une solution de télésurveillance dont l’objectif est de « protéger le domicile et détecter les intrusions », 24h/24, 7j/7.
+
+
+=== Orange ID ===
+En février 2017, Orange lance le service Orange ID, un service B2B permettant à un marchand d'offrir aux utilisateurs un parcours d'enrôlement simplifié. Il permet également à des organisations qui souhaitent ou qui ont l'obligation de vérifier l'identité de leurs utilisateurs de s'assurer que celle-ci est bien réelle. Ces vérifications renforcent la protection de l'identité contre les usages frauduleux.
+
+
+=== Family Go ===
+Orange lance une montre pour enfant connectée et une application qui se nomme Family Go en partenariat avec le constructeur Huawei. Cette montre permet aux parents de géolocaliser leurs enfants et assurer un contrôle. Elle est dotée d'une carte Sim qui permet de passer des appels aux personnes ayant enregistré leur numéro de téléphone au préalable. Les parents pourront recevoir une alerte sur leur smartphone si l'enfant est détecté hors d'une zone de confiance. Une centaine de montres seront testées pendant l'été 2017.
+
+
+=== Orange Business ===
+
+Orange Business (anciennement Orange Business Services) est, depuis le 1er juin 2006, la marque d'Orange spécialisée dans les solutions de télécommunications à destination des entreprises et du secteur public (téléphonie fixe et mobile, transmission de données, Internet, réseaux locaux d'entreprises). Ces services étaient auparavant fournis, en partie, par Equant et plus anciennement en France par Transpac (filiale ayant été intégrée à la maison mère en juin 2006).
+La marque Orange Business est présente dans 166 pays. Elle fournit plus d'un million de professionnels en solutions mobiles, 3 700 multinationales en réseaux et services intégrés sur IP (haut-débit, Internet et VPN entreprise, Toip/voip, téléprésence, cloud…). Les activités de services aux entreprises ont réalisé un chiffre d'affaires de 7,216 millions d'euros en 2010.
+Orange Business, en plus d'être un opérateur de télécommunications, est devenu un véritable intégrateur de solutions (tel IBM) et un opérateur de services avec des offres de cloud comme Flexible Computing ou encore de gestion vidéo entreprise comme Galerie vidéo.
+
+
+=== Orange International Carriers ===
+Cette entité regroupe les activités de vente et d’achat en gros à l'étranger de trafic de communication entre opérateurs, appelée aussi « Wholesale », et des activités telles que les contenus, l’audience ou la santé. Les clients d'Orange IC sont notamment les opérateurs mobiles du monde entier. Orange IC fournit des offres comme le « Roaming Hub » qui simplifie les accords d’itinérance entre opérateurs mobiles, « @first » première offre globale antifraude, ou « Multiservice IP eXchange » optimisant l’efficacité des interconnexions.
+
+
+=== Orange Wholesale France ===
+Orange Wholesale France (anciennement DIVOP et OPFR) réunit les activités en France de ventes et d'achats en gros Fixe et Mobile du Groupe Orange. Il s’agit de la revente en gros de services de communications électroniques fixes ou mobiles à des clients opérateurs (qualifiés d’opérateurs alternatifs), qui ont besoin d’acheter des offres de gros afin de vendre des services aux entreprises ou au grand public, pour leurs propres besoins sur les marchés de détail.
+Les clients d’Orange Wholesale France sont les opérateurs généralistes, les opérateurs Entreprises dont les clients sur le marché de détail sont des Entreprises nationales et/ou internationales, des prestataires IT, des SSII, des opérateurs de service et des sociétés de conseil, des fournisseurs de solutions cloud, des hébergeurs, des distributeurs, des installateurs, des opérateurs d'infrastructures, des Fournisseurs d'Accès Internet — FAI locaux, des Réseaux d'Initiative Publique — RIP, des opérateurs de réseaux mobiles virtuels — MVNO, des Mobile Virtual Network Aggregator — MVNA, des opérateurs mobiles étrangers avec qui sont notamment signés des accords de Roaming et des opérateurs couvrant les marchés d'outremer.
+
+
+=== Contenu ===
+Orange a développé à partir de 2003 une stratégie autour de l'acquisition, la création et la diffusion de contenus. Engagée en 2003 avec la création de MaLigne.tv, renommée depuis La TV d'Orange, un service d'accès à la télévision par ADSL et un service de vidéo à la demande. En 2004, Orange met en place un service d'accès à la télévision pour téléphone portable. En 2007, Orange crée le Studio 37, puis en 2008 signe un partenariat avec France Télévisions pour la diffusion en différé des émissions de la chaîne et la mise en service de chaînes thématiques autour du sport, du cinéma et des séries. Baptisée en 2008 « Content everywhere », la stratégie d'accès aux contenus a été annoncée en même temps que le lancement des chaînes de télévisions Orange cinéma séries, et vise à proposer à ses clients d'avoir accès à l'ensemble de leurs contenus partout depuis n'importe quel matériel.
+
+
+==== Sites et Portails ====
+Orange conçoit également d'autres sites internet comme le moteur de recherche Voila développé par la société Echo, et rachetée par Wanadoo en 2001, ou le site web de jeux vidéo Goa. La publicité sur les sites appartenant à Orange est assurée par Orange Publicité, membre du réseau Ad Europe. Les portails Internet du groupe sont gérés par un GIE, le GIE Orange Portails. Depuis avril 2009, à la suite d'un partenariat avec la Wikimedia Foundation, le portail Orange accueille une version de Wikipédia, sans possibilité d'édition, et où des publicités sont ajoutées.
+Orange développe actuellement de nouveaux portails internet de type Web 2.0 avec Pikeo et Bubbletop destinés à être accessible depuis Internet et des terminaux mobiles ou TV. Il possède également une participation dans le groupe multimédia orienté sur le sport Sporever.
+Par ailleurs, Orange consacre des sites aux évènements dont elle est partenaire avec, par exemple, le blog Orange dans le Tour sur les coulisses du Tour de France et le site Orange Rugby dans le cadre de la Coupe du monde de rugby.
+
+
+==== Droits de diffusions ====
+
+
+===== Sports =====
+
+Le 13 novembre 2008, Orange obtient de la Fédération française de football les droits exclusifs de diffusion des matchs du samedi soir, le lot « magazine » VoD et le lot mobile (extraits et résumés, diffusion en direct) en ligue 1,,.
+SFR (filiale de Vivendi) et Free accusent alors Orange de vente liée, car les chaînes d’Orange sont disponibles uniquement si l’on est abonné à cet opérateur. Un premier jugement du tribunal de commerce, le 23 février 2009, considère en effet cette offre comme illégale mais, le 14 mai 2009, un second jugement en appel considère que l’offre d’Orange sport ne relève pas de la vente liée et Orange reprend la commercialisation de la chaîne dès le lendemain.
+Six mois après son lancement, Orange Foot est renommée Orange sport. En effet, Orange a enrichi la grille de programmation de la chaîne. Les programmes liés au Football restent majoritaires (le championnat français est complété par une partie des rencontres du « Calcio » italien) mais d’autres sports se greffent peu à peu à la grille des programmes (matchs de Division 1 de handball, rugby : Top14, NBA…) football, rugby, handball, basket…
+Orange a également profité de cette transition pour baptiser ses deux chaînes événementielles sur les canaux 98 et 99, Orange Sport Event 1 et Orange Sport Event 2. À l’occasion, ces derniers diffusent en direct des évènements sportifs comme le Bol d’Or.
+Cette chaîne n'existe plus depuis l'été 2012.
+
+
+===== Cinéma =====
+
+Le 13 novembre 2008, Orange lance cinq chaînes Orange Cinéma Séries, plus une chaîne interactive qui permettra pendant 30 jours, via un système de VoD de revoir ses films commandés. En lançant celles-ci, le groupe français achète les droits exclusifs auprès de Warner Bros de tous les nouveaux films en première exclusivité, jusque-là détenus par TPS Star (filiale de groupe Canal+), ainsi que tous les films du catalogue et les droits pour les catalogues de Gaumont, HBO et MGM. Ces cinq chaînes sont thématisées (grand spectacle, cinéma d'action, indépendant, films de légende…). Orange s'est également associé ou a acquis certains droits de diffusions du festival de Cannes, du festival de Glastonbury, Festival du cinéma américain de Deauville, du festival du film asiatique de Deauville, ainsi que la British Academy of Film and Television Arts.
+
+
+==== Vidéo à la demande et stockage distant ====
+
+Orange propose un service d'accès à des vidéos à la demande grâce au décodeur d’Orange, un ordinateur ou un téléphone portable. Parmi le catalogue d'œuvres disponibles, Orange propose des émissions de France Télévision, de M6 et de TF1 gratuitement pendant une semaine après leur diffusion initiale.
+Le Home Library est un disque dur réseau qui permet de sauvegarder des fichiers et d'y avoir accès à distance.
+Lundi 25 juillet 2016, Orange et Canal + lancent une offre commune pour que certains abonnés fibres d'Orange bénéficient sans surcoût d'un bouquet de chaînes payantes de CanalSat.
+
+
+==== Jeux en ligne ====
+
+En 1997, France Télécom crée Goa, une filiale spécialisée dans les jeux vidéo en ligne. Le site a été lancé comme une plateforme de mise en relation des joueurs de jeux en ligne massivement multijoueur. En 2002, Goa acquiert la licence d'exploitation de Dark Age of Camelot. En 2007, Goa cesse d'être une filiale et intègre Orange. En 2009, Orange recentre l'activité de goa.com sur les jeux vidéo en ligne et cesse progressivement l'exploitation des jeux massivement multijoueur. En août 2010, goa.com disparaît et devient le portail Orange Jeux.
+
+
+==== Musique ====
+Orange Radio : créé par Orange en 2008, Liveradio, devenu "Orange Radio", est un service gratuit d’écoute de radios IP en streaming, en direct et à la demande. Le service permet aux utilisateurs d’avoir accès à plus de 33 000 stations (radios FM et webradios) et 6 000 podcasts issus de cent pays différents.
+
+
+==== Culture ====
+Orange Expo Musées : existant depuis 2012 sous la forme d'un site web et depuis octobre 2013 sous la forme d'une application iOS, Orange Expo Musées a pour but de permettre à Orange de prendre la parole sur le sujet des musées autrement que par des actions de mécénat. Ce service propose à ses utilisateurs des fiches musées et expositions, un système de géolocalisation et une section actualités.
+
+
+==== Djingo ====
+En 2017, Orange présente lors de son « Show Hello » Djingo, son assistant vocal concurrent de Amazon Alexa, Google Assistant ou encore de Ok freebox. Par la suite, cet assistant est implémenté dans l'application Orange Bank afin d'aider les clients à traiter les demandes les plus courantes concernant leur compte bancaire.
+L'assistant Djingo se fonde sur l’intelligence artificielle Watson, développée par IBM. Il est développé en partenariat avec Deutsche Telekom.
+L'enceinte connectée Djingo est commercialisée à partir du 13 novembre 2019 et offre également la possibilité d'utiliser Alexa. Après un peu moins d'un an de commercialisation, en octobre 2020, le produit est abandonné par Orange. Il tient donc moins d'un an dans les boutiques. La commercialisation a été qualifiée de chaotique par la presse.
+Les compétences acquises en matière d'interfaces vocales devraient être mises à profit dans d'autres programmes de l'entreprise, comme les box Internet ou la commande vocale de la télévision.
+
+
+=== Les services « publics » ===
+Orange est l'actuel gestionnaire du Service universel des télécommunications.
+Orange gère à ce titre les cabines téléphoniques, dont le nombre est en chute libre depuis le pic de 1996. Elles seront toutes supprimées avant la fin de l'année 2018.
+Les premières cabines téléphoniques sont apparues à Paris en 1884, et sont progressivement répandues sur le territoire, jusque dans les années 1990, date de développement puis d'explosion de la téléphonie mobile qui a entraîné le déclin pour cause de non rentabilité de ces cabines : ainsi en 1996, il y en avait 290 000 en France ; en 2009, il y en a 153 000. Au début des années 1990, certains TGV ont même été équipés de cabines.
+
+
+=== Autres filiales et participations ===
+
+Principales filiales et participations du groupe Orange :
+
+Nordnet, entreprise française de télécommunications rachetée en 1998, propose aux particuliers et aux entreprises des solutions numériques plurielles : accès Internet très haut débit (fibre, satellite, 4G, ADSL/VDSL, radio), l'enregistrement et la gestion de noms de domaine, des solutions de protection informatique comme sa suite de sécurité antivirus Securitoo et son VPN Securitoo freedome, des offres de téléphonie mobile, ainsi qu'un service TV pour ses clients. La société Nordnet est spécialisée dans les technologies de connexion Internet transitionnelles (Internet par satellite, par radio ou par 4G), et propose ses services sur l'entièreté du territoire de France métropolitaine.
+StarAfrica.com, société anonyme, filiale spécialisée à l'animation de StarAfrica.com, portail web généraliste panafricain en français et en anglais[réf. souhaitée].
+W-HA, filiale détenue à 100 % qui développe des services d'achats sur internet et internet mobile débités directement sur la facture du client abonné à un fournisseur d'accès (Internet+).
+Orange Advertising Network, régie dont la mission est de commercialiser et valoriser l'ensemble des espaces publicitaires présents sur les sites web (Orange, Cityvox, Voila, etc.), les sites/applications mobiles et la télévision d'Orange (Orange Sports et Orange Sports Info).
+Orange Cyberdefense regroupe, depuis 2016, l’ensemble des activités cybersécurité du Groupe Orange destinées aux entreprises. Avec un CA de 250 millions d'euros en 2016 et une croissance annuelle de plus de 25 %. Sa vocation est de sécuriser les actifs de ses clients à travers le monde. Fort d’un effectif de plus de 1 200 collaborateurs répartis dans les plus grandes villes de France et à l’étranger, il accompagne les entreprises et les administrations dans la conception de leurs stratégies de cybersécurité, leur mise en œuvre et leur gestion opérationnelle. Orange Cyberdefense s'est constitué par les acquisitions successives des sociétés Atheos (FR), Lexsi (FR), SecureData (RU) et SecureLink (NL).
+Orange Applications for Business, rattachée à Orange Business Services possédant plusieurs filiales (réseau, ingénierie logicielle, labs, suivi de flottes de véhicules, villes intelligentes, santé). Elle s'est constituée par les acquisitions successives de IT&Labs, FIME, Data Mobile International, Multimédia Business Services, Alsy Development, Ocean, Enovacom, Groupe Business & Decisions.
+Sofrecom, filiale à 100 %, cabinet international de conseil en télécommunications qui accompagne les opérateurs télécoms, les gouvernements, les investisseurs et les bailleurs de fonds internationaux en intervenant sur l’ensemble des domaines de compétences nécessaires à leur développement : business development, management et processus, marketing et distribution, systèmes d’information, réseaux et services.
+Orange Marine, réalisation et exploitation des réseaux maritimes d'Orange (pose de câbles et liaisons fibres optiques sous-marines…).
+Orange Consulting, filiale à 100 %, est le pôle conseil aux grandes entreprises et administrations. Les missions de conseil portent sur l'impact des technologies et des innovations pour accroître la performance des entreprises. Les domaines majeurs sont la gestion de la relation client, les processus internes de l'entreprise (Machine to Machine, travail collaboratif), la transformation IP, la performance applicative, la sécurité et la gouvernance des systèmes d'information.
+Orange Lease (FranceTel), société anonyme spécialisée dans le crédit. Cette filiale est destinée à proposer des solutions de crédit aux salariés, mais également pour les offres de financement de matériel Orange (location PC + accès internet).
+Orange Télésurveillance, filiale liée aux activités de maison connectée et de télésurveillance du domicile.
+Viaccess-Orca, filiale à 100 % qui développe un système de chiffrement d'offres télévisuelles numériques.
+Globecast, filiale à 100 %, est l'un des principaux fournisseurs mondiaux de services de numérisation, d’agrégation, de transmission et de reformatage de contenus audiovisuels destinés à alimenter des plates-formes de télévision par satellite, Télévision Numérique Terrestre, réseaux câblés, TV sur IP, TV sur PC, TV sur mobiles ou encore des réseaux d’Affichage Audiovisuel Dynamique. Globecast est présent en Amérique, en Europe, en Asie, en Afrique, au Moyen-Orient au travers dix-neuf points de présence dont quinze téléports et centres techniques.
+Orange Energia Sp. Z.O.O, société polonaise, filiale à 50,67 %, distributeur d'énergie sur le marché polonais.
+BuyIn, une coentreprise entre Orange (50 %) et Deutch Telekom (50 %), destinée à l'achat (« procurement » en anglais).
+Wizway Solutions, filiale à 25%, spécialisé dans le titre de transport et la billetique dématerialisés.
+Future4care, un incubateur pour start-up et un institut de la santé numérique, en partenariat avec Capgemini, Generali et Sanofi.
+
+
+== Implantations ==
+Orange est présent à la fois sur de nombreux marchés et dans de nombreux pays. Ces marchés/pays sont regroupés par Orange selon trois thématiques :
+
+entreprises (PME, PMI, administrations, multinationales…) ; ce marché est développé par l'entité Orange Business Services (OBS) présente dans plus de 160 pays ;
+services aux autres opérateurs de télécommunication ; ce marché est développé par l'entité Orange International Carriers (OIC) à destination des opérateurs de télécommunication du monde entier ;
+« Pays » (pas de nom officiel) où Orange ou une filiale de rang N est opérateur d'une licence mobile ou opérateur d'une licence mobile et fixe (éventuellement universelle). Hors champs de OBS et OIC.Orange est présente au 05 mars 2023 dans 26 pays,,, mais a vocation à recentrer son activité sur des zones géographiques prioritaires, notamment en Afrique.
+
+La marque Orange est (ou était) utilisée sous licence par d'autres opérateurs qui n’appartiennent pas (ou plus) à Orange :
+
+
+=== Anciennes implantations ===
+Orange Thaïlande a été cédé en mars 2004.
+Orange Danemark est cédé à l'opérateur TeliaSonera en juillet 2004.
+Orange Pays-Bas a été cédé à l'opérateur Deutsche Telekom en 2007.
+Orange Autriche a été cédé en 2012.
+Orange Suisse a été cédé en 2012, y compris sa filiale au Liechtenstein.
+La participation dans Optimus (Portugal) a été cédée en 2013.
+Orange Dominicana (République dominicaine) a été cédée le 9 avril 2014 à Altice.
+Orange Ouganda a été cédé à Africell Holding (19 mai 2014).
+Orange et Deutsche Telecom cèdent leur co-entreprise Everything Everywhere (fusion entre Orange UK et T-Mobile UK) à BT.
+Orange Arménie a été cédée le 7 août 2015 au fournisseur d'accès internet arménien UCOM. Orange à cette date employait 500 personnes et avait 630 000 clients. Orange était dans ce pays depuis le 5 novembre 2009.
+Telkom Kenya a été cédé au fonds d'investissement Helios Investment Partners le 9 novembre 2015.
+La licence de marque Orange n'est plus utilisée par l'entreprise Partner en Israël le 5 janvier 2016.
+
+
+=== Europe ===
+Orange est présent dans 8 pays d'Europe :
+
+ Belgique au travers d'Orange Belgique, détenue à 52,9 %.
+ Espagne.
+ France métropolitaine et ses DOM (Guadeloupe, Martinique, Guyane, Saint-Barthélémy, Saint-Martin, La Réunion et Mayotte).
+ Luxembourg à travers Orange Communications Luxembourg, filiale à 100 % d'Orange Belgique, acquise en juillet 2007.
+ Moldavie.
+ Pologne.
+ Roumanie.
+ Slovaquie.
+
+
+==== Espagne ====
+Orange España est la filiale locale d'Orange en Espagne. Elle a réalisé en 2010, un chiffre d'affaires de 3,821 milliards d'euros. Au 30 juin 2011, Orange Spain fournit 12,2 millions de clients en téléphonie mobile, dont 6,7 millions de clients haut débit mobile 3G, soit 20,1 % du marché espagnol et 1,2 million de clients haut débit ADSL.
+En 2017, elle a réalisé un chiffre d'affaires record de 5,4 milliards d'euros, avec une progression du chiffre d’affaires de +7,1 %, par rapport à l'année 2016. Au 21 février 2018, Orange revendique 175 000 ventes nettes dans la fibre pour le seul quatrième trimestre 2017. Concernant les forfaits mobiles, le groupe revendique 61 000 ventes nettes pour la même période.
+Orange est également présent en Espagne au travers des marques amena.com, Jazztel, Simyo et República Móvil.
+En août 2015, Orange finalise son OPA sur l'opérateur fixe et FAI Jazztel.
+
+
+==== France ====
+La France est le premier marché quant au chiffre d'affaires pour Orange avec 23,308 milliards d'euros réalisés en 2010, soit 51 % du chiffre d'affaires du groupe. Au 30 juin 2011, Orange compte 26,7 millions (24,238 en 2008) de clients pour la téléphonie mobile dont 15,2 millions (8,232 en 2008) de clients mobile haut débit et 23,1 millions de clients téléphonie fixe. Par ailleurs au 31 mars 2008, 1,511 million de clients MVNO utilisent également le réseau d'Orange France. Au 31 décembre 2012, Orange avait 9,9 millions de clients haut débit fixe en France et une augmentation de 3 % sur l'ensemble de l'année. Parmi ces clients, 176 000 accès sont en fibre optique. Au 31 mars 2008, il avait 5,630 millions d'utilisateurs de Livebox en location, 4,649 millions de clients abonnés aux services voix sur IP et 1,282 million de clients à la télévision sur ADSL. Orange a annoncé déployer un réseau de fibre optique FTTH dans plusieurs villes de France.
+Le 21 février 2018, Orange publie les résultats de l'exercice 2017. Elle annonce un chiffre d'affaires de 18,1 milliards d'euros pour la France, en hausse pour la première fois depuis l'année 2009. Orange revendique également 546 000 ventes nettes en 2017 pour la fibre. Au 31 décembre 2017, l’opérateur compte ainsi 2 millions de clients fibre en France. Les ventes de forfaits mobiles sont aussi élevées, avec 826 000 ventes nettes réalisées dans l'année pour les opérateurs Orange et Sosh.
+La France est également le pays comptant le plus grand nombre d'employés Orange avec 60,1 % des effectifs travaillant en France. Orange compte 1 200 boutiques ouvertes en France.
+
+
+==== Pologne ====
+
+Orange est présent en Pologne au travers de sa filiale et opérateur historique Telekomunikacja Polska devenue en 2013 Orange Polska. Orange a réalisé en 2010, 3,934 milliards d'euros de chiffre d'affaires en Pologne. Au 30 juin 2011, Orange fournit 14,5 millions de clients en téléphonie mobile, dont 7,7 millions de clients haut débit mobile 3G, et 7,6 millions de clients en téléphonie fixe et internet, dont 2,3 millions de clients haut débit résidentiel.
+
+
+=== Dans les Caraïbes ===
+Orange est présent dans les DOM français (Guadeloupe, Martinique, Guyane, Saint-Barthélémy, Saint-Martin).
+
+
+=== Asie/Océanie ===
+ Vanuatu au travers de Mauritius Telecom dont Orange est actionnaire.
+
+
+=== Moyen-Orient ===
+ Jordanie.
+ Irak.
+ Arabie saoudite
+
+
+=== Afrique ===
+Orange est présent en Afrique au sein de 18 pays. Depuis 2008, le groupe déploie Orange Money, un service de banque mobile, qui est présent dans quatorze pays d'Afrique et du Moyen-Orient en 2013 :
+
+ Bénin.Une installation en cours se fait au Bénin par le biais de la SBIN : Société Béninoise des Infrastructures Numériques.
+
+ Botswana.
+ Burkina Faso. Cameroun.
+ Côte d'Ivoire.
+ Égypte.
+ Guinée-Bissau.
+ Guinée. Guinée équatoriale.
+ Liberia. Madagascar.
+ Mali.
+ Maroc. Maurice.
+ Niger.
+ République centrafricaine.
+ République démocratique du Congo.
+ Sénégal.
+ Soudan Sierra Leone.
+ Tunisie.
+plus les DOM français (La Réunion et Mayotte).Répartition des clients des opérateurs mobiles Orange en Afrique :
+
+Orange a réalisé en Afrique et au Moyen-Orient 3,212 milliards d'euros de chiffre d'affaires en 2010.
+
+
+== Actionnariat ==
+France Télécom, devenue Orange, est une société anonyme dont le capital de 10 640 226 396 euros (au 25 novembre 2016) est réparti de la façon suivante :
+
+Actionnaires institutionnels : 67,2 % ;
+État français (dont ERAP puis Fonds stratégique d'investissement qui détient 17,77 %) : 25,07 % ;
+Actionnaires individuels : 5,0 % ;
+Deutsche Bank : 5,07 % ;
+Salariés : 3,7 % ;
+Auto-détention : 0,4 %.Les salariés actionnaires sont regroupés au sein de deux associations : l'ADEAS et l'AASGO.
+Le groupe Orange compte, fin 2013, près de 800 000 actionnaires individuels, détenant seulement 5 % du capital (cf. supra).
+En application de la loi no 2003-1365 du 31 décembre 2003 et du décret no 2004-387 du 3 mai 2004, et depuis la cession par l’État français de 10,85 % supplémentaires du capital de France Télécom intervenue le 7 septembre 2004, les procédures spécifiques de contrôle de France Télécom par l’État ne sont plus applicables. Néanmoins, en application du décret-loi du 30 octobre 1935, le Conseil d’administration doit encore comprendre des représentants de l’État au prorata de la quantité des actions France Télécom détenues par ce dernier. En 2009, l’État disposait ainsi de trois représentants sur un total de quinze membres au Conseil d’administration de France Télécom.
+
+
+== Recherche et développement ==
+
+En 2010, Orange a consacré 1,9 % de son chiffre d'affaires, soit 845 millions d'euros, au financement de la recherche et développement. Depuis janvier 2007, Orange a unifié ses laboratoires de recherches et ses technocentres au sein du réseau Orange Labs. Orange est au 31 décembre 2010 le détenteur d'un portefeuille de 7 892 brevets, dont 327 déposés en 2010. Au sein de l'ensemble des infrastructures, Orange emploie 3 700 personnes dans la recherche et développement, et plus de 200 doctorants et post-doctorants par an.
+La recherche et développement d'Orange s'appuie sur des partenariats avec des industriels, des fournisseurs et opérateurs (China Telecom, Deutsche Telekom), des universités et des écoles (Telecom ParisTech, IMT Atlantique, Telecom SudParis, Telecom École de Management, Supélec, École normale supérieure, ESSEC, Université Paris-Descartes, École polytechnique, Massachusetts Institute of Technology, Beijing University of Post and Telecom, Imperial College London, INSA Lyon, INSA Rennes (France), ESIR), des instituts académiques (Bibliothèque nationale de France, CNRS, INRIA) et des programmes de recherche (Agence nationale de la recherche).
+
+
+=== Infrastructures ===
+Deux types d'infrastructure coexistent au sein de la recherche et développement d'Orange, les laboratoires de recherche et le Technocentre Orange. Ces derniers sont chargés du développement des innovations d’Orange, ils sont composés d'équipes mixtes de chercheurs, d’ingénieurs et de commerciaux. Ils sont situés pour les technocentres à Châtillon, Londres, Varsovie, Amman et Abidjan et pour la R&D à Madrid, San Francisco, Pékin, Le Caire, Tokyo, Issy-les-Moulineaux, Caen, Inovallée-Grenoble, Rennes, Lannion, Sophia Antipolis, La Turbie et Belfort.
+
+
+== Investissement en capital-risque ==
+En 2012, Orange établit avec Publicis le fonds d'investissement Orange Publicis Ventures, qui prend une soixantaine de participations dans des entreprises technologiques européennes telles que Netatmo, Mister Auto ou encore Scality. Un second fonds d'investissement commun, IrisNext, voit le jour en 2015, abondé de 150 millions d'euros investis à parts égales par Orange et Publicis.
+En 2015, Orange annonce la création de son propre fonds d'investissement sous le nom d'Orange Digital Ventures, doté de 20 millions d'euros la première année, destiné à investir au moyen de tickets minoritaires dans des startups du numérique en phase d'amorçage.
+En janvier 2021, le fonds rebaptisé Orange Ventures reprend les actifs d'Orange Digital Ventures. Doté de 350 millions d'euros, le fonds présent à Paris et à Dakar souhaite investir dans des entreprises technologiques des secteurs de la connectivité, cybersécurité, entreprise digitale ou des services financiers et de la e-santé, à différents stades de maturité, au moyen de tickets allant jusqu'à 20 millions d'euros. En juin 2021, Orange Venture lance le fonds Orange Ventures Impact doté de 30 millions d'euros afin d'investir dans les start-up tournées vers l'environnement et le social.
+
+
+== Organisation du groupe ==
+
+
+=== Organisation historique ===
+
+En 1941, la loi de l'État français du 9 février 1941 relative à l'organisation du Secrétariat général des Postes, Télégraphes et Téléphones crée la Direction des Télécommunications : l'exploitation téléphonique et l'exploitation télégraphique sont regroupées au sein d'une même direction, et le terme « télécommunications » apparaît officiellement dans l'organigramme administratif. Son premier Directeur des Télécommunications, Charles Lange, est nommé cette même année. Il le restera jusqu'au 31 mai 1951. Auparavant, dans chaque bureau de poste de France, dans chaque département du pays, n’existe qu’un service du téléphone, qui n’était alors qu’un service lambda parmi les autres services postaux.
+En 1946, la Direction générale des Télécommunications est créée le 10 mai 1946 par Décret 46-1016 du 10 mai 1946 du Gouvernement provisoire de la République française. Charles Lange est alors maintenu en place, son action de Résistant ayant pesé. Le réseau téléphonique a besoin d'être reconstruit, mais le pays est ruiné par quatre années d'occupation et à la suite de la première réduction des crédits intervenue à partir de 1934, conséquence indirecte de la Grande Dépression de 1929 née aux États-Unis, le retard téléphonique français ne pourra plus être rattrapé avant une trentaine d'années.
+En 1967, Yves Guéna est nommé Ministre des Postes et Télécommunications, en remplacement de Jacques Marette connu pour son total désintérêt pour le téléphone : ce dernier étant connu pour avoir déclaré « Le téléphone est un gadget ». Yves Guéna prend conscience du retard colossal en matière de téléphone et fut à l'origine de la création de la Caisse Nationale des Télécommunications (CNT) afin de pouvoir rassembler des capitaux sur les marchés obligataires internationaux. Plutôt que faire du saupoudrage sur le territoire métropolitain, il décide avec l'aide de l'ingénieur Gérard Théry de deux opérations-pilotes localisées : un plan d'urgence pour automatiser les télécommunications dans la région de Lille, une des plus sous-équipées de France ; un autre pour désenclaver la région d'Oyonnax.
+En 1968, Pierre Marzin, précédent Directeur du CNET et fraîchement nommé Directeur-général des Télécommunications le 21 décembre 1967, impulse une restructuration d'importance, en bataillant jusqu'en janvier 1971 pour obtenir le rattachement de l'ensemble du personnel des télécommunications aux Directions Régionales des Télécommunications. Une nombreuse partie du personnel d'exécution (notamment des lignes téléphoniques aériennes) était jusqu'alors rattachée aux Directeurs Départementaux des PTT (autrement dit, certains télécommunicants étaient jusqu'à cette date placés sous le contrôle hiérarchique de cadres postiers qui étaient très éloignés des préoccupations de la technique téléphonique. Cette situation anachronique prend fin par le décret no 71-48 du 6 janvier 1971).
+En 1969, à l'élection à la Présidence de la République Georges Pompidou, le sixième plan quinquennal (1970-1975) est décidé. Il a pour objectif de mener à la fin du retard français par des financements accrus.
+En 1971, après le premier décret no 71-48 du 6 janvier 1971, le décret no 71-609, puis le décret no 71-610 supprimant le Secrétariat Général des Postes et Télécommunications, le gouvernement donne plus d'autonomie à la DGT dans la gestion du personnel vis-à-vis de la Direction Générale des Postes. Grâce au décret no 71-611 du 20 juillet 1971, la DGT se voit même désormais chargée directement de la formation de ses personnels fonctionnaires des catégories B, C et D (c'est-à-dire des non-cadres). Cette autonomie s'accroît grâce au nouveau décret no 71-712 du 30 août 1971 qui rattache à la DGT les derniers personnels des Télécommunications qui étaient encore placés sous le contrôle des Directeurs Départementaux des Postes. La restructuration administrative ardemment souhaitée par Pierre Marzin prend forme. Louis-Joseph Libois est nommé directeur général des télécommunications le 11 octobre par décret du Ministre des Postes et Télécommunications Robert Galley.
+En 1972, La réorganisation se poursuit par le nouveau décret no 72-203 du 9 mars 1972. Puis Louis-Joseph Libois éclate les Centres d'Abonnement et d'Entretien (CAE) en deux nouvelles entités types : les Centres Principaux d'Exploitation (CPE) regroupant au niveau local les métiers techniques, et crée les Agences Commerciales des Télécommunications (ACTEL), le secteur commercial étant jusqu'à présent considéré comme le parent pauvre des PTT, totalement sous contrôle du technique alors. Il s'agit là de la première véritable reconnaissance des métiers commerciaux dans les Télécommunications en France. C'est l'époque où l'abonné au téléphone devient progressivement un client. Une des conséquences sera, via une Instruction en date du 16 janvier 1973, la reconnaissance de la fonction d'Agent Technico-Commercial, une véritable révolution dans l'administration des télécommunications. Le 14 novembre 1972, le décret no 72-1042 vient parachever l’accroissement d’autonomie des télécommunications débutée le 6 janvier 1971.
+En 1973, la circulaire no 33 du 14 juin 1973 stabilise l'organisation modernisée des services des télécommunications selon trois niveaux :
+
+Direction générale des télécommunications (DGT).
+Directions régionales des télécommunications (DRT).
+Directions opérationnelles des télécommunications (DOT).L'organisation locale en cellules est pérennisée :
+
+Les Centres principaux d'exploitation (CPE).
+Les Agences commerciales des télécommunications (ACTEL).
+Les Subdivisions lignes (dont les Centres de construction des lignes, les CCL).Sont créées les trois premières Directions opérationnelles et techniques (DOT) à titre expérimental : Concernant la région des télécommunications de Marseille (PACA+Corse), deux DOT sont créées par arrêté ministériel du ministre des Postes et Télécommunications du 20 juin 1973 pour Nice, et par arrêté ministériel du 18 octobre 1973 à Marseille-Littoral, ainsi que pour la région des télécommunications de Lyon est créée une DOT à Annecy par arrêté ministériel du 6 août 1973 pour les départements de Savoie et une partie de l'Ain. Ces DOT seront généralisées rapidement à toute la France. Ces DOT se veulent alors plus près du terrain, en ne s'étendant que sur un ou quelques départements, a contrario des Directions Régionales jugées trop vastes et éloignées du terrain. Le 15 mai 1973, le Ministre des Postes et Télécommunications Hubert Germain inaugurera en présence du Premier Ministre Pierre Messmer le centre téléphonique de Paris-Tuileries, qui fut alors le plus important d'Europe quant à la taille et à la capacité.
+En 1974, à la suite du 7e plan quinquennal 1976-80 décidé par le Président de la République Valéry Giscard d'Estaing dès son élection qui fait du téléphone la priorité des priorités et la nomination du nouveau DGT M. Gérard Théry, la saga du Delta LP prend naissance. Les Directions Opérationnelles et Techniques (DOT) sont généralisées dans toute la France et qui demeurent sous la coupe des Directions Régionales des Télécommunications. Les DOT supervisent un, deux voire trois départements. Les établissements opérationnels sont organisés selon le schéma « CCL/ACTEL/CPE/ » qui va persister 23 ans. Ce schéma correspond à une vision du cycle de vie de la ligne téléphonique : création en CCL, vente en ACTEL, service après-vente et comptage en CPE. Chacun de ces établissements comprend environ cent cinquante personnes. À cela s'ajoutent des fonctions en back-office comme : le service du 12, les renseignements téléphoniques, le service du télégraphe (initialement le 14), les CFRT (Centre de Facturation de Recouvrement des Télécommunications).
+En 1979, par le décret no 79-962 du 13 novembre 1979, de nouvelles évolutions en matière d'organisation, notamment de prise en compte de la télématique, sont décidées sous l'impulsion de Gérard Théry le DGT. Par l'article 2 de ce décret sont créées des Délégations de Zone, échelon intermédiaire entre les Directions Régionales des Télécommunications et la DGT. Cette réorganisation qui faisait doublon avec les DRT ne dure pas. Ces Délégations de Zones sont supprimées au bout d'un an d'existence environ. C'est aussi en 1979 que l’automatisation du réseau téléphonique de l’hexagone commencée en 1913 est totalement achevée après 66 années de dur labeur. Le métier d'opératrice des télécommunications, historiquement dénommées « Les demoiselles du téléphone », disparaît et les dernières agentes sont reclassées sur d'autres métiers (en général dans les CPE sur des métiers techniques ou dans des fonctions de back-office au téléphone, comme le service du 12 - les renseignements téléphoniques ou encore dans les ACTEL pour celles qui ont la fibre commerciale et un bon contact client). On emploie toujours le terme opératrice au féminin, alors qu’il existait aussi des opérateurs des télécommunications qui opéraient séparément en brigade de nuit, le travail de nuit étant alors interdit par l'article L213-1 du code de travail au personnel féminin jusqu’au 20 juin 1987.
+En 1982, un an après l'alternance politique en France et l'élection de François Mitterrand, le ministre des PTT Louis Mexandeau milite en 1982 pour un retour à l'orthodoxie administrative (d’où le rétablissement symbolique en mai 1981 des PTT en lieu et place des Postes et Télécommunications), en provoquant par le décret no 82-636 du 21 juillet 1982 un retour des Commissaires de la République de département et de région dans les affaires des Télécommunications. Cette perte manifeste d'autonomie provoque un tollé des ingénieurs des PTT. Ils s'insurgent, mais doivent plier. Par ce même décret, les DOT perdent en autonomie, voire disparaissent de fait lorsqu'une DRT ne compte qu'une seule DOT. Ce retour aux sources sera de courte durée.
+En 1984, le retour aux sources administratif décidé en juillet 1982 se brisera net contre le mur des réalités mondiales et se conclura par un réveil brutal avec le démantèlement aux États-Unis de l'opérateur unique AT&T, qui tomba sous le coup de la loi fédérale antitrust…
+En 1985, après ces trois années de blocage, un rapport édité par l'Association des Ingénieurs des Télécommunications préconise un changement de statut vers celui de Société Nationale reprenant quasi identiquement les propositions du Ministre de l'Économie et des Finances en 1967, Valéry Giscard d'Estaing. Le 25 octobre 1985 à 23 h marque le passage à la numérotation à huit chiffres dans l’hexagone. 22 000 agents sont mobilisés pour ce basculage historique qui s’effectue en même temps sur tout le territoire. Ceci est la première fois dans le monde qu’un changement de numérotation se déroule ainsi à l’échelle entière d’un pays. L'opération baptisée d’abord « NPN » pour « Nouveau plan de numérotation » est rapidement renommée en « NNT2 » signifiant « Nouvelle numérotation téléphonique - 2e phase » car cela sonnait mieux à l'oreille auprès du grand public. L’opération, supervisée en direct depuis le centre téléphonique de Paris Murat par le Ministre des PTT de l’époque Louis Mexandeau et par le DGT Jacques Dondoux, se déroule sans aucun accroc, ce qui fait l’admiration des télécommunicants des pays du monde entier.
+En 1986, après une nouvelle alternance politique et le retour de la droite au gouvernement, l'heure est à la libéralisation. Des rumeurs de réforme en préparation se diffusent. Le décret 86-1064 du 29 septembre 1986 remplace les « Circonscriptions de taxe » par des « Circonscriptions tarifaires ». La loi no 86-1067 du 30 septembre 1986 relative à la liberté de communication préfigure de grandes évolutions statutaires imminentes. Marcel Roulet est nommé Directeur-général des Télécommunications le 15 décembre par décret.
+En 1987, par le décret no 87-60 du 3 février 1987, la Taxe de Base, qui sert à calculer le prix de toute communication téléphonique qu’elle soit urbaine (incluse dans la même Circonscription de Taxe Téléphonique), interurbaine, internationale ou forfaitaire comme dans le cas de l’horloge parlante, devient l’Unité Télécom (UT). C’est l’année où pour la première fois, apparaît sur les factures téléphoniques bimestrielles des administrés la marque « TELECOM » à la place de la mention Télécommunications. Au mois de juin, le Livre Vert de la Commission Européenne est édité. C'est un coup de tonnerre qui enjoint la libéralisation du secteur des télécommunications par sa mise en concurrence progressive, comme n'importe quel autre bien de consommation. D'ailleurs cette même année, comme en témoigne le décret no 87-898 du 31 octobre 1987, l'administration des PTT se voit soumise pour la première fois de son histoire à la TVA dès le 1er novembre. De plus, à cette époque, l'informatisation supprime environ un tiers des postes de travail en back-office. Les personnels ainsi libérés sont affectés aux agences commerciales ou à de nouvelles fonctions (vendeurs) pour commercialiser des abonnements téléphoniques, des terminaux ou des télécopieurs (fax). La première vague de libéralisation, celle des services à valeur ajoutée ne verra jamais de concurrents se déclarer.
+En 1988, la Direction Générale des Télécommunications est renommée France-Télécom le 1er janvier, mais conserve juridiquement son statut d'administration centrale. Il s'agit alors de la création d'une marque commerciale.
+En 1989, après la réélection du Président de la République François Mitterrand, Paul Quilès, Ministre des Postes et Télécommunications lance le débat public sur la réforme des PTT, qui préfigure la réforme des PTT de 1990.
+En 1990, la loi no 90-568 du 2 juillet sur la réforme des PTT est promulguée. Le Premier Ministre de l'époque, M. Michel Rocard déclarera même « La réforme des PTT est passée comme une lettre à la poste ».
+En 1991, le 1er janvier, l'administration des Postes et Télécommunications est liquidée. Ses biens et personnels sont séparés et répartis en deux entités principales distinctes : La Poste d'un côté, et France Télécom, tous deux exploitants autonomes de droit public. À partir de cette année, les prix de vente des terminaux téléphoniques agréés ou de leur location-entretien cessent d’être fixés par arrêté ministériel.
+En 1992, France Télécom doit ensuite mener une nouvelle adaptation qui aboutit en 1993 à la réforme des classifications, qui a pour objectif de remplacer les sept cents grades de fonctionnaires issus de l'administration des Postes et Télécommunications, par seulement quatre classes et trois niveaux dans chaque classe. Cette réforme prendra effet en globalité d'ici à la fin 1994. Son but était de supprimer l'appartenance aux anciens corps de fonctionnaires des PTT qui étaient très spécialisés par type de domaines et de métiers, et ainsi entravait l'employeur (ainsi que d'éventuels fonctionnaires volontaires) à tout changement de métiers ; métiers qui étaient alors en grande mutation, avec notamment de gros besoins en commerciaux, au détriment de la baisse des besoins dans le secteur technique. Cette réforme des reclassifications engendrera une certaine protestation même si la masse salariale augmentera largement plus que ce qui était anticipé.
+En 1995, une nouvelle réorganisation, dénommée EO2 pour Évolution de l'Organisation 2e phase, restructure l'entreprise selon trois marchés (résidentiel, professionnels et grandes entreprises) pour faire face aux besoins croissants des différents clients, et l'arrivée de la concurrence (SFR). L'organisation est désormais conçue autour des usages des clients et non plus des produits. Les personnels sont donc réaffectés avec changement de métier. Le 13 septembre 1995, Michel Bon est nommé PDG de France Télécom, en remplacement de Marcel Roulet. En 2000, le marché « professionnels », créé en 1995, est supprimé et les clients reversés essentiellement dans le marché résidentiel.
+En 1996, au 1er septembre, l'organisation mise en place en 1975 pour répondre au plan de rattrapage du retard téléphonique en France (le Delta LP) vole en éclats. Notamment, les CPE, CCL et ACTEL sont dissous, et leurs personnels sont répartis suivant leur activité principale en de nouvelles entités techniques de taille régionale. Ces entités, toujours en vigueur actuellement pour la plupart, ont pour dénomination officielle : « Unité ». Les techniciens des liaisons spécialisées et des transmissions provenant des CPE sont réaffectés dans des « Unités d'intervention entreprise » ou dans des « Unités d'intervention affaires ». Les agents des constructions des lignes des CCL sont réaffectés dans les nouvelles Unités d'Infrastructure Réseau. Les techniciens de commutation affectés jusqu'alors dans les CPE sont réaffectés dans les Unités d'exploitation réseau. Les agents des répartiteurs, les agents des lignes et les agents de la publiphonie des CPE sont curieusement réaffectés dans des Agences résidentielles dans le domaine commercial (anomalie qui prend fin le 1er mars 2000 avec leur rattachement dans les Unités d’Intervention), Les personnels du back-office (travaillant sur plateformes téléphoniques en général) sont répartis suivant leur degré d'implication technique et/ou commerciale et leur spécialité dans les Unités nouvellement créées qui peuvent être celles citées en exemple dans cet article comme dans d'autres qui n'y figurent pas. Les agences commerciales sont réorganisées doublement sous l'angle géographique (doublement de la zone couverte) que du type de marché traité. Ainsi naissent à partir des anciennes ACTEL d'un côté des « Agences France Télécom résidentielles et professionnelles », et de l'autre des « Agences France Télécom entreprise ». Le 18 octobre 1996 à 23 h, la numérotation bascule à dix chiffres dans l’hexagone. L’opération se déroule facilement, sans accroc. La France adopte donc la « NNT3 » pour « Nouvelle numérotation téléphonique 3e phase », qui était initialement prévue pour novembre 1995, mais qui fut repoussée de onze mois. Cette dernière est toujours en vigueur aujourd’hui et est prévue pour durer jusqu’en 2050. Par la même occasion, vient la suppression historique de la tonalité d’acheminement qui était devenue obsolète depuis l’arrêt des derniers commutateurs électromécaniques, le temps d’établissement typique d’une communication étant réduit à trois secondes tout au plus. Entre 1985 et 1996 le réseau est devenu entièrement électronique ce qui a rendu le passage à dix chiffres très aisé et n’a nécessité qu’une mobilisation de 3 500 agents le jour « J » pour cette nouvelle opération d’envergure.
+En 1997, au 1er janvier, l'Exploitant Autonome de Droit Public France-Télécom est transformé en Entreprise Nationale France-Télécom, sous statut juridique de Société Anonyme, par la loi no 96-660 du 26 juillet 1996. En 1997, dans la foulée, le réseau téléphonique étant arrivé à maturité, le PDG de l'époque, Michel Bon, lance le plan baptisé : Delta Minute, plan visant alors à mobiliser tous les acteurs de l'entreprise pour mener à un accroissement de la durée de chaque communication téléphonique, afin d'augmenter le chiffre d'affaires global et les marges bénéficiaires. Nouvelle politique mise en place d'une part, parce que le parc de lignes téléphoniques était parvenu à son plus haut si bien qu'il ne pouvait plus s'accroître par rapport à la population française, tout en contrevenant totalement avec la politique précédente qui préexistait tant que dura la pénurie dans les installations de commutation, époque où l'administration des PTT encourageait alors les usagers à n'utiliser le téléphone que pour les appels importants et sérieux, tout en demandant à ces mêmes usagers de se montrer les plus brefs possibles, afin de libérer au plus vite les circuits téléphoniques commutés pour les autres usagers qui attendaient la tonalité et la libération des circuits d'acheminement urbains et surtout interurbains…
+En 1998, au 1er janvier 1998, la loi no 96-659 du 26 juillet 1996 relative à la réglementation des télécommunications entre produit son principal effet : la libéralisation complète du marché européen des télécommunications entre en vigueur. C'est également l'année de l'arrivée de l'intranet au sein de l'entreprise, ainsi que l'explosion d'internet, des offres et des opérateurs concurrents dans ce domaine. France Télécom fonde Wanadoo et rachète plus d'une centaine de sociétés. En juillet, les Directions Régionales sont fusionnées à partir de deux à trois Directions Régionales initiales (par exemple, à cette date naît la Direction régionale de Paris, issue de la fusion de la Direction régionale de Paris-Nord avec la Direction régionale de Paris-Sud), et les deux à trois mille personnes en doublon qui y travaillaient avant ces fusions sont reversées dans des Organismes Nationaux de Soutien (ONS). Au début des années 2000, la quasi-totalité de ces ONS est ensuite supprimée.
+En 2000, le 30 mai, France Télécom rachète le très dynamique opérateur de téléphonie mobile britannique Orange fondé par l’allemand Hans Snook pour 283 milliards de francs, soit 43,2 milliards d’euros, dans le but d’accélérer son déploiement et sa notoriété à l’étranger, et devient ainsi le second opérateur en téléphonie mobile d’Europe. Ce rachat se traduira le 21 juin 2001 par la fusion des marques de téléphonie mobile Itinéris, Ola et Mobicarte sous la seule marque commerciale Orange. Également cette même année, le décret no 2000-881 du 12 septembre 2000 impose le dégroupage de la boucle locale. Ainsi France Télécom, opérateur historique, doit partager le réseau hérité des PTT, qui fut financé en totalité par les contribuables suivant le principe de l'avance remboursable, avec tous les concurrents qui apparaissent tels des champignons après la pluie. Les services techniques, les installations techniques ainsi que les immeubles doivent être réorganisés en conséquence dans tout le pays. Des locaux spéciaux et distincts, réservés aux seuls opérateurs concurrents doivent être aménagés dans les murs mêmes de France Télécom. Cet événement est connu sous le nom de « colocalisation ».
+En 2003, les agences sont divisées en deux spécialités : agences spécialisées dans la vente à distance d'une part et agences spécialisées en vente physique d'autre part. Les tailles géographiques doublent aussi (et le nombre d'agences est divisé par deux).
+En 2006, au mois de juin, les Directions Régionales sont réduites à la relation institutionnelle régionale avec un effectif divisé approximativement par dix. Le pouvoir d'organisation de l'activité opérationnelle de l'entreprise est transféré à des Directions Territoriales nouvellement créées, et de plus grande taille. Il y a deux à trois fois moins de Directions Territoriales que de Directions Régionales. La taille des établissements gérés par les DT atteint couramment mille personnes. La marque commerciale internet de France Télécom, Wanadoo, est renommée Orange le 1er juin.
+En 2011, au mois de septembre, les Directions Territoriales sont renommées Direction Orange, dans le but de préparer les esprits progressivement de dénomination à venir de la société France-Télécom en Orange dans son entier.
+En 2012, le 9 février, ce sont ensuite les services de la téléphonie fixe France Télécom qui sont renommés sous la marque commerciale Orange.
+En 2013, au 1er juillet, à la suite de l'approbation du Conseil d'administration de France Télécom réuni en assemblée générale, le 28 mai 2013, la Société anonyme France Télécom change de raison sociale en devenant « Orange S.A. ».
+
+
+=== Effectifs ===
+Les effectifs passent de 140 000 personnes en 1993 à quelque 190 000 personnes en 2007, après un pic à 220 000 en 2001. Cette croissance étant due aux effectifs à l'étranger.
+En 1990, à partir de février, débute dans l'administration des Postes et Télécommunications la négociation devant mener à la mise en application de la réforme concernant la rénovation de la grille des classifications et des rémunérations des trois fonctions publiques mise en place par le Ministre d'État, Ministre de la Fonction Publique et des Réformes Administratives Michel Durafour et décidée depuis le 13 octobre 1989. Elle aboutit à la fusion de certains grades entre eux et accomplit de fait une première simplification du millefeuille administratif de grades et de corps de fonctionnaires différents préexistant aux PTT, en toilettant les textes réglementaires datant pour la plupart des années 1945 à 1975, en fusionnant dans les mêmes corps de métier certains grades (ex. : par le décret no 91-105 du 25 janvier 1991, les vérificateurs et les réviseurs des travaux des bâtiments des PTT qui deviennent Réviseurs des travaux des bâtiments de France-Télécom), élimine les grades constatés éteints et accorde au passage quelques augmentations indiciaires de traitement à certaines catégories de personnels pour s'assurer d'une certaine paix sociale dans le pays.
+
+Tout le personnel est automatiquement reclassé dans son nouveau grade et/ou sa nouvelle situation administrative conformément aux nouveaux décrets.
+Les fonctionnaires des Postes et Télécommunications deviennent, à la suite de l'adoption de la loi no 90-568 du 2 juillet 1990 et par le biais de ces nouveaux décrets du 31 décembre 1990 et de janvier 1991 issus de la Réforme Durafour, des fonctionnaires de France Télécom (France Télécom demeurant jusqu'au 31 décembre 1990 une administration centrale de l'État).
+Ces fonctionnaires de France Télécom sont dits « reclassés ».
+Les derniers concours de recrutements externes organisés sur ces grades de reclassement mis en place à partir de 1991 ont été organisés en 1991 & 1992 et ont vu leurs derniers lauréats appelés tardivement à l'activité en 1994 et 1995.En 1991, au 1er janvier, à la suite de l'adoption de la loi no 90-568 du 2 juillet 1990, les fonctionnaires de France Télécom « administration » sont rattachés à l'exploitant autonome de droit public France-Télécom nouvellement créé. À compter de cette date, les transferts de fonctionnaires de l'État de l'une à l'autre des branches historiques des P&T deviennent quasiment négligeables, bien que cette possibilité soit toujours maintenue par les textes de lois.
+En 1992, quelques mois avant le début de la réforme de reclassification, de nouveaux changements consistant à fusionner de nouveaux certains grades entre eux, revaloriser certains échelons et à accorder un gain d'ancienneté dans certains échelons de certains grades sont décidées par le gouvernement. Elles entraînent une légère augmentation de traitement de certaines catégories de fonctionnaires de France Télécom, d'environ 450 francs par mois en moyenne, mais dans certains corps ce ne sont pas toujours les grades les plus bas qui disparaissent et qui sont fusionnés vers le haut, mais l'inverse (par exemple, disparition des inspecteurs centraux qui redeviennent de simples inspecteurs, ou alors les chefs de section qui redeviennent de simples contrôleurs, même si à titre individuel ces personnels ainsi « déclassés » peuvent conserver leur intitulé d’ancien grade ; situations qui ne peuvent que provoquer des réactions vindicatives à l'avenir, ces fonctionnaires ayant dû souvent patienter longtemps pour parvenir à ce type de grades « de distinctions »). Ainsi, tous les fonctionnaires de France Télécom concernés, conformément aux décrets du 7 septembre 1992 et au décret du 2 octobre 1992 sont, une seconde fois, automatiquement reclassés dans leur nouvelle situation à la date du 1er juillet 1992. Cette amélioration de la réforme Durafour de 1990 a été seulement appliquée aux fonctionnaires de France Télécom et de La Poste, seules catégories de fonctionnaires de l'État qui seront dès 1993 concernés par la réforme suivante à venir des reclassifications. Il ne s'agit pas d'un hasard. Cette amélioration en 1992 devant participer à l'acceptation de la réforme future de 1993, qui était voulue au plus haut niveau de France Télécom et de l'État…
+En 1993, à la suite de la signature le 9 juillet 1990 de l'accord social sur le cadre général de la réforme des classifications du personnel des PTT, est mise en place la seconde réforme des grades, dite Réforme des Classifications, encore nommée : « reclassification ». Cette opération consiste dans un premier temps à déterminer l'emploi réellement occupé par le fonctionnaire, dans un deuxième temps à rapprocher cet emploi de la grille de la nouvelle classification puis finalement à l'intégration directe du fonctionnaire dans le nouveau grade sans examen ni concours. Cette réforme concerne aussi bien la Poste que France Télécom. Les fonctionnaires de la Poste et de France Télécom ont le choix d’intégrer cette reclassification ou de refuser et de conserver leur grade de reclassement, par le biais d’un questionnaire où ils ont la possibilité de cocher l’une des deux cases possibles. À la Poste, les fonctionnaires qui ne renvoient pas le formulaire de choix demeurent dans leur situation antérieure, c'est-à-dire dans le reclassement ; tandis qu'à France Télécom c’est l’inverse qui s’applique : les fonctionnaires qui ne renvoient pas leur formulaire de choix sont automatiquement basculés dans la reclassification, et ce, sans que France Télécom ait formellement recueilli leur avis. De surcroît, dans certains services, les fonctionnaires qui choisissent par écrit de conserver leur grade de reclassement se voient relancés oralement plusieurs fois par leur hiérarchie puis par les services de gestion du personnel au moyen de nouveaux formulaires renvoyés aux fonctionnaires refusant d'intégrer les nouveaux grades de reclassification, et ce, dans l’espoir de les faire changer d’avis, ou de parvenir par une certaine lassitude à ce que le fonctionnaire ne réponde plus aux questionnaires et soit commué « par défaut » dans les corps de la reclassification. Les nouveaux grades de la reclassification sont progressivement déployés jusqu'en décembre 1994 à partir de l'adoption d'une série de décrets des 25 et 26 mars 1993 qui coupent de manière irréversible tout lien d'avec les anciens grades issus de l'administration des PTT pour ceux qui les intègrent.
+En revanche, pour les hauts-fonctionnaires, lesquels ont les premiers initié la réforme des reclassifications, le lien avec les anciens grades issus des PTT n'est pas brisé : l'arrêté du 27 mars 1993 fixant l'échelonnement indiciaire des échelons des emplois supérieurs de La Poste et des emplois supérieurs de France affectés d'indices hors échelles ne fait que modifier en ce qui concerne ces hauts fonctionnaires (au lieu de les en exclure) l'arrêté précédent du 29 août 1957 relatif aux emplois supérieurs de l'État classés hors échelles qui avait été publié au Journal officiel le 30 août 1957. De surcroît, alors que l'arrêté de 1957 est publié au Journal officiel, le nouvel arrêté du 27 mars 1993 précité n'a jamais été publié au Journal officiel, étant donné que son article 2 stipule : « Le présent arrêté prend effet au 1er janvier 1993 et ne sera pas publié au Journal officiel de la République française. »
+Les anciens grades de reclassement, directement dérivés des grades des PTT sont convertis en quatre classes et trois niveaux dans chaque classe (ce qui revient à un total de onze nouveaux grades propres à La Poste et à France Télécom : les agents I.1, I.2, I.3 ; les collaborateurs et maîtrise : 2.1, 2.2, 2.3 ; les cadres 3.1, 3.2, 3.3 ; les cadres supérieurs : 4.1 et 4.2) (hormis les statuts de fonction, emplois supérieurs comptant quatre grades de plus : 4.3, 4.4, 4.5 et 4.6 qui conservent, eux seuls, leur ancien statut interministériel).
+
+Une fois le fonctionnaire de France Télécom qui a choisi par écrit de basculer (ou qui n’a renvoyé aucune réponse au questionnaire reçu) dans son nouveau grade de reclassification, celui-ci n'est plus relié à un corps de métier particulier et, fait d'importance capitale au niveau de la gestion des ressources humaines, peut être très facilement muté vers un nouveau domaine métier, avec ou sans son accord au gré des évolutions de métiers, des ouvertures ou des fermetures de services.
+Ces fonctionnaires de France Télécom sont dits « reclassifiés ».
+Des concours de recrutements externes déconcentrés par les directions régionales ont été organisés en 1993, 1994, 1995 et 1996, où les lauréats étaient reçus sur ces nouveaux grades de reclassifications uniquement.
+Les fonctionnaires de France-Télécom reclassifiés constituent à ce jour plus de 90 % des fonctionnaires en activité dans Orange.
+Les 140 000 effectifs en 1993 sont essentiellement des fonctionnaires français.
+Le passage dans la nouvelle hiérarchie de grades demeure cette fois-ci facultatif, les fonctionnaires recrutés avant cette réforme des reclassifications, pouvant demeurer sur leur ancien grade dit « de reclassement », grades issus de la réforme Durafour, mais à ce moment-là, ces fonctionnaires demeurés sur leur ancien grade voyaient dans les faits leur avancement de grade sérieusement compromis.
+Si toutefois un fonctionnaire reclassé sur ces anciens grades de 1990-1991 se présentait à une promotion et se voyait promu, il était automatiquement basculé dans le nouveau système de grade issu des reclassifications de 1993, et ce, jusqu'en 2004.
+Après plusieurs centaines de procès au tribunal administratif, la sortie du décret no 2004-1300 du 26 novembre 2004 autorise à nouveau ces fonctionnaires reclassés dans les anciens grades et obtenant une promotion, d'être versés à leur choix, soit dans le nouveau système de grades issu des reclassifications, soit de demeurer dans l'ancien système de grade de reclassement. Cette initiative de l'État, bien que tardive, a permis d'apaiser le climat social dû à la discrimination dont s'estimaient victimes les fonctionnaires de France Télécom positionnés sur ces anciens grades de reclassement. Néanmoins, de nombreux agents ayant gardé leur grade de reclassement s'estimant lésés à cause de l'absence d'évolution et de promotion dans leur carrière (à France Télécom-Orange comme à La Poste) ont déposé des recours individuels auprès des tribunaux administratifs qui ont abouti à la condamnation de ces deux entreprises et solidairement à l'État.En 1996, est instauré à partir de la promulgation de la loi no 96-660 du 26 juillet 1996, un Congé de Fin de Carrière, une sorte de préretraite, réservé aux fonctionnaires de France Télécom âgés d'au moins 55 ans, avec départ obligatoire à 60 ans en cas d'entrée dans ce dispositif facultatif avant le 31 décembre 2006, date limite. Ce dispositif a permis de diminuer rapidement les effectifs en rajeunissant la moyenne d'âge, par le départ d'une population restée marquée par le démantèlement de l'Administration. En retour, ce dispositif a entraîné une perte des connaissances et d'expériences sur certaines spécialités techniques par les départs massifs qu'il a occasionnés.
+En 1997, au 1er janvier, à la suite de la transformation de l'Exploitant Autonome de Droit Public France-Télécom en Entreprise Nationale France-Télécom, sous statut juridique de Société Anonyme, par la loi no 96-660 du 26 juillet 1996, il est mis fin à tout recrutement de fonctionnaire de l'État au sein de France Télécom, pour des raisons juridiques évidentes. Depuis cette date, les effectifs statutaires exerçant leur activité dans France-Télécom puis Orange ne font que décroître et sont voués à leur extinction totale. D'ailleurs plusieurs grades de reclassement, dont en général le grade du pied de chaque corps, sont éteints. Dans les grades de reclassifications, les deux grades de la classe I (les I.1 et les I.2) sont officiellement éteints depuis 2010 et le grade de I.3 est en voie d'extinction d'ici à 2016.
+En 2004, au 1er septembre, la part de l’État au capital descend sous la barre des 50 %. Pour cette raison, le Président de France Télécom ne peut plus être nommé ou révoqué par décret. Il l'est désormais par délibération du conseil d'administration de France Télécom réunion en assemblée générale. Avant cet événement, le décret no 2004-662 du 6 juillet 2004 entraîne un nouveau changement réglementaire et culturel pour les fonctionnaires de France Télécom qui se voient juridiquement soumis à une partie du Code du Travail, comme s'ils étaient des salariés de droit privé, en tant que ceci concerne l'élection à venir dès l'année suivante de délégués du personnel qui font leur apparition dans l'entreprise dès janvier 2005. De plus, le décret no 2004-977 du 17 septembre 2004 portant adaptation et application des articles L. 225-27 à L. 225-34 du code de commerce aux personnels fonctionnaires de France Télécom assimile désormais les fonctionnaires de France Télécom à des salariés de droit privé pour ce qui est de l'élection ou de la participation en tant qu'élu au conseil d'administration de France Télécom. Que ce soit pour les élections des délégués du personnel ou des élus au conseil d'administration de France Télécom, un collège unique d'électeurs est créé. Il mélange sans distinction les fonctionnaires de France Télécom, les agents contractuels de droit public et les salariés de droit privé, en s'alignant sur le droit commun. Le décret no 2004-980 du 17 septembre 2004, bien que reconnaissant l'autorité du Président de France Télécom en matière de sanction disciplinaire, stipule que seul le Ministre chargé des télécommunications a le pouvoir disciplinaire d'infliger à un fonctionnaire de France Télécom une sanction du quatrième groupe, c'est-à-dire que France Télécom ne peut pas seule décider de la mise à la retraite d'office ou la révocation d'un fonctionnaire de France Télécom.
+Depuis 2005, le turn-over est plus important. Il s'agit de mouvements entrants d'ingénieurs confirmés qui sont séduits par la relative stabilité de France Télécom par rapport aux SSII. Les départs existent, soit par un système de préretraite pour les fonctionnaires, soit vers des sociétés de haute technologie. Les mouvements internes sont nombreux et les mouvements entrants et sortants le sont de plus en plus.
+En 2009, le 26 novembre, un accord social sur l'emploi des séniors et les mesures en faveur des deuxièmes parties de carrières est signé entre la Direction et certaines organisations syndicales représentatives du personnel. Cet accord crée notamment le « temps partiel séniors », une sorte de préretraite progressive, visant à diminuer plus rapidement les effectifs mesurés en équivalents à temps plein.
+En 2010, la moyenne d'âge est de 48 ans, et la moitié des salariés français doit partir en retraite d'ici à 2018. Le temps partiel séniors ayant quelques difficultés à convaincre, l'accord social du 26 novembre 2009 fait l'objet d'un premier avenant le 4 juin 2010 ainsi que d'un second avenant le 23 décembre 2010 afin de le rendre sensiblement plus attrayant. Ainsi, le TPS mis en place commence à rencontrer une certaine adhésion auprès des plus de 54 ans à partir de 2011. Son succès va croissant, ce qui ne va pas sans commencer à causer certains problèmes d'organisation dans les services en 2014.
+En 2012, il reste 65 000 fonctionnaires et d'ici à 2020 l'essentiel des fonctionnaires aura quitté Orange. Les personnes qui ne sont pas sous statut de fonctionnaire sont en CDI dans le droit de leur pays ; ainsi en France, ils sont salariés d'Orange. La moitié du personnel travaille hors de France.
+Au 1er juillet 2013, et malgré le changement de nom de l'entreprise France-Télécom en « Orange » dûment validé par le conseil d'administration d'Orange et l'Assemblée des actionnaires, aucun texte officiel traitant du statut de ces fonctionnaires paru au Journal officiel de la République française après le changement de dénomination de cette entreprise n'a à ce jour été publié modifiant l'intitulé de ces fonctionnaires de l'État à statut particulier, effectifs statutaires qui demeurent officiellement des fonctionnaires de France-Télécom,.
+
+
+=== Les métiers ===
+Les fonctions sont :
+
+la vente pour près d'un emploi sur deux ;
+le réseau et les systèmes d'informations, environ 40 000 personnes ;
+le marketing ;
+la recherche et développement.
+
+
+=== Les rémunérations ===
+En 2006, selon le bilan social officiel de l'entreprise, environ trois employés sur quatre ont perçu une rémunération brute comprise entre 2 150 et 4 150 euros par mois. La rémunération mensuelle moyenne brute est 2 924 euros.
+
+
+=== Direction générale du groupe ===
+Directeur des télécommunicationsCharles Lange du 9 février 1941 au 22 mai 1946. Poste créé par loi et par décret de l'État français du 9 février 1941.Directeurs généraux des télécommunicationsCharles Lange du 23 mai 1946 au 31 mai 1951. Poste créé par décret du GPRF no 46-1016 du 10 mai 1946. Droits à retraite.
+Jean Rouvière du 1er juin 1951 au 28 février 1957. Nommé par décret du 27 avril 1951. Départ vers de nouvelles fonctions.
+Raymond Croze du 1er mars 1957 au 31 décembre 1967. Nommé par décret du 5 février 1957. Départ vers de nouvelles fonctions.
+Pierre Marzin du 1er janvier 1968 au 10 octobre 1971. Nommé par décret du 21 décembre 1967. Droits à retraite.
+Louis-Joseph Libois du 11 octobre 1971 au 15 octobre 1974. Nommé par décret du 11 octobre 1971. Départ vers de nouvelles fonctions.
+Gérard Théry du 16 octobre 1974 au 6 août 1981. Nommé par décret du 16 octobre 1974. Remplacé.
+Jacques Dondoux du 7 août 1981 au 14 décembre 1986. Nommé par décret du 7 août 1981. Remplacé.
+Marcel Roulet du 15 décembre 1986 au 20 décembre 1990. Nommé par décret du 15 décembre 1986.Après la réforme de 1990, dirigeants du groupeMarcel Roulet, du 21 décembre 1990 au 31 août 1995. Nommé par décret du 21 décembre 1990. Mis fin aux fonctions par décret du 1er septembre 1995. Actuellement président d'honneur de France Télécom.
+Intermède François Henrot. Nommé au conseil d’administration par décret du 1er septembre 1995, en vue d'y être nommé président, mais démissionne rapidement le 8 septembre 1995 par communiqué de presse ; démission entérinée par décret du 8 septembre 1995
+Michel Bon, du 13 septembre 1995 au 2 octobre 2002. Nommé par décret du 13 septembre 1995. Démission acceptée par décret le 2 octobre 2002.
+Thierry Breton, du 2 octobre 2002 au 22 février 2005. Nommé par décret du 2 octobre 2002. Démission. Devient ministre de l’économie, des finances et de l’industrie par décret du 25 février 2005.
+Didier Lombard, du 27 février 2005 au 23 février 2011. Élu par le conseil d'administration de France Télécom. Démissionne à la suite de la crise des suicides avant la fin de son mandat prévue en juin 2011.
+Direction bicéphale du 1er mars 2010 au 23 février 2011 :
+Didier Lombard. Élu président non-exécutif, par décision du conseil d'administration de France Télécom du 24 février 2010.
+Stéphane Richard. Élu directeur général, par décision du conseil d'administration de France Télécom du 24 février 2010.
+Stéphane Richard, du 1er mars 2011 au 19 mai 2022. Élu par le conseil d'administration président-directeur général le 23 février 2011. Réélu président-directeur général du groupe Orange, par le conseil d'administration d'Orange, le 26 mars 2014.
+Direction bicéphale depuis le 4 avril 2022 :
+Jacques Aschenbroich. Élu président non-exécutif, par décision du conseil d'administration d'Orange du 19 mai 2022.
+Christel Heydemann. Élue directrice générale, par décision du conseil d'administration d'Orange du 4 avril 2022.
+
+
+== Controverses et condamnations judiciaires ==
+Depuis sa privatisation en 2004, France Télécom (dont Orange est une filiale) oriente sa culture d'entreprise vers la rentabilité. Entre 2006 et 2008, France Télécom adopte le plan NExT, un plan de redressement qui vise entre autres à réduire les coûts – principalement salariaux. Il est prévu de diminuer les effectifs de 10 %, soit 22 000 employés
+
+
+=== Nouvelles méthodes de management ===
+Le plan NExT introduit un management violent. En 2004, 4 000 employés sont formés durant dix jours afin d'accomplir sur le terrain le plan NExT : la réduction des effectifs est une priorité, de nouvelles techniques de managements sont introduites, la méthode est de dégrader les conditions de travail, afin de pousser psychologiquement une partie des employés au départ volontaire, réduisant ainsi les indemnités à payer. Ainsi, les managers ont pour objectif d'inciter des salariés à démissionner, d'en muter dans d’autres secteurs de la fonction publique ou de signer des congés de fin de carrière. Des stages apprennent à ces managers des schémas sur les courbes du deuil qui définissent six étapes par lesquelles tout salarié qui se voit annoncer la suppression de son poste, doit passer : l’annonce de la mutation, le refus de comprendre, la résistance, la décompression qui peut aller jusqu'à la dépression, la résignation et l’intégration du salarié (harcèlement qui peut aussi se terminer très mal par des suicides),,,.
+
+
+=== Mises en examen à la suite des suicides de plusieurs salariés ===
+
+Lors d'une réunion en octobre 2006, Didier Lombard (PdG d'Orange) annonce devant ses cadres dirigeants : « En 2007, je ferai les départs d'une façon ou d'une autre, par la fenêtre ou par la porte »,.
+Les effectifs de 2005 à 2009 passent de 196 000 employés à 167 000. La réduction des effectifs est une priorité, de nouvelles techniques de managements sont introduites, la méthode est de dégrader les conditions de travail, afin de pousser psychologiquement une partie des employés au départ volontaire, réduisant ainsi les indemnités à payer. Les changements de postes à l’intérieur de l’entreprise sont nombreux (14 000 entre 2006 et 2008)[réf. nécessaire].
+En 2009, une enquête a été menée par le cabinet d'audit Technologia à la demande de la direction de France Télécom. Sur les 102 843 salariés de la maison-mère du groupe, 80 080 ont répondu, soit un taux de 77,9 %. Le rapport d'enquête révèle un « ressenti général très dégradé », une « fragilisation de la santé physique et mentale », une « ambiance de travail tendue, voire violente » pour certaines catégories de personnel. Les conditions de travail ont été jugées difficiles, principalement pour le personnel chargé de la vente et des « interventions client »,.
+Après dépouillement d'un questionnaire soumis à tout le personnel de France Télécom, les consultants d'un cabinet, Technologia, remettent leurs conclusions le 14 décembre 2009 et évoquent une « ambiance de travail tendue, voire violente ». « Le ressenti général est très dégradé, notamment en ce qui concerne les conditions de travail, la santé, le stress… ». Dans la « vague de suicides », ils pointent « la grande défaillance du management ». « Les personnels de France Télécom semblent plus que jamais orphelins de sens, de leaders ».
+Le 25 septembre 2010, un ancien directeur régional raconte le management mis en place par France Télécom, dont l'objectif aurait été la démission volontaire de 22 000 employés. Il évoque notamment l'existence d'une « courbe du deuil », selon laquelle la direction aurait prévu les phases de dépression par lesquelles sont passés les salariés. Selon Delphine Ernotte, la directrice générale adjointe du groupe France Télécom Orange, ce document était au contraire destiné à accompagner au maximum les employés.
+En 2010, à la suite d'une enquête, l'Inspection du travail a répondu au syndicat Sud-PTT que l'organisation du travail à France Télécom « a été de nature à générer de la souffrance au travail » et « des risques pour la santé » des salariés. Elle adresse également un rapport circonstancié pour mise en danger de la vie d'autrui et harcèlement moral au parquet de Paris en 2010.
+L'entreprise fait face à une vague de suicide. En septembre 2010, le nombre de suicides depuis le lancement du plan NExT (2006) s’élevait à cinquante-huit. Les mutations forcées sont identifiées comme étant une des principales causes.
+La question des suicides chez France Télécom fait l'objet de débats publics en première place de l'actualité, qui pour les uns était une sur-médiatisation d'un phénomène ordinaire, par les syndicats, tandis que d'autres y voyaient le dévoiement des méthodes de gestion centrées sur le rétablissement de la performance financière au détriment de toute considération sociale. La sur-médiatisation pourrait expliquer, selon le sociologue Gérald Bronner, l'amplification de la vague de suicide due à l'effet d'un phénomène d'imitation dénommé effet Werther.
+
+Didier Lombard est mis en examen pour harcèlement moral en juillet 2012 (avec le numéro 2 de l’époque Louis-Pierre Wenès, l’ex-directeur des ressources humaines, Olivier Barberot et quatre cadres mis en examen pour complicité de harcèlement moral) à la suite d'un rapport de l'inspection du travail mettant en cause la politique de gestion du personnel et une plainte de la fédération SUD-PTT fin 2009. Par "harcèlement moral", le Code du travail entend des « agissements répétés qui ont pour objet ou effet de porter atteinte aux droits et à la dignité du salarié, d'altérer sa santé physique ou mentale ou de compromettre son avenir professionnel ».
+Le 6 janvier 2015 est close l'enquête sur la vague de suicides et qui pourrait ouvrir la voie à la reconnaissance par la justice d’un harcèlement moral institutionnel.
+En juillet 2016, le parquet de Paris demande le renvoi devant le tribunal correctionnel, pour harcèlement moral, de la société Orange, en tant que personne morale, et de six responsables : Didier Lombard, ancien dirigeant du groupe, Louis-Pierre Wenès, son ancien numéro 2, Olivier Barberot, l'ancien responsable des ressources humaines ainsi que quatre cadres pour complicité. La CFE-CGC a pour sa part réclamé la qualification d'homicide involontaire en lieu et place de harcèlement moral. C'est la première fois qu'une grande entreprise est poursuivie en France pour ce délit.
+En juin 2018, la justice décide de faire comparaître en 2019 pour harcèlement moral l'entreprise France Telecom, son ancien PDG Didier Lombard et ses seconds Louis-Pierre Wenès et Oliver Barberot.
+En décembre 2019, Orange, ex-France Télécom, son ancien PDG Didier Lombard et six autres cadres et dirigeants ont été condamnés pour « harcèlement moral », près de dix ans après une crise sociale durant laquelle plusieurs dizaines de salariés se sont suicidés.
+
+
+=== Abus de position dominante ===
+Le 16 juillet 2003, la Commission européenne a condamné France Télécom (Wanadoo) pour abus de position dominante sur le marché de l'ADSL. L'entreprise pratiquait des prix prédateurs, c'est-à-dire vendait ses services d'accès à l'Internet à perte afin d'éliminer ses concurrents et de pouvoir par la suite pratiquer des tarifs plus élevés que sur un marché concurrentiel. France Télécom a été condamnée à verser une amende de 10,35 millions d'euros au budget européen.
+France Télécom a fait appel de cette décision devant le tribunal européen de première instance, qui est un des organes de la cour de justice de l'Union européenne. Celui-ci a confirmé le 30 janvier 2007 la décision de la Commission et exigé le paiement de l'amende.
+En décembre 2015, Orange écope d'une amende de 350 millions d'euros infligée par l'Autorité de la concurrence. L'AAI reproche notamment à l'opérateur sa discrimination envers les autres opérateurs dans « l'accès et l'utilisation d'informations issues de la gestion de la boucle locale cuivre issue de l'ancien monopole historique ».
+
+
+=== Entente anti-concurrentielle entre opérateurs mobiles ===
+
+Le 1er décembre 2005, Orange a été condamnée par le Conseil de la concurrence à une amende de 256 millions d'euros dans l'affaire de l'entente entre trois opérateurs de téléphonie mobile en France. La décision est confirmée par la cour d'appel de Paris en 2006 puis par la Cour de cassation en 2007, une faible partie de l'amende contre Orange est annulée par la Cour de cassation en avril 2010.
+
+
+=== Pratiques anti-concurrentielles dans les DOM ===
+Le 28 juillet 2009, l'Autorité de la concurrence a sanctionné Orange à hauteur de 27,6 millions d'euros pour avoir entravé abusivement le développement de nouveaux opérateurs concurrents dans les DOM (principalement à la Réunion).
+France Télécom - Orange a utilisé sa position dominante résultant notamment de son ancien monopole pour s'octroyer, de manière déloyale, des avantages sur ses concurrents. Les pratiques relevées par l'Autorité sont :
+
+niveau excessif des tarifs ;
+en tant que gestionnaire de la quasi-totalité des boucles locales de l’infrastructure des télécommunications, avec les données auxquelles elle a accès, France Télécom a ciblé les ex-abonnés qui avaient migré vers un opérateur concurrent afin de les récupérer, leur proposant une offre commerciale spécifique ;
+un ciseau tarifaire sur les offres internet haut débit ;
+le maintien de services de restriction d'appel incompatibles avec la présélection d'un opérateur alternatif.
+
+
+=== Accès limité à certains sites et plainte pour abus de position dominante ===
+En 2011, à la suite de plaintes d'internautes remontant à 2009, Megaupload a accusé Orange de ne pas assurer une connectivité correcte vers son site, limitant ainsi le débit depuis la France à un très faible niveau, ce qu'Orange a démenti.
+Cogent accuse également Orange d'abuser de sa position dominante sur le marché français en bridant la connectivité afin de favoriser OpenTransit qui appartient à Orange. Selon Cogent, Google doit ainsi payer OpenTransit pour que YouTube soit normalement accessible aux abonnés d'Orange.
+En août 2011, Cogent porte plainte contre Orange auprès de l'Autorité de la concurrence.
+
+
+=== Condamnation de 2011 contre Numericable pour abus de position dominante ===
+L'opérateur historique a été condamné par le tribunal de commerce de Paris à verser dix millions d'euros à Numericable pour des pratiques anti-concurrentielles sur le marché de l'accès à Internet.
+
+
+=== Condamnation du 13 décembre 2012 pour pratiques anti-concurrentielles ===
+Le 13 décembre 2012, l'Autorité de la concurrence a estimé que certaines offres (commercialisées surtout entre 2005 et 2008) qui donnaient la possibilité d'appeler en illimité, mais uniquement dans son réseau « […] ont créé une différenciation tarifaire abusive entre les appels 'on net' (sur les réseaux respectifs) et 'off net' (vers les réseaux concurrents) ». La plainte portée par Bouygues Télécom contre « ces offres [qui] ont amplifié artificiellement l'effet 'tribu' » condamne Orange à une amende de 117,5 millions d'euros (et SFR à 65,7 millions). Les deux opérateurs condamnés ont décidé de faire appel.
+
+
+=== Corruption en Tunisie ===
+En mars 2011, le site d'information OWNI révèle un montage financier douteux ayant permis au groupe Orange d'acquérir une licence 3G.
+
+
+=== Accusations de publicité mensongère ===
+Depuis novembre 2009, trois utilisateurs ont porté plainte contre Orange pour « publicité mensongère » concernant le service « Clé 3G illimité ». Ces clients reprochent à l'opérateur de présenter de manière trompeuse ce service qui, en réalité, n'est pas illimité. Le forfait n'a en effet aucune limite de temps, mais l'utilisateur ne peut excéder 1 gigaoctet de téléchargement par mois, ce qui limite donc sa navigation. Ignorant ce fait, les trois plaignants ont navigué hors-forfait et ont dû s'acquitter de sommes parfois très importantes pour couvrir leurs dépassements.
+
+
+=== SMS et MMS du nouvel An 2011 ===
+Le 1er janvier 2011, les SMS et MMS des abonnés Orange ont été émis et facturés plusieurs fois. L'opérateur s'est engagé à rembourser le surcoût aux consommateurs tout en expliquant que l'erreur venait d'un « opérateur tiers » (qui s'avère être Bouygues Telecom) qui n'aurait pas envoyé d'accusés de réception entraînant alors la réémission des messages. La faute est rejetée sur la plate-forme de Bouygues qui aurait connu un problème informatique. La nuit du 31 décembre 2010 au 1er janvier 2011, plus de 930 millions de textos ont été échangés (tous opérateurs confondus) en France, établissant un record par rapport aux pics des années précédentes.
+
+
+=== Panne de juillet 2012 ===
+Le 6 juillet 2012, il s'est produit une panne nationale du réseau mobile d'Orange, qui a touché l'intégralité de la France, des millions de gens ont été privés de téléphone. Il faudra attendre 3 h du matin le 7 juillet 2012 pour que tout soit rétabli. La panne de juillet 2012 du réseau français d’Orange, s’explique par une défaillance du logiciel de ses HLR. Orange a offert des compensations temporaires pour chaque forfait afin de s'excuser de la panne (appels illimités, 1 Go d'internet supplémentaire, SMS illimités, etc.). Des SMS ont été envoyés aux abonnés pour présenter les excuses d'Orange.
+
+
+=== Monopole dans le marché des entreprises ===
+En mai 2017, SFR, Verizon, mais aussi BT Group assigne Orange devant le tribunal de commerce de Paris pour abus de position dominante dans le marché des entreprises.
+
+
+=== Retrait d’un téléphone non conforme aux normes relatives au débit d'absorption spécifique ===
+À la suite des contrôles réalisés par l'Agence nationale des fréquences (ANFR), le modèle Hapi 30, fabriqué par Mobiwire et commercialisé par l'opérateur Orange est le premier téléphone portable retiré du marché en France pour dépassement du seuil de débit d'absorption spécifique (DAS) au niveau du tronc. L'annonce en est faite le 4 avril 2018 via le site Internet de 60 Millions de consommateurs. Ce sont près de 100 000 téléphones Hapi 30 qui doivent être retirés par échange gratuit pour l'utilisateur. De nombreux articles et reportages sont consacrés au sujet dont celui du journaliste spécialiste High tech, Anthony Morel, dans Les grandes Gueules (RMC) et du journaliste Jean-Jacques Bourdin sur la radio RMC qui titre « Portable retiré à cause des ondes : « c'est un PhoneGate, des millions de téléphones vont devoir être rappelés. » ». Des médias internationaux ont aussi parlé de ce premier retrait au niveau mondial, c'est le cas du magazine Forbes : « For the first time ever, Orange recalls a phone because of its excessive levels of radiation ». En Belgique, la radio Bel RTL fait plusieurs reportages sur le sujet.
+
+
+=== Panne des numéros d'urgence en France ===
+Le mercredi 2 juin 2021, une défaillance technique sur le réseau de l'opérateur rend très difficile l'accès aux numéros d'urgence et causant indirectement cinq décès. Le rapport d'enquête estime que 11 % des appels sur la periode ont été concernés soit 11 800 appels.
+
+
+=== Pratique commerciale trompeuse ===
+Assignée en justice, en décembre 2020, par l'association Consommation Logement Cadre de vie (CLCV), l'entreprise est condamnée le 27 juillet 2021, par le tribunal judiciaire de Paris, pour avoir sciemment omis de présenter dans des conditions satisfaisantes les restrictions d’usage apportées aux offres de forfaits mobiles 4G/5G, dans le cadre de la commercialisation de ce service. L'accusation porte sur le manque d'informations utiles et loyales apportées aux consommateurs concernant la couverture de ce service et les débits minimaux réellement disponibles. L'opérateur doit s'acquitter d'une amende de 15 000 € de dommages et intérêts en réparation du préjudice subit. Il devra également afficher un mois durant, sur son site web commercial un communiqué judiciaire informant les visiteurs de sa condamnation. Contestant les griefs qui lui sont reprochés, Orange fait appel de la décision.
+
+
+== Communication ==
+
+
+=== Slogans ===
+1988 : « Un avenir d'avance »
+1990 : « Gardez le contact »
+1994 : « Et le monde est plus proche »
+1995-1996 : « Et si vous communiquiez avec les outils d'aujourd'hui »
+1996-1999 : « Nous allons vous faire aimer l'an 2000 »
+2000 : « Bienvenue dans la vie.com »,
+2000-2001 : « Communiquer est une force »
+2001-2002 : « The Future's bright, the Future's Orange » / « Le futur, vous l'aimez comment ? »
+2001-2003 : « Votre e-potentiel va vous surprendre »
+2001-2003 : « Ce sera toujours à nous d'en faire plus »
+2003-2006 : « Communiquons plus »
+2004-2006 : « Notre raison d'innover, c'est vous »
+2006 : « Le futur et toutes les raisons d'y croire »
+2006-2008 : « Open »
+mi-2008-2010 : « Together we can do more » / « Plus loin ensemble »
+2010 : « La vie change avec Orange »
+2012 : « Le service Orange, satisfait quand vous l'êtes » (slogan uniquement pour les offres commerciales)
+2015 : « Vous rapprocher de l'essentiel »
+
+
+=== Mécénats ===
+La Fondation France Télécom voit le jour en 1987, et est renommée « Fondation Orange » le 16 janvier 2007. Elle est dirigée par un conseil d'administration composé de représentants d'Orange, de personnalités extérieures et de représentants du personnel. Elle a pour objectif de soutenir des projets en faveur de l’insertion sociale et professionnelle des jeunes et des femmes en difficulté : les jeunes sans qualification ni emploi, les femmes en situation précaire, les personnes avec autisme. Elle soutient aussi des projets dans le domaine de la culture notamment la musique vocale, la lecture et les musées. Présente dans 30 pays, la Fondation Orange déploie ses actions avec à l’engagement de salariés du Groupe Orange (en mécénat de compétences ou en bénévolat). La sélection des projets soutenus par la Fondation Orange est réalisée par des comités d'experts, spécifiques à chaque grande thématique. Depuis 1987, elle signe entre 300 et 400 conventions chaque année.
+Orange a également signé divers partenariats avec des institutions soit dans un but plutôt philanthropique, soit dans un but plus clairement établi de marketing. On peut ainsi citer des partenariats avec la chaire santé de Sciences Po.
+
+
+=== Activité de lobbying ===
+L'entreprise Orange est inscrite depuis 2009 au registre de transparence des représentants d'intérêts auprès de la Commission européenne. Elle déclare, en 2015, pour cette activité, des dépenses d'un montant compris entre 1 000 000 et 1 250 000 euros, et indique avoir perçu sur le même exercice 2 016 500 euros de subventions de l'Union européenne.
+Orange déclare pour l'année 2019 avoir exercé des activités de lobbying pour un montant compris entre 600 000 et 700 000 euros auprès de l’État français.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Marie Bénilde. « Portrait de France Télécom en multinationale ». Le Monde diplomatique, mai 2009, no 662, p. 21. [lire en ligne]
+Jean-Jérôme Bertolus, Jean-Michel Cedro et Thierry Del Jesus, Qui a ruiné France Télécom ?, Hachette Littératures, 2003.
+Dominique Decèze, La machine à broyer : De France Télécom à Orange : quand les privatisations tuent, éditions Jean-Claude Gausewitch, 2008 (1re édition 2004).
+Yonnel Dervin, Ils m'ont détruit ! : Le rouleau compresseur de France Télécom, Michel Lafon, 2009.
+Bruno Diehl et Gérard Doublet, Orange : le déchirement, France Télécom ou La dérive du management, Gallimard, 2010.
+Yqal Fijalkow, Usagers ou consommateurs ? : France Télécom ou la dérégulation du service public, Presses universitaires du Mirail, 2006.
+Marie Ledun et Brigitte Font Le Bret, Pendant qu'ils comptent les morts : entretien avec un ancien salarié de France Télécom et une médecin psychiatre, La Tengo, 2010.
+Pierre Musso, Les télécommunications, La Découverte. Collection Repères, 2008  (ISBN 978-2-7071-5016-5).
+Ivan du Roy, Orange stressé : Le management par le stress à France Télécom, La Découverte, 2009  (ISBN 978-2-7071-5859-8).
+Vincent Talouit avec Bernard Nicolas, Ils ont failli me tuer, Flammarion, 2010  (ISBN 978-2-08-124101-5).
+
+
+=== Articles connexes ===
+Liste des opérateurs de télécommunications
+Liste des opérateurs de réseau mobile dans le monde
+Opérateur de réseau mobile
+Syndicalisme dans les Postes et télécommunications françaises
+
+
+=== Liens externes ===
+
+Sites officiels : (fr + en) www.orange.com, www.orange.fr, (fr + en) www.francetelecom.com et agence.orange.fr
+Ressources relatives aux organisations : SIREN data.gouv.fr Registre de transparence de l'UE 
+Ressource relative à la vie publique : Nominations au Journal officiel 
+Ressource relative à la recherche : CrossRef 
+
+Fondation Orange
+International wholesale solutions
+
+ Portail des télécommunications   Portail des entreprises   Portail de l’informatique   Portail de la France

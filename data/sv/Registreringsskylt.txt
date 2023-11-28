@@ -1,0 +1,464 @@
+En registreringsskylt är en skylt som anger ett fordons registreringsbeteckning.
+Regler för skyltarna finns i Wienkonventionen om vägtrafik, som åtminstone alla länder i Europa följer. Där står att bilar som ska köras utanför sitt land ska ha registreringsskyltar med latinska bokstäver och vanliga siffror. En oval dekal, nationalitetsmärke, som anger landskod ska finnas bak på fordonet, och sedan 2006 kan landskoden även vara integrerad i registreringsskylten. Nationalitetsmärket ska då finnas på både den främre och den bakre skylten, märket får även visa ett nationellt symbol (så som flagga), eller symbol av en ekonomisk organisation landet är medlem av (till exempel EU-flaggan). Nationalitetsmärket skall placeras längst till vänster eller höger på skylten, och det ska vara enkelt att skilja nationalitetsmärket från själva registreringsnumret, genom till exempel använda en annan bakgrundsfärg eller ett streck.
+
+
+== Afrika ==
+
+
+=== Egypten ===
+Registreringsskyltarna har vit botten och svarta tecken, med ett färgfält högst upp, vars färg varierar med fordonstyp. I färgfältet står landets namn på engelska och arabiska. I det vita fältet finns registreringsnumret som består av 3–4 siffror och 2–3 bokstäver. Indo-arabiska siffror och arabiska bokstäver har större stil, och under finns samma kod med europeiska siffror och bokstäver i mindre stil. Före 2008 användes skyltar med bara Indo-arabiska siffror.
+
+
+=== Kenya ===
+Landskod: EAK
+Kenya har vita skyltar med tre bokstäver och tre siffror och en bokstav. Den första bokstaven är alltid K utom för ett fåtal fordon med särskild ägare såsom regeringen.
+
+
+=== Marocko ===
+Landskod: MA
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av (från höger) en siffra, ett vertikalt streck, en bokstav ur det arabiska alfabetet (för närvarande endast أ/['alif] och ب/[ba']), ytterligare ett vertikalt streck och avslutningsvis två till fem siffror. Skyltarna är personliga och bilarna byter alltså skyltar vid ägarbyte. Diplomatbilar har gula skyltar och statsägda bilar har svartgrå skyltar.
+
+
+== Asien ==
+
+
+=== Indien ===
+Landskod: IND
+Indiska skyltar har vanligen nio eller tio tecken. Två bokstäver för delstat, två siffror för region och därefter en eller två bokstäver och fyra siffror. Privata fordon har svarta tecken på vit bakgrund, och fordon ägda av organisationer har svarta tecken på gul bakgrund. Det finns fler färgkombinationer, till exempel för elbilar. Landskoden IND kan stå i liten stil till vänster.
+
+
+=== Israel ===
+Landskod: IL
+Registreringsskyltarna har svarta tecken på gul botten. Registreringsnumren består enbart av siffror uppställda NN NNN NN. Nyare registreringsskyltar har ett blått märke med landskoden IL och en liten israelisk flagga på vänster sida. Detta märke påminner om EU-märkena som finns på många europeiska registreringsskyltar.
+
+
+=== Japan ===
+Landskod: J
+Registreringsskyltarna har olika färger beroende på typ av bil (lätt/tung) och användning (privat/kommersiell). De har två rader. I övre raden står stadens namn med kanji (japanska tecken) och en siffra baserat på klassificeringen av fordonet, samt ytterligare två siffror. Nedre raden består av ett hiraganatecken och fyra siffror. Skyltarna gäller inte utanför Japan, så för utlandsresor måste man skaffa en översättningsskylt med latinska bokstäver.
+
+
+=== Kina ===
+Kina har blå bakgrund med vita tecken för bilar och gula med svarta tecken för tunga fordon. Det finns ett kinesiskt tecken (för provins), en latinsk bokstav och vanligen 5 latinska bokstäver och siffror blandat. Kina har inte skrivit på Wienkonventionen om vägtrafik och kräver att utländska fordon inklusive de från Hongkong och Macau monterar på kinesiska skyltar vid gränsen. Dessa skyltar har svart bakgrund.
+
+
+==== Hongkong ====
+Hongkong har brittiskinspirerade skyltar med vit bakgrund fram och gul bakgrund bak och svarta tecken. Vanligen används två latinska bokstäver och ett tal 1-9999. Bilar som också körs i Fastlandskina brukar ha svarta kinesiska skyltar monterade bredvid.
+
+
+=== Korea ===
+Landskod: KR eller KOR
+
+
+==== Sydkorea ====
+Registreringsskyltarna har oftast grön botten och vita tecken, men det finns avvikelser. Registreringsnumren har två rader. På den övre finns några hangul-stavelser. Tills 2003 var det stadens namn i klartext, till exempel 서울 för Seoul, men det är borta nu. Dessutom finns två siffror där. I nedre raden finns fyra större siffror. Före 2003 fanns där en hangulstavelse, men den har flyttats till övre raden. Det finns tusentals möjliga stavelser i hangul. Man håller på att införa vita skyltar med svarta tecken, en rad, i europeisk stil. De ska ha samma tecken som innan men med en rad.
+
+
+=== Libanon ===
+Landskod: RL
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av tre siffror, ett mellanrum och en siffra. Alternativt består de av fem siffror som är sammansatta. Siffrorna är ganska små. På vänster sida sitter siffror av europeisk typ och under dessa finns texten LIBAN. På höger sida finns först arabisk text och sedan finns siffror under av arabiskt snitt. Nyare registreringsskyltar har ett blått fält på vänster sida som påminner om ett EU-märke men det är försett med träd som härstammar från Libanons flagga istället för EU-stjärnor. I det blå fältet finns också arabisk text som kännetecknar Libanon istället för europeiska bokstäver som finns i det blå fältet på till exempel svenska registreringsskyltar. Libanons registreringsskyltar har i helhet ett snitt som ser europeiskt ut.
+
+
+=== Thailand ===
+Registreringsskyltarna har för vanliga privatbilar vit botten och svarta tecken. De har två thailändska bokstäver och upp till fyra siffror. Vissa fordonstyper har gröna eller blå tecken. Motorcyklar har överst tre thailändska bokstäver, i mitten provinsens namn i små tecken och underst max tre siffror. Lastbilar och bussar har bara svarta siffror på gul bakgrund.
+
+
+=== Turkiet ===
+Landskod: TR
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av två siffror, ett mellanrum, tre bokstäver, ett mellanrum och två siffror. Nyare registreringsskyltar har ett blått fält på vänster sida som påminner om ett EU-märke men det saknar EU-stjärnor.
+Av de två första siffrorna kan man utläsa varifrån fordonet kommer, det vill säga är registrerat. 34 betyder exempelvis Istanbul
+
+
+== Europa ==
+
+
+=== Albanien ===
+Landskod: AL
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av två bokstäver, ett mellanrum, fyra siffror, en punkt och två bokstäver. Nyare registreringsskyltar har ett blått fält på vänster sida med den albanska örnen.
+
+
+=== Andorra ===
+Landskod: AND
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av fem siffror. Nertill på registreringsskyltarna finns texten PRINCIPAT D'ANDORRA ("Furstendömet Andorra"). På vänster sida sitter en vapensköld. Formatet på registreringsskyltarna är kortare än vad som annars är vanligt i Europa. Till utseendet påminner de mer om amerikanska registreringsskyltar än om europeiska.
+
+
+=== Belarus ===
+Landskod: BY
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren för personbilar består av fyra siffror, ett mellanrum, två bokstäver, ett bindestreck och en siffra. För yrkesfordon såsom lastbilar består de av två bokstäver, ett mellanrum, fyra siffror, ett bindestreck och en siffra. Bokstäverna är egentligen kyrilliska men bara sådana där likadana finns i latinska alfabetet används. Den sista siffran anger region. Skyltarna har en belarusisk flagga på vänster sida.
+Ovanstående text avser skyltar som tillverkats från 2004. Äldre skyltar finns i trafik som har röda tecken på vit bakgrund.
+
+
+=== Belgien ===
+Landskod: B
+Registreringsskyltarna har vit botten, röd ram och röda tecken. Registreringsnumret består av först en siffra eller bokstav, sedan tre bokstäver och sedan tre siffror med bindestreck mellan grupperna. Det första tecknet infördes 2010 på grund av brist på nummer, och är 1 eller 2 för normala personbilar och lastbilar. Det är en bokstav för en del kategorier såsom M för motorcykel och T för taxi. Belgiska registreringsskyltar är personliga för ägaren och bilen byter således registreringsbeteckning när den byter ägare.
+
+
+=== Bosnien och Hercegovina ===
+Landskod: BIH
+
+Sedan 28 september 2009 byts alla skyltar i Bosnien och Hercegovina ut. De nuvarande skyltarna startar med en bokstav sedan två siffror, bindestreck, bokstav, bindestreck och slutar med tre siffror. Ex: X00-X-000
+Endast dessa bokstäver får användas: A, E, J, O, K, M, T eftersom de skrivs likadant i de latinska och kyrilliska alfabeten. Bokstäverna och numren har ingen geografisk eller liknande betydelse. De har en blå remsa till vänster med texten "BIH" vilket man inte haft förut.
+De förra skyltarna från 2000 startade med tre siffror, bindestreck, en bokstav, bindestreck, och tre siffror. Ex: 000-X-000. Före 1992 fanns skyltar av jugoslavisk typ (ej i bruk längre). De hade två latinska bokstäver för provins och ett antal siffror och två bokstäver. Från 1992 infördes lite annorlunda skyltar i den kroatiska delen, medan det i den serbiska delen av BiH infördes skyltar med kyrilliska bokstäver.
+
+
+=== Bulgarien ===
+Landskod: BG
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av en eller två bokstäver, ett mellanrum, fyra siffror och två bokstäver. De första bokstäverna anger provins med kyrilliska bokstäver, i vissa fall latinska. Endast bokstäver som liknar latinska bokstäver används, exempelvis В=Varna, С=Sofia, ВТ=Veliko Tarnovo och PB=Plovdiv. Nyare registreringsskyltar har ett blått fält på vänster sida som påminner om ett EU-märke men det är försett med en flagga istället för EU-stjärnor. Under 2007 infördes en EU-flagga istället. Det finns möjlighet att köpa en personlig skylt med provinskod och valfri text efter, det är dock dyrt och sällsynt. Det finns äldre skyltar (från före 1992) med kyrilliska provinskoder som till exempel БЛ.
+
+
+=== Cypern ===
+Landskod: CY
+Registreringsskyltarna framtill har vit botten och svarta tecken. Baktill har de gul botten och svarta tecken. Registreringsnumren består av tre bokstäver, ett mellanrum och tre siffror. De har sedan 2014 ett likadant typsnitt som Tysklands skyltar. Före 2004 hade de likadant typsnitt som Storbritanniens skyltar, 2004-2013 liknande äldre tyska skyltar. Registreringsskyltar har sedan 2004 ett EU-märke på vänster sida. Nordcypern följer den äldre stilen Cypern hade före 1990 vilket liknar brittiska skyltar. Akrotiri och Dhekelia är brittiska områden men har skyltar i cypriotisk stil och tillverkade där, dock med de fyra bokstäverna SBAA och två siffror.
+
+
+=== Danmark ===
+Landskod: DK
+Registreringsskyltar för personbilar har vit botten, svarta tecken och röd kant. Bilar oskattade vid försäljning, främst företagsägda bilar såsom lastbilar, har gul botten och svarta tecken. En ny typ är sådana med både gul och vit bakgrund som är för tjänstebilar som också får köras privat. Dessa skyltar kallas med ett slanguttryck papegojskyltar. Äldre fordon kan ha svart botten med vit text, då detta användes tidigare.
+Registreringsnumren består av två bokstäver, ett mellanrum och max fem siffror. Det är ett litet mellanrum mellan andra och tredje siffran. Skyltarna är mycket lika de norska äldre (ungefär samma typsnitt), men de danska har en röd ram runt.
+Bokstäverna och numren baseras inte på någon geografisk ort för fordonet, däremot finns det nummerserier för olika fordonstyper och skyltfärger.
+Nya skyltar med EU-märke infördes år 2008, sist av alla dåvarande EU-länder.
+
+
+==== Färöarna ====
+Registreringsskyltarna har vit botten och blå tecken, två bokstäver ett mellanrum och tre siffror. Till vänster finns även en blå ruta med flaggan och bokstäverna FO som förkortning för landet. De infördes 1996 och liknar de isländska skyltarna.
+Äldre bilar har skylt av dansk typ men med bokstaven F istället för de två danska bokstäverna.
+
+
+==== Grönland ====
+Skyltarna är av dansk typ med bokstäverna GR och fem siffror.
+
+
+=== Estland ===
+Landskod: EST
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av tre siffror, ett mellanrum och tre bokstäver. Nyare registreringsskyltar har ett EU-märke på vänster sida. Dessa registreringsskyltar är till utseendet ganska lika de svenska men har siffror och bokstäver i omvänd ordning och förväxlas åtminstone inte av P-vakter och trängselskattkameror. Militära skyltar har vit text på svart botten alltid tre siffror följt av EKV (Eesti Kaitsevägi=Estniska armén).
+
+
+=== Europeiska unionen ===
+EU har infört en EU-lag (rådets förordning (EG) nr 2411/98), som anger att registreringsskyltar kan ha en blå remsa längs vänsterkanten, med EU-symbolen och nationalitetsbeteckning, och att remsan ska erkännas som nationalitetsmärke i hela EU (och därmed EES). Denna EU-lag utfärdades efter att vissa medlemsländer på eget initiativ hade infört sådana skyltar. Det är dock inte obligatoriskt för EU-länderna att utfärda EU-skyltar, bara obligatoriskt att erkänna dem (inget extra nationalitetsmärke behövs då). Från 2008 utfärdar alla EU-länder skyltar med remsor, och Belgien och Danmark var sist att göra detta. De flesta europeiska länder utanför EU har infört liknande remsor och dessa brukar ha nationsflagga, istället för EU-symbol. Saknas nationalitetsmärke i registreringsskylten behövs ett särskilt ovalt nationalitetsmärke som föreskrivs i Wienkonventionen.
+
+
+=== Finland ===
+Landskod: FIN
+Registreringsskyltarna (de kallas "registerskyltar") har vit botten och svarta tecken. Registreringsnumret består av tre bokstäver och tre siffror med ett bindestreck mellan grupperna. Registreringsskyltarna är kortare än i de flesta andra europeiska länderna vilket gör att bilar registrerade i Finland blir lätta att känna igen när de är utomlands. Registreringsskyltar har sedan 1 maj 2001 EU-märke på vänster sida, om ägaren inte särskilt anhåller om skyltar av gammal modell. Se även Åland. Man kan också köpa en kombination.
+Landskoden ändrades från 1994 från SF till FIN. Den äldre landskoden SF förekommer fortfarande och används på museiregistrerade bilar.
+Till 1972 (i somliga delar av landet till 1973, i undantagsfall till 1974) hade skyltarna vita tecken på svart botten. Bakgrunden till detta var att till 1966 hade varje län ett eget fordonsregistreringssystem. Registreringsnumret hade två eller tre bokstäver och en, två eller tre siffror, men tillsammans maximalt fem tecken. Dessa skyltar kan ännu ses och används också för museiregistrerade bilar. Första bokstaven gav länet (Helsingfors som undantag vilket hade egna bokstäver) och skylten skulle bytas om bilens län ändrades. Efter att nya skyltar, med vit botten och svarta tecken, börjades utges behövde skyltarna inte längre bytas om bilen flyttade till ett annat län, men första bokstaven angav ännu länet där bilen först var registrerad. Detta system användes till oktober 1989. Nuvarande system har ingen geografisk relation, men många bokstavskombinationer utges samtidigt till exempel BHG-xxx under våren 2005. Vissa bokstavskombinationer har inte blivit utgivna.
+
+
+==== Åland ====
+Landskod: FIN (Inofficiellt AX)
+Motorfordonsbyrån på Åland registrerar fordon och utfärdar registreringsskyltar (de kallas inofficiellt "registerskyltar" eller "brickor"). Tillverkning ombesörjs av landskapsregeringen som också beslutar om deras mått och utseende.
+Skyltarnas nuvarande utseende infördes 1 juni 1992. De har blå ram och text på vit botten. Överst finns Ålands landskapsvapen, texten "ÅLAND" och Ålands flagga. Registreringsskyltarna finns i två storlekar, de långa skylten har måtten 390mm x 130mm och den korta skylten har måtten 345mm x 130mm. Nedanför finns registreringsnumret som börjar med bokstavskombinationen "ÅL" som följs av en bokstav i stigande ordning, till exempel "ÅLB, ÅLC, ÅLD" och så vidare Bokstavskombinationerna "ÅLI", "ÅLQ" "ÅLÅ", "ÅLÄ" och "ÅLÖ" används inte. Efter bokstäverna finns en, två eller tre siffror. Den 1 januari 2008 togs serien ÅLY i bruk. Före 1992 användes finska skyltar, dock utan bindestreck mellan bokstäver och siffror, fast de började även då med "ÅL", dessa skyltar ges numera endast ut till veteranregistrerade fordon.
+Möjlighet finns att beställa personliga skyltar med minst 2 och max 7 tecken. De tecken som tillåts är samtliga bokstäver i det svenska alfabetet och siffrorna 1–9.
+Landskapsregeringen vill införa AX som landskod, enligt ett protokoll från 2003 (för post hade den införts, och som toppdomän infördes .ax 2008), men det har inte blivit av ännu, eftersom frågan måste drivas av Finlands utrikesministerium i FN, men ministeriet gav ett negativt besked vid första kontakten. "EU-skyltar" har heller inte införts på Åland. Således används de vanliga finska nationalitetsmärkena, även om både nationalitetsmärken och märken motsvarande EU-skyltar med texten "AX" säljs i handeln. Dessa är dock inte godkända utan mer att se som ett uttryck för lokalpatriotiskt skämtsamhet.
+
+
+=== Frankrike ===
+Landskod: F
+Registreringsskyltarna är vita med svarta tecken på fram och bak sedan 2009. Innan dess var de vita framtill och gula baktill. Registreringsnumren från före 2009 består av en till fyra siffror, ett mellanrum, två till tre bokstäver, ett mellanrum och två siffror. De två sista siffrorna anger vilket departement bilen tillhör. Nyare registreringsskyltar har ett EU-märke på vänster sida. Äldre skyltar har svart botten med vita siffror (lika framtill och baktill).
+I Frankrike förekommer "Exportskyltar". Dessa har vit text på röd botten och består av tre siffror, mellanrum, bokstäverna "TT", mellanrum samt två siffror som betecknar departementet de är registrerade i.
+I april 2009 infördes nya registreringsskyltar. Skälet till förändringen var att tillgängliga registreringsnummer i flera departement, som i Paris stad, nästan tog slut samtidigt som antalet nya fordon fortsatte öka. Varje bil får ett unikt och permanent nationellt nummer. Nya registreringsskyltar har vit botten och svarta tecken både på främre och bakre sidan bilen. Registreringsnumret består av två bokstäver, ett bindestreck, tre siffror, ett bindestreck och två bokstäver. Bilar med äldre skyltar behåller dem.
+Vissa fransmän och lokala politiker blev upprörda av bilregistreringsreformen eftersom departementens nummer skulle försvinna. I Frankrike spelar departementets nummer en stor roll i fransmännens identitet och de skiljer lokala samhällen från andra. Därför infördes en andra blå ruta till höger som anger departements nummer och regionens flagga. Var och en får välja vilket departement som helst. Om man flyttar eller köper en begagnad bil kan man klistra en ny etikett på remsan.
+
+
+=== Georgien ===
+
+Landskod: GEO
+Registreringsskyltarna har vit botten och svarta tecken. Det är tre bokstäver och tre siffror, och till vänster är det en liten flagga och landskoden GEO. Abkhazien och Sydossetien har ensidigt utropat självständighet och tillverkar egna skyltar som är förbjudna i det egentliga Georgien.
+
+
+=== Grekland ===
+
+Landskod: GR
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av tre bokstäver, ett bindestreck och fyra siffror. Som bokstäver används endast sådana versaler ur grekiska alfabetet som det finns likadana till utseendet i det latinska alfabetet. Man använder A, B, E, Z, H, I, K, M, N, O, P, T, Y, X. De två första bokstäverna indikerar distriktet där bilen registrerades, dock inte någon lättförståelig förkortning. Vissa fordon tillhörande försvar, polis, brandkår, diplomater mm har grekiska bokstäver som inte kan ses i latinska alfabetet, till exempel brandkåren ΠΣ (Pyrosvestikí = PS). Nyare registreringsskyltar har ett EU-märke på vänster sida.
+
+
+=== Irland ===
+Landskod: IRL
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av två siffror, bindestreck, en-två bokstäver, bindestreck och upp till sex siffror. Nyare registreringsskyltar har ett EU-märke på vänster sida.
+Numren motsvarar årsmodell på bilen-county-reg nr, d.v.s. 91-LS-72 innebär en bil från County Laois årsmodell 1991 och registrerad som nr 72 under det året (1991). (Se "Vehicle registration plates of the Republic of Ireland", Index mark codes för lista över county-koder på engelska Wikipedia). Gamla plåtar (före 1987) har en bokstavs- och nummerkombination i en följd, med andra bokstavskoder än nu.
+
+
+=== Island ===
+Landskod: IS
+Registreringsskyltarna har två bokstäver och tre siffror. De har vit botten och blå tecken. I mellanrummet mellan bokstäverna och siffrorna klistras ett rektangulärt skattekvitto. Ibland förekommer även bokstav på första sifferpositionen.
+
+
+=== Italien ===
+Landskod: I
+Tidigare fick bilarna en registreringsskylt med två bokstäver för provins och sex siffror. Svarta med vita tecken till en början men senare vita med svarta tecken. Rom hade "Roma" och sex-sju siffror (När antalet nummer var slut förekom även en enstaka bokstav i själva numret). Dessa skyltar används fortfarande för bilar som registrerat före 1994-03-02, dagen då man ändrade till en ny "logik".
+Numera gäller två bokstäver, ett mellanrum, tre siffror och två bokstäver. Man började på AA som de första två bokstäverna och har nu (september 2019) nått till FZ. I mellanrummet sitter ett mycket litet märke som ska visa att registreringsskylten är äkta. Av alfabetets 27 bokstäver används alla utom I, O, Q & U. Registreringsskyltarna framtill är i ett mindre format jämfört med de bakre. Baktill är de i normalt europeiskt format. Sedan 1999-01-13 har de italienska registreringsskyltarna ett EU-märke på vänster sida och ett liknande blått band till höger. Eftersom de nuvarande skyltarna inte har någon geografisk kod i själva numret kan man ha sin provinskod i det högra blå fältet (BZ = Bolzano).
+Fordon (inte motorcyklar) med tvåradig skylt baktill har, sedan 1994, Z som första bokstav. 
+Motorcyklar har en tvåradig skylt bak med två bokstäver och fem siffror.
+Lokala (kommunala) poliser har vid nybilsköp, sedan 2009, ett registreringsnummer med Y som första bokstav.
+Släpvagnar har, sedan 2013-02-20, samma typ av skylt som vanliga fordon men med X som första bokstav. 
+Släpvagnar som registrerades före detta datum fick ett separat nummer med texten "Rimorchio" med två bokstäver och fem siffror. 
+Dessa släpvagnar skall vid färd kompletteras med en gul skylt som visar dragfordonets registreringsnummer.
+
+
+=== Kosovo ===
+
+Landskod: KS, RKS
+Registreringsskyltarna har vit bakgrund med svarta tecken. I början är det två siffror som visar från vilket distrikt sedan visas Kosovos landssymbol, därefter tre siffror med bindestreck samt två extra bokstäver.
+
+
+=== Kroatien ===
+Landskod: HR
+Registreringsskyltarna har vit bakgrund med svarta tecken. I början är det två bokstäver och Kroatiens landssymbol, därefter tre eller fyra siffror med bindestreck samt två extra bokstäver. De två första bokstäverna visar från vilken stad bilen kommer. Till exempel på bilden ZG står för Zagreb.
+Kroatien gick med i EU juli 2013, men införde inte genast en blå remsa. En plan finns för förändring av skyltarna, publicerad december 2013.
+
+
+=== Lettland ===
+Landskod: LV
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av två bokstäver, ett mellanrum och fyra siffror. I mellanrummet sitter ett bindestreck. Nyare registreringsskyltar har ett EU-märke på vänster sida.
+
+
+=== Liechtenstein ===
+Landskod: FL
+Liechtensteins registreringsskyltar har svart botten med vit text. Samtliga registreringsnummer har bokstäverna FL följt av siffror och Liechtensteins vapen. Utformningen påminner om de schweiziska skyltarna, men med inverterade färger. Ägaren har möjlighet att flytta en och samma skylt mellan flera bilar. 
+
+
+=== Litauen ===
+Landskod: LT
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av tre bokstäver, ett mellanrum och tre siffror. I mellanrummet sitter två runda kontrollmärken. Nyare registreringsskyltar har ett EU-märke på vänster sida. Dessa registreringsskyltar är till utseendet mycket lika de svenska och har bokstäver och siffror i samma ordning och kan därför förväxlas. Enligt svenska Vägverkets trängselskatteavdelning  kommer trängselskattekamerorna inte se skillnad på litauiska och svenska skyltar. Ägaren av en svensk bil får protestera och så görs en manuell kontroll. Skatten måste genast betalas ändå, och pengarna fås tillbaka sedan. Om det händer minst två gånger kommer manuell kontroll fortlöpande göras för det numret.
+
+
+=== Luxemburg ===
+Landskod: L
+Registreringsskyltarna har gul botten med svart text. Registreringsnumret består av en till två bokstäver följt av ett nummer. Nyare registreringsskyltar har en EU-remsa till vänster på normalt sätt. Äldre skyltar har en hel EU-flagga på vänster sida, utan landsbeteckning.
+
+
+=== Malta ===
+Landskod: M
+Registreringsskyltarna har vit botten svarta tecken. Registreringsnumret består av tre bokstäver och tre siffror med ett bindestreck mellan grupperna. Nyare registreringsskyltar har ett EU-märke på vänster sida.
+
+
+=== Moldavien ===
+Landskod: MD
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av två bokstäver, ett mellanrum, två bokstäver ett mellanrum och tre siffror. På vänster sida sitter Moldaviens flagga och under denna bokstäverna MD.
+
+
+=== Monaco ===
+Landskod: MC
+Registreringsskyltarna har vit botten med blå ram och blåa bokstäver. Till vänster sitter ett registreringsbevis samt årtal. Fordon som ägs av utlänningar boende i Monaco har en bokstav följd av tre siffror medan bilar ägda av monegasker och inhemskt ägda företag består av enbart fyra siffror.
+
+
+=== Montenegro ===
+Landskod: MNE
+Montenegro är numera självständigt och har infört en egen variant. Dessa skyltar har två bokstäver för kommun, sedan oftast två bokstäver och tre siffror. De har ett blått fält med MNE utan symbol till vänster, och Montenegros riksvapen efter kommunkoden. Endast latinska bokstäver används, inte kyrilliska. Detta system infördes juni 2008.
+Äldre bilar behåller tidigare skyltar som är likadana som Serbien har. Se Serbien.
+
+
+=== Nederländerna ===
+Landskod: NL
+Nederländerna har gul botten och svarta tecken. Registreringsnumret består av tre grupper med två tecken i varje separerade med bindestreck. Varje grupp består av siffror eller bokstäver. För att skapa fler tillgängliga registreringsnummer kan numera (från 2006) tecknen även fördela sig som N-BBB-NN eller NN-BBB-N (N=siffra, B=bokstav). Som bokstäver används endast konsonanter och inte heller C, M, Q och W för att undvika olämpliga kombinationer och tecken som liknar siffror och andra bokstäver. Minibussar och liknande fordon har V som första bokstav. Lastbilar har B som första bokstav. Det finns ingen geografisk kod i registreringsnumren.
+Om ett släpfordon dras av ett dragfordon som har samma ägare brukar normalt släpfordonets skylt ha samma registreringsnummer som dragfordonet. Om ett släpfordon ej har ett eget registreringsnummer skall detta (enligt de nya reglerna) vara försett med en vit registreringsskylt med dragfordonets registreringsnummer.
+I Sverige gäller att om man parkerar en nederländsk eller belgisk bil med SMS eller mobilapp, bör man ta med streck (i motsats till tyska bilar), om det går eftersom en del appar inte accepterar bindestreck. Detta regleras dock enligt polisens eller parkeringsbolagets egna avtal, bedömning eller tekniska lösning på sitt datasystem vilket kan variera.
+
+
+=== Nordmakedonien ===
+Landskod: NMK
+Registreringsskyltarna har vit botten och svarta tecken. Längst upp och längst ner finns det ett smalt rött streck. Registreringsnumren består av två bokstäver, ett mellanrum med ett rött kontrollmärke, tre siffror och därefter två bokstäver. De två första bokstäverna visar vilken stad fordonet kommer ifrån.
+
+
+=== Norge ===
+Landskod: N
+
+Registreringsskyltar för personbilar har vit botten och svarta tecken, bilar som har max. 3 sittplatser, och har lastutrymme av en bestämd storlek, har grön botten och svarta tecken. Det finns även blå bakgrund för diplomatfordon, röd för tillfälliga skyltar, orange för militära fordon och slutligen svart bakgrund för skattebefriade fordon som inte är avsedda för allmän väg. Registreringsnumren består av två bokstäver, ett mellanrum och fem siffror.
+De två bokstäverna anger område för första registrering, där varje område har tilldelats ett antal bokstavskombinationer baserat på antal invånare i området. Bokstavskombinationerna löper i stort sett alfabetiskt från Östlandet ner mot Sörlandet och sedan vidare norrut genom Vestlandet, Tröndelag och Nordnorge. Till exempel används koderna AA, AB och AC för Halden i Østfold fylke medan ZZ används för Lakselv i Finnmark fylke. https://web.archive.org/web/20120626124346/http://www.vegvesen.no/Kjoretoy/Fakta+og+statistikk/Bilskiltserier]. Undantaget är batteridrivna elfordon vars skylt börjar med EL, EK, EV, EB, EC, ED eller EE, vätgasdrivna fordon med HY, gasdrivna fordon med GA och diplomatfordon med CD.Norge införde i början på 1990-talet ett godkännandekvitto att klistras på registreringsskylten (mellan bokstäverna och siffrorna). De fick egentligen inte riktigt plats eftersom mellanrummet var minimalt, och nya skyltar tillverkades därefter med lite större mellanrum. En del äldre skyltar används fortfarande. Den 1 maj 2012 avskaffades godkännandekvittot, och mellanrummet har sedan dess gjorts mindre. Statens vegvesen införde 1 november 2006  registreringsskylt med integrerat nationalitetsmärke, och med bättre läsbarhet. Märket är utformat som ett blått fält i skyltens vänstra kant, med en norsk flagga i övre halvan och ett vitt "N" nedanför. Med andra ord liknar det nationalitetsmärket på "EU-skyltarna" som används i de flesta av EU:s medlemsländer, och avsikten är att det ska gälla som nationalitetsmärke utomlands. Undantag blir de som har skylt av mindre format, de får inget nationalitetsmärke, på grund av platsbrist.
+Man kan nu också beställa ”personlige kjennemerker” efter mönster av amerikanska ”vanity plates”. Dessa får egentligen inte användas utomlands, även om detta är vanligt förekommande.
+
+
+=== Polen ===
+Landskod: PL
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av två eller tre bokstäver, ett mellanrum med tre till fem siffror samt i vissa fall en eller två bokstäver. Den första bokstaven anger vilket vojvodskap (län) fordonet kommer ifrån, den andra eller den andra och tredje i kombination med varandra, anger vilket powiat (stadskommun) eller powiat ziemski (kommun) inom vojvodskapet fordonet kommer ifrån. Dock finns några undantag, bland annat på fordon från Warszawa som börjar med bokstaven "W" och där den andra bokstaven anger i vilken stadsdel fordonet är registrerat. I mellanrummet på varje skylt sitter ett litet kontrollmärke (30×20 mm) som blänker och i framrutan till höger i färdriktningen, sitter ett större märke (50×100 mm), med registreringsnumret på. Har fordonet bara en skylt, så ska det märke som blir över sitta fastklistrat på registreringsbeviset.
+Det förekommer även äldre skyltar med svart botten och vit text som utfärdades till och med den 30 april 2000. Nyare registreringsskyltar har ett blått fält på vänster sida som påminner om ett EU-märke men det är försett med en polsk flagga istället för EU-stjärnor. De nyaste från och med den 2 maj 2006 har EU-stjärnor enligt EU-standard.
+
+
+=== Portugal ===
+Landskod: P
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av två bokstäver, en punkt, två siffror, en punkt och två bokstäver. Nyare registreringsskyltar har ett EU-märke på vänster sida och till höger ett gult fält med siffror som anger månad och år för första registrering.
+
+
+=== Rumänien ===
+Landskod: RO
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av två bokstäver, ett mellanrum, två siffror och tre bokstäver. De första två bokstäverna anger vilket län (judeţ) fordonet kommer ifrån. Nyare registreringsskyltar har ett blått fält på vänster sida som påminner om ett EU-märke men det är försett med en flagga istället för EU-stjärnor. Sedan 2007 har man slutat med flaggan och övergått till EU-stjärnor istället sedan landet blivit medlem i EU.
+
+
+=== Ryssland ===
+Landskod: RUS
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av en bokstav, tre siffror och två bokstäver. Till höger finns en ruta med en flagga med landskoden RUS (som är skrivet med latinska bokstäver) och ett nummer. Siffrorna i rutan anger vilken region av landet bilen kommer från. (Se "Vehicle registration plates of Russia", för den engelska, eller "Индекс автомобильных номеров России" för den ryska artikeln).
+De kyrilliska bokstäver som finns på ryska registreringsskyltar är de som är likadana som latinska bokstäver, även om de uttalas annorlunda. De som förekommer är А, В, Е, К, М, Н, О, Р, С, Т, У och Х.
+Det finns vissa gamla skyltar (svart botten) i bruk med tecken såsom Ж.
+För lastbilar och bussar finns kravet att registreringsnumret ska målas stort på baksidan av fordonet.
+
+
+=== San Marino ===
+Landskod: RSM
+Registreringsskyltarna har vit botten och blå tecken. Registreringsnumren består av en bokstav och fyra siffror som skrivs ihop. På vänster sida sitter en vapensköld. Formatet på registreringsskyltarna är kortare än vad som annars är vanligt i Europa.
+
+
+=== Schweiz ===
+Landskod: CH
+Schweiz har olika registreringsskyltar fram och bak. Den främre är en enradig mindre skylt med vit botten och svarta tecken. Den bakre är normalt en tvåradig skylt med vit botten och svarta tecken. Den övre raden består av Schweiz riksvapen, kantonbeteckningen och kantonens vapen. Den nedre raden har upp till sex siffror följt av en eller två bokstäver. Det är lika vanligt med enradiga skyltar bak som tvåradiga. Då den bakre skylten är enradig inleds denna med Schweiz riksvapen, två bokstäver som visar vilken kanton fordonet kommer från, följt av en liten prick i mitten och en till sex siffror. Detta är ett löpnummer som följer med ägaren och inte fordonet. Skylten avslutas med kantonens vapen. Om en ägare har flera bilar men bara använder en i taget kan denne ha ett s.k. "växelnummer". Då delar alla bilarna samma nummer och skyltarna sitter på det fordon som skall användas.
+Bokstäver efter siffrorna är ej vanligt, men bokstaven "V" finns på hyrbilar och bokstaven "U" på s.k. "garage-skyltar" vilket närmast motsvarar svenska saluvagnsskyltar.
+De fordon som enbart har en bokstav på skylten är vissa av postens fordon som har "P". Kantonsvapen finns då ej heller på skylten, och militära fordon som har "M". Dessa har dock svarta skyltar med vita tecken. Ej heller dessa har något kantonsvapen, men riksvapnet inleder skylten.
+Schweiz har haft samma standard på sina registreringsskyltar sedan 1932 och har därför den äldsta skyltstandarden i Europa.
+
+
+=== Serbien ===
+
+Landskod: SRB
+Registreringsskyltarna har vit botten och svarta tecken och börjar med två bokstäver, som kännetecknar vilken stad fordonet kommer ifrån.
+År 2008 infördes nya skyltar med stadskod, sedan tre siffror och två bokstäver. Dessa bokstäver är latinska. De har ett blått fält med SRB utan symbol till vänster, och Serbiens lilla riksvapen efter kommunkoden. Under vapnet står kommunkoden med små kyrilliska bokstäver. Släpfordon har de tre fälten och vapnet i omvänd ordning. Polisen har skyltar med den kyrilliska bokstaven П och sex siffror.
+De tidigare registreringsnumren, som fortfarande är kvar på bilar, består av två latinska bokstäver, ett mellanrum och fem siffror. Mellan tredje och fjärde siffran finns ett bindestreck. I mellanrummet sitter en liten flagga. I Belgrad är det sex siffror istället för fem eftersom det är en större stad med fler fordon.
+
+
+=== Slovakien ===
+Landskod: SK
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av två bokstäver, ett mellanrum, tre siffror och två bokstäver. I mellanrummet sitter dels ett bindestreck, dels ett kontrollmärke. De två första bokstäverna anger vilket distrikt (okres) som fordonet kommer från, till exempel BA=Bratislava. Nyare registreringsskyltar har ett EU-märke på vänster sida.
+
+
+=== Slovenien ===
+Landskod: SLO
+Registreringsskyltarna har vit botten, svarta tecken och grön kant. Även vagnar med häst behöver en giltig registreringsskylt. Registreringsnumren består av två bokstäver, ett mellanrum, därefter antingen bokstav och en siffra eller två siffror därefter ett bindestreck och sedan antingen två siffror och en bokstav eller tre siffror. Den första bokstavsgruppen kännetecknar vilken region som fordonet är registrerat i. I vissa fall är det två bokstäver och tre siffror efter mellanrummet. I mellanrummet sitter en vapensköld som kännetecknar området bilen kommer ifrån. Nyare registreringsskyltar har ett EU-märke på vänster sida.
+
+
+=== Spanien ===
+Landskod: E
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av fyra siffror, ett mellanrum och tre konsonanter. Nummer tilldelas kronologiskt och har ingen geografisk anknytning. På äldre skyltar (fram till 2000) fanns det stadskod (en eller två bokstäver), fyra siffror, och en eller två bokstäver. Större städer hade stadskod såsom till exempel M (Madrid), B (Barcelona) eller GC (Gran Canaria). Nyare registreringsskyltar har ett EU-märke på vänster sida. Kanarieöarna, Ceuta och Melilla ingår i samma system som övriga Spanien.
+
+
+=== Storbritannien ===
+Landskod: UK (tidigare GB)
+
+Registreringsskyltarna framtill har vit botten och svarta tecken. Baktill har de gul botten och svarta tecken.
+Fram till mitten på 1960-talet bestod registreringsnumren av tre bokstäver samt en till tre siffror. Den ursprungliga registreringsorten kunde utläsas ur de två sista bokstäverna. När antalet kombinationer tog slut i vissa distrikt började man med en till tre siffror följt av tre bokstäver. För att ytterligare skapa kombinationsmöjligheter införde man på 1960-talet ytterligare en bokstav på skyltarna. Denna bokstav placerades efter de inledande tre bokstäverna och siffrorna. Från början var det tänkt att alla registreringar som gjordes under ett kalenderår skulle ha samma bokstav (A = 1963, B = 1964 osv.). Bilhandlarna märkte dock att många väntade med att köpa bil till i januari för att få den nya bokstaven. Systemet ändrades därför 1967 så att bilar registrerade under perioden augusti 1967 till juli 1968 fick bokstaven F och i augusti 1969 blev det bokstaven G osv. När man nått slutet på alfabetet vände man på teckenföljden så att skyltarna började med årsbokstaven följt av siffrorna och de tre bokstäverna (A = augusti 1983 till juli 1984 osv.). I februari 1999 infördes bokstavsbytet två gången per år (1 mars och 1 september) som en "mjuk övergång" till den kommande systemändringen.
+Registreringsnumren består sedan september 2001 av två bokstäver, två siffror och tre bokstäver. De två första bokstäverna talar om i vilken del av landet bilen först registrerades (till exempel LA - LY = London, SA - SY samt TA - TY = olika delar av Skottland), de två följande siffrorna vilket halvår den registrerades (07 = mars 2007- augusti 2007, 57 = september 2007 - februari 2008 osv.) och sedan kommer tre slumpmässiga bokstäver. Omkring 2001 infördes ett EU-märke på vänster sida, som 2020 ersattes av en brittisk flagga för nytillverkade skyltar.
+Registreringsnumret följer bilen även om den byter registreringsort. En bilägare kan dock ansöka om att få skifta nummer mellan sina egna fordon, vilket utnyttjas genom att gamla bilar med attraktiva nummerkombinationer säljs dyrt. Därför kan även ett nytt fordon ha en gammal nummerkombination.
+Personer som övningskör har ett stort rött L ("learner") synligt på bilen framifrån och bakifrån. I Wales kan bokstaven D ("dysgwr") förekomma.
+Fordon registrerade i Nordirland har tre bokstäver och fyra siffror, samma färg och stil i övrigt. Från 2020 slutade man ha flagga på nordirländska skyltar då EU-flaggan ersattes med en blå yta.
+
+På Kanalöarna och Isle of Man, har man egna system. Jersey-skyltar liknar de brittiska men har bokstaven J och 1–6 siffror efter, med Jerseys vapensköld och koden GBJ i remsan längst till vänster. Guernsey har endast siffror och koden GBG. Alderney har bokstäverna AY och siffror. Sark och Herm har inga privatbilar. De fordon som finns, bland annat traktorer har inga registreringsskyltar, endast en klisterlapp. Isle of Man har tre bokstäver (den andra och tredje är MN), tre siffror och en bokstav. Koden i remsan till vänster är GBM.
+I Gibraltar har man skyltar med bokstaven G, fyra siffror och en bokstav och brittisk färg och stil. Till vänster är det en blå remsa med koden GBZ, till 2020 med en EU-flagga.
+Storbritanniens utomeuropeiska territorier har lite varierande skyltar. Flera har skyltar i brittisk stil (t.ex. Falklandsöarna och Sankta Helena). Några (t.ex Anguilla) har den svarta bakgrunden med vita tecken som användes i Storbritannien före 1972. En del territorier i Karibien har USA-influerade skyltar.
+
+
+=== Sverige ===
+
+Landskod: S
+Registreringsskyltarna för de flesta fordon i Sverige har vit botten och svarta tecken. Registreringsnumren har sedan 1973 bestått av tre bokstäver, ett mellanrum och tre siffror. Sedan januari 2019 kan dock det sista tecknet vara antingen en siffra eller en bokstav. Någon geografisk kod finns inte. I Sverige följer skylten fordonet och ett fordon har alltså samma registreringsnummer tills det avregistreras. Detta gör att många äldre skyltar fortfarande är i bruk och de är ibland i dåligt skick. I och med att man numera återanvänder registreringsnummer när fordonet avregistrerats blir det allt svårare att utläsa vilket år fordonet registrerats, något som tidigare gick att se på vilken begynnelsebokstav registreringsnumret hade. Sedan 2003 finns de svenska skyltarna med EU-märke som från och med 2014 alla nyregistrerade fordon förses med. Det gick t.om. 2013 att beställa skyltar utan märket för den som inte ville ha det. De nyare skyltarna med EU-märke är till utseendet mycket lika de nyare i Litauen och Ungern och kan därför förväxlas och det finns ingen samordning dessa länder emellan som förhindrar samma registreringsnummer. Fordon som inte har plats för en skylt av normal storlek (framförallt amerikanska bilmodeller) kan få en mindre typ av skylt. Skyltar av tvåradigt format förekommer på vissa äldre fordon men kan sedan 1995 inte längre beställas. MC och EU-Mopeder har fortfarande 2-radig skylt. Vissa terrängfordon har en påklistrad mindre skylt. Fordon registrerade i det militära fordonsregistret har svarta skyltar med gula siffror.
+Fram till den 31 december 2009 fanns ett kontrollmärke på den bakre skylten som visade vilken månad som var huvuduppbördsmånaden för fordonsskatten. Detta utfärdades om skatten och trafikförsäkringen var betald samt om fordonet var godkänt vid kontrollbesiktning (ej traktor), upphörde att användas den 1 januari 2010. Från och med 1 januari 2014 kom en ny skyltmodell, där huvudskillnaden är att mellanrummet mellan bokstäver och siffror gjorts mycket mindre, i och med att skattemärke inte längre används.
+Taxibilarna (fordon som används i yrkesmässig taxiverksamhet) har skyltar med gul botten och svarta tecken. Registreringsnumren består av tre bokstäver och tre siffror vänsterjusterade och som sista tecken finns ett "T" som är något mindre än de övriga tecknen.
+Beskickningsfordon har skyltar med blå botten och svarta tecken. Registreringsnumren består av två bokstäver + tre siffror + en bokstav vänsterjusterade och sista positionen är tom. 
+De första två bokstäverna anger vilket lands ambassad bilen tillhör, de tre följande siffrorna är ett löpnummer inom ambassaden, och den sista bokstaven anger vilken position bilens innehavare har på ambassaden.
+Registreringsskyltarna finns i måtten 500 x 110 mm, 300 x 110 mm samt 170 x 150 mm. Samtliga skyltar använder typsnittet Swedreg.
+
+
+=== Tjeckien ===
+Landskod: CZ
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av en siffra, en bokstav och en siffra eller bokstav, därefter ett mellanrum med två sexkantiga kontrollmärken, därefter fyra siffror. Första bokstaven anger vilken region som fordonet kommer från, till exempel A=Prag. Nyare registreringsskyltar har ett EU-märke på vänster sida.
+
+
+=== Tyskland ===
+Landskod: D
+Vanliga registreringsskyltar har vit botten och svarta tecken. Texten på skyltarna är en till tre bokstäver, ett utrymme för två kontrollmärken, en eller två bokstäver följt av en till fyra siffror. Den första bokstavskombinationen anger vilken stad eller vilket län (Landkreis) fordonet kommer ifrån, större städer anges oftast med en eller två bokstäver medan mindre oftast har tre. Se "Liste der Kfz-Kennzeichen in Deutschland" på tyskspråkiga Wikipedia).
+Vissa bokstavskombinationer kan vara förbjudna på lokala nivå. Förbundsregeringen rekommenderar att inte tillåta vissa registreringar, bland annat HJ (=Hitlerjugend), KZ (=Konzentrationslager), NS (=Nationalsozialismus), SA (=Sturmabteilung) eller SS (=Schutzstaffel).
+Fordon ägda av delstat eller kommun, till exempel polis, har en enda bokstavskod såsom NRW (delstaten Nordrhein-Westfalen) eller VIE (kommunen Viersen) och sedan siffror.
+Fordon tillhörande förbundspolisen (Bundespolizei) har bokstäverna BP och sedan siffror. Militären har skylt med tysk flagga följd av Y och sex siffror.
+Dessutom finns bl.a. skyltar med andra färger för till exempel obeskattade fordon (gröna tecken på vit botten), skyltar där den vanliga registreringskoden följs av ett "H" (historiska bilar, Oldtimers) eller bilar med s.k. säsongskyltar (det vanliga registreringsnumret följs av två siffror, varav den övre anger den första månaden av året då bilen får köra på offentliga vägar och den undre den sista månaden).
+Skylten följer ägaren, inte fordonet. Till och med 1 januari 2015 behövde skylten bytas om den inte längre stämde med orten, till exempel vid köp av en bil från en annan ort eller vid flytt. På såväl den främre som den bakre registreringsskylten finns kontrollmärken. Det undre kontrollmärket på skyltarna anger vilken stad eller "Landkreis" bilen är registrerad i samt delstaten som staden eller Landkreisen ligger i. Det övre kontrollmärket på baksidan visar när bilen måste besiktigas nästa gång. Förr fanns även ett övre kontrollmärke på framsidan som visade nästa avgasundersökning.
+Ett problem med de tyska skyltarna är att mellanrummet är ett signifikant tecken och måste tas med när man skriver upp ett nummer. Till exempel är B MW 555 inte samma som BM W 555 (man skriver ofta streck istället för blanktecknet). De flesta länder har tolkat Wienkonventionen så att bara A-Z tillåts som bokstäver, men i Tyskland finns Ä, Ö och Ü bland koder för stad eller landkreis. Ibland har tyska bilar bötfällts i t.ex. Sverige för att ha använt streck vid betalning med SMS eller mobilapp. Detta regleras dock enligt parkeringsbolagets egna avtal eller bedömning vilket kan variera. Högsta domstolen har avgjort att med eller utan streck inte ger skäl för böter om inte tydliga instruktioner finns.
+
+
+=== Ukraina ===
+Landskod: UA
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av två bokstäver, ett mellanrum, fyra siffror och två bokstäver. De första bokstäverna är en kod för län. Koden är en kod inte en förkortning, exempel AA=Kiev stad, ВС=Lviv oblast, ВІ=Poltava oblast. Endast versala bokstäver som till utseendet finns i både latinska och kyrilliska alfabetet används. Nyare registreringsskyltar har ett blått fält på vänster sida som med en flagga upptill och koden UA för Ukraina nertill. Äldre registreringsskyltar har en flagga på sidan utan nationskod.
+
+
+=== Ungern ===
+Landskod: H
+
+Registreringsskyltarna har vit botten och svarta tecken. Registreringsnumren består av tre bokstäver, ett mellanrum och tre siffror. I mellanrummet sitter dels ett bindestreck och dels två kontrollmärken varav det övre är runt och det under är sexkantigt. Nyare registreringsskyltar har ett EU-märke på vänster sida, lite äldre har en ungersk flagga. Dessa registreringsskyltar är till utseendet mycket lika de svenska och kan därför förväxlas. Det finns ingen samordning som förhindrar samma registreringsnummer.
+
+
+=== Vatikanstaten ===
+Landskod: V
+Vatikanstatens registreringsskyltar är vita eller ljusgula med svart text. Samtliga registreringsnummer har bokstäverna SCV (Stato della Città del Vaticano) följt av siffror. Påvens officiella bilar, påvemobilerna, som det finns flera av, brukar ha registreringsnumret SCV 1.
+
+
+=== Österrike ===
+
+Landskod: A
+Österrikiska registreringsskyltar har vit botten och svarta tecken sedan 1990. Längst upp och längst ner finns det dubbla smala röda streck och sedan 2002 utfärdas endast EU-skylt.
+Registreringsnumret består av en eller två bokstäver, som är en förkortning för namnet av distriktet där bilen är registrerad. Förbundsländernas huvudstäder och förbundshuvudstaden Wien förkortas med en bokstav, medan alla andra distriktsnamn förkortas med två bokstäver.
+Efter distriktskoden sitter en vapensköld som kännetecknar förbundslandet där bilen är registrerad (förbundslandet i vilken registreringsdistriktet är beläget). Därefter finns en kombination av siffror och bokstäver som tilldelas löpande i varje distrikt. Utformningen av denna kombination varierar mellan de olika distrikten.
+Till och med 1989 hade österrikiska registreringsskyltar svart botten och vita tecken. De bestod av en förkortning för förbundslandet och ett löpande registreringsnummer. Distrikten kodades i registreringsnumren.
+
+
+== Nordamerika ==
+
+
+=== Kanada ===
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+Landskod:CDN
+Kanada har ungefär samma principer som USA, provinserna utfärdar skyltar. Skyltarna har också samma storlek som de i USA. Provinsnamnet står skrivet på dem. Man får köra med dem i USA utan ytterligare klistermärke. Landskoden CDN används knappt.
+
+
+=== Mexiko ===
+Landskod:MEX
+Mexikanska skyltar liknar de i USA. Delstaterna utfärdar även här skyltar. Det finns nationella skyltar också. Skyltarna har samma storlek som de i USA. Provinsnamnet står skrivet på dem. För privata personbilar registrerade i delstater används koden AAA-nn-nn, där A står för en bokstav och n för en siffra. Det finns många andra nummerserier, till exempel privat lastbil, motorcykel, veteran, taxi, och många andra.
+
+
+=== USA ===
+
+I USA tillhandahålls registreringsskyltar av delstaten, utom för fordon som ägs av den federala regeringen och utländska diplomatfordon. För dessa utfärdas registreringsskyltarna centralt. I vissa fall har även ursprungsbefolkningen egna skyltar.
+
+
+== Oceanien ==
+
+
+=== Australien ===
+Registreringsskyltarna ges ut av delstaterna. Varje delstat har en egen typ av bokstavs- och sifferkombination för att undvika dubbletter. Delstatsnamnet står på skylten. Vanligen har skyltarna vit bakgrund och svarta, mörkröda eller blå tecken. I vissa delstater är gul bakgrund vanligt. Speciella bilar kan ha blå eller svart bakgrund med vita tecken. Skyltarna är lite kortare än de vanligaste skyltarna i Europa.
+
+
+=== Nya Zeeland ===
+Det är ett gemensamt system i hela landet. Skyltarna har upp till sex tecken. Det är två till fyra bokstäver och en till fyra siffror och vit bakgrund och svarta tecken. Det går att få personliga bokstavs- och nummerkombinationer. Före 1986 var det svart bakgrund och vita tecken.
+
+
+== Sydamerika ==
+
+
+=== Argentina ===
+Registreringsskyltarna har tre bokstäver och tre siffror med svart botten och vita tecken. Det är ett gemensamt system för landet och numret visar inte var fordonet är registrerat, förutom att det står ARGENTINA överst.
+
+
+=== Brasilien ===
+Registreringsskyltarna har vanligen ljusgrå botten och svarta tecken och har tre bokstäver och fyra siffror. Skyltarna utfärdas av delstaterna, vars namn står överst. Varje delstat har ett antal bokstavskombinationer till sitt förfogande. Vit botten och svarta tecken är för myndighetsfordon. Röd botten och vita tecken är för kollektivtrafik och taxi. Det finns en del ytterligare färgkombinationer.
+
+
+== Se även ==
+Lista över nationalitetsmärken för motorfordon
+Registreringsskyltar på diplomatfordon
+
+
+== Referenser ==
+
+
+== Externa länkar ==
+ Wikimedia Commons har media som rör Registreringsskylt.
+Hela världens registreringsskyltar med bilder
+Åländska registreringsskyltar

@@ -1,0 +1,245 @@
+Wii (/wiː/) är Nintendos femte stationära spelkonsol och uppföljaren till GameCube.
+
+
+== Lansering ==
+På Nintendos presskonferens under spelmässan E3 2005 visades konsolen upp, men då helt utan några hårdvaruspecifikationer. Konsolen gick initialt under arbetsnamnet Nintendo Revolution, men den 27 april 2006 utannonserade Nintendo att dess officiella namn därefter är ändrat till Wii. Den 19 november 2006 lanserades maskinen i NTSC-områden som Nordamerika och Sydamerika och den 2 december 2006 släpptes den i Japan. Den 7 december 2006 släpptes den i Australien och Italien, och den 8 december 2006 i de övriga PAL-områdena, vilket omfattar stora delar av Europa. I Spanien skedde lanseringen dock den 9 december 2006. Wii slog även försäljningsrekord i Europa som den snabbast säljande konsolen vid lansering någonsin med sina cirka 325 000 sålda exemplar under endast de två första dagarna maskinen funnits tillgänglig på marknaden. Konsolen såldes i 600 000 exemplar i Nordamerika under de första åtta dagarna efter lanseringen och i Japan såldes det 400 000 exemplar av Wii under lanseringsdagen.Wii kostar 249 USA-dollar i USA och 25 000 yen i Japan. I stora delar av Europa är priset 249 euro, och då ingår även spelet Wii Sports i paketet. En prissänkning av konsolen tillkännagavs den 24 september 2009.Den 20 november 2009 släppte Nintendo Wii Black Edition, vilket är en svart konsol med svarta handkontroller. Versionen inkluderar också Wii Motion Plus och Wii Sports Resort.
+Den 15 mars 2013 lanserades Wii Mini, en mindre version av Wii. Wii Mini har inget stöd för bakåtkompatibilitet och kan inte anslutas till internet.
+Den 21 oktober 2013 meddelade Nintendo att produktionen av Wii hade avslutats.
+Totalt har över 99,84 miljoner konsoler sålts sedan lanseringen 2006, vilket gör Wii till den femte mest sålda spelkonsolen någonsin.
+
+
+== Hårdvara och teknik ==
+Nintendo sade till en början att man skulle kunna spela dvd-filmer med Wii med hjälp av ett tillägg till konsolen, men under september 2006 ändrade de beslutet (en speciell japansk version av Wii kommer att kunna spela dvd-filmer, lanseras 2007). De menar helt enkelt att nästan alla har en dvd-spelare idag i alla fall. Konsolen är mycket snabb i uppstarten och arbetar utan större krav på kylning för att på så sätt kunna hålla en låg ljudnivå. Enligt uppgift från IBM är processorn i Wii 20 procent energieffektivare och har till arean en hälften så stor processorkärna jämfört med processorn som sitter i föregångaren GameCube men har ändå bättre prestanda.
+
+
+=== Tekniska specifikationer ===
+Processorer
+729 MHz† IBM PowerPC CPU, kodnamn Broadway
+243 MHz† ATI GPU, kodnamn Hollywood
+Internminne
+24 MiB 1T-SRAM systemminne
+64 MiB 1T-SRAM "övrigt" minne
+3 MiB eDRAM på GPU:n
+Portar och tillbehör
+Två USB 2.0-portar
+Trådlösa handkontroller
+En Secure Digital-port
+Fyra kontrollportar för GameCube-handkontroller
+Två minneskortsportar för GameCube-minneskort
+Videosignal: Kompositvideo, RF, RGB och S-Video
+Media
+512 MiB flashminne
+Dvd-spelare som kan hantera både 12 cm och 8 cm regionskodade dvd-skivor (för GameCube-kompatibilitet)
+Stöd för SD-minneskort
+Ljud
+Dolby ProLogic II
+Nätverk
+Inbyggd Wi-Fi, 802.11b/g
+Bakåtkompatibilitet
+Kan spela GameCube-spel från GameCube-skivor
+Nerladdningsbara NES-, SNES-, Nintendo 64-, Turbografx-16-, Sega Mega Drive, Neo Geo-, MSX-spel† Notera att klockfrekvenserna inte har bekräftats av vare sig Nintendo, IBM eller ATI.
+
+
+=== Systemprogramvara ===
+Enhetens firmware kan uppdateras via uppkoppling mot internet eller via spel, till exempel finns det systemuppdateringar på spelen Mario Kart Wii och Animal Crossing: Let's go to the city. Följande versioner till enheten finns släppta:
+
+Firmware 1.0U/E
+Firmware 2.0U/E
+Firmware 2.2E
+Firmware 3.0U/E - Ger visst stöd för användandet av tangentbord via USB samt en klocka i startmenyn.
+Firmware 3.1 (10/10-07) - Utökat stöd för tangentbord via USB. Fler funktioner i Everybody Votes.
+Firmware 3.2 (26/1-08) - Mindre uppdatering som stödjer framtida uppdateringar av Disc Channel.
+Firmware 3.3 (18/6-08)
+Firmware 4.0 (25/3-09) - Stöd för SD-minnen upp till 32GB.
+Firmware 4.1
+Firmware 4.2
+Firmware 4.3
+
+
+=== Fysiska specifikationer ===
+Den är 44 mm bred, 157 mm hög och 215 mm lång. Ungefär som tre dvd-fodral.
+Kan ställas både lodrätt och vågrätt.
+
+
+=== Lagringsmedia ===
+Wii kan använda minneskort avsedda för GameCube samt vanliga Secure Digital-kort. En nyhet är att Nintendo släpper en mjukvaruuppdatering till enheten som gör det möjligt att använda externa kortläsare via USB-porten vilket kommer att göra det möjligt att använda fler minneskort samtidigt och/eller minneskort med större lagringskapacitet.. Det har vid ett flertal tillfällen cirkulerat ett antal rykten om en extern lagringsenhet som ansluts till konsolen via USB-kontakten, vilket nu även antyds av Nintendo själva.
+
+
+== Spel till Wii ==
+
+
+=== Innehållet i en Wii-kartong ===
+Vid köp av en Wii följer följande saker med i lådan:
+
+Wii basenhet
+Stativ för Wii basenhet
+Wii Remote
+Nunchuk
+Sensor Bar
+Wii transformator
+Wii AV-kabel för kompositvideo
+SCART-adapter
+Manualer
+Spelet Wii Sports
+Spelet Wii Sports Resort
+
+
+== Bakåtkompatibilitet ==
+Wii är bakåtkompatibel med Gamecube, Gamecube-spel och många tillbehör. De Gamecube-tillbehör som inte kan användas med Wii är Game Boy Player, nätverksadaptern och modemadaptern. För att spela äldre spel avsedda för Gamecube behövs en Gamecube-handkontroll. Det går inte att använda den nya Classic controller tillsammans med Gamecube-spel. De nyare versionerna Wii Family Edition och Wii Mini har dock inte stöd för Gamecube, då den saknar minneskortsportar och kontrollportar.
+
+
+== Handkontrollen ==
+
+Handkontrollen heter officiellt Wii Remote, men har fått smeknamnet Wii-mote. Den påminner utseendemässigt om en fjärrkontroll med sju knappar samt ett styrkors. Längst fram har den en sensor för infrarött ljus men den kommunicerar med konsolen via Bluetooth. Under skalet finns högtalare, minne, vibreringsmotor för rumble och accelerometrar som känner av när kontrollen är i rörelse och dess lutning. Via en port som sitter bak på kontrollen går det att koppla ihop den med andra tillbehör, till exempel Nunchuck Controller. Kontrollen drivs av två AA batterier och ger då även ström till eventuella inkopplade tillbehör.
+Förutom den vanliga designen så finns där även Wii Remote Plus, vilket är en Wii Remote med Wii MotionPlus inbyggt i sig.
+
+
+== Wii Sensor Bar ==
+
+Wii Sensor Bar innehåller ett antal lysdioder som avger infrarött ljus. Den placeras lämpligen framför spelaren över eller under den skärm som används. Tack vare det infraröda ljuset kan Wii Remote med hjälp av triangulering beräkna sin position och vinkel i förhållande till Wii Sensor Bar.
+
+
+== Nintendo Wi-Fi Connection ==
+
+Nintendo Wi-Fi Connection är den online-tjänst som Nintendo använde för att koppla ihop spelare med varandra, tjänsten är i sitt grundutförande helt gratis. Extramaterial såsom banor och liknande kommer eventuellt kosta extra, det är upp till respektive speltillverkare att besluta om prissättning för deras tjänster.
+Tack vare WiiConnect24 är konsolen uppkopplad dygnet runt även om konsolen är avstängd och andra spelare kan lämna meddelanden som visas nästa gång konsolen slås på. WiiConnect24 kan även användas så att spelutvecklarna kan lägga till vapen, banor, uppdrag med mera.
+Nintendo Wii har stöd för flera typer av kryptering bland annat WEP, WPA och WPA2.
+Det är möjligt att ladda ner speldemos till en Nintendo DS från en Wii-konsol med internetanslutning. Dock behövs det att du laddat ner och installerat "Nintendo Channel" från Wii Shop Channel.
+
+
+== Wii Channels ==
+
+Den 14 september 2006 visade Nintendo upp något som kallas Wii Channels, vilket är olika slags "kanaler" i användarens Wii. Syftet med detta är att det ska bli naturligt att slå på sin Wii lite då och då, precis som man gör med sin tv i dag.
+Än så länge finns det nio olika slags kanaler tillgängliga (gäller Europa):
+
+Disc Channel - här spelar man sitt Wii eller GameCube-spel som befinner sig i konsolen.
+Mii Channel - här kan man skapa en "virtuell bild" av sig själv, sin familj eller vem man vill. Denna kan man sedan använda i spel som Wii sports, ladda upp i contest eller posting eller ladda ner dem till sin Wii-remote och ta den till en kompis.
+Photo Channel - om man sätter in ett SD-kort från sin digitalkamera i sin Wii så kan man kolla på dem, redigera dem och spara dem. Funkar även med videor.
+Wii Shop Channel - det är här praktiskt taget allt laddas ner; webbläsaren, Virtual Console-spel, nya kanaler, Wii Points och uppdateringar till användarens spel.
+News Channel - aktuella nyheter, bland annat från CNN, som kommer att stödja Wiis News Channel
+Forecast Channel - här kan man kolla det aktuella vädret där man bor. Det finns också femdygnsprognoser. Även möjligt att se vädret globalt.
+Internet Channel - det är hit man går om man vill använda sin nedladdade webbläsare (som är utvecklad av Opera).
+Everybody's Vote Channel - Kan beskrivas som en röstkanal där man röstar på olika frågor, till exempel "Vad gillar du mest att göra på fritiden? 1. Sova 2. Festa. Genom att dra sin Mii till det man gillar mest röstar man och sedan får man chansen att gissa vilket svar som får mest röster. Efter ett antal dagar kalkyleras rösterna ihop och ett diagram läggs ut på kanalen.
+Mii Contest Channel - Går att rösta på olika Miis då det är tävlingar, exempelvis vilken Mii som liknar Mario mest. Endast en Mii går att representera en Wii konsol.
+Mario Kart Wii Channel - Här kan man kolla in rankinglistor, ladda ner andras spökdata och ladda upp sina egna rekord. Och man kan delta i tävlingar, arrangerade av Nintendo själva.
+Nintendo Channel Här kan man se på olika videoklipp och trailers för kommande Wii, Nintendo DS och Wiiware spel.Här finns även den nya funktionen "DS download service". Via denna funktion kan man ladda ner speldemos till sitt Nintendo DS/Nintendo DS Lite.
+
+
+=== Internet Channel ===
+
+Konsolen har en specialanpassad version av webbläsaren Opera inbyggd för Internetåtkomst. Webbläsaren inkluderar stöd för Flash Lite, som stödjer bland annat YouTube. Webbläsaren kunde laddas ner gratis från släppet fram till juni 2007. Från och med den 1 september 2009 blev Internet Channel gratis igen. De som hade betalt för sin Internet Channel, får tillbaka sina 500 Wii Poäng.
+
+
+=== Virtual Console ===
+
+Användaren kan ladda ner och spela spel ursprungligen avsedda för äldre konsoler som NES, Super NES, Nintendo 64, Sega Mega Drive, Turbografx-16, TurboGrafx-CD, Neo-Geo och MSX. Spelen körs via den inbyggda emulatorn kallad Virtual Console. Till Virtual Console finns ett flertal nerladdningsbara spel som betalas med hjälp av Wii Points som kan köpas online eller i butik. Spelen sparas på det inbyggda flashminnet i konsolen, eller på externa SD-kort. Med möjligheten att spela emulerade spel i åtanke har Nintendo skapat en därtill anpassad handkontroll som liknar en traditionell handkontroll, den kallas för Wii Classic Controller.
+
+
+== Barnlås ==
+
+Konsolen har ett barnlås, vilket gör det möjlligt att spärra användandet av spel som inte är lämpligt för minderåriga. Funktionen gäller dock inte GameCube-spel.
+
+
+== Originaltillbehör ==
+
+
+=== Minneskort ===
+Två typer av minneskort passar till Wii, dels den typ av minneskort som passar till GameCube men även en vanligt förekommande typ av minneskort kallad Secure Digital kan användas. Kort med upp till 2GB lagringsutrymme stöds. Officiellt är det bara Nintendos originalkort och SanDisk SD som passar, men andra SD-kort fungerar också, och även SDHC-kort samt micro-SD med adapter.
+Minneskortet används för att lagra speldata, nedladdade spel och sparade spelsessioner. Man kan också sätta in kortet från en digitalkamera eller ett annat kort där man har laddat ner bilder för att sedan redigera dem och visa dem på TV:n med hjälp av Wii.
+
+
+=== Wii Remote ===
+Handkontrollens form påminner utseendemässigt starkt om en vanlig fjärrkontroll. Denna handkontroll kommunicerar trådlöst via Bluetooth med den tillhörande konsolen, och den kan registrera rörelser i flera riktningar. Till handkontrollen kan andra tillbehör kopplas in, bland annat Wii Nunchuk Controller och Wii Classic Controller.
+
+
+=== Motions Plus ===
+Tillbehöret Motions Plus pluggas in längst ned på Wii Remote och gör att rörelserna blir avlästa med större precision. De spel som är förberedda för det kan dra nytta av att även små rörelser kan användas.
+
+
+=== Wii Remote Plus ===
+Den här handkontrollen har ersatt Wii Remote och Motions Plus, eftersom funktionen från Motions Plus är integrerad i Wii Remote Plus.
+
+
+=== Wii Nunchuk Controller ===
+Wii Nunchuk, även kallad "chuck", kopplas ihop med en Wii Remote för att på så sätt utöka funktionerna och bredda kontrollens användningsområde. Den har fått sitt namn då den kopplad till en Wii Remote påminner om en nunchaku. Den har en analog styrspak, två knappar och accelerometrar som känner av kontrollens rörelser. Kommunikationen till konsolen går via Wii Remote och det är även den som förser chucken med ström.
+
+
+=== Wii Classic Controller ===
+Detta tillbehör i är i första hand avsett att användas för att styra spel som körs via den inbyggda tjänsten Virtual Console men kan även om mjukvaruutvecklare så önskar användas till nya spel. Till utseendet påminner Wii Classic Controller mycket om en traditionell gamepad till Super NES. Den har förutom ett styrkors och fyra tryckknappar även försetts med två analoga styrspakar, dubbla axelknappar samt knapparna + och -. Detta tillbehör måste kopplas ihop med en Wii Remote för att få ström samt att kunna kommunicera med konsolen.
+
+
+=== Wii Sensor Bar ===
+
+Wii Sensor Bar avger infrarött ljus som Wii Remote känner av och använder för att beräkna position på skärmen.
+
+
+=== Wii Zapper ===
+Wii Zapper används tillsammans med en Wii Remote och en Wii Nunchuk Controller och får delarna att tillsammans bilda en enhet som liknar ett gevär. Denna typ av pistol registrerar inte träffar på samma sätt som traditionella ljuspistoler. Wii Zapper presenterades för första gången under E3-mässan år 2006, den version som visades upp då var en prototyp som numera är omarbetad och har fått ett annat utseende.
+I Europa släpptes Wii Zapper, som säljs tillsammans med spelet Link's Crossbow Training, den 7 december 2007. Detta tillbehör släpptes först i Japan tillsammans med spelet Ghost Squad från Sega.
+Spel med officiellt stöd för Wii Zapper i urval:
+
+Call of Duty 4: Modern Warfare
+Call of Duty: Modern Warfare 3
+Call of Duty: Black Ops
+Call of Duty: World at War
+Ghost Squad
+Goldeneye 007
+Link's Crossbow Training
+Medal of Honor: Heroes 2
+Quantum of Solace
+Resident Evil: The Umbrella Chronicles
+
+
+=== Wii LAN Adapter ===
+Är en adapter som gör det möjligt att ansluta en Wii-konsol till ett trådbundet nätverk när anslutningsmöjligheter till ett trådlöst nätverk saknas. Adaptern är en brygga mellan en vanlig nätverkskontakt (RJ45) och en USB-port.
+
+
+=== Wii RGB-Scart ===
+En SCART-kabel som medger överföring av RGB-signaler. Ger avsevärt mycket bättre bild än den medföljande kabeln (som bara kan överföra kompositvideo).
+
+
+=== Wii Komponentkablar ===
+Ett tillbehör som gör det möjligt att överföra en komponentsignal från konsolen till en bildskärm.
+
+
+=== Wii Balance Board ===
+Wii Balance Board är en platta med tryckkänsliga sensorer. Genom att jämföra trycket på sensorerna kan viktfördelningen över plattan räknas ut. På så vis kan spel styras genom att en spelare står på Wii Balance Board och lutar sig åt olika håll. Den japanska versionen av Wii Balance Board klarar av vikter upp till 136 kg medan den amerikanska och europeiska versionen är förstärkt och klarar vikter upp till 150 kg.
+Wii Balance Board lanserades med träningsspelet Wii Fit och men stödjs även av andra spel där den bland annat används för att kontrollera en skateboard eller för att styra en skidåkare.
+
+
+==== Se även ====
+Joyboard - en liknande platta som lanserades till Atari 2600 1982.
+
+
+=== Wii Super NES/Super-Famicom-controller ===
+En handkontroll som kan användas till en Nintendo Wii och har samma form och utseende som den handkontroll som ursprungligen släpptes tillsammans med Super NES/Super Famicom. Denna handkontroll är endast tillgänglig för de användare som är medlemmar i den japanska nintendoklubben som har som tradition att dela ut en present till sina medlemmar varje år. Utdelning av handkontroller väntas ske i april 2008.
+
+
+=== Wii Wheel ===
+Wii Wheel presenterades på E3-mässan 2007 och lanserades i samband med spelet Mario Kart Wii. Wii Wheel innehåller inga elektroniska komponenter utan fungerar som ett skal till Wii Remote och ger den formen av en ratt.
+
+
+=== Wii MotionPlus ===
+
+Wii MotionPlus är ett tillbehör som kopplas in i en Wii Remote. Den utökar kontrollens känslighet för position och rörelse. Detta medför att spel som stödjer Wii MotionPlus kan styras mer exakt och med mer avancerade rörelser än de utan.
+
+
+=== Wii WiFi Network Adapter ===
+En trådlös router som enligt Nintendo kommer att göra uppkopplingsprocessen snabbare och enklare. Denna ska även gå att använda till Nintendo DS såväl som till en vanlig PC.
+
+
+== Färger ==
+Wii finns i följande färger:
+
+White (Vit, vilket är originalfärgen)
+Black (Svart, från och med november 2009 i Europa. En ny svart version av konsolen släpptes i november 2010 i Europa, som en hyllning till 25-årsjubileet av lanseringen av Super Mario Bros.)
+Red (Röd specialutgåva, från och med oktober 2010 i Europa, som en hyllning till 25-årsjubileet av lanseringen av Super Mario Bros.)Innan lanseringen av Wii så släpptes några bilder av konsolen där det fanns fler färger. Några av de som visades upp då var vit, svart, röd, silver och limegrön.
+
+
+== Källor ==
+
+
+== Externa länkar ==
+
+ Wikimedia Commons har media som rör Wii.
+Nintendo Wii - officiell webbplats

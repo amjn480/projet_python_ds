@@ -1,0 +1,100 @@
+El kombutxa (xinès: 茶菌; japonès: 紅茶キノコ; coreà: 홍차버섯차); rus:чайный гриб) també coneguda com a te de fong xinès, fong manxurià o fong de te (que no deixen de ser denominacions incorrectes malgrat el seu aspecte) és una beguda fermentada per l'acció d'un cultiu simbiòtic de bacteris acidoacètics, acidolàctics i llevats anomenat SCOBY (Symbiotic culture of bacteria and yeasts), principalment sobre te negre i sucre (tot i que es poden utilitzar altres tipus de te com el verd, el blau o el te ooloong). És de fabricació usualment casolana i artesana, lleugerament carbonatada amb un gust entre àcid, dolç i avinagrat, que recorda a la sidra o al cava.
+
+
+== Origen ==
+
+
+=== Origen de la beguda ===
+Tot i que l'origen d'aquesta beguda no es coneix amb precisió, els seus inicis es localitzen a Manxúria, una regió situada al nord-est de la Xina, al 220 aC. Més endavant, un metge anomenat Kombu va donar a conèixer aquest te fermentat al Japó al 414 d.C. al utilitzar-lo per tractar els problemes digestius que tenia l'emperador Inkyo. Posteriorment, es va estendre cap a Rússia i l'est d'Europa, arribant a Alemanya al segle xx durant la Segona Guerra Mundial i, finalment, a França al 1950.
+
+
+=== Etimologia ===
+L'etimologia de la paraula kombutxa també és incerta. Aquest terme, en japonès, es refereix a una beguda de te kelp elaborat a partir d'alga kombu; “kombu” referint-se a l'alga i “txa” al te. Però, en realitat, aquest nom japonès no té cap relació amb la beguda fermentada que denominem kombutxa, i que en japonès s'anomena "kocha kinoko”.
+
+
+=== Comercialització i consum ===
+Tot i que és una beguda que existeix des de fa molts anys, la seva comercialització ha augmentat darrerament, impulsada pels suposats beneficis que aporta, i que tenen relació amb el creixement del consum dels productes probiòtics. Això ha causat que, l'any 2017, les vendes de kombutxa  generessin 556 milions de dòlars als Estats Units.
+Europa és el mercat que ha experimentat un creixement més gran després dels Estats Units. El 2016, el Regne Unit, Alemanya i França van impulsar el creixement de la indústria del kombutxa.També existeix una producció local catalana.
+
+
+== Preparació ==
+En el mètode tradicional d'elaboració d'aquesta beguda, el cultiu inicial s'afegeix a una infusió de te negre amb sucre i la fermentació es produeix durant un temps entre 3 i 10 dies a temperatura ambient (20⁰C- 30⁰C), tot i que es pot allargar fins als 60 dies. A més de la infusió (te), del sucre i de l'SCOBY (imprescindible) es necessita un pot de vidre (d'1 a 3 litres i de coll ample, com els pots per fer confitures).
+Un cop arribat a la maduresa desitjada i filtrat, el kombutxa es conserva en ampolles de vidre hermètiques (per no perdre el gas) i en un lloc fresc perquè no continuï transformant-se i acidificant-se cada dia més.
+
+Un exemple dels passos per la preparació de el kombutxa és el següent:
+
+
+== Característiques ==
+
+
+=== Microorganismes ===
+El tipus de microorganismes que intervenen en el procés de fermentació canvia depenent del clima, la zona geogràfica, del substrat de la fermentació i de les espècies locals de bacteris i llevats.Hi intervenen molts microorganismes diferents, però podem classificar-los en tres grans grups: bacteris acidoacètics, bacteris acidolàctics i llevats. Segons una investigació que va analitzar els microorganismes de 5 kombutxes de diferents països (Canadà, Regne Unit, Estats Units i Irlanda) els bacteris dominants pertanyen als gèneres Gluconacetobacter (més del 85% en la majoria de mostres) i Lactobacillus (fins al 30%). Només un 2% dels microorganismes correspon al gènere Acetobacter.
+
+
+==== Bacteris acidoacètics ====
+Els bacteris acidoacètics són els més abundants, concretament els dels gèneres Acetobacter, Gluconobacter, Gluconacetobacter i Komagateibacter. Es caracteritzen pel fet que són aerobis i, per tant, necessiten importants quantitats d'oxigen per créixer. Utilitzen l'alcohol com a substrat per formar àcid acètic, és a dir, converteixen l'etanol a acetaldehid (mitjançant l'enzim alcohol deshidrogenasa) i l'acetaldehid a àcid acètic (mitjançant l'enzim acetaldehid deshidrogenasa). També converteixen la glucosa a àcid glucònic. La glucosa i la fructosa apareixen a conseqüència de la hidròlisi de la sacarosa per part dels llevats.La producció d'àcids orgànics com l'àcid acètic i el glucònic causem una baixada important del pH. A més, la presència d'altres compostos com les catequines pròpies del te o pèptids, inhibeixen el creixement de patògens al kombutxa. Aquesta beguda presenta activitat antimicrobiana contra bacteris Gram positius i Gram negatius.Entre tots els microorganismes del kombutxa, cal destacar el bacteri responsable de produir la capa de cel·lulosa flotant a la qual s'uneix la massa cel·lular formada per llevats i bacteris i que millora l'associació entre ells, l'SCOBY. Aquest bacteri inicialment es va anomenar Acetobacter xylinus, més tard es va reclassificar amb el nom de Gluconoacetobacter xylinus i, més recentment, a Komagataeibacter xylinus. Aquesta reclassificació pot causar confusió depenent de la font que es consulti, però les fonts més recents i actualitzades ja utilitzen la nomenclatura Komagataeibacter xylinus. Així, en les fonts on apareixen Acetobacter xylinus o Gluconacetobacter xylinus, s'han d'interpretar que es parla de l'actual K. xylinus.A la taula següent es mostren bacteris acidoacètics que s'han identificat al kombutxa:
+
+
+==== Bacteris acidolàctics ====
+Lactobacillus sp. va ser identificada com la segona població de bacteris dominant després de Gluconoacetobacter.
+*La presència d'aquests organismes tradicionalment associats a l'intestí pot reflectir la seva introducció a través d'un sanejament deficient o algun altre mitjà durant la formació de pel·lícules de cel·lulosa i per tant, no es garanteix que aquestes poblacions estiguin actives en aquest entorn.
+
+
+==== Llevats ====
+Les espècies predominants són: Schizosaccharomyces pombe, Brettanomyces bruxellensis, Saccharomyces cerevisiae i Zygosaccharomyces rouxii. El gènere predominant és Zygosaccharomyces.
+
+
+== Composició química ==
+L'àcid acètic, l'etanol i l'àcid glucònic són els compostos majoritaris procedents de la fermentació en el kombutxa.També s'han identificat sucres, vitamines, proteïnes, aminoàcids, amines biògenes, pigments, lípids, enzims hidrolítics, compostos antimicrobians, diòxid de carboni, polifenols, minerals, anions i altres productes derivats del te i dels microorganismes. Aquesta composició és variable depenent del substrat, els llevats i bacteris presents, i el temps i la temperatura de fermentació.
+
+
+=== Àcids orgànics ===
+La concentració d'àcid acètic en kombutxa de te negre amb un 10% de sacarosa inicial augmenta lentament a mesura que progressa la fermentació però, després, disminueix gradualment.
+A la taula de característiques i compostos del kombutxa es poden veure dos exemples d'aquest comportament: en un cas, es van mesurar 11 g/L d'àcid acètic al dia 30 de la fermentació, amb un posterior descens a 8 g/L en 100 ml el dia 60. En un altre cas, es van mesurar 9,5 g/L d'àcid acètic al 15è dia de fermentació, seguit d'una disminució lenta.Aquesta disminució de la concentració d'àcid acètic, pot ser deguda a la utilització del mateix com a font de carboni per Komagataeibacter xylinus quan hi ha poca quantitat de sucres al brou. Una altra possibilitat seria que la fermentació etílica per part dels llevats es redueixi a causa de la baixa concentració de sucre o de la disminució de pH, a mesura que avança la fermentació.L'àcid glucònic també contribueix a l'acidesa però proporciona un gust més suau que l'àcid acètic. En un dels estudis en que es va mesurar, el seu contingut va començar a augmentar a partir del 6è dia de la fermentació; la concentració final va ser 39 g/L.El contingut d'àcid glucurònic augmenta contínuament durant els primers 7 dies de fermentació. Del setè fins al desè dia la concentració disminueix i, després, torna a augmentar una altra vegada als dies següents.
+Aquesta tendència es va observar en tres kombutxes amb diferents continguts inicials de sacarosa. Altres investigadors van observar la mateixa tendència però la disminució es va produir el dia 12 de la fermentació.
+
+
+=== Sacarosa ===
+La concentració de sacarosa inicial del te sense fermentar oscil·la entre el 7% i el 10%. Aquesta disminueix els primers 30 dies des de l'inici de la fermentació, ja que els enzims dels llevats, com la invertasa i la sacarasa, hidrolitzen la sacarosa i s'obtenen sucres reductors, la glucosa i la fructosa. Però, com es pot observar a la taula de les caracterísitques i compostos del kombutxa, no es consumeix tota la sacarosa durant la fermentació i se'n poden trobar concentracions variables al kombutxa final (entre el 0,2% i l'1,3%).
+
+
+=== Polifenols ===
+Els polifenols que es produeixen durant la fermentació, juntament amb els procedents del te, exerceixen una funció antioxidant. S'ha observat que les catequines, un tipus de polifenols del te, es degraden durant la fermentació fins a arribar al novè dia. Després, se n'observa un augment al dia 12, possiblement degut a l'alliberament per part de cèl·lules microbianes sensibles a l'àcid.En canvi, un altre estudi ha observat una tendència creixent del contingut total de polifenols al llarg de 15 dies de fermentació.
+
+
+=== Etanol ===
+Els estudis que han mesurat la concentració d'etanol durant la fermentació del kombutxa coincideixen en observar que l'etanol tendeix a augmentar inicialment i, posteriorment, a disminuir lentament, però difereixen en l'observació del dia en que s'arriba a la màxima concentració i en el moment en què comença a disminuir.
+En un primer estudi es va observar un augment de la concentració d'etanol fins un màxim després de 6 dies de fermentació; amb una posterior disminució.En un segon estudi la concentració d'etanol incrementa inicialment fins a arribar a un valor màxim de 5,5 g/L al dia 20. Després es produeix una disminució lenta.Finalment, un altre estudi va observar que la concentració d'etanol augmenta a l'inici fins a arribar a un màxim d'aproximadament 0,28 ± 0,014 g / L el 7è dia de la fermentació, seguit d'un descens fins aproximadament 0,073 ± 0,003 g / L després de 21 dies de fermentació. Aquesta disminució de la concentració d'etanol és degut a la utilització d'aquest per part dels bacteris acidoacètics per produir àcid acètic.Malgrat que, com s'observa, la concentració d'etanol en el kombutxa és variable, aquest compost sempre hi és present. Per això, està  contraindicat per a dones embarassades i per a persones amb malalties renals, pulmonars o hepàtiques significatives.
+
+
+== Fermentació ==
+A l'inici de la fermentació es pot afegir una petita quantitat del brou de kombutxa al nou te, prèviament preparat, per tal de disminuir el pH i frenar el creixement de microorganismes no desitjats. A mesura que la fermentació avança, apareixen bombolles de gas a causa del diòxid de carboni que es produeix. La glucosa que s'allibera de la sacarosa gràcies a l'acció dels llevats és metabolitzada per a la síntesi de cel·lulosa i àcid glucònic per les soques de Komagataeibacter. La fructosa, i en menys proporció la glucosa, són metabolitzades per llevats i convertides en etanol i diòxid de carboni. L'etanol és oxidat a àcid acètic pels bacteris acidoacètics.
+
+
+== Beneficis i perjudicis ==
+De manera generalitzada, s'atribueixen al kombutxa uns efectes beneficiosos sobre la salut humana que estan relacionats amb les seves propietats antimicrobianes, antioxidants, hepatoprotectores, i anticanceroses, entre d'altres. Malgrat això, els experiments a partir dels quals s'infereixen aquests beneficis només s'han estudiat en models experimentals (ja sigui in vitro o en animals), de manera que hi ha una manca d'evidència científica basada en estudis en humans.
+
+
+=== Beneficis ===
+Al llarg dels anys, la literatura sobre els estudis fets en subjectes no humans suggereix que els beneficis per a la salut, en relació al kombutxa, deriven del te i dels productes resultants de la fermentació com l'àcid glucurònic, l'àcid acètic, els polifenols, els fenols i les vitamines del complex B, incloent l'àcid fòlic. Els possibles beneficis per a la salut dels estudis in vitro i in vivo en animals inclouen beneficis antimicrobians, estimulació immune, detoxificació, propietats antioxidants i antitumorals, inhibició del desenvolupament i la progressió del càncer, i prevenció de malalties cardiovasculars, neurodegeneratives o diabetis, entre d'altres.
+Alguns dels estudis que s'han fet han estat:
+
+
+=== Toxicitat ===
+L'Administració d'Aliments i Fàrmacs dels Estats Units l'any 1995 va realitzar proves microbiològiques i bioquímiques i va informar sobre la seguretat de el kombutxa pel consum humà. Tanmateix, es va portar a terme un estudi amb rates per avaluar la toxicitat oral d'aquesta beguda durant 90 dies i no es va trobar evidència per afirmar que causi toxicitat.No obstant això, s'han descrit efectes nocius en determinats casos (problemes cardiovasculars, acidosi metabòlica, insuficiència respiratòria i hepatotoxicitat) associats a la ingestió crònica de kombutxa.Tot i això, al tractar-se d'una beguda que es pot elaborar de manera casolana s'han d'extremar les mesures higièniques per evitar que microorganismes patògens puguin contaminar el kombutxa durant la preparació.
+
+
+== Referències ==
+
+
+== Vegeu també ==
+Kvass, beguda alcohòlica fermentada de molt baixa graduació
+Quefir de llet, producte làctic fermentat
+
+
+== Enllaços externs ==
+Kombucha, molt més que una beguda de moda, Ets el que menges
+Kombutxa és una beguda probiòtica, saludable i refrescant, Kombutxa.com
+What is kombucha tea? Does it have any health benefits?, Mayo Clinic (anglès)
+Does fermented drink kombucha actually have health benefits?, South China Morning Post (anglès)
+Como preparar Kombucha en casa, El blog de Probióticos (castellà)

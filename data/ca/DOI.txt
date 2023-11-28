@@ -1,0 +1,76 @@
+DOI (de l'anglès Digital Object Identifier) és una entitat en una xarxa digital. Proporciona un sistema d'identificació persistent i administració de la informació a Internet. Es pot utilitzar per a qualsevol mena d'arxiu, text, àudio, imatges, programari, etc.El sistema DOI està construït utilitzant diversos estàndards ja existents que s'han combinat i després desenvolupat per a formar un sistema consistent. El sistema va ser acceptat per l'estandardització dins l'ISO (International Organization for Standardization). El sistema DOI s'ha administrat per una associació oberta i un grup col·laboratiu de desenvolupament, la Fundació Internacional del DOI (IDF), fundada el 1998.
+Aquest sistema està en expansió i s'utilitza amb moltes aplicacions, per exemple, per a les publicacions científiques, per a documents del govern, etc.
+El fet d'utilitzar identificadors únics és essencial per a l'administració. Per a tenir un correcte funcionament es necessita un disseny d'identificador que eviti la repetició de les assignacions, i que d'aquesta manera garanteixi que l'article o document pugui ser trobat per algú altre.
+La necessitat de permetre interoperabilitat ara i en un futur afegeix el requisit d'una persistència de l'identificador. El sistema DOI està dissenyat de manera que sigui aplicable a qualsevol objecte digital, donant un mitjà estructurat i extensible d'identificació, descripció i resolució.
+
+
+== Components ==
+Aquest sistema té quatre components diferenciats:
+
+
+=== Nomenament ===
+Assigna un nom o etiqueta a la propietat intel·lectual utilitzant la seva pròpia sintaxi.
+
+
+==== Sintaxi dels noms DOI ====
+És un estàndard per a construir una cadena amb nomenament d'autoritat i delegació (NISO Z39.84, DOI Syntax). Proporciona un contenidor d'identificadors que permet acomodar qualsevol identificador ja existent.
+Aquests són uns exemples de la sintaxi d'un nom DOI vàlid:
+
+10.1234/NP5678
+10.5678/ISBN-0-7645-4889-4
+10.2224/2004-10-ISO-DOITé dos components, el prefix i el sufix, i conjuntament formen l'etiqueta DOI.
+
+El sufix, que és la part que segueix del caràcter "/" pot ser un identificador ja existent.
+El prefix, la part anterior a "/" denota un sol nomenament d'autoritat. No hi ha cap mena de limitació en la longitud del nom.Aquest nom pot ser assignat a qualsevol article de propietat intel·lectual, el qual ha d'estar perfectament definit mitjançant metadades estructurades. Ell mateix romandrà persistent respecte a canvis de la propietat i inalterable una vegada s'ha assignat la seva etiqueta DOI.
+A l'organització que desitgi registrar un nom DOI se li assigna un prefix. Qualsevol organització pot demanar de tenir diversos prefixos assignats. Després del seu prefix es defineix un sufix per a cada article. La combinació del prefix de l'organització que registra l'article i el sufix únic proporcionat evita qualsevol necessitat de l'assignació centralitzada dels noms DOI.
+Un sistema numèric d'estàndards d'identificació ja existent, com l'ISBN, pot ser incorporat a l'etiqueta, utilitzant-lo com a sufix si qui ho registra ho troba convenient (és totalment recomanable, perquè amb un mateix article es pot identificar amb els dos sistemes).
+
+
+=== Descripció ===
+Aprofitant la tecnologia de les metadades es crea una descripció de l'entitat que ha estat identificada amb l'etiqueta DOI mitjançant el model de dades DOI.
+
+
+=== Resolució ===
+Fa que l'identificador pugui ser processat proporcionant informació del que el nom DOI podria resoldre i la tecnologia que es fa servir per a proporcionar els serveis que ofereix als usuaris. Utilitza Handle System.
+La resolució és el procés en què un identificador s'utilitza com a entrada d'un servei de la xarxa, per a rebre com a sortida una o més peces d'una informació actualitzada relacionada amb l'article identificat. Els components de la resolució permeten el redireccionament en una xarxa TCP/IP del nom DOI a les seves dades associades.
+
+
+=== Política ===
+Són les normes que regulen el sistema en una infraestructura social.
+
+
+== Model de dades ==
+Consisteix en un diccionari de dades i un marc d'aplicació. Tots dos proporcionen les eines per a la definició de les especificacions del DOI i com es relacionen les diferents etiquetes DOI entre elles (a través d'un mecanisme que associa els noms DOI amb les propietats comunes definides). Un diccionari de dades és un conjunt de termes, amb les seves definicions i s'utilitza en un sistema de computació. Alguns estan estructurats, amb els seus termes relacionats entre ells de diferents maneres, per exemple, jeràrquicament. Les estructures deriven de les ontologies. Una ontologia combina un diccionari de dades i un model lògic de dades, donant una lògica i consistent punt de vista.
+Està dissenyat per a assegurar una interoperabilitat màxima amb els elements de les metadades existents. El marc d'aplicació permet agrupar els termes en diferents contexts significatius, perquè alguns tipus de noms DOI es comporten de manera predictible en una aplicació. Els noms DOI no necessiten fer ús d'aquests models de dades, però es pot preveure que alguns ho necessitaran. Qualsevol que tingui la intenció de permetre interoperabilitat està subjecta a la política de les metadades del Sistema.
+Un diccionari interoperable conté termes de diferents sistemes de computació o d'esquemes de metadades i mostra la relació que tenen un amb l'altre.
+El seu propòsit és el de la compatibilitat entre sistemes diferents.
+
+
+== Implementació ==
+El sistema DOI està implementat segons la Federació d'Agències de Registre que utilitza polítiques i eines de desenvolupades per la Fundació Internacional DOI (IDF). L'IDF és un cos de govern del sistema DOI que sobreguarda (possessions i llicències per part de les persones que sol·liciten un registre) tots els drets de les propietats intel·lectuals relacionats amb el sistema DOI.
+Treballa amb l'Agència de Registre (RA-Registration Agency) i amb els estàndards tècnics essencials per a assegurar que cada millora del sistema, inclosa la creació, el manteniment, el registre, la resolució i la política de les etiquetes DOI, estarà disponible per a cada registre i que no faran falta terceres llicències per a portar a la pràctica el sistema DOI.
+Aquest sistema és flexible a l'hora de donar serveis d'identificació i registre. Les normes per a saber què s'ha identificat i fins a quin punt dues coses fan referència al mateix correspon al RA.
+
+
+== Avantatges ==
+Persistència, si el material s'ha mogut, reorganitzat o marcat.
+Interoperabilitat amb altres dades d'altres fonts
+Extensible, afegint nous aspectes i serveis.
+Un únic control de dades per a múltiples formats de sortida (plataformes independents).
+Control per classes d'aplicacions i serveis.
+Actualització dinàmica de metadades, aplicacions i serveis.
+
+
+== Vegeu també ==
+ORCID
+
+
+== Referències ==
+
+
+== Bibliografia ==
+Paskin, Norman. «Digital Object Identifier (DOI®) System». A: Encyclopedia of Library and Information Sciences (en anglès). 3rd ed..  Taylor & Francis, 2010, p. 1.586-1.592. 
+
+
+== Enllaços externs ==
+The DOI System (anglès)

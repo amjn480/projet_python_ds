@@ -1,0 +1,83 @@
+En taxonomía, el género es una categoría taxonómica que se ubica entre la familia y la especie; así, un género es un grupo de organismos que a su vez puede dividirse en varias especies (existen algunos géneros que son monoespecíficos, es decir, contienen una sola especie). El término proviene del latín genus, que significa linaje, familia, tipo,[1]​ cognado a su vez del griego γένος 'genos', raza, estirpe, pariente.[2]​
+
+
+== Categorías relacionadas con el género ==
+Al igual que ocurre con otros niveles, en la taxonomía de los seres vivos, y debido a la enorme dificultad para clasificar ciertas especies, varios géneros pueden agruparse dentro de supergéneros, y también los individuos de un género pueden organizarse en subgéneros. Estos, a su vez, pueden organizarse en infragéneros. En la siguiente tabla, ordenadas de mayor a menor rango, se han marcado con fondo de color las categorías obligatorias.[cita requerida]
+
+
+== Nomenclatura ==
+El nombre genérico para un taxón ha de ser un sustantivo, sin que existan reglas precisas para su desinencia. En varios casos, el taxón genérico constituye un grupo tan natural que es de dominio vulgar. Por ejemplo: el género Pinus es un género en sentido científico, integrado por numerosas especies de pinos que usualmente tienen un nombre vulgar "binomial", semejante a la nomenclatura científica, como pino albar, pino negral, pino carrasco, etc.
+
+
+== Historia del concepto ==
+El concepto de género y el propio vocablo fueron establecidos por Joseph Pitton de Tournefort (1656-1708). Carlos Linneo los tomó, concretando así su pensamiento: 
+
+ 
+
+Originariamente Linneo y los botánicos de su escuela establecieron los géneros sobre la base de los caracteres de la flor y el fruto. En la actualidad, para el establecimiento de géneros se toman multitud de caracteres. Por ejemplo, tratándose de plantas superiores se consideran la morfología general de la flor, la filotaxis, la anatomía, etc.
+La composición de un género es determinada por un taxónomo. Los estándares para la clasificación en géneros no están codificados de manera estricta, de manera que los diferentes autores con frecuencia producen clasificaciones diferentes para los géneros. Sin embargo, hay algunas prácticas comunes,[3]​ incluyendo la idea de que un género que vaya a ser definido debería llenar estos tres criterios para ser descriptivamente útil:
+
+monofilia – todos los descendientes de un taxón ancestral son agrupados conjuntamente;
+ser razonablemente compacto – un género no debe ser expandido innecesariamente; y
+singularidad – basada en criterios evolutivos relevantes, por ejemplo la ecología, morfología o la biogeografía; se debe señalar que las secuencias de ADN son una consecuencia más que una condición de los linajes evolutivos divergentes excepto en los casos en que estos inhiban directamente el flujo genético (por ejemplo, las barreras postzigóticas).
+
+
+== Uso ==
+El nombre científico (o el epíteto científico) de un género también se denomina nombre genérico'; en los manuales de estilo modernos y en la ciencia siempre se escribe con mayúscula. Desempeña un papel fundamental en la nomenclatura binomial, el sistema de denominación de organismos, donde se combina con el nombre científico de una especie: véase Nombre botánico y Nombre específico (zoología).[cita requerida]
+
+
+=== Uso en nomenclatura ===
+Las reglas para los nombres científicos de los organismos se establecen en los Códigos de Nomenclatura, que permiten asignar a cada especie un único nombre que, para los "animales" (incluidos los protistas), las "plantas" (incluidos también las algas y los fungi) y los procariotas (bacterias y arqueas), se expresa en latín y es binomial. Esto contrasta con los nombres comunes o nombres vernáculos, que no están estandarizados, pueden no ser únicos y normalmente también varían según el país y la lengua de uso.
+Salvo en el caso de los virus, el formato estándar de un nombre de especie comprende el nombre genérico, que indica el género al que pertenece la especie, seguido del epíteto específico, que (dentro de ese género) es único para la especie. Por ejemplo, el nombre científico del lobo gris es Canis lupus, siendo Canis (latín para 'perro') el nombre genérico compartido por los parientes cercanos del lobo y lupus (latín para 'lobo') es el nombre específico del lobo. Un ejemplo botánico sería Hibiscus arnottianus, una especie particular del género Hibiscus nativa de Hawái. El nombre específico se escribe en minúsculas y puede ir seguido de nombres de subespecies en zoología o de una variedad de taxón infraespecífico en botánica.
+Cuando el nombre genérico ya se conoce por el contexto, puede acortarse a su letra inicial, por ejemplo C. lupus en lugar de Canis lupus. Cuando las especies se subdividen, el nombre genérico (o su forma abreviada) sigue siendo la parte principal del nombre científico, por ejemplo, Canis lupus lupus para la subespecie del lobo euroasiático, o como ejemplo botánico, Hibiscus arnottianus ssp. immaculatus. Además, como se puede ver en los ejemplos anteriores, las partes latinizadas de los nombres científicos de los géneros y sus especies incluidas (y las infraespecies, en su caso) se escriben, por convención, en cursiva.
+Los nombres científicos de las especies de virus son descriptivos, no binomiales, y pueden o no incorporar una indicación del género que los contiene. Por ejemplo, las especies de virus "herpesvirus salmónido 1", "herpesvirus salmónido 2" y "herpesvirus salmónido 3" están todas dentro del género Salmonivirus, sin embargo, el género al que se asignan las especies con los nombres formales "virus de los Everglades" y "virus del río Ross" es Alphavirus.
+Al igual que con los nombres científicos de otros rangos, en todos los grupos distintos de los virus, los nombres de los géneros pueden citarse con sus autoridades, normalmente en la forma "autor, año" en zoología, y "nombre de autor abreviado estándar" en botánica. Así, en los ejemplos anteriores, el género Canis se citaría completo como "Canis Linnaeus, 1758" (uso zoológico), mientras que Hibiscus, también establecido por primera vez por Linnaeus pero en 1753, es simplemente "Hibiscus L." (uso botánico).
+
+
+=== El concepto de tipo ===
+
+Cada género debería tener un tipo designado, aunque en la práctica hay una acumulación de nombres antiguos sin uno. En zoología, se trata de la especie tipo, y el nombre genérico se asocia permanentemente con el espécimen tipo de su especie tipo. Si el espécimen resulta ser asignable a otro género, el nombre genérico vinculado a él se convierte en un sinónimo junior y el resto de taxa del género anterior debe ser revaluado.
+
+
+=== Categorías de nombres genéricos ===
+En el uso zoológico, los nombres taxonómicos, incluidos los de los géneros, se clasifican como "disponibles" o "no disponibles". Los nombres disponibles son aquellos publicados de acuerdo con el Código Internacional de Nomenclatura Zoológica y que no han sido suprimidos por decisiones posteriores de la Comisión Internacional de Nomenclatura Zoológica (ICZN); el primer nombre de este tipo para cualquier taxón (por ejemplo, un género) debe ser seleccionado como el "válido" (es decir, actual o aceptado) para el taxón en cuestión.
+En consecuencia, habrá más nombres disponibles que válidos en cualquier momento, y los nombres que se utilizan actualmente dependen del criterio de los taxónomos a la hora de combinar taxones descritos con varios nombres, o de dividir taxones, lo que puede hacer que vuelvan a utilizarse nombres disponibles que antes se trataban como sinónimos. Los nombres "no disponibles" en zoología comprenden nombres que, o bien no se publicaron de acuerdo con las disposiciones del Código ICZN, o bien se han suprimido posteriormente, por ejemplo, grafías originales o posteriores incorrectas, nombres publicados sólo en una tesis, y nombres genéricos publicados después de 1930 sin indicar la especie tipo.[4]​
+En botánica existen conceptos similares pero con etiquetas diferentes. El equivalente botánico del "nombre disponible" de la zoología es un nombre válidamente publicado. Un nombre no publicado es un nomen invalidum o nom. inval.; un nombre rechazado es un nomen rejiciendum o nom. rej.; un homónimo posterior de un nombre publicado válidamente es un nomen illegitimum o nom. illeg.; para una lista completa consulte el Código Internacional de Nomenclatura para algas, hongos y plantas (ICNafp) y el trabajo citado anteriormente de Hawksworth, 2010.[4]​ En lugar del "taxón válido" en zoología, el equivalente más cercano en botánica es el "nombre correcto" o el "nombre actual" que puede, de nuevo, diferir o cambiar con tratamientos taxonómicos alternativos o con nueva información que resulte en la combinación o división de géneros previamente aceptados.
+También existen códigos de nomenclatura para Procariotas y virus que sirven de referencia para designar los nombres de géneros actualmente aceptados frente a otros que pueden quedar reducidos a la sinonimia o, en el caso de los procariotas, relegados a la categoría de "nombres sin categoría en la nomenclatura procariótica".
+Un nombre "disponible" (zoológico) o "válidamente publicado" (botánico) que se ha aplicado históricamente a un género pero que no se considera el nombre aceptado (actual/válido) para el taxón se denomina "sinónimo (taxonomía)|sinónimo"; algunos autores también incluyen nombres no disponibles en las listas de sinónimos, así como nombres disponibles, como errores ortográficos, nombres publicados previamente sin cumplir todos los requisitos del Código de nomenclatura pertinente, y nombres rechazados o suprimidos.
+Un nombre de género concreto puede tener de cero a muchos sinónimos, en este último caso generalmente si el género se conoce desde hace mucho tiempo y ha sido redescrito como nuevo por una serie de trabajadores posteriores, o si una serie de géneros considerados anteriormente como taxones separados se han consolidado posteriormente en uno solo. Por ejemplo, el Registro Mundial de Especies Marinas actualmente tiene 8 sinónimos a nivel de género para el género de cachalotes Physeter Linnaeus, 1758,[5]​ y 13 para el género de bivalvos Pecten O.F. Müller, 1776.[6]​
+
+
+=== Nombres idénticos (homónimos) ===
+Dentro del mismo reino, un nombre genérico puede aplicarse a un solo género. Sin embargo, muchos nombres han sido asignados (normalmente de forma no intencionada) a dos o más géneros diferentes. Por ejemplo, el ornitorrinco pertenece al género Ornithorhynchus aunque George Shaw lo nombró Ornitorrinco en 1799 (estos dos nombres son, por tanto, sinónimos). Sin embargo, el nombre Ornitorrinco ya había sido dado a un grupo de escarabajos de ambrosía por Johann Friedrich Wilhelm Herbst en 1793. Un nombre que significa dos cosas diferentes es un homónimo. Dado que tanto los escarabajos como los ornitorrincos son miembros del reino Animalia, el nombre no podía utilizarse para ambos. Johann Friedrich Blumenbach publicó el nombre sustitutivo Ornithorhynchus en 1800.
+Sin embargo, se permite que un género de un reino lleve un nombre científico que se utiliza como nombre genérico (o el nombre de un taxón de otro rango) en un reino que se rige por un código de nomenclatura diferente. Los nombres con la misma forma pero que se aplican a taxones diferentes se denominan "homónimos". Aunque tanto el Código Internacional de Nomenclatura Zoológica como el Código Internacional de Nomenclatura para algas, hongos y plantas lo desaconsejan, hay unos cinco mil nombres de este tipo en uso en más de un reino. Por ejemplo,
+
+Anura es el nombre del orden de las ranas pero también es el nombre de un género no actual  de plantas;
+Aotus es el nombre genérico tanto de guisantes dorados como de mono nocturno;
+Oenanthe es el nombre genérico de las collalbas y de las gotas de agua;
+Prunella es el nombre genérico de acentors y prunellas; y
+Proboscidea es el orden de los elefantes y el género de uña del diablo.
+El nombre del género Paramecia (un alga roja extinta) es también el plural del nombre del género Paramecium (que está en el supergrupo SAR), lo que también puede llevar a confusión.El Registro provisional de géneros marinos y no marinos (IRMNG) ha recopilado una lista de homónimos genéricos (con sus autoridades), que incluye tanto los nombres disponibles (válidamente publicados) como algunos no disponibles.[7]​
+
+
+=== Uso en clasificaciones superiores ===
+El género tipo forma la base para clasificaciones superiores taxonómicas, como el nombre de la familia Canidae ("Cánidos") basado en Canis. Sin embargo, esto no suele ascender más de uno o dos niveles: el orden al que pertenecen los perros y los lobos es Carnivora ("Carnívoros").
+
+
+== Número de géneros aceptados ==
+No se conoce con exactitud el número de nombres de géneros aceptados o publicados; Rees y colaboradores (2020) estiman que pueden existir aproximadamente 310 000 nombres aceptados (taxones válidos), de un total de cerca de 520 000 nombres publicados (incluyendo sinónimos) a finales de 2019, aumentando a unos 2500 nombres genéricos publicados por año.[8]​ Sólo existen registros "oficiales" de nombres de taxones de todos los rangos, incluidos los géneros, para unos pocos grupos, como los virus[9]​ y los procariotas,[10]​ mientras que para otros existen compendios sin carácter "oficial" como el Index Fungorum para los hongos,[11]​ Index Nominum Algarum[12]​ y AlgaeBase[13]​ for algae, Index Nominum Genericorum[14]​ y el International Plant Names Index[15]​ para plantas en general, y los helechos hasta las angiospermas, respectivamente, y Nomenclator Zoologicus[16]​ y el Index de Nombres de los Organismo (http://www.organismnames.com/) for zoological names.
+Los totales de «todos los nombres» y las estimaciones de «nombres aceptados» que figuran en el Registro provisional de géneros marinos y no marinos (IRMNG) se desglosan más en la publicación de Rees et al. (2020) citada anteriormente. Las estimaciones de los nombres aceptados son las siguientes, desglosadas por reino:
+
+Animalia: 239 093 nombres aceptados de géneros (± 55 350)
+Plantae: 28 724 nombres aceptados de géneros (± 7721)
+Fungi: 10 468 nombres aceptados de géneros (± 182)
+Chromista: 11 114 nombres aceptados de géneros (± 1268)
+Protozoa: 3109 nombres aceptados de géneros (± 1206)
+Bacteria: 3433 nombres aceptados de géneros (± 115)
+Archaea: 140 nombres aceptados de géneros (± 0)
+Viruses: 851 nombres aceptados de géneros (± 0)Los rangos de incertidumbre citados se deben a que el IRMNG enumera nombres «inciertos» (no investigados en él) además de los nombres «aceptados» conocidos; los valores citados son la media de los nombres «aceptados» solos (todos los nombres «inciertos» tratados como no aceptados) y los nombres «aceptados + inciertos» (todos los nombres «inciertos» tratados como aceptados), con el rango de incertidumbre asociado que indica estos dos extremos.
+Dentro de Animalia, el mayor filo es el de los artrópodos (Arthropoda), con 151 697 ± 33 160 nombres de género aceptados, de los cuales 114 387 ± 27 654 son insectos (clase Insecta). Dentro de Plantae, las traqueofitas (plantas vasculares) constituyen el mayor componente, con 23 236 ± 5379 nombres de géneros aceptados, de los cuales 20 845 ± 4494 son angiospermas (superclase Angiospermae).
+En comparación, la edición anual de 2018 del Catálogo de la Vida (que se calcula que está completa en más de un 90%, principalmente para las especies existentes) contiene actualmente 175 363 nombres de géneros «aceptados» para 1 744 204 especies vivas y 59 284 extintas,[17]​ incluyendo también los nombres de los géneros solamente (sin especies) para algunos grupos.
+
+
+== Referencias ==

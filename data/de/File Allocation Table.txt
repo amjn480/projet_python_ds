@@ -1,0 +1,205 @@
+File Allocation Table (kurz FAT [fæt], englisch für Dateizuordnungstabelle) bezeichnet eine ursprünglich 1977 von Microsoft entwickelte, weit verbreitete Familie von Dateisystemen, die zum Industriestandard erhoben wurde und bis heute auch über Betriebssystemgrenzen hinweg als fast universelles Austauschformat dient. Wesentliche Erweiterungen wurden auch von Seattle Computer Products, Compaq, Digital Research und Novell eingebracht. Als proprietäre Nachfolger entwickelte Microsoft NTFS und exFAT.
+
+
+== Hintergrund ==
+Das FAT-Dateisystem wurde ursprünglich 1977 in einer 8-Bit-Variante von Marc McDonald für Microsofts Standalone Disk BASIC-80 für 8080-Prozessoren entwickelt, 1978 auf einer DEC PDP-10 unter Zuhilfenahme eines 8086-Simulators für Standalone Disk BASIC-86 portiert und 1979 für Microsofts Betriebssystem MDOS/MIDAS adaptiert.
+Ebenfalls 1979 wurde Standalone Disk BASIC-86 von Bob O’Rear auf eine von Seattle Computer Products (SCP) entwickelte S-100-Bus-Hardware-Plattform angepasst. Bei dieser Gelegenheit wurde Tim Paterson auf das Dateisystem aufmerksam, das er 1980 als konzeptionelle Grundlage seines 12-Bit-Dateisystems für SCPs Betriebssystem QDOS wählte, welches, umbenannt in 86-DOS, von Microsoft zunächst lizenziert, aufgekauft und daraufhin 1981 die Ausgangsbasis für MS-DOS und PC DOS 1.0 wurde.
+Zu der Familie der FAT-Dateisysteme gehören:
+
+FAT12 wird für jede DOS-Diskette verwendet (u. a. unter Windows, aber auch z. B. macOS), findet sich aber auch auf SD-Karten geringer Speicherkapazität. Der Atari ST benutzt ein fast identisches Dateisystem und kann FAT12-Disketten lesen und beschreiben.
+FAT16 wird auf allen Arten von mobilen Datenträgern (außer Disketten) mit einer Größe von bis zu 2, selten bis 4 GiB verwendet. FAT16 findet auch auf Geräten mit SD-Karten der Version 1.0/1.1 mit bis zu 4 GB Speicherkapazität Verwendung, wie beispielsweise ältere Digitalkameras.
+FAT32 wird z. B. in allen Arten von mobilen Speichern von mehr als 2 GiB Kapazität genutzt. Unter Windows 9x ab Version 95b und einigen späteren DOS-Systemen diente es auf Festplatten als Ersatz für FAT16 und wird auf vielen SDHC-Karten mit Speicherkapazitäten bis zu 32 GB verwendet.
+FAT+ (FAT32+/FAT16+) ist eine rückwärtskompatible Erweiterung von FAT32 (und – theoretisch – FAT16B), welche die maximale Größe einer Datei von 4 GiB auf 256 GiB erhöht (wird derzeit unter anderem von Enhanced DR-DOS und Deskwork unterstützt)
+exFAT ist ein speziell für Flash-Speicher entwickeltes Dateisystem mit einer theoretischen maximalen Dateigröße von 16 EiB, das sich konzeptionell entfernt an FAT anlehnt. Es ist bei SDXC-Speicherkarten das im Standard vorgeschriebene Dateisystem.
+
+
+== Typen ==
+
+
+=== FAT12 ===
+Mit der 1980 erschienenen ersten Version von QDOS bzw. 86-DOS wurde FAT12 als Dateisystem für 8,0″- und 5,25″-Disketten eingeführt. Erst ab 86-DOS 0.42 vom Februar 1981 wiesen die internen Ordnungsstrukturen ein Format auf, das dem späteren FAT12-Format in MS-DOS und PC DOS in allen wesentlichen Punkten glich. Aufgrund abweichender logischer Geometrien und der Tatsache, dass der BIOS Parameter Block (BPB) erst mit DOS 2 eingeführt wurde, können jedoch (mit Ausnahme von SCP MS-DOS 1.25) weder MS-DOS noch PC DOS auf unter 86-DOS formatierte Medien zugreifen.
+Anfangs wurden keine Unterverzeichnisse verwaltet. Das änderte sich mit MS-DOS Version 2.0.
+FAT12 wird nur auf Datenträgern bzw. Partitionen bis zu einer Größe von 16 MiB eingesetzt; es ist bis heute auf allen FAT-formatierten 3,5″-Disketten im Einsatz.
+Merkmale:
+
+12-Bit-Clusternummern, mit denen 212 = 4096 Cluster angesprochen werden können. Die Nummerierung der Cluster beginnt auf Disketten bei der Nummer 2.
+Es werden nur Dateinamen im Schema 8.3 (acht Zeichen für den Dateinamen und drei Zeichen für die Dateinamenserweiterung) unterstützt.
+Die Clustergröße beträgt 512 Byte bis 4096 Byte.
+Das Hauptverzeichnis (Root-Directory) der Partition ist auf eine Größe von 14 Clustern beschränkt, dadurch ergibt sich eine maximale Anzahl von 224 Einträgen (Verzeichnisse und/oder Dateien). Normalerweise wird der erste Eintrag durch die Bezeichnung des Datenträgers belegt.
+Unterstützt werden die Dateiattribute „Schreibgeschützt“, „Versteckt“, „System“ und „Archiv“.
+Unterstützung für Passwörter und Zugangsberechtigungen für Dateien oder Ordner ist in Microsoft-Betriebssystemen nicht implementiert, ist jedoch optional unter allen Betriebssystemen verfügbar, die die entsprechenden FAT-Erweiterungen von Digital Research und Novell unterstützen.
+
+
+=== FAT16 ===
+FAT16 ist ein Dateisystem, das 1983 zu FAT12 dazukam. Durch die zunehmende Größe der eingesetzten Festplatten wurde eine Erweiterung des Adressraumes notwendig. Nun waren selbst mit 512-Byte-Clustern zumindest theoretisch insgesamt 32 MiB große Platten verwaltbar.
+Die ursprüngliche FAT16-Implementierung verwendete auf partitionierten Medien in der Regel (abhängig vom jeweiligen DOS-OEM) den Partitiontyp 04h und einen noch vergleichsweise kurzen BIOS Parameter Block (BPB) im Bootsektor. Dessen genauer Aufbau und Inhalt hing insbesondere bei DOS 2.x noch stark von der verwendeten DOS-Version ab, er enthielt jedoch in allen Fällen nur einen 16-Bit breiten Eintrag für die Sektorenanzahl, was die Größe von FAT16-Laufwerken auf 32 MiB bis 512 MiB beschränkte (je nach Betriebssystemversion). Mit OS/2 Release 1 wurde ein Enhanced BIOS Parameter Block (EBPB) eingeführt, erkennbar am Signaturbyte 28h (für DOS-BPB-Version 4.0) an Offset +26h. Mit Einführung von DOS 3.31 wurde dieser durch den nochmals erweiterten, heute allgemein für FAT12 und FAT16 verwendeten Extended BIOS Parameter Block (XBPB) mit Signatur 29h (für DOS-BPB-Version 4.1) an Offset +26h ersetzt. EBPB und XBPB zeichnen sich u. a. dadurch aus, dass der Eintrag für die Zahl der Sektoren auf 32-Bit Breite wuchs, womit erstmals FAT16-Laufwerke mit bis zu 2 GiB, später 4 GiB, möglich wurden, auch wenn die damaligen Betriebssysteme davon noch keinen Gebrauch machen konnten. Diese größere Variante von FAT16 wurde in Entwicklerkreisen „BigDOS“ genannt, daher stammt auch ihr offizieller Name FAT16B. Da ältere Betriebssysteme mit diesem neuen Typ nicht arbeiten konnten, wurde für die Verwendung auf partitionierten Medien auch ein neuer Partitionstyp (06h) dafür definiert. Die alte FAT16-Variante wird zwar nach wie vor unterstützt, findet aber (bis auf die forcierte Erzeugung von sehr kleinen FAT16-Partitionen mit dem Partitionstyp 04h) in der Praxis keine Verwendung mehr, da spätestens seit DOS 5 bei der Erzeugung von FAT12- und FAT16-Partitionen gleichermaßen nur noch Bootsektoren mit XBPB geschrieben werden, um einige neue Betriebssystemfunktionen optimal zu unterstützen. Die Tatsache, dass es eigentlich zwei FAT16-Typen gibt, ist in der Allgemeinheit nicht mehr präsent, mehr noch, da FAT12 fast nur noch für Disketten verwendet wird, wird heute FAT oft fälschlicherweise nur mit FAT16 (und das auch nur in der beschriebenen FAT16B-Variante) gleichgesetzt, obwohl darunter eigentlich mehrere FAT12- und FAT16-Typen zu verstehen wären. Allerdings benötigt das Server-Betriebssystem Novell-NetWare bis zur Version 4.0 noch eine bis zu 16 MiB große „DOS“-Bootpartition, die (automatisch) mit FAT12 erzeugt wurde.
+Erfolgt der Zugriff über Logical Block Addressing (LBA), wird eine FAT16-Partition auch als FAT16X bezeichnet.
+FAT16 hat folgende Merkmale:
+
+Rund 65.000 Datei-Einträge sind maximal möglich, davon üblicherweise 512 im Stammverzeichnis (obwohl dies variabel ist, ist 512 de facto der einzige anzutreffende Wert).
+Maximal 512 Einträge pro Unterverzeichnis, bei Verwendung von LFN entsprechend weniger.
+Es können 216 − 12 = 65.524 Cluster angesprochen werden (12 Cluster reserviert FAT16, deshalb nicht 65.536).
+8.3-Dateinamensformat; LFN möglich.
+Die Partitionsgröße ist unter MS-DOS und Windows 9x (die auf DOS basieren) bei der Neuanlage unter FDISK auf 2 GiB begrenzt, bei der Anlage mit Fremdprogrammen können sie knapp unter 4 GiB verwalten. Windows NT, FreeDOS und Enhanced DR-DOS können FAT16-Partitionen mit der maximalen Größe erzeugen und verwalten (Clustergröße 64 KiB).
+Die Cluster sind je nach Partitionsgröße zwischen 512 Byte und maximal 32 KiB (Windows NT und Enhanced DR-DOS maximal 64 KiB) groß.
+Dateien dürfen bis 2 GiB groß werden, unter Windows NT und Enhanced DR-DOS 4 GiB.
+Das Haupt-(Root-)Verzeichnis muss sich an einer bestimmten Position auf dem Datenträger befinden. Seine Größe wird bei Erstellung des Dateisystems festgelegt, d. h., es kann nicht wachsen.Eine Weiterentwicklung erfolgte mit FAT32.
+
+
+=== FAT32 ===
+FAT32 ist ein von Microsoft entwickeltes Dateisystem, das im Sommer 1996 mit Windows 95B eingeführt wurde und die Vorgängerversion FAT16 ergänzt.
+Partitionen kleiner als 512 MiB werden nach wie vor mit FAT16 erzeugt, von 512 MiB bis 2 GiB hat man die Wahl, ab 2 GiB wird FAT32 benutzt. Die Adressierung arbeitet mit 32 Bits, wovon 4 Bits reserviert sind, so dass 228 = 268.435.456 Cluster adressiert werden können.
+FAT32 kann außerdem mit allen Windows-Versionen seit Windows 95B sowie – anders als NTFS – problemlos auch mit FreeDOS und Enhanced DR-DOS verwendet werden. Da Windows je nach Version von Haus aus nur wenige Dateisysteme unterstützt, wird FAT32 trotz seiner Beschränkungen zum Datenaustausch sowohl mit anderen Windows-Systemen als auch mit Nicht-Windows-Systemen (z. B. macOS, Linux) eingesetzt, z. B. auf USB-Speichersticks und mobilen Festplatten.
+Spielekonsolen wie beispielsweise die PlayStation 3 oder digitale Satellitenreceiver setzen bei extern angeschlossenen Festplatten häufig FAT32 als Dateisystem voraus.
+Ein Nachteil eines standardkonformen FAT32-Dateisystems ist, dass nur Dateien erstellt werden können, die kleiner als 4 GiB sind. Mit der rückwärtskompatiblen Erweiterung FAT32+ sind zwar auch Dateien bis zu 256 GiB möglich, diese Erweiterung wird aber nur von wenigen Systemen unterstützt.
+Da bis zu einer Partitionsgröße von 8 GiB ein Cluster nur 4 KiB groß ist (bei der Standardformatierung), werden diese „kleinen und alten“ Platten verhältnismäßig besser ausgenutzt als mit FAT16, wo ein Cluster bis zu 32 KiB belegt (unter Windows NT wie beispielsweise Windows 2000 FAT16-Clustergröße maximal 64 KiB).
+Erfolgt der Zugriff über Logical Block Addressing (LBA), wird eine FAT32-Partition auch als FAT32X bezeichnet.
+FAT32 hat folgende Merkmale:
+
+Es werden bis zu 228 = 268.435.456 Cluster verwendet.
+Die maximale Dateisystemgröße hängt von der Sektorengröße des verwendeten Mediums ab. Bei Festplatten, die typischerweise 512 Bytes Sektorengröße haben, beträgt die maximale Größe 2 Tebibyte; bei Datenträgern, die 4 KiB Sektorengröße verwenden, beträgt die maximale Größe 16 Tebibyte. Die Größe ist primär durch das vier Bytes große Gesamtsektoranzahl-Feld (Offset 20h) im Bootsektor begrenzt.
+Die Cluster sind je nach Partitionsgröße zwischen 512 Byte und maximal 32 KiB groß.
+Dateien dürfen max. bis zu 4 GiB − 1 Byte (= 4.294.967.295 Byte) groß werden. Diese Grenze ist eine Folge des nur 4 Byte breiten Feldes für die Dateigröße in der Directory-Tabelle.
+Es können maximal 228 Dateien abgelegt werden; da jede Datei mindestens einen Cluster belegt, beschränkt die maximale Anzahl der Cluster die maximale Anzahl Dateien.
+Das Haupt-(Root-)Verzeichnis muss sich nicht an einer bestimmten Position auf dem Datenträger befinden und hat vor allem keine festgelegte Größe; bei den anderen FAT-Varianten wird die maximale Anzahl der Einträge im Hauptverzeichnis bei der Formatierung festgelegt (und kann nachträglich nicht geändert werden).Praxis-Limitierungen:
+
+Alte DOS-/Windows-Versionen (bis einschließlich Windows 95A, Windows NT bis Version 4.0, MS-DOS bis 6.22, PC DOS bis 2000, DR-DOS bis 7.03) können nicht darauf zugreifen. Für Windows NT 4.0 kam, etwas verspätet, ein vollwertiger kostenloser Treiber. Für beliebige DOS-Systeme ab 3.3 kann der von Matthias Paul für DR-DOS entwickelte dynamisch ladbare DRFAT32-Treiber verwendet werden, der FAT32-Laufwerke über das Redirector-Interface als (erweiterte) CD-Extension mit vollem Schreib-/Lesezugriff in das System einbindet.
+Unter Windows 2000 und Nachfolgern darf der Benutzer mit der eingebauten Funktion „Formatieren“ maximal 32 GiB große FAT32-Dateisysteme neu erstellen, auch das Kommandozeilen-Programm format.com hat diese Beschränkung. Allerdings erlaubt die explizite Wahl von FAT32 als Dateisystem durch die FS-Option eine Formatierung von Datenträgern selbst größer als 32 GiB (format /FS:FAT32). Der Zugriff auf größere FAT32-Dateisysteme, die mit alternativen Werkzeugen erstellt wurden, ist aber immer möglich. Mit zusätzlichen Programmen kann man jedoch auch unter Windows 2000 oder höher Partitionen größer als 32 GiB mit FAT32 erstellen und formatieren.
+Unter Windows 10 ist das Formatieren mit FAT32 über die Eingabeaufforderung möglich.
+Das Festplatten-Dienstprogramm von Mac OS X Tiger 10.4 und neuer sowie das Linux-Programm mkdosfs (in Verbindung mit fdisk) können auf Festplatten, die größer als 32 GiB sind, eine oder mehrere FAT32-Partitionen mit mehr als 32 GiB Kapazität erzeugen.
+Es gibt mehrere moderne DOS-Systeme, die FAT32 nativ unterstützen: MS-DOS 7.10/8.00, Enhanced DR-DOS, FreeDOS, OEM PC DOS 7.10 (der Nachfolger von PC DOS 2000) und Datalight ROM-DOS.
+Das Speichern von Meta-Informationen für Dateien in Extended Attributes ist nicht mehr möglich.
+Microsofts Spezifikation verbietet aus genannten Gründen der Geschwindigkeit und Kompatibilität über 2 MB lange Dateiordner, welches einen Ordner auf 65.534 8.3-Dateinameneinträge (jeweils 32 Bytes) beschränkt (zwei Einträge sind bereits durch . und .. reserviert). Die Verwendung von langen Dateinamen (LFN, das beinhaltet Dateinamen in Kleinbuchstaben) reduziert die Anzahl.Da auch in aktuellen Windows-Installationen FAT32 und NTFS koexistieren können, ist zu beachten, dass bei der Übertragung von Dateien von NTFS auf FAT32 sowohl NTFS-Streams als auch die Berechtigungen verloren gehen, was je nach Anwendungszweck sinnvoll oder störend sein kann.
+
+
+== Erweiterungen ==
+
+
+=== VFAT und LFN ===
+VFAT (Virtual File Allocation Table) ist eine Erweiterung des FAT-Formats zur Verwendung langer Dateinamen, die auf FAT12, FAT16 und (seit dessen Einführung im Jahr 1996) auch auf FAT32 angewendet werden kann. Gelegentlich wird im Sprachgebrauch auch fälschlich VFAT mit FAT32 gleichgesetzt.
+LFN steht für long filenames, lange Dateinamen, die durch VFAT in allen klassischen FAT-Dateisystemen implementiert sind.
+
+Die Designer von Windows 95 hatten das Ziel, die Nutzung von langen Dateinamen zu ermöglichen, obwohl die auf MS-DOS aufbauenden Versionen das unter der NT-Serie dafür vorgesehene Nachfolge-Dateisystem NTFS nicht unterstützen. Das wird durch einen Trick im Layout des Dateisystems erreicht. Die Datei wird wie bisher als 8.3-Dateiname gespeichert, bei längeren Namen wird jedoch ein Alias in der Form xxxxxx~1.xxx verwendet, wobei die Nummer hochgezählt wird. Der lange Name wird dann über mehrere Verzeichniseinträge verteilt, die eine Kombination von Datei-Attributen aufweisen, die ältere Systeme als ungültig ansehen und daher ignorieren.
+Allerdings kann es durch die Verwendung des „Volume“-Attributes dazu kommen, dass ältere MS-DOS (vor 7.1) im dir-Befehl solche Einträge irrtümlich als Volumenamen interpretieren, vor allem, wenn der tatsächliche Volumename im Verzeichnis nicht an erster Stelle steht oder ganz fehlt.
+Das endgültige Format erlaubt bis zu 255 Zeichen lange Dateinamen (wobei der Name inklusive Speicherpfad bis zu 260 Zeichen enthalten kann) und nutzt Unicode als Zeichensatz mit der Kodierung UCS-2.
+In bisher von Microsoft-Systemen nicht genutzten Bereichen des Eintrages mit dem 8.3-Dateinamen werden nun auch das Erstelldatum und das Datum des letzten Zugriffes gespeichert.
+
+
+==== Unterstützung in Betriebssystemen ====
+Windows for Workgroups 3.11 unterstützt VFAT optional, jedoch nur für Festplatten und ohne die Möglichkeit langer Dateinamen.
+VFAT wird in Windows 95 und höher und in Windows NT 3.5 und höher unterstützt.
+Unter Linux wird die VFAT-Erweiterung vollständig unterstützt.
+
+
+=== UMSDOS ===
+In den frühen 1990er Jahren wurde von vielen Linux-Distributionen die UMSDOS-Erweiterung für FAT16 eingesetzt, um Linux zu installieren, ohne das Festplattenlaufwerk neu partitionieren und formatieren zu müssen. UMSDOS fügt zu einem FAT-Dateisystem eine darüberliegende Unix-kompatible Schicht hinzu. Diese verwaltet Dateien, die den Namen --linux-.--- tragen. Darin werden Benutzerrechte und auch lange Dateinamen gespeichert.
+In Linux 2.6.11 wurde UMSDOS aus dem Kernel entfernt, da es nicht mehr weiterentwickelt wird. Es gibt als Ersatz ein POSIX-Overlay-Dateisystem, das FUSE verwendet und über einem normalen FAT-Dateisystem „eingeblendet“ werden kann.
+
+
+=== UVFAT ===
+UVFAT existierte nur für eine kurze Zeit und hat die VFAT-Erweiterung zur Speicherung langer Dateinamen genutzt, während der UMSDOS-Mechanismus für die unter allen FAT-Versionen fehlenden Benutzerrechte verwendet wurde. So waren unter Linux angelegte lange Dateinamen auch unter modernen Windows-Versionen lesbar und umgekehrt. Die Entwicklung wurde bereits vor derjenigen der UMSDOS-Erweiterung wieder eingestellt.
+
+
+== Derivate ==
+Es gibt folgende Derivate:
+
+
+=== exFAT ===
+exFAT (Extended File Allocation Table) ist ein speziell für Flash-Speicher entwickeltes Dateisystem. Eingeführt wurde es 2006 mit Windows CE 6.0. exFAT soll dort eingesetzt werden, wo NTFS nur schwer oder gar nicht implementierbar ist und zugleich die Beschränkungen von FAT32 – insbesondere maximale Dateigröße von 4 GiB – vermieden werden sollen. Windows 7, Windows 8.x, Windows 10 und Windows 11 unterstützen exFAT nativ, Windows Vista erst ab Service Pack 1. Für Windows XP ab SP2 hat Microsoft ein Aktualisierungspaket. Auf Apple-Computern wird exFAT ab Mac OS X Snow Leopard, Version 10.6.5, vollständig unterstützt. Am 27. August 2019 veröffentlichte Microsoft die Spezifikationen für exFAT und erklärte, eine Implementation von exFAT im Linux-Kernel zu unterstützen und die Patente daran über das Open Invention Network freizugeben. exFAT wird vom Linux-Kernel ab Version 5.4 direkt unterstützt, in Kernel 5.7 wurde der Treiber durch einen besseren ersetzt. Zuvor gab es bereits einen proprietären Linux-Treiber des Unternehmens Tuxera sowie einen von der Firma Samsung unter der GPLv3 lizenzierten Treiber für FUSE.Im Rahmen der Spezifikationen für die Memory-Stick-XC- und SDXC-Flashspeicher-Kartentypen wird die Verwendung von exFAT vorgeschrieben; die Speicherkarten können zwar prinzipiell auch mit einem anderen Dateisystem formatiert werden, sind dann aber nicht Standardkonform und daher nicht in jedem Gerät (wie z. B. Digitalkamera) verwendbar.
+Die Vorteile gegenüber vorherigen Versionen sind:
+
+Theoretische maximale Dateigröße von 64 ZiB, empfohlene maximale Dateigröße 512 TB (maximale Partitionsgröße).
+Ein Cluster darf maximal 32 MiB groß sein (theoretisch jedoch bis zu 2255 Bytes).
+Es wurde eine separate Tabelle („Bit-Karte“) eingeführt, welche die freien Cluster effizienter indiziert. Ein Bit wird jeweils einem Cluster zugeordnet. Dies wurde bei FAT32, FAT16 und FAT12 von der viel größeren Fragmenttabelle (oder „Fragmentkarte“) übernommen, mit jeweils 32, 16, und 12 Bits pro Cluster; daher die Namen. Bei exFAT werden nur Cluster fragmentierter Dateien in der Fragmenttabelle aufgezeichnet.
+Das Dateisystem unterstützt erweiterte Zugriffsrechte (ACL).
+Es werden auch Transaktionen unterstützt (nur mit TexFAT).Nachteile:
+
+Bei Dateisystemen ab 32GB ist die Standard-Clustergröße 128KB. Das bedeutet, dass selbst kleine Dateien immer mindestens 128KB Platz auf dem Dateisystem belegen.Lange Zeit konnte exFAT nur mit einer Lizenz von Microsoft verwendet werden. Inzwischen ist die Spezifikation offengelegt.
+
+
+=== TFAT ===
+TFAT (Transaction-safe File Allocation Table) bietet insbesondere für mobile Geräte mit fest eingebautem Flash-Speicher Schutz vor Beschädigungen des Dateisystems, zum Beispiel wenn während einer Schreiboperation die Stromversorgung des Gerätes ausfällt.
+Dafür wird die FAT doppelt geführt: einmal als FAT1 mit den aktuellen Dateizuordnungen und einmal als FAT0 mit dem letzten als konsistent bekannten Stand des Dateisystems. FAT0 wird erst nach erfolgreichem Abschluss einer Transaktion aktualisiert, indem FAT1 nach FAT0 kopiert wird. Eine Transaktion ist beispielsweise das Anlegen einer neuen Datei.
+Während des Ablaufs einer Transaktion werden Änderungen am Dateisystem in neu angelegten Clustern gespeichert und FAT1 wird entsprechend angepasst. So kann im Fehlerfall eine unvollständig ausgeführte Transaktion durch Kopieren von FAT0 nach FAT1 rückgängig gemacht und das Dateisystem auf den Stand von vor Beginn der Transaktion zurückversetzt werden.
+Das rechnerische Limit für TFAT-Partitionen liegt bei einer Sektorgröße von 512 Byte bei 2 TiB.
+TFAT ist zwar explizit für nicht entfernbaren Speicher gedacht, kann jedoch auch mit Wechselspeichermedien verwendet werden. Allerdings kann es zu Problemen kommen, wenn ein TFAT-Medium in einem anderen Gerät ohne Unterstützung für TFAT verwendet wird. Es ist dann zwar prinzipiell möglich auf das Medium zuzugreifen, aber weil es dabei wie ein normales FAT-Medium behandelt wird, erfolgen Schreibvorgänge nicht transaktionssicher. Auch können aufgrund von Unterschieden in den Datenstrukturen mit TFAT erstellte Verzeichnisse nicht von FAT-Systemen gelöscht werden.
+TFAT wird üblicherweise nicht von Desktopsystemen unterstützt. Unterstützt wird es von Microsoft für Mobilgeräte seit Windows Mobile 6.5 und Windows CE ab Version 6.0.
+
+
+== Aufbau ==
+Ein FAT-Dateisystem gliedert sich in fünf Bereiche:
+
+Alle Mehrbyte-Werte (16/32 Bit) sind im Little Endian gespeichert, d. h. niederwertigste Bytes zuerst.
+
+
+=== Bootsektor ===
+Der Bootsektor kann x86-Maschinencode (Bootloader) enthalten, der das Betriebssystem laden soll. An anderen Stellen enthält er Informationen über das FAT-Dateisystem.
+
+Anschließend unterscheiden sich die Daten je nach FAT-Variante. Bei FAT12 und FAT16 folgt diese Datenstruktur:
+
+FAT32 benutzt eine davon abweichende Struktur ab Offset 24hex:
+
+
+=== Reservierte Sektoren ===
+Zwischen Bootsektor und der ersten FAT können Sektoren reserviert werden, die vom Dateisystem nicht benutzt werden. Dieser Bereich kann von einem Bootmanager oder für betriebssystemspezifische Erweiterungen genutzt werden. Auf den meisten FAT12- oder FAT16-Dateisystemen existieren – außer dem Bootsektor – keine weiteren reservierten Sektoren. Die FAT folgt somit direkt im Anschluss an den Bootsektor. FAT32-Dateisysteme enthalten in der Regel noch einige Erweiterungen zum Bootsektor sowie eine komplette Sicherungskopie des Bootsektors und der Erweiterungen.
+
+
+=== FAT ===
+Die FAT ist eine Art Tabelle fester Größe, in der über die belegten und freien Cluster eines FAT-Dateisystems Buch geführt wird. Ein Cluster ist die aus einem oder mehreren Sektoren bestehende Zuordnungseinheit, die von einer Datei belegt werden kann. Der Datenbereich ist in eine feste Anzahl von Clustern eingeteilt. Zu jedem dieser Cluster existiert ein Eintrag in der FAT, der Folgendes angeben kann:
+
+Der Cluster ist nicht belegt, also frei.
+Das Medium ist an der Position dieses Clusters beschädigt.
+Der Cluster ist von einer Datei belegt:
+Der FAT-Eintrag zum nächsten Cluster der Datei hat die Nummer x, das heißt: der nächste Cluster der Datei ist der Cluster mit der Nummer x − 2.
+Das ist der letzte Cluster der Datei.Die Größe (in Bit) und der Wertebereich der Tabelleneinträge unterscheiden sich zw. FAT12, FAT16 und FAT32 wie folgt:
+
+Die Lage der belegten Cluster einer Datei können aus den Adressen der zugehörigen FAT-Einträge berechnet werden. Die FAT-Einträge bilden eine einfach verkettete Liste.
+Wegen ihrer grundlegenden Bedeutung für das Dateisystem existieren in der Regel zwei Kopien der FAT, um bei Datenverlust noch immer eine funktionsfähige zweite FAT zu haben. Mit diversen Programmen ist so eine Datenwiederherstellung in vielen Fällen möglich.
+Auf Installationsdisketten oder mit Spezialprogrammen formatierten Medien findet man manchmal keine zweite FAT, wodurch der verfügbare Speicherplatz etwas größer wird. Theoretisch ist es auch möglich, ein Dateisystem mit mehr als zwei FAT-Kopien zu formatieren. Diese Dateisysteme können zwar in der Regel von jedem Betriebssystem gelesen werden, jedoch wird die dritte (und jede weitere FAT-Kopie) bei Schreibzugriffen meist nicht aktualisiert, so dass bei Beschädigung der ersten beiden FATs oft keine Reparatur unter Zuhilfenahme der weiteren Kopien möglich ist.
+
+
+=== Stammverzeichnis und Unterverzeichnisse ===
+Das Stammverzeichnis (englisch root directory), auch Wurzelverzeichnis oder Hauptverzeichnis genannt, ist eine Tabelle von Verzeichniseinträgen. Jede Datei oder Unterverzeichnis wird in der Regel durch je einen Verzeichniseintrag repräsentiert. Die bei Windows 95 eingeführte Erweiterung um „lange Dateinamen“ benutzt jedoch ggf. mehrere Verzeichniseinträge pro Datei bzw. Verzeichnis, um die langen Dateinamen unterzubringen.
+Das Stammverzeichnis folgt bei FAT12 und FAT16 direkt der FAT und hat eine feste Größe und damit eine Maximalanzahl an Verzeichniseinträgen. Diese wird beim Formatieren des Dateisystems festgelegt und kann später – außer mit Spezialsoftware – nicht mehr geändert werden.
+Bei FAT32 hat das Stammverzeichnis eine variable Größe und kann an einer beliebigen Position des Datenbereichs beginnen.
+Je nach Medientyp gibt es unterschiedliche Vorgabegrößen für das Stammverzeichnis. Mit speziellen Formatierungsprogrammen lässt sich jedoch die Größe des Stammverzeichnisses frei wählen. So besitzen beispielsweise Installationsdisketten, die nur sehr wenige Archivdateien enthalten, oft ein minimales Stammverzeichnis, das nur einen Sektor groß ist und somit nur Platz für 16 Verzeichniseinträge bietet.
+
+Ein Verzeichniseintrag besteht aus 32 Bytes.
+
+Zusammenspiel:
+Soll nun eine Datei gelesen werden, wird der zugehörige Verzeichniseintrag herausgesucht. Neben den Attributen kann hier nun der Startcluster selektiert werden. Die weiteren Cluster werden dann über die FAT herausgesucht. Am Ende terminiert die Weitersuche jener FAT-Tabelleneintrag, welcher den Wert FFFFFFh enthält.
+Ein Unterverzeichnis wird als normale Datei angelegt, außer dass der Eintrag im übergeordneten Verzeichnis mit dem entsprechenden Bit markiert ist. Der Aufbau der Einträge ist mit jenen des Hauptverzeichnisses identisch. Da die Cluster der Unterverzeichnisse über die FAT verknüpft werden, können sie beliebig wachsen und haben keine Begrenzung in der Zahl der verwaltbaren Dateien.
+
+
+== Abweichungen ==
+
+
+=== Dateisystem des Atari ST ===
+Der Atari ST benutzt für Disketten eine Variante des FAT12-Dateisystems und kann daher unter MS-DOS formatierte und beschriebene Disketten lesen und schreiben. Ursprünglich konnten auf dem Atari formatierte Disketten nicht unter MS-DOS benutzt werden, wohl aber unter MS-DOS formatierte und danach auf dem Atari beschriebene Disketten. Diese Inkompatibilitäten wurden in späteren GEMDOS-Versionen behoben. Die Unterschiede der Atari-Implementierung im einzelnen:
+Ursprünglich standen in den ersten Bytes des ersten Sektors einer bootfähige Atari-Diskette die Opcodes eines Assemblerbefehls für den Motorola-68000-Prozessor, nämlich eine Sprunganweisung („bra“ für „branch always“), um den BPB zu überspringen. Da diese Opcodes jedoch in vielen Betriebssystemen als Kennung verwendet werden, um ein gültiges BPB-Format zu erkennen, wurde dort ab TOS 1.04 der relevante Teil eines x86-CPU-Opcodes geschrieben.
+Das OEM-Label beginnt bei Atari-Disketten an Offset 2 statt 3 im Bootsektor, und es ist nur sechs statt wie sonst acht Bytes lang. In den drei hinzugewonnenen Bytes speichern Ataris eine Seriennummer, die den Wechsel von Disketten auch ohne Disketten-Wechsel-Signal sicherstellen sollen. Da das OEM-Label in vielen Microsoft-Betriebssystemen aber tatsächlich zur Erkennung des vorliegenden BPB-Formats herangezogen wird, kann ein „unübliches“ OEM-Label diverse Wechselwirkungen hervorrufen, die ein Medium unter diesen Systemen nicht mehr lesbar erscheinen lassen oder bei Schreibversuchen die Datenstrukturen im Dateisystem zerstören. Solange die BPB-Einträge nicht vom Microsoft-Standard abweichen, stellt das jedoch kein Problem dar.
+Das Media-ID-Byte wurde ursprünglich bei der Formatierung nicht korrekt gesetzt, was dazu führen konnte, dass Medien unter anderen Betriebssystemen nicht erkannt wurden, insbesondere da auch das BPB-Format nicht exakt identisch ist.
+Der Atari-Bootsektor ist, wenn die Diskette bootfähig ist, mit einer Prüfsumme gegen Bitfehler gesichert. Die Summe aller 16-Bit-Big-Endian-Worte des Bootsektors muss 123416 ergeben, sonst wird der Bootsektor von Ataris als ungültig betrachtet. Um auf die richtige Prüfsumme zu kommen, wurde der Wert an Offset +1FE16 passend verändert. Da dieser jedoch normalerweise die Signatur 5516, AA16 enthält (die einen IBM-kompatiblen Bootsektor anzeigen soll) und diese von einigen Systemen ausgewertet wird, sollte stattdessen ein unbenutztes Byte im Codebereich zum Ausgleich verändert werden.
+Atari GEMDOS unterstützt, wie auch viele Versionen von MS-DOS bis 3.x, nur Clustergrößen bis 4 KB.
+
+
+== Beispiele ==
+
+
+=== DOS- bzw. Windows-Diskette mit FAT12 ===
+
+
+== Siehe auch ==
+Liste von Dateisystemen
+
+
+== Weblinks ==
+Microsoft: Einschränkungen des FAT32-Dateisystems
+Microsoft: FAT32-Specification
+Informationen über FAT32plus auf www.drdos.org und www.drdosprojects.de
+Microsoft: Working with filesystems (englisch)
+Programm zum Erstellen von FAT32-Partitionen > 32 GiB (getestet bis 2 TiB)
+Extended FAT File System (englisch)
+
+
+== Einzelnachweise ==

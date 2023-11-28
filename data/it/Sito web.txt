@@ -1,0 +1,156 @@
+Un sito web (o sito Internet oppure detto semplicemente sito) è un insieme di pagine web correlate, ovvero una struttura ipertestuale di documenti informativi che risiede, tramite hosting, su un server web, raggiungibile dall'utente finale attraverso un comune motore di ricerca e/o un indirizzo web tramite l'uso di browser web.
+
+
+== Descrizione ==
+
+
+=== Struttura ===
+Dal punto di vista dell'organizzazione o struttura dei contenuti tipicamente un sito web è strutturato in una pagina principale (home page), che rappresenta la pagina principale di presentazione del sito e dei suoi contenuti e dalle pagine web secondarie dei contenuti, raggiungibili dai menù e widget presenti nell'home page stessa tramite link interni (ancore) al sito stesso. Quando il sito web costituisce un punto di partenza, un portone di ingresso, per raggruppare servizi o informazioni web di tipi differenti (di solito sviluppate e gestite in modo autonomo l'una dall'altra), si parla più propriamente di portale web. Spesso inoltre un sito web si accoppia/accompagna ad un database sullo stesso web server per la memorizzazione strutturata di dati e informazioni. L'home page di un sito è la pagina che si ottiene digitando il solo nome di dominio.
+Per esempio, nell'indirizzo www.w3c.org/Consortium/Offices/role.html:
+
+www.w3c.org è la radice, o nome di dominio
+/Consortium/Offices/ sono le sottocartelle, separate dal simbolo "/"
+role.html è il nome della paginaSolitamente le pagine di un sito risiedono tutte sullo stesso Web server, ossia lo spazio fisico in cui risiedono i files che compongono il sito, e la ramificazione in sottocartelle dell'indirizzo corrisponde ad una uguale ramificazione nell'hard disk dello stesso server. Ovviamente l'accesso ad un sito o alle pagine web per eventuali modifiche su contenuti e/o forma da parte degli sviluppatori è del tutto riservato all'amministratore del sito tramite codici o chiavi di accesso.
+Per l'interpretazione del codice che compone una pagina web vengono comunemente usati i browser, ovvero quei software che hanno il compito di interpretare il codice e restituirne un output grafico. Tra i browser più comunemente usati possiamo trovare (a titolo indicativo e non esaustivo) Mozilla Firefox, Google Chrome, Opera, Microsoft Internet Explorer, Microsoft Edge (OS Windows 10) e Safari. I file interpretati da questi software all'accesso della pagina web sono solitamente i fogli di stile (CSS) e i vari script che vengono richiamati all'accesso della pagina. Questi determinano dunque l'aspetto grafico finale restituito all'utente all'accesso della pagina.
+
+
+=== Tipologia ===
+Dal punto di vista della struttura e della tecnologia adoperata, i siti web si possono distinguere sommariamente in due tipi principali:
+
+siti statici;
+siti dinamici.A loro volta alcune agenzie web più professionali tendono a volerli differenziare ancora in:
+
+siti vetrina - sito di presentazione;
+siti web dinamico - di solito usato da aziende che necessitano di aggiornamenti indipendenti su parti come blog o applicativi annessi, tipo: calendario, caricamento file mediatici, gestione di richieste a form,...;
+piattaforma e-commerce - usato per la vendita di prodotti e/o servizi aziendali;
+codice su misura - programmazione avanzata su misura di tecnologie web, tipo: html5, css3, js, jquery. Di solito queste tecnologie vengono progettate pensando alla risoluzione di specifici problemi permettendo di ottimizzare al meglio le risorse aziendali.Molto importante è capire che lo sviluppo web su misura è caratteristica assai complessa da elaborare e che i relativi costi di produzione possono variare di molto sulla scala economica. I siti web statici formati da pagine statiche presentano contenuti di sola ed esclusiva lettura, solitamente vengono aggiornati con una bassa frequenza e sono mantenuti da una o più persone che agiscono direttamente sul codice HTML della pagina (tramite appositi editor web). Si tratta storicamente della prima generazione di siti web.
+I siti web dinamici formati da pagine web dinamiche presentano invece contenuti redatti dinamicamente (in genere grazie al collegamento con un database) e forniscono contenuti che possono variare in base a più fattori. I siti web dinamici sono caratterizzati da un'alta interazione fra sito e utente; alcuni elementi che caratterizzano la dinamicità di un sito possono essere: l'interazione con uno o più database, la visualizzazione dell'ora server, operazioni varie sul file system (tipo creazione dinamica di documenti, ecc.), il cloaking basandosi su vari parametri (tra i quali lo user agent, o il browser, o la risoluzione dell'utente), la visualizzazione o stampa o catalogazione degli indirizzi IP degli utenti, e molto altro.
+Essi possono essere scritti tramite linguaggi di scripting come ASP, PHP e molti altri linguaggi web. Particolarità dei siti dinamici è che le "pagine" che costituiscono il sito vengono generate all'atto della chiamata da parte dell'utente (fatta eccezione per i sistemi che adottano una cache) in quanto i contenuti non sono memorizzati direttamente nel codice sorgente della pagina, bensì in sistemi di memorizzazione esterni allo stesso, come le già citate basi di dati. La modifica dei contenuti, che spesso possono essere aggiornati grazie ad alcuni editor grafici (detti WYSIWYG) anche senza agire direttamente sul codice, è generalmente frequente. Un chiaro esempio di sito dinamico è www.wikipedia.org.
+
+
+=== Categorie ===
+I siti web vengono poi comunemente divisi in categorie per inquadrarne il settore di operatività o i servizi offerti:
+
+sito personale CV - condotto da individui o piccoli gruppi di persone (come una famiglia), che contiene informazioni prevalentemente autobiografiche o focalizzate sui propri interessi personali (ad es. un blog)
+sito aziendale - funzionale alla promozione di un'azienda o di un servizio
+sito di commercio elettronico (o "e-commerce") - specializzato nella vendita di beni e/o servizi via internet
+sito comunità - un sito in cui utenti possono comunicare fra loro, per esempio tramite chat o forum, formando una comunità virtuale
+sito di download - ampie raccolte di link per scaricare software (dimostrativi di videogiochi, immagini, ecc.)
+forum: luogo in cui discutere tramite la pubblicazione e la lettura di messaggi, organizzati per discussioni (thread) e messaggi (post)
+sito informativo - con contenuti tesi a informare l'utente, ma non strettamente per scopi commerciali
+motore di ricerca - registra i contenuti degli altri siti e li rende disponibili per la ricerca
+database - un sito il cui uso principale è di ricercare e mostrare il contenuto di uno specifico database (ad esempio l'Internet Movie Database per i film)
+sito ludico - un sito che è in sé un gioco oppure serve da arena per permettere a più persone di giocare
+aggregatore di notizie - presenta contenuti prelevandoli automaticamente dalla rete da molte fonti contemporaneamente, ed è simile in questo ai motori di ricerca che sfruttano i risultati delle ricerche degli utenti aggregandoli e immagazzinandoli in un database con criteri come il tipo di media (foto, video, testo etc.) e il contenuto testuale. Il risultato è un sito che cresce arricchendosi di pagine con contenuto inerente all'argomento di base, definito in fase di installazione ma affinato sulle preferenze degli utenti, il tutto in modo automatico.
+link farm - siti creati unicamente per proporre collegamenti verso altri siti a scopo pubblicitario (spesso in cambio di canoni in denaro)Molti siti sono un incrocio tra due o più delle precedenti categorie. Ad esempio, un sito aziendale può allo stesso tempo pubblicizzare i propri prodotti e pubblicare materiale informativo. Prende il nome di portale un sito web che ha assunto dimensioni tali da costituire un punto di partenza, una porta di ingresso ad un gruppo consistente di risorse per gli utenti del web; l'argomento del portale può essere più o meno generalista oppure specializzato (portale verticale). Taluni siti web presentano aree riservate, ovvero sezioni accessibili solamente previo pagamento di un canone, registrazione, o assegnazione di una password.
+
+
+=== Accesso ===
+I siti risiedono, tramite hosting, su un server web e sono accessibili all'utente client che ne inoltri richiesta di accesso tramite un web browser sul World Wide Web della rete Internet, digitando in esso il rispettivo URL o direttamente l'indirizzo IP. Le pagine di un sito web sono accessibili tramite una radice comune (detta "nome di dominio", per esempio "www.kernel.org"), seguita da una serie opzionale di "sotto cartelle" e dal nome della pagina. Il nome completo di ogni pagina è detto "indirizzo web" o, più tecnicamente, URI (o URL).
+
+
+== Progettazione, realizzazione e gestione ==
+La progettazione di un sito web è analoga a larghe linee al modello di sviluppo del software tipica dell'ingegneria del software con la definizione/pianificazione iniziale di ciò che deve essere realizzato a livello logico (analisi/definizione delle specifiche, strutturazione dei contenuti e grafica/formattazione), seguita dalla fase implementativa e dalla fase di testing e successiva eventuale correzione delle incongruenze con le specifiche o l'usabilità del sito stesso. La realizzazione/gestione di un sito web fa ampio uso di tecniche e conoscenze proprie della programmazione Web o di format predefiniti direttamente a disposizione dell'utente amministratore forniti da strumenti appositi o reperibili in rete e dall'uso tipicamente user friendly.
+
+
+=== I linguaggi ===
+Il linguaggio più diffuso con cui i siti web sono realizzati è l'HTML (Hyper Text Markup Language), i suoi derivati e i CSS. In particolare l'HTML viene interpretato da particolari software chiamati web browser. Alcuni plugin per i browser, come Flash, Shockwave o applet Java, permettono la visualizzazione di contenuti animati. Per i siti web dinamici dove alcuni contenuti possono essere generati dinamicamente sul browser dell'utente, in aggiunta ai precedenti linguaggi si usano linguaggi di scripting come JavaScript o Dynamic HTML, tecnologie supportate per impostazione predefinita da tutti i browser recenti (programmazione web client-side).
+Per la costruzione/realizzazione di siti web dinamici in grado invece di estrapolare dati da database, inviare email, gestire informazioni, ecc., i linguaggi di scripting più diffusi sono PHP, Ruby, Python e ASP in alternativa al Java, solitamente usato per applicazioni enterprise (programmazione web server-side). Per la creazione di siti internet molti webmaster usano comunemente strumenti automatizzati, chiamati webeditor (es. WYSIWYG), grazie ai quali possono redigere il codice anche senza avere un'approfondita conoscenza dei linguaggi. Sempre più la realizzazione e la gestione di siti web complessi e ricchi di contenuti passa attraverso l'uso di Content Management System (CMS), delle vere piattaforme web (sorta di evoluzione dei web editor) per le quali non è richiesta alcuna conoscenza di tecniche di programmazione web ed utili anche per forum, blog e portali di e-commerce. Queste piattaforme spesso si appoggiano su piattaforme XAMPP.
+
+
+=== Accessibilità ===
+I siti web devono soddisfare dei requisiti di accessibilità che rendano i suoi contenuti fruibili a chiunque, compresi i soggetti affetti da disabilità psichica e fisica, definiti in regole precise denominate Web Content Accessibility Guidelines (WCAG) definite dal World Wide Web Consortium (W3C).
+
+
+=== Figure professionali ===
+Tra le figure professionali legate alla creazione dei siti web vi sono:
+
+l'esperto di architettura dell'informazione (information architect), che è responsabile dell'organizzazione dell'intero sito e della struttura di navigazione.
+il webdesigner, che progetta il sito dall'aspetto grafico (layout) ai contenuti.
+il web manager, che coordina il progetto web del sito da realizzare;
+il content manager, che è responsabile della redazione del contenuto e della struttura logica.
+il web developer o sviluppatore, che è responsabile del comportamento delle pagine.
+il responsabile SEO (search engine optimization), che si occupa del posizionamento del sito all'interno degli indici dei motori di ricerca.
+l'esperto di webmarketing, che si occupa della promozione del sito nel web.
+Il web strategist, che si occupa di gestire la presenza sul web delle aziende.
+il webmaster, che amministra il sito in generale, dunque ne ha accesso esclusivo tramite relativi codici o chiavi di accesso, e ne è il responsabile, anche della pubblicazione (messa on line), revisione/aggiornamento nonché degli aspetti legali. Mantiene i rapporti con il committente/proprietario del sito web.
+il sistemista, che gestisce la rete, l'hardware e il software di base del web server in cui è ospitato il sito (cioè l'infrastruttura che ospita il sito). Il sistemista è l'unico professionista che non si occupa del sito web in termini propri ma solo del supporto di base (sistemi operativi, configurazione database e applicativi, architettura e logiche HD, prestazioni, ecc).Nel panorama delle professionalità di rete si è cercato di dare una regolamentazione basandosi sui modelli europei E-cf con la creazione da parte di IWA - entità di standardizzazione per le professioni Web - di una serie di figure professionali secondo criteri di competenze e conoscenze.
+
+
+== Vulnerabilità dei siti web ==
+
+
+=== Siti dinamici ===
+Sebbene esistano tecniche per aumentare la sicurezza, nei siti dinamici potrebbero verificarsi:
+
+Backdoor: metodo per eludere la procedura d'accesso al server del sito web
+SQL injection o SQLi: un hacker può inserire istruzioni SQL dannose nel sito ottenendo potenzialmente l’accesso a dati sensibili presenti nel database o distruggendo questi dati
+Pharma hack: l'hacker distribuisce pubblicità farmaceutiche ai visitatori attraverso link incorporati e anchor text sulle pagine del sito di un altro utente
+Redirect dannosi: l'hacker può nascondere degli script sul sito di un altro utente e renderizzare i visitatori da altre parti
+Download drive-by: l'hacker può inserire degli script sul sito di un altro utente per fare in modo che i visitatori scarichino software a loro insaputa
+Cross-site scripting (XSS): permette a un cracker di inserire o eseguire codice lato client al fine di attuare un insieme variegato di attacchi quali, ad esempio, raccolta, manipolazione e reindirizzamento di informazioni riservate, visualizzazione e modifica di dati presenti sui server, alterazione del comportamento dinamico delle pagine web, ecc.
+File Inclusion: Local File Inclusion (LFI) consente a un utente malintenzionato di includere file su un server tramite il browser web. Remote File Inclusion, o RFI, nell'ambito della sicurezza informatica indica una vulnerabilità che affligge i servizi web con uno scarso controllo delle variabili arrivate da un utente, in particolare le variabili GET e POST del PHP.
+Il Cross-site request forgery, abbreviato CSRF o anche XSRF, è una vulnerabilità a cui sono esposti i siti web dinamici quando sono progettati per ricevere richieste da un client senza meccanismi per controllare se la richiesta sia stata inviata intenzionalmente oppure no.
+Esecuzione di codice in modalità remota: ottenere l'accesso a un account con privilegi riservati almeno al livelloauthor su un sito di destinazione per eseguire codice PHP arbitrario sul server sottostante, portando a un'acquisizione remota completa.
+Privilege Escalation: l'escalation dei privilegi si verifica quando a un utente con privilegi amministrativi inferiori vengono concessi privilegi più elevati.
+Clickjacking: tecnica dannosa che induce gli utenti a fare clic su qualcosa di diverso da quello che si aspettano.
+
+
+=== Siti statici ===
+Furto della password di accesso. L'hacker può quindi cancellare o modificare dall'FTP il sito web e gli altri file presenti (ciò può succedere anche nei siti dinamici)
+
+
+== Performance ==
+Le cause principali per un sito web lento sono:
+
+Hosting: quando il server di web hosting non è configurato correttamente può danneggiare la velocità del sito web
+Configurazione: se il sito non usa pagine memorizzate nella cache sovraccaricherà il server, causando la lentezza o il blocco del sito web
+Immagini pesanti: a una risoluzione alta (adatta per la stampa ma non per il web) e/o una dimensione ampia e/o mancato uso degli Sprite CSS per evitare molte chiamate al server
+Riproduzione automatica dei video all'arrivo dell'utente e video ospitati sul proprio server anziché incorporato da YouTube, Vimeo o altri servizi esterni
+Plugin non validi e/o non aggiornati: se si usano plugin mal codificati e/o obsoleti il sito Web può rallentare notevolmente (per i siti dinamici)
+Script esterni: annunci, caricatori di caratteri, ecc. possono avere un enorme impatto sulle prestazioni del sito web. Ad esempio usare troppi font incorporati con Google Fonts o altri plugin di incorporazione font può rallentare il sito
+Cache disattivata
+Assenza di un Content Delivery Network (CDN)
+
+
+== Premi ==
+Annualmente e mensilmente alcune associazioni assegnano premi ai migliori siti web (per quanto riguarda il coding, il design, la creatività, l'originalità eccetera).
+
+
+== Aspetti giuridici ==
+Gli aspetti giuridici relativi alla pubblicazione di documenti su un sito web sono spesso controversi, poiché documenti siti in una determinata nazione sono resi accessibili anche da luoghi con leggi ed usi del tutto differenti, ma anche perché le stesse leggi delle singole nazioni seguono con fatica la continua e rapida evoluzione del Web. In linea generale i contenuti di un sito sono sottoposti alle condizioni di uso del fornitore dello spazio web (hosting) e alle leggi della nazione in cui esso è situato (ad esempio leggi sul copyright, sulla pornografia, ecc.). Alcuni ordinamenti prevedono speciali adempimenti a carico dei gestori di siti web. Nei paesi germanofoni, ad esempio, è obbligatorio inserire nel sito una dichiarazione di proprietà e paternità detta Impressum.
+
+
+=== In Italia ===
+In Italia, il Dlgs 196/2003 (Legge sulla privacy) impone ai siti che raccolgono informazioni personali degli utenti, o svolgono attività di commercio elettronico, di fornire all'interessato una idonea informativa sul trattamento dei dati personali. Tuttavia, nel 2014 una ricerca di Federprivacy ha evidenziato che il 67% dei siti italiani violavano tale prescrizione, soggetta a sanzioni dai 6.000 fino ai 36.000 euro.L’art. 2250 del Codice Civile, modificato dall’art. 42, L. 88/2009 impone alle società di capitali di pubblicare informazioni legali nei propri atti, nella corrispondenza, nel sito web aziendale e negli altri luoghi virtuali di comunicazione, come email e profili sui social networks. Questi dati includono: ragione sociale, sede legale, Codice Fiscale e Partita IVA, posta elettronica certificata (PEC), Ufficio del Registro dove si è iscritti, numero Repertorio economico amministrativo (Rea), e altre ancora, in funzione dello specifico assetto societario.
+
+
+== Vantaggi e svantaggi dei diversi tipi di siti web ==
+
+
+== Tipologia dei siti web ==
+
+
+== Registrazione ==
+La registrazione è il servizio di creazione, acquisto e mantenimento, su internet, del nome di dominio relativo ad un sito web. Viene eseguita da organizzazioni denominate registrar (per l'Italia Register.it) che agiscono secondo le regole ICANN. Tramite tale procedura il proprietario del nome del sito web può vantare i relativi diritti.
+L'Auth Code (abbreviazione di Authorization Code) è la stringa alfanumerica, fornita dal registrar all'utente che ha eseguito la richiesta di registrazione (spesso tramite una web agency o un provider), che dimostra la relativa proprietà. Questa password (insieme alle credenziali di accesso al pannello di amministrazione del sito) è fondamentale nel caso di trasferimento del sito web tra vari fornitori di hosting.
+
+
+== Note ==
+
+
+== Voci correlate ==
+
+
+== Altri progetti ==
+
+ Wikisource contiene Sentenza tribunale di Modica su sito web
+ Wikizionario contiene il lemma di dizionario «sito»
+ Wikimedia Commons contiene immagini o altri file sul sito web
+
+
+== Collegamenti esterni ==
+
+(EN) website, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Sito web, in Free On-line Dictionary of Computing, Denis Howe. Disponibile con licenza GFDL
+Sito del World Wide Web Consortium, pubblica le grammatiche formali dei linguaggi di marcatura più diffusi

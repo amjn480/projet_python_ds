@@ -1,0 +1,124 @@
+OpenAI (« AI » pour artificial intelligence, ou intelligence artificielle) est une entreprise spécialisée dans le raisonnement artificiel, à « but lucratif plafonné », dont le siège social est à San Francisco. Avant mars 2019, elle est reconnue association à but non lucratif. L'objectif de cette société est de promouvoir et de développer un raisonnement artificiel à visage humain qui profitera à toute l'humanité. Grâce à un fonds initial de 100 millions de dollars, OpenAI cherche à s'associer à quelques startups utilisant le raisonnement artificiel pour avoir un effet transformateur, par exemple dans les domaines des soins de santé, du changement climatique et de l'éducation et « où les outils d'IA peuvent autonomiser les gens en les aidant à être plus productifs ».
+
+
+== Historique ==
+OpenAI est fondée en tant qu'association à but non lucratif le 11 décembre 2015,,,. Les deux présidents en sont Elon Musk et Sam Altman, les membres, Jessica Livingston, YC Research (branche de Y Combinator destinée à l'innovation), Peter Thiel (capital-investisseur), Amazon Web Services, Reid Hoffman et Infosys, société indienne. Musk, Thiel et Hoffman se sont connus à l'époque de PayPal.
+Le cofondateur Greg Brockman a pu attirer certains des meilleurs chercheurs de l'époque en apprentissage automatique, notamment avec des salaires attractifs et une vision commune.
+Les fondateurs se sont engagés en 2015 sur un budget global d'un milliard de dollars, cependant seule une faible part serait utilisée dans les premières années.
+Elon Musk quitte la société en 2018 à la suite d'un conflit de direction,.
+En mars 2019, l'association devient une entreprise à but lucratif plafonné pour attirer des capitaux,. L'objectif de ce nouveau statut est de permettre aux investisseurs de recevoir une partie des bénéfices de la société jusqu’à un maximum de 100 fois la mise de départ.
+En 2019, Microsoft a par ailleurs annoncé son intention d'investir un milliard de dollars dans OpenAI, en échange d'un partenariat privilégié avec OpenAI, lorsque la société commercialisera ses technologies d'intelligence artificielle.
+En 2020, OpenAI lance GPT-3, un modèle de langage entraîné sur de larges quantités de texte issus d'internet. Puis en 2021, OpenAI annonce DALL-E, la première version d'un modèle capable de générer des images à partir de descriptions textuelles.
+En 2022, OpenAI acquiert une renommée mondiale après la sortie de ChatGPT, un modèle de langage accessible gratuitement. Basé sur GPT 3.5, ChatGPT a été spécifiquement entraîné pour le dialogue.
+En janvier 2023, Microsoft annonce un investissement de 10 milliards de dollars réparti sur plusieurs années, et commence ensuite à intégrer la technologie derrière ChatGPT dans des produits comme Bing, Office ou Outlook.
+En février 2023, la société OpenAI est valorisée à 29 milliards de dollars américains.
+Le 14 mars 2023, OpenAI annonce officiellement GPT-4, un modèle de langage plus puissant et capable aussi d'analyser des images. Une version de ChatGPT basée sur GPT-4 devient accessible via l'abonnement payant "ChatGPT Plus".
+En mai 2023, les cofondateurs d'OpenAI Sam Altman, Greg Brockman et Ilya Sutskever publient des recommandations sur la gouvernance des superintelligences,. Ils y déclarent qu'en moins de 10 ans, l'IA pourrait dépasser les compétences des meilleurs experts dans la plupart des domaines, ouvrant la voie à un futur « radicalement plus prospère » à condition de « gérer les risques pour y arriver ». Ils y recommandent d'encourager la recherche sur la question du contrôle des superintelligences, ainsi que d'améliorer la coordination internationale par exemple à travers un projet commun, et de créer une organisation de surveillance similaire à l'Agence internationale de l'énergie atomique (AIEA) pour superviser les modèles d'IA les plus puissants. Ils estiment cependant que ces mesures ne devraient concerner que les modèles d'IA dépassant un certain seuil d'aptitude, afin de ne pas entraver l'innovation pour des modèles moins dangereux,.
+Après avoir ouvert un bureau londonien en juin 2023, son premier hors des États-Unis, OpenAI annonce également s'installer dans l'Union européenne en ouvrant un bureau à Dublin fin 2023. 
+En novembre 2023, Sam Altman est destitué de son poste de CEO en raison du manque de confiance du conseil d'administration à son égard, la directrice technique Mira Murati prenant la relève de manière intérimaire. Le même jour, Greg Brockman, co-fondateur d'OpenAI, annonce son départ comme président du conseil d'administration. Deux jours plus tard, Emmett Shear est annoncé au poste de CEO par intérim, tandis qu’Altman et Brockman rejoignent les rangs de Microsoft. Quelques jours plus tard, Sam Altman redevient CEO d'OpenAI et Greg Brockman réintègre le conseil d'administration.
+
+
+== Motivations ==
+Certains scientifiques comme Stephen Hawking et Stuart Russell ont évoqué le risque que l'IA soit dans le futur capable de s'auto-améliorer, ce qui selon eux pourrait causer une « explosion d'intelligence » pouvant mener à l'extinction de l'humanité. Le cofondateur Elon Musk a décrit l'IA comme la « pire menace existentielle ». OpenAI a été créée dans le but de réduire ces risques. Les fondateurs en ont fait un organisme à but non lucratif, afin qu'elle concentre ses recherches sur les moyens de rendre l'IA bénéfique pour l'humanité.
+Elon Musk et Sam Altman ont affirmé être en partie motivés par la sûreté des intelligences artificielles et les risques de catastrophe planétaire liés à l'intelligence artificielle générale,. Selon OpenAI, « il est difficile d'imaginer à quel point l'IA de niveau humain pourrait améliorer la société, et il est tout aussi difficile d'imaginer à quel point ça pourrait nuire à la société si c'était mal conçu ou utilisé ». Remettre à plus tard la recherche sur la sûreté pourrait être dangereux : « il est difficile de prédire quand l'IA de niveau humain pourrait devenir faisable ». OpenAI affirme que l'IA « devrait être une extension de la volonté humaine et, dans un esprit de liberté, distribuée aussi largement et aussi équitablement que possible ». Sam Altman s'attend en 2015 à ce que ce projet dépasse un jour l'intelligence humaine.
+L'ancien PDG de Infosys Vishal Sikka a annoncé en 2015 que le fait que OpenAI soit ouvert et produise des résultats dans l'intérêt général de l'humanité était une condition essentielle de son support, ajoutant que « OpenAI s'aligne très bien avec nos valeurs de longue date ». Cade Metz, du magazine Wired, suggère que des corporations comme Amazon pourraient être motivées par le fait d'utiliser des logiciels et des données open source pour se mettre au niveau de corporations comme Google et Facebook, qui ont d'énormes quantités de données propriétaires.
+
+
+== Stratégie ==
+Elon Musk a posé la question : « Quelle est la meilleure chose que vous puissiez faire pour garantir que le futur soit bien ? Nous pourrions nous poser à l'écart ou encourager une surveillance réglementaire, ou nous pourrions participer avec la bonne structure et avec des personnes qui se soucient profondément du fait de développer l'IA de manière sûre et bénéfique pour l'humanité. » Il a reconnu qu'« il y a toujours un risque pour qu'en essayant de faire avancer l'IA [amicale] on puisse créer ce qui nous inquiète » mais affirme que la meilleure défense est « de permettre au plus grand nombre d'avoir accès à l'IA. Si tout le monde a des pouvoirs d'IA, alors il n'y a aucun individu ou petit groupe d'individus possédant des super-pouvoirs d'IA. »
+La stratégie contre-intuitive d'Elon Musk et Sam Altman pour réduire les risques à grande échelle posés par l'IA, qui consiste à donner à tout le monde accès à l'IA, est controversée même parmi ceux qui s'inquiètent de risques de catastrophe planétaire liés. Le philosophe Nick Bostrom est sceptique face à cette approche : « Si vous avez un bouton qui pourrait avoir un mauvais effet sur le monde, vous n'avez pas envie de le donner à tout le monde. » Au cours d'une conversation sur la singularité technologique en 2016, Sam Altman a dit qu'ils ne prévoyaient pas de diffuser tout leur code source et a mentionné un plan pour permettre à des gens du monde entier d'élire des représentants pour un nouveau conseil d'administration.
+La décision initiale d'OpenAI, en 2019, de ne pas diffuser le code source de GPT-2 pour éviter le risque d'usages malveillants a été critiquée par les partisans d'un modèle ouvert au grand public, notamment parce que la recherche scientifique aurait besoin qu'OpenAI publie son travail pour pouvoir répliquer les résultats et pour mettre en place des contre-mesures. Delip Rao, expert en génération de texte, suggère aussi qu'OpenAI n'a pas « passé suffisamment de temps à prouver que c'était dangereux ».
+En 2022, OpenAI a publié sa stratégie concernant le problème de l'alignement. OpenAI s'attend à ce que les techniques du moment ne suffisent pas à sécuriser les intelligences artificielles générales (IAG) : « l'IAG pourrait poser des risques substantiels à l'humanité, et résoudre le problème de l'alignement des IAG pourrait s'avérer si difficile que cela nécessiterait que toute l'humanité y travaille ensemble ». Ses membres explorent comment mieux exploiter les préférences humaines pour entraîner leurs systèmes d'IA. Ils envisagent aussi d'utiliser l'IA pour automatiser progressivement la recherche sur l'alignement.
+
+
+== Produits ==
+
+
+=== GPT-2 ===
+En février 2019, OpenAI met au point une intelligence artificielle nommée GPT-2 (Generative Pre-trained Transformer 2), capable d'écrire des articles de presse et des œuvres de fiction.
+Reposant sur un générateur de texte qui assimile les mots reçus et détermine la suite la plus logique, qu'elle retransmet dans le même style, elle s'avère particulièrement performante, à tel point qu'il est impossible de faire la différence avec un texte écrit par un être humain.
+Les chercheurs lui ont par exemple donné à lire la première phrase du roman 1984 de George Orwell : « C'était une journée ensoleillée et froide du mois d'avril et les horloges affichaient 13 h. » GPT-2 a alors compris qu'il s'agissait d'une œuvre évoquant le passé et écrite sous la forme d'une fiction et a ajouté : « J'étais dans ma voiture à Seattle en route pour mon nouveau travail. J'ai fait le plein, mis la clé sur le contact, et me suis laissé porter. J'ai imaginé à quoi ressemblerait ce jour. Dans cent ans à partir de ce jour. En 2045, j'étais professeur dans une école située dans une région pauvre de la Chine rurale. J'ai commencé avec l'Histoire de la Chine et l'Histoire de la science. » Ils lui ont également présenté un article du Guardian sur le Brexit et l'IA a été capable d'inventer des citations crédibles du député Jeremy Corbyn, principal opposant à Theresa May, et d'évoquer des thématiques précises liées au sujet, comme celle de la frontière irlandaise. Les chercheurs retardent la publication de leurs recherches, car ils estiment que GPT-2 a un potentiel « trop dangereux », étant donné que cette IA pourrait à terme servir à des actes mal intentionnés, comme générer des avis négatifs ou positifs sur des produits, des spams, des textes complotistes, voire des fausses nouvelles.
+
+
+=== GPT-3 ===
+ 
+La version bêta privée du successeur de GPT-2 ouvre en juillet 2020. Encore plus puissante, cette intelligence artificielle destinée au traitement du langage naturel présente 175 milliards de paramètres, soit au moins dix fois plus que n'importe quel programme comparable jusqu'alors, Différentes versions de GPT-3 peuvent être testées via le "playground" d'OpenAI.
+
+
+=== GPT-4 ===
+
+Le 14 mars 2023, OpenAI annonce la sortie de GPT-4, qui est capable de traiter non seulement du texte, mais aussi des images. GPT-4 peut lire, analyser et générer jusqu'à 25 000 mots, et écrire dans tous les principaux langages de programmation.
+
+
+=== ChatGPT ===
+
+Dérivé du modèle GPT-3.5 et lancé en novembre 2022, ChatGPT est un modèle de langage formé à partir d'une vaste quantité de données textuelles afin d'acquérir une compréhension approfondie du langage humain. ChatGPT peut être utilisé pour générer du texte de manière autonome, en imitant les styles et les sujets de conversation humains. Il peut également être utilisé pour améliorer les systèmes de dialogue en leur fournissant des réponses naturelles et pertinentes. En outre, ChatGPT peut s'adapter aux nouvelles données et retours des utilisateurs pour affiner ses capacités linguistiques, quand bien même cela suppose de renouveler un entraînement pour les intégrer,,.
+L'une des caractéristiques de ChatGPT qui contribue à sa qualité de réponse est sa capacité à tenir compte du contexte grâce à sa mémorisation de la conversation en cours (jusqu'à un maximum de 3 000 mots environ).
+Dès la sortie de GPT-4, ce modèle est ajouté à ChatGPT pour ses utilisateurs payants. OpenAI continue ensuite à développer des outils pour GPT-4 et à les intégrer sur ChatGPT, comme les plugins Avanced data analysis, Bing search ou DALL-E 3Une application mobile officielle voit également le jour sous Android et iOS, qui permet notamment de discuter de vive voix avec ChatGPT pour les abonnés,
+
+
+=== DALL-E ===
+
+Dérivé du modèle GPT-3, OpenAI développe également un générateur d'images nommé DALL-E, mot-valise évoquant à la fois le robot de Pixar WALL-E et le peintre Salvador Dalí. Ce modèle génératif peut créer des images originales à partir de texte. Le programme est capable de mettre en illustration des concepts très abstraits, voire farfelus, comme les dessins d'un radis promenant un chien en laisse.
+
+
+=== DALL-E 2 ===
+
+Deuxième modèle crée par OpenAI permettant de générer des images plus détaillés en s'appuyant sur des descriptions plus précises.
+
+
+=== DALL-E 3 ===
+Fin septembre 2023, OpenAI annonce sortir DALL-E 3, son dernier modèle de génération d'images à partir de texte, qui permet depuis de générer du texte cohérent sur les images. DALL-E 3 est également ajouté sur ChatGPT-4 pour les utilisateurs abonnés.
+
+
+=== Microscope ===
+Sorti en 2020, Microscope est un outil permettant de visualiser les neurones et couches de certains réseaux de neurones connus. Il est utilisé pour mieux comprendre le fonctionnement interne des réseaux de neurones.
+
+
+=== Whisper ===
+Sorti en 2022, Whisper est un modèle polyvalent et multilingue de reconnaissance vocale. Il peut aussi identifier une langue et même effectuer des traductions, par exemple de vidéos ou films.
+
+
+== Controverses ==
+
+
+=== Contrat avec Sama ===
+Une enquête de l’hebdomadaire Time publiée le 18 janvier 2023 décrit un contrat que OpenAI a passé avec Sama, une entreprise basée à San Francisco qui emploie des travailleurs au Kenya. OpenAI souhaitait entraîner un algorithme d'apprentissage automatique pour filtrer des textes en fonction de leur toxicité, permettant d'épurer les données d'entraînement de modèles de langage comme ChatGPT et les rendant ainsi moins toxiques. Pour entraîner cet algorithme à reconnaître si un texte est toxique ou non, OpenAI avait besoin d'exemples annotés et a fait appel à l'entreprise Sama pour l'annotation. Des employés de celle-ci se sont déclarés psychologiquement marqués par ce travail, les textes décrivant parfois des automutilations, incestes, contenus pédopornographiques ou tortures. Sur une journée de neuf heures, des employés ont déclaré devoir lire entre 150 et 250 textes faisant chacun de 100 à 1 000 mots et y signaler les passages sensibles. Le salaire versé par Sama à ses annotateurs était de 1,32 à 2 dollars de l’heure hors taxe (OpenAI ayant versé à Sama pour la prestation 12,50 dollars par heure de travail),.
+
+
+=== Activités à but lucratif ===
+La création d'une filiale à but lucratif, le partenariat avec Microsoft et l'absence de publication des résultats de recherche et du code source ont été critiqués par certaines personnalités telles qu'Elon Musk, cofondateur d'Open AI, qui y voit une trahison de la mission que s'était fixée l'organisation lors de sa fondation,
+
+
+=== Bref départ d'Altman et de Brockman ===
+
+Le 17 novembre 2023, Sam Altman est destitué de son poste de directeur de l'information suite à une décision du conseil d'administration, composé de Helen Toner, Ilya Sutskever, Adam D'Angelo et Tasha McCauley, citant un manque de confiance en lui. Mira Murati, directrice de la technologie, assure l'intérim. Greg Brockman, président de OpenAI, est également destitué de son poste de président du conseil d'administration,. Peu après cette annonce, Brockman démissionne de la présidence de l'entreprise et rapporte certains détails des événements,. Cette situation est suivie par la démission de trois chercheurs seniors de OpenAI : le directeur de recherche et responsable du GPT-4 Jakub Pachocki, le responsable des risques liés à l'IA Aleksander Madry et le chercheur Szymon Sidor,. Les journalistes Kara Swisher et Alex Heath indiquent que Ilya Sutskever, leader de l'équipe de recherche de OpenAI, a joué un rôle "déterminant" dans le licenciement d'Altman.
+Le 18 novembre 2023, des discussions auraient eu lieu concernant le retour d'Altman dans son rôle de directeur de l'information sous la pression des investisseurs tels que Microsoft et Thrive Capital, qui ont condamné le départ d'Altman. Bien qu'Altman lui-même se soit exprimé en faveur de son retour chez OpenAI, il a déclaré envisager de créer une nouvelle entreprise et d'emmener avec lui d'anciens employés de OpenAI si les discussions n'aboutissaient pas. S'il revenait, il a dit que les membres du conseil d'administration démissionneraient "en principe" de l'entreprise. Le 19 novembre 2023, les négociations avec Altman pour revenir à l'entreprise échouent et Murati est remplacée par Emmett Shear pour assurer l'intérim en tant que directeur de l'information. Le conseil d'administration a contacté le PDG d'Anthropic, Dario Amodei, qui était un ancien exécutif chez OpenAI, pour une fusion potentielle et le remplacer, mais il a décliné les deux offres.
+Le 20 novembre 2023, le PDG de Microsoft, Satya Nadella, annonce que Altman et Brockman rejoindront l'entreprise pour diriger une nouvelle équipe de recherche sur l'IA avancée, et déclarent rester engagés envers OpenAI malgré les événements. Le partenariat n'a pas été certifié alors qu'Altman donne une autre opportunité au conseil d'administration de négocier avec lui. Environ 738 des 770 employés d'OpenAI, y compris Murati et Sutskever, ont signé une lettre ouverte déclarant qu'ils quitteraient leur emploi et rejoindraient Microsoft si le conseil d'administration ne réembauche pas Altman comme PDG puis démissionne,. Les investisseurs envisagent d'intenter une action en justice contre les membres du conseil d'administration en réponse aux démissions massives potentielles et au renvoi d'Altman. En réponse, la direction d'OpenAI a envoyé une note interne aux employés indiquant que les négociations avec Altman et le conseil d'administration sont de nouveau en cours et prendront du temps.
+Le 21 novembre 2023, après des négociations continues, Altman et Brockman reviennent dans l'entreprise comme CEO et President, accompagnés d'un conseil d'administration restructuré composé de nouveaux membres, Bret Taylor (en tant que président) et Lawrence Summers, et d'Adam D'Angelo qui reste. Brockman et Sutskever ne sont plus membres du conseil d'administration.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+AI Dungeon 2, jeu dont l'intrigue est générée par une GPT-2
+Anthropic
+ChatGPT
+DALL-E
+GPT-3
+GPT-4
+Intelligence artificielle
+Intelligence artificielle générale
+
+
+=== Liens externes ===
+
+(en) Site officiel
+Ressource relative à la musique : SoundCloud 
+
+OpenAI déploie une nouvelle mise à jour de son générateur de texte GPT-2… et vous pouvez l’essayer !, sur itsocial.fr, le 22 août 2019.
+ Portail des associations   Portail des États-Unis   Portail de l’informatique   Portail des données

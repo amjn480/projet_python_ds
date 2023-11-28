@@ -1,0 +1,12 @@
+Meter över havet (m ö.h.) är ett mått som anger höjden i förhållande till havsytan. Det används ofta för att ange höjden på berg och liknande. Anledningen är att världshaven har approximativt samma nivå över hela jordytan och därmed utgör en naturlig referenspunkt. 
+Måttet meter under havet (m u.h.) kan, på ett analogt sätt, användas för havsdjup, djupa dalsänkor och liknande.
+Språkrådet rekommenderar att förkortningarna skrivs utan punkt efter det inledande m:et. Detta beror på att meter är en SI-enhet, vars beteckningar aldrig skrivs med punkt.
+
+
+== Se även ==
+Avvägning
+Normaal Amsterdams Peil
+Rikets höjdsystem
+
+
+== Källor ==

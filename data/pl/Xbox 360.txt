@@ -1,0 +1,84 @@
+Xbox 360 – konsola gier wideo wyprodukowana przez przedsiębiorstwo Microsoft. Została opracowana we współpracy z IBM, ATI i NEC jako następca konsoli Xbox. Podobnie jak PlayStation 3 i Wii należy do siódmej generacji konsol. Platforma zintegrowana jest z usługą sieć Xbox, pozwalającą graczom na rywalizację w trybie online i pobieranie dodatkowych treści. Konsola została wprowadzona do sprzedaży w USA 22 listopada 2005, w Europie 2 grudnia 2005, w Japonii 10 grudnia 2005, w Czechach, Polsce i Słowacji 3 listopada 2006. 20 kwietnia 2016 Microsoft poinformował o zaprzestaniu produkcji konsoli Xbox 360.
+
+
+== Specyfikacja techniczna ==
+procesor PowerPC Xenon
+trzy rdzenie taktowane zegarem 3,2 GHz
+procesor działa w trybie in-order execution
+procesor graficzny ATI R500 (Xenos)
+48 zunifikowanych jednostek Shader Model
+taktowanie rdzenia – 500 MHz
+RAM: 512 MB GDDR3 współdzielonych przez procesor główny i układ graficzny
+taktowanie pamięci – 700 MHz (1,4 GHz efektywnie)
+10 MB pamięci eDRAM stosowanej jako bufor ramki
+obsługa trybów 480p, 720p, 1080p, 1080i
+odtwarzane formaty: DVD-Video, CD-Audio, HD DVD (wymaga dokupienia zewnętrznego napędu), WMA, MP3, JPEG, MPEG-4 część 2, H.264, VC-1
+od 3 do 5 portów USB 2.0
+możliwość podłączenia jednocześnie 4 kontrolerów
+odłączany dysk twardy 2,5" o pojemności 20 GB, 60 GB, 120 GB, 250 GB, 320 GB oraz 500 GB
+obsługa nośników USB o pojemności od 1 GB do 2 TB
+konsole w wersji Arcade wyposażone w 256 lub 512 MB, wybrane modele Slim i E 4 GB pamięci wbudowanej
+napęd DVD DL
+
+
+=== Złącza AV ===
+Zintegrowane:
+
+HDMI (poza modelem Core i systemami wyprodukowanymi przed 2007)
+S/PDIF (tylko model S)
+dźwięk stereo, Composite Video – Jack 3,5 mm (tylko model E)Za pośrednictwem złącza AV (nie dotyczy modelu E):
+
+composite video
+D-Terminal
+S-Video
+SCART RGB
+VGA
+Component Video
+S/PDIF
+RCA – dźwięk stereo
+
+
+=== Dodatki ===
+Producent urządzenia zaprezentował również liczne dodatki do konsoli. Są to między innymi: pilot, gitara, perkusja, mikrofon, kierownica, kontroler deskorolka, Messenger Kit, Quick Charge Kit, karta WiFi oraz kontroler ruchu Kinect.
+
+
+== Porównanie wersji ==
+W momencie wprowadzenia do sprzedaży dostępne były 2 wersje konsoli: Core i Premium. Różniły się one wyglądem zewnętrznym (wersja Premium miała chromowaną tackę napędu) i wyposażeniem. Zestaw w wersji Core składał się z konsoli, przewodowego pada i kabla composite video. Zestaw Premium posiadał dodatkowo dysk twardy 20 GB, head set (słuchawka z mikrofonem), pad bezprzewodowy zamiast pada przewodowego i zamiast kabla composite video, kabel component video.
+29 kwietnia 2007 na amerykański rynek została wprowadzona kolejna wersja konsoli o nazwie „Elite”. Wyróżnia się przede wszystkim czarnym kolorem obudowy, dyskiem twardym o pojemności 120 GB oraz złączem HDMI. Cena konsoli wynosiła w chwili wypuszczenia na rynek 479,99 USD. Europejska premiera nowej wersji tego urządzenia miała miejsce 24 sierpnia 2007 roku.
+W sierpniu 2007 pojawiła się w USA nowa wersja Xbox 360 Premium, która została wzbogacona o złącze HDMI.
+W listopadzie 2007 roku pojawiła się kolejna wersja konsoli nazwana Xbox 360 Arcade, która zastąpiła wersję Core. Konsola od wersji Core różni się tym, że posiada port HDMI, bezprzewodowy kontroler oraz zestaw pięciu gier z oferty Xbox Live Arcade. Konsola w nowej wersji jest dostępna w Polsce od 26 listopada 2007. Wersja Core nie jest już produkowana.
+W 2010 roku na targach E3 organizowanych od 15 do 17 czerwca Microsoft zaprezentował odświeżoną konsolę Xbox 360 zwaną Xbox 360 S, wzbogaconą o moduł WiFi z dyskiem twardym 250 GB, jeszcze mniejszym poborem energii i cichszym napędem. Nowa wersja trafiła do amerykańskich sklepów jeszcze tego samego dnia, a europejska premiera (w tym polska) odbyła się 16 lipca 2010 roku. Konsola posiada specjalny port pozwalający na podłączenie kontrolera Kinect bez dodatkowego zasilania.
+10 czerwca 2013 na targach Electronic Entertainment Expo 2013 została przedstawiona kolejna, odświeżona wersja konsoli – Xbox 360 E. Model ten nawiązuje już swym wyglądem do Xbox One. Konsola jest dostępna w wersji 4 GB lub 250GB wraz z kontrolerem Kinect.
+
+
+== Wersje sprzętowe ==
+
+
+== Sieć Xbox ==
+Sieć Xbox jest to wirtualna społeczność użytkowników podłączonych do sieci. Dzięki niej można czatować, prowadzić rozmowy głosowe, wideokonferencje, a także, na co został położony szczególny nacisk, grać z innymi użytkownikami konsoli Xbox 360, a także komputerów (usługa Games for Windows – Live), przez sieć internetową. Premiera usługi odbyła się w 2002 roku.
+Liczba użytkowników usługi w 2012 roku wynosiła ponad 40 milionów.
+
+
+=== Konto i punkty ===
+Każdy gracz ma swój GamerTag, czyli unikatową nazwę (konto), do którego może przypisać państwo, własną grafikę i styl gry tj. Family (rodzina), Recreation (rekreacja), Underground (podziemie) i Professional (zawodowcy). Gamertagi użytkowników można oglądać na stronach internetowych usługi Xbox Live. Własne konto można edytować wykorzystując w tym celu przeglądarkę internetową, po zalogowaniu się poprzez Windows Live ID. Każdy gamertag jest opatrzony specjalnymi punktami, Gamerscore, które zbierane są poprzez spełnianie określonych kryteriów (osiągnięć) w grach. Wynik gracza ustala pozycję w światowym rankingu graczy. Punktów Gamerscore nie można wymieniać na wirtualną walutę i dokonywać nimi zakupów w sklepie Marketplace.
+
+
+=== Xbox Originals ===
+Xbox Originals było usługą, dzięki której istniała możliwość pobierania z Internetu pełnych wersji tytułów z pierwszego Xboksa na dysk twardy konsoli. Tym samym Microsoft zaprzestał dalszego wydawania gier na poprzednią konsolę. Usługa ta była dostępna tylko w przypadku posiadania dysku twardego. Każda gra kosztowała 1200 Microsoft Points, a prócz tego należało zainstalować darmowy emulator, który był pobierany podczas pierwszego uruchomienia gry. Usługa została wyłączona 15 kwietnia 2010 roku.
+
+
+== Kinect ==
+Kinect jest czujnikiem ruchowym, pozwalającym użytkownikowi na interakcję z konsolą bez konieczności używania kontrolera, poprzez interfejs wykorzystujący gesty wykonywane przy pomocy kończyn i całego ciała, jak i przez komendy głosowe. Został zaprezentowany 1 czerwca 2009 podczas targów Electronic Entertainment Expo.
+
+
+== Problemy techniczne ==
+Konsola Xbox 360 była podatna na wiele problemów natury technicznej. Od momentu wprowadzenia na rynek w 2005 roku, produkt zyskał wątpliwą markę pod względem sprawności i dużej wadliwości. W szczególności, często spotykanymi błędami są przegrzewanie się konsoli, błędy przy odczytywaniu dysków, a także zacinający się mechanizm otwierania i zamykania napędu DVD.
+W odpowiedzi na dużą wadliwość Microsoft rozszerzył okres gwarancyjny na konsole Xbox 360 do trzech lat dla wszystkich błędów, które powodują wyświetlanie się trzech czerwonych lampek na konsoli (tzw. czerwony pierścień śmierci). Inne problemy techniczne nie są objęte rozszerzonym okresem gwarancji. Jednocześnie Microsoft wprowadził modyfikacje do nowo produkowanych konsoli, mające poprawić stabilność i zmniejszyć awaryjność działania. Należy również dodać, że konsole z 2009 r. mają poprawiony układ chłodzenia, co eliminuje problem „pierścienia śmierci”. Kolejna wersja konsoli, według Microsoftu wyeliminowała do końca problem z „RRoD”.
+Problemem występującym w konsoli Xbox 360 (w modelu Jasper błąd praktycznie nie występuje) był E74, pod pozornym błędem kabla AV najczęściej stoi uszkodzenie lub przegrzanie chipu skalującego typu ANA/HANA. Jest to błąd ekranowy i w przypadku RROD-a na ekranie można ujrzeć planszę z numerem błędu (E XX), jak i informację: „Błąd systemu. Skontaktuj się z Pomocą Techniczną dla konsoli Xbox” w różnych językach.
+
+
+== Walka z piractwem ==
+W połowie stycznia 2010 roku ruszyła akcja Microsoftu przeciw piractwu w Polsce. Akcja pod hasłem „nie przerabiam – nie kradnę” zachęcała, aby nie przerabiać swojej konsoli i kupować oryginalne gry, a co za tym idzie napędzać polski rynek gier komputerowych. Kilka dni po rozpoczęciu tej akcji, polscy gracze uruchomili swoją pod hasłem „Nie sprzedaję wybrakowanego produktu. Nie kradnę”. Stwierdzili w niej, że Microsoft ignoruje polskich graczy i nie chce uruchomić usługi Xbox Live w Polsce. 21 stycznia odbyła się konferencja obydwu stron, na której uzgodniono wiele spraw na temat łączenia piractwa z brakiem Xbox Live w Polsce. 10 listopada 2010 roku Microsoft oficjalnie uruchomił usługę Xbox Live w Polsce, jednakże nie jest ona tak rozbudowana jak na zachodniej części globu.
+
+
+== Przypisy ==

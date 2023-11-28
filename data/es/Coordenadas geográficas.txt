@@ -1,0 +1,58 @@
+Las coordenadas geográficas son un sistema de referencia que permite que cada ubicación en la Tierra sea especificada por un conjunto de números, letras o símbolos. Las coordenadas se eligen, en general, de manera que las dos referencias representen una posición horizontal y una tercera que represente la altitud. Las coordenadas de posición horizontal utilizadas son la latitud y longitud, un sistema de coordenadas angulares esféricas o esferoides cuyo centro es el centro de la Tierra y suelen expresarse en grados sexagesimales.
+
+
+== Latitud, longitud  y altura ==
+La latitud[1]​ (abreviatura: Lat., φ, o phi) de un punto en la superficie de la Tierra es el ángulo entre el plano ecuatorial y la línea que pasa por este punto y el centro de la Tierra. Todos los puntos con la misma latitud forman un plano paralelo al plano del ecuador. El ecuador es el paralelo 0° y divide el globo en hemisferios norte y sur; así el polo norte es 90° N y el polo sur es 90° S.
+La longitud[2]​ (abreviatura: Long., λ, o lambda) de un punto en la superficie de la Tierra es el ángulo entre el meridiano de referencia y el meridiano que pasa por este punto. El meridiano de referencia mayormente aceptado es el meridiano que pasa por el Real Observatorio de Greenwich, situado al sureste de Londres, Inglaterra. Este primer meridiano determina los hemisferios este y oeste. Las líneas de longitud forman semicírculos máximos que pasan por los polos y se llaman meridianos. Los meridianos junto con sus correspondientes antimeridianos forman circunferencias de 40 007,161 km de longitud. La distancia en km a la que equivale un grado de longitud depende de la latitud. A medida que la latitud aumenta, hacia Norte o Sur, disminuyen los kilómetros por grado. Para el paralelo del Ecuador, sabiendo que la circunferencia que corresponde al Ecuador mide 40 075,017 km, 1° equivale a 111,319 km (resultado de dividir el perímetro del ecuador entre los 360° de longitud).[3]​La indicación de la altitud exige la elección de un modelo de esferoide que represente la Tierra y estos modelos producen diferentes valores para la altitud. Eso se resuelve utilizando un dato que representa la altitud en los diferentes modelos usados.La insolación terrestre depende de la latitud. Dada la distancia que nos separa del Sol, los rayos luminosos que llegan hasta nosotros son prácticamente paralelos. La inclinación con que estos rayos inciden sobre la superficie de la Tierra es, pues, variable según la latitud. En la zona intertropical, a mediodía, caen casi verticales, mientras que inciden tanto más inclinados cuanto más se asciende en latitud, es decir cuanto más nos acercamos a los Polos. Así se explica el contraste entre las regiones polares, muy frías y las tropicales, muy cálidas.[4]​
+Posición absoluta: se determina a través de las coordenadas geográficas (latitud y longitud).
+Posición relativa: permite localizar distintos espacios territoriales a partir de tomar otro espacio territorial como referencia.
+
+
+== Posición ==
+Combinando los dos ángulos, se puede especificar la posición en la superficie de la Tierra.
+Por ejemplo, Baltimore (en Estados Unidos) tiene una latitud de 39,28° Norte y una longitud de 76,60° Oeste (39° 17’ N, 76° 36’ W).
+Las coordenadas geográficas se expresan tradicionalmente en el sistema sexagesimal, a veces anotado como «GMS»: grados (°) minutos (’) segundos (’’). La unidad básica es el grado de ángulo (1 revolución completa = 360°), luego el minuto de ángulo (1° = 60′), luego el segundo de ángulo (1° = 3600″).
+Para dar una comparación aproximada en distancia de estas unidades en la superficie de la Tierra, el perímetro de la Tierra que corresponde a 360° es de unos 40.000 km. Más concretamente, son 40.075,017 km en el ecuador; por tanto:
+
+un grado equivale a unos 111,319 km (en el ecuador);
+un minuto es aproximadamente 1,855 km (en el ecuador);
+un segundo es de unos 30,92 m (en el ecuador).Las mediciones inferiores a un segundo se anotan con el sistema decimal.
+Estas distancias, que corresponden a una diferencia de longitud (en grados, minutos o segundos), varían en función de la latitud del lugar, ya que los meridianos terrestres se acercan progresivamente desde el ecuador hacia los polos. El siguiente cuadro ofrece algunos ejemplos ilustrativos.
+
+Suponiendo que la tierra es una esfera de circunferencia C = 40 000 km :
+
+en cada punto de latitud existe un paralelo al ecuador. El ecuador tiene una longitud C = 40 000 km ;
+estos paralelos tienen una circunferencia que depende de su radio, es decir: (C / 2 π) cos (latitud) (donde C / 2 π = radio de la Tierra en el ecuador);
+estos paralelos tienen por tanto una circunferencia de : 2 π (C / 2 π) cos (latitud), es decir: Cl = C cos (latitud) (Cl = circunferencia de la Tierra en la latitud) ;
+y en una latitud dada, 1° de longitud es = C cos (latitud) / 360 ;
+a 45° de latitud, 1° de longitud es igual a (40.000) cos(45) / 360 = 78,567 km (con una precisión de 1 m).Hoy en día, también se utiliza la notación equivalente en minutos o grados decimales:
+
+GMS, Grado:Minuto:Segundo (49° 30′ 00″ - 123° 30′ 00″) ;
+GM, Grado:Minuto (49° 30,0′ - 123° 30,0′) ;
+GD, Grado:Decimal (49,5000° - 123,5000°), normalmente con cuatro decimales.
+WGS 84 es el sistema geodésico asociado al sistema GPS; se ha convertido rápidamente en la referencia universal para la cartografía.
+Atención: las medidas angulares de longitud utilizadas en geografía no deben confundirse con las medidas horarias, especialmente para las unidades minutos y segundos; en efecto, si admitimos que la duración del día es de 23,99 horas (el lugar de exposición del cenit solar da una vuelta completa a la Tierra, es decir, 360°, en 24 horas), entonces para el día solar medio[5]​:
+
+15° de longitud corresponden a una diferencia horaria de una hora (60 minutos de tiempo) ;
+Por lo tanto, 1° de longitud corresponde a una diferencia de 4 minutos horarios;
+15′ de longitud corresponden a 1 minuto horario;
+15″ de longitud corresponden a 1 segundo horario.Estas equivalencias históricas son aproximadas, pero ya no son exactas hoy en día, ya que la definición y la medición del tiempo (en segundos del SI) ya no se basan en la duración de la rotación diurna de la Tierra, que varía no sólo con la ubicación y la estación, sino también de un año a otro, la rotación de la Tierra no es regular y tiende a ralentizarse (por lo tanto, la duración del día solar tiende a alargarse con el tiempo, con periodos también menos frecuentes en los que esta duración disminuye, este día solar ya no dura exactamente 24 horas, cada una de 60 min de tiempo, esta última dura 60 s de tiempo).
+Por estas razones, los símbolos del SI para las unidades de tiempo (es decir, min para los minutos y s para los segundos) no deben utilizarse para registrar medidas angulares como la longitud o la latitud, debido a las ambigüedades que esto induce.
+
+
+== Sistema de Coordenadas Proyectadas ==
+
+Al contrario que las coordenadas geográficas que se caracterizan por no estar proyectadas, se definen diferentes proyecciones cartográficas.
+En el esferoide GRS80 o WGS84 al nivel del mar en el Ecuador, un segundo de latitud mide 30,715 metros , un minuto de latitud es de 1843 metros y un grado de latitud es de 110,6 kilómetros. Los círculos de longitud, los meridianos, se encuentran en los polos geográficos, y el ancho oeste-este de un segundo disminuye naturalmente a medida que aumenta la latitud. En el Ecuador al nivel del mar, un segundo longitudinal mide 30,92 metros, un minuto longitudinal es 1855 metros y un grado longitudinal es 111,3 kilómetros. A 30° un segundo longitudinal es de 26,76 metros, en Greenwich (51°28′38″N) 19,22 metros, y a 60° es de 15,42 metros.
+
+
+== Véase también ==
+GPS
+Trópico de Cáncer
+Trópico de Capricornio
+Coordenadas esféricas
+Altitud
+Longitud (cartografía)
+
+
+== Notas ==

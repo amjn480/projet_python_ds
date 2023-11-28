@@ -1,0 +1,5610 @@
+Eine quadratische Gleichung ist eine Gleichung, die sich für den univariaten Fall in der Form
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        =
+        0
+        
+      
+    
+    {\displaystyle ax^{2}+bx+c=0\quad }
+  mit 
+  
+    
+      
+        a
+        ≠
+        0
+      
+    
+    {\displaystyle a\neq 0}
+   schreiben lässt. Hierbei sind 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+   Koeffizienten; 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   ist die Unbekannte.
+Ist zusätzlich 
+  
+    
+      
+        b
+        =
+        0
+      
+    
+    {\displaystyle b=0}
+  , spricht man von einer reinquadratischen Gleichung.
+Ihre Lösungen lassen sich anhand der Formel
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        
+          
+            
+              −
+              b
+              ±
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                  −
+                  4
+                  a
+                  c
+                
+              
+            
+            
+              2
+              a
+            
+          
+        
+      
+    
+    {\displaystyle x_{1,2}={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}}
+  bestimmen. Im Bereich der reellen Zahlen kann eine quadratische Gleichung keine, eine oder zwei Lösungen besitzen. Ist der Ausdruck unter der Wurzel negativ, so existiert keine Lösung; ist er Null, so existiert eine Lösung; wenn er positiv ist, so existieren zwei Lösungen.
+Die linke Seite dieser Gleichung ist der Term einer quadratischen Funktion (allgemeiner ausgedrückt: ein Polynom zweiten Grades) 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+      
+    
+    {\displaystyle f(x)=ax^{2}+bx+c}
+  ; der Funktionsgraph dieser Funktion im kartesischen Koordinatensystem ist eine Parabel. Geometrisch beschreibt die quadratische Gleichung 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        0
+      
+    
+    {\displaystyle f(x)=0}
+   die Nullstellen dieser Parabel.
+
+
+== Allgemeine Form – Normalform – Nullform ==
+Die allgemeine Form der quadratischen Gleichung lautet
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        =
+        0
+        
+        (
+        a
+        ≠
+        0
+        )
+         
+        .
+      
+    
+    {\displaystyle ax^{2}+bx+c=0\qquad (a\neq 0)\ .}
+  Dabei heißt 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle ax^{2}}
+   quadratisches Glied, 
+  
+    
+      
+        b
+        x
+      
+    
+    {\displaystyle bx}
+   lineares Glied und 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   konstantes Glied (auch Absolutglied) der Gleichung.
+Die Gleichung ist in Normalform, falls 
+  
+    
+      
+        a
+        =
+        1
+      
+    
+    {\displaystyle a=1}
+  , wenn also das quadratische Glied den Koeffizienten 1 hat. Aus der allgemeinen Form lässt sich die Normalform durch Äquivalenzumformungen gewinnen, indem durch 
+  
+    
+      
+        a
+        ≠
+        0
+      
+    
+    {\displaystyle a\neq 0}
+   dividiert wird. Mit der Definition
+
+  
+    
+      
+        p
+        =
+        
+          
+            b
+            a
+          
+        
+      
+    
+    {\displaystyle p={\frac {b}{a}}}
+     und   
+  
+    
+      
+        
+          q
+          =
+          
+            
+              c
+              a
+            
+          
+        
+      
+    
+    {\displaystyle \displaystyle q={\frac {c}{a}}}
+  lässt sich die Normalform somit schreiben als
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        p
+        x
+        +
+        q
+        =
+        0
+         
+        .
+      
+    
+    {\displaystyle x^{2}+px+q=0\ .}
+  Steht auf einer Seite einer Gleichung die 0, wird diese auch Nullform genannt.Im Folgenden werden zunächst quadratische Gleichungen mit reellen Zahlen als Koeffizienten 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   und 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   bzw. als 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   und 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   betrachtet.
+
+
+== Lösungen der quadratischen Gleichung mit reellen Koeffizienten ==
+Eine Lösung einer quadratischen Gleichung ist eine Zahl, die die Gleichung erfüllt, wenn sie für 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   eingesetzt wird. Jede quadratische Gleichung hat, wenn man komplexe Zahlen als Lösungen zulässt, genau zwei (gegebenenfalls zusammenfallende) Lösungen, auch Wurzeln der Gleichung genannt. Betrachtet man nur die reellen Zahlen, so hat eine quadratische Gleichung null bis zwei Lösungen.
+
+
+=== Anzahl der reellen Nullstellen ===
+Die Anzahl der Lösungen lässt sich mit Hilfe der sog. Diskriminante 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   bestimmen. Im allgemeinen Fall ist 
+  
+    
+      
+        D
+        =
+        
+          b
+          
+            2
+          
+        
+        −
+        4
+        a
+        c
+      
+    
+    {\displaystyle D=b^{2}-4ac}
+  , im normierten Fall ist 
+  
+    
+      
+        D
+        =
+        
+          p
+          
+            2
+          
+        
+        −
+        4
+        q
+      
+    
+    {\displaystyle D=p^{2}-4q}
+   (zur Herleitung siehe unten):
+
+Die Grafik zeigt den Zusammenhang zwischen der Anzahl der reellen Nullstellen und der Diskriminante:
+
+A Diskriminante positiv: Die Parabel hat zwei Schnittpunkte mit der 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  -Achse, es gibt also zwei verschiedene reelle Nullstellen 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle x_{1}}
+   und 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+         
+        .
+      
+    
+    {\displaystyle x_{2}\ .}
+  
+B Diskriminante Null: Die Parabel hat genau einen Berührpunkt mit der 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  -Achse, nämlich ihren Scheitelpunkt. Es gibt somit genau eine (doppelte) reelle Lösung. Die quadratische Gleichung 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        =
+        0
+      
+    
+    {\displaystyle ax^{2}+bx+c=0}
+   lässt sich auf die Form 
+  
+    
+      
+        a
+        ⋅
+        (
+        x
+        −
+        
+          x
+          
+            1
+          
+        
+        
+          )
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle a\cdot (x-x_{1})^{2}=0}
+   bringen.
+C Diskriminante negativ: Die Parabel hat keinen Schnittpunkt mit der 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  -Achse, es gibt keine reellen Lösungen der quadratischen Gleichung. Lässt man komplexe Zahlen als Grundmenge für die Lösungen zu, erhält man zwei verschiedene komplexe Lösungen. Diese sind zueinander konjugiert, das heißt, sie haben den gleichen Realteil und ihre Imaginärteile unterscheiden sich nur durch das Vorzeichen.
+
+
+=== Einfache Spezialfälle ===
+Ist der Koeffizient des linearen Gliedes 
+  
+    
+      
+        b
+        =
+        0
+      
+    
+    {\displaystyle b=0}
+   oder das absolute Glied 
+  
+    
+      
+        c
+        =
+        0
+      
+    
+    {\displaystyle c=0}
+  , so lässt sich die quadratische Gleichung durch einfache Äquivalenzumformungen lösen, ohne dass eine allgemeine Lösungsformel benötigt würde.
+
+
+==== Fehlendes lineares Glied ====
+Die reinquadratische Gleichung 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        c
+        =
+        0
+      
+    
+    {\displaystyle ax^{2}+c=0}
+   mit 
+  
+    
+      
+        a
+        ≠
+        0
+      
+    
+    {\displaystyle a\neq 0}
+   ist äquivalent zu
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        −
+        
+          
+            c
+            a
+          
+        
+         
+        .
+      
+    
+    {\displaystyle x^{2}=-{\frac {c}{a}}\ .}
+  Die Lösungen lauten
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        ±
+        
+          
+            −
+            
+              
+                c
+                a
+              
+            
+          
+        
+         
+        .
+      
+    
+    {\displaystyle x_{1,2}=\pm {\sqrt {-{\frac {c}{a}}}}\ .}
+  Im Fall 
+  
+    
+      
+        a
+        ⋅
+        c
+        <
+        0
+        
+      
+    
+    {\displaystyle a\cdot c<0\,}
+   existieren zwei Lösungen. Im Fall 
+  
+    
+      
+        a
+        ⋅
+        c
+        >
+        0
+        
+      
+    
+    {\displaystyle a\cdot c>0\,}
+   existieren keine reellen Lösungen. Die komplexen Lösungen sind dann
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        ±
+        
+          i
+        
+        
+          
+            
+              c
+              a
+            
+          
+        
+         
+        .
+      
+    
+    {\displaystyle x_{1,2}=\pm \mathrm {i} {\sqrt {\frac {c}{a}}}\ .}
+  Zum Beispiel hat die Gleichung 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        3
+        =
+        0
+      
+    
+    {\displaystyle x^{2}-3=0}
+   die Lösungen 
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        ±
+        
+          
+            3
+          
+        
+      
+    
+    {\displaystyle x_{1,2}=\pm {\sqrt {3}}}
+  . Die Gleichung 
+  
+    
+      
+        2
+        
+          x
+          
+            2
+          
+        
+        +
+        8
+        =
+        0
+      
+    
+    {\displaystyle 2x^{2}+8=0}
+   hat keine reellen Lösungen, die komplexen Lösungen lauten 
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        ±
+        2
+        
+          i
+        
+      
+    
+    {\displaystyle x_{1,2}=\pm 2\mathrm {i} }
+  .
+Der Fall 
+  
+    
+      
+        a
+        ⋅
+        c
+        =
+        0
+      
+    
+    {\displaystyle a\cdot c=0}
+   und wegen 
+  
+    
+      
+        a
+        ≠
+        0
+      
+    
+    {\displaystyle a\neq 0}
+   damit 
+  
+    
+      
+        c
+        =
+        0
+        
+      
+    
+    {\displaystyle c=0\,}
+  , also eine doppelte Lösung, tritt nur bei Gleichungen vom Typ 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle ax^{2}=0}
+   mit 
+  
+    
+      
+        a
+        ≠
+        0
+      
+    
+    {\displaystyle a\neq 0}
+   ein und sie lautet 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x_{1}=0}
+  .
+
+
+==== Fehlendes konstantes Glied ====
+Aus der Gleichung 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        =
+        0
+      
+    
+    {\displaystyle ax^{2}+bx=0}
+   ergibt sich durch Ausklammern 
+  
+    
+      
+        x
+        (
+        a
+        x
+        +
+        b
+        )
+        =
+        0
+      
+    
+    {\displaystyle x(ax+b)=0}
+  , d. h., es muss 
+  
+    
+      
+        x
+        =
+        0
+      
+    
+    {\displaystyle x=0}
+   oder 
+  
+    
+      
+        a
+        x
+        +
+        b
+        =
+        0
+      
+    
+    {\displaystyle ax+b=0}
+   gelten. Die beiden Lösungen lauten also
+
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x_{1}=0}
+    und  
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        −
+        
+          
+            b
+            a
+          
+        
+         
+        .
+      
+    
+    {\displaystyle x_{2}=-{\frac {b}{a}}\ .}
+  Zum Beispiel hat die Gleichung 
+  
+    
+      
+        3
+        
+          x
+          
+            2
+          
+        
+        −
+        2
+        x
+        =
+        0
+      
+    
+    {\displaystyle 3x^{2}-2x=0}
+   die Lösungen 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x_{1}=0}
+   und 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        
+          
+            
+              2
+              3
+            
+          
+        
+      
+    
+    {\displaystyle x_{2}={\tfrac {2}{3}}}
+  .
+
+
+==== Gleichung in Scheitelpunktform ====
+Die Scheitelpunktform
+
+  
+    
+      
+        a
+        (
+        x
+        −
+        d
+        
+          )
+          
+            2
+          
+        
+        +
+        e
+        =
+        0
+      
+    
+    {\displaystyle a(x-d)^{2}+e=0}
+  ist eine Variation der reinquadratischen Gleichung 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        c
+        =
+        0
+      
+    
+    {\displaystyle ax^{2}+c=0}
+  . Sie kann wie diese durch „Rückwärtsrechnen“ gelöst werden: Zunächst subtrahiert man 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   und dividiert durch 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  . Dies führt zu
+
+  
+    
+      
+        (
+        x
+        −
+        d
+        
+          )
+          
+            2
+          
+        
+        =
+        −
+        
+          
+            e
+            a
+          
+        
+         
+        .
+      
+    
+    {\displaystyle (x-d)^{2}=-{\frac {e}{a}}\ .}
+  Für 
+  
+    
+      
+        −
+        
+          
+            e
+            a
+          
+        
+        ≥
+        0
+      
+    
+    {\displaystyle -{\frac {e}{a}}\geq 0}
+   ergibt sich daraus
+
+  
+    
+      
+        x
+        −
+        d
+        =
+        ±
+        
+          
+            −
+            
+              
+                e
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle x-d=\pm {\sqrt {-{\frac {e}{a}}}}}
+  Durch Addition von 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   erhält man die Lösungen
+
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        d
+        +
+        
+          
+            −
+            
+              
+                e
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle x_{1}=d+{\sqrt {-{\frac {e}{a}}}}}
+    und  
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        d
+        −
+        
+          
+            −
+            
+              
+                e
+                a
+              
+            
+          
+        
+         
+        .
+      
+    
+    {\displaystyle x_{2}=d-{\sqrt {-{\frac {e}{a}}}}\ .}
+  Für 
+  
+    
+      
+        −
+        
+          
+            e
+            a
+          
+        
+        <
+        0
+      
+    
+    {\displaystyle -{\frac {e}{a}}<0}
+   erhält man entsprechend die beiden komplexen Lösungen
+
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        d
+        +
+        
+          i
+        
+        
+          
+            
+              e
+              a
+            
+          
+        
+      
+    
+    {\displaystyle x_{1}=d+\mathrm {i} {\sqrt {\frac {e}{a}}}}
+    und  
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        d
+        −
+        
+          i
+        
+        
+          
+            
+              e
+              a
+            
+          
+        
+         
+        .
+      
+    
+    {\displaystyle x_{2}=d-\mathrm {i} {\sqrt {\frac {e}{a}}}\ .}
+  Beispiel:
+
+  
+    
+      
+        
+          
+            
+              
+                3
+                (
+                x
+                −
+                2
+                
+                  )
+                  
+                    2
+                  
+                
+                −
+                5
+              
+              
+                
+                =
+                0
+              
+              
+              
+                
+                
+                  |
+                
+                +
+                5
+                ;
+                :
+                3
+              
+            
+            
+              
+                (
+                x
+                −
+                2
+                
+                  )
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    5
+                    3
+                  
+                
+              
+              
+              
+                
+                
+                  |
+                
+                ±
+                
+                  
+                     
+                  
+                
+              
+            
+            
+              
+                x
+                −
+                2
+              
+              
+                
+                =
+                ±
+                
+                  
+                    
+                      5
+                      3
+                    
+                  
+                
+              
+              
+              
+                
+                
+                  |
+                
+                +
+                2
+              
+            
+            
+              
+                x
+              
+              
+                
+                =
+                2
+                ±
+                
+                  
+                    
+                      5
+                      3
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}3(x-2)^{2}-5&=0&&|+5;:3\\(x-2)^{2}&={\frac {5}{3}}&&|\pm {\sqrt {\ }}\\x-2&=\pm {\sqrt {\frac {5}{3}}}&&|+2\\x&=2\pm {\sqrt {\frac {5}{3}}}\end{aligned}}}
+  
+
+
+=== Lösen mit quadratischer Ergänzung ===
+Beim Lösen mit quadratischer Ergänzung werden die binomischen Formeln benutzt, um eine quadratische Gleichung in allgemeiner Form oder in Normalform auf die Scheitelpunktform zu bringen, die dann einfach aufgelöst werden kann.
+Man verwendet die erste bzw. zweite binomische Formel in der Form 
+  
+    
+      
+        (
+        x
+        ±
+        d
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          x
+          
+            2
+          
+        
+        ±
+        2
+        d
+        x
+        +
+        
+          d
+          
+            2
+          
+        
+         
+        .
+      
+    
+    {\displaystyle (x\pm d)^{2}=x^{2}\pm 2dx+d^{2}\ .}
+  
+Dazu wird die quadratische Gleichung so umgeformt, dass die linke Seite die Form 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        ±
+        2
+        d
+        x
+      
+    
+    {\displaystyle x^{2}\pm 2dx}
+   hat. Danach wird auf beiden Seiten 
+  
+    
+      
+        
+          d
+          
+            2
+          
+        
+      
+    
+    {\displaystyle d^{2}}
+   addiert. Dies ist die „quadratische Ergänzung“. Die linke Seite hat nun die Gestalt 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        ±
+        2
+        d
+        x
+        +
+        
+          d
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}\pm 2dx+d^{2}}
+   und kann mit der binomischen Formel zu 
+  
+    
+      
+        (
+        x
+        ±
+        d
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle (x\pm d)^{2}}
+   umgeformt werden. Danach liegt die Gleichung in der leicht aufzulösenden Scheitelpunktform vor.
+Dies wird am besten anhand eines konkreten Zahlenbeispiels erklärt. Betrachtet wird die quadratische Gleichung
+
+  
+    
+      
+        3
+        
+          x
+          
+            2
+          
+        
+        −
+        15
+        x
+        +
+        18
+        =
+        0
+         
+        .
+      
+    
+    {\displaystyle 3x^{2}-15x+18=0\ .}
+  Zunächst wird die Gleichung normiert, indem man durch den Leitkoeffizienten (hier 3) dividiert:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        5
+        x
+        +
+        6
+        =
+        0
+         
+        .
+      
+    
+    {\displaystyle x^{2}-5x+6=0\ .}
+  Das konstante Glied (hier 6) wird auf beiden Seiten subtrahiert:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        5
+        x
+        =
+        −
+        6
+         
+        .
+      
+    
+    {\displaystyle x^{2}-5x=-6\ .}
+  Nun folgt die eigentliche quadratische Ergänzung: Die linke Seite muss so ergänzt werden, dass sich eine binomische Formel (hier die zweite) rückwärts anwenden lässt. Das 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   aus der obigen binomischen Formel ist dann 
+  
+    
+      
+        
+          
+            
+              5
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {5}{2}}}
+  , also muss auf beiden Seiten der Gleichung 
+  
+    
+      
+        
+          d
+          
+            2
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  5
+                  2
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle d^{2}=\left({\tfrac {5}{2}}\right)^{2}}
+   addiert werden:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        5
+        x
+        +
+        
+          
+            (
+            
+              
+                5
+                2
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        
+          
+            (
+            
+              
+                5
+                2
+              
+            
+            )
+          
+          
+            2
+          
+        
+        −
+        6
+         
+        .
+      
+    
+    {\displaystyle x^{2}-5x+\left({\frac {5}{2}}\right)^{2}=\left({\frac {5}{2}}\right)^{2}-6\ .}
+  Die linke Seite wird nach der binomischen Formel umgeformt, die rechte Seite vereinfacht:
+
+  
+    
+      
+        
+          
+            (
+            
+              x
+              −
+              
+                
+                  5
+                  2
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        
+          
+            1
+            4
+          
+        
+         
+        .
+      
+    
+    {\displaystyle \left(x-{\frac {5}{2}}\right)^{2}={\frac {1}{4}}\ .}
+  Dies führt zu
+
+  
+    
+      
+        x
+        −
+        
+          
+            5
+            2
+          
+        
+        =
+        ±
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\displaystyle x-{\frac {5}{2}}=\pm {\frac {1}{2}}}
+   ,also zu den beiden Lösungen 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        
+          
+            5
+            2
+          
+        
+        +
+        
+          
+            1
+            2
+          
+        
+        =
+        3
+      
+    
+    {\displaystyle x_{1}={\frac {5}{2}}+{\frac {1}{2}}=3}
+    und  
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        
+          
+            5
+            2
+          
+        
+        −
+        
+          
+            1
+            2
+          
+        
+        =
+        2
+         
+        .
+      
+    
+    {\displaystyle x_{2}={\frac {5}{2}}-{\frac {1}{2}}=2\ .}
+  
+
+
+=== Allgemeine Lösungsformeln ===
+Man kann quadratische Gleichungen auch lösen, indem man eine der mit Hilfe der quadratischen Ergänzung hergeleiteten allgemeinen Lösungsformeln verwendet.
+
+
+==== Lösungsformel für die allgemeine quadratische Gleichung (a-b-c-Formel) ====
+Die Lösungen der allgemeinen quadratischen Gleichung 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        =
+        0
+      
+    
+    {\displaystyle ax^{2}+bx+c=0}
+   lauten:
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        
+          
+            
+              −
+              b
+              ±
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                  −
+                  4
+                  a
+                  c
+                
+              
+            
+            
+              2
+              a
+            
+          
+        
+         
+      
+    
+    {\displaystyle x_{1,2}={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}\ }
+  .Die Formel wird in Teilen Deutschlands und der Schweiz umgangssprachlich als Mitternachtsformel bezeichnet, weil „Schüler sie aufsagen können sollen, selbst wenn man sie um Mitternacht weckt und nach der Formel fragt“. In Österreich ist der Ausdruck große Lösungsformel gebräuchlich.
+
+
+===== Alternative Formen =====
+Alternative Formulierungen der a-b-c-Formel, die mehr der weiter unten behandelten p-q-Formel ähneln, sind:
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        
+          
+            
+              −
+              b
+            
+            
+              2
+              a
+            
+          
+        
+        ±
+        
+          
+            
+              
+                
+                  b
+                  
+                    2
+                  
+                
+                −
+                4
+                a
+                c
+              
+              
+                4
+                
+                  a
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        =
+        −
+        
+          
+            
+               
+              b
+            
+            
+              2
+              a
+            
+          
+        
+        ±
+        
+          
+            
+              
+                (
+                
+                  −
+                  
+                    
+                      
+                         
+                        b
+                      
+                      
+                        2
+                        a
+                      
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            −
+            
+              
+                c
+                a
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle x_{1,2}={\frac {-b}{2a}}\pm {\sqrt {\frac {b^{2}-4ac}{4a^{2}}}}=-{\frac {\ b}{2a}}\pm {\sqrt {\left(-{\frac {\ b}{2a}}\right)^{2}-{\frac {c}{a}}}}\ }
+  Wenn man die quadratische Gleichung in der Form
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        2
+        β
+        x
+        +
+        c
+        =
+        0
+      
+    
+    {\displaystyle ax^{2}+2\beta x+c=0}
+  angibt (d. h. mit 
+  
+    
+      
+        β
+        =
+        b
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle \beta =b/2}
+  ), erhält man die etwas einfachere Lösungsformel:
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        
+          
+            
+              −
+              β
+              ±
+              
+                
+                  
+                    β
+                    
+                      2
+                    
+                  
+                  −
+                  a
+                  c
+                
+              
+            
+            a
+          
+        
+      
+    
+    {\displaystyle x_{1,2}={\frac {-\beta \pm {\sqrt {\beta ^{2}-ac}}}{a}}}
+  Durch Erweitern der a-b-c-Formel mit dem Term 
+  
+    
+      
+        −
+        b
+        ∓
+        
+          
+            
+              b
+              
+                2
+              
+            
+            −
+            4
+            a
+            c
+          
+        
+      
+    
+    {\displaystyle -b\mp {\sqrt {b^{2}-4ac}}}
+   erhält man eine Formel, welche auch für den linearen Fall 
+  
+    
+      
+        a
+        =
+        0
+      
+    
+    {\displaystyle a=0}
+   anwendbar ist, dafür jedoch im Fall 
+  
+    
+      
+        c
+        =
+        0
+      
+    
+    {\displaystyle c=0}
+   die Berechnung der Lösung 
+  
+    
+      
+        x
+        =
+        
+          
+            
+              −
+              b
+            
+            a
+          
+        
+      
+    
+    {\displaystyle x={\frac {-b}{a}}}
+   wegen einer Division durch Null nicht mehr liefern kann. In beiden Fällen wird die Lösungsformel ohnehin nicht benötigt. Für betragsmäßig sehr kleine 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   ist die alternative Form jedoch robuster gegenüber numerischer Auslöschung.
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        
+          
+            
+              
+                (
+                
+                  −
+                  b
+                  ±
+                  
+                    
+                      
+                        b
+                        
+                          2
+                        
+                      
+                      −
+                      4
+                      a
+                      c
+                    
+                  
+                
+                )
+              
+              ⋅
+              
+                (
+                
+                  −
+                  b
+                  ∓
+                  
+                    
+                      
+                        b
+                        
+                          2
+                        
+                      
+                      −
+                      4
+                      a
+                      c
+                    
+                  
+                
+                )
+              
+            
+            
+              2
+              a
+              ⋅
+              
+                (
+                
+                  −
+                  b
+                  ∓
+                  
+                    
+                      
+                        b
+                        
+                          2
+                        
+                      
+                      −
+                      4
+                      a
+                      c
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        =
+        
+          
+            
+              2
+              c
+            
+            
+              −
+              b
+              ∓
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                  −
+                  4
+                  a
+                  c
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle x_{1,2}={\frac {\left(-b\pm {\sqrt {b^{2}-4ac}}\right)\cdot \left(-b\mp {\sqrt {b^{2}-4ac}}\right)}{2a\cdot \left(-b\mp {\sqrt {b^{2}-4ac}}\right)}}={\frac {2c}{-b\mp {\sqrt {b^{2}-4ac}}}}}
+  
+
+
+===== Lösung der a-b-c-Formel bei negativer Diskriminante =====
+Ist die oben eingeführte Diskriminante 
+  
+    
+      
+        D
+        =
+        
+          b
+          
+            2
+          
+        
+        −
+        4
+        a
+        c
+      
+    
+    {\displaystyle D=b^{2}-4ac}
+   negativ, so ist für die Lösungen die Wurzel einer negativen Zahl zu berechnen. Im Zahlbereich der reellen Zahlen gibt es hierfür keine Lösungen. Im Bereich der komplexen Zahlen gilt 
+  
+    
+      
+        
+          
+            D
+          
+        
+        =
+        
+          i
+        
+        
+          
+            −
+            D
+          
+        
+      
+    
+    {\displaystyle {\sqrt {D}}=\mathrm {i} {\sqrt {-D}}}
+  . Dieser Term bestimmt den Imaginärteil der beiden zueinander konjugierten Lösungen, einmal mit positivem, einmal mit negativem Vorzeichen. Der Term davor mit 
+  
+    
+      
+        −
+        
+          
+            
+              b
+              
+                2
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle -{\tfrac {b}{2a}}}
+   wird zum konstanten Realteil der beiden Lösungen:
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        −
+        
+          
+            b
+            
+              2
+              a
+            
+          
+        
+        ±
+        
+          i
+        
+        
+          
+            
+              4
+              a
+              c
+              −
+              
+                b
+                
+                  2
+                
+              
+            
+            
+              2
+              a
+            
+          
+        
+        =
+        −
+        
+          
+            
+               
+              b
+            
+            
+              2
+              a
+            
+          
+        
+        ±
+        
+          i
+        
+        
+          
+            
+            
+              
+                |
+              
+            
+            
+            
+              
+                (
+                
+                  −
+                  
+                    
+                      
+                         
+                        b
+                      
+                      
+                        2
+                        a
+                      
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            −
+            
+              
+                c
+                a
+              
+            
+            
+              
+                |
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle x_{1,2}=-{\frac {b}{2a}}\pm \mathrm {i} {\frac {\sqrt {4ac-b^{2}}}{2a}}=-{\frac {\ b}{2a}}\pm \mathrm {i} {\sqrt {\,{\Bigg |}\!\left(-{\frac {\ b}{2a}}\right)^{2}-{\frac {c}{a}}{\Bigg |}}}\ }
+   (komplexer Fall bei negativer Diskriminante).
+
+
+===== Herleitung der a-b-c-Formel =====
+Aus der allgemeinen Form ergibt sich durch Umformen nach dem Verfahren der quadratischen Ergänzung:
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                b
+                x
+                +
+                c
+              
+              
+                =
+              
+              
+                0
+              
+              
+                
+                  |
+                
+                −
+                c
+              
+            
+            
+              
+                a
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                b
+                x
+              
+              
+                =
+              
+              
+                −
+                c
+              
+              
+                
+                  |
+                
+                
+
+                
+                ⋅
+                4
+                a
+              
+            
+            
+              
+                4
+                
+                  a
+                  
+                    2
+                  
+                
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                4
+                a
+                b
+                x
+              
+              
+                =
+              
+              
+                −
+                4
+                a
+                c
+              
+              
+                
+                  |
+                
+                +
+                
+                  b
+                  
+                    2
+                  
+                
+                
+                   (quadratische Ergänzung)
+                
+              
+            
+            
+              
+                (
+                2
+                a
+                x
+                
+                  )
+                  
+                    2
+                  
+                
+                +
+                2
+                ⋅
+                2
+                a
+                x
+                
+                b
+                +
+                
+                  b
+                  
+                    2
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  b
+                  
+                    2
+                  
+                
+                −
+                4
+                a
+                c
+              
+              
+                
+                  |
+                
+                
+                   Umformen mit binomischer Formel
+                
+              
+            
+            
+              
+                (
+                2
+                a
+                x
+                +
+                b
+                
+                  )
+                  
+                    2
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  b
+                  
+                    2
+                  
+                
+                −
+                4
+                a
+                c
+              
+              
+                
+                  |
+                
+                ±
+                
+                  
+                    
+                  
+                
+              
+            
+            
+              
+                2
+                a
+                x
+                +
+                b
+              
+              
+                =
+              
+              
+                ±
+                
+                  
+                    
+                      b
+                      
+                        2
+                      
+                    
+                    −
+                    4
+                    a
+                    c
+                  
+                
+              
+              
+                
+                  |
+                
+                −
+                b
+              
+            
+            
+              
+                2
+                a
+                x
+              
+              
+                =
+              
+              
+                −
+                b
+                ±
+                
+                  
+                    
+                      b
+                      
+                        2
+                      
+                    
+                    −
+                    4
+                    a
+                    c
+                  
+                
+              
+              
+                
+                  |
+                
+                :
+                (
+                2
+                a
+                )
+              
+            
+            
+              
+                x
+              
+              
+                =
+              
+              
+                
+                  
+                    
+                      
+                        −
+                        b
+                        ±
+                        
+                          
+                            
+                              b
+                              
+                                2
+                              
+                            
+                            −
+                            4
+                            a
+                            c
+                          
+                        
+                      
+                      
+                        2
+                        a
+                      
+                    
+                  
+                
+              
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{rcll}ax^{2}+bx+c&=&0&|-c\\[1ex]ax^{2}+bx&=&-c&|{}\cdot 4a\\[1ex]4a^{2}x^{2}+4abx&=&-4ac&|+b^{2}{\text{ (quadratische Ergänzung)}}\\[1ex](2ax)^{2}+2\cdot 2ax\,b+b^{2}&=&b^{2}-4ac&|{\text{ Umformen mit binomischer Formel}}\\[1ex](2ax+b)^{2}&=&b^{2}-4ac&|\pm {\sqrt {\quad }}\\[1ex]2ax+b&=&\pm {\sqrt {b^{2}-4ac}}&|-b\\[1ex]2ax&=&-b\pm {\sqrt {b^{2}-4ac}}&|:(2a)\\[1ex]x&=&{\dfrac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}&\end{array}}}
+  
+
+
+===== Rechenbeispiel =====
+Bei der quadratischen Gleichung
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        x
+        −
+        1
+        =
+        0
+      
+    
+    {\displaystyle x^{2}-x-1=0}
+  ist 
+  
+    
+      
+        a
+        =
+        1
+        ,
+        b
+        =
+        −
+        1
+      
+    
+    {\displaystyle a=1,b=-1}
+   und 
+  
+    
+      
+        c
+        =
+        −
+        1
+      
+    
+    {\displaystyle c=-1}
+  .
+Durch Einsetzen dieser Werte in die a-b-c-Formel erhält man die Lösungen
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        
+          
+            
+              −
+              b
+              ±
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                  −
+                  4
+                  a
+                  c
+                
+              
+            
+            
+              2
+              a
+            
+          
+        
+        =
+        
+          
+            
+              −
+              (
+              −
+              1
+              )
+              ±
+              
+                
+                  (
+                  −
+                  1
+                  
+                    )
+                    
+                      2
+                    
+                  
+                  −
+                  4
+                  ⋅
+                  1
+                  ⋅
+                  (
+                  −
+                  1
+                  )
+                
+              
+            
+            
+              2
+              ⋅
+              1
+            
+          
+        
+        =
+        
+          
+            
+              1
+              ±
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle x_{1,2}={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}={\frac {-(-1)\pm {\sqrt {(-1)^{2}-4\cdot 1\cdot (-1)}}}{2\cdot 1}}={\frac {1\pm {\sqrt {5}}}{2}}}
+  .
+
+
+==== Lösungsformel für die Normalform (p-q-Formel) ====
+Bei Vorliegen der Normalform 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        p
+        x
+        +
+        q
+        =
+        0
+      
+    
+    {\displaystyle x^{2}+px+q=0}
+   lauten die Lösungen nach der p-q-Formel:
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        −
+        
+          
+            p
+            2
+          
+        
+        ±
+        
+          
+            
+              
+                (
+                
+                  
+                    p
+                    2
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            −
+            q
+          
+        
+      
+    
+    {\displaystyle x_{1,2}=-{\frac {p}{2}}\pm {\sqrt {\left({\frac {p}{2}}\right)^{2}-q}}}
+  In Österreich ist diese Formel als kleine Lösungsformel bekannt.
+
+
+===== Lösung der p-q-Formel bei negativer Diskriminante =====
+Wie bei der a-b-c-Formel gibt es, wenn 
+  
+    
+      
+        
+          
+            
+              1
+              4
+            
+          
+        
+        D
+        =
+        
+          
+            (
+            
+              
+                
+                  p
+                  2
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        −
+        q
+      
+    
+    {\displaystyle {\tfrac {1}{4}}D=\left({\tfrac {p}{2}}\right)^{2}-q}
+   negativ ist, im Zahlbereich der reellen Zahlen keine Lösungen. Die komplexen Lösungen ergeben sich dann zu:
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        −
+        
+          
+            p
+            2
+          
+        
+        ±
+        
+          
+            −
+            1
+          
+        
+        ⋅
+        
+          
+            
+              
+                −
+                D
+              
+              4
+            
+          
+        
+      
+    
+    {\displaystyle x_{1,2}=-{\frac {p}{2}}\pm {\sqrt {-1}}\cdot {\sqrt {\frac {-D}{4}}}}
+  
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        −
+        
+          
+            p
+            2
+          
+        
+        ±
+        
+          i
+        
+        
+          
+            
+            q
+            −
+            
+            
+              
+                (
+                
+                  
+                    p
+                    2
+                  
+                
+                )
+              
+              
+                
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle x_{1,2}=-{\frac {p}{2}}\pm \mathrm {i} {\sqrt {\,q-\!\left({\frac {p}{2}}\right)^{\!2}}}}
+  
+
+
+===== Herleitung der p-q-Formel =====
+Die Formel ergibt sich aus der Normalform der quadratischen Gleichung durch quadratische Ergänzung:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                p
+                x
+                +
+                q
+              
+              
+                =
+              
+              
+                0
+              
+              
+                
+                  |
+                
+                −
+                q
+              
+            
+            
+              
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                p
+                x
+              
+              
+                =
+              
+              
+                −
+                q
+              
+              
+                
+                  |
+                
+                +
+                
+                  
+                    (
+                    
+                      
+                        
+                          p
+                          2
+                        
+                      
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+                
+                   (quadratische Ergänzung)
+                
+              
+            
+            
+              
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                2
+                ⋅
+                
+                  
+                    
+                      p
+                      2
+                    
+                  
+                
+                 
+                x
+                +
+                
+                  
+                    (
+                    
+                      
+                        
+                          p
+                          2
+                        
+                      
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  
+                    (
+                    
+                      
+                        
+                          p
+                          2
+                        
+                      
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+                −
+                q
+              
+              
+                
+                  |
+                
+                
+                   binomische Formel
+                
+              
+            
+            
+              
+                
+                  
+                    (
+                    
+                      x
+                      +
+                      
+                        
+                          
+                            p
+                            2
+                          
+                        
+                      
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  
+                    (
+                    
+                      
+                        
+                          p
+                          2
+                        
+                      
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+                −
+                q
+              
+              
+                
+                  |
+                
+                
+                   Wurzel ziehen
+                
+              
+            
+            
+              
+                
+                  |
+                  
+                    x
+                    +
+                    
+                      
+                        
+                          p
+                          2
+                        
+                      
+                    
+                  
+                  |
+                
+              
+              
+                =
+              
+              
+                
+                  
+                    
+                      
+                        (
+                        
+                          
+                            
+                              p
+                              2
+                            
+                          
+                        
+                        )
+                      
+                      
+                        2
+                      
+                    
+                    −
+                    q
+                  
+                
+              
+              
+                
+                  |
+                
+                
+                   Betrag auflösen
+                
+              
+            
+            
+              
+                x
+                +
+                
+                  
+                    
+                      p
+                      2
+                    
+                  
+                
+              
+              
+                =
+              
+              
+                ±
+                
+                  
+                    
+                      
+                        (
+                        
+                          
+                            
+                              p
+                              2
+                            
+                          
+                        
+                        )
+                      
+                      
+                        2
+                      
+                    
+                    −
+                    q
+                  
+                
+              
+              
+                
+                  |
+                
+                −
+                
+                  
+                    
+                      p
+                      2
+                    
+                  
+                
+              
+            
+            
+              
+                x
+              
+              
+                =
+              
+              
+                −
+                
+                  
+                    
+                      p
+                      2
+                    
+                  
+                
+                ±
+                
+                  
+                    
+                      
+                        (
+                        
+                          
+                            
+                              p
+                              2
+                            
+                          
+                        
+                        )
+                      
+                      
+                        2
+                      
+                    
+                    −
+                    q
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{rcll}x^{2}+px+q&=&0&|-q\\[1ex]x^{2}+px&=&-q&|+\left({\dfrac {p}{2}}\right)^{2}{\text{ (quadratische Ergänzung)}}\\[1ex]x^{2}+2\cdot {\dfrac {p}{2}}\ x+\left({\dfrac {p}{2}}\right)^{2}&=&\left({\dfrac {p}{2}}\right)^{2}-q&|{\text{ binomische Formel}}\\[1ex]\left(x+{\dfrac {p}{2}}\right)^{2}&=&\left({\dfrac {p}{2}}\right)^{2}-q&|{\text{ Wurzel ziehen}}\\[1ex]\left|x+{\dfrac {p}{2}}\right|&=&{\sqrt {\left({\dfrac {p}{2}}\right)^{2}-q}}&|{\text{ Betrag auflösen}}\\[1ex]x+{\dfrac {p}{2}}&=&\pm {\sqrt {\left({\dfrac {p}{2}}\right)^{2}-q}}&|-{\dfrac {p}{2}}\\[1ex]x&=&-{\dfrac {p}{2}}\pm {\sqrt {\left({\dfrac {p}{2}}\right)^{2}-q}}\end{array}}}
+  Eine andere Möglichkeit, die Formel herzuleiten, besteht darin, dass man in der a-b-c-Formel 
+  
+    
+      
+        a
+        =
+        1
+      
+    
+    {\displaystyle a=1}
+  , 
+  
+    
+      
+        b
+        =
+        p
+      
+    
+    {\displaystyle b=p}
+   und 
+  
+    
+      
+        c
+        =
+        q
+      
+    
+    {\displaystyle c=q}
+   setzt und den Nenner 2 in die Wurzel hineinzieht.
+
+
+=== Zerlegung in Linearfaktoren ===
+Mit den Lösungen lässt sich das quadratische normierte Polynom in Linearfaktoren zerlegen:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        p
+        x
+        +
+        q
+        =
+        (
+        x
+        −
+        
+          x
+          
+            1
+          
+        
+        )
+        ⋅
+        (
+        x
+        −
+        
+          x
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle x^{2}+px+q=(x-x_{1})\cdot (x-x_{2})}
+  und das nicht normierte in
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        =
+        a
+        ⋅
+        (
+        x
+        −
+        
+          x
+          
+            1
+          
+        
+        )
+        ⋅
+        (
+        x
+        −
+        
+          x
+          
+            2
+          
+        
+        )
+         
+        .
+      
+    
+    {\displaystyle ax^{2}+bx+c=a\cdot (x-x_{1})\cdot (x-x_{2})\ .}
+  
+
+
+=== Satz von Vieta ===
+Liegt die quadratische Gleichung in Normalform vor und hat die Lösungen 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle x_{1}}
+   und 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x_{2}}
+  , so gilt
+
+  
+    
+      
+        0
+        =
+        
+          x
+          
+            2
+          
+        
+        +
+        p
+        x
+        +
+        q
+        =
+        (
+        x
+        −
+        
+          x
+          
+            1
+          
+        
+        )
+        ⋅
+        (
+        x
+        −
+        
+          x
+          
+            2
+          
+        
+        )
+        =
+        
+          x
+          
+            2
+          
+        
+        −
+        (
+        
+          x
+          
+            1
+          
+        
+        +
+        
+          x
+          
+            2
+          
+        
+        )
+        x
+        +
+        
+          x
+          
+            1
+          
+        
+        
+          x
+          
+            2
+          
+        
+         
+        .
+      
+    
+    {\displaystyle 0=x^{2}+px+q=(x-x_{1})\cdot (x-x_{2})=x^{2}-(x_{1}+x_{2})x+x_{1}x_{2}\ .}
+  Durch Koeffizientenvergleich erhält man den Satz von Vieta
+
+  
+    
+      
+        
+        
+          x
+          
+            1
+          
+        
+        +
+        
+          x
+          
+            2
+          
+        
+        =
+        −
+        p
+      
+    
+    {\displaystyle \,x_{1}+x_{2}=-p}
+    und  
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ⋅
+        
+          x
+          
+            2
+          
+        
+        =
+        q
+         
+        .
+      
+    
+    {\displaystyle x_{1}\cdot x_{2}=q\ .}
+  Insbesondere wenn 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   und 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   ganze Zahlen sind, lassen sich so durch Ausprobieren, ob Teilerpaare von 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   als Summe 
+  
+    
+      
+        −
+        p
+      
+    
+    {\displaystyle -p}
+   ergeben, mit einiger Übung oft die Lösungen rasch finden. Beispielsweise erhält man für 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        4
+        x
+        +
+        3
+        =
+        0
+      
+    
+    {\displaystyle x^{2}+4x+3=0}
+   die Lösungen 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle x_{1}=-1}
+   und 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        −
+        3
+      
+    
+    {\displaystyle x_{2}=-3}
+   durch die Zerlegung 
+  
+    
+      
+        3
+        =
+        (
+        −
+        1
+        )
+        (
+        −
+        3
+        )
+      
+    
+    {\displaystyle 3=(-1)(-3)}
+   mit 
+  
+    
+      
+        (
+        −
+        1
+        )
+        +
+        (
+        −
+        3
+        )
+        =
+        −
+        4
+         
+        .
+      
+    
+    {\displaystyle (-1)+(-3)=-4\ .}
+  
+
+
+=== Numerische Berechnung ===
+Wenn die Lösungen numerisch ermittelt werden und sich um Größenordnungen voneinander unterscheiden, kann durch folgende Variation der obigen Formeln das Problem der Auslöschung vermieden werden:
+
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        −
+        
+          
+            p
+            2
+          
+        
+        −
+        sgn
+        ⁡
+        (
+        p
+        )
+        ⋅
+        
+          
+            
+              
+                (
+                
+                  
+                    p
+                    2
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            −
+            q
+          
+        
+      
+    
+    {\displaystyle x_{1}=-{\frac {p}{2}}-\operatorname {sgn}(p)\cdot {\sqrt {\left({\frac {p}{2}}\right)^{2}-q}}}
+  
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        
+          
+            q
+            
+              x
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle x_{2}={\frac {q}{x_{1}}}}
+  Hierbei hat 
+  
+    
+      
+        sgn
+        ⁡
+        (
+        p
+        )
+      
+    
+    {\displaystyle \operatorname {sgn}(p)}
+   den Wert 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+   für 
+  
+    
+      
+        p
+        <
+        0
+      
+    
+    {\displaystyle p<0}
+   und sonst den Wert 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  . Die erste Formel ergibt die betragsgrößte Lösung. Die zweite Formel beruht auf dem Satz von Vieta.
+
+
+=== Grafische Lösung ===
+
+Die Lösungen der Gleichung 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        p
+        x
+        +
+        q
+        =
+        0
+      
+    
+    {\displaystyle x^{2}+px+q=0}
+   sind die Nullstellen der Parabel 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          x
+          
+            2
+          
+        
+        +
+        p
+        x
+        +
+        q
+      
+    
+    {\displaystyle f(x)=x^{2}+px+q}
+  . Diese erhält man mit Hilfe des Carlyle-Kreises:
+
+Zeichne in einem kart. Koordinatensystem einen Kreis um den Mittelpunkt 
+  
+    
+      
+        M
+        =
+        
+          (
+          
+            
+              
+                
+                  
+                    −
+                    p
+                  
+                  2
+                
+              
+            
+            
+              |
+            
+            
+              
+                
+                  
+                    q
+                    +
+                    1
+                  
+                  2
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle M=\left({\tfrac {-p}{2}}|{\tfrac {q+1}{2}}\right)}
+   derart, dass er durch den Punkt 
+  
+    
+      
+        A
+        (
+        0
+        
+          |
+        
+        1
+        )
+      
+    
+    {\displaystyle A(0|1)}
+   geht. Die Schnittpunkte mit der X-Achse sind, sofern vorhanden, die reellen Lösungen der Gleichung.
+
+
+=== Beispiele ===
+
+
+==== Rechenbeispiel ====
+Für die Gleichung
+
+  
+    
+      
+        4
+        
+          x
+          
+            2
+          
+        
+        −
+        12
+        x
+        −
+        40
+        =
+        0
+      
+    
+    {\displaystyle 4x^{2}-12x-40=0}
+  ergeben sich als Lösungen nach der a-b-c-Formel
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        
+          
+            
+              −
+              (
+              −
+              12
+              )
+              ±
+              
+                
+                  (
+                  −
+                  12
+                  
+                    )
+                    
+                      2
+                    
+                  
+                  −
+                  4
+                  ⋅
+                  4
+                  ⋅
+                  (
+                  −
+                  40
+                  )
+                
+              
+            
+            
+              2
+              ⋅
+              4
+            
+          
+        
+      
+    
+    {\displaystyle x_{1,2}={\frac {-(-12)\pm {\sqrt {(-12)^{2}-4\cdot 4\cdot (-40)}}}{2\cdot 4}}}
+   ,also 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        −
+        2
+      
+    
+    {\displaystyle x_{1}=-2}
+   und 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        5
+         
+        .
+      
+    
+    {\displaystyle x_{2}=5\ .}
+  
+Zur Nutzung der p-q-Formel wird die allgemeine Form zuerst in die Normalform überführt, indem die Gleichung durch 4 dividiert wird:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        3
+        x
+        −
+        10
+        =
+        0
+         
+        .
+      
+    
+    {\displaystyle x^{2}-3x-10=0\ .}
+  Mit der p-q-Formel ergeben sich die Lösungen
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        −
+        
+          
+            
+              −
+              3
+            
+            2
+          
+        
+        ±
+        
+          
+            
+              
+                (
+                
+                  
+                    
+                      −
+                      3
+                    
+                    2
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            −
+            (
+            −
+            10
+            )
+          
+        
+      
+    
+    {\displaystyle x_{1,2}=-{\frac {-3}{2}}\pm {\sqrt {\left({\frac {-3}{2}}\right)^{2}-(-10)}}}
+   ,also somit ebenfalls 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        −
+        2
+      
+    
+    {\displaystyle x_{1}=-2}
+   und 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        5
+         
+        .
+      
+    
+    {\displaystyle x_{2}=5\ .}
+  
+Mit Hilfe der Zerlegungen 
+  
+    
+      
+        −
+        10
+        =
+        (
+        −
+        2
+        )
+        ⋅
+        5
+      
+    
+    {\displaystyle -10=(-2)\cdot 5}
+   und 
+  
+    
+      
+        5
+        −
+        2
+        =
+        3
+      
+    
+    {\displaystyle 5-2=3}
+   erhält man dieselben Lösungen mit dem Satz von Vieta.
+
+
+==== Weitere Beispiele ====
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        2
+        x
+        −
+        35
+        =
+        0
+      
+    
+    {\displaystyle x^{2}+2x-35=0}
+   Die Diskriminante ist positiv. Es ergeben sich die beiden reellen Lösungen 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        −
+        7
+        
+      
+    
+    {\displaystyle x_{1}=-7\,}
+   und 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        5
+         
+        .
+      
+    
+    {\displaystyle x_{2}=5\ .}
+  
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        4
+        x
+        +
+        4
+        =
+        0
+      
+    
+    {\displaystyle x^{2}-4x+4=0}
+  Die Diskriminante ist null. Die (doppelte) reelle Lösung ist 
+  
+    
+      
+        x
+        =
+        2
+         
+        .
+      
+    
+    {\displaystyle x=2\ .}
+  
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        12
+        x
+        +
+        37
+        =
+        0
+      
+    
+    {\displaystyle x^{2}+12x+37=0}
+  Die Diskriminante ist negativ, daher gibt es keine reellen Lösungen. Die komplexen Lösungen ergeben sich zu 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        −
+        6
+        +
+        i
+        
+      
+    
+    {\displaystyle x_{1}=-6+i\,}
+   und 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        −
+        6
+        −
+        i
+         
+        .
+      
+    
+    {\displaystyle x_{2}=-6-i\ .}
+  
+
+
+== Verallgemeinerungen ==
+
+
+=== Komplexe Koeffizienten ===
+Die quadratische Gleichung
+
+  
+    
+      
+        a
+        
+          z
+          
+            2
+          
+        
+        +
+        b
+        z
+        +
+        c
+        =
+        0
+      
+    
+    {\displaystyle az^{2}+bz+c=0}
+  mit komplexen Koeffizienten 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+        ∈
+        
+          C
+        
+      
+    
+    {\displaystyle a,b,c\in \mathbb {C} }
+  , 
+  
+    
+      
+        a
+        ≠
+        0
+      
+    
+    {\displaystyle a\neq 0}
+   hat stets zwei komplexe Lösungen 
+  
+    
+      
+        
+          z
+          
+            1
+          
+        
+        ,
+        
+          z
+          
+            2
+          
+        
+        ∈
+        
+          C
+        
+      
+    
+    {\displaystyle z_{1},z_{2}\in \mathbb {C} }
+  , die genau dann zusammenfallen, wenn die Diskriminante 
+  
+    
+      
+        
+          b
+          
+            2
+          
+        
+        −
+        4
+        a
+        c
+      
+    
+    {\displaystyle b^{2}-4ac}
+   gleich null ist.
+Die Lösungen lassen sich wie im reellen Fall durch quadratische Ergänzung oder mit den oben angegebenen Lösungsformeln berechnen. Dabei muss allerdings im Allgemeinen eine Quadratwurzel einer komplexen Zahl berechnet werden.
+
+
+==== Beispiel ====
+Für die quadratische Gleichung
+
+  
+    
+      
+        
+          z
+          
+            2
+          
+        
+        −
+        (
+        
+          i
+        
+        +
+        1
+        )
+        z
+        +
+        
+          i
+        
+        =
+        0
+      
+    
+    {\displaystyle z^{2}-(\mathrm {i} +1)z+\mathrm {i} =0}
+  hat die Diskriminante den Wert 
+  
+    
+      
+        D
+        =
+        −
+        2
+        
+          i
+        
+        =
+        (
+        
+          i
+        
+        −
+        1
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle D=-2\mathrm {i} =(\mathrm {i} -1)^{2}}
+  . Es ergeben sich die beiden Lösungen 
+  
+    
+      
+        
+          z
+          
+            1
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle z_{1}=1}
+   und 
+  
+    
+      
+        
+          z
+          
+            2
+          
+        
+        =
+        
+          i
+        
+         
+        .
+      
+    
+    {\displaystyle z_{2}=\mathrm {i} \ .}
+  
+
+
+=== Quadratische Gleichungen in allgemeinen Ringen ===
+Allgemein nennt man in der abstrakten Algebra eine Gleichung der Form
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        p
+        x
+        +
+        q
+        =
+        0
+      
+    
+    {\displaystyle x^{2}+px+q=0}
+  mit Elementen 
+  
+    
+      
+        p
+        ,
+        q
+      
+    
+    {\displaystyle p,q}
+   eines Körpers oder Rings eine quadratische Gleichung. In Körpern und allgemeiner in Integritätsbereichen hat sie höchstens zwei Lösungen, in beliebigen Ringen kann sie mehr als zwei Lösungen haben.
+Falls Lösungen existieren, dann erhält man sie in kommutativen Ringen ebenfalls mit der p-q-Formel, falls die Charakteristik des Ringes ungleich 2 ist. Hierbei sind allerdings alle möglichen Quadratwurzeln der Diskriminante zu berücksichtigen. Für einen endlichen Körper 
+  
+    
+      
+        
+          
+            F
+          
+          
+            
+              2
+              
+                n
+              
+            
+          
+        
+        ≅
+        
+          
+            F
+          
+          
+            2
+          
+        
+        (
+        ϱ
+        )
+      
+    
+    {\displaystyle \mathbb {F} _{2^{n}}\cong \mathbb {F} _{2}(\varrho )}
+   der Charakteristik 2 macht man den Ansatz 
+  
+    
+      
+        x
+        =
+        
+          
+            ∑
+            
+              i
+              =
+              0
+            
+            
+              n
+              −
+              1
+            
+          
+          
+            a
+            
+              i
+            
+          
+          
+            ϱ
+            
+              i
+            
+          
+        
+      
+    
+    {\displaystyle x=\textstyle \sum _{i=0}^{n-1}a_{i}\varrho ^{i}}
+   und gelangt mittels 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        
+          
+            ∑
+            
+              i
+              =
+              0
+            
+            
+              n
+              −
+              1
+            
+          
+          
+            a
+            
+              i
+            
+          
+          
+            ϱ
+            
+              2
+              i
+            
+          
+        
+      
+    
+    {\displaystyle x^{2}=\textstyle \sum _{i=0}^{n-1}a_{i}\varrho ^{2i}}
+   zu einem linearen Gleichungssystem für die n Koeffizienten ai aus 
+  
+    
+      
+        
+          
+            F
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {F} _{2}}
+  .
+
+
+==== Beispiel ====
+Die quadratische Gleichung
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        1
+        =
+        0
+      
+    
+    {\displaystyle x^{2}-1=0}
+  hat im Restklassenring 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        8
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /8\mathbb {Z} }
+   die vier Lösungen 1, 3, 5 und 7.
+
+
+== Geschichte ==
+Bereits vor 4000 Jahren im Altbabylonischen Reich wurden Probleme gelöst, die äquivalent sind zu einer quadratischen Gleichung. Zum Beispiel enthält die unter der Inventarnummer BM 34568 im British Museum archivierte Tontafel gemäß der von Otto Neugebauer in den 1930er Jahren gelungenen Keilschrift-Übersetzung als neuntes Problem die Frage nach den Seitenlängen eines Rechtecks, bei dem die Summe von Länge und Breite 14 ergibt und dessen Fläche gleich 48 ist.Zwar lässt der auf der Tontafel dokumentierte Lösungsweg keine Begründung erkennen, aber Zwischenwerte, wie sie auch bei der üblichen Lösungsformel oder äquivalenten geometrischen Überlegungen auftauchen:
+
+Die im Text aufgeführten Zwischenwerte, die auf der Tontafel im babylonischen Sexigesimalsystem notiert sind, ergeben sich ebenfalls dann, wenn die zugehörige quadratische Gleichung 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        14
+        x
+        +
+        48
+        =
+        0
+      
+    
+    {\displaystyle x^{2}-14x+48=0}
+   mit der üblichen Lösungsformel gelöst wird. Dabei erhält man die beiden Lösungen 8 und 6, die geometrisch den beiden gesuchten Seitenlängen des Rechtecks entsprechen:
+
+  
+    
+      
+        
+          x
+          
+            1
+            ,
+            2
+          
+        
+        =
+        
+          
+            
+              14
+              ±
+              
+                
+                  196
+                  −
+                  192
+                
+              
+            
+            2
+          
+        
+        =
+        
+          
+            
+              14
+              ±
+              2
+            
+            2
+          
+        
+         
+        .
+      
+    
+    {\displaystyle x_{1,2}={\frac {14\pm {\sqrt {196-192}}}{2}}={\frac {14\pm 2}{2}}\ .}
+  Nach Høyrup ist davon auszugehen, dass der von den Babyloniern beschrittene Lösungsweg der zitierten und ähnlicher Aufgaben wie schon die Aufgabenstellungen geometrisch motiviert waren.Bei den antiken Griechen wurden diverse geometrische Probleme gelöst, die äquivalent zu quadratischen Gleichungen sind. Zum Beispiel findet man in Euklids Elementen die Aufgabe:
+
+Die Aufgabe entspricht in heutiger Notation der Gleichung
+
+  
+    
+      
+        a
+        (
+        a
+        −
+        x
+        )
+        =
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a(a-x)=x^{2}}
+   ,die man umformen kann zur Gleichung
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        a
+        x
+        =
+        
+          a
+          
+            2
+          
+        
+         
+        .
+      
+    
+    {\displaystyle x^{2}+ax=a^{2}\ .}
+  Im um 628 entstandenen Buch Brāhmasphuṭasiddhānta („Vervollkommnung der Lehre Brahmas“) des indischen Gelehrten Brahmagupta wurden Lösungsmethoden für quadratische Gleichungen verbal beschrieben. Dabei verwendete Brahmagupta bereits negative Zahlen und deren Rechenregeln wie
+
+Dadurch konnte Brahmagupta Fallunterscheidungen vermeiden, wenn er zur quadratischen Gleichung, die man heute in der Form
+
+  
+    
+      
+        a
+        
+          
+            x
+          
+          
+            2
+          
+        
+        +
+        b
+        x
+        =
+        c
+      
+    
+    {\displaystyle a{x}^{2}+bx=c}
+    mit 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle a,b,c\in \mathbb {R} }
+   und 
+  
+    
+      
+        a
+        >
+        0
+      
+    
+    {\displaystyle a>0}
+  notiert, folgenden Lösungsweg beschrieb:
+
+Das entspricht der Lösungsformel
+
+  
+    
+      
+        x
+        =
+        
+          
+            
+              
+                
+                  4
+                  a
+                  c
+                  +
+                  
+                    b
+                    
+                      2
+                    
+                  
+                
+              
+              −
+              b
+            
+            
+              2
+              a
+            
+          
+        
+         
+        .
+      
+    
+    {\displaystyle x={\frac {{\sqrt {4ac+b^{2}}}-b}{2a}}\ .}
+  Wie auch die  indisch-arabischen Ziffern fanden die Erkenntnisse der indischen Gelehrten ihre Verbreitung und Fortentwicklung über islamische Wissenschaftler. Eine besonders herausragende Rolle spielte der Mathematiker Al-Chwarizmi, dessen ungefähr um 825 verfasstes Buch al-Kitāb al-muḫtaṣar fī ḥisāb al-ğabr wa-ʾl-muqābala („Das kurzgefasste Buch über die Rechenverfahren durch Ergänzen und Ausgleichen“) erstmals allgemeine Techniken der Behandlung von Gleichungen, wenn auch weiterhin verbal beschrieben, enthält. Mit den Äquivalenzumformungen von Gleichungen, die Al-Chwarizmi ausführlich beschrieb, konnte jede beliebige quadratische Gleichung auf einen von sechs Typen reduziert werden. Sechs Typen waren notwendig, da Al-Chwarizmi anders als Brahmagupta keine negativen Zahlen verwendete.
+Al-Chwarizmis Buch enthält zu allen Typen anhand eines Zahlenbeispiels ein geometrisches Lösungsverfahren, sodass nur positive Lösungen möglich sind. In der nachfolgenden Liste bedeutet Wurzel die gesuchte Lösung 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   und Vermögen das Quadrat der Lösung 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}}
+  . Ferner bezeichnen 
+  
+    
+      
+        a
+        ,
+        b
+      
+    
+    {\displaystyle a,b}
+   und 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   nichtnegative Koeffizienten:
+Was anlangt die Vermögen, die gleich sind den Wurzeln (heute: 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        =
+        b
+        x
+      
+    
+    {\displaystyle ax^{2}=bx}
+  ),
+Was anlangt die Vermögen, die gleich sind der Zahl (heute: 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        =
+        c
+      
+    
+    {\displaystyle ax^{2}=c}
+  ),
+Was anlangt die Wurzeln, die gleich sind einer Zahl (heute: 
+  
+    
+      
+        b
+        x
+        =
+        c
+      
+    
+    {\displaystyle bx=c}
+  ),
+Was anlangt die Vermögen und die Wurzeln, die gleich sind der Zahl (heute: 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        =
+        c
+      
+    
+    {\displaystyle ax^{2}+bx=c}
+  ),
+Was anlangt die Vermögen und die Zahl, die gleich sind den Wurzeln (heute: 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        c
+        =
+        b
+        x
+      
+    
+    {\displaystyle ax^{2}+c=bx}
+  ) und
+Was anlangt die Wurzeln und die Zahl, die gleich sind dem Vermögen (heute: 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        =
+        b
+        x
+        +
+        c
+      
+    
+    {\displaystyle ax^{2}=bx+c}
+  ).Zur Lösung der quadratischen Gleichungen verwendete al-Chwarizmi keine Äquivalenzumformungen, also keine algebraische Argumentation, sondern in Anlehnung an die griechische Tradition geometrische Argumente. Als Beispiel soll die Gleichung, wie sie bei al-Chwarizmi auftritt,
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        10
+        x
+        =
+        39
+      
+    
+    {\displaystyle x^{2}+10x=39}
+  als Spezialfall von 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        p
+        x
+        =
+        q
+      
+    
+    {\displaystyle x^{2}+px=q}
+   mit 
+  
+    
+      
+        p
+        ,
+        q
+        >
+        0
+      
+    
+    {\displaystyle p,q>0}
+   geometrisch gelöst werden (siehe Bild). Man fasst dazu die linke Seite der Gleichung auf als ein Quadrat EFIH der Seitenlänge 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   (und somit der Fläche 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}}
+  ) und zwei Rechtecke DEHG und BCFE mit den Seiten 
+  
+    
+      
+        5
+      
+    
+    {\displaystyle 5}
+   und 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   (und somit jeweils der Fläche 
+  
+    
+      
+        5
+        x
+      
+    
+    {\displaystyle 5x}
+  ). Das Quadrat und die beiden Rechtecke werden wie im Bild gezeigt zu einem Gnomon mit den Eckpunkten BCIGDE zusammengesetzt. Dieses Gnomon hat nach Voraussetzung eine Fläche von 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        10
+        x
+        =
+        39
+      
+    
+    {\displaystyle x^{2}+10x=39}
+  . Ergänzt man es mit dem Quadrat ABED der Seitenlänge 
+  
+    
+      
+        5
+      
+    
+    {\displaystyle 5}
+   (und somit der Fläche 
+  
+    
+      
+        25
+      
+    
+    {\displaystyle 25}
+  ) zu dem Quadrat ACIG, so besitzt dieses die Fläche 
+  
+    
+      
+        39
+        +
+        25
+        =
+        64
+      
+    
+    {\displaystyle 39+25=64}
+  . Andererseits hat aber dieses Quadrat ACIG nach Konstruktion die Seitenlänge 
+  
+    
+      
+        5
+        +
+        x
+      
+    
+    {\displaystyle 5+x}
+   und somit den Flächeninhalt 
+  
+    
+      
+        (
+        5
+        +
+        x
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle (5+x)^{2}}
+  . Wegen 
+  
+    
+      
+        64
+        =
+        
+          8
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 64=8^{2}}
+   schließt man 
+  
+    
+      
+        5
+        +
+        x
+        =
+        8
+      
+    
+    {\displaystyle 5+x=8}
+   und somit 
+  
+    
+      
+        x
+        =
+        3
+      
+    
+    {\displaystyle x=3}
+  . Die quadratische Gleichung wird also »quadratisch ergänzt« zu 
+  
+    
+      
+        (
+        x
+        +
+        5
+        
+          )
+          
+            2
+          
+        
+        =
+        64
+      
+    
+    {\displaystyle (x+5)^{2}=64}
+   mit der (positiven) Lösung 
+  
+    
+      
+        x
+        =
+        3
+      
+    
+    {\displaystyle x=3}
+  . Man beachte, dass man mit dieser geometrischen Methode nicht die negative Lösung 
+  
+    
+      
+        x
+        =
+        −
+        13
+      
+    
+    {\displaystyle x=-13}
+   erhält.
+Bei Heron von Alexandria und auch bei al-Chwarizmi wird die Lösung von
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        =
+        c
+      
+    
+    {\displaystyle ax^{2}+bx=c}
+  verbal beschrieben; in heutiger Schreibweise als
+
+  
+    
+      
+        x
+        =
+        
+          
+            
+              
+                
+                  a
+                  c
+                  +
+                  
+                    
+                      (
+                      
+                        
+                          b
+                          2
+                        
+                      
+                      )
+                    
+                    
+                      2
+                    
+                  
+                
+              
+              −
+              
+                
+                  b
+                  2
+                
+              
+            
+            a
+          
+        
+         
+        .
+      
+    
+    {\displaystyle x={\frac {{\sqrt {ac+\left({\frac {b}{2}}\right)^{2}}}-{\frac {b}{2}}}{a}}\ .}
+  Allerdings schiebt Heron den euklidischen Weg als geometrische Begründung nach.
+Um 1145 übersetzte Robert von Chester und etwas später Gerhard von Cremona die Schriften von al-Chwarizmi ins Lateinische.Dadurch gelangte die Klassifizierung und die geometrischen Lösungsmethoden nach Europa.
+Michael Stiefel verfasste 1544 das Buch Arithmetica integra, das auf das Buch Behend vnnd Hubsch Rechnung durch die kunstreichen regeln Algebre so gemeincklich die Coss genennt werden von Christoph Rudolff aufbaut. Es gelingt dem Autor durch Verwendung negativer Zahlen die Fallunterscheidung für quadratische Gleichungen zu vermeiden. Aber er lässt negative Zahlen noch nicht als Lösungen zu, da er sie als absurd empfindet.Einen neuen Ansatz zur Lösung einer quadratischen Gleichung bot der Wurzelsatz von Vieta, der posthum 1615 in seinem Werk De Aequationem Recognitione et Emendatione Tractatus duo publiziert wurde.
+Im Jahr 1637 beschrieb René Descartes in seiner Schrift La Géométrie eine Methode zur Lösung quadratischer Gleichungen mit Zirkel und Lineal. Er zeigte weiter, dass Gleichungen höheren Grades im Allgemeinen nicht ausschließlich mit Zirkel und Lineal gelöst werden können.
+
+
+== Siehe auch ==
+Lineare Gleichung
+Kubische Gleichung
+Quartische Gleichung
+
+
+== Literatur ==
+Bartel Leendert van der Waerden: Erwachende Wissenschaft. Band 1: Ägyptische, babylonische und griechische Mathematik. 2. Auflage. Birkhäuser 1966.
+
+
+== Weblinks ==
+
+Video: Vom Lösen quadratischer Gleichungen – pq-Formel und Mitternachtsformel und der Satz von Vieta. Jakob Günter Lauth (SciFox) 2013, zur Verfügung gestellt von der Technischen Informationsbibliothek (TIB), doi:10.5446/17884.
+
+
+== Einzelnachweise ==

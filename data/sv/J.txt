@@ -1,0 +1,33 @@
+J [ji] är den tionde bokstaven i det moderna latinska alfabetet.
+
+
+== Betydelser ==
+
+
+=== Versalt J ===
+Beteckning för joule, enhet som storheten energi (W) mäts i enligt Internationella måttenhetssystemet (SI)
+I stela kroppars dynamik vanlig förekommande beteckning för tröghetsmoment (alt. bet. I)
+Nationalitetsbeteckning för motorfordon från Japan
+Inom bibliotekens klassifikationssystem SAB beteckning för arkeologi, se SAB:J
+Inom elektromagnetismen beteckningen för storheten strömtäthet som mäts i enheten A/m2
+Beteckning för järnvägsstation
+J-bandet, radiofrekvenser från 10 till 20 GHz
+
+
+=== Gement j ===
+j används bland annat inom ellära och elektroteknik som beteckning för den imaginära enheten
+I det internationella fonetiska alfabetet betecknar bokstaven en palatal approximant
+j, den andra imaginära enheten i en kvaternion
+
+
+== Historia och användning ==
+Bokstaven J var från början en variant av bokstaven I, men blev till slut en egen bokstav, som betecknade ett konsonantljud istället för ett vokalljud. I många romanska språk, som franska och spanska, har dock bokstaven J kommit att beteckna ett sj-ljud, vilket märks i bland annat lånord till svenskan som journalist och justera, och i engelska ett dj-ljud medan ett J-ljud liknande det svenska däremot skrivs med bokstaven Y.
+I svenskan används bokstaven J dock normalt endast i ord med j-ljud framför hård vokal (a, o, u och å) medan ord med j-ljud framför mjuk vokal (e, i, y, ä och ö) däremot normalt stavas med bokstaven G, som normalt uttalas som "j" framför mjuk vokal, utom i vissa undantagsfall då ord med mjuk vokal efter j-ljud stavas med bokstaven J istället för G, bland annat ord med j-ljud som följs av volaken ä som i vissa fall stavas med bokstaven J och i vissa fall med bokstaven G.
+
+
+== Datateknik ==
+I datorer lagras J samt förkomponerade bokstäver med J som bas och vissa andra varianter av J med följande kodpunkter:
+
+I ASCII-baserade kodningar lagras J med värdet 0x4A (hexadecimalt) och j med värdet 0x6A (hexadecimalt).
+I EBCDIC-baserade kodningar lagras J med värdet 0xD1 (hexadecimalt) och j med värdet 0x91 (hexadecimalt).
+Övriga varianter av J lagras med olika värden beroende på vilken kodning som används, om de alls kan representeras.

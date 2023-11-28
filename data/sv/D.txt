@@ -1,0 +1,168 @@
+D [de] är den fjärde bokstaven i det moderna latinska alfabetet.
+
+
+== Betydelser ==
+
+
+=== Versalt D ===
+Programspråket D
+Länsbokstav för Södermanlands län.
+I det romerska talsystemet beteckning för talet 500.
+Symbol för talet 13 i det hexadecimala talsystemet.
+Tidigare förkortning för prefixet deka, dock ersatt av da.
+Nationalitetsbeteckning för motorfordon från Tyskland.
+Benämning på en typ av svenskt ellok, se D-lok.
+Inom bibliotekens klassifikationssystem SAB beteckning för filosofi och psykologi, se SAB:D.
+Kemiskt tecken för  isotopen deuterium.
+Benämning för derivata i Eulers beteckning (märk att D:et inte är kursiverad, i enlighet med svensk standard SS-ISO 31-11):
+Förstaderivata: Dxf(x) = f′(x)
+Andraderivata: Dx2f(x) = f″(x)
+Söndagsbokstav för normalår som börjar en torsdag
+
+
+=== Gement d ===
+Beteckning för måttenhetsprefixet deci (
+  
+    
+      
+        
+          10
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle 10^{-1}}
+  )
+Symbol för enheten dygn.
+Internationella fonetiska alfabetets symbol för tonande alveolar klusil.
+Används i Leibniz' beteckning för derivata då derivatan beräknas av en funktion av en variabel, samt i integraluttryck (märk att d:et inte är kursiverat, i enlighet med svensk standard SS-ISO 31-11)
+Förstaderivata: 
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              y
+            
+            
+              
+                d
+              
+              x
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathrm {d} y}{\mathrm {d} x}}}
+  
+Andraderivata: 
+  
+    
+      
+        
+          
+            
+              
+                
+                  d
+                
+                
+                  2
+                
+              
+              y
+            
+            
+              
+                d
+              
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathrm {d} ^{2}y}{\mathrm {d} x^{2}}}}
+  
+Integral: 
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        
+          f
+          (
+          x
+          )
+          
+            d
+          
+          x
+        
+      
+    
+    {\displaystyle \int _{a}^{b}{f(x)\mathrm {d} x}}
+  
+
+
+=== Runt d (∂) ===
+Runt d benämns tecknet ∂, som är en variant av det gemena d:et. ∂ kan ses i äldre skrivstil, men ses numera användas inom matematiken för att beteckna partiell derivata:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              f
+            
+            
+              ∂
+              x
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial f}{\partial x}}}
+  Unicode-koden för ∂ är U+2202 (Partial Differtial) och dess LaTeX-kod är \partial (
+  
+    
+      
+        ∂
+      
+    
+    {\displaystyle \partial }
+  ).
+
+
+== Historia ==
+Till det latinska alfabetet kom bokstaven D från den grekiska bokstaven delta. Grekerna hade i sin tur fått sin bokstav från feniciernas "daleth", som allra först föreställde en fisk ("digg"), men sedan kom att föreställa en dörr (dalet).
+
+
+== Datateknik ==
+I Unicode har D samt förkomponerade bokstäver med D som bas och vissa andra varianter av D följande kodpunkter:
+
+I ASCII-baserade kodningar lagras D med värdet 0x44 (hexadecimalt) och d med värdet 0x64 (hexadecimalt). I EBCDIC-baserade kodningar lagras D med värdet 0xC4 (hexadecimalt) och d med värdet 0x84 (hexadecimalt). Övriga varianter av D lagras med olika värden beroende på vilken kodningsvariant som används, om de alls kan representeras.

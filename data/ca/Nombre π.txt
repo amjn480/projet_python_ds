@@ -1,0 +1,2666 @@
+En matemàtiques, π és la constant d'Arquimedes, una constant que relaciona el diàmetre de la circumferència amb la longitud del seu perímetre.
+
+  
+    
+      
+        P
+        =
+        d
+        ⋅
+        π
+      
+    
+    {\displaystyle P=d\cdot \pi }
+  π és un nombre irracional, és a dir, no es pot expressar de manera fraccionària amb nombres enters. Per fer càlculs pràctics s'agafa un valor simplificat, com per exemple 3,14159265.
+El nombre π, a més d'aparèixer en la fórmula de la longitud de la circumferència, apareix a totes les equacions matemàtiques derivades d'aquesta: la superfície del cercle, la superfície i el volum de l'esfera… i també en nombroses equacions de física.
+
+
+== Història ==
+
+La història de π transcorre paral·lela al desenvolupament de les matemàtiques com un tot. Alguns autors divideixen el seu desenvolupament en tres períodes:
+el període antic, durant el qual π es va estudiar des d'un punt de vista geomètric;
+l'era clàssica, que neix amb el desenvolupament del càlcul infinitesimal a Europa al voltant del segle xvii;
+l'era dels ordinadors digitals.
+
+
+=== Període antic ===
+Els geòmetres de l'antiguitat, d'Egipte, Babilònia, Índia i Grècia, ja coneixien el fet que la proporció entre el perímetre i el diàmetre és una constant per a totes les circumferències i que és lleugerament més gran que 3. Les aproximacions més antigues conegudes es remunten al 1900 aC; són 25/8 (Babilònia) i 256/81 (Antic Egipte), les dues amb un error de menys de l'1% del valor real. El text indi Shatapatha Brahmana assigna a π el valor 339/108 ≈ 3.139. La Bíblia sembla que suggereixi, en el Primer Llibre dels Reis, que π = 3, d'altra banda una estimació clarament més dolenta que d'altres disponibles a l'època en què es va escriure, cap als 600 aC. La interpretació d'aquest passatge és controvertida.Arquimedes (287-212 aC) va ser el primer que va fer una estimació de π de forma rigorosa. Va adonar-se que la seva magnitud es pot afitar inferiorment i superiorment a còpia d'inscriure i circumscriure polígons regulars en una circumferència, i calculant els perímetres d'aquests polígons:
+Fent servir l'equivalent a polígons de 96 costats, va demostrar que 223/71 < π < 22/7. Agafant la mitjana d'aquests valors s'obté 3,1419.
+
+Més tard, al segle ii aC, Ptolemeu va fer servir un 360-gon regular i va obtenir un valor de 3.141666...., que és correcte fins a la tercera xifra decimal.L'any 1116, el matemàtic català Savasorda, en el seu Llibre de geometria, va usar l'aproximació 377/120 que és la mateixa aproximació que havia obtingut Ptolemeu.Maimònides, al segle xii, afirmà que 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   només es pot conèixer de forma aproximada i que, per tant, el valor de 3 que li assigna la Bíblia era prou exacte per motius religiosos. Alguns han interpretat això com la primera afirmació que 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   és irracional.El 1299, Ramon Llull, al seu llibre De quadratura e triangulatura de cercle, afirmà que amb el compàs no es pot mesurar la circumferència. Deixà escrit:
+
+Aquesta conjectura és equivalent a afirmar que 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   és irracional i, a més a més, és un nombre no construïble.
+
+
+=== Era clàssica ===
+El següent avenç essencial en l'estudi de π arribà amb el desenvolupament del càlcul infinitesimal i, en particular, amb el descobriment de les sèries infinites que, en principi, permeten calcular π amb qualsevol precisió desitjada si s'afegeix una quantitat prou gran de termes. Al voltant del 1400, Madhava de Sangamagrama va trobar la primera d'aquestes sèries:
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        1
+        −
+        
+          
+            1
+            3
+          
+        
+        +
+        
+          
+            1
+            5
+          
+        
+        −
+        
+          
+            1
+            7
+          
+        
+        +
+        ⋯
+        
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=1-{\frac {1}{3}}+{\frac {1}{5}}-{\frac {1}{7}}+\cdots \!}
+  Avui en dia, aquesta sèrie es coneix com la sèrie de Madhava-Leibniz, o la sèrie de Gregory-Leibniz, ja que va ser redescoberta al segle xvii per James Gregory i Gottfried Leibniz. Desgraciadament, a la pràctica la velocitat de convergència és massa lenta per poder calcular gaire xifres; cal sumar al voltant de 4.000 termes per millorar l'estimació d'Arquimedes. Però, transformant la sèrie en
+
+  
+    
+      
+        π
+        =
+        
+          
+            12
+          
+        
+        
+        
+          (
+          
+            1
+            −
+            
+              
+                1
+                
+                  3
+                  ⋅
+                  3
+                
+              
+            
+            +
+            
+              
+                1
+                
+                  5
+                  ⋅
+                  
+                    3
+                    
+                      2
+                    
+                  
+                
+              
+            
+            −
+            
+              
+                1
+                
+                  7
+                  ⋅
+                  
+                    3
+                    
+                      3
+                    
+                  
+                
+              
+            
+            +
+            ⋯
+          
+          )
+        
+        
+      
+    
+    {\displaystyle \pi ={\sqrt {12}}\,\left(1-{\frac {1}{3\cdot 3}}+{\frac {1}{5\cdot 3^{2}}}-{\frac {1}{7\cdot 3^{3}}}+\cdots \right)\!}
+  Madhava fou capaç de calcular π com 3,14159265359, que és correcte en 11 xifres decimals. Aquest record el va batre el matemàtic persa Jamshīd al-Kāshī quan l'any 1424 va determinar 16 decimals de π.
+La primera contribució important europea des d'Arquimedes la va fer el matemàtic alemany Ludolph van Ceulen (1540-1610), que va fer servir un mètode geomètric per calcular 35 decimals de π. Estava tan orgullós d'aquest càlcul, tasca a la que va dedicar la major part de la seva vida, que es va fer gravar les xifres a la seva tomba.Al voltant de la mateixa època, a Europa, van començar a sorgir els mètodes del càlcul infinitesimal, la determinació de sèries infinites i els productes de quantitats geomètriques. La primera representació d'aquesta mena va ser la fórmula de Viète,
+
+  
+    
+      
+        
+          
+            2
+            π
+          
+        
+        =
+        
+          
+            
+              2
+            
+            2
+          
+        
+        ⋅
+        
+          
+            
+              2
+              +
+              
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        ⋅
+        
+          
+            
+              2
+              +
+              
+                
+                  2
+                  +
+                  
+                    
+                      2
+                    
+                  
+                
+              
+            
+            2
+          
+        
+        ⋅
+        ⋯
+        
+      
+    
+    {\displaystyle {\frac {2}{\pi }}={\frac {\sqrt {2}}{2}}\cdot {\frac {\sqrt {2+{\sqrt {2}}}}{2}}\cdot {\frac {\sqrt {2+{\sqrt {2+{\sqrt {2}}}}}}{2}}\cdot \cdots \!}
+  que va trobar François Viète el 1593. Un altre resultat famós és el producte de Wallis,
+
+  
+    
+      
+        
+          
+            π
+            2
+          
+        
+        =
+        
+          
+            2
+            1
+          
+        
+        ⋅
+        
+          
+            2
+            3
+          
+        
+        ⋅
+        
+          
+            4
+            3
+          
+        
+        ⋅
+        
+          
+            4
+            5
+          
+        
+        ⋅
+        
+          
+            6
+            5
+          
+        
+        ⋅
+        
+          
+            6
+            7
+          
+        
+        ⋅
+        
+          
+            8
+            7
+          
+        
+        ⋅
+        
+          
+            8
+            9
+          
+        
+        ⋯
+        
+      
+    
+    {\displaystyle {\frac {\pi }{2}}={\frac {2}{1}}\cdot {\frac {2}{3}}\cdot {\frac {4}{3}}\cdot {\frac {4}{5}}\cdot {\frac {6}{5}}\cdot {\frac {6}{7}}\cdot {\frac {8}{7}}\cdot {\frac {8}{9}}\cdots \!}
+  descobert per John Wallis el 1655. El mateix Isaac Newton va trobar una sèrie per calcular π i va calcular 15 xifres, tot i que més tard va confessar: "Estic avergonyit d'explicar-vos la quantitat de nombres que vaig haver de fer per aquests càlculs, sense tenir altra cosa a fer en aquell temps."Es diu que William Jones al llibre A New Introduction to Mathematics (1706) va ser el primer a fer servir la lletra grega π per representar aquesta constant, però aquesta notació es va popularitzar quan la va adoptar Leonhard Euler el 1737. Va escriure:
+
+
+=== Era informàtica ===
+A principis del segle xx, el matemàtic indi Srinivasa Ramanujan va trobar moltes fórmules per calcular π; algunes destaquen per la seva elegància i profunditat matemàtica. Una de les seves fórmules és la sèrie,
+
+  
+    
+      
+        
+          
+            1
+            π
+          
+        
+        =
+        
+          
+            
+              2
+              
+                
+                  2
+                
+              
+            
+            9801
+          
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              4
+              k
+              )
+              !
+              (
+              1103
+              +
+              26390
+              k
+              )
+            
+            
+              (
+              k
+              !
+              
+                )
+                
+                  4
+                
+              
+              
+                396
+                
+                  4
+                  k
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle {\frac {1}{\pi }}={\frac {2{\sqrt {2}}}{9801}}\sum _{k=0}^{\infty }{\frac {(4k)!(1103+26390k)}{(k!)^{4}396^{4k}}}\!}
+  També cal destacar la sèrie relacionada formulada pels germans Chudnovsky el 1987,
+
+  
+    
+      
+        
+          
+            
+              426880
+              
+                
+                  10005
+                
+              
+            
+            π
+          
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              6
+              k
+              )
+              !
+              (
+              13591409
+              +
+              545140134
+              k
+              )
+            
+            
+              (
+              3
+              k
+              )
+              !
+              (
+              k
+              !
+              
+                )
+                
+                  3
+                
+              
+              (
+              −
+              640320
+              
+                )
+                
+                  3
+                  k
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle {\frac {426880{\sqrt {10005}}}{\pi }}=\sum _{k=0}^{\infty }{\frac {(6k)!(13591409+545140134k)}{(3k)!(k!)^{3}(-640320)^{3k}}}\!}
+  sèrie que genera 14 xifres per a cada terme. A finals dels 1980, els Chudnovsky van fer servir aquesta fórmula per establir uns quants rècords de càlcul de π, entre ells, el primer càlcul de més de mil milions de xifres decimals, exactament 1.011.196.691 xifres, que establiren el 1989. Continua sent la fórmula que es fa servir en els programaris per a calcular π en els ordinadors personals, però no la dels super ordinadors que s'usen per establir els rècords més actuals.
+Mentre que les sèries normalment augmenten la precisió amb una quantitat fixa per a cada terme afegit, hi ha algorismes iteratius que a cada pas "multipliquen" el nombre de xifres correctes. L'any 1975 es va realitzar un progrés significatiu quan Richard Brent i Eugene Salamin, de manera independent l'un de l'altre, van descobrir l'algorisme de Brent-Salamin, que només fa servir aritmètica per doblar el nombre de xifres correctes a cada pas. L'algorisme consisteix a establir
+
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        =
+        1
+        
+        
+        
+        
+          b
+          
+            0
+          
+        
+        =
+        
+          
+            1
+            
+              2
+            
+          
+        
+        
+        
+        
+        
+          t
+          
+            0
+          
+        
+        =
+        
+          
+            1
+            4
+          
+        
+        
+        
+        
+        
+          p
+          
+            0
+          
+        
+        =
+        1
+        
+      
+    
+    {\displaystyle a_{0}=1\quad \quad \quad b_{0}={\frac {1}{\sqrt {2}}}\quad \quad \quad t_{0}={\frac {1}{4}}\quad \quad \quad p_{0}=1\!}
+  i iterar
+
+  
+    
+      
+        
+          a
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          
+            
+              
+                a
+                
+                  n
+                
+              
+              +
+              
+                b
+                
+                  n
+                
+              
+            
+            2
+          
+        
+        
+        
+        
+        
+          b
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          
+            
+              a
+              
+                n
+              
+            
+            
+              b
+              
+                n
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle a_{n+1}={\frac {a_{n}+b_{n}}{2}}\quad \quad \quad b_{n+1}={\sqrt {a_{n}b_{n}}}\!}
+  
+
+  
+    
+      
+        
+          t
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          t
+          
+            n
+          
+        
+        −
+        
+          p
+          
+            n
+          
+        
+        (
+        
+          a
+          
+            n
+          
+        
+        −
+        
+          a
+          
+            n
+            +
+            1
+          
+        
+        
+          )
+          
+            2
+          
+        
+        
+        
+        
+        
+          p
+          
+            n
+            +
+            1
+          
+        
+        =
+        2
+        
+          p
+          
+            n
+          
+        
+        
+      
+    
+    {\displaystyle t_{n+1}=t_{n}-p_{n}(a_{n}-a_{n+1})^{2}\quad \quad \quad p_{n+1}=2p_{n}\!}
+  fins que an i bn estan prou a prop. Llavors l'estimació de π ve donada per
+
+  
+    
+      
+        π
+        ≈
+        
+          
+            
+              (
+              
+                a
+                
+                  n
+                
+              
+              +
+              
+                b
+                
+                  n
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+            
+              4
+              
+                t
+                
+                  n
+                
+              
+            
+          
+        
+        .
+        
+      
+    
+    {\displaystyle \pi \approx {\frac {(a_{n}+b_{n})^{2}}{4t_{n}}}.\!}
+  Fent servir aquest sistema, amb 25 iteracions n'hi ha prou per obtenir 45 milions de decimals correctes. Jonathan i Peter Borwein van trobar un algorisme similar que quadruplica l'exactitud a cada pas.Més recentment, un important contribució va ser la fórmula de Bailey–Borwein–Plouffe (fórmula BBP), descoberta per Simon Plouffe, anomenada així en honor dels autors de l'article on per primer cop es va publicar la fórmula: Bailey, Borwein i Plouffe.La fórmula,
+
+  
+    
+      
+        π
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              16
+              
+                k
+              
+            
+          
+        
+        
+          (
+          
+            
+              
+                4
+                
+                  8
+                  k
+                  +
+                  1
+                
+              
+            
+            −
+            
+              
+                2
+                
+                  8
+                  k
+                  +
+                  4
+                
+              
+            
+            −
+            
+              
+                1
+                
+                  8
+                  k
+                  +
+                  5
+                
+              
+            
+            −
+            
+              
+                1
+                
+                  8
+                  k
+                  +
+                  6
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \pi =\sum _{k=0}^{\infty }{\frac {1}{16^{k}}}\left({\frac {4}{8k+1}}-{\frac {2}{8k+4}}-{\frac {1}{8k+5}}-{\frac {1}{8k+6}}\right),}
+  és singular perquè permet trobar qualsevol dígit individual hexadecimal o binari de π sense haver de calcular tots els precedents. Entre el 1998 i el 2000, el projecte de computació distribuïda PiHex va fer servir una modificació de la fórmula BBP deguda a Fabrice Bellard (fórmula de Bellard) per calcular el bit de π en posició mil bilions (1015), que va resultar ser 0. El setembre de 2010, un empleat de Yahoo! utilitzà l'aplicació Hadoop en mil ordinadors durant un període de 23 dies per calcular 256 bits de π al bit en posició dos mil bilions (2×1015).La xifra més gran fins a la data és de 5 bilions de decimals, assolida el 2010 per l'estudiant nord-americà Alexander Yi i l'investigador japonès Shigeru Kondo.
+
+
+== Definició ==
+En geometria euclidiana, π es defineix com la proporció entre el perímetre (P) d'una circumferència i el seu diàmetre (d) :
+
+  
+    
+      
+        π
+        =
+        
+          
+            P
+            d
+          
+        
+      
+    
+    {\displaystyle \pi ={\frac {P}{d}}}
+  El fet que aquesta proporció sigui constant, independentment de la mida de la circumferència, és el que permet que π es pugui definir. Per exemple, si una circumferència té un diàmetre doble que un altre també té doble perímetre, per tant el quocient entre les dues magnituds és el mateix. Això és una conseqüència de les propietats de les figures semblants. Euclides estableix que en les figures semblants totes les distàncies entre els punts homòlegs guarden la mateixa proporció.
+Una forma alternativa de definir π és emprant la proporció entre l'àrea del cercle (A) i l'àrea del quadrat que té els costats de la mateixa longitud que el radi:
+
+  
+    
+      
+        π
+        =
+        
+          
+            A
+            
+              r
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \pi ={\frac {A}{r^{2}}}.}
+  Aquesta definició es basa en el fet que les àrees dels cercles són proporcionals als quadrats dels radis. Per exemple, en duplicar el radi l'àrea del seu quadrat es multiplica per 4, però també es multiplica per 4 l'àrea del cercle, de forma que el quocient es manté constant.Aquestes definicions depenen de la geometria; de fet, en les demostracions es fa servir el cinquè postulat d'Euclides. En geometria no euclidiana les proporcionalitats no es mantenen i el quocient entre el perímetre de la circumferència i el seu diàmetre es modifica en variar el diàmetre.
+Per aquest motiu els matemàtics sovint prefereixen definir π sense fer referència a qüestions geomètriques; en comptes d'això, per definir-lo es tria una de les seves propietats analítiques. Una elecció habitual per definir π és: el doble del valor positiu d'x per al qual la funció trigonomètrica és cos(x) = 0. En aquest article es donen moltes altres fórmules per calcular π que també es poden fer servir com a definició.
+
+
+== Fórmules relacionades amb π ==
+
+
+=== Geometria ===
+Relacionades amb la circumferència i amb el cercle.
+Perímetre de la circumferència de radi r: P = 2 π r
+Àrea del cercle de radi r: A = π r²
+Angles: 180 graus són equivalents a π radians
+Relacionades amb l'el·lipse
+Àrea de l'el·lipse amb semieixos a i b: A = π ab
+Relacionades amb l'esfera.
+Volum de l'esfera de radi r: V = (4/3) π r3
+Àrea de superfície d'una esfera de radi r: A = 4 π r²
+Relacionades amb el cilindre.
+El volum del cilindre d'altura h i radi de la base r és V = 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   r 2 h
+L'àrea de la superfície del cilindre d'altura h i radi de la base r és A = 2 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   r 2 + 2 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   r h
+Relacionades amb el conus.
+Volum del conus de radi de la base r i altura h. V = (1/3) 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  r 2 h
+Àrea de la superfície del conus de radi de la base r i altura h. A = 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   r (r + √ (h 2 + r 2))Ès va descobrir en l'any 1345 a.C
+
+
+=== Anàlisi ===
+
+  
+    
+      
+        
+          
+            1
+            1
+          
+        
+        −
+        
+          
+            1
+            3
+          
+        
+        +
+        
+          
+            1
+            5
+          
+        
+        −
+        
+          
+            1
+            7
+          
+        
+        +
+        
+          
+            1
+            9
+          
+        
+        −
+        ⋯
+        =
+        
+          
+            π
+            4
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{1}}-{\frac {1}{3}}+{\frac {1}{5}}-{\frac {1}{7}}+{\frac {1}{9}}-\cdots ={\frac {\pi }{4}}}
+   (Fórmula de Leibniz)
+  
+    
+      
+        
+          
+            2
+            1
+          
+        
+        ⋅
+        
+          
+            2
+            3
+          
+        
+        ⋅
+        
+          
+            4
+            3
+          
+        
+        ⋅
+        
+          
+            4
+            5
+          
+        
+        ⋅
+        
+          
+            6
+            5
+          
+        
+        ⋅
+        
+          
+            6
+            7
+          
+        
+        ⋅
+        
+          
+            8
+            7
+          
+        
+        ⋅
+        
+          
+            8
+            9
+          
+        
+        ⋯
+        =
+        
+          
+            π
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {2}{1}}\cdot {\frac {2}{3}}\cdot {\frac {4}{3}}\cdot {\frac {4}{5}}\cdot {\frac {6}{5}}\cdot {\frac {6}{7}}\cdot {\frac {8}{7}}\cdot {\frac {8}{9}}\cdots ={\frac {\pi }{2}}}
+   (producte de Wallis)
+  
+    
+      
+        ζ
+        (
+        2
+        )
+        =
+        
+          
+            1
+            
+              1
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              2
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              3
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              4
+              
+                2
+              
+            
+          
+        
+        +
+        ⋯
+        =
+        
+          
+            
+              π
+              
+                2
+              
+            
+            6
+          
+        
+      
+    
+    {\displaystyle \zeta (2)={\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+{\frac {1}{4^{2}}}+\cdots ={\frac {\pi ^{2}}{6}}}
+   (Euler)
+  
+    
+      
+        ζ
+        (
+        4
+        )
+        =
+        
+          
+            1
+            
+              1
+              
+                4
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              2
+              
+                4
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              3
+              
+                4
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              4
+              
+                4
+              
+            
+          
+        
+        +
+        ⋯
+        =
+        
+          
+            
+              π
+              
+                4
+              
+            
+            90
+          
+        
+      
+    
+    {\displaystyle \zeta (4)={\frac {1}{1^{4}}}+{\frac {1}{2^{4}}}+{\frac {1}{3^{4}}}+{\frac {1}{4^{4}}}+\cdots ={\frac {\pi ^{4}}{90}}}
+  
+  
+    
+      
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+        d
+        x
+        =
+        
+          
+            π
+          
+        
+      
+    
+    {\displaystyle \int _{-\infty }^{\infty }e^{-x^{2}}dx={\sqrt {\pi }}}
+   (integral de Gauss)
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              1
+              2
+            
+          
+          )
+        
+        =
+        
+          
+            π
+          
+        
+      
+    
+    {\displaystyle \Gamma \left({1 \over 2}\right)={\sqrt {\pi }}}
+  
+  
+    
+      
+        n
+        !
+        ≈
+        
+          
+            2
+            π
+            n
+          
+        
+        
+          
+            (
+            
+              
+                n
+                e
+              
+            
+            )
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle n!\approx {\sqrt {2\pi n}}\left({\frac {n}{e}}\right)^{n}}
+   (Fórmula de Stirling)
+  
+    
+      
+        
+          e
+          
+            π
+            i
+          
+        
+        +
+        1
+        =
+        0
+        
+      
+    
+    {\displaystyle e^{\pi i}+1=0\;}
+   (Identitat d'Euler)La representació de π en fracció contínua no presenta cap patró evident:
+
+  
+    
+      
+        π
+        =
+        [
+        3
+        ;
+        7
+        ,
+        15
+        ,
+        1
+        ,
+        292
+        ,
+        1
+        ,
+        1
+        ,
+        1
+        ,
+        2
+        ,
+        1
+        ,
+        3
+        ,
+        1
+        ,
+        14
+        ,
+        2
+        ,
+        1
+        ,
+        1
+        ,
+        2
+        ,
+        2
+        ,
+        2
+        ,
+        2
+        ,
+        1
+        ,
+        84
+        ,
+        ⋯
+        ]
+      
+    
+    {\displaystyle \pi =[3;7,15,1,292,1,1,1,2,1,3,1,14,2,1,1,2,2,2,2,1,84,\cdots ]}
+  
+o
+
+  
+    
+      
+        π
+        =
+        3
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  7
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            15
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                1
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                292
+                                                +
+                                                
+                                                  
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          1
+                                                        
+                                                      
+                                                    
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          1
+                                                          +
+                                                          ⋱
+                                                        
+                                                      
+                                                    
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \pi =3+{\cfrac {1}{7+{\cfrac {1}{15+{\cfrac {1}{1+{\cfrac {1}{292+{\cfrac {1}{1+\ddots }}}}}}}}}}}
+  En canvi hi ha fraccions contínues generalitzades de π amb una estructura perfectament regular, com ara:
+
+  
+    
+      
+        π
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  4
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              1
+                              
+                                2
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            2
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      
+                                        3
+                                        
+                                          2
+                                        
+                                      
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      2
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                
+                                                  5
+                                                  
+                                                    2
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                2
+                                                +
+                                                
+                                                  
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          
+                                                            7
+                                                            
+                                                              2
+                                                            
+                                                          
+                                                        
+                                                      
+                                                    
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          2
+                                                          +
+                                                          
+                                                            
+                                                              
+                                                                
+                                                                  
+                                                                
+                                                                
+                                                                  
+                                                                    
+                                                                      9
+                                                                      
+                                                                        2
+                                                                      
+                                                                    
+                                                                  
+                                                                
+                                                              
+                                                              
+                                                                
+                                                                  
+                                                                
+                                                                
+                                                                  
+                                                                    2
+                                                                    +
+                                                                    ⋱
+                                                                  
+                                                                
+                                                              
+                                                            
+                                                          
+                                                        
+                                                      
+                                                    
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        =
+        3
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  
+                    1
+                    
+                      2
+                    
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  6
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              3
+                              
+                                2
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            6
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      
+                                        5
+                                        
+                                          2
+                                        
+                                      
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      6
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                
+                                                  7
+                                                  
+                                                    2
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                6
+                                                +
+                                                
+                                                  
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          
+                                                            9
+                                                            
+                                                              2
+                                                            
+                                                          
+                                                        
+                                                      
+                                                    
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          6
+                                                          +
+                                                          ⋱
+                                                        
+                                                      
+                                                    
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  4
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              1
+                              
+                                2
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            3
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      
+                                        2
+                                        
+                                          2
+                                        
+                                      
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      5
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                
+                                                  3
+                                                  
+                                                    2
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                7
+                                                +
+                                                
+                                                  
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          
+                                                            4
+                                                            
+                                                              2
+                                                            
+                                                          
+                                                        
+                                                      
+                                                    
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          9
+                                                          +
+                                                          ⋱
+                                                        
+                                                      
+                                                    
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \pi ={\cfrac {4}{1+{\cfrac {1^{2}}{2+{\cfrac {3^{2}}{2+{\cfrac {5^{2}}{2+{\cfrac {7^{2}}{2+{\cfrac {9^{2}}{2+\ddots }}}}}}}}}}}}=3+{\cfrac {1^{2}}{6+{\cfrac {3^{2}}{6+{\cfrac {5^{2}}{6+{\cfrac {7^{2}}{6+{\cfrac {9^{2}}{6+\ddots }}}}}}}}}}={\cfrac {4}{1+{\cfrac {1^{2}}{3+{\cfrac {2^{2}}{5+{\cfrac {3^{2}}{7+{\cfrac {4^{2}}{9+\ddots }}}}}}}}}}}
+  
+
+
+=== Teoria de nombres ===
+La probabilitat que dos nombres triats aleatòriament siguin coprimers és de 6/π².
+La probabilitat que un enter triat aleatòriament no tingui cap factor primer elevat a una potència superior a 1 (sigui lliure de quadrats) és de 6/π².
+
+
+== Probabilitat ==
+Hi ha diverses formes empíriques de trobar el valor de π: dibuixeu un quadrat de costat 1 a la paret. Tireu un dard dins el quadrat tantes vegades com pugueu sense apuntar enlloc més que a dins del quadrat. Dibuixeu un cercle de diàmetre 'l' inscrit en el quadrat. Compteu 'nc' el nombre de vegades que el dard ha anat dins la circumferència, i 'nq' nombre de vegades que el dard ha anat dins del quadrat però fora de la circumferència. Per probabilitat i relacionant l'àrea dels dos polígons es pot deduir que π ≅ 4*nc/(nc+nq), i que és més exacte –o sigui, apareixen més decimals–, com més vegades hàgim tirat el dard. Aquesta prova també es pot fer sobre paper quadriculat comptant les interseccions com a punts on ha anat el dard.
+En altres paraules: π/4 és la probabilitat que la suma dels quadrats de dos nombres aleatoris iguals o majors que 0, i menors o iguals a la unitat, sia menor o igual que 1.
+Aquest i d'altres mètodes empírics per aproximar π foren descrits pel matemàtic francès Georges-Louis Leclerc, comte de Buffon.
+
+
+== Aproximacions de pi ==
+
+
+=== Aproximacions històriques ===
+
+A la següent taula es presenten algunes aproximacions històriques de valors de π:
+
+
+=== Aproximacions emprant ordinadors ===
+
+
+== Primeres mil xifres del nombre pi ==
+Aquestes són les primeres mil xifres del nombre pi:3,
+1415926535 8979323846 2643383279 5028841971 6939937510
+5820974944 5923078164 0628620899 8628034825 3421170679
+8214808651 3282306647 0938446095 5058223172 5359408128
+4811174502 8410270193 8521105559 6446229489 5493038196
+4428810975 6659334461 2847564823 3786783165 2712019091
+4564856692 3460348610 4543266482 1339360726 0249141273
+7245870066 0631558817 4881520920 9628292540 9171536436
+7892590360 0113305305 4882046652 1384146951 9415116094
+3305727036 5759591953 0921861173 8193261179 3105118548
+0744623799 6274956735 1885752724 8912279381 8301194912
+9833673362 4406566430 8602139494 6395224737 1907021798
+6094370277 0539217176 2931767523 8467481846 7669405132
+0005681271 4526356082 7785771342 7577896091 7363717872
+1468440901 2249534301 4654958537 1050792279 6892589235
+4201995611 2129021960 8640344181 5981362977 4771309960
+5187072113 4999999837 2978049951 0597317328 1609631859
+5024459455 3469083026 4252230825 3344685035 2619311881
+7101000313 7838752886 5875332083 8142061717 7669147303
+5982534904 2875546873 1159562863 8823537875 9375195778
+1857780532 1712268066 1300192787 6611195909 2164201989
+
+
+=== Punt de Feynman ===
+El Punt de Feynman es refereix als dígits decimals del nombre π entre les posicions 762 i 767, que consisteix en una sèxtuple repetició del nombre 9. Com que π és un nombre irracional amb una expansió decimal infinita no repetitiva que podria ser normal, és possible esperar l'existència de qualsevol seqüència de dígits tard o d'hora. No obstant això, la primerenca aparició de la seqüència després de tan relativament poques posicions converteixen el punt de Feynman en una curiositat matemàtica. El nom es refereix a un comentari del físic Richard Feynman, en què va dir que volia memoritzar els dígits de π fins a aquest punt, per poder acabar de recitar dient «... nou, nou, nou, nou, nou, nou, i així seguidament.» En comparació, la següent seqüència de 6 dígits decimals repetits comença amb el nombre 8 en la posició 222.299. Dels dígits restants, el més tardà a aparèixer per sextuplicat és el 0, en la posició 1.699.927.
+
+
+== Propietats ==
+
+
+=== Irracionalitat ===
+El 1761 Johann Heinrich Lambert va demostrar que π és irracional. Això vol dir que és un nombre real que no es pot expressar com a quocient de dos nombres enters. Al segle xx es van trobar demostracions que no necessiten coneixements que vagin mès enllà del càlcul integral. Una d'aquestes demostracions, la deguda a Ivan Niven, és amplament coneguda. Una demostració similar lleugerament anterior la va obtenir Mary Cartwright.
+
+
+=== Transcendència ===
+A més, π també és un nombre transcendent, tal com ho va demostrar Ferdinand von Lindemann el 1882 i a conseqüència del teorema de Lindemann-Weierstrass. Això vol dir que no hi ha cap polinomi amb coeficients racionals tal que π sigui una de les seves arrels. Una conseqüència important del fet que π sigui transcendent és que no és construïble. Com que les coordenades de tots els punts que es poden construir amb regle i compàs són nombres constructibles, és impossible de quadrar el cercle: és a dir, és impossible, fent servir només compàs i regle, construir un quadrat tal que la seva àrea sigui igual que l'àrea d'un cercle donat. Històricament, això és significatiu, atès que la quadratura del cercle és un dels problemes fàcils d'entendre de geometria elemental que van quedar pendents de resoldre de l'antiguitat.
+
+
+=== Qüestions obertes ===
+La qüestió oberta més estudiada sobre π és si és o no un nombre normal—si qualsevol successió de xifres de l'expressió de π es dona amb la freqüència que s'esperaria d'una successió completament "aleatòria", i si això és cert en qualsevol base, no només en base 10. El que se sap actualment d'aquest tema és molt feble; és a dir, ni tan sols se sap si algun dels dígits 0,…,9 apareix infinites vegades en l'expressió decimal de π.Bailey i Crandall van demostrar l'any 2000 que l'existència de la fórmula de Bailey-Borwein-Plouffe (Fórmula que permet calcular directament qualsevol xifra de l'expressió decimal de pi sense haver de calcular primer les xifres anteriors) implica que la normalitat en base 2 de π i d'unes quantes constants més es pot reduir a una conjectura plausible de la teoria del caos.Tampoc se sap si π i e són algebraicament independents, tot i que Yuri Nesterenko va demostrar la independència algebraica de {π, eπ, Γ (1/4)} el 1996.
+
+
+== Aplicacions en matemàtiques i física ==
+π apareix a tot arreu en matemàtiques, fins i tot en llocs on no hi ha cap connexió òbvia amb les circumferències de la geometria euclidiana.
+
+
+=== Geometria i trigonometria ===
+Per a qualsevol circumferència amb radi r i diàmetre d = 2r, el perímetre és πd i l'àrea és πr². A més, π apareix en fórmules d'àrees i volums de moltes altres formes geomètriques basades en circumferències, com el·lipses, esferes Cons, i torus. En conseqüència, π apareix en les integrals definides que calculen el perímetre, l'àrea o el volum de formes generades per circumferències. En el cas més elemental, la meitat de l'àrea del cercle de radi unitat ve donat per:
+
+  
+    
+      
+        
+          ∫
+          
+            −
+            1
+          
+          
+            1
+          
+        
+        
+          
+            1
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+        
+        d
+        x
+        =
+        
+          
+            π
+            2
+          
+        
+      
+    
+    {\displaystyle \int _{-1}^{1}{\sqrt {1-x^{2}}}\,dx={\frac {\pi }{2}}}
+  i
+
+  
+    
+      
+        
+          ∫
+          
+            −
+            1
+          
+          
+            1
+          
+        
+        
+          
+            1
+            
+              1
+              −
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        
+        d
+        x
+        =
+        π
+      
+    
+    {\displaystyle \int _{-1}^{1}{\frac {1}{\sqrt {1-x^{2}}}}\,dx=\pi }
+  dona la meitat del perímetre de la circumferència de radi unitat. Formes geomètriques més complicades es poden integrar com sòlids de revolució.A partir de la definició de les funcions trigonomètriques basada en la circumferència goniomètrica resulta que el sinus i el cosinus tenen el període 2π (si l'angle s'expressa en radians). És a dir, per a tot x real i tot n enter, sin(x) = sin(x + 2πn) i cos(x) = cos(x + 2πn). Com que sin(0) = 0, sin(2πn) = 0 per a tot n enter. També, la mesura de l'angle de 180° és igual a π radians. En altres paraules, 1° = (π/180) radians.
+
+
+=== Nombres complexos i càlcul infinitesimal ===
+L'aparició freqüent de π en l'anàlisi complexa es pot relacionar amb el comportament de la funció exponencial de variable complexa, que descriu la fórmula d'Euler
+
+  
+    
+      
+        
+          e
+          
+            i
+            φ
+          
+        
+        =
+        cos
+        ⁡
+        φ
+        +
+        i
+        sin
+        ⁡
+        φ
+        
+      
+    
+    {\displaystyle e^{i\varphi }=\cos \varphi +i\sin \varphi \!}
+  on i és la unitat imaginària que satisfà i² = −1 i e ≈ 2.71828 és el nombre d'Euler. Aquesta fórmula implica que les potències imaginàries d'e descriuen rotacions en la circumferència goniomètrica en el pla complex; aquestes rotacions tenen un període de 360° = 2π. En particular, la rotació de 180° φ = π ocasiona la notable identitat d'Euler
+
+  
+    
+      
+        
+          e
+          
+            i
+            π
+          
+        
+        =
+        −
+        1.
+        
+      
+    
+    {\displaystyle e^{i\pi }=-1.\!}
+  Hi ha n arrels de la unitat n-èsimes diferents
+
+  
+    
+      
+        
+          e
+          
+            2
+            π
+            i
+            k
+            
+              /
+            
+            n
+          
+        
+        
+        (
+        k
+        =
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        ,
+        n
+        −
+        1
+        )
+        .
+      
+    
+    {\displaystyle e^{2\pi ik/n}\qquad (k=0,1,2,\dots ,n-1).}
+  La Integral de Gauß
+
+  
+    
+      
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+        d
+        x
+        =
+        
+          
+            π
+          
+        
+        .
+      
+    
+    {\displaystyle \int _{-\infty }^{\infty }e^{-x^{2}}dx={\sqrt {\pi }}.}
+  Una conseqüència és que la funció gamma de la meitat d'un enter és un múltiple racional de √π.
+
+
+=== Física ===
+Encara que no és una constant física, π apareix freqüentment en equacions que descriuen principis fonamentals de l'Univers, degut en gran part a la seva relació amb la circumferència, i en conseqüència amb els sistemes de coordenades esfèriques. Fent servir unitats com ara les Unitats de Planck a vegades poden eliminar de π fórmules.
+
+La Constant cosmològica:
+  
+    
+      
+        Λ
+        =
+        
+          
+            
+              8
+              π
+              G
+            
+            
+              3
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+        ρ
+      
+    
+    {\displaystyle \Lambda ={{8\pi G} \over {3c^{2}}}\rho }
+  El Principi d'incertesa de Heisenberg, que estableix que la incertesa en la mesura de la posició d'una partícula (Δx) i la seva Quantitat de moviment (Δp) no es poden fer arbitràriament petites totes dues al mateix temps:
+  
+    
+      
+        Δ
+        x
+        
+        Δ
+        p
+        ≥
+        
+          
+            h
+            
+              4
+              π
+            
+          
+        
+      
+    
+    {\displaystyle \Delta x\,\Delta p\geq {\frac {h}{4\pi }}}
+  Les Equacions de camp d'Einstein de la relativitat general:
+  
+    
+      
+        
+          R
+          
+            i
+            k
+          
+        
+        −
+        
+          
+            
+              
+                g
+                
+                  i
+                  k
+                
+              
+              R
+            
+            2
+          
+        
+        +
+        Λ
+        
+          g
+          
+            i
+            k
+          
+        
+        =
+        
+          
+            
+              8
+              π
+              G
+            
+            
+              c
+              
+                4
+              
+            
+          
+        
+        
+          T
+          
+            i
+            k
+          
+        
+      
+    
+    {\displaystyle R_{ik}-{g_{ik}R \over 2}+\Lambda g_{ik}={8\pi G \over c^{4}}T_{ik}}
+  La llei de Coulomb del Camp elèctric, que descriu la força entre dues càrregues elèctriques] (q1 i q₂) separades una distància r:
+  
+    
+      
+        F
+        =
+        
+          
+            
+              |
+              
+                
+                  q
+                  
+                    1
+                  
+                
+                
+                  q
+                  
+                    2
+                  
+                
+              
+              |
+            
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+              
+                r
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle F={\frac {\left|q_{1}q_{2}\right|}{4\pi \varepsilon _{0}r^{2}}}}
+  La constant magnètica:
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+        =
+        4
+        π
+        ⋅
+        
+          10
+          
+            −
+            7
+          
+        
+        
+        
+          N
+          
+            /
+          
+          
+            A
+            
+              2
+            
+          
+        
+        
+      
+    
+    {\displaystyle \mu _{0}=4\pi \cdot 10^{-7}\,\mathrm {N/A^{2}} \,}
+  La constant de la tercera llei de Kepler, referent al període orbital (P) i al semieix major (a) a les masses (M and m) dels dos cossos orbitals:
+  
+    
+      
+        
+          
+            
+              P
+              
+                2
+              
+            
+            
+              a
+              
+                3
+              
+            
+          
+        
+        =
+        
+          
+            
+              (
+              2
+              π
+              
+                )
+                
+                  2
+                
+              
+            
+            
+              G
+              (
+              M
+              +
+              m
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {P^{2}}{a^{3}}}={(2\pi )^{2} \over G(M+m)}}
+  
+
+
+=== Probabilitat i estadística ===
+En probabilitat i estadística, hi ha moltes distribucions de probabilitat les fórmules de les quals contenen π, per exemple:
+
+la Funció de densitat de probabilitat de la Distribució normal de mitjana μ i desviació estàndard σ, degut a la integral de Gauß:
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            1
+            
+              σ
+              
+                
+                  2
+                  π
+                
+              
+            
+          
+        
+        
+        
+          e
+          
+            −
+            (
+            x
+            −
+            μ
+            
+              )
+              
+                2
+              
+            
+            
+              /
+            
+            (
+            2
+            
+              σ
+              
+                2
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle f(x)={1 \over \sigma {\sqrt {2\pi }}}\,e^{-(x-\mu )^{2}/(2\sigma ^{2})}}
+  la funció densitat de probabilitat de la distribució de Cauchy (estàndard):
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            1
+            
+              π
+              (
+              1
+              +
+              
+                x
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle f(x)={\frac {1}{\pi (1+x^{2})}}.}
+  Fixeu-vos que com que 
+  
+    
+      
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        =
+        1
+      
+    
+    {\displaystyle \int _{-\infty }^{\infty }f(x)\,dx=1}
+   per totes les funcions densitat de probabilitat f(x), les fórmules anteriors es poden fer servir per obtenir altres fórmules integrals on intervé π.El problema de les agulles de Buffon s'esmenta de vegades com a aproximació empírica de π. Es tracta de deixar caure una agulla de llargada L repetidament sobre una superfície que conté línies paral·leles dibuixades separades entre elles una distància S (amb S > L). Si l'agulla es deixa caure n vegades i x d'aquestes vegades cau creuant una línia (x > 0), llavors es pot aproximar π fent servir el mètode de Monte Carlo:
+
+  
+    
+      
+        π
+        ≈
+        
+          
+            
+              2
+              n
+              L
+            
+            
+              x
+              S
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \pi \approx {\frac {2nL}{xS}}.}
+  Encara que aquest resultat és matemàticament impecable, no es pot fer servir per determinar més que molt pocs dígits de π experimentalment. Obtenir de manera fiable només tres dígits (incloent-hi l'inicial "3") exigeix milions de tirades, i el nombre de llançaments augmenta exponencialment amb el nombre de dígits desitjats. A més, qualsevol error en la mesura de les llargades L i S es transferirà directament a un error en l'aproximació de π. Per exemple, una diferència d'un únic àtom en la llargada d'una agulla de 10 centímetres apareixeria al voltant del 9è dígit del resultat. En la pràctica, les incerteses de determinar si l'agulla creua o no una línia quan sembla tocar-la exactament, limitaran la precisió realitzable a molt menys de 9 dígits.
+
+
+== Referències culturals i curiositats ==
+El 14 de març se celebra internacionalment el dia pi amb activitats escolars i als museus de ciències i altres centres de divulgació de les matemàtiques. Aquesta data en el format de calendari mes/dia és 3/14, els 3 dígits més significatius de l'expressió en base 10 de π.
+Llei d'Indiana Pi: El valor 3,2 pel nombre π va estar a punt de ser imposat per llei a l'estat d'Indiana. Es va tramitar el projecte de llei 246 de 1897 a instàncies del matemàtic aficionat Edward J. Goodwin que reivindicava haver trobat el mètode de la quadratura del cercle. El projecte de llei va obtenir l'informe favorable del comitè d'educació. L'aprovació es va ajornar a causa de la intervenció del professor de matemàtiques C. A. Waldo que accidentalment estava de visita. Actualment la tramitació de la llei encara no s'ha completat i continua pendent d'aprovació.
+A Argentina, el nombre telefònic mòbil per emergències en estacions de trens i soterranis és una aproximació del nombre pi: 3,1416.
+Hi ha un vehicle Mazda 3 modificat, al qual se li van afegir 27 xifres de π, després del 3.
+Els anomenats piemes són poemes compostos de forma que el nombre de lletres de les successives paraules coincideixin amb les xifres del nombre pi, per exemple el següent poema: Ell i ella, l'única esperança de tindre fills que tenen, romandrà soterrada aquesta primavera. Fixeu-vos que la primera paraula té 3 lletres, la segona 1 i així successivament s'obtenen les xifres: 3,14159265358979 La Cadaeic Cadenza és un llibre que conté les primeres 3834 xifres de π d'aquesta forma.
+Des de molt abans que els ordinadors permetessin calcular gran quantitat de xifres de π, memoritzar una quantitat rècord d'aquestes xifres esdevingué una obsessió per algunes persones. El 2006, Akira Haraguchi, un enginyer japonès retirat, va reivindicar haver recitat 100,000 xifres decimals. Però això no ha estat verificat encara pel llibre Guinness dels rècords. El record reconegut pel Guinness de memorització de xifres de π és 67,890 xifres, i el té Lu Chao, un estudiant xinès graduat de 24 anys. Va trigar 24 hores i 4 minuts per recitar fins al 67,890è decimal de π sense cap error.
+Darrerament s'han fet simfonies basades en diferents constants matemàtiques, assignant a cada nombre decimal una determinada nota.
+Si π és un nombre normal, és natural trobar en els decimals de π qualsevol seqüència de nombres, encara que de vegades alguna sigui sorprenent. assenyala per exemple que la suma dels 20 primers decimals de π dona 100 i que la suma dels 144 primers decimals dona 666 però precisa que no cal veure-hi cap missatge amagat. Altres autors tanmateix són menys prudents. Així Robert Gold, aficionat a la geometria, afirma haver trobat, amb l'ajuda de càlculs complicats, que les paraules claus de la Bíblia estan a π.
+
+
+== Referències ==
+
+
+== Vegeu també ==
+Nombre aleatori
+Dia Pi
+Punt de Feynman
+Llista de fórmules amb π
+Daniel Tammet
+
+
+== Bibliografia ==
+Jean-Paul Delahaye. Le fascinant nombre π, Éditions Belin, Pour la Science - ISBN 2-9029-1825-9 (en francès)
+Pierre Eymard, Jean-Pierre Lafon. Autour du nombre Pi, Éditions Hermann, París, 1999 - ISBN 2705614435 (en francès)
+Jörg Arndt & Christoph Haenel. À la poursuite de π, Éditions Vuibert, 2006 - ISBN 2-7117-7170-9 (en francès)
+
+
+== Enllaços externs ==
+Nombroses informacions històriques i matemàtiques sobre PI (francès) (anglès)
+Distribució estadística de les xifres decimals de π basada en 1.2 trilions de dígits Arxivat 2010-01-09 a Wayback Machine. (anglès)
+The Joy of Pi, by David Blatner; enllaços, curiositats, i altres materials (anglès)

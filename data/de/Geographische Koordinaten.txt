@@ -1,0 +1,74 @@
+Die geographischen Koordinaten sind Kugelkoordinaten, mit denen sich die Lage eines Punktes auf der Erdoberfläche beschreiben lässt. Die geographische Breite wird vom Äquator  aus nach Norden (0° bis 90° Nord am Nordpol) und Süden (0° bis 90° Süd am Südpol) gemessen, die geographische Länge vom Nullmeridian aus von 0° bis 180° gegen Osten und von 0° bis 180° gegen Westen. Breitenkreise (Linien konstanter Breite) verlaufen parallel zum Äquator, Längenkreise (Linien konstanter Länge) durch Nord- und Südpol.
+
+
+== Koordinatensystem ==
+Das Gradnetz der Erde ist ein konstruiertes Koordinatensystem auf der Erdoberfläche, mit sich rechtwinklig schneidenden Längen- und Breitenkreisen. Die Grundlage seiner Festlegung ist die reale Erddrehung, die eine Achse mit Nord- und Südpol sowie den senkrecht zum Achsenmittelpunkt um die Erde verlaufenden Äquator vorgibt. Das Gradnetz dient zur geographischen Ortsbestimmung, das heißt zur Festlegung eines Standorts. Die Breitengrade werden dabei vom Äquator aus gezählt, die Pole liegen bei 90° Nord und Süd, die Längengrade werden von einem willkürlich festgelegten Nullmeridian nach Osten und Westen bis jeweils 180° gezählt. Die Festlegung der Winkel ist dem in der Mathematik üblichen Kugelkoordinatensystem entgegengesetzt.
+Bis zum 20. Jahrhundert waren neben dem heute verwendeten Meridian von Greenwich unterschiedliche Nullmeridiane in verschiedenen Ländern gebräuchlich, z. B. der Ferro-Meridian und der Meridian von Paris.
+Bei Koordinatenangaben ist zu beachten, dass die Erde keine Kugel ist, sondern einem Ellipsoid ähnelt. Dies bewirkt eine Verschiebung bis zu 20 km. Aufgrund fortschreitender Erkenntnis zur Erdform und zum Schwerefeld (Geoid) wurden national unterschiedliche Referenzen angewendet. Koordinaten haben daher immer ein bestimmtes Bezugssystem. International wird heute meist das World Geodetic System 1984 (WGS84) benutzt.
+
+
+== Darstellung von geographischen Koordinaten ==
+Geografische Koordinaten können in drei Zahlenformaten dargestellt werden:
+
+Traditionell werden sie im Sexagesimalformat angegeben, d. h. 1 Grad ist unterteilt in 60 Minuten, 1 Minute wiederum in 60 Sekunden (Beispiel: 46°14′06.70″N 8°0′55.60″O). Typographisch werden dabei die Minuten und Sekunden durch eine Prime bzw. Doppelprime bezeichnet.
+In der zweiten Darstellung werden die Minuten in dezimaler Form geschrieben, die Angabe von Sekunden erübrigt sich. 0,1′ entsprechen hier 6,0″.
+In der dritten Darstellung werden die Grade in dezimaler Form dargestellt. 0,1° entsprechen hier 6,0′. Über beliebig viele Nachkommastellen kann die gewünschte Genauigkeit erreicht werden.
+Darüber hinaus gibt es Methoden, Gradnetzkoordinaten ohne Präzisionsverlust in kürzere Darstellungen umzurechnen, etwa QTH-Locator oder Open Location Code.Der Wertebereich der Breitengrade geht von 90°S bis 90°N und die Werte der Längengrade liegen zwischen 180°W und 180°O. Um Missverständnissen vorzubeugen, werden in der Luftfahrt durch vorangestellte Nullen die Breitengrade immer zweistellig und die Längengrade immer dreistellig angegeben. Gleiches gilt für die Angabe der Winkelminuten und ggf. der Winkelsekunden. So ist in der nebenstehenden Karte für einen Anflug nach Zürich der Wegpunkt AMIKI mit 47°34.4′N 009°02.3′O angegeben.
+In der Tabelle sind als Beispiel die Koordinaten eines historischen Gebäudes im WGS84-Bezug aufgeführt. Die vier Beispiele beschreiben in den unterschiedlichen Schreibweisen den gleichen Punkt. In der Darstellung ist der Buchstabe h ein Platzhalter für die Angaben der Himmelsrichtung N-S, W-O. Oft wird auch in deutschen Texten anstelle des O für Osten ein E für “East” geschrieben. Die Angabe der Himmelsrichtung kann vor oder nach den Ziffern stehen. Die Buchstaben d, m und s stehen für Grad (Degrees), Minuten und Sekunden.
+In der vierten (dezimalen) Schreibweise liegt der Wertebereich der Breitengrade zwischen −90° und +90°, der Wertebereich der Längengrade zwischen −180° und +180°. Die Himmelsrichtungen N-S und E-W werden hier weggelassen. Nördliche Breiten werden positiv und südliche Breiten negativ angegeben. Östliche Längen sind positiv und westliche Längen sind negativ. Um die Breiten und Längen nicht zu verwechseln, müssen sie mit  Breite (Latitude, Lat) und  Länge (Longitude, Long) bezeichnet werden. Diese Schreibweise ist in der aufgeführten Tabelle in der vierten Zeile dargestellt.
+
+Das Format der Anzeige der geographischen Koordinaten kann in den meisten GNSS-Geräten frei gewählt werden. Im historischen Schweizerischen Bezugssystem CH1903 hat das gleiche Gebäude die Koordinaten y = 644496, x = 120581.
+
+
+== Karten ==
+Im 18. und 19. Jahrhundert glichen die Geodäten größere regionale Abweichungen der Erdfigur vom idealen Ellipsoid dadurch aus, dass sie im betreffenden Gebiet ein bestanschließendes Ellipsoid berechneten, das sich der Erdoberfläche im betreffenden Gebiet gut „anschmiegte“. Der Mittelpunkt eines solchen Ellipsoids fiel nicht mit dem Massenmittelpunkt der Erde zusammen, die Umdrehungsachse war aber parallel zur Erdachse. Das Koordinatensystem ist gegenüber anderen derartigen Ellipsoiden „verschoben“ und „verbogen“. So entstanden Dutzende geodätische Systeme (Bezugssysteme für Karten). Mit der Entwicklung der Satellitennavigation musste ein weltweit einheitliches System geschaffen werden, das jetzige WGS84.
+In Land- oder Seekarten, die fast immer auf früheren Systemen beruhen, könnte eine Angabe in einem falschen Bezugssystem (etwa das Eintragen einer GPS-Position) einen Fehler von etlichen Hundert Metern verursachen, wenn das Referenzellipsoid (auch Kartendatum, Bezugssystem) der Angabe nicht dasselbe ist wie das der Karte. Daher soll bei genauen Koordinatenangaben (Faustregel: falls eine Genauigkeit besser als 1 km oder besser als 1 Bogenminute gewünscht wird) das Bezugssystem mit angegeben werden.
+Koordinaten können mit Hilfe geeigneter Transformations-Software von einem System zu einem anderen umgerechnet werden. Solche Software muss die Parameter beinhalten, welche die Abweichung der Bezugssysteme voneinander bzw. vom WGS84 mit möglichst hoher Genauigkeit definieren.
+
+
+=== Luftfahrt und Nautik ===
+Genauere Positionsangaben sind in der Luftfahrt und der Nautik erforderlich. Hier werden geographische Breite und Länge in Grad und Minuten angegeben, z. B. Zugspitze Lat = 47° 25′ N oder Nord, Lon = 010° 59′ E oder Ost.
+
+Bogenminuten werden dezimal weiter unterteilt.
+Gemäß DIN 13312, gültig für Luft- und Seefahrt, wird die geographische Breite mit Lat oder älter auch φ abgekürzt, die geographische Länge mit Lon oder λ. B und L sind nicht normgemäß.
+Eine Breitenminute entspricht auf der Erdoberfläche einer Strecke von ca. 1852 m und definiert die Länge einer Seemeile.
+Die Strecke, die einer Längenminute entspricht, beträgt am Äquator ebenfalls 1852 m, nimmt aber zum Pol hin mit dem Kosinus der geographischen Breite bis auf Null ab. Sie ist also breitenabhängig. Innerhalb Europas liegt die Strecke zwischen 1,0 km und 1,5 km (siehe auch Abweitung).
+
+
+=== Vermessungswesen ===
+Im Vermessungswesen sind cm-Genauigkeiten gefragt – daher genügt die Angabe von Bogensekunden nicht, da eine Bogensekunde (1″) etwa 31 m (Breitenangabe) bzw. 20 m (Längenangabe in Europa) entspricht. Daher hat sich international die Dezimalschreibweise durchgesetzt. In Deutschland konnte die Lage der Festpunkte auf Millimeter genau als Gauß-Krüger-Koordinaten, bezogen auf das Bessel-Ellipsoid, beziehungsweise im Gebiet der DDR ab den 1950er Jahren, bezogen auf das Krassowski-Ellipsoid, angegeben werden. Seit den 1990er Jahren erfolgt in Deutschland eine Umstellung auf UTM-Koordinaten im ETRS89-System, bezogen auf das GRS80-Ellipsoid.
+
+
+== Natürliche, astronomische, ellipsoidische, geodätische Koordinaten ==
+Die natürlichen Koordinaten (astronomische Breite φ und astronomische Länge λ) können durch astronomische Ortsbestimmung ermittelt werden. Sie beziehen sich auf die tatsächliche Lotrichtung am Messpunkt. Die ellipsoidischen Koordinaten (B, L – auch geodätische Koordinaten genannt) beziehen sich hingegen auf die Normalen­richtung des verwendeten Referenzellipsoids. Die Differenz von Lotrichtung und Ellipsoidnormale ist üblicherweise kleiner als 10″ und wird als Lotabweichung bezeichnet. In der Regel verlaufen weder Lotrichtung noch Ellipsoidnormale durch den Erdmittelpunkt.
+Bei geringen Genauigkeitsansprüchen, z. B. bei Kartendarstellungen in sehr kleinen Maßstäben, wird der Erdkörper zur Vereinfachung durch eine Kugel angenähert. In diesem Fall entsprechen geographische Breite und Länge sphärischen Koordinaten. Nur dann ist die Breite gleich dem Winkel im Erdmittelpunkt zwischen dem Äquator und dem gesuchten Punkt.
+
+
+== Geschichte ==
+Die Gradeinteilung als die Einteilung des Vollwinkels des Kreises in 360° geht auf die Astronomen Hypsikles von Alexandria („Anaphorikos“, 170 v. Chr.) und Hipparch von Nikaia (190–120 v. Chr.) zurück.
+Schon Claudius Ptolemäus verwandte in seiner Geographike Hyphegesis um 150 nach Chr. ein Gradnetz mit Längen- und Breitengraden. Sein Null-Meridian war der bis ins 19. Jahrhundert überwiegend verwendete Ferro-Meridian durch den westlichsten damals bekannten Landpunkt. Wegen seiner viel zu kleinen Kalkulation des Erdumfanges (etwa 30.000 km statt 40.000 km) weichen seine Angaben zur geographischen Länge dadurch nicht um 18°3′, sondern in Mitteleuropa um gut 24° von den auf Greenwich bezogenen ab. Seine Breitenangaben liegen aus nicht klar ersichtlichen Gründen über den korrekten. Einerseits passt das zu Ptolemäus’ zu geringem Erddurchmesser, andererseits hätte bei seinem zu gering angesetzten Abstand zwischen Sonne und Erde von nur 1210 Erdradien aus dem Sonnenstand auf einen zu geringen Gradabstand vom Äquator geschlossen werden müssen.
+Nach der Wiederentdeckung der Geographike Hyphegesis und ihrer Übersetzung ins Lateinische im frühen 15. Jahrhundert setzte sich das Ptolemäische Gradsystem schnell durch.Duarte Pacheco Pereira (1469–1533) verbesserte die antiken Messverfahren für die in den Azoren verankerte, globale Navigation.
+Mit der Einteilung des Erdballs in eine spanische und eine portugiesische Hemisphäre im Vertrag von Tordesillas von 1494 gewann das wieder etablierte Gradnetz politische Bedeutung.
+1634 wurde auf El Hierro als der westlichsten Kanarischen Insel ein Nullmeridian durch den Faro de Orchilla fixiert und erst seit 1884 setzte sich der seit 1738 in England gebräuchliche Meridian von Greenwich gegen andere nationale Nullmeridiane durch.
+Die auf die Messungen von Jacques Cassini und Jean Dominique Comte de Cassini aus der Zeit vor 1793 zurückgehende Nouvelle Triangulation de la France fanden im Zuge der Metrification (der Umstellung aller relevanten Maße auf den Meter als Standard) statt. Der Nullmeridian geht durch Paris, sodass das in Neugrad angegebene „Old Royal Observatory“ in Greenwich bei 2° 20′ 14,025″ W (NTF) liegt. Das umfasste auch die dezimale Einteilung des Gradmaßes in Neugrad, grades (nouvelle), heute gesetzlich als Gon (1 Vollwinkel = 400 Neugrad).
+Während der Greenwich-Meridian sich aber durchgesetzt hat, wurde das Winkelmaß Gon und die 400°-Teilung geodätischer Standard in Mitteleuropa. Die Kreiseinteilung in 360° wird im Sinne der Metrifikation heute oft nur eingeschränkt als terrestrische Gradeinteilung (Gradnetz) verstanden.
+
+
+== Siehe auch ==
+Geschichte der Astronomie
+Koordinatenreferenzsystem
+Polarkoordinaten
+Schweizer Landeskoordinaten
+Orthodrome, Loxodrome
+Georeferenzierung
+Kartennetzentwurf (Kartenprojektion zum Erzeugen von Landkarten)
+
+
+== Weblinks ==
+
+Längen- und Breitengrad von Orten und eigener Position ermitteln
+Geografische Koordinaten ermitteln und umrechnen
+Mit Koordinaten rechnen Peilung, Distanzen, Schnittpunkte u. s. w.
+
+
+== Einzelnachweise ==

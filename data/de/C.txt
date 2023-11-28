@@ -1,0 +1,46 @@
+C bzw. c (gesprochen: [t͡seː]) ist der dritte Buchstabe des klassischen und modernen lateinischen Alphabets. Er bezeichnete zunächst die velaren Verschlusslaute /k/ und /g/ (letzterer seit dem 3. Jh. v. Chr. durch das neugeschaffene G vertreten); infolge der seit dem Spätlateinischen bezeugten Assibilierung vor Vorderzungenvokal bezeichnet c in den meisten romanischen und noch vielen anderen Sprachen auch eine (post-)alveolare Affrikate (ital. ​[⁠ʧ⁠]​, dt., poln., tschech. ​[⁠ʦ⁠]​) oder einen dentalen oder alveolaren Reibelaut (engl., franz. ​[⁠s⁠]​, span. [θ/s̺]). Der Buchstabe C hat in deutschsprachigen Texten eine durchschnittliche Häufigkeit von 3,06 %.
+
+Das Fingeralphabet für Gehörlose bzw. Schwerhörige stellt den Buchstaben C dar, indem der Daumen und restliche Finger einen offenen Halbkreis bilden.
+
+
+== Aussprache ==
+In den meisten romanischen Sprachen sowie verbreitet in der mittelalterlichen und neuzeitlichen Aussprache des Lateins und zahlreicher daraus entlehnter Wörter steht c vor Konsonanten und hinteren Vokalen (einschließlich /a/) für den stimmlosen velaren Plosiv /k/, vor ursprünglichen Vorderzungenvokalen e, i (auch vor lat. ae, oe, y) dagegen für einen Zischlaut (je nach Sprache und Sprachstufe eine Affrikate ​/⁠ʧ⁠/​, ​/⁠ʦ⁠/​ oder ein reiner Frikativ /s/, ​/⁠ʃ⁠/​, ​/⁠θ⁠/​; vgl. Romanische Palatalisierung). Die Verteilung dieser Allophone nach darauffolgendem Vokal wird gelegentlich in sprachspezifischer Lautschrift durch die Reihe ka – ce/ze – ci/zi – ko – ku (sogenannte Ka-ze-zi-ko-ku-Regel) wiedergegeben oder einen Merkspruch folgender Art zusammengefasst: „Vor a, o, u sprich c wie k, vor e und i sprich c wie z.“ Wo ein solcher Zischlaut vor einem hinteren Konsonanten wie /a/, /o/, /u/ (oder einem erst später daraus entstandenen Vorderzungenvokal, etwa frz. [y] < lat. /u/) steht, wird er oft durch ç, z, oder (im Italienischen) den Digraphen ci bezeichnet. Umgekehrt tritt für den Velaren vor vorderem Vokal k, im Französischen regelmäßig qu, im Italienischen ch ein. Darüber hinaus wird der Buchstabe c zum Teil auch allgemein durch z bzw. k ersetzt, z. B. im heutigen Deutsch bei lateinischen Lehnwörtern: Zirkus statt Circus.
+Außerhalb des Italienischen steht der Digraph ch in vielen romanischen Sprachen ebenfalls für einen Zischlaut, im Deutschen und im Gälischen für einen velaren oder palatalen Reibelaut. Meist dient die Kombination ck im Deutschen als Variante von k zur Kennzeichnung eines Silbengelenks, steht also nach kurzen geschlossenen Silben; es findet sich aber bei norddeutschen Orts- und Familiennamen teilweise ein ck auch nach offenen Silben bzw. langen Vokalen (z. B. Mecklenburg (ˈmeː-), Buddenbroock); der Trigraph sch stellt den Laut [ʃ] dar (wie in Schule).
+
+
+== Herkunft ==
+Die aus der protosinaitischen Schrift stammende Urform des Buchstabens stellt einen Fuß dar. Im phönizischen Alphabet wurde diese Bedeutung beibehalten. Der Buchstabe erhielt den Namen Gimel und hatte den Lautwert [g]. Früher wurde der Name des Buchstabens als "Kamel" übersetzt, mittlerweile wird allerdings angenommen das er "Wurfstock eines Jägers" bedeutete. Die Griechen übernahmen den Buchstaben als Gamma. Zu Beginn wurde das Gamma in einer Form geschrieben, die wie ein Dach aussah (ähnlich dem späteren Lambda). Bis zur klassischen Zeit entwickelte sich das Gamma zu Γ weiter. Mit dafür verantwortlich war wahrscheinlich neben dem Wechsel der Schreibrichtung von rechts-nach-links auf links-nach-rechts auch der notwendige Wechsel der Schreibwerkzeuge zum Beschreiben von organischen Stoffen.
+Als die Etrusker das frühgriechische Alphabet übernahmen, hatten sie keine Verwendung für das Gamma, da im Etruskischen stimmhafte Verschlusslaute wie [g] nicht vorkamen. Allerdings hatte die etruskische Sprache drei k-Laute. Die Etrusker veränderten daher den Lautwert des Buchstabens, um den stimmlosen Verschlusslaut [k] vor [e] oder [i] wiederzugeben.
+Mit eben dem Lautwert wanderte das Zeichen C dann in das lateinische Alphabet und wurde von den Römern, die durchaus zwischen der Tenuis K und der Media G unterschieden, so ursprünglich für die Laute [g] und [k], genauer, für die Silben [ge]; [gi] und [ke]; [ki] gesetzt. Wenn auch in archaischer Zeit in der lateinischen Schriftpraxis drei von ihren nachfolgenden Lauten unterschiedlich gefärbte [k]-Laute zeichenmäßig noch nicht konsequent unterschieden wurden, so setzte doch eine Differenzierung ein, nämlich C vor [e], [i], K vor [a] und Liquiden, Q vor [o], [u], von denen der Erstere auch noch für unser heutiges G verantwortlich ist.
+Bereits im 4. Jahrhundert v. Chr. kam dieser Prozess zum Abschluss, indem der Buchstabe Q nur noch vor das konsonantische [u] gestellt, während der Buchstabe K ab dem 3. Jahrhundert v. Chr. nur noch in formelhaften Abkürzungen, wie Kal. = Kalendae und dem Brandmal K. = Kalumniator vorkam. Beide Buchstaben wurden zugunsten des C verdrängt.
+Zunächst wurde das C auch noch für den [g]-Laut verwendet. Nach Plutarch (Quest. Rom. 54) war es 230 v. Chr. der Schreibschulen-Betreiber Spurius Carvilius Ruga, der durch Hinzufügung eines Striches das G als eigenständigen Buchstaben schuf und ihn an die Stelle ins Alphabet einfügte, welche der [ts]-Laut, also das griechische Zeta, im griechischen Alphabet einnahm. Der entsprechende Buchstabe Z an dieser Stelle war im Lateinischen zuvor durch den Censor Appius Claudius Caecus seit 312 v. Chr. (Marc. Capella: 1,3) obsolet geworden, da er im Lateinischen außer als Zahlzeichen keinen wirklichen Nutzen hatte. Im Unterschied dazu wurde bei der späteren Einfügung des griechischen Y und der erneuten Übernahme des Z aus dem Griechischen das lateinische Alphabet am Ende ergänzt.
+Erhalten blieb das Zeichen C als [ge]-Laut nur in den Abkürzungen C. ≙ Gaius und CN. ≙ Gnaeus.
+
+
+== Zitat ==
+Da wir, gleich den Griechen und Slaven, die tenuis des gutturallauts mit K ausdrücken, so ist dafür das aus dem lateinischen Alphabet entnommene C ganz überflüssig, fehlt darum auch der gothischen und altnordischen schrift, die Slaven verwenden es für S, die Polen und Böhmen für Z. (…) unentbehrlich aber bleibt, solange wir für die kehlaspirata kein einfaches Zeichen, wie die Gothen das gr. X, annehmen, C in CH. (aus dem Grimmschen Wörterbuch)
+
+
+== Siehe auch ==
+das griechische Sigma, insbesondere dessen Glyphen ς (finales Sigma) und Ϲ, ϲ (Unzialen) – dort auch weitere Verweise.
+der kyrillische Buchstabe Es, С, с
+, ⱅ, Semma, ein Buchstabe des koptischen Alphabets, siehe koptische Schrift
+Unicode-Zeichen, die vom lateinischen C, c abgeleitet sind:
+¢, das Cent-Zeichen; ₡, das Colón-Zeichen; ₵, das Cedi-Zeichen
+℃, Grad Celsius (statt dieses einen Zeichens sollte besser die Kombination aus ° und C verwendet werden.)
+Römisches Zahlzeichen 100: Ⅽ, ⅽ
+℅, (care of, engl.) zu Händen; ℆, (cada una, span.) im Einzelnen
+gestreckt: ʗ (früher auch IPA-Zeichen; hochgestellt: ͨ; Kapitälchen: ᴄ; Fraktur: ℭ)
+gedreht: Kleinbuchstabe ↄ; römisches Zahlzeichen Ↄ
+umkreistes C: Ⓒ; Copyrightzeichen ⓒ; Copyleftzeichen 🄯
+geklammertes kleines c: ⒞
+C*: Bremsenkennwert
+
+
+== Weblinks ==
+
+http://www.wam.umd.edu/~rfradkin/alphapage.html
+http://www.weikopf.de/Sprache/Schrift/Alphabet/body_alphabet.html
+
+
+== Quellen ==

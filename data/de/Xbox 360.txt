@@ -1,0 +1,295 @@
+Die Xbox 360 ist eine von Microsoft entwickelte Spielkonsole und Nachfolger der ersten Xbox. Der Projektname der Konsole war Xenon. In der Presse wurde sie vor Bekanntgabe des Namens auch als Xbox 2 oder Xbox Next bezeichnet. Sie wurde Ende 2005 auf den Märkten der Vereinigten Staaten, Europas und Japans eingeführt. In Ozeanien war sie ab Ende März 2006 erhältlich. Es ist die zweite Spielkonsole der Xbox-Produktreihe und stand in Konkurrenz zur Sony PlayStation 3 und Nintendo Wii. Für die Xbox 360 gibt es einen Online-Service namens Xbox Live, der den Nutzern erlaubt, online zu spielen, Spiele herunterzuladen (Xbox Live Arcade) sowie Musik, TV-Programme und Filme durch Xbox Music und das Xbox Video Portal zu kaufen und zu streamen.Microsoft gab im Juni 2014 bekannt, über 84 Millionen Konsolen abgesetzt und mit Spieleverkäufen einen Umsatz von 37,7 Milliarden US-Dollar erzielt zu haben.Der Nachfolger, die Xbox One, erschien am 22. November 2013. Microsoft gab am 20. April 2016 bekannt, dass die Produktion der Xbox 360 eingestellt wurde und die letzten Einheiten abverkauft werden. Der Online-Support für Xbox Live ist davon vorerst nicht betroffen.
+
+
+== Veröffentlichung ==
+
+
+=== Marketing im Vorfeld ===
+Auf der Game Developers Conference im März 2005 wurde das Gerät erstmals dem breiten Fachpublikum vorgestellt. Die offizielle Präsentation der Konsole fand bereits am 12. Mai 2005 im nordamerikanischen Fernsehen auf dem Kanal MTV unter Einbeziehung der Band The Killers statt. Die Konsole wurde darin von dem Schauspieler Elijah Wood dem Publikum präsentiert. In Europa wurde die Show einen Tag später ausgestrahlt. Im Nachhinein wurde kritisiert, dass die Veranstaltung den Charakter einer Promotion für die Musikgruppe hatte. Im Rahmen der Games Convention 2005 in Leipzig wurde die Xbox 360 zum ersten Mal live auf der Bühne präsentiert und das Publikum über weitere Details und Spiele informiert. Im September 2005 gab Microsoft auf der Tokyo Game Show die endgültigen Veröffentlichungsdaten bekannt.
+
+
+=== Markteinführung ===
+Die Xbox 360 kam am 22. November in den Vereinigten Staaten und Kanada, am 2. Dezember in Europa und am 10. Dezember 2005 in Japan in den Handel. Später erschien sie auch in Nebenmärkten wie Lateinamerika oder Ozeanien. Die Konsole erschien in zwei verschiedenen Ausführungen, der Core-Edition und der Premium-Edition. Letztere beinhaltete zusätzlich eine Festplatte mit 20 GB Speicher sowie einen kabellosen Controller, ein Headset und ein Ethernet-Kabel. Darüber hinaus lag den Exemplaren der Erstauslieferung eine Fernbedienung bei.
+Während in Nordamerika zum Start der Konsole 18 Titel erschienen, gab es zur Markteinführung in Europa lediglich 15 Spiele, von denen das Spiel Condemned: Criminal Origins auf den Index der BPjM gelangte. In Japan wurden nur sechs Spiele veröffentlicht, was mit der schwierigen Lokalisierung begründet wurde. International verkaufte sich das Spiel Call of Duty 2 von allen Starttiteln am besten.
+Peter Moore, ehemals Microsofts Vizepräsident, gab an, dass bis Ende 2006 weltweit 10 Millionen Exemplare ausgeliefert werden sollten. Dieses Ziel wurde mit 10,4 Millionen Konsolen sogar knapp übertroffen.
+Im Laufe der Markteinführung stellte sich heraus, dass viele der ausgelieferten Geräte fehlerhaft waren und bereits nach kurzer Zeit ohne ersichtlichen Grund nicht mehr funktionierten. Dennoch war die Auslieferungsmenge von 400.000 Stück in den Vereinigten Staaten schnell vergriffen.
+Die große Nachfrage nach dem Gerät führte dazu, dass einige Besitzer ihr Gerät zu überhöhten Preisen über das Internet verkauften. So wurden allein über das Online-Auktionshaus eBay über 40.000 Konsolen versteigert. Das Marktforschungsinstitut NPD Group berichtete, dass allein im November 2005 insgesamt 326.000 Konsolen verkauft wurden.Microsoft musste im Bereich „Heim und Unterhaltung“ in den Geschäftsjahren zwischen 2005 und 2007 einen operativen Verlust von 3,8 Mrd. US-Dollar verbuchen, der in erster Linie auf die Xbox 360 zurückgeht. Auch im vierten Quartal 2007 hat der Konsolenbereich wieder den Gewinn von Microsoft gedrückt, diesmal aufgrund der bekannt gewordenen großen Hardware-Probleme der Xbox 360.Nach zuletzt guten Verkaufszahlen brachen die Verkaufszahlen der Xbox 360 im Jahr 2012 erstmals wieder stark ein. Nach Meinung von Experten waren die anhaltenden Gerüchte um einen Nachfolger für die Konsole ein Grund dafür.
+
+
+== System ==
+
+
+=== Xbox 360 (2005–2010) ===
+Die erste Version der Xbox 360 erschien 2005 auf dem Markt. Sie war anfangs in zwei Varianten erhältlich. Das „Core“ genannte Modell stellte das Einsteigerpaket dar und war 100 Euro günstiger als die „normale“ Variante. Letztere hatte offiziell seitens Microsoft keinen Namen, wurde jedoch von der Fachpresse häufig als „Premium“ bezeichnet. Diese enthielt gegenüber der „Core“-Variante eine 20-GB-Festplatte, einen kabellosen Controller sowie ein zusätzliches Netzwerk- und für HDTV geeignetes Videokabel. Beide Konsolen waren ausschließlich in Weiß erhältlich.
+Ende April 2007 erschien in den USA zusätzlich die Variante „Xbox 360 Elite“, die seit 24. August 2007 auch auf dem europäischen Markt erhältlich ist. Das neue Top-Modell hatte eine von 20 auf 120 GB erweiterte Festplatte, einen HDMI-Ausgang und erschien statt in weiß in schwarz, zusammen mit einem ebenfalls schwarzen Wireless-Controller. Einige Monate nach Einführung der „Elite“ wurde auch das „Premium“-Modell mit HDMI-Ausgang ausgestattet.Am 26. Oktober 2007 wurde schließlich die neue Einstiegsvariante „Arcade“ eingeführt, die die „Core“ ersetzte. Sie war mit HDMI-Ausgang, 256-MB-Speicherkarte, Wireless-Controller und fünf Arcade-Spielen besser ausgestattet als die ehemalige „Core“-Version und wurde im Preis leicht gesenkt, um sich im Wettbewerb besser gegenüber Nintendos Wii zu positionieren. Ab dem 15. August 2008 wurde die 20-GB-Festplatte der „Premium“ durch ein 60 GB großes Modell ersetzt.Ende 2008 entfiel bei der Arcade-Variante die mitgelieferte 256-MB-Speicherkarte, stattdessen wurde ein 256 MB großer interner Flash-Speicher verwendet.Nach ersten Gerüchten Mitte 2009 über die Einstellung der 60-GB-Variante, wurde diese ab Herbst 2009 nicht mehr angeboten. Die 60-GB-Festplatte konnte jedoch weiterhin separat erworben werden, um die „Arcade“-Version damit aufzurüsten. Im Zuge einer Preissenkung Ende August 2009 entfiel bei der „Elite“ das im Lieferumfang enthaltene HDMI-Kabel.Zusätzlich gab es limitierte, in speziellen Farben lackierte Sondereditionen der Konsole, die zu Spielepremieren, wie zum Beispiel Halo 3, Forza Motorsport 2 oder Resident Evil 5 erschienen sind. Die ab Ende Oktober 2009 veröffentlichten Sondereditionen zu Forza Motorsport 3 und Call of Duty: Modern Warfare 2 wurden entgegen den bisherigen Modellen mit einer 250-GB-Festplatte ausgeliefert.Auffälligster Unterschied der jeweils teureren Varianten (Premium/Elite) zu den günstigeren Varianten (Core/Arcade) waren die silber verchromten Laufwerkabdeckungen.
+
+
+=== Xbox 360 S (ab 2010) ===
+Diese Variante der Konsole präsentierte Microsoft auf der E3 2010. Die vorgestellte Version des als Xbox 360 S bezeichneten Modells ist um 30 % kleiner als sein Vorgänger und hat unter anderem eine 250-GB-Festplatte und einen integrierten WLAN-Adapter. Beim S-Modell entfällt die Unterstützung für die Memory Units, dafür sind jedoch zwei weitere USB-Anschlüsse und ein optischer Audioausgang an der Rückseite der Konsole hinzugekommen. Ebenso unterstützt die neue Konsole den direkten Anschluss des als Kinect bezeichneten Steuerungskonzept ohne separates Netzteil. Die Xbox 360 S erschien am 18. Juni auf dem nordamerikanischen Markt und am 16. Juli 2010 in Europa.Am 4. August 2010 erschien in den USA auch ein Modell ohne Festplatte, das in Europa seit dem 20. August erhältlich war. Diese Variante war 50 Euro günstiger als das Pendant mit Festplatte, hat einen 4 GB großen internen Flash-Speicher und unterschied sich bis Herbst 2011 äußerlich durch eine matte Gehäuseoberfläche, danach wurde auch die Variante mit Festplatte mit dem matten Gehäuse ausgeliefert. Das 4-GB-Modell kann mit einer Festplatte aufgerüstet werden, die separat im Handel erhältlich ist.
+Seit November 2010 waren beide Konsolenvarianten auch zusammen mit Kinect erhältlich.
+Im Oktober 2011 erschien zusätzlich eine 320-GB-Festplatte, die schon zuvor in verschiedenen Sondereditionen der Xbox 360 S verwendet wurde. Eine Konsolenvariante mit 500-GB-Festplatte wurde ab August 2014 angeboten.
+
+
+=== Xbox 360 E (ab 2013) ===
+Drei Jahre nach der Einführung der Xbox 360 S wurde auf der E3 2013 eine neue Version angekündigt. Optisch orientiert sich das als „Xbox 360 E“ bezeichnete Modell deutlicher an dem Nachfolger Xbox One. Die Konsole wurde zum Start als 4-GB-Variante mit Kinect oder mit 250-GB-Festplatte verkauft. Neben der optischen Änderung wurden auch einige technische Details überarbeitet. So entfällt auf der Rückseite der Konsole ein USB-Anschluss und der optische Audioausgang. Der AV-Ausgang wurde überarbeitet und weist eine neue Steckerform auf, die ihn zu Kabeln der alten Modelle inkompatibel macht und nur noch Composite Video über eine Kabelpeitsche ermöglicht. Ebenfalls überarbeitet wurde der Netzteilanschluss an der Konsole und das Netzteil. Seit August 2014 ist zudem eine Festplatte mit 500 GB erhältlich.
+
+
+=== Spiele-Abwärtskompatibilität ===
+Microsoft hat die Abwärtskompatibilität zu alten Xbox-Spielen zum Teil realisiert. Hierbei werden die Spieletitel des Vorgängermodells über eine spezielle Software emuliert. Ein Nachteil dieser Methode ist der hohe Rechenaufwand. Ebenfalls ist eine Festplatte in der Xbox 360 erforderlich. Auf der offiziellen Xbox-Seite gibt es eine Abwärtskompatibilitätsliste der verfügbaren Alttitel. Im November 2007 wurde das letzte Update der Software veröffentlicht und angegeben, dass die Entwicklung beendet ist und keine weiteren Titel mehr aufgenommen werden. Einige dieser älteren Spiele werden im Rahmen der Emulation in einer Grafik dargestellt, die besser ist als auf dem Vorgängermodell der Konsole, für die sie ursprünglich programmiert wurden. Die Grafik der in der Vergangenheit erfolgreichsten Spiele, wie zum Beispiel Halo 2 werden so an das HD-Niveau der neuen Konsole angepasst. Sie werden in Auflösungen von 720p oder 1080i berechnet und profitieren dabei von den Antialiasing-Fähigkeiten der Xbox 360. Der Emulator bzw. Aktualisierungen sind über Xbox Live verfügbar. Beim Einlegen eines alten Xbox-Spiels in die Xbox 360 versucht die Konsole automatisch, sofern nicht durch Aktualisierungen der Xbox 360 bereits vorhanden, den Emulator herunterzuladen. Wenn die Konsole keine Internetverbindung hat, bietet Microsoft ebenfalls die Möglichkeit, den Emulator per PC von der offiziellen Xbox-Seite herunterzuladen, und manuell auf der Konsole zu installieren. Bei der Verwendung eines VGA-Kabels können keine emulierten Spiele mit 50 Hertz abgespielt werden, sondern nur NTSC-Spiele mit 60 Hertz.
+
+
+=== Development Kits ===
+Ein Xbox 360 Development Kit ist ein Entwicklungswerkzeug der Spieleprogrammierer. Es wird hauptsächlich zum Entwickeln und zur Fehlerbehebung von Spielen von Entwicklern benutzt. Gleichzeitig wird es in verschiedenen Varianten unter anderem auch zum Testen von Spielen (Zeitschriften, Websites etc.) oder für Live-Shows (E3, Games Convention etc.) eingesetzt.
+Seit einiger Zeit gelangen immer mehr Development Kits in die Hände von Hobbyprogrammierern. Die Konsole dient dabei allerdings nicht nur als Programmierwerkzeug. Vielmehr ist es möglich, darauf unsignierten Code auszuführen, wodurch es möglich wird, jede erdenkliche Homebrew-Anwendung auf der Konsole auszuführen. Ebenfalls ist es möglich, eine eigene Festplatte in Verbindung mit der Konsole zu benutzen. Man muss bei Development Kits nicht auf die von Microsoft für den Markt freigegebenen Festplatten zurückgreifen, sondern kann eine eigene Festplatte im 2,5"- oder 3,5"-Format dafür verwenden.
+Development Kits sind allerdings, anders als bei Retail-Konsolen, nicht in der Lage, Originalspiele von DVD abzuspielen. Es ist jedoch möglich, den Inhalt auf die Festplatte zu transferieren, um diesen dann zu verwenden.
+Weitere Funktionen eines Development Kits sind beispielsweise, dass es keine feste regionale Beschränkung gibt. Man hat die Möglichkeit, die Region der Konsole beispielsweise von PAL auf NTSC-U umzustellen, wenn es benötigt wird. Ebenfalls können Videos und Screenshots der laufenden Programme/Spiele gemacht werden.
+Es gibt folgende Arten von Development Kits:
+Demo Kit (für Live Shows wie E3, Games Convention etc. zu Demonstrationszwecken oder als Kiosksystem in Elektronikmärkten)
+Reviewer Kit (für Spielemagazine oder Review-Websites)
+Test Kit (wird beim Testen von Spielen oder zum Ausfindigmachen von Fehlern benutzt)
+Dev Kit (Entwicklerkonsole, um Spiele zu entwickeln oder debuggen)
+Stress Kit (wird von Microsoft in der Qualitätssicherung bzw. für Belastungstests benutzt)Käuflich erwerben kann man Xbox 360 Development Kits als Privatperson nicht. Diese vergibt Microsoft nur nach Bewerbung an Spieleunternehmen. Jedes Spieleunternehmen ist, mittels eines Non-Disclosure Agreements zur Verschwiegenheit über Technik, Kosten und weitere Informationen verpflichtet.
+
+
+== Technische Daten ==
+Die ersten Versionen der Xbox 360 waren im Betrieb durch die Lüfter- und DVD-Laufwerkgeräusche sehr laut und verzeichneten zudem eine hohe Leistungsaufnahme von über 150 Watt, was aber durch die hohe Rechenleistung und Grafikleistung im Rahmen dessen liegt, was ein vergleichbarer PC des Jahres 2006 mit High-End-Grafikkarte benötigte. Durch Änderungen an der Hardware von Haupt- und Grafikprozessor sowie DVD-Laufwerk, konnte jedoch die Leistungsaufnahme, Hitze- und Geräuschentwicklung gegenüber der ursprünglichen 2005 erschienenen Version der Konsole verbessert und reduziert werden. Die durchschnittliche Leistungsaufnahme fiel so z. B. ab 2008 durch eine neue Konsolen-Revision auf etwa 100 Watt. Die aktuelle Xbox 360 S verbraucht je nach Auslastung 70 bis 90 Watt. Für die Kühlung der Konsole sorgen zwei 70-mm-Lüfter an der Gehäuserückseite, welche die Abwärme aus dem Gehäuse saugen. Bei der Xbox 360 S bzw. E sorgt ein 92-mm-Lüfter an der Gehäuseseite für die Wärmeabfuhr. Im externen Netzteil befindet sich ebenfalls ein Lüfter.
+
+
+=== Prozessor ===
+ Der Prozessor namens Xenon, der auf der PowerPC-Architektur basiert, wurde von IBM exklusiv für die Konsole entwickelt. Er besteht aus drei einzelnen Kernen. Jeder dieser Kerne kann zwei Threads bei je 1,6 GHz gleichzeitig bearbeiten, ähnlich dem Hyper-Threading von Intel. Die Fertigung der dedizierten Variante (90 nm und 65 nm) – d. h. vor Zusammenfassung von CPU und GPU in der Xbox 360 S – erfolgte in IBMs eigener Fab in East Fishkill (New York) sowie bei Chartered (jetzt Globalfoundries).
+77 GFLOPS (theoretische Spitzenleistung)
+3 × 3,2 Gigahertz Taktfrequenz
+165 Millionen Transistoren
+je 32 KB L1-Cache für Daten und Instruktionen pro Prozessorkern
+1 MB L2-Cache für alle drei Prozessorkerne
+32-nm-Strukturgröße (später produzierte Xbox 360 E, Winchester-Revision), 45 nm (ab Xbox 360 S, Trinity-Revision), 65 nm von November 2007 bis Juni 2010 (ab Falcon-Revision), davor 90 nm
+
+
+=== Grafikprozessor ===
+Während bei der ersten Xbox ein Grafikprozessor (GPU) von Nvidia eingesetzt wurde, wurde bei der Xbox 360 der Chip von ATI entwickelt und von TSMC gefertigt. Der Grafikprozessor namens Xenos dient gleichzeitig als Northbridge zwischen CPU, Southbridge (I/O) und dem Systemarbeitsspeicher.
+500 MHz Taktfrequenz
+Ab der Xbox 360 S in einen Chip („Vejle“) bestehend aus Haupt- und Grafikprozessor integriert
+10 MB eDRAM Framebuffer, exklusiv für Antialiasing-Daten, in ab September 2014 produzierten Xbox-360-E-Konsolen ebenfalls in einen Chip mit GPU und CPU integriert, davor – auch in der Xbox 360 S/E – auf einem separaten Chip
+332 Millionen Transistoren (232 Millionen GPU, 100 Millionen eDRAM)
+theoretisch bis zu 240 GFLOPS
+48 Unified-Shader-Architektur (zwei Operationen pro Takt pro Pipeline)
+jede Pipeline kann Pixel- und Vertex-Shader ausführen
+organisiert in drei SIMD-Gruppen mit je 16 Prozessoren
+pro SIMD-Gruppe ist maximal eine Instruktion ausführbar
+mit Tessellations-Einheiten
+48 Milliarden Shader-Operationen pro Sekunde (ohne CPU)
+500 Millionen Polygone pro Sekunde
+160 Shader-Vorgänge pro Taktzyklus
+Shader Model 3.0+ (bedeutet einige zusätzliche Funktionen)
+Unterstützt werden die Bildschirmformate 480p, 720p, 1080i und 1080p sowie die TV-Modi PAL-50 und PAL-60
+32-nm-Strukturgröße (später produzierte Xbox-360-E-Konsolen, Winchester-Revision), 45 nm (ab Xbox 360 S, Trinity-Revision), 65 nm von November 2008 bis Juni 2010 (Jasper v1/v2-Revision), 80 nm von April 2007 bis Juli 2008 (Zephyr-Revision und Falcon/Opus-Revision), 90 nm (Xenon-Revision)
+
+
+=== Arbeitsspeicher ===
+Die Xbox 360 hat insgesamt 512 MB Arbeitsspeicher des Typs GDDR3 mit einer Taktfrequenz von 700 MHz und einer Speicherbandbreite von 22,4 GByte/s, auf den sowohl Haupt- als auch Grafikprozessor zugreifen können (Unified Memory Architecture).
+
+
+=== Bild- und Tonausgabe ===
+Unterstützt werden alle gängigen Formate bis zu Dolby Digital 5.1 mit WMA Pro, auch Pro Logic 2. Die höchstmögliche Tonqualität ist dabei auf 640 kbps beschränkt. Zum Anschluss an externe Geräte hat die Konsole einen optischen Ausgang. Trotz der Hardwarelimitierung auf Dolby Digital 5.1 war es den Entwicklern von Radical Entertainment in Prototype möglich 7.1 Surround Sound zu realisieren.Bei der Bildausgabe von Videospielen unterscheidet sich die interne Framebufferdatei des Grafikchips in der Farbgebung merklich vom tatsächlich ausgegebenen Bildsignal. Die Xbox 360 verwendet im Gegensatz zum weit verbreiteten Standard sRGB eine abschnittsweise lineare Gamma-Kurve (Xenon PWL), die das ausgegebene Bild automatisch abdunkelt und naturgemäß zu einer schlechteren Durchzeichnung in dunklen Bildbereichen führt.
+
+
+=== Laufwerk ===
+Die Xbox 360 hat ein Zwölffach-DVD-Laufwerk. Bis Ende 2006 wurden Laufwerke von Hitachi-LG, Toshiba-Samsung und Philips-BenQ verwendet. Seit Ende 2007 werden Laufwerke von Lite-On verwendet, da sie leiser sind. In der Xbox 360 S und E werden meist Lite-On-Laufwerke verwendet, in seltenen Fällen Modelle von Hitachi.
+
+
+=== Hardware-Revisionen ===
+Es ist zu beachten, dass von einigen der im Folgenden gelisteten Varianten jeweils einige Revisionen mit jedoch vergleichsweise minimalen Änderungen existieren.
+
+
+=== Netzteil ===
+Die Xbox 360 wird von einem externen Netzteil versorgt, welches über eine eigene Aktivkühlung verfügt. Es liefert 12 und 5 Volt Spannung, wobei letztere mit einer geringen Stromstärke von 1 A als Standbyspannung dient.
+Bei der ersten Mainboard-Version mit Prozessor in 90-nm-Technik leistet das Netzteil 203 Watt, bei der neueren Xbox-360-Version mit „Falcon“-Mainboard leistet das Netzteil 175 Watt und ist auch leiser als das Netzteil mit 203 Watt. Mit Verkleinerung der GPU-Struktur auf 65 nm im November 2008 wurde die Konsole („Jasper“) mit einem 150-Watt-Netzteil ausgeliefert. Die Xbox 360 S hat – abhängig von der Hardware-Revision – ein 135-W- oder 120-W-Netzteil. Die Xbox 360 E wurde in beiden Revisionen mit einem 120-W-Netzteil ausgeliefert, das jedoch einen anderen Anschluss als die Netzteile der Xbox-360-S-Konsolen hat, weshalb es nicht an diesen verwendet werden kann. Ebenso kann kein Xbox-360-S-Netzteil an einer Xbox-360-E verwendet werden.
+Die mechanische Kodierung des Konsolensteckers der Netzteile ist unterschiedlich, so dass nicht jedes Netzteil an jede Xbox-360-Konsole angeschlossen werden kann. Über einen ATX-Xbox-360-Adapter eines anderen Anbieters lassen sich auch handelsübliche ATX-Netzteile (mit entsprechender Leistung) an der Konsole verwenden.
+
+
+=== Speichermedien ===
+Für Videospiele werden handelsübliche Dual-Layer-DVD-Discs verwendet, die jedoch aufgrund eines Kopierschutzsystems nur 6,8 GB Speicher fassen. Damit bietet eine Xbox-360-Spieledisc weniger Speicher als das entsprechende Gegenstück für Sony PlayStation 2 oder die Nintendo Wii. Mittlerweile wurde diese Einschränkung durch die Einführung eines überarbeiteten Spieledisc-Formats aufgehoben, das bis zu 1 GB mehr Nutzdaten im Vergleich zum bisherigen zulässt. Seit dem Dashboard-Update vom Mai 2011 wird das als „Xbox Game Disc 3“ (XGD3) bezeichnete neue Format von der Xbox 360 unterstützt. Die ersten XGD3-Spiele erschienen im September 2011.Abhängig von der Variante werden unterschiedliche Speichermedien zum Abspeichern von Spielständen, Downloadinhalten und anderer Multimediadaten unterstützt. So ist eine Festplatte mit 20, 60, 120, 250, 320 oder 500 GB Kapazität erhältlich. Ausgeliefert wurde die Premium-Variante mit einer 20-GB-Festplatte. Seit dem 15. August 2008 ist die Premium/Pro-Edition mit einer 60-GB-Festplatte ausgestattet. Bei der „Elite“-Version hat die Festplatte eine Kapazität von 120 oder 250 GB. Die Xbox 360 S hat je nach Verkaufsvariante eine Festplatte mit 250, 320 oder 500 GB Speicherkapazität. Im aktuellen Modell „Xbox 360 E“ wird eine 250- oder 500-GB-Festplatte verwendet. Für den Benutzer ist allerdings nicht die volle Kapazität nutzbar, weil für die Emulation von alten Xbox-Spielen 2 GB Speicherplatz benötigt werden und zusätzlich 4 GB als Zwischenspeicher reserviert sind.
+Daneben sind Speicherkarten (Memory Unit) mit 64 und 512 MB erhältlich (eine 256-MB-Speicherkarte lag bis November 2008 der „Arcade“-Variante bei, danach wird in dieser ein 256 MB großer Flash-Speicher verwendet). Die aktuelle Xbox 360 S hat in der Verkaufsvariante ohne Festplatte einen 4 GB großen internen Flash-Speicher und unterstützt keine Memory Unit mehr.
+Mit der Dashboard-Aktualisierung vom April 2010 werden auch USB-Speichermedien zum Abspeichern systembezogener Daten unterstützt. Maximal konnten auf diesen jedoch nur 16 GB genutzt werden, seit dem Dashboard-Update vom Oktober 2012 stehen maximal 32 GB zur Verfügung. Ende April 2015 wurde die Speicherbegrenzung auf 2 TB erhöht.
+
+
+=== Ein- und Ausgabe ===
+Bis zu vier Controller über Kabel oder Funk
+Drei USB-2.0-Anschlüsse (zwei vorne, einen hinten, erweiterbar über USB-Hub), fünf bei der Xbox 360 S (zwei zusätzliche hinten)
+Ethernetschnittstelle
+AV-Ausgang
+HDMI-Ausgang (seit dem dritten Quartal 2007 in allen Varianten außer „Core“)
+
+
+==== 3D-Video über HDMI ====
+Luc Duchaine, Senior International Brand Manager der Spielumsetzung zu dem Film „Avatar“, gab bekannt, dass das Spiel eine Option für stereoskopes 3D haben wird, das nur über den HDMI-Ausgang ausgegeben werden kann, weil es den 1080p-Modus voraussetzt. Die erste Generation der Xbox 360 hat kein HDMI und kann daher das Bild nur in 2D (nicht zu verwechseln mit 3D-Grafik) als Videosignal zum Fernsehgerät senden. Zur Erzeugung des Eindrucks von räumlicher Tiefe wird zusätzlich noch ein 3D-fähiges Fernsehgerät (3DTV) und eine spezielle Filterbrille benötigt.
+
+
+=== Multimediaunterstützung ===
+Hauptabschnitt: Multimediamöglichkeiten
+Die Konsole unterstützt alle gängigen CD- und DVD-Formate. Zusätzlich ist das Rippen von Audio-CDs und das Betrachten von Videos in den Formaten .wmv sowie MPEG-4 (SP und AVC, also H.264) möglich. Seit der Dashboard-Aktualisierung im Dezember 2007 kann die Xbox 360 auch Filme abspielen, die im Format MPEG-4 Part 2 im AVI-Container vorliegen. Dazu zählen auch DivX- (ab Version 5.0) und Xvid-Filme, die im Simple Profile oder Advanced Simple Profile kodiert wurden. Diese können auch von einem USB-Stick oder einer externen Festplatte abgespielt werden.
+
+
+=== Modifikationen ===
+Mehrere Gruppen arbeiten daran, die Sicherheitsmaßnahmen des Systems zu umgehen, um so beispielsweise Sicherungskopien oder die Hardware mit alternativen Betriebssystemen wie Linux betreiben zu können. Es sind Modchips für die verwendeten DVD-Laufwerke in der Konsole von Samsung-, BenQ- oder Hitachi verfügbar. Etwa zur selben Zeit wurden diverse modifizierte Firmwares für alle Laufwerke veröffentlicht. Damit ist es möglich, Kopien der originalen Datenträger über modifizierte Laufwerke abzuspielen.
+Ende 2006 wurde bei einer Demonstration auf einer Xbox 360 mittels einer „Hypervisor privilege-escalation vulnerability“ Linux gebootet. Dies geschah durch ein modifiziertes King-Kong-Spiel, das mittels eines Shader-Exploit in der Lage war den Datenträger zu „swappen“, also die Spiel-DVD aus dem Laufwerk zu entfernen, während das Spiel weiterlief. Durch einen Bootloader konnte damals ein Custom-Linux gebootet werden. Später war eine Live-CD der Distribution Gentoo erhältlich. Diese Sicherheitslücke wurde von Microsoft mit einer folgenden Aktualisierung geschlossen, so dass diese Methode nur auf Konsolen mit der Kernel-Version 4532 und 4548 möglich war.Mit einem „Infectus-Chip“ ist es jedoch immer noch möglich die älteren Mainboard-Revisionen „Zephyr“ und „Xenon“ auf eine ältere Version zu downgraden. Seit dem „Falcon“-Mainboard funktioniert diese Methode nicht mehr und ein Downgrade ist somit nicht möglich.
+Im August 2007 ist es nach mehrjähriger Arbeit Hackern gelungen, einen eigenen CPU-Kernel auf den Hauptprozessor aufzuspielen. Dabei wird nicht der CPU-Schlüssel selber, sondern der Hashwert des Schlüssels mittels Bruteforce ermittelt. Mit einem eigenen CPU-Kernel wird jede erdenkliche Software auf der Xbox 360 ausführbar.
+Am 23. Dezember 2008 wurde nach mehrmonatiger Arbeit eine modifizierte Firmware von „Team Jungle“ für das bis zu diesem Zeitpunkt als unhackbar geltende Philips-LiteOn-Laufwerk veröffentlicht. Somit waren wieder alle bis dahin erschienenen Laufwerke modifizierbar.
+Seit Ende August 2009 ist es möglich, das Xenon-Mainboard der Xbox 360 so zu modifizieren, dass sich der interne NAND-Flash der Konsole auslesen und beschreiben lässt. Weiterhin wurde eine erweiterte Version des XeLL (Xenon Linux Loader) veröffentlicht, der es ermöglicht, Homebrew-Software auszuführen oder Linux zu booten. Am 5. Oktober 2009 folgte die Variante für Falcon-Mainboards. Der gesamte Hack basiert auf dem King-Kong-Exploit (siehe oben) und enthält nun deutlich mehr Treiber als 2007. Zum Booten wird kein gepatchtes King-Kong-Spiel mehr benötigt, was es ermöglicht, eigene Software in unter fünf Sekunden nach Konsolenstart zu booten.
+Es existieren diverse Homebrew-Anwendungen, darunter Emulatoren, grafische Oberflächen sowie Programme zur Medienwiedergabe.
+
+
+== Xbox Live ==
+
+
+=== Netzwerk ===
+Xbox Live ist ein Online-Netzwerk von Microsoft. Jeder Xbox-360-Benutzer mit einem Breitband-Internetzugang kann diesen Dienst nutzen. Microsoft bietet die Online-Dienste der Xbox 360 in zwei verschiedenen, Gold und Gratis (ehemals Silber) genannten, Paketen an. Während Gratis jedem Besitzer eines Xbox-Live-Kontos kostenlos zur Verfügung steht, ist Gold kostenpflichtig. Die Kosten sind nach Vertragsdauer gestaffelt und belaufen sich entweder auf 20 € für drei Monate oder 60 € pro Jahr. Diese Kosten können per Kreditkarte oder durch den Kauf von sogenannten Abonnementkarten im Handel beglichen werden. In einigen Ländern besteht seit 2009 auch die Möglichkeit, via PayPal zu bezahlen. In Deutschland, Österreich und der Schweiz steht diese Zahlungsmethode seit Mitte 2011 zur Verfügung. Gold-Mitglieder haben die Möglichkeit, bei Spielen den Mehrspieler-Modus über Xbox Live zu nutzen. Weiterhin stehen Gold-Inhabern besondere Downloads im Xbox Store zur Verfügung. Microsoft bietet im Rahmen seines Marketings unregelmäßig kostenlose Gold-Probetage für Gratis-Mitglieder an. Diese sind zeitlich auf nur wenige Tage begrenzt und werden zumeist an Wochenenden angeboten.
+Jeder angemeldete Benutzer kann einem anderen Benutzer geschriebene Nachrichten und Bilder zusenden, die mit der Xbox Live Vision, einer Art Webcam, erstellt wurden. Falls beide Benutzer Gold und auch Xbox Live Vision haben, ist nicht nur eine Sprachunterhaltung, sondern auch ein Videochat möglich.
+In unregelmäßigen Abständen werden Benutzer mit modifizierten Konsolen aus dem Xbox-Live-Netzwerk ausgeschlossen. Die Geräte bleiben jedoch weiterhin lokal benutzbar, wie auch das Benutzerkonto im Netzwerk.
+
+
+=== Xbox Store ===
+Der Xbox Store (bis 2013 Xbox Live Marktplatz) ist ein in das Gerät integrierter Service, der es dem Benutzer erlaubt, Inhalte auf seine Konsole herunterzuladen. Angeboten werden Demos und Videos von Spielen sowie Profilbilder und Spiele für die Xbox Live Arcade. Man hat zusätzlich die Möglichkeit, Spielfilme herunterzuladen. Diese Dateien werden mit der lokalen Währung bezahlt. Das Guthaben kann per Kreditkarte, PayPal oder auf einer Guthabenkarte im Handel erworben werden. Ein Kauf per Lastschrift ist dagegen nicht möglich. Bis Herbst 2013 wurde das eingezahlte Guthaben in sogenannte Microsoft Points umgerechnet.Microsoft koppelt auf diese Weise die Möglichkeit für Onlinekäufe von dem Besitz einer eigenen Kreditkarte ab und abstrahiert zugleich die Kosten für Erweiterungen. Die Kosten für die Daten bewegen sich in einem breiten Spektrum. Während Profilbilder nur wenige Punkte kosten oder teilweise sogar gratis sind, muss ein Spieler für Xbox-Live-Arcade-Titel 5 bis 20 € zahlen. Zudem werden viele Spiele meist auch als Demo angeboten. Die zeitlich begrenzt nutzbaren Spielfilme kosten ungefähr 3 bis 6 Euro (je nach Qualität), während Videos und Demos immer gratis sind.
+Der Xbox 360 Store soll zum 29. Juli 2024 eingestellt werden. Ab diesem Zeitpunkt können keine Spiele mehr digital für die Xbox 360 erworben werden, bereits gekaufte Spiele können weiterhin heruntergeladen werden.
+
+
+=== Partner.NET ===
+Das Partner.NET ist ausschließlich über Development Kits erreichbar. Der Zugang zum Partner.NET ist ausschließlich für Entwickler gedacht und für diese kostenlos nutzbar. Microsoft Points (bis Herbst 2013) können dort über eine virtuelle Kreditkarte hinzugefügt werden, jeder Downloadinhalt ist kostenlos und das Spielen gegen andere Entwickler ist auch möglich. Xbox Live und das Partner.NET sind völlig voneinander getrennt. Entwickler sind somit auch nur in der Lage die Onlinefunktion eines Spiels mit anderen Entwicklern zu testen (es sei denn ein öffentlicher Beta-Test oder ähnliches wird über Xbox Live veröffentlicht). Darüber hinaus haben Entwickler die Möglichkeit, ihre Spiele als „Development Version“ für andere Entwickler freizugeben.
+
+
+== Benutzeroberfläche ==
+
+
+=== Dashboard ===
+Das Dashboard (Instrumententafel) ist das zentrale Element der Benutzeroberfläche. Es erscheint nach dem Starten der Konsole und lässt sich auch über den Guide-Button erreichen. Das Dashboard ist in fünf einzelne Bereiche, auch Blades genannt, unterteilt. Diese Bereiche sind der Store, auf dem der Benutzer Demos, Videos und andere Inhalte für die Xbox herunterladen kann, Xbox Live, mit dessen Hilfe der Spieler sein Profil, seine Freundesliste und seine Nachrichten verwalten kann, Spiele, ein Überblick über die bereits gespielten Titel und Inhalte wie Demos und Videos, Medien, zur Verwaltung von Bildern, Musik und Videos, sowie System, in dem sämtliche Einstellungen der Xbox 360 angepasst werden können.
+Microsoft veröffentlicht regelmäßig, etwa jedes halbe Jahr, Aktualisierungen mit neuen Funktionen und Verbesserungen für bestehende Funktionen für das Dashboard. Diese Aktualisierungen erhält man über drei verschiedene Wege: Über Xbox Live, über eine auf einer Spiel-DVD integrierte Aktualisierungsfunktion oder manuell, indem man die Aktualisierung auf einen Computer herunterlädt und auf CD/DVD brennt bzw. auf einen USB-Massenspeicher überträgt.
+Ein umfassend überarbeitetes Dashboard, New Xbox Experience genannt, wurde am 19. November 2008 veröffentlicht.
+Im Dezember 2011 änderte Microsoft die Dashboard-Oberfläche ein weiteres Mal. Dabei wurde das Design an Microsofts Modern UI (früher Metro genannt) angepasst, das auch bei Windows Phone 7 und Windows 8 zu finden ist.
+
+
+=== Guide ===
+Mit dem sogenannten Guide Button, der als eigenständiger Knopf sowohl auf dem Controller als auch auf der Fernbedienung vorhanden ist, kann ein Benutzer in jedem Spiel auf ein kleines Benutzerinterface zurückgreifen. Nach dem Drücken des Knopfes erscheint ein Fenster mit dem man Zugriff auf sein spielerspezifisches Benutzerprofil mit bisherigen Erfolgen, gespielten Spielen, Nachrichten, Freundeslisten und anderen Informationen hat. Weiterhin lassen sich hier Einstellungen vornehmen und der Musik-Player steuern, der während des Spielens Musik von der internen Festplatte oder aus dem Netzwerk abspielen kann. Über dieses Fenster besteht weiterhin die Möglichkeit, direkt ins Dashboard zu wechseln, ohne die CD aus dem Laufwerk zu nehmen oder die Konsole bei Bedarf herunterzufahren. Das so angebotene Menü hat den Vorteil, dass man das Spiel nicht beenden muss, um auf verschiedene Funktionen zuzugreifen. Das Schließen des Fensters ermöglicht das Weiterführen des Spiels.
+
+
+=== Gamercard ===
+Jeder Benutzer verfügt nach dem ersten Starten der Konsole über ein eigenes Profil und damit auch über eine eigene Gamercard.
+Diese enthält den Benutzernamen, den Gamerscore, ein wechselbares Spielerbild und die Reputation eines Spielers. Auch das Hinzufügen einer Signatur ist möglich. Über Xbox Live wird dieser Service um einige Optionen – wie etwa die Möglichkeit des Einstellens einer eigenen Biografie – erweitert. So lässt sich dann über den Guide das Profil des gewünschten Spielers auswählen. Danach können Informationen zu seinen Erfolgen und den gespielten Spielen eingesehen werden.
+
+
+=== Gamerscore ===
+Microsoft bietet den Gamerscore, eine Art Erfolgssystem, an. Für besondere Leistungen in einem Spiel schaltet der Spieler Erfolge frei. So lassen sich bei jedem regulären Spiel 1000 Punkte und bei jedem Xbox-Live-Arcade-Spiel 200 Punkte sammeln. Seit dem 1. Juni 2012 lassen sich in den Xbox-Live-Arcade-Spielen sogar bis zu 400 Punkte freispielen. Diese lassen sich mit herunterladbaren Inhalten erweitern, so dass es bei einigen Spielen möglich ist, bis zu 1750 Gamerscore-Punkte zu sammeln. Durch das System entsteht eine höhere Motivation, das Spiel durchzuspielen und zusätzliche Aufgaben zu erfüllen.
+
+
+=== XNA ===
+
+XNA („XNA’s Not Acronymed“) ist eine von Microsoft kostenlos zur Verfügung gestellte Sammlung von Programmierschnittstellen, mit deren Hilfe man unter anderem Spiele für die Konsole entwickeln kann.
+Die Spiele werden dann im Dashboard unter dem Punkt Spiele in der Spalte Indie Games angezeigt. Für die Installation eines Spiels auf einer Xbox 360 ist eine XNA Creators Club Premiummitgliedschaft erforderlich. Dies schließt auch die Installation auf der Xbox 360 ein, ebenfalls das Debugging des eigenen Spiels.
+
+
+=== Xbox 360 Launcher ===
+Für die Development-Kit-Varianten gibt es zusätzlich zum normalen Dashboard noch das „Xbox-360-Launcher“-Dashboard, das auf diesen primär gebootet wird. Über dieses ist es für Entwickler möglich, Spiele im Debug-Modus zu starten oder sonstigen selbstprogrammierten Code auszuführen. Über den Launcher kann auch das normale Dashboard geladen werden, um eine „handelsübliche“ Xbox 360 zu simulieren.
+
+
+== Spiele ==
+Neben den üblichen auf DVD erhältlichen Spieletiteln bietet Microsoft über Xbox Live Arcade spezielle Arcade-Spiele für die Xbox 360 an. Über diesen Service können Benutzer mit einem Internetzugang gegen ein Entgelt, das mit den sogenannten Microsoft Points bezahlt wird, Spiele herunterladen und unbegrenzt spielen. Ebenso besteht die Möglichkeit, kostenlos Demos zu Spielen herunterzuladen. Bei einigen Konsolenvarianten mit Festplatte ist das Knobelspiel Hexic HD bereits vorinstalliert. Die Variante „Arcade“ wird mit fünf Spielen ausgeliefert, die auf dem internen Konsolenspeicher installiert sind. Das bisher meistverkaufte Xbox-Live-Arcade-Spiel ist die Umsetzung des Kartenspiels Uno.
+Spiele-DVDs können seit der Dashboard-Aktualisierung im November 2008 auch auf die Festplatte kopiert werden. Dadurch werden sowohl die Ladezeiten als auch der durch den Lesezugriff auf das DVD-Laufwerk verursachte Geräuschpegel reduziert. Zum Starten des Spieles muss sich die DVD allerdings im Laufwerk befinden.
+
+
+=== Launchtitel ===
+Folgende Videospiele erschienen zum Release der Konsole:
+
+
+== Zubehör ==
+
+
+=== Faceplate ===
+Die Xbox 360 hat eine abnehmbare Frontblende, die als Faceplate bezeichnet wird. Durch den Austausch dieser Frontblende kann man das Aussehen der Xbox 360 nach eigenen Wünschen anpassen. Des Öfteren werden auch, meist limitierte, spezielle Frontabdeckungen mit Motiven aus Xbox-360-Spielen angeboten. Offiziell werden von Microsoft vier verschiedene Frontabdeckungen angeboten. Zusätzlich wurde eine Abdeckung passend zur Fußball-Weltmeisterschaft 2006 angeboten, die jedoch nur in Verbindung mit einer Xbox 360 erhältlich war.
+Bei den neuen Modell Xbox 360 S und E ist die Frontblende nicht mehr abnehmbar und aufgrund der geänderten Gehäuseform, sind auch die alten Faceplates nicht mehr nutzbar.
+
+
+=== Festplatte ===
+Im Handel sind 20-, 60-, 120- und 250-GB-Festplatten erhältlich. Angeschlossen wird die Festplatte an einem Anschluss an der Oberseite der Konsole. Die Festplattenerweiterung ist speziell für die Core- bzw. Arcade-Versionen gedacht, die ohne Festplatte ausgeliefert werden. Die Xbox 360 wird in der Premium- und Elite-Version bereits mit einer Festplatte ausgeliefert, diese kann jedoch auch abgenommen und durch eine andere ersetzt werden.
+Für die aktuelle Xbox 360 S und E sind Festplatten mit einer Größe von 250, 320 und 500 GB erhältlich, die in einen dafür vorgesehenen Laufwerksschacht am Gehäuse eingeschoben werden.
+
+
+=== Speicherkarte ===
+Speicherkarten, die sogenannte Memory Unit, für die Xbox 360 sind in den Größen 64, 256 und 512 MB erhältlich und werden in die zwei Schnittstellen an der Vorderseite der Konsole gesteckt. Die 256-MB-Speicherkarte lag bis November 2008 der Arcade-Version bei. Seit Überarbeitung der Konsole (Mainboard „Jasper“) wird ein 256 MB großer interner Flash-Speicher verwendet.Der Hersteller Datel vertreibt mit der Max Memory Unit eine eigene Speicherkarte mit einer Speicherkapazität von 2 und 4 GB. Sie ist durch Einstecken eines microSD-Speichermediums auf bis zu 16 GB erweiterbar. Mittlerweile hat Microsoft die Nutzung dieser Speicherkarten unterbunden, da die Konsole seit der Dashboard-Aktualisierung vom Oktober 2009 keine Datel-Speicherkarten mehr erkennt.
+
+Aufgrund des fehlenden Anschlusses, ist die Memory Unit seit der Xbox 360 S nicht mehr nutzbar. Stattdessen kann – wie auch für das erste Xbox-360-Modell – jedes USB-Speichergerät zum Abspeichern von spiele- und systembezogener Daten verwendet werden.
+
+
+=== Controller ===
+
+Microsoft hat für die Xbox 360 zwei unterschiedliche Gamepads entworfen: Eine USB-Kabel-Version sowie ein kabelloses Gegenstück. Beide Controller können auf einem herkömmlichen PC betrieben werden. Für den kabellosen Controller ist jedoch ein Adapter nötig. Der schnurlose hat eine Reichweite von etwa neun Metern. Dieser Controller wird durch Akkumulatoren oder durch herkömmliche Batterien mit Strom versorgt. Auf beiden Controllern befindet sich der Guide Button, mit dem man Zugriff auf das Guide-Menü und somit das persönliche Profil hat, sowie der „Ring of Light“, der die Position des Controllers anzeigt. Außerdem haben beide Varianten einen Eingang für das Headset.
+
+
+=== WLAN-Adapter ===
+Mit dem WLAN-Adapter kann der Besitzer seine Konsole in ein kabelloses Netzwerk einbinden. Dazu wird der Adapter an der Rückseite der Konsole angebracht und über den USB-Anschluss verbunden. Der Adapter hat eine Übertragungsgeschwindigkeit von 54 Mbit/s und unterstützt die Standards 802.11a und 802.11b/g mit WEP- und WPA-Verschlüsselung. Mit der Dashboard-Aktualisierung von Ende Oktober 2009 unterstützt die Konsole auch WPA2.Im November 2009 wurde zusätzlich ein neuer WLAN-Adapter auf den Markt gebracht, der neben den bisherigen Standards zusätzlich 802.11n unterstützt. Der Wireless Network Adapter N erreicht Übertragungsraten von bis zu 300 Mbit/s und hat eine zweite Antenne.
+Der WLAN-Adapter ist für das Modell Xbox 360 S und E nicht mehr zwingend erforderlich, da ein WLAN-Modul integriert ist.
+
+
+=== Play & Charge Kit ===
+Optional ist mit dem Play & Charge Kit ein austauschbarer Akku sowie mit dem Quick Charge Kit eine Akku-Ladestation für den Controller erhältlich. Der Akku verspricht eine Spieldauer von etwa 25 Stunden. Mit einem Druck auf den Guide Button lässt sich jederzeit der Ladezustand des Akkus abrufen.
+Das Play & Charge Kit enthält einen Akku sowie ein Ladekabel, das an der Rückseite des kabellosen Controllers angebracht wird. Der Akku kann im ausgeschalteten Zustand aufgeladen werden (das Netzteil wird nach Beendigung ausgeschaltet), aber auch während des Spielens. Außerdem erschien das Quick Charge Kit (Schnelllade-Kit), die das Laden von zwei Akkus gleichzeitig ermöglicht; hier muss der Ladevorgang manuell beendet werden. Da das Ladekabel mittels USB an die Konsole angeschlossen wird, kann man den Controller auch an einem PC betreiben. Die Treiber für so angeschlossene Controller sind ab Windows 7 bereits im Lieferumfang enthalten, so wird der Betrieb des Xbox-360-Gamepads an einem PC problemlos möglich (dies funktioniert allerdings ausschließlich mit den Kabeln, die zusätzlich zu den Stromleitungen auch Datenleitungen haben; somit kommen die Kabel vieler Dritthersteller hierfür nicht in Frage). Der bei Windows mitgelieferte Treiber ermöglicht es auch, die Konsole mit dem am PC angeschlossenen Controller über das Netzwerk zu steuern, sofern sich Konsole und PC im selben Netzwerk befinden.
+
+
+=== Headset ===
+Das Headset bietet die Möglichkeit, mit anderen Xbox-360-Besitzern zu kommunizieren. Das Zubehör wird an der Vorderseite des Controllers angebracht. Microsoft veröffentlichte im November 2006 auch eine kabellose Version.
+
+
+=== Fernbedienung ===
+Die Fernbedienung kann auch an einem PC und an einem normalen Fernseher genutzt werden. Auf ihr befindet sich wie auf dem Controller der Guide Button. Mit ihr ist es möglich, durch das Dashboard der Xbox zu navigieren. Während des Starts der Xbox 360 in Europa wurde im Premium-Paket eine verkleinerte Version der Fernbedienung mitgeliefert.
+
+
+=== Kabel ===
+Für die Konsole sind eine Reihe von Kabeln erschienen, die unter anderem einen Betrieb an hochauflösenden Fernsehern und an Computer-Monitoren ermöglichen.
+
+
+=== Xbox Live Vision ===
+Die Xbox Live Vision ist eine Webcam und wird über einen freien USB-Anschluss an die Xbox 360 angeschlossen. Die Konsole unterstützt diese Kamera bereits seit der ersten Dashboard-Erweiterung. Das Paket beinhaltet die Kamera, die Xbox-Live-Arcade-Spiele Uno und TotemBall sowie einen Monat Xbox Live Gold und ein Headset.
+
+
+=== Lenkrad ===
+Ein kabelloses Lenkrad mit Pedalen und Force-Feedback-Unterstützung wurde auf der E3 2006 vorgestellt. Auf dem Lenkrad sind nicht alle Knöpfe und Hebel des Controllers vorhanden. Das Zubehör kann auch an einem Computer genutzt werden und erschien in Deutschland Ende 2006.
+
+
+=== HD-DVD-Laufwerk ===
+
+Auf der E3 2006 wurde ein externes USB-Laufwerk für die Wiedergabe von HD DVDs vorgestellt. Eine mögliche Verwendung des HD-DVD-Mediums (und der daraus resultierenden deutlich höheren Speicherkapazität) für Spiele wurde damals von Seiten Microsofts ausgeschlossen. In Deutschland kam das HD-DVD-Laufwerk am 24. November 2006 zum Preis von 199 Euro inklusive des HD-DVD-Films King Kong in den Handel. Im Januar 2008 wurde der Preis des Laufwerks auf 99 Euro gesenkt. Anfang Mai 2008 senkte der Internethändler Amazon den Preis gar auf 10 Euro, um Restbestände zu verkaufen. Diese Preisentwicklung fand statt, nachdem Toshiba als bis dahin größter Unterstützer das HD-DVD-Format Mitte Februar 2008 aufgab. Die Folge war, dass in Zukunft keine Filme im HD-DVD-Format veröffentlicht würden und auch keine neuen HD-DVD-Geräte auf den Markt kommen sollten. Ende Februar 2008 gab Microsoft bekannt, dass die Xbox 360 keine Unterstützung für optische Medien mit hochauflösenden Videoinhalten mehr bieten würde. Microsoft werde verstärkt darauf setzen, HD-Inhalte per digitaler Distribution über Xbox Live zu liefern.
+Die Verwendung des externen HD-DVD-Laufwerks an einem handelsüblichen PC ab Windows XP ist ebenfalls möglich.
+
+
+=== Kinect ===
+
+Ab November 2010 war für die Xbox 360 eine Erweiterung erhältlich, die dafür entwickelt wurde, Spiele mit eigenen Bewegungen zu steuern. In der Leiste befinden sich eine Kamera und ein Infrarotsensor, welche die Bewegungen des Spielers auf den Bildschirm übertragen, wobei – anders als bei der Wii-Fernbedienung oder bei PlayStation Move der PlayStation 3 – kein Controller benötigt wird.
+Kinect wurde als Bundle zusammen mit den Xbox-360-S sowie später auch Xbox-360-E Konsolen angeboten, war jedoch auch einzeln erhältlich. Seit dem Dashboard-Update vom November 2010 kann Kinect an sämtlichen Xbox-360-Konsolen verwendet werden. Für ältere Konsolen wird dabei ein zusätzliches Netzteil benötigt, das nur im Lieferumfang des Einzelpakets beiliegt. Die Xbox 360 S und Xbox 360 E stellen über einen Spezialanschluss die Stromversorgung zur Verfügung.
+
+
+== Multimediamöglichkeiten ==
+Musik von Audio-CDs lässt sich auf die angeschlossene Festplatte kopieren. Bei einigen CDs erkennt die Konsole automatisch den Interpreten und Titel. Mit MP3- und WMA-Dateien ist das zwar nicht möglich, diese können dafür, wie auch die kopierten Dateien, im Dashboard und in allen Spielen abgespielt werden. Demnach ist auch der Anschluss von externen Datenträgern wie MP3-Playern möglich.
+Falls auf einer angeschlossenen Digitalkamera oder einem externen Datenträger Bilder zur Verfügung stehen, können diese in einer Diashow abgespielt, jedoch nicht auf die Festplatte kopiert werden. Beim Abspielen lässt sich beispielsweise die Größe und Reihenfolge der Bilder bestimmen oder deren Ausrichtung. Dabei werden alle gängigen Formate unterstützt. Bei Bedarf lassen sich Bildmotive auch als Hintergrund festlegen.
+Neben der Wiedergabe von Audio-CDs und Bildern kann die Xbox 360 auch Video-DVDs abspielen. Ebenso können Videos im WMV-Format abgespielt, jedoch nicht auf die Festplatte kopiert werden. Die Konsole unterstützt auch die Wiedergabe von hochauflösenden WMV-Dateien.
+Weiter können Videos und Musik auch von einem im Netzwerk befindlichen Server oder Computer mit Windows Media Center Edition zur Xbox 360 gestreamt und dort abgespielt werden. Dies ist mit Videos bis zu HD-Auflösungen und in mehreren Codecs (MPEG-2/4, WMV) und Containern (WMV, MOV, TS) möglich.Seit der Dashboard-Aktualisierung im Dezember 2007 werden durch den Download der „optionalen Medienaktualisierung“ auch DivX- und Xvid-Formate unterstützt.
+
+
+== Bekannte Probleme ==
+Ein allgemeiner Hardwaredefekt der Konsole wird am Ring of Light, dem Ring auf der Vorderseite, durch drei rote Leuchtdioden angezeigt (was oft ironisch als Red Ring of Death bezeichnet wird). Auf Grund der – nach Aussage von Microsoft im Juni 2007 – „unannehmbar hohen Anzahl von Reparaturen“ der Xbox 360 mit diesem Fehler wurden Änderungen an der Xbox 360 vorgenommen. Außerdem wurde die Garantiezeit weltweit auf drei Jahre bei allen betroffenen Geräten rückwirkend verlängert. Zudem soll es eine Entschädigung für bereits bezahlte Reparaturen auf Grund dieses Fehlers geben.Bereits 2006 hatte es eine größere Anzahl von Problemen mit der Xbox 360 gegeben, Medienberichten zufolge lag die Ausfallsrate zu der Zeit bei 30–50 %. In den USA und Kanada hatte Microsoft darauf hin bereits im Dezember 2006 die Garantiezeit von 90 Tagen auf ein Jahr verlängert. Bei einer Umfrage im August 2009 des Spielemagazins Game Informer an etwa 5000 Leser ergab sich eine Fehlerrate der Xbox 360 von 54,2 Prozent und damit mehr als fünf Mal so hoch wie bei den folgenden Konsolen PS3 und Wii.
+
+
+=== Red Ring of Death ===
+Das meistdiskutierte Problem, mit dem Microsoft zu kämpfen hatte, ist ein Totalausfall der Konsole, welcher sich in rot blinkenden Front-LEDs („Red Ring of Death“) sowie ansonsten völliger Funktionslosigkeit der Konsole äußert. Als Ursache wurden zunächst unzureichende Kühlung sowie eine erhöhte Brüchigkeit des verwendeten bleifreien Lots diskutiert, das damaligen Annahmen zufolge durch die häufigen Temperaturwechsel zwischen ausgeschaltetem und Betriebszustand bei etwa einem Drittel aller Geräte brüchig wird, so dass der Kontakt verloren geht. Bei den Reparaturen durch Microsoft wurden anfangs nur diese Lötstellen wiederhergestellt, was jedoch nach einiger Zeit zu erneuten Ausfällen führte. Zeitweise wurde bei Reparaturen sowie in ab ca. Ende 2006 produzierten Konsolen (spät produzierte „Xenon“-Konsolen sowie sämtliche „Zephyr“-Konsolen) ein vergrößerter GPU-Kühler angebracht, der über eine Heatpipe verbundene zusätzliche Kühlrippen im CPU-Luftstrom platziert, um eine verbesserte GPU-Kühlleistung zu erreichen.Später zeigte sich jedoch, dass das eigentliche Problem in dem bei der Flip-Chip-Montage der GPU verwendeten Underfill liegt – einem speziellen Kleber, dessen Aufgabe darin besteht, mechanische Spannungen, welche durch Temperaturunterschiede zwischen Die und Substrat entstehen, gleichmäßig zu verteilen. Das Underfill verfügt bei der GPU der Xbox 360 über eine zu gering ausgelegte Glasübergangstemperatur, wodurch es im Betrieb vorzeitig erweicht. Daher kann es den Schutz der Lötverbindungen gegen durch selbst im Normalbetrieb aufgrund von Temperaturunterschieden entstehende mechanische Spannungen nicht länger gewährleisten, was zu einem Brechen der Lötverbindungen zwischen Die und Substrat führt. Tatsächlich handelte es sich um ein industrieweites Problem, von dem etwa auch Nvidia und in der Folge zahlreiche andere Produkte wie etwa die PlayStation 3 („Yellow Light of Death“) sowie viele Notebooks und Grafikkarten betroffen waren. Da dieser Effekt bereits im Normalbetrieb unter den vorgesehenen Betriebstemperaturen auftritt, spielen die Kühlleistung, mögliche Überhitzungsprobleme sowie das bleifreie Lot zwischen Substrat und Mainboard allenfalls eine untergeordnete Rolle. Eine Verbesserung der Kühlleistung sowie die geringere Abwärme neuerer GPU-Revisionen konnten die aufgrund dieses Designfehlers entstehenden Defekte lediglich hinauszögern. 
+Eine dauerhafte Lösung für dieses Problem gab es, nachdem ab ca. März 2008 GPUs mit verändertem Underfill verbaut wurden. Auch ältere Varianten der GPU wurden nun mit dem aktualisierten Underfill gefertigt und zur Reparatur existierender Konsolen der früheren, fehleranfälligen Revisionen verwendet. Somit lässt sich kein direkter Zusammenhang zwischen der GPU-Strukturgröße und der Fehleranfälligkeit herstellen. Da die 65 nm-GPUs erst in Produktion gingen, als das Problem bereits erkannt und behoben war, sind diese grundsätzlich nicht betroffen. Die CPU der Xbox 360 war von diesem Problem überhaupt nicht betroffen, weder in der 90 nm-Variante, noch in der 65 nm-Variante. Ausschlaggebend ist das verwendete Underfill-Material.Durch die sehr hohe Anzahl von notwendigen Reparaturen kam es zu erheblichen Service-Verzögerungen. Microsoft reagierte durch die Einbeziehung weiterer Partner in den Reparaturprozess.Im Jahr 2021 erschien ein von Microsoft selbst produzierter Dokumentarfilm, welcher in einem Abschnitt auch die Geschichte des „Red Ring of Death“ behandelt.Am 3. Februar 2009 wurde von Microsoft ein Patch für ein HDMI-Soundproblem veröffentlicht. Im Internet mehren sich die Berichte von Benutzern, die nach Einspielen der Aktualisierung plötzlich den Red Ring of Death sahen. Ob die Aktualisierung wirklich einen Fehler enthält und für einen angeblichen Massenausfall der Konsolen verantwortlich ist, wurde bisher nicht bestätigt.
+
+
+=== Zerkratzte Datenträger ===
+Die Xbox 360 kann CDs und DVDs zerkratzen, wenn sie während des Betriebs bewegt wird. Mit dem Problem beschäftigte sich seit Juni 2007 auch die damalige EU-Verbraucherschutzkommissarin Meglena Kunewa, nachdem in der niederländischen TV-Show Kassa das Problem nachgewiesen wurde. Sie stellte Microsoft darauf hin ein Ultimatum, sich zu Lösungsmöglichkeiten des Problems zu äußern.In den USA wurde im Juli 2007 Sammelklage gegen Microsoft eingereicht, da Microsoft angeblich für den Tausch von durch die Xbox 360 zerkratzten Spielen zu Unrecht eine Gebühr verlangt hat.
+
+
+== Weblinks ==
+
+Offizieller Bereich der Xbox 360 von xbox.com (Memento vom 12. September 2016 im Internet Archive)
+Abwärtskompatibilitätsliste alter Xbox Spiele mit 50/60-Hz-Problematik (englisch)
+Xbox 360 – Technische Grundlagen
+
+
+== Einzelnachweise ==

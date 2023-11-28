@@ -1,0 +1,1748 @@
+Las leyes de Newton, también conocidas como  leyes del movimiento de Newton,[1]​ son tres principios a partir de los cuales se explican una gran parte de los problemas planteados en mecánica clásica, en particular aquellos relativos al movimiento de los cuerpos, que revolucionaron los conceptos básicos de la física y el movimiento de los cuerpos en el universo.
+
+ 
+
+En concreto, la relevancia de estas leyes radica en dos aspectos: por un lado constituyen, junto con la transformación de Galileo, las bases de la mecánica clásica, y por otro, al combinar estas leyes con la ley de la gravitación universal, se pueden deducir y explicar las leyes de Kepler sobre el movimiento planetario. Así, las leyes de Newton permiten explicar, por ejemplo, tanto el movimiento de los astros como los movimientos de los proyectiles artificiales creados por el ser humano y toda la mecánica de funcionamiento de las máquinas. Su formulación matemática fue publicada por Isaac Newton en 1687 en su obra Philosophiæ naturalis principia mathematica.[nota 1]​
+La dinámica de Newton, también conocida como dinámica clásica, solo se cumple en los sistemas de referencia inerciales (que se mueven a velocidad constante; la Tierra, aunque gire y rote, se trata como tal a efectos de muchos experimentos prácticos). Solo es aplicable a cuerpos cuya velocidad dista considerablemente de la velocidad de la luz; cuando la velocidad del cuerpo se va aproximando a los 300 000 km/s (lo que ocurriría en los sistemas de referencia no-inerciales) aparecen una serie de fenómenos denominados efectos relativistas. El estudio de estos efectos (contracción de la longitud, por ejemplo) corresponde a la teoría de la relatividad especial, enunciada por Albert Einstein en 1905.
+
+
+== Fundamentos teóricos ==
+El primer concepto que maneja Newton es el de masa, que identifica con «cantidad de materia». Newton asume a continuación que la cantidad de movimiento es el resultado del producto de la masa por la velocidad. En tercer lugar, precisa la importancia de distinguir entre lo absoluto y relativo siempre que se hable de tiempo, espacio, lugar, o movimiento.
+En este sentido, Newton, que entiende el movimiento como una traslación de un cuerpo de un lugar a otro, para llegar al movimiento absoluto y verdadero de un cuerpo:
+
+ 
+
+De acuerdo con este planteamiento, establece que los movimientos aparentes son las diferencias de los movimientos verdaderos y que las fuerzas son causas y efectos de estos. Consecuentemente, la fuerza en Newton tiene un carácter absoluto, no relativo.
+Las leyes enunciadas por Newton, y consideradas como las más importantes de la mecánica clásica, son tres: la ley de inercia, la relación entre fuerza y aceleración y la ley de acción y reacción. Newton planteó que todos los movimientos se atienen a estas tres leyes principales, formuladas en términos matemáticos. Un concepto es la fuerza, causa del movimiento y otro es la masa, la medición de la cantidad de materia puesta en movimiento; los dos son denominados habitualmente por las letras F y m.
+
+
+== Primera ley de Newton o ley de inercia ==
+La primera ley del movimiento rebate la idea aristotélica de que un cuerpo solo puede mantenerse en movimiento si se le aplica una fuerza. Newton expone que:
+
+ 
+
+Esta ley postula, por tanto, que un cuerpo no puede cambiar por sí solo su estado inicial, ya sea en reposo o en movimiento rectilíneo uniforme, a menos que se aplique una fuerza o una serie de fuerzas cuya resultante no sea nula. Newton toma en consideración, así, el que los cuerpos en movimiento están sometidos constantemente a fuerzas de roce o fricción, que los frena de forma progresiva, algo novedoso respecto de concepciones anteriores que entendían que el movimiento o la detención de un cuerpo se debía exclusivamente a si se ejercía sobre ellos una fuerza, pero nunca entendiendo como tal a la fricción.
+En consecuencia, un cuerpo que se desplaza con movimiento rectilíneo uniforme implica que no existe ninguna fuerza externa neta o, dicho de otra forma, un objeto en movimiento no se detiene de forma natural si no se aplica una fuerza sobre él. En el caso de los cuerpos en reposo, se entiende que su velocidad es cero, por lo que si esta cambia es porque sobre ese cuerpo se ha ejercido una fuerza neta.
+Newton retomó la ley de la inercia de Galileo: la tendencia de un objeto en movimiento a continuar moviéndose en una línea recta, a menos que sufra la influencia de algo que le desvíe de su camino.[6]​ Newton supuso que si la Luna no salía disparada en línea recta, según una línea tangencial a su órbita, se debía a la presencia de otra fuerza que la empujaba en dirección a la Tierra, y que desviaba constantemente su camino convirtiéndolo en un círculo. Newton llamó a esta fuerza gravedad y creyó que actuaba a distancia. No hay nada que conecte físicamente la Tierra y la Luna y sin embargo la Tierra está constantemente tirando de la Luna hacia nosotros. Newton se sirvió de la tercera ley de Kepler y dedujo matemáticamente la naturaleza de la fuerza de la gravedad. Demostró que la misma fuerza que hacía caer una manzana sobre la Tierra mantenía a la Luna en su órbita.
+La primera ley de Newton establece la equivalencia entre el estado de reposo y de movimiento rectilíneo uniforme. Supongamos un sistema de referencia S y otro S´ que se desplaza respecto del primero a una velocidad constante. Si sobre una partícula en reposo en el sistema S´ no actúa una fuerza neta, su estado de movimiento no cambiará y permanecerá en reposo respecto del sistema S´ y con movimiento rectilíneo uniforme respecto del sistema S. La primera ley de Newton se satisface en ambos sistemas de referencia. A estos sistemas en los que se satisfacen las leyes de Newton se les da el nombre de sistemas de referencia inerciales. Ningún sistema de referencia inercial tiene preferencia sobre otro sistema inercial, son equivalentes: este concepto constituye el principio de relatividad de Galileo o newtoniano.
+El enunciado fundamental que podemos extraer de la ley de Newton es que
+
+  
+    
+      
+        ∑
+        
+          F
+        
+        =
+        
+          0
+        
+        
+        ⇔
+        
+        
+          
+            
+              
+                d
+              
+              
+                v
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          0
+        
+        .
+      
+    
+    {\displaystyle \sum \mathbf {F} =\mathbf {0} \;\Leftrightarrow \;{\frac {\mathrm {d} \mathbf {v} }{\mathrm {d} t}}=\mathbf {0} .}
+  Esta expresión es una ecuación vectorial, ya que las fuerzas llevan dirección y sentido. Por otra parte, cabe destacar que la variación de la velocidad corresponde a la aceleración.
+
+
+=== Sistemas de referencia inerciales ===
+
+La primera ley de Newton sirve para definir un tipo especial de sistemas de referencia conocidos como sistemas de referencia inerciales, que son aquellos desde los que se observa que un cuerpo sobre el que no actúa ninguna fuerza neta, se mueve con velocidad constante.
+Un sistema de referencia con aceleración (y la aceleración normal de un sistema rotatorio se incluye en esta definición) no es un sistema inercial, y la observación de una partícula en reposo en el propio sistema no satisfará las leyes de Newton (puesto que se observará aceleración sin la presencia de fuerza neta alguna). Se denominan sistemas de referencia no inerciales.
+
+Por ejemplo considérese una plataforma girando con velocidad angular constante, ω, en la que un objeto está atado al eje de giro mediante una cuerda, y supongamos dos observadores, uno inercial externo a la plataforma y otro no inercial situado sobre ella.[7]​
+
+Observador inercial: desde su punto de vista el bloque se mueve en círculo con velocidad v y está acelerado hacia el centro de la plataforma con una aceleración centrípeta 
+  
+    
+      
+        a
+        =
+        
+          
+            
+              
+                v
+                
+                  2
+                
+              
+              r
+            
+          
+        
+      
+    
+    {\displaystyle a={\tfrac {v^{2}}{r}}}
+  . Esta aceleración es consecuencia de la fuerza ejercida por la tensión de la cuerda.
+Observador no inercial: para el observador que gira con la plataforma el objeto está en reposo, a = 0. Es decir, observa una fuerza ficticia que contrarresta la tensión para que no haya aceleración centrípeta. Esa fuerza debe ser 
+  
+    
+      
+        
+          F
+          
+            c
+          
+        
+        =
+        
+          
+            
+              
+                m
+                
+                  v
+                  
+                    2
+                  
+                
+              
+              r
+            
+          
+        
+      
+    
+    {\displaystyle F_{c}={\tfrac {mv^{2}}{r}}}
+  . Este observador siente la fuerza como si fuera perfectamente real, aunque solo sea la consecuencia de la aceleración del sistema de referencia en que se encuentra.En realidad, es imposible encontrar un sistema de referencia inercial, ya que siempre hay algún tipo de fuerzas actuando sobre los cuerpos; no obstante, siempre es posible encontrar un sistema de referencia en el que el problema que estemos estudiando se pueda tratar como si estuviésemos en un sistema inercial. En muchos casos, la Tierra es una buena aproximación de sistema inercial, ya que a pesar de contar con una aceleración traslacional y otra rotacional, ambas son del orden de 0.01 m/s² y, en consecuencia, podemos considerar que un sistema de referencia de un observador en la superficie terrestre es un sistema de referencia inercial.
+
+
+=== Aplicaciones de la primera ley de Newton ===
+Se puede considerar como ejemplo ilustrativo de esta primera ley o ley de la inercia una bola atada a una cuerda, de modo que la bola gira siguiendo una trayectoria circular. Debido a la fuerza centrípeta de la cuerda (tensión), la masa sigue la trayectoria circular, pero si en algún momento la cuerda se rompiese, la bola tomaría una trayectoria rectilínea en la dirección de la velocidad que tenía la bola en el instante de rotura.
+
+Tras la rotura, la fuerza neta ejercida sobre la bola es 0, por lo que experimentará, como resultado de un estado de reposo, un movimiento rectilíneo uniforme.
+
+
+== Segunda ley de Newton o ley fundamental de la dinámica ==
+Originalmente, la segunda ley de Newton expresa que:
+
+ 
+
+Es importante destacar que Newton no tenía una única noción de fuerza: éstas podían ser fuerzas inerciales (vis insita), fuerzas impresas (vis impressa) o fuerzas centrípetas (vis centripeta).[9]​ En específico, de acuerdo con la segunda ley, cualquier fuerza impresa es la causa de una variación observable en el movimiento de un objeto. La segunda ley que propuso Newton originalmente no hace una mención explícita a la masa, aceleración o a la variación de la velocidad en el tiempo, sin embargo el cambio en el movimiento es considerado como una forma de describir la variación en la «cantidad de movimiento», que en su forma actual es una magnitud vectorial. En términos modernos, y dentro del ámbito de la mecánica clásica, el movimiento de un objeto está descrito por su momentum (o momento):
+
+  
+    
+      
+        
+          p
+        
+        =
+        m
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {p} =m\mathbf {v} }
+  ,
+donde 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   es la masa del objeto y 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   su velocidad. Así, la segunda ley de Newton (o ley fundamental de la dinámica) se puede postular en forma matemática como
+
+  
+    
+      
+        
+          F
+        
+        =
+        
+          
+            
+              d
+              
+                p
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} ={\frac {d\mathbf {p} }{dt}}}
+  
+Es decir, la fuerza que genera el movimiento es directamente proporcional al cambio del momentum en cada unidad de tiempo. De esta ecuación se obtiene la unidad de medida de la fuerza en el Sistema Internacional de Unidades, el Newton:
+
+  
+    
+      
+        1
+        
+        
+          N
+        
+        =
+        1
+        
+        
+          
+            
+              
+                kg
+              
+              ⋅
+              
+                m
+              
+            
+            
+              
+                s
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle 1\,{\text{N}}=1\,{\frac {{\text{kg}}\cdot {\text{m}}}{{\text{s}}^{2}}}}
+  
+
+Hay que notar que cuando actúan múltiples fuerzas sobre un objeto, la segunda ley de Newton hace referencia a la fuerza neta que actúa sobre este. Por lo que el cambio en el momentum de un objeto está dado por la suma vectorial de todas las fuerzas que actúan en él. Esto se conoce como el principio de superposición de fuerzas: si 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   fuerzas actúan sobre un mismo objeto, entonces la fuerza neta está dada por
+
+  
+    
+      
+        
+          F
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            K
+          
+        
+        
+          
+            F
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} =\sum _{i=1}^{K}\mathbf {F} _{i}}
+  
+En términos geométricos, también se conoce como regla del paralelogramo. Este principio aparece incluido en los Principia de Newton como Corolario 1, después de la tercera ley, pero es requisito indispensable para la comprensión y aplicación de las leyes, así como para la caracterización vectorial de las fuerzas.[10]​
+La segunda ley de Newton solo es válida en sistemas de referencia inerciales pero incluso si el sistema de referencia es no inercial, se puede utilizar la misma ecuación incluyendo las fuerzas ficticias (o fuerzas inerciales).
+
+
+=== Casos especiales ===
+Introduciendo la definición de momentum, como masa por velocidad, en la segunda ley de Newton, se pueden reconocer dos casos importantes: cuando la masa del objeto es constante y cuando varía.
+
+
+==== Masa constante ====
+Si la masa del cuerpo se mantiene constante, entonces la segunda ley de Newton implica que
+
+  
+    
+      
+        
+          F
+        
+        =
+        m
+        
+          
+            
+              d
+              
+                v
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        m
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {F} =m{\frac {d\mathbf {v} }{dt}}=m\mathbf {a} }
+  
+Es decir, la aceleración que adquiere un objeto es proporcional a la fuerza neta aplicada sobre él, siendo la constante de proporcionalidad la masa inercial del objeto. Como la fuerza y la aceleración son vectores, la segunda ley implica que estos vectores son paralelos.
+
+
+==== Masa variable ====
+Cuando la masa del objeto varía, entonces la segunda ley de Newton toma la forma
+
+  
+    
+      
+        
+          F
+        
+        =
+        m
+        
+          
+            
+              d
+              
+                v
+              
+            
+            
+              d
+              t
+            
+          
+        
+        −
+        
+          
+            v
+          
+          
+            r
+            e
+            l
+          
+        
+        
+          
+            
+              d
+              m
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} =m{\frac {d\mathbf {v} }{dt}}-\mathbf {v} _{rel}{\frac {dm}{dt}}}
+  
+donde 
+  
+    
+      
+        
+          F
+        
+      
+    
+    {\displaystyle \mathbf {F} }
+   es la fuerza neta sobre el objeto, 
+  
+    
+      
+        
+          
+            v
+          
+          
+            r
+            e
+            l
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} _{rel}}
+   es la velocidad relativa de la masa que está ingresando o escapando con respecto al centro de masas del objeto, y 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   es la velocidad del objeto principal.
+
+
+=== Impulso ===
+La ley fundamental de la dinámica establece que una variación en el momentum se puede expresar en función de la fuerza que actúa en este y del intervalo de tiempo durante el cual se ejerce la fuerza:
+
+  
+    
+      
+        Δ
+        
+          p
+        
+        =
+        
+          F
+        
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta \mathbf {p} =\mathbf {F} \Delta t}
+  
+En el límite en que el intervalo de tiempo tiende a 0, se tiene la forma diferencial
+
+  
+    
+      
+        d
+        
+          p
+        
+        =
+        
+          F
+        
+        d
+        t
+      
+    
+    {\displaystyle d\mathbf {p} =\mathbf {F} dt}
+  
+Si la fuerza es variable en el tiempo, esta ecuación se puede integrar entre un intervalo dado, dígase entre 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{1}}
+   y 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{2}}
+  , quedando como
+
+  
+    
+      
+        
+          I
+        
+        =
+        
+          ∫
+          
+            
+              t
+              
+                1
+              
+            
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+        
+          F
+        
+        d
+        t
+        =
+        
+          ∫
+          
+            
+              
+                p
+              
+              
+                1
+              
+            
+          
+          
+            
+              
+                p
+              
+              
+                2
+              
+            
+          
+        
+        d
+        
+          p
+        
+        =
+        
+          
+            p
+          
+          
+            2
+          
+        
+        −
+        
+          
+            p
+          
+          
+            1
+          
+        
+        =
+        Δ
+        
+          p
+        
+      
+    
+    {\displaystyle \mathbf {I} =\int _{t_{1}}^{t_{2}}\mathbf {F} dt=\int _{\mathbf {p} _{1}}^{\mathbf {p} _{2}}d\mathbf {p} =\mathbf {p} _{2}-\mathbf {p} _{1}=\Delta \mathbf {p} }
+  
+La cantidad vectorial 
+  
+    
+      
+        
+          I
+        
+      
+    
+    {\displaystyle \mathbf {I} }
+   es denominada impulso lineal y representa una magnitud física que se manifiesta también en las acciones rápidas o impactos, tales como choques, llevando módulo dirección y sentido. Sus unidades en el Sistema Internacional son 
+  
+    
+      
+        
+          kg
+        
+        ⋅
+        
+          
+            m
+            s
+          
+        
+      
+    
+    {\displaystyle {\text{kg}}\cdot {\frac {\text{m}}{\text{s}}}}
+  . En este tipo de acciones conviene considerar la duración del impacto y la fuerza ejercida durante el mismo.
+
+
+=== Aplicaciones de la segunda ley de Newton ===
+Entre las posibles aplicaciones de la Segunda Ley de Newton, se pueden destacar:
+
+Caída libre: es un movimiento que se observa cuando un objeto se deja caer desde una cierta altura sobre la superficie de la Tierra, en el que la única fuerza sobre el objeto considerada es su propio peso. Para estudiar el movimiento se puede elegir un sistema de coordenadas donde el origen del eje y está sobre esta última y sea positivo en la dirección contraria a la fuerza de gravedad en ese punto ("arriba"). En este sistema tanto la velocidad de caída como la aceleración de la gravedad tienen signo negativo. En el ejemplo representado, se supone que el objeto se deja caer desde el reposo, pero es posible que caiga desde una velocidad inicial distinta de cero.[11]​Péndulo simple: partícula de masa m suspendida del punto O por un hilo inextensible de longitud l y de masa despreciable. Si la partícula se desplaza a una posición θ0 (ángulo que hace el hilo con la vertical) y luego se suelta, el péndulo comienza a oscilar. El péndulo describe una trayectoria circular, un arco de una circunferencia de radio l. Las fuerzas que actúan sobre la partícula de masa m son dos, el peso y la tensión T del hilo.Si se aplica la segunda ley, en la dirección radial:
+
+  
+    
+      
+        m
+        ⋅
+        
+          a
+          
+            n
+          
+        
+        =
+        T
+        −
+        m
+        g
+        ⋅
+        cos
+        ⁡
+        
+          θ
+        
+      
+    
+    {\displaystyle m\cdot a_{n}=T-mg\cdot \cos {\theta }}
+  
+
+donde an representa la aceleración normal a la trayectoria. Conocido el valor de la velocidad v en la posición angular se puede determinar la tensión T del hilo. Esta es máxima cuando el péndulo pasa por la posición de equilibrio
+
+  
+    
+      
+        T
+        =
+        m
+        g
+        +
+        
+          
+            
+              m
+              ⋅
+              
+                v
+                
+                  2
+                
+              
+            
+            
+              ℓ
+            
+          
+        
+      
+    
+    {\displaystyle T=mg+{{m\cdot v^{2}} \over {\ell }}}
+  ,
+
+donde el segundo término representa la fuerza centrífuga. 
+Y la tensión es mínima, en los extremos de su trayectoria, cuando la velocidad es cero
+
+  
+    
+      
+        T
+        =
+        m
+        g
+        ⋅
+        cos
+        ⁡
+        
+          θ
+        
+      
+    
+    {\displaystyle T=mg\cdot \cos {\theta }}
+  
+
+ 
+en la dirección tangencial: 
+
+  
+    
+      
+        m
+        ⋅
+        
+          a
+          
+            t
+          
+        
+        =
+        −
+        m
+        g
+        ⋅
+        sen
+        ⁡
+        
+          θ
+        
+      
+    
+    {\displaystyle m\cdot a_{t}=-mg\cdot \operatorname {sen} {\theta }}
+  
+
+donde at representa la aceleración tangente a la trayectoria.
+
+
+== Tercera ley de Newton o principio de acción y reacción ==
+La tercera ley de Newton establece que siempre que un objeto ejerce una fuerza sobre un segundo objeto, este último ejerce una fuerza sobre el primero de igual magnitud y dirección, pero en sentido opuesto. Con frecuencia se enuncia así: a cada acción siempre se opone una reacción igual, pero de sentido contrario. En cualquier interacción hay un par de fuerzas de acción y reacción situadas en la misma dirección con igual magnitud y sentidos opuestos. La formulación original de Newton es:
+
+ 
+
+Esta tercera ley de Newton es completamente original (pues las dos primeras ya habían sido propuestas de otra manera por Galileo, Hooke y Huygens) y hace de las leyes de la mecánica un conjunto lógico y completo.[12]​ Expone que por cada fuerza que actúa sobre un cuerpo, este realiza una fuerza de igual intensidad, pero de sentido contrario sobre el cuerpo que la produjo. Dicho de otra forma, las fuerzas, situadas sobre la misma recta, siempre se presentan en pares de igual magnitud y de dirección, pero con sentido opuesto. Si dos objetos interaccionan, la fuerza F12, ejercida por el objeto 1 sobre el objeto 2, es igual en magnitud con misma dirección, pero sentidos opuestos a la fuerza F21 ejercida por el objeto 2 sobre el objeto 1:[13]​
+
+  
+    
+      
+        
+          
+            F
+          
+          
+            12
+          
+        
+        =
+        −
+        
+          
+            F
+          
+          
+            21
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} _{12}=-\mathbf {F} _{21}}
+   
+Este principio presupone que la interacción entre dos partículas se propaga instantáneamente en el espacio (lo cual requeriría velocidad infinita), y en su formulación original no es válido para fuerzas electromagnéticas puesto que estas no se propagan por el espacio de modo instantáneo sino que lo hacen a velocidad finita «c». Este principio relaciona dos fuerzas que no están aplicadas al mismo cuerpo, produciendo en ellos aceleraciones diferentes, según sean sus masas. Por lo demás, cada una de esas fuerzas obedece por separado a la segunda ley. Junto con las anteriores leyes, esta permite enunciar los principios de conservación del momento lineal y del momento angular.[10]​
+
+
+=== Aplicaciones de la tercera ley de Newton ===
+Algunos ejemplos donde actúan las fuerzas acción-reacción son los siguientes:[13]​
+
+Si un patinador sobre hielo empuja a otro de peso similar, los dos se mueven con la misma velocidad pero en sentido contrario.
+Al mantenerse una persona de pie sobre la Tierra, está empujando la Tierra hacia abajo, que no se mueve debido a su gran masa, y la Tierra realiza un empuje a la persona con la misma intensidad hacia arriba.
+Al caminar se empuja la Tierra hacia atrás con los pies, y la Tierra responde empujando al caminante hacia delante, haciendo que este avance.
+La fuerza de reacción que una superficie ejerce sobre un objeto apoyado en ella, llamada fuerza normal con dirección perpendicular a la superficie.Las fuerzas a distancia no son una excepción, como la fuerza que la Tierra ejerce sobre la Luna y viceversa, su correspondiente pareja de acción y reacción:[14]​La fuerza que ejerce la Tierra sobre la Luna es exactamente igual (y de signo contrario) a la que ejerce la Luna sobre la Tierra y su valor viene determinado por la ley de gravitación universal enunciada por Newton, que establece que la fuerza que ejerce un objeto sobre otro es directamente proporcional al producto de sus masas, e inversamente proporcional al cuadrado de la distancia que los separa. La fuerza que la Tierra ejerce sobre la Luna es la responsable de que esta no se salga de su órbita elíptica.
+Además, la fuerza que la Luna ejerce sobre la Tierra es también responsable de las mareas, que consiste en la elevación del nivel del agua del mar en algunos lugares; por este motivo esta fuerza también se llama fuerza de marea. La fuerza de marea de la Luna se compone con la fuerza de marea del Sol proporcionando el fenómeno completo de las mareas.
+
+Conservación de la cantidad de movimientoSe denomina choque o colisión a la interacción entre dos o más objetos que ocurre en un breve período de tiempo.
+
+Durante una colisión existen intercambios de energía y de cantidad de movimiento entre los cuerpos que interaccionan. De manera general, según la primera ley de Newton, en un sistema aislado de partículas que interactúan entre sí la cantidad de movimiento del sistema se conserva, sin embargo puede no suceder lo mismo con la energía cinética.
+Dependiendo de lo que ocurre con la energía cinética durante el choque, éste puede clasificarse como: 
+
+Choque elástico: cuando permanecen constantes la cantidad de movimiento y la energía cinética del sistema. Si se calcula la suma de la cantidad de movimiento de cada una de las partículas antes del choque, el resultado será el mismo que si la suma se realiza después de que las partículas hayan chocado. Lo mismo es válido para la energía cinética.Choque inelástico: cuando permanece constante la cantidad de movimiento y varía la energía cinética. Como consecuencia, los cuerpos que colisionan pueden sufrir deformaciones y aumento de su temperatura. Tras un choque totalmente inelástico, ambos cuerpos tienen la misma velocidad. La suma de sus energías cinéticas es menor que la inicial porque una parte de esta se ha transformado en energía interna; en la mayoría de los casos llega a ser disipada en forma de calor debido al calentamiento producido en el choque. En el caso ideal de un choque perfectamente inelástico entre objetos macroscópicos, estos permanecen unidos entre sí tras la colisión.[11]​
+
+
+== Historia ==
+La dinámica es la parte de la física que estudia las relaciones por los movimientos de los cuerpos y las causas que los provocan, en concreto las fuerzas que actúan sobre ellos. La dinámica, desde el punto de vista de la mecánica clásica, es apropiada para el estudio dinámico de sistemas grandes en comparación con los átomos y que se mueven a velocidades mucho menores que las de la luz.[7]​ Para entender estos fenómenos, el punto de partida es la observación del mundo cotidiano. Si se desea cambiar la posición de un cuerpo en reposo es necesario empujarlo o levantarlo, es decir, ejercer una acción sobre él.
+Aparte de estas intuiciones básicas, el problema del movimiento es muy complejo: todos aquellos que se observan en la naturaleza (caída de un objeto en el aire, movimiento de una bicicleta, un coche o un cohete espacial) son complicados. Esto motivó que el conocimiento sobre estos hechos fuera erróneo durante siglos. Aristóteles pensó que el movimiento de un cuerpo se detiene cuando la fuerza que lo empuja deja de actuar. Posteriormente se descubrió que esto no era cierto pero el prestigio de Aristóteles como filósofo y científico hizo que estas ideas perduraran siglos,[nota 2]​[15]​ hasta que científicos como Galileo Galilei o Isaac Newton hicieron avances muy importantes con sus nuevas formulaciones. Sin embargo hubo varios físicos que se aproximaron de manera muy certera a las formulaciones de Newton mucho antes de que este formulara sus leyes del movimiento. Ya en la antigüedad, las observaciones físicas de Aristóteles fueron puestas en duda por filósofos peripatéticos como Estratón y filósofos epicúreos como Lucrecio, quien declaró que «a través de un vacío sin perturbaciones, todos los cuerpos deben viajar a la misma velocidad incluso cuando son impulsados por pesos desiguales».[16]​
+
+Es el caso del español Juan de Celaya,[17]​ matemático, físico, cosmólogo, teólogo y filósofo que en 1517 publicó un tratado titulado In octo libros physicorum Aristotelis cum quaestionibus eiusdem, secundum triplicem viam beati Thomae, realium et nominatium, obra de especial interés para el estudio de los orígenes de la moderna ciencia del movimiento. Durante su etapa en Francia fue un escritor prolífico, escribiendo sobre todo acerca de la física de Aristóteles y el movimiento. También publicó numerosos trabajos sobre filosofía y lógica. Fue uno de los impulsores de la lógica nominalista y de las ideas mertonianas de los calculatores acerca de la dinámica. Fue capaz de enunciar, dentro de las leyes de Newton, la primera ley de o primer principio de la dinámica (una de las leyes más importantes de la física) un siglo antes que Newton.[18]​
+Otro destacado pionero fue el también español, y discípulo de Celaya, Domingo de Soto,[19]​ fraile dominico y teólogo considerado como el promotor de la física moderna.[20]​ Su teoría del movimiento uniformemente acelerado y la caída de los graves fue el precedente de la ley de la gravedad de Newton. Escribió numerosas obras de teología, derecho, filosofía y lógica y también comentó varios libros de física y lógica aristotélica, de los cuales el más importante fue Quaestiones super octo libros physicorum Aristotelis (1551), sobre cinemática y dinámica, la cual fue publicada en varias ciudades italianas, influyendo en personajes como Benedetti o Galileo. Domingo de Soto fue uno de los primeros en establecer que un cuerpo en caída libre sufre una aceleración uniforme con respecto al tiempo —dicha afirmación también había sido establecida por Nicolás Oresme casi dos siglos antes— y su concepción sobre la masa fue avanzada en su época. En su libro Quaestiones explica la aceleración constante de un cuerpo en caída libre de esta manera:
+
+ 
+
+Domingo de Soto ya relacionaba dos aspectos de la física: el movimiento uniformemente disforme (movimiento uniformemente acelerado) y la caída de graves (resistencia interna). En su teoría combinaba la abstracción matemática con la realidad física, clave para la comprensión de las leyes de la naturaleza. Tenía una claridad rotunda acerca de este hecho y lo expresaba en ejemplos numéricos concretos. Clasificó los diferentes tipos de movimiento en:[20]​[nota 3]​
+
+Movimiento uniforme respecto al tiempo:
+ 
+
+Movimiento disforme con respecto al tiempo:
+ 
+
+Movimiento uniformemente disforme con respecto al tiempo:
+ 
+
+ 
+
+Soto describió el movimiento de caída libre como ejemplo de movimiento uniformemente acelerado por primera vez, cuestión que solo aparecerá posteriormente en la obra de Galileo:[20]​[nota 4]​
+
+ 
+
+Por lo tanto era aplicable la ley de la velocidad media para calcular el tiempo de caída:
+
+ 
+
+ 
+
+Movimiento diformente disforme con respecto al tiempo:
+
+ 
+
+Este fue un descubrimiento clave en física y base esencial para el posterior estudio de la gravedad por Galileo Galilei e Isaac Newton. Ningún científico de las universidades de París y Oxford de aquella época había conseguido describir la relación entre movimiento uniformemente disforme en el tiempo y la caída de los graves como lo hizo Soto.
+Tras las ideas innovadoras sobre el movimiento de estos científicos, Galileo hizo un avance muy importante al introducir el método científico que enseña que no siempre se debe creer en las conclusiones intuitivas basadas en la observación inmediata, pues esto lleva a menudo a equivocaciones. Galileo realizó un gran número de experiencias en las que se iban cambiando ligeramente las condiciones del problema y midió los resultados en cada caso. De esta manera pudo extrapolar sus observaciones hasta llegar a entender un experimento ideal.[7]​[nota 5]​ En concreto, observó cómo un cuerpo que se mueve con velocidad constante sobre una superficie lisa se moverá eternamente si no hay rozamientos ni otras acciones externas sobre él.
+Inmediatamente se presentó otro problema: ¿si la velocidad no lo revela, qué parámetro del movimiento indica la acción de fuerzas exteriores?; Galileo respondió también a esta pregunta, pero Newton lo hizo de manera más precisa: no es la velocidad sino su variación la consecuencia resultante de la acción de arrastrar o empujar un objeto. Esta relación entre fuerza y cambio de velocidad (aceleración) constituye la base fundamental de la mecánica clásica. Fue Isaac Newton (hacia 1690) el primero en dar una formulación completa de las leyes de la mecánica e inventó los procedimientos matemáticos necesarios para explicarlos y obtener información a partir de ellos.[7]​[nota 6]​
+
+
+== Limitaciones y generalizaciones posteriores ==
+Después de que Newton formulara las tres famosas leyes, numerosos físicos y matemáticos hicieron contribuciones para darles una forma más general o de más fácil aplicación a sistemas no inerciales o a sistemas con ligaduras. Una de estas primeras generalizaciones fue el principio de d'Alembert de 1743 que era una forma válida para cuando existieran ligaduras que permitía resolver las ecuaciones sin necesidad de calcular explícitamente el valor de las reacciones asociadas a dichas ligaduras.[22]​
+Por la misma época, Lagrange encontró una forma de las ecuaciones de movimiento válida para cualquier sistema de referencia inercial o no-inercial sin necesidad de introducir fuerzas ficticias.[23]​ Ya que es un hecho conocido que las Leyes de Newton, tal como fueron escritas, solo son válidas a los sistemas de referencia inerciales, o más precisamente, para aplicarlas a sistemas no-inerciales, requieren la introducción de las llamadas fuerzas ficticias, que se comportan como fuerzas pero no están provocadas directamente por ninguna partícula material o agente concreto, sino que son un efecto aparente del sistema de referencia no inercial.[24]​
+Más tarde la introducción de la teoría de la relatividad obligó a modificar la forma de la segunda ley de Newton (véase (2c)), y la mecánica cuántica dejó claro que las leyes de Newton o la relatividad general solo son aproximaciones al comportamiento dinámico en escalas macroscópicas. También se han conjeturado algunas modificaciones macroscópicas y no-relativistas, basadas en otros supuestos como la dinámica MOND.
+
+
+=== Generalizaciones relativistas ===
+Las leyes de Newton constituyen tres principios aproximadamente válidos para velocidades pequeñas. La forma en que Newton las formuló no era la más general posible. De hecho la segunda y tercera leyes en su forma original no son válidas en teoría de la relatividad mecánica relativista sin embargo formulados de forma ligeramente diferente la segunda ley es válida, y la tercera ley admite una formulación menos restrictiva que es válida en mecánica relativista.
+
+Primera ley, en ausencia de campos gravitatorios no requiere modificaciones. En un espacio-tiempo plano una línea recta cumple la condición de ser geodésica. En presencia de curvatura en el espacio-tiempo la primera ley de Newton sigue siendo correcta si sustituimos la expresión línea recta por línea geodésica.
+Segunda ley. Sigue siendo válida si se dice que la fuerza sobre una partícula coincide con la tasa de cambio de su momento lineal. Sin embargo, ahora la definición de momento lineal en la teoría newtoniana y en la teoría relativista difieren. En la teoría newtoniana el momento lineal se define según (1a) mientras que en la teoría de la relatividad de Einstein se define mediante (1b):
+(1a)
+  
+    
+      
+        
+          
+            p
+          
+        
+        =
+        m
+        
+          
+            v
+          
+        
+      
+    
+    {\displaystyle {\mathbf {p}}=m{\mathbf {v}}}
+  
+
+(1b)
+  
+    
+      
+        
+          
+            p
+          
+        
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  m
+                  
+                    
+                      v
+                    
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    1
+                    −
+                    
+                      
+                        
+                          v
+                          
+                            2
+                          
+                        
+                        
+                          c
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathbf {p}}={\cfrac {m{\mathbf {v}}}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}}
+  
+
+donde m es la masa invariante de la partícula y 
+  
+    
+      
+        
+          
+            v
+          
+        
+      
+    
+    {\displaystyle {\mathbf {v}}}
+   la velocidad de ésta medida desde un cierto sistema inercial. Esta segunda formulación de hecho incluye implícitamente definición (1) según la cual el momento lineal es el producto de la masa por la velocidad. Como ese supuesto implícito no se cumple en el marco de la teoría de la relatividad de Einstein (donde la definición es (2)), la expresión de la fuerza en términos de la aceleración en la teoría de la relatividad toma una forma diferente. Por ejemplo, para el movimiento rectilíneo de una partícula en un sistema inercial se tiene que la expresión equivalente a (2a) es:
+(2b)
+  
+    
+      
+        
+          
+            F
+          
+        
+        =
+        m
+        
+          
+            a
+          
+        
+        
+          
+            (
+            
+              1
+              −
+              
+                
+                  
+                    v
+                    
+                      2
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            −
+            
+              
+                3
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathbf {F}}=m{\mathbf {a}}\left(1-{\frac {v^{2}}{c^{2}}}\right)^{-{\frac {3}{2}}}}
+  
+
+Si la velocidad y la fuerza no son paralelas, la expresión sería la siguiente:
+(2c)
+  
+    
+      
+        
+          
+            F
+          
+        
+        =
+        
+          
+            
+              m
+              
+                
+                  a
+                
+              
+            
+            
+              (
+              1
+              −
+              
+                
+                  
+                    v
+                    
+                      2
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+              
+                )
+                
+                  
+                    1
+                    2
+                  
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              m
+              (
+              
+                
+                  v
+                
+              
+              ⋅
+              
+                
+                  a
+                
+              
+              )
+              
+                
+                  v
+                
+              
+            
+            
+              
+                c
+                
+                  2
+                
+              
+              (
+              1
+              −
+              
+                
+                  
+                    v
+                    
+                      2
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+              
+                )
+                
+                  
+                    3
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathbf {F}}={\frac {m{\mathbf {a}}}{(1-{\frac {v^{2}}{c^{2}}})^{\frac {1}{2}}}}+{\frac {m({\mathbf {v}}\cdot {\mathbf {a}}){\mathbf {v}}}{c^{2}(1-{\frac {v^{2}}{c^{2}}})^{\frac {3}{2}}}}}
+  
+
+Nótese que esta última ecuación implica que salvo para el movimiento rectilíneo y el circular uniforme, el vector de aceleración y el vector de fuerza no serán paralelos y formarán un pequeño ángulo relacionado con el ángulo que formen la aceleración y la velocidad.Tercera ley. La formulación original de la tercera ley por parte de Newton implica que la acción y reacción, además de ser de la misma magnitud y opuestas, son colineales. En esta forma la tercera ley no siempre se cumple en presencia de campos magnéticos. En particular, la parte magnética de la fuerza de Lorentz que se ejercen dos partículas en movimiento no son iguales y de signo contrario. Esto puede verse por cómputo directo. Dadas dos partículas puntuales con cargas q1 y q2 y velocidades 
+  
+    
+      
+        
+          
+            v
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} _{i}}
+  , la fuerza de la partícula 1 sobre la partícula 2 es:
+
+  
+    
+      
+        
+          
+            F
+          
+          
+            12
+          
+        
+        =
+        
+          q
+          
+            2
+          
+        
+        
+          
+            v
+          
+          
+            2
+          
+        
+        ×
+        
+          
+            B
+          
+          
+            1
+          
+        
+        =
+        
+          
+            
+              μ
+              
+                q
+                
+                  2
+                
+              
+              
+                q
+                
+                  1
+                
+              
+            
+            
+              4
+              π
+            
+          
+        
+         
+        
+          
+            
+              
+                
+                  v
+                
+                
+                  2
+                
+              
+              ×
+              (
+              
+                
+                  v
+                
+                
+                  1
+                
+              
+              ×
+              
+                
+                  
+                    
+                      u
+                      ^
+                    
+                  
+                
+                
+                  12
+                
+              
+              )
+            
+            
+              d
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} _{12}=q_{2}\mathbf {v} _{2}\times \mathbf {B} _{1}={\frac {\mu q_{2}q_{1}}{4\pi }}\ {\frac {\mathbf {v} _{2}\times (\mathbf {v} _{1}\times \mathbf {\hat {u}} _{12})}{d^{2}}}}
+  
+
+donde d la distancia entre las dos partículas y 
+  
+    
+      
+        
+          
+            
+              
+                u
+                ^
+              
+            
+          
+          
+            12
+          
+        
+      
+    
+    {\displaystyle \mathbf {\hat {u}} _{12}}
+   es el vector director unitario que va de la partícula 1 a la 2. Análogamente, la fuerza de la partícula 2 sobre la partícula 1 es:
+
+  
+    
+      
+        
+          
+            F
+          
+          
+            21
+          
+        
+        =
+        
+          q
+          
+            1
+          
+        
+        
+          
+            v
+          
+          
+            1
+          
+        
+        ×
+        
+          
+            B
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              μ
+              
+                q
+                
+                  2
+                
+              
+              
+                q
+                
+                  1
+                
+              
+            
+            
+              4
+              π
+            
+          
+        
+         
+        
+          
+            
+              
+                
+                  v
+                
+                
+                  1
+                
+              
+              ×
+              (
+              
+                
+                  v
+                
+                
+                  2
+                
+              
+              ×
+              (
+              −
+              
+                
+                  
+                    
+                      u
+                      ^
+                    
+                  
+                
+                
+                  12
+                
+              
+              )
+              )
+            
+            
+              d
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} _{21}=q_{1}\mathbf {v} _{1}\times \mathbf {B} _{2}={\frac {\mu q_{2}q_{1}}{4\pi }}\ {\frac {\mathbf {v} _{1}\times (\mathbf {v} _{2}\times (-\mathbf {\hat {u}} _{12}))}{d^{2}}}}
+  
+
+Empleando la identidad vectorial 
+  
+    
+      
+        
+          a
+        
+        ×
+        (
+        
+          b
+        
+        ×
+        
+          c
+        
+        )
+        =
+        (
+        
+          a
+        
+        ×
+        
+          c
+        
+        )
+        ×
+        
+          b
+        
+        =
+        (
+        
+          a
+        
+        ×
+        
+          b
+        
+        )
+        ×
+        
+          c
+        
+      
+    
+    {\displaystyle \mathbf {a} \times (\mathbf {b} \times \mathbf {c} )=(\mathbf {a} \times \mathbf {c} )\times \mathbf {b} =(\mathbf {a} \times \mathbf {b} )\times \mathbf {c} }
+  , puede verse que la primera fuerza está en el plano formado por 
+  
+    
+      
+        
+          
+            
+              
+                u
+                ^
+              
+            
+          
+          
+            12
+          
+        
+      
+    
+    {\displaystyle \mathbf {\hat {u}} _{12}}
+   y 
+  
+    
+      
+        
+          
+            v
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} _{1}}
+   que la segunda fuerza está en el plano formado por 
+  
+    
+      
+        
+          
+            
+              
+                u
+                ^
+              
+            
+          
+          
+            12
+          
+        
+      
+    
+    {\displaystyle \mathbf {\hat {u}} _{12}}
+   y 
+  
+    
+      
+        
+          
+            v
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} _{2}}
+  . Por tanto, estas fuerzas no siempre resultan estar sobre la misma línea, ni en general son de igual magnitud . Este ejemplo de dos partículas cargadas en movimiento que interaccionan entre sí (expresado de forma clásica no relativista), es conocido como la paradoja de Feynman. Y se resuelve teniendo en cuenta de forma completa las ecuaciones de la Electrodinámica Relativista para los campos y las partículas[25]​
+
+
+=== Teorema de Ehrenfest ===
+El teorema de Ehrenfest permite generalizar las leyes de Newton al marco de la mecánica cuántica. Si bien en dicha teoría no es lícito hablar de fuerzas o de trayectoria, se puede hablar de magnitudes como momento lineal y potencial de manera similar a como se hace en mecánica newtoniana.
+En concreto la versión cuántica de la segunda Ley de Newton afirma que la derivada temporal del valor esperado del momento de una partícula en un campo iguala al valor esperado de la "fuerza" o valor esperado del gradiente del potencial:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    d
+                    
+                      d
+                      t
+                    
+                  
+                
+                ⟨
+                p
+                ⟩
+                =
+              
+              
+                
+                ∫
+                
+                  Φ
+                  
+                    ∗
+                  
+                
+                V
+                (
+                x
+                ,
+                t
+                )
+                ∇
+                Φ
+                 
+                d
+                
+                  x
+                  
+                    3
+                  
+                
+                −
+                ∫
+                
+                  Φ
+                  
+                    ∗
+                  
+                
+                (
+                ∇
+                V
+                (
+                x
+                ,
+                t
+                )
+                )
+                Φ
+                 
+                d
+                
+                  x
+                  
+                    3
+                  
+                
+                −
+                ∫
+                
+                  Φ
+                  
+                    ∗
+                  
+                
+                V
+                (
+                x
+                ,
+                t
+                )
+                ∇
+                Φ
+                 
+                d
+                
+                  x
+                  
+                    3
+                  
+                
+              
+            
+            
+              
+                
+
+                
+                =
+              
+              
+                
+                0
+                −
+                ∫
+                
+                  Φ
+                  
+                    ∗
+                  
+                
+                (
+                ∇
+                V
+                (
+                x
+                ,
+                t
+                )
+                )
+                Φ
+                 
+                d
+                
+                  x
+                  
+                    3
+                  
+                
+                −
+                0
+              
+            
+            
+              
+                
+
+                
+                =
+              
+              
+                
+                
+                ⟨
+                −
+                ∇
+                V
+                (
+                x
+                ,
+                t
+                )
+                ⟩
+                =
+                ⟨
+                F
+                ⟩
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\frac {d}{dt}}\langle p\rangle =&\int \Phi ^{*}V(x,t)\nabla \Phi ~dx^{3}-\int \Phi ^{*}(\nabla V(x,t))\Phi ~dx^{3}-\int \Phi ^{*}V(x,t)\nabla \Phi ~dx^{3}\\{}=&\;0-\int \Phi ^{*}(\nabla V(x,t))\Phi ~dx^{3}-0\\{}=&\;\langle -\nabla V(x,t)\rangle =\langle F\rangle ,\end{aligned}}}
+  
+
+Donde:
+
+  
+    
+      
+        V
+        (
+        x
+        ,
+        t
+        )
+        
+      
+    
+    {\displaystyle V(x,t)\,}
+   es el potencial del que derivar las «fuerzas».
+
+  
+    
+      
+        Φ
+        ,
+        
+          Φ
+          
+            ∗
+          
+        
+        
+      
+    
+    {\displaystyle \Phi ,\Phi ^{*}\,}
+  , son las funciones de onda de la partícula y su compleja conjugada.
+
+  
+    
+      
+        ∇
+        
+      
+    
+    {\displaystyle \nabla \,}
+   denota el operador nabla.
+
+
+== Véase también ==
+ Portal:Física. Contenido relacionado con Física.
+Sistema de referencia inercial
+Mecánica clásica
+Física clásica
+Momento de inercia
+Cantidad de movimiento
+Inercia
+Fuerza
+Choque elástico
+
+
+== Notas ==
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Alonso, Marcelo; Finn, Edward J. (1998). Física 1. Madrid. ISBN 9789684442238. 
+Bell, Eric T. (1986). On the Seashore: Newton (en inglés). ISBN 978-0671628185. 
+Christianson, Gale E. (1985). In the Presence of the Creator: Isaac Newton and His Times (en inglés). ISBN 978-0029051900. 
+Da Costa Andrade, Edward N. (1979). Sir Isaac Newton (en inglés). ISBN 978-0313220227. 
+De Gandt, François (2014). Force and Geometry in Newton's "Principia" (Princeton Legacy Library) (en inglés). ISBN 978-0691033679. 
+De Juana, José María (2003). Física General 1. Pearson Prentice Hall. ISBN 84-205-3342-4. 
+Fauvel, John; Flood, Raymond; Shortland, Michael; Wilson, Robin (1988). Let Newton Be! (en inglés). ISBN 978-0198539247. 
+Ortega Girón, Manuel R. (1989-2010). Lecciones de Física (4 volúmenes). Monytex. ISBN 84-404-4290-4. 
+Pickover, Clifford A. (2009). De Arquímedes a Hawking. Las leyes de la ciencia y sus descubridores. Barcelona: Crítica. ISBN 978-84-9892-003-1. 
+Sagan, Carl (1981). Cosmos. ISBN 2-86374-075-X. 
+Sears, W.; Zemansky, M.W.; Young, H.D.; Freedman, F. (1999). Física Universitaria 1. Addison-Wesley-Longman. ISBN 968-444-277-7. 
+Tipler, Paul Allen; Mosca, Gene (2006). Física para la ciencia y la tecnología 2. Reverté. ISBN 8429144129. 
+Tippens, Paul E. (2007). Física Concepto y aplicaciones. México: McGraw-Hill. ISBN 9789701062609. 
+Westfall, Richard S. (1983). Never at Rest: A Biography of Isaac Newton (Cambridge Paperback Library) (en inglés). ISBN 978-0521274357. 
+Zitzewitz, Paul W.; Neff, Robert F. (1995). Física 1. McGraw-Hill. ISBN 978-958-600-381-0. 
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Leyes de Newton.
+Evolución histórica de la relación fuerza-movimiento
+Segunda ley de Newton. Relación entre fuerza y aceleración.
+Dinámica de una partícula Archivado el 22 de abril de 2015 en Wayback Machine.
+Newton’s Life (en inglés)
+Lois de Newton (en francés)

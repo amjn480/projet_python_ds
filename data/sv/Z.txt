@@ -1,0 +1,17 @@
+Z (uttal: [ˈsɛːta]) är den tjugosjätte och sista bokstaven i det moderna latinska alfabetet. I den svenska varianten av detta följs den dock av bokstäverna Å, Ä och Ö.
+
+
+== Uttal ==
+Bokstaven z uttalas på olika sätt beroende på språk. På svenska är den ovanlig, men uttalas [s] när den förekommer, förutom i några lånord, då z uttalas som ts. På ett antal språk uttalas den som ett tonande s, som i IPA betecknas just [z], ett ljud som inte används i svenska.
+
+
+== Historia ==
+Till det latinska alfabet kom Z från den grekiska bokstaven zeta. Den härstammar i sin tur från den feniciska bokstaven "zayin", som allra först föreställde en handboja ("ziqq"), men sedan föreställde ett svärd ("zayin").
+
+
+== Datateknik ==
+I datorer lagras Z samt förkomponerade bokstäver med Z som bas och vissa andra varianter av Z med följande kodpunkter:
+
+
+== Se även ==
+ℤ, den matematiska beteckningen för mängden av alla heltal

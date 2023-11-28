@@ -1,0 +1,107 @@
+Svenskspråkiga Wikipedia (förkortat SVWP) är den svenskspråkiga varianten av den fria encyklopedin Wikipedia. Svenskspråkiga Wikipedia, som påbörjades 21 maj 2001, innehåller just nu 2 576 014 artiklar och är därmed den fjärde största Wikipediaversionen. Den innefattar en stor andel (68,5 procent, noterat oktober 2022) robotskapade artiklar, något som gör att den svenskspråkiga versionen har fler artiklar i förhållande till andra språkversioner i jämförelse med antalet aktiva användare.
+
+
+== Översikt ==
+Encyklopedins officiella namn är Svenskspråkiga Wikipedia, inte Svenska Wikipedia. Detta är medvetet för att förtydliga att den inte riktar sig till just svenskar eller Sverige utan till alla som förstår det svenska språket. Avsikten hos gemenskapen är att utgå från ett "globalt perspektiv", där förhållanden i Sverige inte ska ses som normerande eller viktigare än de i omvärlden.
+Just nu innehåller svenskspråkiga Wikipedia 2 576 014 artiklar. Antalet artiklar placerar svenskspråkiga Wikipedia högt bland de olika språkvarianterna av Wikipedia. Encyklopedin hör också till de 11 största i förhållande till antalet språkkunniga.I september 2020 var svenskspråkiga Wikipedia den fjortonde största Wikipediaversionen sett till antal redigeringar sedan start och på tjugonde plats sett till antal aktiva inloggade bidragsgivare under senaste månaden. Den har idag 54 069 976 redigeringar sedan start. På svenskspråkiga Wikipedia finns just nu 889 386 registrerade användare, varav drygt 23 000 till och med mars 2017 hade gjort fler än tio redigeringar. Under de senaste 30 dagarna har 2 301 registrerade användare redigerat; dessutom görs under en månad redigeringar av oinloggade skribenter med cirka 7 000 IP-adresser.
+Svenskspråkiga Wikipedia tillåter endast illustrationer under fri licens och har stängt av den lokala uppladdningen av bilder och andra mediafiler. Alla filuppladdningar sker via Wikimedia Commons. Uppslagsverkets administratörer (ett knappt 70-tal användare som har tillgång till några fler redigeringsverktyg) väljs för ett år i taget.
+
+
+== Historik ==
+
+
+=== Starten 2001 ===
+Tre månader efter att engelskspråkiga Wikipedia startades började dess grundare Jimmy Wales att utväxla mejl med den svenska dataprogrammeraren Linus Tolke om att starta en svenskspråkig Wikipedia. Vid den tidpunkten hade endast de engelsk-, katalansk- och tyskspråkiga Wikipediaversionerna startats. Tyskspråkiga Wikipedia hade dock endast ett par artiklar, och dittills bara på engelska. Beslutet att starta en svenskspråkig Wikipedia togs i april 2001.
+Webbplatsen skapades 21 maj 2001, ursprungligen med webbadressen http://sv.wikipedia.com/. Under Wikipedias första tid raderades ofta artikelhistoriken, varför det är oklart vilken artikel som var den första. Det tros ha funnits ett tiotal sidor den 23 maj som alla var skrivna av Linus Tolke, varav några är bevarade. Den äldsta ännu bevarade artikeln är Svenska. Den äldsta bevarade versionen av startsidan för Svenskspråkiga Wikipedia är från 3 juni 2001. Under de första månaderna var aktiviteten låg. Efter tre månader fanns 100 artiklar, i stort sett alla skrivna av Tolke. De flesta artiklarna var mycket korta.
+
+
+=== Novemberökningen 2002 och Susning-uttåget 2004 ===
+Först under november 2002 började aktiviteten på svenskspråkiga Wikipedia ta fart. Antalet aktiva användare ökade från 6 till 21. 
+Till en början konkurrerade svenskspråkiga Wikipedia med Susning.nu, en wiki som skapades av Lars Aronsson hösten 2001. Susning.nu:s beslut att tillåta reklam och bristen på verktyg att bekämpa klotter var dock ett problem, och i november flyttade ett antal tongivande användare över till svenskspråkiga Wikipedia. Antalet Wikipediaartiklar ökade från knappt 400 oktober 2002 till 1 700 en knapp månad senare. Ytterligare en månad senare hade de 37 aktiva användarna skapat över 4 400 artiklar. Ökningen kom sig delvis av att webbplatsen under december månad 2002 fick modernare utformning i nya PHP-skript, som senare fick namnet MediaWiki, med större kapacitet och fler funktioner.
+Susning.nu växte med 10 000 artiklar under första året, och var i slutet av 2003 världens näst största wiki (efter engelskspråkiga Wikipedia). I april 2004 låstes redigeringsmöjligheterna för de flesta användarna på Susning.nu, och i januari 2005 hade svenskspråkiga Wikipedia gått om i antal artiklar.
+
+
+=== 2004–2012 ===
+Antal artiklar, artiklarnas medellängd, antalet besökare och integreringen med andra språkversioner ökade successivt. I början av 2004 skrevs omkring 100 nya artiklar per dag – en ökningstakt från omkring 50 per dag under 2003. År 2005 tillkom den 5 000:e användaren och antalet artiklar ökade med mellan 150 och 200 artiklar per dag. Den 11 januari 2006 hade antalet användare ökat till 10 000. Under 2006 kunde dock en minskning av antalet nya artiklar anas; i början av året var antalet nya artiklar omkring 250/dag, medan det under årets sista månader var omkring 190/dag. Mellan januari och april 2009 skrevs ungefär 105 artiklar/dag. Antalet aktiva bidragsgivare nådde en topp 2008, året efter engelskspråkiga Wikipedias topp.
+
+
+=== Stora ökningar 2012–2016 ===
+Vid månadsskiftet januari-februari 2012 började ett arbetssätt där olika robotprogram (botar) användes till skapandet av många nya artiklar. Exempelvis robotskapades artiklar om flertalet svenska sjöar under 2013. Majoriteten av de robotskapade artiklarna gällde djurarter och genererades av Sverker Johanssons bot, som hämtade data från tillgängliga artdatabaser. Under september 2012 översteg därmed det totala artikelantalet 500 000 och den 15 juni 2013 nåddes 1 000 000 artiklar. Sedan hösten 2013 har svenskspråkiga Wikipedia artiklar om i princip samtliga 1,25 miljoner beskrivna djurarter.
+I mitten av 2014 påbörjades en ny botassisterad expansionsperiod, den här gången med visionen att skapa artiklar om alla växtarter. Denna expansion innebar att svenskspråkiga Wikipedia till att börja med utökades till totalt cirka 1,8 miljoner artiklar och i antal artiklar räknat därmed nådde en andraplats bland Wikipedia-versionerna, varav 1,3 miljoner robotskapade artiklar om i huvudsak djur- och växtarter.I mitten av 2015 påbörjades botskapande av artiklar om platser över hela världen baserat på databaser såsom GeoNames. Den 6 september 2015 passerade svenskspråkiga Wikipedia 2 000 000 artiklar. Projektet avslutades i förtid i november 2016. Så dags hade svenskspråkiga Wikipedia med hjälp av projektet nått cirka 3,7 miljoner artiklar.
+
+
+=== Sedan 2017 ===
+Efter 2016 har artikelökningen varit betydligt måttligare. 10 december 2017 nåddes det högsta antalet hittills: 3 790 844 artiklar. Mängden nya artiklar har tidvis mer än kompenserats genom granskning och bortrensning av dubblettartiklar och artiklar som inte ansågs relevanta efter ovanstående botskapande vilket minskat artikelsamlingen. Den 30 juli 2021 passerades gränsen 3 miljoner igen, denna gång nedåt.
+Andelen robotskapade artiklar var som mest 83 procent i maj 2017, och har därefter minskat till 81 procent i januari 2019, och 68,5 procent i oktober 2022.
+
+
+== Räckvidd och utveckling ==
+
+
+=== Antal läsare ===
+Svenskspråkiga Wikipedia är den mest använda Wikipedia-upplagan i Sverige. En undersökning från 2009/2010 (se bild) visade att hälften av alla Wikipedia-besök i Sverige då gällde den svenskspråkiga versionen, medan engelskspråkiga Wikipedia användes i drygt 35 procent av fallen. Maj 2013 besöktes den svenskspråkiga upplagan i snitt 120 000 gånger i timmen, vilket då gjorde den till den 14:e mest besökta Wikipediaversionen i världen. Under juni 2013 besöktes svenskspråkiga Wikipedia totalt 118 miljoner gånger, inkluderat cirka 15 miljoner gånger av automatiska program (botar). Drygt var fjärde sidvisning (30 av 118 miljoner) gjordes under månaden på en mobiltelefon, vilket är en högre siffra än på andra wikipedior.Under mars månad 2016 besöktes svenskspråkiga Wikipedia dagligen av cirka en miljon unika enheter (datorer, surfplattor eller mobiltelefoner). Under hela månaden besöktes webbplatsen via (minst) 10 miljoner unika enheter, varav 6 av 10 miljoner var mobila enheter (surfplatta eller mobiltelefon).
+
+
+=== Samarbetsprojekt ===
+Flera offentliga institutioner har haft eller inlett samarbetsprojekt med svenskspråkiga Wikipedia. Riksantikvarieämbetet (2012–2013) och Sveriges Lantbruksuniversitet (SLU, 2013) har båda två haft erfarna wikipedianer anställda, för att utbilda de anställda i hur man redigerar på Wikipedia och bäst hanterar hur "deras" ämnesområden kan utvecklas på uppslagsverket. Projektet har delvis genomförts i samarbete med den svenska stödorganisationen Wikimedia Sverige.
+
+
+=== Inom utbildning ===
+Flera svenska universitet och högskolor har genomfört försök med Wikipedia som del i undervisningen eller spridandet av kunskap enligt tredje uppgiften. På Mittuniversitetet har Wikipediaförfattande introducerats som examinerande uppgift på olika kurser åren 2006 till 2014, och på Linnéuniversitetet under 2010-talet. SLU:s forskningsresultat har sedan cirka 2014 systematiskt börjat spridas via svenskspråkiga Wikipedia, och även flera andra svenska universitet och högskolor har inlett projekt med samma mål.
+
+
+== Omdömen och utmärkelser ==
+
+
+=== Omdömen i pressen ===
+I mars 2006 publicerade Svenska Dagbladet en jämförande utvärdering av svenskspråkiga Wikipedia, Susning.nu och Internetversionen av Nationalencyklopedin. Undersökningen gjordes genom att nio oberoende ämnesexperter gavs i uppdrag att jämföra nio olika artiklar hämtade från de tre uppslagsverken. Det var blindtester, och ingen av dem fick veta varifrån de olika artiklarna hade hämtats. Nationalencyklopedin toppade den totala bedömningen vad gällde tillförlitlighet och neutralitet, men svenskspråkiga Wikipedia fick goda allmänna vitsord och nådde bäst betyg för aktualitet, bred bevakning och populärkulturell anknytning.
+De undersökta artiklarna var: Flykting, Stella McCartney, Bear Quartet, Scientologi, Muhammedteckningarna, Dokusåpa, Homeros, Kubism och Slobodan Milošević.I undersökningen, som presenterades i Svenska Dagbladets kulturdel (sidorna 4–5) den 30 mars 2006, hamnade svenskspråkiga Wikipedia på första plats i tre fall och på andra plats i sex fall men rankades inte som sämst i något fall.
+Nationalencyklopedins chefredaktör Arne Ekman sade i tidningen att ”Wikipedia är en härlig idé”, och han tillade också att NE gärna låter tiden gå lite för att man skall kunna värdera om ett ord platsar i uppslagsverket. Wikipedia är snabbare, men de två uppslagsverken representerar två olika sätt att göra ett uppslagsverk. Susning.nu, som också byggde på wikiteknik, kom på andra plats i två fall, nämligen då NE inte hade någon artikel alls.År 2007 gjorde Sveriges Radio en jämförelse mellan svenskspråkiga Wikipedia och Nationalencyklopedin. Här fick Nationalencyklopedin 6,5 poäng medan Wikipedia fick 5,5 poäng. I utvärderingen konstaterades att inom populärkultur stod sig Wikipedia bra, medan det inom traditionella kunskapsområden gick betydligt sämre för Wikipedia.NE.se har också en informationstext om "Källkritik och NE", där man jämför de olika förutsättningarna och sätten att arbeta. Den öppnare redigeringsprocessen på Wikipedia påpekas, samtidigt som man lyfter fram värdet av den redaktionella styrningen på NE.
+
+
+=== Utmärkelser ===
+År 2005 utsåg tidningen Internetworld svenskspråkiga Wikipedia till årets näst bästa nyttosajt, efter Eniro och före Nationalencyklopedin.
+
+
+== Antal artiklar – historiska milstolpar ==
+
+
+=== Galleri med milstolpelogotyper ===
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Kommentarer ==
+
+
+== Referenser ==
+
+
+=== Noter ===
+
+
+=== Källor ===
+Guldbrandsson, Lennart (2008). Så fungerar Wikipedia (1. uppl.). Stockholm: Vulkan.se. Libris 11156664 
+Guldbrandsson, Lennart (2008). Så fungerar Wikipedia: allt du behöver veta om hur man bidrar, om kritiken och kvalitetssatsningarna ([Ny utg.]). Ronneby: Hexa. Libris 11216639. ISBN 978-91-977109-4-7. http://sv.wikisource.org/wiki/S%C3%A5_fungerar_Wikipedia 
+
+
+== Vidare läsning ==
+Jönsson, Johan (2022). Wikipedia inifrån. [Stockholm]: Verbal. Libris s6lhf2wzqmcj9kpx. ISBN 9789189155855 
+
+
+== Externa länkar ==
+Internet Archive – sparade sidor från svenskspråkiga Wikipedia, den 24 april 2003

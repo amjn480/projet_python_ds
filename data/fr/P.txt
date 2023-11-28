@@ -1,0 +1,158 @@
+P est la 16e lettre et la 12e consonne de l'alphabet latin.
+
+
+== Codes ==
+P, province de Palencia, selon la norme ISO 3166-2:ES.
+p est une balise HTML pour faire un paragraphe.
+
+
+== Arts et culture ==
+
+
+=== Littérature ===
+P est la note signifiant « piètre » dans la série des livres Harry Potter pour noter les examens.
+
+
+=== Musique ===
+ abréviation de piano, nuance en musique.
+
+
+== Sciences ==
+Valeur p (également écrite P ou P-Value)
+
+
+=== Astronomie ===
+Dans la désignation des planètes mineures, le P indique un objet céleste qui a été découvert entre le 1er et le 15 août d'une année.
+
+
+=== Biologie ===
+La vitamine P est connue aujourd'hui sous le nom de vitamine C2.
+Dans la transcription d'une chaîne polypeptidique, la lettre P désigne la proline.
+
+
+=== Géologie ===
+Les ondes P sont les ondes de compression lors d'un tremblement de terre.
+
+
+=== Mathématiques ===
+
+  
+    
+      
+         
+        P
+      
+    
+    {\displaystyle \ P}
+   désigne usuellement un polynôme.
+p désigne la variable du domaine de Laplace, en analyse fonctionnelle.
+
+  
+    
+      
+        
+          
+            P
+          
+        
+      
+    
+    {\displaystyle {\mathcal {P}}}
+   désigne l'ensemble des nombres premiers.
+
+  
+    
+      
+        
+          
+            P
+          
+        
+      
+    
+    {\displaystyle {\mathcal {P}}}
+  (E) est l'ensemble des parties d'un ensemble.
+
+  
+    
+      
+         
+        P
+      
+    
+    {\displaystyle \ P}
+   désigne un périmètre.
+
+
+=== Informatique ===
+L'élément HTML p marque un paragraphe.
+P est une classe de complexité de la théorie de la complexité des algorithmes.
+Pi est le préfixe binaire signifiant pébi (10245 = 250).
+le langage P est implémenté dans Amaya.
+
+
+=== Médecine ===
+L'onde P, en électrocardiographie, correspond à la dépolarisation des oreillettes.
+
+
+=== Phonétique ===
+[p] est le symbole en alphabet phonétique international représentant la consonne occlusive bilabiale sourde.
+
+
+=== Physique - Chimie ===
+P est le symbole chimique de l'élément chimique phosphore (voir la liste des éléments chimiques).
+p est un type d'orbitale atomique (abréviation de principal). Les éléments du bloc p, bloc du tableau périodique sont ceux dont l'orbitale la plus haute occupée est de type p.
+p+ (minuscule) est le symbole du proton.
+p (minuscule ou majuscule) désigne classiquement la pression.
+P (majuscule) désigne une puissance.
+en mécanique :
+p (minuscule) est souvent utilisée pour noter la quantité de mouvement, c'est-à-dire la masse multipliée par la vitesse (p=mv).
+P (majuscule) est parfois utilisée pour noter la poussée d'Archimède (plus souvent notée 
+  
+    
+      
+        Π
+      
+    
+    {\displaystyle \Pi }
+   ou 
+  
+    
+      
+        
+          P
+          
+            a
+          
+        
+      
+    
+    {\displaystyle P_{a}}
+  ).
+p (minuscule) est l'opérateur mathématique désignant un cologarithme (-log10) en chimie, l'exemple le plus courant étant le pH.
+
+
+=== Unités ===
+p (minuscule) est le préfixe du SI signifiant pico (10-12).
+P (majuscule) est le préfixe du SI signifiant péta (1015).
+Pi est le préfixe binaire signifiant pébi (10245 = 250).
+P (majuscule) est le symbole de la poise.
+
+
+=== Vie pratique ===
+La lettre P est le sigle distinctif des automobiles venant du Portugal.
+la lettre P était le code de la province de Palencia sur les plaques d'immatriculation espagnoles jusqu'en 2000.
+p. est l'abréviation de page(s).
+Selon le code de la route, un P (majuscule) blanc sur un panneau bleu signifie « parking ».
+
+
+=== Autres ===
+Voir de P0 à P99
+P était l'abréviation latine du prénom Publius.
+Le P est le nom utilisé en Nouvelle-Zélande pour désigner la méthamphétamine.
+Épître de Pierre ;
+℗, le symbole de copyright phonographique
+Badge « P », un symbole nazi
+
+
+== Notes et références ==

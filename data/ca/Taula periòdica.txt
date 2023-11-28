@@ -1,0 +1,682 @@
+La taula periòdica, taula de Mendeléiev o sistema periòdic dels elements és una taula que ordena els elements químics de menor a major nombre atòmic tot posant de manifest la periodicitat de les seves propietats químiques i físiques. S'hi reflecteix la llei periòdica formulada el 1869 pel químic rus Dmitri Mendeléiev de la Universitat Imperial de Sant Petersburg, això és, la semblança dels elements químics cada cert nombre de nombres atòmics.
+Els químics consideren que la taula periòdica constitueix la base i l'eix vertebrador dels seus coneixements i ha esdevingut amb els anys un clar element identificador, un símbol de la química.
+L'estructura actual de la taula periòdica de la Unió Internacional de Química Pura i Aplicada (IUPAC) consta de:118 caselles, una per a cada element químic. La informació mínima de cada casella és el símbol químic de l'element que l'ocupa i el seu nombre atòmic 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle {\ce {Z}}}
+  . Sovint també hi figura el nom de l'element i la massa atòmica relativa. Addicionalment s'hi posen dades de propietats atòmiques (radi atòmic, energia de ionització…), físiques (punts de fusió i d'ebullició, densitat…) i químiques (nombre d'oxidació, electrons de valència…).
+7 períodes (fileres) de longituds creixents numerats de l'1 al 7 i començant per la part superior. El 1r període té només dos elements; el 2n i el 3r períodes vuit elements cadascun; el 4t i el 5è devuit cadascun, i els 6è i 7è en tenen cada un trenta-dos. Si se sintetitzen nous elements químics ocuparan el període 8è, ara buit.
+18 grups o famílies (columnes), amb propietats físiques i químiques molt similars. S'anomenen de l'1 al 18 començant per l'esquerra. Alguns grups tenen noms: el grup 1 és el dels alcalins, el 2 dels alcalinoterris, el 16 el dels calcògens, el 17 el grup dels halògens i el 18 el grup dels gasos nobles.
+4 blocs segons les seves configuracions electròniques: el bloc s els formen les dues columnes de l'esquerra (alcalins i alcalinoterris) a més de l'hidrogen i l'heli; bloc p el constitueixen els grups (columnes) del 13 al 18, ubicats a la dreta, excepte l'heli; bloc d ocupa el centre amb els grups del 3 al 12; i el bloc f amb els elements anomenats lantanoides i els actinoides, col·locats en dues files a la part inferior de la taula. L'element 121 obrirà el bloc g.Gràcies a la distribució de Mendeléiev dels elements químics coneguts a mitjans del segle xix, pogué predir l'existència d'elements químics encara no descoberts (gal·li, germani…) i les propietats físiques (punt de fusió, densitat, color…) i químiques (massa atòmica, compostos, reactivitat química amb l'aire, l'aigua, els àcids, les bases…) que tindrien. Foren aïllats pocs anys després (el gal·li el 1875, el germani el 1886…) i confirmaren les prediccions fetes pel químic rus, la qual cosa donà un fort suport a la seva taula periòdica.
+Posteriorment, la taula periòdica original s'hagué de modificar per incloure grups d'elements que no havien estat predits (gasos nobles, lantanoides) o que se sintetitzaren car no existeixen a la natura (actinoides), donant lloc a la taula periòdica actual.
+
+Codificació de colors dels nombres atòmics dels elements:
+
+En blau són líquids a temperatura i pressió estàndard (TPE);
+En verd, són gasos a TPE;
+En negre, són sòlids a TPE;
+En vermell, són sintètics (tots són sòlids a TPE);
+
+
+== Estructura ==
+En la taula periòdica de la Unió Internacional de Química Pura i Aplicada (IUPAC), els elements químics s'ordenen per ordre creixent de nombre atòmic 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   en files (en horitzontal), començant per la part superior esquerra. S'inicia una nova fila quan els electrons de l'escorça atòmica han completat l'orbital atòmic 
+  
+    
+      
+        
+          1
+          
+          s
+        
+      
+    
+    {\displaystyle {\ce {1s}}}
+   pel primer període i els orbitals atòmics 
+  
+    
+      
+        
+          np
+        
+      
+    
+    {\displaystyle {\ce {np}}}
+   amb 
+  
+    
+      
+        
+          n
+          
+            =
+          
+          2
+          
+          ,
+          3
+          
+          ,
+          ⋅
+          ⋅
+          ⋅
+        
+      
+    
+    {\displaystyle {\ce {n = 2, 3,...}}}
+   pels períodes 2, 3,... de manera que els elements que tenen propietats químiques i físiques semblants queden situats en les mateixes columnes (en vertical) perquè tenen configuracions electròniques semblants. És el cas dels gasos nobles, que tots tenen configuració electrònica acabada amb 
+  
+    
+      
+        
+          
+            ns
+            
+              2
+            
+          
+          
+            np
+            
+              6
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {ns^2 np^6}}}
+  , o dels metalls alcalins, que tots tenen estructura electrònica acabada en 
+  
+    
+      
+        
+          
+            ns
+            
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {ns^1}}}
+  .
+
+
+=== Files o períodes ===
+Les files d'elements, s'anomenen períodes i n'hi ha set, numerats de l'1 al 7 començant per la part superior. No tots tenen el mateix nombre d'elements: a la part superior el període 1 en té 2, l'hidrogen i l'heli, un a l'esquerra i l'altre a la dreta; els períodes 2 i 3 en tenen 8 cadascun (2 a l'esquerra i sis a la dreta); els períodes 4 i 5 en tenen 18 cadascun; i els períodes 6 i 7 en tenen 32 cadascun. Tanmateix aquest dos darrers períodes tenen 15 elements cadascun (lantanoides i actinoides) que se situen separats a la part inferior, evitant així una taula desmesuradament llarga.La diferència del nombre d'elements a cada període és degut a la diferent capacitat que tenen els nivells energètics atòmics. A mesura que s'augmenta de nivell energètic s'incrementa la capacitat d'acollir electrons. Així al nivell de nombre quàntic principal n = 1 hi caben 2 electrons; al nivell n = 2, 8 electrons; al nivell n = 3, 18 electrons i al nivell n = 4, 32 electrons.
+Si se sintetitzen nous elements, caldrà situar-los en el vuitè període. La IUPAC el 1978 aprovà un sistema de nomenclatura per anomenar provisionalment els nous elements fins que s'aprovi el nom definitiu. Aquests sistema es basa en derivar el nom a partir del nombre atòmic. Els noms provisionals dels deu primers nous elements seran: Uue, ununenni (119); Ubn, unbinili (120); Ubu, unbini (121); Ubb, unbibi (122); Ubt, unbitri (123); Ubq, unbiquadi (124); Ubp, unbipenti (125); Ubh, unbihexi (126); Ubs, unbisepti (127) i Ubo, unbiocti (128).
+
+
+=== Columnes o grups ===
+
+A les columnes, hi queden les famílies o grups d'elements semblants. N'hi ha 18 numerades de l'1 al 18 començant per l'esquerra. Els grups 1, 2, 13, 14, 15, 16, 17 i 18 s'anomenen elements del grups principals, i excepte pel grup 18, els dos primers elements de cada grup principal poden anomenar-se elements típics. La resta d'elements s'anomenen elements de transició. Els grups són:
+
+A l'esquerra de la taula hi ha dos grups de sis elements cadascun. El grup 1 s'anomena del metalls alcalins, és el primer de l'esquerra i inclou el elements liti, sodi, potassi, rubidi, cesi i franci. El grup 2, dels alcalinoterris, conté el beril·li, el magnesi, el calci, l'estronci, el bari i el radi.
+Al mig hi ha quaranta elements dels grups 3 al 12 s'anomenen metalls de transició; són els elements de l'escandi (21) al zinc (30) o metalls de transició de grup del ferro; de l'itri (39) al cadmi (48), els metalls de transició del grup del pal·ladi; del luteci (71) al mercuri (80), els metalls de transició del grup del platí i el grup d'elements sintètics del lawrenci (103) al copernici (112). La composició del grup 3 és una qüestió no resolta, ja que podria estar format per escandi, itri luteci i lawrenci o, per contra, per escandi, itri, lantani i actini.
+A la dreta hi ha vuit grups de sis elements cadascun: el grup 13 o del bor que conté els elements bor, alumini, gal·li, indi, tal·li i nihoni; el grup 14 o del carboni que, a més del carboni, conté el silici, el germani, l'estany, el plom i el flerovi; el grup 15 o del nitrogen, amb nitrogen, fòsfor, arsènic, antimoni, bismut i moscovi; el grup 16 o dels calcògens (oxigen, sofre, seleni, tel·luri, poloni i livermori); el grup 17 o dels halògens (fluor, clor, brom, iode, àstat i tennes) i el 18 o dels gasos nobles (heli, neó, argó, criptó, xenó, radó i oganessó).
+A la part de sota de la taula hi ha dues sèries horitzontals separades amb quinze elements cadascuna, són el grup dels lantanoides, que va del lantani al luteci; i el grup dels actinoides, de l'actini al lawrenci.Tot i que l'hidrogen s'inclou en el grup 1 no forma part del grup dels alcalins i podria incloure's en el grup 17 (halògens) malgrat no és gaire semblant ni a uns ni als altres en les seves propietats químiques. No obstant això, se li assigna el nombre d'oxidació +1 en compostos com el fluorur d'hidrogen, 
+  
+    
+      
+        
+          HF
+        
+      
+    
+    {\displaystyle {\ce {HF}}}
+   i −1 en compostos com l'hidrur de liti, 
+  
+    
+      
+        
+          LiH
+        
+      
+    
+    {\displaystyle {\ce {LiH}}}
+  ; i per tant es pot considerar que és semblant a un element del grup 1 (alcalins) i a un element del grup 17 (halògens), respectivament, en compostos d'aquests dos tipus, prenent el lloc primer de 
+  
+    
+      
+        
+          Li
+        
+      
+    
+    {\displaystyle {\ce {Li}}}
+   i després de 
+  
+    
+      
+        
+          F
+        
+      
+    
+    {\displaystyle {\ce {F}}}
+   al fluor de liti, 
+  
+    
+      
+        
+          LiF
+        
+      
+    
+    {\displaystyle {\ce {LiF}}}
+  . L'hidrogen és, de fet, l'element més singular: cap altre element no s'assembla a ell, de la mateixa manera que el sodi s'assembla al liti, el clor s'assembla al fluor i el neó s'assembla a l'heli. És l'únic element que no es pot considerar convenientment com a membre d'un grup.
+
+
+=== Blocs ===
+Una comparació de les configuracions electròniques dels elements amb la taula periòdica revela que cada període comença amb l'addició d'un electró en un nou nivell energètic, no ocupat prèviament. Així, l'hidrogen i els elements del grup 1 tenen una configuració electrònica 
+  
+    
+      
+        
+          
+            ns
+            
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {ns^1}}}
+  , en què 
+  
+    
+      
+        
+          n
+        
+      
+    
+    {\displaystyle {\ce {n}}}
+   és el nombre quàntic principal del darrer nivell, o el més extern. Aquest nivell normalment s'anomena nivell o capa de valència perquè és el que caracteritza químicament l'element. Segons el tipus de configuració electrònica hom diferencia quatre grans blocs, s, p, d i f, els quals solen diferenciar-se amb colors diferents en algunes taules periòdiques.
+
+
+==== Bloc s ====
+Els elements dels grups 1 i 2 (a la figura 1A i 2A), l'hidrogen, els alcalins, alcalinoterris i l'heli, tenen configuracions 
+  
+    
+      
+        
+          
+            ns
+            
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {ns^1}}}
+   els dos primers i 
+  
+    
+      
+        
+          
+            ns
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {ns^2}}}
+   els dos darrers, i s'anomenen elements del bloc s. Està constituït per un total de catorze elements. Són elements químics els quals àtoms tenen electrons que inicien l'ocupació d'un nou nivell d'energia, la qual cosa fa que siguin fàcilment ionitzables i formin cations. És excepcional la posició de l'heli situat a la dreta de la taula periòdica per agrupar-lo amb la resta de gasos nobles amb els quals comparteix propietats. Això és degut al fet que el nivell n = 1 no té orbitals p i l'heli completa el nivell.
+
+
+==== Bloc p ====
+Els grups del 13 al 18 (a la figura 3A a 8A) tenen configuracions de 
+  
+    
+      
+        
+          
+            ns
+            
+              2
+            
+          
+          
+            np
+            
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {ns^2np^1}}}
+   a 
+  
+    
+      
+        
+          
+            ns
+            
+              2
+            
+          
+          
+            np
+            
+              6
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {ns^2np^6}}}
+  , respectivament, i s'anomenen elements del bloc p. En total hi ha trenta-sis elements si es compten els artificials del període 7. Són elements químics amb àtoms que completen els subnivells energètics s i p. És un bloc on es produeix una transició del caràcter metàl·lic a no metàl·lic, de l'esquerra cap a la dreta, i més aviat els situats a la part superior que els de la part inferior. Al mig queden elements amb propietats entre uns i els altres que s'anomenen metal·loides o semimetalls. Són el bor (B), el silici (Si), el germani (Ge); l'arsènic (As), l'antimoni (Sb), el tel·luri (Te) i el poloni (Po), situats en una diagonal que baixa d'esquerra a dreta. Els que tenen caràcter no metàl·lic són elements que poden acceptar electrons i formar anions. La configuració del nivell de valència 
+  
+    
+      
+        
+          
+            ns
+            
+              2
+            
+          
+          
+            np
+            
+              6
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {ns^2np^6}}}
+  correspon als gasos nobles i és especialment estable, com es dedueix de les seves baixes reactivitats.
+
+
+==== Bloc d ====
+Els elements dels grups 3 al 12 (a la figura 3B a 8B i 1B i 2B) s'anomenen elements elements del bloc d. Cada una de les sèries horitzontals d'aquests elements correspon a l'ocupació tardana del subnivell d del nivell (n-1) d'aquests àtoms. Com qualsevol subnivell d pot acollir 10 electrons, hi ha 10 elements per a cada nivell (4, 5 i 6) d'aquest bloc. Tots tenen propietats típiques dels metalls. Els del període 7 són tots artificials i es desintegren molt ràpidament. S'han sintetitzat pocs àtoms i no és possible mesurar cap propietat. Els elements dels grups 3 a l'11, això és tot el bloc d excepte el grup 12, s'anomenen elements o metalls de transició.
+
+
+==== Bloc f ====
+Finalment, queda el bloc f, els dels elements de transició interna, constituït pels lantanoides i actinoides que van ocupant els 14 orbitals f del nivell (n-2). Cadascun dels dos grups té elements molt semblants, amb propietats que es diferencien molt poc. Els situats després de l'urani (U) s'anomenen elements transurànics, i són tots artificials i inestables, excepte els primers (neptuni, plutoni i americi) tots els seus isòtops tenen vides mitjanes de molt curta durada.
+
+
+== Propietats periòdiques ==
+
+
+=== Propietats periòdiques atòmiques ===
+
+
+==== Radi atòmic ====
+
+El radi atòmic és la distància entre el nucli de l'àtom i els electrons més externs.
+
+En un grup de la taula periòdica, creix en augmentar el nombre atòmic 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  , perquè el darrers electrons, anomenats de valència, estan cada vegada més allunyats del nucli. El primer factor que hom ha de considerar és que en baixar dins d'un grup, els electrons ocupen cada vegada nivells d'energia més alts i, per tant, més allunyats del nucli, la qual cosa dona lloc a un augment del radi atòmic. En part, aquest augment es compensa amb l'increment de la càrrega nuclear. Els àtoms que estan més avall tenen una càrrega nuclear més elevada que els que estan per damunt i, segons la llei de Coulomb, l'atracció a la qual estan sotmesos els electrons és major, cosa que fa que s'aproximin al nucli disminuint el radi. Però aquest segon factor es veu en part compensat per un tercer factor, l'efecte d'apantallament dels electrons interiors, els quals repel·leixen els electrons exteriors i redueixen l'efecte d'atracció del nucli. En conjunt, aquests tres factors donen que el radi atòmic augmenti considerablement en davallar dins d'un grup i els elements que estan situats a la part inferior de la taula periòdica tinguin radis majors.
+En un període, el radi atòmic disminueix en augmentar 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  . En aquest cas intervenen només dos factors: el primer és que els electrons més externs estan situats tots en el mateix nivell, la qual cosa fa que el radi no variï. El segon factor és l'augment de la càrrega nuclear que es produeix en avançar dins d'un període. Això produeix una contracció dels àtoms i una disminució del seu radi. Els electrons interns produeixen apantallament, però per a tots els àtoms és el mateix, ja que els nivells ocupats sempre són els mateixos i no és un factor determinant.
+
+
+==== Volum atòmic ====
+El volum atòmic és l'espai que ocupa un àtom.
+
+En un grup, augmenta en augmentar el nombre atòmic 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  . La causa, la trobam perquè dins d'un grup en baixar cada vegada hi ha ocupats nivells més alts d'energia que estan més allunyats del nucli. Això fa que els àtoms tenguin un volum major. Hi ha un factor que s'oposa a aquest augment i és l'augment de càrrega nuclear que fa que l'atracció electroestàtica sigui més elevada en baixar dins d'un grup. Però part d'aquesta atracció es veu compensada per l'apantallament, la repulsió dels electrons més interns.
+En un període passa el mateix que amb el radi, és a dir, disminueix en augmentar 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  . La causa, la trobam perquè els electrons ocupen el mateix nivell energètic i en avançar en el període la càrrega nuclear augmenta. Per això, l'atracció electroestàtica sobre els electrons augmenta i el volum es redueix.
+
+
+==== Energia de ionització ====
+
+L'energia de ionització és l'energia que cal subministrar a un àtom en el seu estat fonamental i gasós per a arrancar-li un electró, segons l'equació 
+  
+    
+      
+        X
+        →
+        
+          X
+          
+            +
+          
+        
+        +
+        
+          e
+          
+            −
+          
+        
+      
+    
+    {\displaystyle X\rightarrow X^{+}+e^{-}}
+  
+Pel primer electró, s'anomena primera energia de ionització, pel segon, 2a energia de ionització i així successivament.
+
+En un grup disminueix en augmentar el nombre atòmic 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  . A la figura adjunta, s'observa clarament amb els gasos nobles (els màxims) o amb els alcalins (els mínims). La causa d'aquesta variació és que, si bé en baixar dins d'un grup, la càrrega nuclear és major i, en principi, l'atracció electroestàtica també ho és, la posició dels electrons de la darrera capa és cada vegada més allunyada del nucli i això fa que l'atracció electroestàtica, segons la llei de Coulomb, sigui menor, ja que és inversament proporcional a la distància entre càrregues (protons del nucli-electró més extern). També s'ha de considerar la repulsió dels electrons interns, l'apantallament, que redueix l'atracció del nucli. Amb tot això, les energies de ionització disminueixen en baixar dins d'un grup, per tant els àtoms que se situen a la part més baixa de la taula periòdica són més fàcilment ionitzables.
+En un període creix en augmentar 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  . Quan s'avança dins d'un període augmenta el nombre de protons i, per tant, la càrrega nuclear, produint una atracció electroestàtica major sobre els electrons. Contràriament al que passa dins d'un grup, tots els electrons més externs en un període ocupen la mateixa capa i, per això, se situen d'entrada a distàncies semblants del nucli i amb la major càrrega nuclear s'aproximen més a aquest. Així, els electrons més externs estan més propers al nucli, la qual cosa implica major atracció electroestàtica i, també, la càrrega nuclear és major, per tant també major atracció. En conseqüència, les energies de ionització augmenten considerablement dins d'un període com s'observa a la figura. El darrer element del període, el gas noble, és el que té l'energia de ionització major. Després hi ha una baixada en omplir-se un altre nivell energètic i allunyar-se el darrer electró del nucli.
+
+
+==== Electroafinitat ====
+Electroafinitat o afinitat electrònica és l'energia que desprèn un àtom en el seu estat fonamental i gasós quan guanya un electró i passa a ser un anió. Podem representar-ho per 
+  
+    
+      
+        X
+        +
+        
+          e
+          
+            −
+          
+        
+        →
+        
+          X
+          
+            −
+          
+        
+      
+    
+    {\displaystyle X+e^{-}\rightarrow X^{-}}
+  
+
+En un grup disminueix en augmentar el nombre atòmic 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  , ja que els nous electrons se situen en orbitals cada vegada més allunyats del nucli on l'atracció electroestàtica del nucli és més feble per la llei de Coulomb.
+En un període creix en augmentar 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   perquè la càrrega nuclear augmenta en avançar en un període i els electrons se situen en el mateix nivell, per tant cada vegada més propers al nucli i més atrets.
+
+
+==== Electronegativitat ====
+
+Electronegativitat és la capacitat que té un àtom per a atreure els electrons de l'enllaç covalent que forma amb un altre àtom, és a dir, tendència que presenta un àtom a compartir desigualment els electrons de l'orbital o els orbitals del seu enllaç. Hom ha convingut d'acceptar com a valor de l'electronegativitat d'un element el valor que aquest agafa en combinar-se amb l'hidrogen. L'escala d'electronegativitats fou calculada per primera vegada per Linus Pauling a partir dels moments dipolars, electroafinitats i potencials de ionització, bo i donant com a valor patró 4,0 per al fluor. L'electronegativitat és emprada en fórmules empíriques per a calcular el caràcter iònic d'un enllaç i també per a calcular de manera aproximada la longitud d'enllaç a partir de la longitud dels radis covalents.
+
+En un grup disminueix en augmentar 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  , ja que si bé augmenta la càrrega nuclear també augmenten els nivells ocupats i els darrers electrons, els que formen els enllaços estan més allunyats del nucli en davallar a la taula periòdica.
+En un període creix en augmentar 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  , ja que augmenta la càrrega nuclear efectiva per l'augment del nombre de protons i els electrons se situen tots en el mateix nivell. Els elements químics situats a la dreta de la taula periòdica són els més electronegatius exceptuant-ne els gasos nobles.
+
+
+=== Propietats periòdiques físiques ===
+Les propietats físiques dels elements químics varien seguint la llei periòdica. Propietats com el punt de fusió, el punt d'ebullició, la conductivitat tèrmica, la calor específica, la conductivitat elèctrica, la duresa i la densitat mostren variacions periòdiques amb el nombre atòmic. Sovint la variació no és tan regular com la que es produeix amb les propietats periòdiques atòmiques, perquè la relació d'aquestes propietats físiques i la configuració electrònica no és directa.
+Com a exemples, es poden citar la densitat i els punts de fusió. Ambdues propietats es poden representar respecte al nombre atòmic, i s'hi observa una successió de màxims i mínims. En el cas de la densitat, els mínims corresponen als metalls alcalins i augmenta en davallar dins del grup. En el cas dels punts de fusió, els mínims corresponen als gasos nobles, i també augmenten els punts de fusió en davallar dins del grup.
+
+
+=== Propietats periòdiques químiques ===
+Les propietats periòdiques químiques són les que emprà Mendeléiev per a descobrir la llei periòdica. A continuació se'n detallen algunes:
+
+
+==== València ====
+
+La valència dels elements és una propietat periòdica, ja que tots els elements d'un grup tenen la mateixa valència.
+
+Per exemple, tots els alcalins tenen valència 1; tots els alcalinoterris tenen una valència 2, tots els gasos nobles tenen valència 0, tots els halògens tenen valència 1, etc. Així, els òxids, per exemple, dels elements del grup 14, tenen fórmules iguals: CO₂, SiO₂, GeO₂, etc.
+També s'observa una regularitat en un període que es representa a la taula adjunta. Si deixam a part els elements dels blocs d i f, i només ens fixam en els dels blocs s i p (grups 1 i 2 i del 13 al 18), s'observa que la valència s'incrementa en una unitat en passar d'un element a l'altre, fins a arribar a un màxim, en l'element del grup 14, i després es redueix d'unitat en unitat fins als gasos nobles (0). L'explicació d'aquest fet és molt simple: els elements del mateix grup de la taula periòdica tenen el mateix nombre d'electrons en la seva capa de valència.
+
+
+==== Caràcter metàl·lic ====
+
+Els metalls són materials generalment durs i tenaços, bons conductors de la calor i de l'electricitat, per bé que aquesta conductivitat disminueix en augmentar la temperatura; mentre que els no-metalls poden ser aïllants o semiconductors, a temperatures baixes són mals conductors de l'electricitat i la calor, per bé que la conductivitat elèctrica en aquests materials augmenta amb la temperatura. El caràcter metàl·lic disminueix a mesura que hom es desplaça d'esquerra a dreta en un període. El caràcter dels primers grups, situats a l'esquerra, (alcalins i alcalinoterris) és molt elevat i disminueix progressivament fins a arribar als halògens i als gasos nobles, típicament no-metalls, ubicats a l'extrem dret de la taula periòdica.Dins del bloc p hi ha uns elements anomenats semimetalls, si bé tenen un comportament bàsicament de no-metall, presenten fenòmens com el de la semiconductivitat i defineixen una zona intermèdia entre els metalls i els no-metalls. Aquest elements són el bor del 2n període, el silici el 3r període, el germani i l'arsènic del 4t període, l'antimoni i el tel·luri del 5è, i l'àstat del 6è.Els elements superpesants, a partir del meitneri, són elements artificials dels quals se sintetitzen uns pocs àtoms amb una vida mitjana de mil·lisegons. Per tant, no se’n pot confirmar el caràcter metàl·lic.
+
+
+== Història ==
+
+
+=== Tríades de Döbereiner ===
+El 1817, el farmacèutic alemany Johann W. Döbereiner observà que la massa atòmica de l'estronci era quasi igual al valor mitjà de les masses atòmiques del calci i del bari, elements químicament semblants en propietats físiques i químiques a l'estronci:
+
+  
+    
+      
+        
+          A
+          
+            S
+            r
+          
+        
+        ≈
+        
+          
+            
+              
+                A
+                
+                  C
+                  a
+                
+              
+              +
+              
+                A
+                
+                  B
+                  a
+                
+              
+            
+            2
+          
+        
+        =
+        
+          
+            
+              40
+              ,
+              1
+              +
+              137
+              ,
+              3
+            
+            2
+          
+        
+        =
+        88
+        ,
+        7
+      
+    
+    {\displaystyle A_{Sr}\approx {\frac {A_{Ca}+A_{Ba}}{2}}={\frac {40,1+137,3}{2}}=88,7}
+  
+La densitat també era una propietat que complia aproximadament la mateixa regla. El 1829, mostrà l'existència de més grups de tres elements, tríades, que formaven compostos de composició similar i amb propietats semblants: sofre, seleni i tel·luri; clor, brom i iode; liti, sodi i potassi. L'any 1850, els químics havien aconseguit identificar al voltant de 20 tríades, que indicaven entre els elements una certa regularitat.
+
+
+=== El caragol tel·lúric ===
+El 1862, el francès Alexander Émile Béguyer de Chancourtois construí el seu vis tellurique ('cargol tel·lúric'), en la qual els elements estaven situats per ordre creixent de masses atòmiques en una hèlix al voltant d'un cilindre vertical, de manera que els elements que quedaven els uns sota els altres tenien propietats semblants. Això ho aconseguí fent que la diferència de masses atòmiques en cada volta fos de 16 unitats. Descobrí la llei periòdica però no aconseguí publicar el gràfic i quan ho aconseguí no fou conegut pels químics.
+
+
+=== Octaves de Newlands ===
+El 1864, un químic anglès, John A. R. Newlands, descobrí que en ordenar els elements coneguts segons la seva massa atòmica, el vuitè element tenia propietats similars al primer, el novè al segon i així successivament, cada vuit elements, les propietats es repetien. Ho anomenà llei de les octaves, recordant les notes musicals. Tanmateix, no trobà suport entre la comunitat científica.
+
+
+=== Taula de Mendeléiev ===
+El 1869, Mendeléiev publicà el que es considera la primera taula periòdica. Ordenà els elements seguint la seva massa atòmica, però no fixà el període de repetició de propietats, sinó que l'amplià a mesura que augmentava la massa atòmica. Invertí l'ordre d'alguns elements perquè encaixessin les seves propietats amb les dels elements adjacents, considerà que hi havia masses atòmiques mal calculades i deixà forats, indicant que corresponien a elements encara no descoberts.
+Paral·lelament, el 1870, el químic alemany Lothar Meyer estudiava els elements de manera gràfica, representant el volum de cada àtom en funció del seu pes, obtenint una gràfica en ones cada vegada majors. Fou el descobriment de la llei periòdica, però va arribar un any massa tard.
+
+
+=== Modificacions posteriors ===
+El descobriment dels gasos nobles, elements desconeguts per Mendeléiev, obligà a cercar-los lloc en la taula periòdica. Així, William Ramsay proposà el 1897 la creació d'un nou grup d'elements.
+El 1902, el químic txec Bohuslav Brauner publicà una taula periòdica on separà de la resta d'elements als lantanoides, que els posà ocupant una única casella amb onze elements.[28]El 1905 el químic suís Alfred Werner publicà una versió llarga de la taula periòdica que separa els metalls de transició dels lantanoides. El 1928 el científic francès Charles Janet publicà una taula periòdica llarga basant la seva organització en la configuració electrònica dels àtoms sorgida de la mecànica quàntica. La seva transformació fou la que donà origen a la taula actual.
+L'any 1945, Glenn Seaborg demostrà l'existència de la sèrie dels actinoides, molts dels quals, els transurànids, sintetitzà amb els seus col·laboradors durant la primera meitat del segle xx. Segons Seaborg, els actinoides havien de formar un grup com ho feien els lantanoides i per sota d'aquests, separats dels metalls de transició del bloc d amb els quals havien estat agrupats inicialment.L'any 2019 fou proclamat Any Internacional de la Taula Periòdica dels Elements Químics per la UNESCO.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Altres formats ==
+Diferents científics han proposat altres formats de la taula periòdica sense abandonar l'ordenació per ordre creixent de nombre atòmic, algunes de les quals figuren a continuació. Algunes permeten visualitzar millor la llei periòdica d'algunes propietats, però només són emprades per una minoria de científics. La taula periòdica d'ús generalitzat és la que s'ha descrit en aquest article i és l'oficial de la IUPAC.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== En altres camps ==
+
+
+=== Motiu artístic ===
+Diferents artistes plàstics han emprat la taula periòdica com a motiu per a les seves obres. Alguns d'ells són l'estatunidenc Blair Bradshaw que ha realitzat diferents obres a partir de la taula periòdica o dels elements així com s'hi representen: Periodic table (black) (2009), 3 hydrogens (2011), The city loved him so (2010), Periodic table (tower) (2014) i Periodic table (2016), entre altres; Erich Füllgrabe, Keith Wilson a l'escultura Periodic table (2004); Rebecca Kamen en el seu projecte Divining Nature: An Elemental Garden (2009); Sonya Rapoport en el collage Objects On My Dresser, Phase 10: Periodic Table of the Elements (1983); Simon Patterson en les obres 24 hours 16 hours (1995), Untitled 24 hours i d'altres; o David Clark.
+
+
+=== Món comercial ===
+La taula periòdica s'empra en el món comercial com a motiu de decoració en molts d'objectes: pòsters, camisetes, corbates, tasses, vitralls, autobusos, etc. I els símbols dels elements són emprats per jugar amb ells i construir-hi paraules, les quals s'empren per estampar-les en camisetes, tasses, etc.
+Per altra banda l'estructura de la taula periòdica ha servit de font d'inspiració per a molts d'autors que han ordenat de forma semblant altres temes creant símbols seguint el mateix estil que l'emprat per simbolitzar els elements químics. En el camp de la literatura s'han dissenyat taules periòdiques sobre característiques de la narrativa, narradors actuals estatunidencs, escriptors més destacats de tots els temps, de les saga de Harry Potter, de Joc de Trons, de la Terra Mitjana, Star Wars, etc. En el camp del disseny gràfic també s'ha utilitzat l'estructura de la taula periòdica per classificar-hi 100 dels tipus de lletra més usats. En el camp dels esport s'han dissenyat taules semblants a la periòdica per recollir els millors jugadors de futbol americà, guanyadors de Grans Premis de Fórmula 1… A cinematografia s'han dissenyat taules periòdiques amb les millors pel·lícules de ciència-ficció, etc.
+
+
+=== La taula periòdica més petita ===
+El 2010, la Universitat de Nottingham rebé un rècord mundial Guinness per crear la taula periòdica més petita del món. Gravada sobre un cabell del químic Martyn Poliakoff, mesurava només 90 µm per 46 µm. El 2019 investigadors de la mateixa universitat bateren el seu propi rècord, utilitzant litografia de feixos d'electrons. La taula es presentà en un xip de silici juntament amb retrats minúsculs de Dmitri Mendeléiev i Iuri Oganessian, l'única persona viva el 2019 que té un element químic amb el seu nom (oganessó). Cada retrat és d'uns 30 μm per 30 μm, i la taula periòdica de només 14 µm per 7 µm, menys d'una quarantena de l'àrea del registre anterior. Richard Cousins la creà fent servir un feix d'electrons d'alta energia de pocs nanòmetres de diàmetre per fer una resistència a una pel·lícula de polímer. El patró 3D fet a la resistència fou transferit al silici mitjançant gravat d'ions i es diposita una capa fina d'or sobre el xip mitjançant l'evaporació tèrmica. L'or només s'adhereix a l'àrea definida pel feix d'electrons i la resta s'alimenta simplement en un dissolvent que deixa el patró desitjat.
+
+
+== Referències ==
+
+
+== Bibliografia ==
+Agafoshin, N.P.; Beltrán, J. Ley periódica y sistema periódico de los elementos de Mendeleiev.  Reverté, 1977. ISBN 8429170219. Bravo, L.A.. Tabla periódica en espiral y propiedades zonales.  Reverté, 1978. ISBN 8429170618. Cooper, D.G.. La tabla periódica.  Reverté, 1976. ISBN 842917138X. Emsley, J. Nature's building blocks: an A-Z guide to the elements.  Oxford University Press US, 2001. ISBN 0198503415. Hofmann, S. On beyond uranium: journey to the end of the periodic table.  Taylor & Francis, 2002. ISBN 0415284953. Mendeléiev, D.I.. La Regularitat periòdica dels elements químics.  Institut d'Estudis Catalans, 2008. ISBN 978-84-7283-962-5. Mendeléiev, D.I.. La Relació entre les propietats dels elements i llur pes atòmic.  Institut d'Estudis Catalans, 2005. ISBN 8472837971. Polo, R. Mendeleiev.  Nivola, 2008. ISBN 9788496566934. Scerri, E.R.. The periodic table: its story and its significance.  Oxford University Press US, 2007. ISBN 0195305736. Strathern, P. El sueño de Mendeléiev. De la alquimia a la química.  Siglo XXI de España Editores, 2000. ISBN 8432310468. 
+
+
+== Enllaços externs ==
+Taula periòdica: taula periòdica interactiva
+Webelements: informació de tots els elements de la taula periòdica (en anglès)
+Llista dels elements i traducció a diverses llengües
+Periodic Table Formulations: pàgina web en què hi ha una relació exhaustiva de diferents formats de la taula periòdica (anglès)
+Taula periòdica
+Taula periòdica dels elements segons la seva abundància natural relativa Arxivat 2016-03-03 a Wayback Machine.

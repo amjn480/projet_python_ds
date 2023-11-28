@@ -1,0 +1,40 @@
+La C és la tercera lletra de l'alfabet català provinent del llatí.
+Prové de la lletra gimel de l'alfabet fenici, que els grecs convertiren en la gamma quan adaptaren l'alfabet fenici i crearen l'alfabet grec. En aquests alfabets, el caràcter representava el so de l'oclusiva velar sonora /g/, però els etruscs, en adaptar l'alfabet grec en l'alfabet etrusc, li assignaren el valor de l'oclusiva velar sorda, atès que en etrusc no es distingia la sorda de la sonora; com que els llatins crearen el seu alfabet amb base a l'alfabet etrusc, el so assignat a la lletra C fou el de /k/, i no pas el de /g/ original.
+
+
+== Fonètica ==
+En català representa l'oclusiva velar sorda /k/ de l'alfabet fonètic internacional en els següents casos:
+
+Davant de les vocals a (casa /'kazə/ /'kaza/), o (cosa /'kɔzə/ /'kɔza/), u (cullera /ku'ʎeɾə/ /ku'ʎeɾa/). En mallorquí pot prendre el so d'oclusiva palatal sorda: /'сazə/. Cal recalcar que si el fonema /k/ va seguit d'una lletra u que representa el fonema /w/, aleshores no es representa per la lletra c sinó per la lletra q (per això cua va amb c i quadre s'escriu amb q).
+Davant de les consonants r (creu /'kɾεw/ /'kɾew/ /'kɾəw) i l (clau /'klaw/)
+Seguida d'una consonant sorda (acte /'aktə/ /'akte/, sucs /'suks/)
+Geminada cc (acció /əksi'o/ /aksi'o/, però en mallorquí /at͡si'o/)
+En posició final (sac /'sak/, però en mallorquí /'sac/). Després d'una consonant nasal pot emmudir-se (banc /'baŋ/ /'baŋk/).És el fonema de la fricativa alveolar sorda /s/ davant e (cel /'sεɫ/), i (ciri /'siɾi/).
+Seguida d'una consonant sonora és una oclusiva velar sonora /g/ (dracma /'dɾagmə/ /'dɾagma/).
+En l'escriptura catalana prenormativa també formava part del dígraf ch.
+
+
+== Significats de C ==
+Bioquímica: en majúscula, és el símbol de la citosina i de la cisteïna.
+Economia: és l'abreviatura de "cèntim". Dues C signifiquen "compte corrent".
+Educació: als països anglosaxons, representa l'aprovat en les qualificacions escolars.
+Física:
+en minúscula és el símbol de la velocitat de la llum, una de les constants absolutes.
+en majúscula és el símbol del coulomb en el Sistema internacional.
+Informàtica: el llenguatge C és un llenguatge de programació.
+Lingüística: en gramàtica designa habitualment un complement sintàctic. En alguns manuscrits llatins és una abreviatura de "cum".
+Matemàtiques:
+en majúscula i en el sistema de numeració romà, equival al nombre 100; amb una ratlla horitzontal a sobre (C) equival a cent mil.
+en minúscula és l'abreviatura del prefix "centi-" en les unitats de mesura.
+Música: en la notació germànica, representa la nota do.
+Química: en majúscula, és el símbol del carboni. És també el nom d'una vitamina (vitamina C)
+Símbols: amb un º al davant indica els graus Celsius de temperatura. Si en canvi és dins d'un cercle (©), significa "copyright", és a dir, propietat intel·lectual registrada.
+Urbanisme: és l'abreviatura de "carrer".
+
+
+== Símbols derivats o relacionats ==
+
+
+== Referències ==
+
+Viccionari

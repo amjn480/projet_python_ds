@@ -1,0 +1,124 @@
+E est la 5e lettre et la 2e voyelle de l'alphabet latin.
+
+
+== Sciences et techniques ==
+
+
+=== Astronomie et planétologie ===
+Les astéroïdes de type E sont les astéroïdes à enstatite.
+Dans la désignation des planètes mineures, le E indique un objet céleste qui a été découvert entre le 1er et le 15 mars.
+e (minuscule en italique) peut désigner l'excentricité de l'orbite d'une planète (de l'ordre de 0,017 pour la Terre) ou l'aplatissement de l'ellipsoïde de révolution représentant sa surface (de l'ordre de 0,08 pour la Terre).
+
+
+=== Biologie ===
+Dans la transcription d'une chaîne polypeptidique, le E désigne l'acide glutamique.
+e est l'abréviation du gène ebony, un gène de la drosophile.
+La vitamine E est une vitamine liposoluble, présente sous huit formes différentes (quatre tocophérols et quatre tocotriénols).
+
+
+=== Informatique ===
+L'éditeur de texte E utilisé sous Twenex et TENEX.
+Code ASCII :
+La lettre capitale « E » est codée « 69 » en décimal (0x45 en hexadécimal) ;
+La lettre minuscule « e » est codée « 101 » en décimal (0x65 en hexadécimal).
+Dans le système hexadécimal (base 16) où on ajoute au chiffres 0..9 les premières lettres de l'alphabet a b c d e f, « e » représente le nombre décimal 14 (&He = 14).
+Il est utilisé pour représenter les valeurs décimales flottantes comme marqueur de la puissance de dix. 0.1234e56 valant 0,123 4 × 1056.
+Ei est le préfixe binaire signifiant exbi (10246 = 260).
+e- est le préfixe signifiant electronic comme dans les mots anglais e-mail (courriel en français) ou e-business. La graphie e- est déconseillée par la Commission générale de terminologie et de néologie.
+Le logiciel Enlightenment est souvent appelé e.
+La classe de complexité E est la classe des problèmes pouvant être résolu en temps exponentiel avec un exposant linéaire par une machine de Turing déterministe.
+/e/, un système d'exploitation open source basé sur Android, exempt de Google.
+
+
+=== Mathématiques ===
+E (majuscule) peut désigner :
+un ensemble ;
+un espace vectoriel ;
+la fonction partie entière ;
+l'espérance d'une variable aléatoire ;
+plusieurs algèbres de Lie exceptionnelles (avec un entier en indice).
+e (minuscule romaine) peut désigner :
+le nombre e, base du logarithme naturel, une constante (environ 2,71828) ;
+e (minuscule italique) peut désigner :
+l'excentricité d'une conique ;
+l'écart entre une valeur exacte et une valeur approchée.
+E ou e est utilisé dans la notation scientifique d'un nombre en notation décimale pour séparer la mantisse de l'exposant en sous-entendant 10 : 2e4 ou 2E4 = 2×104 = 20 000.
+
+
+=== Physique - Chimie ===
+e est le symbole de la charge élémentaire (1,602 176 634 × 10−19 C).
+e− est le symbole de l'électron et e+ celui du positon.
+En électricité, E est le symbole de la force électromotrice et contre-électromotrice.
+En science des matériaux, E est le symbole du module de Young (encore appelé module d'élasticité ou module de traction).
+
+
+=== Unités ===
+E (majuscule) est le préfixe du SI signifiant exa (1018).
+E (majuscule) est le symbole de l'einstein, une unité de mesure en photochimie.
+
+
+=== Télécommunications ===
+Le site E, tour hertzienne américaine.
+
+
+== Sciences humaines et sociales ==
+
+
+=== Histoire ===
+E, ancien État de Chine
+
+
+=== Linguistique ===
+L'e est une langue parlée dans la province du Guangxi en Chine.
+e est, en français, la lettre placée après un nombre écrit en chiffres pour donner naissance à l'adjectif numéral ordinal : 5e, par exemple, est l'abréviation de « cinquième ». Selon les recommandations du Lexique des règles typographiques en usage à l'Imprimerie nationale, ce « e » doit être surélevé et, représentant dans l'abréviation la dernière lettre du mot suppléé, ne doit pas être remplacé par « ème », « ième », « me », « è » ou tout autre formulation : ainsi « 8e » est préféré à « 8ème », « 8ième », « 8me » ou « 8è ». C'est une lettre.
+E a inspiré plusieurs symboles de l'alphabet phonétique international :
+[e] représente la voyelle mi-fermée antérieure non arrondie.
+[ə] représente la voyelle moyenne centrale, ou schwa.
+[ɘ] représente la voyelle mi-fermée centrale non arrondie.
+
+
+== Culture et société ==
+
+
+=== Cinéma ===
+« E » est le titre d'un court métrage d'animation canadien, sorti en 1981.
+« E » est le titre d'un film américain, sorti directement en vidéo en 2001.
+« E » est le titre d'un film indien, sorti en 2006.
+
+
+=== Littérature ===
+Dans le poème Voyelles de Rimbaud, le e est associé au blanc et décrit comme suit : «  candeur des vapeurs et des tentes, / Lances des glaciers fiers, rois blancs, frissons d'ombelles ».
+Lettre la plus fréquemment utilisée de la langue française, elle est pourtant totalement absente du roman La Disparition de Georges Perec (voir lipogramme) et la seule voyelle utilisée dans le roman Les Revenentes, du même Georges Perec.
+E est la note signifiant « effort exceptionnel » dans la série des livres Harry Potter.
+
+
+=== Musique ===
+En musique anglophone, E correspond à la note mi.
+E est un DVD d'Eminem.
+E est un album studio du groupe sud-coréen de hip-hop Epik High (2009).
+
+
+=== Vie pratique ===
+Signalisation routière :
+La lettre E est le code international des automobiles venant d'Espagne.
+E est utilisée dans la dénomination des voies de circulation en France pour désigner les routes européennes.
+Le E est la lettre d'indexation des poteaux d'éclairage dans la province de Hainaut, en Belgique.
+E est l'abréviation courante de Est.
+€ est le symbole de l'euro (monnaie de l'Europe).
+E est la codification des additifs alimentaires (Numéro E).
+E3, E4, E5 et E6 sont des formats internationaux de feuille de papier.
+Dans un système de notation (évaluation des performances) de A à E (sur 5), E (majuscule) correspond à une performance très mauvaise voire nulle. Ce système est plutôt employé dans les pays anglo-saxons.
+℮ symbolise la quantité estimée (volume et masse) dans la CE.
+E est traduit par Echo dans l'alphabet radio OACI/OTAN,
+La Mercedes-Benz Classe E est une automobile,
+La ERA E est une Formule 1,
+La Ewing E est une Formule 1,
+La Brabus E V12 est une automobile,
+e, au football, signifie la règle de l'extérieur en cas d'égalité. Il s'inscrit par exemple 3e - 3
+
+
+== Toponyme ==
+E est un nom de lieu notamment porté  par :
+
+E, une rivière en Écosse ;
+E ou IJe, une rivière des Pays-Bas près d'Edam.

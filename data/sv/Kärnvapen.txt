@@ -1,0 +1,533 @@
+Kärnvapen är en typ av vapen vars sprängladdning får sin energi från fission, eller från olika kombinationer av fission och fusion, av atomkärnor. Detta skiljer dem från konventionella vapen, vars sprängladdningar får sin energi från kemiska processer.
+
+Kärnvapen finns i varianter från de minsta med sprängkraft som inte är mycket större än de största konventionella bomberna, till enormt kraftfulla konstruktioner som kan utplåna allt inom en radie på flera kilometer. Kärnvapen transporteras vanligen till målet med bombplan eller ballistiska robotar, men även artilleripjäser, kryssningsrobotar och minor med kärnladdningar finns. Många kärnvapen har provsprängts men endast två har använts i en väpnad konflikt: Atombomberna över Hiroshima och Nagasaki (Little Boy och Fat Man) sprängdes mot slutet av andra världskriget i augusti 1945 på order av USA:s president Harry S. Truman. Den som använder kärnvapen i en väpnad konflikt bedriver kärnvapenkrig.
+
+
+== Olika namn ==
+Det finns ett antal namn som används för vissa eller alla sorters kärnvapen. I vardagligt tal kan atombomber åsyfta både kärnvapen i allmänhet och fissionsvapen i synnerhet. En mindre vanlig term är nukleära vapen. 
+Det som i dagligt tal kallas vätebomber kan även kallas fusionsvapen eller termonukleära vapen.
+
+
+== Historik ==
+
+
+=== Första stegen mot ett kärnvapen ===
+Olika upptäckter inom kärnfysiken under 1930-talet ledde fram till förståelsen att kärnenergi var möjlig att utnyttja som en energikälla, och därmed också i vapen. Idén om en kedjereaktion med hjälp av neutroner framfördes 1934 av Leó Szilárd, som också tog patent på idén. Otto Hahn och Fritz Strassmann upptäckte i slutet av 1938 att grundämnet barium hade uppstått när de bombarderat uran med neutroner. Lise Meitner och Otto Robert Frisch tolkade en kort tid därefter detta som ett resultat av fission, och Frisch bekräftade detta experimentellt i januari 1939. Nyheten om dessa rön togs till USA av Niels Bohr innan de hade publicerats, och nådde Enrico Fermi och hans forskargrupp på Columbia University, efter att Bohr först hade nämnt dem på en föreläsning vid Princeton University.
+
+
+=== Manhattanprojektet ===
+
+Den 2 augusti 1939 skickade Albert Einstein ett brev (som huvudsakligen var skrivet av Leó Szilárd) till Franklin D. Roosevelt, där det stod att Nazityskland troligen utforskade möjligheten att skapa atombomber, och att USA därför borde göra detsamma, då andra världskriget stod för dörren. Brevet hade dock ingen större effekt eftersom USA ansåg att kriget i Europa inte angick dem. Denna situation ändrades när Japan anföll USA:s flottbas Pearl Harbor den 7 december samtidigt som Tyskland förklarade krig mot USA den 11 december 1941. Efter det ökades tempot i den amerikanska kärnvapenforskningen och Manhattanprojektet startades under ledning av Leslie Groves och med Robert Oppenheimer som den vetenskapliga centralfiguren. Som plats för forskningen valdes Los Alamos mitt i New Mexicos ödemark. Mitt i ödemarken byggdes så småningom en stad kring forskningsanläggningen.Redan 1939 hade Einsteins och Szilárds brev (se ovan) lett till den så kallade urankommittén under Lyman Briggs. Efter att upptäckter kring egenskaperna hos uran 235 hade gjorts i Storbritannien och Office of Scientific Research and Development hade skapats 1941 under ledning av Vannevar Bush.
+
+Eftersom atombombsprojektet var topphemligt hade Los Alamos ingen officiell adress. All post som skulle nå staden skickades till Santa Fé 1663. USA:s kongress hade ingen vetskap om att projektet överhuvudtaget pågick. Hitler i sin tur trodde inte på kärnfysiken som han ansåg vara "judisk fysik". Istället fokuserade han på att utveckla raketerna V1 och V2. Efter Tysklands kapitulation hade bomben egentligen förlorat sin betydelse men ändå fortsatte projektet, intensiteten ökades till och med. Det första kärnvapnet detonerade 16 juli 1945 i form av Trinitytestet. Forskarna reagerade olika på det framgångsrika testet: En del firade, medan andra grät. Robert Oppenheimer reagerade genom att citera en gammal hinduisk skrift: "Nu är jag bliven Döden. Världars förgörare".  Atombomberna över Hiroshima och Nagasaki sattes därefter in 6 augusti respektive 9 augusti 1945. Uppskattningsvis avled mellan 200 000 och 300 000 människor av bomberna. Tiotusentals dog veckorna efter bombningarna på grund av den strålning som de hade blivit utsatta för. Effekterna av den radioaktiva strålningen på människokroppen var kända sedan tidigare. Robert Oppenheimer diskuterade redan 1943 möjligheten att förgifta hundratusentals civila genom radioaktivt material. Även om det ofta har hävdats att atombomberna räddade många liv som skulle ha dött i en eventuell invasion av Japan har en del hävdat att Japan förmodligen hade kapitulerat i alla fall.
+
+
+=== Kapprustning ===
+
+29 augusti 1949 provade Sovjetunionen sitt första kärnvapen, och kärnvapenkapprustningen var ett faktum. Den första fusionsbomben (som då var en stor, stationär design och inte lämpade sig för en bomb) testades av USA 1 november 1952 efter att Edward Teller hade varit en centralfigur i utvecklingen. 12 augusti 1953 testade Sovjetunionen sin första fusionsbomb.
+Därmed blev 50-talet en period där det gjordes stora satsningar på kärnvapen. England skaffade vätebomben 1957 och även Frankrike fick sin första atombomb 1960. 1964 anslöt Kina till kretsen av kärnvapenmakterna. I slutet av 50-talet kom USA och Sovjet visserligen överens om att sluta med provsprängningar av kärnvapen men ändå fortsatte rustningen på båda sidor. Ett viktigt skäl var att det var billigare att ha stora kärnvapenarsenaler istället för att underhålla stora konventionella styrkor.
+På 1950-talet försökte även Sverige att skaffa kärnvapen. Med en av världens största fyndigheter av uran i ryggen försökte man ända in på 1970-talet att få en svensk atombomb. Programmets intensitet svalnade dock i mitten av 1960-talet, förmodligen eftersom USA då lovade att "skydda" Sverige ifall ett kärnvapenkrig skulle bli verklighet.Under denna tid av kapprustning inträffade också det som senare skulle betecknas som kalla krigets farligaste ögonblick: Kubakrisen i oktober 1962 när Sovjet ville placera kärnladdade robotar på Kuba efter att USA och NATO hade placerat kärnvapen i Turkiet som var ett av Sovjetunionens grannländer. Efter att USA upprättade en blockad runt Kuba drog Chrusjtjov och Sovjet tillbaka kärnvapnen och som motprestation skrotade USA sina robotar i Turkiet. Fram till 1962 hade både USA och Ryssland hunnit med att utföra över 400 atmosfäriska provsprängningar. Toppen nåddes när Sovjetunionen sprängde Tsarbomben på knappt 60 megaton. Vid denna tidpunkt förfogade USA över cirka 24 000 och Sovjetunionen över cirka 2 400 kärnvapen.
+
+
+=== Avspänning ===
+De problem som följde med kärnvapentesterna (till exempel radioaktiv strålning) ledde till att man förhandlade fram Partiella provstoppsavtalet (PTBT) från 1963. Dock tilläts det fortfarande underjordiska kärnvapenprov vilket gjorde att antalet provsprängningar ökade under 60-talet samtidigt som världens kärnvapenarsenaler fortsatte att öka (det fullständiga provstoppsavtalet trädde i kraft 1996). Platser som Mururoa-atollen i Stilla Havet har exempelvis utsatts för 46 atmosfäriska sprängningar med konsekvenser så som cancer bland barnen. Alla kärnvapenstaterna tillsammans har genomfört ca 2 000 kärnvapentester. Ett annat viktigt avtal var icke-spridningsavtalet från 1968 som dock först trädde i kraft 1992 när Frankrike som sista av de fem officiella kärnvapenmakterna hade undertecknat avtalet. Avtalet innebär att kärnvapenmakterna inte ska sprida kärnvapen till icke-kärnvapenstater. Rustningsbegränsningar för supermakterna kom till i Strategic Arms Limitation Talks, som resulterade i SALT I-avtalet 1972 och SALT II-avtalet 1979. Reduktioner av de strategiska kärnvapeninnehaven följde med START I från 1991 och START II från 1993. Dock trädde START II aldrig i kraft utan ersattes så småningom av New START som kom tillstånd 2010 och som begränsade kärnvapen till 1 550 fram till år 2017. Medeldistansrobotarna avskaffades med INF-avtalet. 
+Men även under denna fas av relativa avspänning inträffade incidenter som kunde ha lett till kärnvapenkrig. En sådan incident ägde rum 1979 när dåvarande försvarsministern William Perry fick ett samtal mitt i natten om att 200 sovjetiska atomrobotar var på väg mot USA. Det visade sig senare att felmeddelandet berodde på att en datatekniker hade glömt att slå av en krigssimulation i datorn. Enligt Perry var det de då goda relationerna mellan USA och Sovjet som förhindrade en vedergällning från USA:s sida.
+
+
+=== Ett nytt kallt krig ===
+1980-talet präglades till en början av en försämrad relation mellan USA och Sovjetunionen. Ronald Reagan hade blivit vald till president i USA och satsade stora resurser på ett missilförsvar som skulle kunna skjuta ner inkommande sovjetiska robotar samtidigt som han ställde upp nya medeldistansrobotar i Europa samtidigt som Sovjet hade invaderat Afghanistan 1979. I denna situation genomförde NATO sin övning Able Archer 83 där man simulerade ett tredje världskrig. Eftersom övningen var så realistisk trodde Sovjetunionen att NATO förberedde ett överraskningsanfall mot östblocket. I sista ögonblick insåg Sovjet dock att det bara handlade om en övning. I september 1983 hände en annan farlig incident när sovjetiska datorer slog larm om att US-amerikanska atomrobotar var på väg mot Sovjet. Den tjänsthavande officeren Stanislav Petrov följde dock sin intuition och bedömde det som ett felmeddelande. Hade han rapporterat till militärledningen att han bedömde anfallet som verkligt hade det kunnat leda till omfattande vedergällning från Sovjet och därmed till ett tredje världskrig. Bortsett från missförstånd på politisk och militär nivå så har det även funnits flera incidenter som till exempel när ett kärnvapen exploderade i en silo i Arkansas. Även drogmissbruk har sedan 1970-talet varit vanligt förekommande bland personal som har hand om USA:s kärnvapen. Enligt Eric Schlosser är det "mirakulöst" att ingen stad har blivit förstörd genom ett kärnvapen under kalla kriget.
+Efter den tilltagande spänningen i början av 1980-talet inleddes avspänningen 1985 vilket bland annat hängde ihop med valet av Gorbatjov till ny ledare i Sovjetunionen. Möten mellan Gorbatjov och Reagan i både Genève och Reykjavik ledde till en reduktion av antalet kärnvapen från över 60 000 till 10 000.
+
+
+=== Efter Kalla Kriget (sedan 1991) ===
+Efter Kalla Krigets slut genomförde även Indien och Pakistan framgångsrika provsprängningar år 1998. På 2000-talet anslöt Nordkorea till kärnvapenmakterna och har fram till 2017 genomfört sex kärnvapentester där den största bedöms vara ungefär hälften så stor som Hiroshimabomben. Därtill har det även efter Sovjetunionens sammanbrott funnits incidenter som kunde ha utlöst ett kärnvapenkrig som exempelvis 1995 när det ryska försvarssystemet registrerade en inkommande missil som ledde till att president Boris Jeltsin hade öppnat sin kärnvapenväska och aktiverat Rysslands kärnvapen innan det visade sig att missilen var på väg bort igen.
+I januari 2018 flyttade Bulletin Of Atomic Scientists (som sedan 1947 regelbundet bedömer risken för kärnvapenkrig) domedagsklockan fram till två minuter i midnatt eftersom man ansåg att världens ledare hade misslyckats med att hantera både kärnvapen- och klimathotet. Efter kalla krigets slut i början av 1990-talet hade klockan stått på 17 minuter i midnatt. "Midnatt" betyder att kärnvapenkriget börjar. F.d. försvarsministern Bill Perry menar att risken för en kärnvapenkatastrof är större än under Kalla Kriget på grund av de försämrade relationerna mellan USA och Ryssland. Orsaken till dessa försämrade relationer ser han i utvidgningen av NATO i Östeuropa och USA:s missilförsvar som har placerats i bland annat Rumänien. Även Hans Blix (f.d. generaldirektören för IAEA) ser NATO:s expansion österut som en viktig orsak bakom de ökade spänningarna. Nedrustningsexperten Paul Ingram ser framförallt en "machoattityd" hos politiker som Donald Trump som en viktig bakomliggande orsak. Men även att Ryssland lämnar kärnvapenavtalet INF, kan ses som en del i de ökade spänningarna.
+
+
+== Grundläggande fysikaliska principer ==
+Grunden för konstruktion av kärnvapen utgörs av främst fysiken, och då i synnerhet kärnfysik. Formeln E = mc² har ibland setts som en symbol för den teoretiska basen för kärnvapen. Inom kemin har kärnkemin varit av fundamental betydelse för utvecklingen av kärnvapen.
+
+
+=== Ekvivalens mellan massa och energi ===
+
+Massa kan ses som energi, och energi kan ses som massa. Detta är innebörden av Einsteins bekanta samband:
+
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle E=mc^{2},}
+  där E avser energin, m massan och c2 är ljushastigheten i kvadrat.
+Således följer det att varje möjlig fysikalisk process, som medför en massaförlust, kommer att utveckla energi.
+
+
+=== Kärnfysik ===
+
+Kärnfysiken beskriver bland annat sådana kärnreaktioner som fission och fusion, men det finns en mängd andra kärnfysikaliska fenomen som är betydelsefulla. Till exempel kan en neutron som växelverkar med en atomkärna i vissa fall absorberas så att det bildas en ny isotop, medan den i andra fall sprids på ett sätt som kan ses som en form av reflexion. Neutronfysiken utgör det ämne som beskriver exempelvis neutronflöden.
+
+
+==== Fission ====
+
+Inom kärnfysiken avses med termen fission en kärnfysikalisk process där en atomkärna sönderdelas i flera. Om dessa atomkärnors sammanlagda massa är mindre än den ursprungliga atomkärnans massa så har energi utvecklats. Detta utgör grunden för fissionsvapen.
+
+
+==== Fusion ====
+
+Inom kärnfysiken avses, med termen fusion, en kärnfysikalisk process där flera atomkärnor sammanförs till färre, och om dessas massa är mindre än de ursprungliga, så utvecklas följaktligen energi härvid. Detta utgör grunden för fusionsvapen, eller vätebomber.
+
+
+== Fissionsvapen ==
+Fissionsvapen (vilket mindre riktigt ibland kallas atombomber, se ovan) är vapen som helt eller huvudsakligen kommer från kärnklyvning. Fissionsvapen är den äldsta sortens kärnvapen och den enda som använts i krig, mot Hiroshima och Nagasaki. Rena fissionsladdningar används numera endast i de minsta typerna av taktiska kärnvapen, medan merparten av dagens kärnvapen är försedda med laddningar vars sprängverkan uppkommer genom olika kombinationer av fission och fusion. I en enkel form av vapen uppnås kriticitet genom att två massor skjuts samman med vad som kan liknas med en kanon. Denna metod används dock knappast numera, i stället används en konstruktion där kriticiteten uppnås genom att klyvbart material komprimeras så att kritisk massa erhålls. 
+
+
+=== Konstruktionsprinciper ===
+
+Fissionsvapen, eller atombomber, får sin energi från fission, det vill säga genom klyvning av tyngre atomkärnor. Detta åstadkoms genom att tillräckligt mycket klyvbart material koncentreras till en liten volym, vilket medför att en kärnreaktion uppkommer. 
+
+Två kroppar av klyvbart material kan uppnå en kritisk massa om deras avstånd är mindre än cirka 25 cm. En kärnreaktion som uppkommer på detta sätt är emellertid oanvändbar, eftersom de två massorna kommer att sprängas isär innan kärnreaktionen har pågått tillräckligt länge för att utveckla någon större energi. En sådan förtida detonation kallas för en fizzle. För att undvika detta konstruerar man fissionsvapen på ett sådant sätt att den kritiska massan erhålls genom en sprängning med hjälp av kemiska sprängämnen. För att uppnå en önskad sprängverkan av dessa kemiska sprängämnen är konstruktionen av detonatorerna av central betydelse. 
+
+Man använder i praktiken uteslutande uran eller plutonium av hög renhet som utgångsmaterial, och främst då isotoperna uran-235 och plutonium-239 för konstruktion av fissionsvapen. Eftersom plutonium är ett allotropiskt ämne legerar man dock detta vanligen med gallium för att undvika fasomvandling. Det är emellertid teoretiskt möjligt att konstruera atombomber även av neptunium eller americium, men det är mer komplicerat och torde aldrig ha testats i praktiken. 
+Atomkärnor kan klyvas på flera olika sätt, då de utsätts för neutronemission. En viktig kärnreaktion för uran-235 är då uran-235 ger upphov till strontium-95 och xenon-139 till följd av att urankärnan har upptagit en neutron.
+
+  
+    
+      
+         
+        
+          
+
+          
+          
+            235
+          
+        
+        
+          U
+        
+        +
+        n
+        ⟶
+        
+          
+
+          
+          
+            95
+          
+        
+        
+          S
+          r
+        
+        +
+        
+          
+
+          
+          
+            139
+          
+        
+        
+          X
+          e
+        
+        +
+        2
+        n
+        +
+        180
+         
+        M
+        e
+        V
+        .
+      
+    
+    {\displaystyle \ {}^{235}\mathrm {U} +n\longrightarrow {}^{95}\mathrm {Sr} +{}^{139}\mathrm {Xe} +2n+180\ MeV.}
+  Här genereras två neutroner, vilka kan ge upphov till att ytterligare två urankärnor klyvs, och det frigörs även energi, motsvarande 180 miljoner elektronvolt. 93 % av denna energi utgörs av strontium- och xenonkärnornas rörelseenergi, medan resten av energin utgörs av röntgenstrålning och gammastrålning, samt av neutronernas rörelseenergi, vilket utgör den uppkomna neutronstrålningens energi. Atomkärnornas rörelseenergi ger upphov till värme, och det leder till uppkomsten av ett plasma.
+För att förbättra effektiviteten för kärnreaktionerna omger man det klyvbara materialet med ämnen som reflekterar neutroner. Volframkarbid och beryllium, av praktiska skäl då legerat med aluminium, har använts som neutronreflektorer, liksom även utarmat uran. Tunga neutronreflektorer som volfram och uran bidrar även till att fysiskt hålla samman det klyvbara materialet, till följd av tröghet, då detta genomgår en kärnreaktion, vilket ytterligare förbättrar neutronekonomin, innan det slutligen sprängs sönder. En sådan neutronreflektor kallas ofta för en "tamper". För att uppnå kritisk massa utnyttjas två olika tillvägagångssätt, vilka kan beskrivas med kanonmodellen respektive kompressionsmodellen.
+
+
+=== Kanonmodellen ===
+Ett fissionsvapen som är konstruerat i enlighet med kanonmodellen fungerar så att en underkritisk massa skjuts in i en annan underkritisk massa. Då de två massorna förenas uppnås en prompt kritisk massa varvid en kedjereaktion inleds. Denna typen av konstruktion kan liknas vid en kanon, vilket har givet upphov till dess namn. Little Boy var konstruerad enligt denna princip, och man använde sig här av kordit som kemiskt sprängämne för att "avfyra kanonen". 
+Ursprungligen avsåg man att använda sig av plutonium-239, men det konstaterades att denna var förorenad med plutoniun-240, vilket kan ha en så hög frekvens av spontan fission att risken för en fizzle, det vill säga en förtida detonation, var överhängande. Följaktligen använde man uran istället, där 80 % utgjordes av uran-235, och uran-238 de återstående 20 %. Det anses att fissionsvapen byggda enligt kanonmodellen i praktiken utesluter användningen av plutonium. De 20 % av uran-238 som användes gav upphov till 70 fall av spontan fission per sekund. Trots detta hade den även en del som utgjordes av polonium och beryllium vars neutronemission avsåg att initiera kärnreaktionen. Vapnets neutronreflektor bestod av volframkarbid, vars tröghet även bidrog till ett bättre utnyttjande av uranet. Trots detta var det endast cirka 1 % av uranet som deltog i kärnreaktionen.
+Förutom USA använde Sydafrika sig av kanonmodellen för kärnvapendesign i sitt, nu nedlagda, kärnvapenprogram. Modellen torde numera ha övergivits och det är möjligt att det inte längre finns några vapen kvar av denna typ, emellertid skulle denna design, till följd av sin relativa enkelhet, kunna ses som tilltalande av eventuella nya innehavare av kärnvapen. Även en mindre lyckad konstruktion, som endast resulterade i en fizzle, skulle dock utgöra en smutsig bomb, vilket dock skulle kunna vara tillräckligt för aktörer som avser att utöva kärnvapenterrorism.
+
+
+=== Kompressionsmodellen ===
+I ett fissionsvapen som är konstruerat i enlighet med kompressionsmodellen formas det klyvbara materialet till en sfär eller en. pit. Denna omges av konventionella sprängämnen i två eller flera lager, vilka kallas för en "spränglins". Vid detonationen komprimerar spränglinsen sfären så att det klyvbara materialet blir kritiskt och kedjereaktionen inleds. Man kan använda både uran och plutonium i fissionsvapen som är konstruerade på detta sätt. Massan av klyvbart material i sfären är tillräckligt stor för att uppnå kriticitet, men den är underkritisk innan sfären har komprimerats.
+Fat Man var konstruerad i enlighet med denna princip. I denna bestod sfären av en legering som bestod av 96 % plutonium-239, 1 % plutonium-240 samt 3 % gallium, och i dess mitt fanns det en neutronemitterare som bestod av polonium och beryllium, i syfte att de neutroner som poloniumet emitterar skulle effektivisera inledningen av kedjereaktionen, och en av dessa är följande: 
+
+  
+    
+      
+         
+        
+          
+
+          
+          
+            239
+          
+        
+        
+          P
+          u
+        
+        +
+        n
+        ⟶
+        
+          
+
+          
+          
+            192
+          
+        
+        
+          R
+          h
+        
+        +
+        
+          
+
+          
+          
+            95
+          
+        
+        
+          I
+          n
+        
+        +
+        3
+        n
+        +
+        240
+         
+        M
+        e
+        V
+        .
+      
+    
+    {\displaystyle \ {}^{239}\mathrm {Pu} +n\longrightarrow {}^{192}\mathrm {Rh} +{}^{95}\mathrm {In} +3n+240\ MeV.}
+  Plutoniumsfären omgavs av utarmat uran vilket reflekterade neutroner tillbaka in i sfären, och dess tröghet bidrog även till att förlänga kedjereaktionen. Mellan denna neutronreflektor och spränglinsen fanns ett lager av aluminium, eftersom bombens inre delar hade en hög densitet i förhållande till spränglinsens densitet. Aluminiumlagrets uppgift var att motverka tendenser till turbulens, vilka skulle kunna orsakas av stora densitetsskillnader, i samband med uppkomsten av den tryckvåg som detonationen av spränglinsen. Spränglinsen utgjordes av tre lager av sprängmedel, ett snabbt inre lager, ett långsammare mellanlager, och ett snabbt ytterlager, samt 32 detonatorer. Det inre lagret bestod av Hexotol, och var helt sfäriskt. Mellanlagret bestod av Baratol, och ytterlagret bestod av Hexotol. Vid detonatorerna var mellanlagret tjockare och ytterlagret tunnare i syfte att optimera sprängverkan genom att tryckvågen omvandlades från att vara konvex till att bli konkav.
+
+Sfären var till en början i princip massiv, även om den i mitten hade ämnen som skulle effektivisera kärnreaktionens inledning, dessa kallas ofta för Christy pits, efter fysikern Robert F. Christy. Senare kom sfären att ha ett hålrum, och dessa kallades för Hollow pits. Då dessa imploderade bildades ett homogent klot av klybart material, vars massa då blev kritisk. På grund av att det inte fanns någon massa i centrum kunde implosionen accelerera fram till dess att den bildade en homogen sfär, vilket förbättrade dess effektivitet. Det innebar även att vapnets vikt och storlek kunde minska, eftersom man då kunde minska det omgivande skiktet av utarmat uran, vars uppgift var att bidra med tröghet, och att reflektera neutroner, men som inte själv bidrog till fissionen. Hollow pits är mer effektiva än Christy pits, men de kräver en mer precis implosion, och därmed bättre spränglinser. Det har även förekommit att man har konstruerat vapen med en icke-sfärisk "pit". Dessa kan utgöras av en oval bestående av plutonium-239. Spränglinsen utformas så att ovalen omformas till ett klot, och då kan även plutoniumet övergå från deltafas till alfafas, vilket ökar dess densitet med 23 %, och det blir därmed kritiskt. Dessa gör det möjligt att bygga små kärnvapen för taktisk användning, men om kriticiteten endast uppnås genom att ovalen övergår till ett klot utnyttjas plutoniumet relativt ineffektivt.
+
+Utformningen av spränglinsen är av vital betydelse för fissionsvapen som är konstruerade enligt kompressionsmodellen. Spränglinsen som användes för The Fat Man var klotformad, och från detonatorerna utbred sig tryckvågen konvext, och spränglinsen var utformad så att tryckvågen skulle omvandlas till att utbreda sig konkavt, för att implosionen skulle bli symmetrisk. Med undantag för fissionsvapen med en icke-sfärisk "pit" eftersträvas en sådan tryckvågstransformering alltjämt. Emellertid vill man undvika en klotformad utformning av spränglinsen, med dess stora antal detonatorer, som gör den olämplig för flera vapenbärare. Därför har man utvecklat spränglinser där endast deras inre skikt har varit sfäriska, medan deras yttre skikt har formats som en ellipsoid, och dessa har endast haft två detonatorer i dess ändar. Emellertid skulle en spränglins som enbart bestod av en kombination av snabba och långsamma sprängmedel kunna bli oönskat lång för att kunna transformera den konvexa tryckvågen till en konkav tryckvåg, passande för spränglinsens inre skikt. Anledningen är att även långsamma sprängämnen är för snabba, och därför har man utvecklat spränglinser försedda med en så kallad "air lens". En "air lens" innehåller en metallplatta som av tryckvågen deformeras och accelereras i ett tomrum mot spränglinsens inre skikt, och det är på grund av metallens deformation som tryckvågen slutligen har transformerats från att ha varit konvex till att bli konkav. Längden för en sådan spränglins behöver endast vara dubbelt så lång som dess diameter.
+Då det gäller att beräkna vad som sker rent mekaniskt härvidlag används den teori som beskrivs i kontinuummekaniken. Vid de tryck och temperaturer som det här är frågan om så beskrivs materian då främst på ett sätt som behandlas inom hydrodynamiken. Detta är anledningen till att begrepp som turbulens kan vara relevanta i samband med denna typ av implosion.
+
+
+== Förstärkta fissionsvapen ==
+Med förstärkta fissionsvapen (en. boosted fission weapon) avses vanligen en fissionsladdning som också innehåller fusionsbränsle i syfte att förbättra dess effektivitet, men som i allt väsentligt ändå kan ses som ett fissionsvapen.Förstärkta fissionsvapen kan åstadkommas exempelvis genom att man använder sig av tritium- och deuteriumgas. Då cirka 1 % av fissionsbränslet har fissionerat uppnås en så pass hög temperatur att fusionsprocessen startar, vilket ger upphov till ett relativt stort antal neutroner.
+
+  
+    
+      
+        
+           
+          
+            2
+          
+        
+        
+          D
+        
+        
+          +
+          
+            3
+          
+        
+        
+        
+          T
+        
+        
+          ⟶
+          
+            4
+          
+        
+        
+        
+        
+          H
+          e
+        
+        +
+        n
+        +
+        17.6
+         
+        M
+        e
+        V
+        .
+      
+    
+    {\displaystyle \ ^{2}\mathrm {D} +^{3}\!\mathrm {T} \longrightarrow ^{4}\!\!\mathrm {He} +n+17.6\ MeV.}
+  Neutronerna snabbar på de senare faserna i fissionsprocessen, vilket i sin tur kan leda till att den totala sprängkraften kan komma att fördubblas i förhållande till ett motsvarande icke-förstärkt fissionsvapen.
+Dessa vapen kan även göras immuna mot ett neutronflöde som har orsakats av en annan kärnvapenexplosion i dess närhet, vilket kan få andra designtyper att detonera i förtid, utan att erhålla en hög sprängverkan. Detta, samt en reducerad vikt i förhållande till vapnets sprängverkan torde utgöra anledningen till att förstärkta fissionsvapen nu utgör merparten av världens kärnvapen.
+Eftersom dessa kärnvapen kan fördubbla sin sprängverkan i jämförelse med ett icke-förstärkt kärnvapen, så kan dessas sprängverkan även styras så att de strax innan detonationen kan tillses erhålla en sprängverkan som ligger i intervallet ca. 100-50 % av dess potentiella maximala sprängverkan. Detta görs genom att kaviteten fylls med en lämplig mängd av gas bestående av tritium och deuterium. I fall där denna fissionsladdning utgör en "tändhatt" för en fusionsladdning, torde även detta vapens sprängverkan härigenom vara styrbart. Detta anses vara en betydande fördel i fall kärnvapen skall sättas in i närhet av, exempelvis, egen trupp.
+
+
+== Fusionsvapen ==
+Fusionsvapen, termonukleära vapen eller (lite oegentligt, se ovan) vätebomber, bygger främst på den energi som frigörs genom fusion när två lättare atomkärnor slås samman till en tyngre atomkärna. Ursprungligen användes väte bestående av isotoperna deuterium och tritium som kan fusionera, och därmed bilda helium, oftast helium-4. Isotopen deuterium har en extra neutron och tritium två extra neutroner jämfört med vanligt väte. Numera används litiumdeuterid, 6Li2H eller 6LiD istället, och man får då följande kärnreaktioner: 
+
+  
+    
+      
+        
+           
+          
+            6
+          
+        
+        
+          L
+          i
+        
+        +
+        n
+        
+          ⟶
+          
+            4
+          
+        
+        
+        
+        
+          H
+          e
+        
+        
+          +
+          
+            3
+          
+        
+        
+        
+          T
+        
+        +
+        5
+         
+        M
+        e
+        V
+        .
+        
+        
+        
+        
+      
+    
+    {\displaystyle \ ^{6}\mathrm {Li} +n\longrightarrow ^{4}\!\!\mathrm {He} +^{3}\!\mathrm {T} +5\ MeV.\!\!\!\!}
+  Detta är således en form av fission där litium ger upphov till helium och tritium, som sedan används i fusionsprocessen.
+  
+    
+      
+        
+           
+          
+            2
+          
+        
+        
+          D
+        
+        
+          +
+          
+            3
+          
+        
+        
+        
+          T
+        
+        
+          ⟶
+          
+            4
+          
+        
+        
+        
+        
+          H
+          e
+        
+        +
+        n
+        +
+        17.6
+         
+        M
+        e
+        V
+        .
+      
+    
+    {\displaystyle \ ^{2}\mathrm {D} +^{3}\!\mathrm {T} \longrightarrow ^{4}\!\!\mathrm {He} +n+17.6\ MeV.}
+  Det tritium som då har bildats kommer att, tillsammans med deuteriumet, genom fusion, att ge upphov till helium och snabba neutroner.För att det ska kunna uppstå fusion så måste ett mycket högt tryck uppnås, och även temperaturer på flera tiotals miljoner grader. Därför används alltid en fissionsbomb som tändladdning i vätebomber. Fusionsladdningar är potentiellt tusentals gånger kraftfullare än fissionsladdningar, och kan teoretiskt sett göras hur kraftiga som helst. Det är emellertid en vanligt förekommande missuppfattning att fusionsvapen endast skulle utgöras av så kallade "stora" laddningar. Extremt stora laddningar torde ha ett mycket begränsat militärt värde. Däremot utgör fusionsvapen en mer kostnadseffektiv design i förhållande till fissionsvapen, vilket förklarar dess utbreddhet.
+Det första vätebombsprovet utfördes av USA 1952. Bombprovet kallades "Mike" och bränslet i konstruktionen var flytande deuterium med viss andel tritium. Bomben vägde över 60 ton och var mycket svår att hantera, bland annat på grund av att man använde en kylanläggning för att hålla deuteriumet flytande. I senare konstruktioner användes litiumdeuterid (LiD) i fast form som bränsle. Tsar Bomba, den kraftigaste kärnvapenladdning som någonsin konstruerats var en vätebomb som testades av Sovjetunionen den 30 oktober, 1961. Den hade en sprängverkan motsvarande 50 miljoner ton trotyl (TNT), cirka 4 000 gånger kraftigare än den atombomb som fälldes över Hiroshima.
+
+
+=== Teller–Ulams designprincip för fusionsvapen ===
+Edward Teller omnämns ofta som "vätebombens fader", och en fundamental design av termonukleära laddningar kallas för Teller-Ulams design efter denne och Stanislaw Ulam. Andrej Sacharov anses oberoende av dessa ha varit upphovsman till en snarlik konstruktion, som har kallats för "Sacharovs tredje idé". 
+Den grundläggande principen för Teller–Ulams design av termonukleära vapen innebär att en primärladdning, som utgörs av en fissionsbomb, komprimerar den andra sektionen, som består av både fissions- och fusionsbränsle. I primärladdningen använder man sig av en beryllium-aluminiumlegering som neutronreflektor eftersom beryllium är transparent för röntgenstrålning. Härigenom uppnås att värmen i den komprimerade andra sektionen, till följd av en andra fissionsprocess i den andra sektionen, blir tillräckligt stor för att starta fusionsprocessen, och därigenom erhålls en termonukleär explosion. Neutronbomber är ett exempel på vapen vars sprängladdning utgörs av en tvåstegs fusionsladdning.
+
+
+=== Fission-fusion-fissionsvapen ===
+Fission-fusion-fissionsvapen har ett tredje steg efter det att fusionsprocessen har inletts. Detta tredje steg genererar ett kraftigt flöde av snabba neutroner. Uran-238 är inte fissilt, men kan fissionera om det utsätts för neutroner vars energi är större än 1 MeV. Det betyder att man kan använda de relativt billiga råvarorna naturligt eller utarmat uran för vapenändamål. Härigenom kan man dubblera vapnets sprängverkan. Dessa vapen kommer att ha en mindre neutronstrålning, men de kommer att ge upphov till ett betydligt större radioaktivt nedfall.
+
+
+=== Genuina fusionsvapen ===
+Med genuina fusionsvapen, eller pure fusion weapons avses fusionsvapen som inte skulle behöva ha en fissionsladdning som "tändhatt". Det har bedrivits forskning för att konstruera sådana genuina fusionsvapen, men dessa förefaller att ha varit fruktlösa på grund av svårigheterna att på annat sätt uppnå tillräckligt höga temperaturer för att starta en fusionsprocess. Av uppenbara skäl lämpar sig inte exempelvis tokamakkonstruktioner för detta ändamål. Rent teoretisk skulle emellertid dessa inte ge upphov till något radioaktivt nedfall, utan deras effekt skulle endast utgöras en kombination av ren sprängverkan samt neutronstrålning.
+
+
+== Kärnvapen optimerade för speciella användningar ==
+
+
+=== Neutronbomb ===
+
+En neutronbomb är ett kärnvapen som är konstruerade för att generera en hög strålning, främst neutronstrålning, i förhållande till andra motsvarande kärnvapen, vilket innebär att deras sprängverkan, det vill säga den tryckvåg som de orsakar, är mindre än andra motsvarande kärnvapen. Syftet med dessa torde vara att bekämpa stridsvagnar, vars besättning kan vara väl skyddade mot sprängverkan, men sakna skydd mot neutronstrålning.
+
+
+=== Koboltbomb ===
+
+En koboltbomb är ett kärnvapen som getts ett tillskott av kobolt. När vapnet detonerar blir koboltet utsatt för strålning som gör det extremt radioaktivt under flera år (En halveringstid på 5.7 år). Detta till skillnad från vanliga kärnvapen, där det värsta nerfallet försvinner inom veckor eller månader. Det har antagits, i varje fall mot bakgrund av vad som är offentligt känt, att koboltbomber aldrig har byggts i praktiken.
+
+
+== Test av kärnvapen ==
+
+Kärnvapenprov har genomförts för att testa vapnens konstruktion, samt för att sända politiska signaler, både nationellt, och internationellt. Behovet att utföra kärnvapenprov har minskat, eller bortfallit, som en konsekvens av de förbättrade möjligheterna att utföra datorbaserade simuleringar.
+
+
+== Vapenbärare för kärnvapen ==
+De första vapenbärarna för kärnvapen utgjordes av bombflyg, vilka kunde fälla bomber, först atombomber och senare även vätebomber. Ballistiska robotar kom snart att användas som vapenbärare för främst strategiska kärnvapen, senare kom dessa att till stor del kunna medföra flera kärnvapen, och dessa benämns som MIRV. Numera används också kryssningsrobotar som vapenbärare för kärnvapen. Torpeder försedda med kärnladdningar har även ingått i supermakternas vapenarsenal. Som vapenbärare av taktiska kärnvapen kan nämnas att granater försedda med kärnladdningar har tagits fram vilka kan avfyras från artilleripjäser. Ett av de minsta kärnvapnen kunde avfyras från rekylfria kanoner. Dessa vapen hade en räckvidd på 2 kilometer respektive 4 kilometer och en sprängkraft mellan 0,01 och 1 kiloton. 2100 vapen av detta slag producerades, och de var operativa i USA:s armé från 1961 till 1971.
+
+
+== Jämförelsetal ==
+Kiloton (kt), och megaton (Mt) används som jämförelsetal för sprängkraften hos kärnvapen. Grundenheten är den standardiserade energiutvecklingen av ett ton detonerande trotyl (4,184×109 joule) med för storleksordningen tillämpligt SI-prefix.
+1 kiloton = energimängden i 1 000 ton trotyl. 1 kiloton = 4,184×1012 joule = 4,184 terajoule. Atombomben över Hiroshima hade exempelvis en sprängverkan på mellan 15 och 16 kiloton. (Beror på vilken källa uppgiften kommer ifrån)
+1 megaton = energimängden i 1 miljon ton trotyl. 1 megaton = 4,184×1015 joule = 4,184 petajoule. Atombomben över Hiroshima hade exempelvis en sprängverkan på c:a 0,015 megaton. Den största bomben som någonsin testats, Tsar Bomba, var på över 50 megaton, d.v.s. mer än 4 000 gånger kraftigare än Hiroshimabomben.
+
+
+== Effekter ==
+Eftersom kärnvapen kan avse en mängd olika typer av vapen, vars enda gemensamma egenskap utgörs av att deras sprängladdning baseras på kärnreaktioner och inte primärt på kemiska reaktioner så är det givetvis närmast omöjligt att uttala sig i generella termer om dessa vapens verkan. Det finns kärnvapen vars sprängverkan är enorm, men det finns även taktiska kärnvapen vars sprängverkan är betydligt mindre, och effekterna av en luftdetonation över ett markmål är givetvis helt annorlunda än vad, exempelvis, en kärnvapenladdad torped riktad mot en strategisk ubåt åstadkommer. De uppskattningar om kärnvapens effekter som ges här nedan torde, om ej annat sägs, kunna ses som relevanta uppskattningar för ”ordinära” kärnvapens luftdetonation vid ”normala” meteorologiska förhållanden, och på ”rimlig” höjd över marknivån.
+
+
+=== Allmänt ===
+Energin från ett kärnvapen orsakar skada på olika sätt:
+
+Tryckvåg: 40–60 % av energin.
+Värmestrålning: 30–50 % av energin.
+Joniserande strålning: 5 % av energin.
+Radioaktivt nedfall: 5–10 % av energin.
+EMP: Elektromagnetisk puls, se nedan.De exakta siffrorna beror på hur vapnet utformats och under vilka förhållanden det detonerar. Energin från det radioaktiva nedfallet utstrålas under lång tid, resten avges inom några sekunder efter detonationen. De dominerande effekterna av ett kärnvapen (tryckvåg och värmestrålning) skiljer sig inte kvalitativt från hur konventionella vapen verkar. Den stora skillnaden ligger i magnituden av dessa effekter, då kärnvapen kan ge ifrån sig mycket större mängder energi närmast momentant. De största skadorna från ett kärnvapen är således inte direkt relaterat till kärnprocesserna som är upphovet till energin, utan skulle vara nästan lika stora om en motsvarande mängd konventionellt sprängämne hade använts.
+Den inbördes fördelningen av skadorna från dessa tre momentana energislag beror på vapnets styrka. Värmestrålningen avtar endast långsamt med avståndet och ju kraftfullare vapnet är, desto viktigare blir den. Den joniserande strålningen absorberas snabbt i atmosfären och når inte speciellt mycket längre när vapnet görs kraftfullare. Strålningen har alltså endast betydelse för mindre kärnladdningar. Tryckvågen ligger mellan dessa extremer. Den blir farligare när kärnladdningen görs kraftfullare, men värmestrålningen blir ändå snabbt dominerande (se tabell nedan).
+
+Själva detonationen går mycket snabbt. För att en kärnladdning skall anses vara konstruerad på ett effektivt sätt bör en så stor andel som möjligt av de potentiella kärnreaktionerna i laddningen vara avklarade innan detonationen har hunnit bryta igenom vapnets inneslutning, vilket givetvis förintar sprängladdningen. 
+Efter detonationen når den temperaturbalans med sin omgivning inom 1 μs. 75 % av energin avges i det här skedet i form av värmestrålning, mestadels mjuk röntgenstrålning. Resten är nästan helt rörelseenergi i de nu förgasade vapendelarna. Vad som händer sedan beror mycket på hur röntgenstrålningen och gasmassan interagerar med sin omgivning. I allmänhet, ju tätare omgivningen är, desto kraftigare blir tryckvågen och ju svagare blir värmestrålningen. Det här ger stora skillnader för exempelvis ett vapen som detonerar i rymden och en som detonerar under vatten.
+I luft kommer den stora merparten av den mjuka röntgenstrålningen att absorberas av luften inom någon meter från vapnet. En liten del av energin återges i form av UV-strålning, synligt ljus och infrarött ljus, men den stora merparten går till att höja temperaturen i luften så att den övergår i plasma och bildar det påföljande eldklotet. På höga höjder, där luftdensiteten är låg, kan röntgenstrålarna färdas långt innan de absorberas. Det späder ut energin i eldklotet över en större volym, vilket gör att tryckvågen blir som mest hälften så kraftfull mot vad den skulle ha varit vid havsytan. Å andra sidan blir värmestrålningen kraftfullare.
+
+
+=== Tryckvåg ===
+Mycket av förödelsen efter en kärnvapenexplosion kommer av tryckvågen. Vanliga civila byggnader är känsliga för övertrycket som explosionen ger upphov till, men militära byggnader kan förstärkas för att klara detonationer på ganska nära håll. Tryckvågen färdas alltid i ljudets hastighet, ca 1000km/h i luft, medan de efterföljande vindarna kan nå hastigheter på flera hundra kilometer i timmen. 
+Tryckvågen verkar på två distinkta sätt:
+
+Statiskt övertryck, det tryck som en momentant ökad densitet i luften ger upphov till. På ett hus utsätts alla sidor av ett lika kraftigt statiskt övertryck, oavsett vilken sida som är vänd mot detonationen.Dynamiskt övertryck, trycket som uppstår av de kraftiga vindar som följer tryckvågen. Vindarna är många gånger kraftigare än den starkaste naturliga orkan. Den sidan av huset som är vänd mot detonationen är den enda som utsätts för det dynamiska trycket. Allting löst som fångas av vinden förvandlas till projektiler med hög hastighet.Skadorna kommer av en kombination av det statiska och dynamiska trycket. Ofta kommer en byggnad ha skadats allvarligt redan av det statiska övertrycket, vilket gör den lättare för den efterföljande vinden att slita isär. Det statiska övertrycket orsakar sina skador närmast momentant, medan höghastighetsvindarna kan vara flera sekunder.
+
+
+=== Värmestrålning ===
+Ett detonerande kärnvapen ger ifrån sig en intensiv men kort puls av elektromagnetisk strålning över hela spektret, inklusive en stor del värmestrålning. Den största faran är brännskador, följt av ögonskador på större avstånd. Klara dagar kan dylika skador orsakas på långt större avstånd än vad tryckvågen når. På kortare avstånd är värmestrålningen kraftig nog för att antända hus och brännbart material, speciellt om området innan har blivit utsatt för en tryckvåg så att det antändbara materialet är sönderslaget och utspritt. Det är vanligen inte fallet, eftersom tryckvågen från ett enda kärnvapen anländer långt efter värmestrålningen och dessutom inte når lika långt.
+Värmestrålningen färdas i en rak linje från kärnvapnet, och vilket ogenomskinligt material som helst ger gott skydd. Om dimma eller dis råder i området kan den dock sprida värmestrålningen så att den upplevs komma från alla håll. Det gör saken värre i närområdet, men minskar kraftigt värmestrålningens utbredning.
+När värmestrålning träffar en yta kommer en del att bli reflekterad, en del överförd och resten absorberat. Andelen som absorberas beror på färg och form på materialet. Ett tunt material kan överföra mycket energi till underliggande material. En ljus yta reflekterar det mesta och kan därigenom undslippa skada. Den absorberade energin övergår till värme och orsakar brännskador och bränder. Om det utsatta materialet är en dålig värmeledare begränsas skadan till ytan, eftersom värmepulsen är så kortvarig.
+Antändning av material beror på hur lång värmepulsen är, och tjockleken och fuktigheten hos materialet. Tillräckligt nära detonationen kommer allt som kan brinna att antändas. Men det krävs inte speciellt stora avstånd för att bara lättantändligt material antänds, som exempelvis papper, gummi och plast. I praktiken har det visat sig att den viktigaste källan till bränder efter kärnvapenanfall är sekundära, det vill säga gasledningar som slås sönder, eller öppna kaminer och eldstäder i hus som rasar samman.
+I Hiroshima uppstod inom 20 minuter efter detonationen en så kallad eldstorm. En eldstorm är ett fenomen som innebär att den uppåtstigande luft som värmts upp av en mycket kraftig och omfattande brand skapar undertryck i brandområdet. Ny syrerik luft dras därför in i brandområdet utifrån, vilket i sin tur ökar brandens intensitet ytterligare. Fenomenet kan även uppstå på naturlig väg, till exempel vid omfattande skogsbränder. Under andra världskriget uppstod eldstormar i bland annat de tyska städerna Dresden och Hamburg efter brittiska och amerikanska anfall med brandbomber (se Bombningen av Dresden).
+
+
+=== Elektromagnetisk puls ===
+Om ett kärnvapen detonerar högt upp i atmosfären kommer röntgenstrålningen att jonisera de övre luftlagren, vilket sätter stora mängder elektroner i rörelse. Denna rörliga laddning ger upphov till en kraftig ögonblicklig bredbandig radiopuls, en så kallad elektromagnetisk puls. Pulsen är tillräckligt kraftfull för att metallföremål ska agera som antenner. I dessa skapas en inducerad spänning som kan vara mycket hög, men kortvarig. En sådan spänning är förödande för modern elektronik i form av datorer, inklusive styrsystemen i bilar och flygplan. Allmänt sett är elektroniska kretsar med små dimensioner känsligare än elektronik med större dimensioner. Risken för skada ökar också om elektroniken är kopplad till långa ledare, till exempel antenner eller teleledningar. En elektromagnetisk puls kan ha en mycket lång räckvidd. I ett kärnvapenkrig skulle det till exempel räcka med ett fåtal kärnvapen för att slå ut all oskyddad elektronik i hela Nordamerika. Det finns dock inga kända biologiska effekter av en elektromagnetisk puls. Elektronik kan skyddas genom att inneslutas i en Faradays bur, men det är svårt att skydda utrustning som normalt avger eller tar emot radiostrålning, exempelvis radar och radioapparater.
+
+
+=== Joniserande strålning ===
+Omkring 5 % av energin i en kärnvapenexplosion avges i form av en initial skur av joniserande strålning, mestadels betastrålning och gammastrålning. Elektronerna i betastrålningen kommer direkt från kärnreaktionerna i kärnvapnet, medan gammastrålningen till stor del kommer från sönderfallet av kortlivade restprodukter från den initiala kedjereaktionen.
+Fördelningen av de olika typerna av joniserande strålning varierar också med avståndet. De elektroner som betastrålningen utgörs av absorberas mycket lättare i luft än vad gammastrålningen gör, så på längre avstånd dominerar gammastrålningen. 
+Intensiteten i strålningen minskar snabbt med ökande avstånd. Förutom att den, som värmestrålningen, sprids över ett större område ju större avståndet blir, absorberas och sprids den i högre grad av atmosfären. Detta gör att avståndet som den joniserande strålningen kan göra skada på, ökar mycket långsamt med ökande sprängstyrka. För vapen över omkring 50 kt är tryckvågen och värmestrålningen så överväldigande att den joniserande strålningen i praktiken är försumbar.
+
+
+=== Radioaktivt nedfall ===
+Efter detonationen kommer det att finnas en kvarvarande radioaktivitet i området. Detta kallas allmänt för radioaktivt nedfall (även när det rör sig om rent inducerad radioaktivitet). Nedfallet består av dessa komponenter:
+
+Restprodukter från fissionen. Under reaktionerna i laddningen fissioneras det klyvbara materialet på många olika sätt. Vissa av restprodukterna är extremt kortlivade och sönderfaller nästan ögonblickligen. Andra har en lång halveringstid och är endast lite radioaktiva. Den stora faran är de som har mellanlång halveringstid, för de hinner sjunka till marken och urladdar sin energi under dagar eller veckor. En minut efter detonationen avger dammet från explosionen en total strålningsintensitet på 1,1 · 1021 Bq per kiloton sprängstyrka. Ett litet kärnvapen på 10 kiloton ger alltså omedelbart efter explosionen ifrån sig strålning motsvarande 300 miljoner kg naturligt radium.Icke-fissionerade rester från vapnet. Kärnvapen är inte speciellt effektiva i sitt utnyttjande av det klyvbara materialet. Mycket av uranet eller plutoniumet blir bara utspritt. Det är dock förhållandevis svagt radioaktivt och utstrålar mestadels alfastrålning.Inducerad radioaktivitet. Neutronstrålningen kan via transmutation göra bestrålat material radioaktivt. När en atomkärna tar upp en neutron blir den i allmänhet instabil och sönderfaller vanligen inom kort tid. Konstruktionsmaterial i själva vapnet utsätts för detta i hög grad. Under förutsättning att materialet befinner sig mycket nära explosionen kan även andra föremål bli mycket kortvarigt radioaktiva. Vid markdetonationer kan dock stora mängder jord etc förgasas i eldbollen och bli radioaktivt. I första hand är det då fråga om uppblandning med det aktiva vapenmaterialet som utgör denna kontamination vilken i form av radioaktiv smuts (kan tvättas bort) utgör 'radiaksmitta'. Exempelvis är reaktionsprodukter i vapen som bygger på fusion ej radioaktiva och dessa vapen kallas rena trots att antalet frigjorda neutroner som kan inducera radioaktivitet per frigjord energienhet är flera tiotals gånger större än i vapen som bygger på fission. Även utan kvarstående radioaktivitet är dock radioaktiviteten hos bestrålade material mycket hög i samband med själva detonationen.När eldbollen svalnar kondenseras eventuellt uppsuget material tillsammans med restprodukter från explosionen. Vid markdetonationer blir det mer nedfall än vid luftdetonationer, eftersom det är mer material i eldbollen. Större partiklar faller till marken tämligen omgående, finare damm stiger till stratosfären där det snabbt sprids ut över jorden inom veckor och månader. Radioaktivitet kan på detta sätt föras med vinden långt bortom vapnens sprängverkansområde. Vid explosioner i eller nära vatten tenderar nedfallet att bli mera finfördelat, och därmed bli spritt över ett större område som i stället får en mindre ökning i doshastighet.
+Den största risken vid sidan av den från nedfall via inandning och förtäring är att långlivade radioaktiva ämnen inlagras i kroppen, exempelvis strontium-90 och cesium-137. Dessa risker är dock för dem som var närvarande små i förhållande till den strålning nedfallet ger upphov till och ur individens synvinkel helt betydelselösa vid sidan av risken för kraftig stråldos i samband med själva detonationen. Strålningen kan orsaka snar död, död med fördröjt insjuknande, utläkande strålsjuka, långsiktiga genetiska skador, cancer eller fosterskador, allt beroende på hur stor dosen är och vem som tar emot den. För de närvarande är det åter igen den akuta strålproblematiken helt dominerande – den stråldos som i genomsnitt orsakar ett cancerdödsfall är tiotals gånger högre än vad som är direkt dödande om samma mängd strålning är ögonblicklig.
+Skador från radioaktivitet kommer i de flesta fall att vara försumbara i förhållande till de oerhörda skadorna från sprängverkan och värmestrålning. För de överlevande och i synnerhet för dem som inte alls drabbades av de direkta effekterna är dock effekterna av radioaktiviteten väsentliga.
+Kärnvapnen över Hiroshima och Nagasaki var båda detonationer högt upp i luften, och båda gångerna låg vinden så lyckosamt att radioaktiviteten fördes ut över havet, nästan helt utan nedfall på marken. Endast mycket små mängder radioaktivitet drabbade därför de som hade turen att överleva själva explosionen, men den orsakade ändå ett fruktansvärt lidande under många år efteråt.
+
+
+== Se även ==
+Manhattanprojektet
+Nazitysklands kärnkraftsprogram
+Japans kärnvapenprogram
+Atombomberna över Hiroshima och Nagasaki
+Kärnvapenkrig
+Kärnteknik i Sovjetunionen
+Kärnvapenmakt
+Kärnvapenprov
+Radiologiska vapen
+Rymdfördraget
+Svampmoln
+Svenska kärnvapenprogrammet
+Trinitytestet
+Radioaktivt regn
+
+
+== Referenser ==
+
+
+=== Fotnoter ===
+
+
+=== Källor ===
+Artikeln är, delvis, en översättning från engelskspråkiga Wikipedia.
+
+B. Cameron Reed, The Physics Of The Manhattan Project, 2nd ed. Springer, 2011, ISBN 978-3-642-14709-8.
+Glasstone, Samuel and Dolan, Philip J., The Effects of Nuclear Weapons (third edition), U.S. Government Printing Office, 1977. (Available Online)
+NATO Handbook on the Medical Aspects of NBC Defecsive Operations (Part I - Nuclear), Departments of the Army, Navy, and Air Force, Washington, D.C., 1996. (Available Online)
+Smyth, H. DeW., Atomic Energy for Military Purposes, Princeton University Press, 1945. (Available Online)
+The Effects of Nuclear War, Office of Technology Assessment, May 1979. (Available Online)
+Rhodes, Richard. Dark Sun: The Making of the Hydrogen Bomb. Simon and Schuster, New York, 1995.
+Rhodes, Richard. The Making of the Atomic Bomb. Simon and Schuster, New York, 1986.
+Carey Sublette's High Energy Weapons Archive is a reliable source of information and has links to other sources: https://web.archive.org/web/20031003223218/http://nuketesting.enviroweb.org/hew/ or https://web.archive.org/web/20050703074536/http://gawain.membrane.com/hew/ (Mirror)
+The Federation of American Scientists provide solid information on weapons of mass destruction, including nuclear weapons (http://fas.org/nuke/)
+http://www.oism.org/nwss/ The public-domain text Nuclear War Survival Skills is one of the best sources available on how to survive a nuclear attack.
+https://web.archive.org/web/20031205034728/http://www.radius-defense.com/nuclear.php has a table of effects radii, but could probably be replaced with a site which has the info and wasn't selling shelters to make a profit
+
+
+== Externa länkar ==
+ Wikimedia Commons har media som rör kärnvapen.﻿
+Lär om Kärnvapen
+Nukemap, simulering av kärnvapens effekter

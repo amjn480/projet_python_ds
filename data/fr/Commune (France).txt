@@ -1,0 +1,634 @@
+En France, la commune est, sur le plan institutionnel, à la fois une collectivité territoriale, à savoir une autorité administrative décentralisée bénéficiant de la personnalité morale, et disposant d'affaires propres, distinctes des affaires de l'État, et une circonscription administrative, à savoir une division administrative dépourvue de personnalité juridique, territoire d'exercice d'un service déconcentré de l'administration étatique ou d'un de ses représentants. Chacun de ces organes est caractérisé par une identité (un nom, un territoire et une population) et par des compétences qui leur sont dévolues par la loi. Sur le plan géographique, la commune est une division élémentaire du territoire national qui peut également servir de division de gestion ou de connaissance du territoire.
+En tant que collectivité territoriale, la commune est composée d'une assemblée délibérante, le conseil municipal, et d'un exécutif, le maire, élu par le conseil municipal. Élu au suffrage universel direct, le conseil municipal dispose de compétences étendues pour administrer la commune. Les modalités d'élection sont variables selon la population et le statut propre de la commune, comme ceux de Paris, Lyon ou Marseille. Au 1er janvier 2022, 34 955 collectivités territoriales ressortissent à la catégorie des communes, selon la direction générale des collectivités locales (DGCL), dont 34 826 en France métropolitaine (Corse comprise) et 129 dans les départements et régions d'outre-mer (Mayotte comprise).
+En tant que circonscription administrative, la commune constitue l'organe élémentaire d'exercice de l'État sur le territoire national. Le maire, en sus de ses fonctions d'exécutif de la collectivité, y exerce en effet certaines prérogatives ressortant des compétences de l'État. À ce titre il est notamment chargé de l'état civil, de la révision et de la tenue des listes électorales, de l’organisation des élections ainsi que du recensement pour le service national. En outre, il dispose d’attributions spécifiques en matière de police et de sécurité civile. Au 1er janvier 2022, 35 038 circonscriptions administratives ressortent de la catégorie des communes.
+En tant que division géographique du territoire, la commune sert de maille élémentaire pour de nombreuses statistiques, comme le recensement de la population. Elle peut également être découpée en divisions infracommunales : fractions cantonales, quartiers, sections, etc.
+Historiquement, la commune française est l'héritière de la paroisse de l'Ancien Régime ou de la « communauté » (circonscription fiscale qui portait aussi le nom de « paroisse fiscale », dans les villes à deux ou plusieurs clochers, ou de « collecte »). Au XXIe siècle, la commune peut correspondre à une pluralité d'espaces humains : espace rural avec un centre (bourg ou village), ville isolée ou partie d'agglomération multicommunale.
+Sa superficie et sa population peuvent ainsi varier considérablement. En 2020, Paris est la commune la plus peuplée avec 2 145 906 habitants, tandis que sept communes ne sont pas peuplées et que la commune habitée la moins peuplée, Rochefourchat, a un seul habitant. Au 1er janvier 2021, 29 576 communes, soit 84,6 % d'entre elles, possèdent moins de 2 000 habitants ; elles représentent 22,6 % des habitants du pays.
+
+
+== Histoire ==
+
+L'histoire des communes, en tant qu'institution, commence formellement avec le décret du 12 novembre 1789. Elles succèdent aux communautés, seigneuries et paroisses de l'Ancien Régime et connaissent une évolution continue de leur droit avec essentiellement deux lois fondatrices : 1884, l'élection au suffrage universel, et 1982 décentralisation. Elles sont la maille élémentaire d'un système de plus en plus complexe et l'imbrication des compétences est telle que pour ce premier niveau élémentaire, on parle désormais de « bloc communal », associant communes et groupement de communes.
+
+
+=== Sous l'Ancien Régime ===
+
+
+==== Communautés, seigneuries et paroisses ====
+Avant la Révolution, il existait plusieurs circonscriptions administratives de base dont les ressorts ne correspondaient pas toujours.
+La paroisse ecclésiastique concernait le domaine religieux. Elle servait de base à l'administration du culte et à la levée de la dîme. Regroupant une communauté de fidèles autour d'un curé, d'une église et d'un cimetière, elle était investie d'une forte identité symbolique.
+Mais il existait deux autres entités territoriales de base : d'une part, la seigneurie, circonscription judiciaire et fiscale pour les impôts seigneuriaux comme le champart ; d'autre part, la communauté, ou paroisse fiscale, ou collecte, ou taillable. Elle avait été créée à la fin du Moyen Âge pour la levée de l'impôt royal, la taille. Dans certaines provinces, ses limites avaient été calquées sur celles de la paroisse, mais dans d'autres, c'était les seigneuries qui avaient servi de référence (en particulier dans le Midi, où le mouvement communal amorcé au XIIe siècle avait créé des institutions municipales dans le cadre de la seigneurie). Les communautés étaient souvent administrées par des représentants de la population élus ou cooptés annuellement (consuls, échevins, jurats, etc.) et parfois par des conseils.
+Au XVIIe siècle, la monarchie absolutiste avait progressivement uniformisé les institutions municipales (consulat) tout en les privant de la plupart de leurs prérogatives, pour n'en faire que les relais de la perception des impôts royaux.
+Les territoires des seigneuries relevant de seigneurs laïcs étaient soumises à de nombreuses mutations (ventes, divisions, démembrements, regroupements), alors que les communautés et les paroisses étaient beaucoup plus stables. Ainsi à la veille de la Révolution française, il était fréquent que les trois découpages ne correspondent pas : plusieurs paroisses dans une communauté, plusieurs communautés dans une paroisse, de nombreux chevauchements, des enclaves parfois très éloignées de leur chef-lieu. Ainsi, de nombreuses villes ne constituaient qu'une paroisse fiscale mais se divisaient en plusieurs paroisses ecclésiastiques. Au moment où la Révolution éclata, selon les dépouillements opérés dans de nombreuses archives départementales par Antoine Follain, le nombre de paroisses religieuses était proche du nombre de communes (près de 40 000 paroisses, sur les 44 000 qui peuvent y prétendre, obtiennent ce statut) tandis que le nombre de paroisses fiscales excédait largement le nombre de clochers (paroissiaux) dans les campagnes. Le Rouergue comptait environ 700 communautés et 635 paroisses en 1788.
+
+
+==== Le cas des villes ====
+
+Sous l'Ancien Régime et depuis le Moyen Âge, les villes tenaient leurs statuts d’autonomie du roi, du comte ou du duc local. Ainsi la ville de Toulouse tenait sa charte des comtes de Toulouse. Les villes étaient constituées de plusieurs paroisses (plusieurs centaines pour Paris) et étaient généralement entourées de remparts. Elles ont obtenu leur émancipation du pouvoir féodal vers les XIIe et XIIIe siècles. Elles se sont alors dotées de structures municipales et d'une administration ce qui leur a donné une ressemblance avec les communes instituées par la Révolution. Il y avait toutefois deux différences : la municipalité n’était pas élue démocratiquement et était généralement dirigée de manière ploutocratique par de riches familles bourgeoises qui ont été ensuite anoblies. Il convient donc de parler d’oligarchie plutôt que de démocratie communale.
+Les chartes communales n'étaient pas homogènes, chaque ville ayant la sienne et son organisation.
+Dans le nord de la France, les villes étaient généralement administrées par des échevins (du francique skapin, terme germanique désignant un juge) alors qu'au sud elles étaient administrées par des consuls (titre repris de l’Antiquité romaine). Bordeaux était gouvernée par des jurats (étymologiquement des « jurés ») et Toulouse par des capitouls (membres du chapitre). Il n’y avait pas de maire au sens actuel. Tous les échevins ou tous les capitouls étaient égaux et décidaient de manière collégiale. Toutefois, sur certains sujets, un échevin ou un consul prenait le pas et devenait une sorte de maire sans avoir l'autorité et les pouvoirs exécutifs d'un maire actuel. Ils étaient appelés « prévôt des marchands » à Paris et à Lyon, maire à Marseille, Bordeaux, Rouen, Orléans, Bayonne et dans beaucoup de villes. À Lille on parlait du mayeur, du premier capitoul à Toulouse, du viguier à Montpellier, du premier consul dans nombre de villes du sud, d'ammeister (francisé en Ammestre) à Strasbourg, du maître échevin à Metz, du maire royal à Nancy, du prévôt à Valenciennes, du vicomte-mayeur (ou maïeur) à Dijon et Dole et du Vierg à Autun.
+
+
+=== Révolution française ===
+Le soir du 14 juillet 1789, après la prise de la Bastille, le prévôt des marchands de Paris, Jacques de Flesselles est tué sur les marches de l’Hôtel de Ville. Après cet événement une « Commune de Paris » est immédiatement mise en place pour remplacer l’ancienne organisation de Paris datant du Moyen Âge. Pour protéger la ville de toute manœuvre contre-révolutionnaire, on crée une garde municipale. Plusieurs autres villes suivent rapidement cet exemple comme de nombreuses communautés.
+Le 12 novembre 1789, l'Assemblée nationale constituante décrète qu'« il y aura une municipalité dans chaque ville, bourg, paroisse ou communauté de campagne ». Puis elle décrète : « 1° que chaque département sera divisé en districts ; 2° que chaque département ne sera pas nécessairement divisé en neuf districts, conformément au plan du comité ; 3° que chaque département sera nécessairement divisé dans un nombre ternaire [de districts] ; 4° que le nombre des districts ne sera pas nécessairement le même pour tous les départements et que le nombre des districts pour chaque département sera fixé par l'Assemblée nationale [constituante], après avoir entendu les députés de chaque province, suivant la convenance et le besoin de chaque département ».
+Le 14 décembre 1789, la Constituante vote une loi créant les municipalités ou communes désignées comme la plus petite division administrative en France et c’est ainsi qu'était officialisé le mouvement d'autonomie communale révolutionnaire.
+La décision de l’Assemblée nationale est révolutionnaire car, en plus de transformer les chartes des cités et des bourgades, elle érige en communes presque toutes les anciennes communautés ou paroisses. Certains révolutionnaires, imprégnés d’idées cartésiennes et de la philosophie des Lumières, souhaitent rompre avec le passé et bâtir une société nouvelle où chacun serait égal et où la raison primerait sur la tradition et le passé. Aussi prévoient-ils des divisions administratives identiques dans tout le pays. Le territoire est divisé en départements, districts, cantons et communes. Toutes ces communes ont le même statut, avec un conseil municipal élu par les habitants et un maire. Une « maison commune », la mairie, doit être construite pour accueillir les réunions du conseil et l’administration municipale. Des membres de l’Assemblée nationale sont opposés à une telle fragmentation du pays, mais la proposition de Mirabeau l’emporte : une commune pour chaque communauté ou paroisse. Localement, les habitants peuvent choisir entre les deux ressorts préexistant. Dans l'ancien Rouergue devenu département de l'Aveyron, la majorité des communes sont issues des communautés plutôt que des paroisses, car c'était le cadre administratif du cadastre et du prélèvement des impôts. Dans l'ouest normand, dans le nord et dans plusieurs départements de l'est, les paroisses fiscales obtinrent bien souvent l'érection en municipalité. Résultat: en 1790, le nombre des municipalités créées y est en moyenne de plus de 800 par département (jusqu'à 1036 dans la Seine-Inférieure). Ailleurs, les paroisses ecclésiastiques servent de modèle aux nouvelles municipalités plutôt que les paroisses fiscales, jugées trop émiettées.
+Le 20 septembre 1792, le registre des naissances, des mariages et des décès tenu par le curé de la paroisse passa sous la responsabilité d'un officier public élu. Un mariage civil était institué et célébré dans les mairies ; la cérémonie n’était pas très différente de celle célébrée à l’église, la phrase « Au nom de la loi, je vous déclare unis par les liens du mariage » remplaçait celle du prêtre (« Au nom de Dieu, je vous déclare unis par les liens du mariage »). Les prêtres durent remettre à la mairie leurs registres des baptêmes, des mariages et des sépultures (BMS) qui furent remplacés par des registres des naissances, mariages et décès (NMD) entre les mains des préposés municipaux. Ce recul de prérogatives de l’Église n'était pas bien accepté partout et, dans l’ouest et au centre du pays, des prêtres furent relativement réfractaires.
+Le terme « commune », au sens de l’administration territoriale actuelle, est imposé par le décret de la Convention nationale du 10 brumaire an II (31 octobre 1793) : « La Convention nationale, sur la proposition d’un membre, décrète que toutes les dénominations de ville, bourg ou village sont supprimées et que celle de commune leur est substituée ».
+Sous le Directoire, il existe des « municipalités de canton » et, dans les grandes villes, trois administrations municipales ou plus. Napoléon Bonaparte stabilise les structures administratives, notamment en réussissant à faire accepter la loi du 28 pluviôse an VIII. Les membres du conseil municipal sont alors élus au suffrage censitaire. Le maire est nommé par le pouvoir central pour les communes les plus peuplées et par le préfet pour les autres.
+
+
+=== XIXe siècle : lois fondatrices ===
+Des changements importants eurent lieu en 1831, avec un retour au principe d’élection du conseil, et en 1837, avec la reconnaissance de la capacité légale.
+En 1845, l'administration générale des postes prenait encore en compte le fait que plusieurs localités avaient deux noms, pour celles qui en avaient un en français et un autre en allemand (standard ou dialectal selon les cas). Ce fait concernait à l'époque les départements de la Meurthe, de la Moselle, du Bas-Rhin et du Haut-Rhin.
+Sous le Second Empire, la loi du 24 juillet 1867 élargit les attributions des conseils municipaux.
+La fondamentale loi municipale du 5 avril 1884 prévoit que le conseil serait élu au suffrage universel direct, qu'il siègerait à la mairie et serait présidé par le maire désigné en son sein. C'était la fin de constantes modifications de statut opérées par les différents régimes en place depuis la Révolution française, mais surtout le début de l'autonomie promise par les républicains sous l'Empire.
+
+
+=== XXe siècle ===
+
+
+==== Intercommunalité de projet : construction par étapes ====
+Le terme « intercommunalité » désigne différentes formes de coopération entre les communes. Ce type de coopération est apparu dès le XIXe siècle avec la loi du 22 mars 1890 qui régit les associations intercommunales. De très nombreux syndicats de communes ont été créés pendant toute la durée du XXe siècle, notamment afin de gérer des activités à une échelle plus large que celle de la commune. C'est ainsi que, dès les années 1920, la banlieue parisienne s'est dotée de grandes structures telles que le Syndicat des communes de la banlieue pour l’électricité (devenu le Syndicat intercommunal de la périphérie de Paris pour l'électricité et les réseaux de communication (SIPPEREC) en 1924), chargé d'assurer la distribution de l'électricité dans ces communes, ou le Syndicat des eaux d'Île-de-France en 1923, qui produit et distribue, en gestion déléguée, l'eau potable aux habitants.
+
+
+==== 1982 : la décentralisation consacrée ====
+La loi du 2 mars 1982 marque un véritable tournant en ce qu'elle définit les droits et libertés des trois catégories de collectivités territoriales que sont les communes, les départements et les régions. Elle consacre également une plus grande liberté au profit des différentes catégories de collectivités en réformant, la tutelle exercée par les préfets pour la remplacer par un contrôle, a posteriori. Les actes de la commune deviennent ainsi exécutoires de plein droit à compter de leur publication et de leur transmission au préfet et ce, en vertu d'une autre loi, celle du 22 juillet 1982.
+
+
+==== 1986-2000 : conditions d'exercice des élus précisées et relance de l'intercommunalité ====
+Les changements issus des élections législatives de 1986 n’ont pas remis en cause la décentralisation, mais ont marqué une pause temporaire, tout du moins jusqu’en 1988, puisqu’ une loi du 5 janvier dite d'amélioration de la décentralisation est venue encadrer davantage les interventions économiques des collectivités territoriales, et notamment des communes. L'objectif poursuivi était de préserver les finances locales face à la tentation de venir en aide, de manière inconsidérée parfois, aux entreprises en difficulté situées sur le territoire de la collectivité.
+Par ailleurs, d’autres textes sont adoptés durant cette période parmi lesquels on peut citer les différentes lois ci-dessous, concernant les communes :
+
+la loi du 3 février 1992 vise à démocratiser l'accès et exercice des mandats locaux ;
+la loi du 6 février 1992, dite « loi ATR » renforce les droits des élus de la minorité au sein des assemblées locales, crée la possibilité d'organiser des consultations des habitants dans le cadre des communes et vise également à renforcer l'intercommunalité en créant les communautés de communes et communautés de villes ;
+la loi organique du 25 mai 1998 détermine les conditions permettant aux ressortissants des pays membres de l'Union européenne de participer aux élections municipales
+le développement de l'intercommunalité est relancé par la Loi relative au renforcement et à la simplification de la coopération intercommunale du 12 juillet 1999, dite « loi Chevènement ». Désormais, les principales structures intercommunales sont les communautés urbaines, communautés d’agglomération et communautés de communes, financées par une fiscalité propre.
+la loi du 6 juin 2000 instaure une parité relativement stricte pour les élections municipales dans les communes de plus de 3 500 habitants.
+
+
+=== XXIe siècle ===
+
+
+==== 2002 : démocratie de proximité ====
+Enfin, la loi du 27 février 2002, dite de démocratie de proximité, est principalement consacrée aux communes. Elle crée des conseils de quartier (communes de plus de 80 000 habitants) afin de renforcer la participation des habitants à la vie locale. Elle donne la possibilité pour les élus locaux de demander la création de mission d’information et d’évaluation et facilite l’exercice simultané d’un mandat local et d'une activité professionnelle.
+
+
+==== 2004 : nouveaux transferts de compétences ====
+La loi constitutionnelle du 28 mars 2003 ajoute dans son article 1er que l’organisation de la République française est décentralisée, une avancée majeure. L’article 72 est également modifié et les collectivités se voient reconnaître un pouvoir réglementaire dans les conditions définies par la loi ou qu'elles peuvent « organiser les modalités de leur action commune » en désignant un chef de file, lorsqu'une compétence est partagée entre plusieurs niveaux de collectivités. La loi ordinaire du 13 août 2004 relative aux libertés et responsabilités locales vient ensuite lister les différents transferts de compétence vers les collectivités locales (régions, départements et groupements de communes),.
+
+
+==== 2010 : achèvement de la carte intercommunale visé ====
+La loi du 16 décembre 2010 de réforme des collectivités territoriales modifie entre autres les rapports entre les communes et les intercommunalités : elle facilite l’achèvement et la rationalisation de la carte intercommunale en obligeant chaque commune à adhérer à un établissement public de coopération intercommunale ; elle crée de nouvelles structures de coopération intercommunale, les métropoles et pôles métropolitains ; l’élection au suffrage universel direct, à partir de 2014, des délégués des communes au sein des conseils des différentes communautés de communes, d’agglomération ou urbaines, en même temps que les conseillers municipaux,,.
+
+
+==== 2014 : affirmation des métropoles ====
+Avec la Loi du 27 janvier 2014 de modernisation de l'action publique territoriale les communes deviennent chefs de file pour la mobilité durable et la qualité de l'air et crée un nouveau statut pour les métropoles afin de permettre aux agglomérations de plus de 400 000 habitants d'exercer pleinement leur rôle en matière de développement économique, d'innovation, de transition énergétique et de politique de la ville. Les métropoles de Paris, Lyon et Marseille sont dotées d'un statut particulier.
+
+
+==== 2015 : loi Notre, toujours plus de complexité ====
+La loi NOTRe du 7 août 2015 vise notamment à renforcer les compétences des régions et des établissements publics de coopération intercommunale et à créer une spécialisation des différentes catégories de collectivités et un transfert par « blocs de compétences ». Mais en 2018, un rapport d’évaluation de la loi est très critique et fait état qu’elle a donné naissance à une organisation territoriale plus complexe et plus éloignée des citoyens,.
+
+
+==== 2020 : la question des territoires ====
+Pris en tenaille entre le renforcement des structures intercommunales et la baisse des dotations financières de l’État, les communes et leurs élus s’inquiètent pour l’avenir du périmètre communal. Si l’intercommunalité parvient à remédier à certains inconvénients du morcellement communal, elle pose cependant le problème de la gouvernance et de la légitimité démocratique des nouvelles instances exécutives.
+Un projet de loi constitutionnelle pour une démocratie plus représentative, responsable et efficace est déposé par le gouvernement en mai 2018. Il introduit pour les collectivités territoriales une double possibilité de différenciation sous l’angle des compétences et des normes. Mais en novembre 2018, le mouvement des Gilets jaunes met en lumière des fractures importantes entre territoires. Pour de nombreux Français, il existe simultanément un sentiment d’enfermement territorial ou d’entrave à la mobilité spatiale et un choix de lieu de vie motivé par des raisons familiales ou professionnelles. Il apparaît donc indispensable de dépasser l’idée d’un modèle de développement unique sur un territoire, comme si la population y était homogène. L’enjeu est bien davantage de redonner le pouvoir de choisir leur parcours de vie aux Français qui l’ont perdu, afin que chacun puisse choisir de partir comme de rester pour réaliser son projet de vie sur le territoire qu’il souhaite.
+Dans ce contexte, le gouvernement réfléchit en 2019 aux modalités de différenciation des territoires,,. Parallèlement il adopte le 1er août 2019 une loi visant à adapter l'organisation des communes nouvelles à la diversité des territoires.
+En 2020, un projet de loi « Décentralisation, différenciation, déconcentration et décomplexification » (4DS) se précise. Mais la crise sanitaire engendrée par la pandémie de Covid-19 révèle les limites et capacités d'action de l’État dans les territoires et pèse lourdement sur le projet de loi,. Il devient en 2021 le projet de loi 3DS (« Différenciation, décentralisation, déconcentration et simplification de l'action publique » ).
+
+
+==== Une constante depuis leur création, l'attachement des populations à la commune ====
+On note que depuis la création des communes est malgré plusieurs lois qui ont créé ou renforcé de nouvelles structures comme les régions ou les intercommunalités, les gens demeurent dans leur grande majorité attachés à leurs communes ,
+.
+
+
+== Collectivité territoriale ==
+
+
+=== Fondements juridiques ===
+Les communes constituent une des collectivités territoriales dont l'existence est garantie par la Constitution du 4 octobre 1958 instituant la Ve République et représentent le premier niveau d'administration territoriale. Leur nom est fixé par l'État et tout changement procède d'un décret (et non d'un décret par le Conseil d'État, depuis 2018). Les compétences des communes sont essentiellement régies par les parties législative et réglementaire du Code général des collectivités territoriales (CGCT), notamment dans sa deuxième partie.
+Malgré les disparités de population et de superficie entre les communes, toutes ont la même structure administrative et les mêmes compétences légales (à l’exception de Paris, Lyon et Marseille, régies par la loi PLM). Les communes d'Alsace et de Moselle ont des spécificités juridiques héritées de la période 1871-1919, lorsque l’Alsace-Moselle était allemande. Les communes des départements de la petite couronne parisienne ont également des règles particulières, notamment en ce qui concerne la police administrative.
+
+
+=== Nom ===
+Le nom est, avec le territoire et la population, un des trois éléments qui caractérisent l'identité d'une collectivité territoriale.
+
+
+==== Propriété exclusive ====
+Le nom de la commune est sa propriété exclusive : nul ne peut se l’approprier et nul ne peut le modifier sans autorisation spéciale. Les mêmes principes en la matière s’appliquent aux communes, comme aux individus. Il n’en a pas toujours été ainsi puisque, sous l'Ancien Régime, les seigneurs avaient le droit d’imposer aux lieux qui étaient sous leur dépendance une nouvelle dénomination, le plus souvent celle de leur patronyme.
+
+
+==== Changement de nom ====
+
+Jusqu’en 1837, il n’existe aucune procédure officielle pour instruire une demande de changement de nom. En règle générale, l’administration centrale demande l’avis du préfet, celui du sous-préfet et du conseil municipal. Avec la loi du 18 juillet 1837, la procédure de changement de nom suit ce qui a été mis en place pour les modifications territoriales, et requiert une délibération du conseil municipal, l’avis du conseil d’arrondissement et l’avis du conseil général.
+Avec la loi municipale du 5 avril 1884, sont désormais déterminées les compétences et les règles de procédure. Dans son article 2, cette loi prévoit que : « le changement de nom d’une commune est décidé par décret du Président de la République, sur la demande du conseil municipal, le conseil général consulté et le conseil d'État entendu ». Elle marque là une évolution notable, requérant un acte émanant du président de la République, là où la pratique statuait par simple décret sous la forme d’un règlement d'administration publique. La circulaire du 15 mai 1884 précise que les noms officiels des communes sont ceux qui figurent aux tableaux de recensement de la population de l'INSEE. Elle est actualisée avec le décret du 14 juin 1946 qui dispose que l'Insee a pour attributions « de coordonner les méthodes des administrations publiques » et « de réaliser l'unification des nomenclatures et codes statistiques ». Le Code officiel géographique devient dès lors l'organe officiel relatif à la dénomination des collectivités territoriales.
+Aujourd'hui, c’est au seul conseil municipal que revient l’initiative du changement de nom. La délibération qu’il prend doit être motivée. Elle est transmise par le préfet au ministère de l'Intérieur, qui consulte la Commission de révision du nom des communes (CRNC). Celle-ci émet un avis, elle peut aussi surseoir à la demande et réclamer un complément d’information ou faire une contre-proposition au conseil municipal. Le gouvernement peut également saisir, pour avis, la Commission nationale de toponymie (CNT). Le dossier était enfin transmis, jusqu'en 2018, au Conseil d'État qui veille à ce que le changement de nom soit dûment motivé. Depuis le décret no 2018-674 du 30 juillet 2018 portant simplification de certaines procédures administratives, les demandes ne sont plus soumises à l'avis du Conseil d'État. La nouvelle dénomination est généralement acceptée, à condition que le changement demandé ne crée pas un précédent fâcheux, qu’il aille plutôt dans le sens d’une simplification, qu'il privilégie un complément de nom plutôt qu'une substitution. Un décret est alors pris sur le rapport du ministre de l'intérieur et entérine le changement de nom qui est publié au Journal officiel,.
+
+
+==== Singularités ====
+Les communes françaises possédant le nom le plus long sont Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson (Marne, 45 signes), et Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur (Haute-Saône, 43 signes) et possèdent toutes les deux 38 lettres.
+Si l'on ne prend que les noms formés d'un seul tenant, les communes aux noms les plus longs sont Niederschaeffolsheim et Mittelschaeffolsheim avec 20 lettres (les deux sont situées dans le Bas-Rhin).
+La commune française avec le nom le plus court est Y (Somme). Quinze communes possèdent un nom de deux lettres (Aÿ, Bû, By, Eu, Fa, Gy, Oô, Oz, Py, Ri, Ry, Sy, Ur, Us et Uz).
+La première commune par ordre alphabétique est Aast (Pyrénées-Atlantiques). La dernière commune par ordre alphabétique est Zuytpeene (Nord).
+Au 1er janvier 2021, il existe 3 612 communes qui commencent par « Saint » (10,33 % des communes françaises), y compris Le Saint. Parmi ces communes, le « Saint » le plus courant est Saint-Martin (204 communes), suivi de Saint-Jean (155 communes) et Saint-Pierre (143 communes). 473 autres communes possèdent le terme « Saint » à l'intérieur de leur nom. Seulement quatre préfectures (dont une d'outre-mer) commencent par « Saint » : Saint-Brieuc, Saint-Étienne, Saint-Lô et Saint-Denis.
+Au 1er janvier 2021, il existe 297 communes qui commencent par « Sainte » (0,85 % des communes françaises), y compris Saintes. La sainte la plus courante est Sainte-Marie (37 communes, y compris Saintes-Maries-de-la-Mer), suivie de Sainte-Colombe (27 communes) et Sainte-Croix (24 communes). 65 autres communes possèdent le terme « Sainte » à l'intérieur de leur nom.
+Les noms des communes (les toponymes) ont des étymologies très diverses : préceltiques, celtiques, gallo-romanes, germaniques, scandinaves (en Normandie) ou plus généralement romanes (voir toponymie française). Bien que la plupart aient subi un phénomène de romanisation ou de francisation, certains conservent cependant l'aspect graphique, voire phonétique, de leur langue d'origine, par exemple :
+
+allemand : Mittelhausbergen (Bas-Rhin, 2 107 habitants) ;
+basque : Ainhoa (Pyrénées-Atlantiques, 668 hab.) ;
+béarnais : Ledeuix (Pyrénées-Atlantiques, 1 025 hab.) ;
+breton : Kermoroc'h (Côtes-d'Armor, 436 hab.) ;
+catalan : Banyuls-dels-Aspres (Pyrénées-Orientales, 1 289 hab.) ;
+comorien : M'Tsangamouji (Mayotte, 6 432 hab.) ;
+néerlandais : Steenvoorde (Nord, 4 341 hab.) ;
+langues amérindiennes : Kourou (Guyane, 24 805 hab.) ;
+langues austronésiennes : Kouaoua (Nouvelle-Calédonie, 1 304 hab.) ;
+langues polynésiennes : Hitiaa O Te Ra (Polynésie française, 10 033 hab.) ;
+occitan : Belcastel (Aveyron, 193 hab.) ;La plupart des communes corses portent un nom officiel italianisé à l'époque des dominations génoises et pisanes. Par exemple : San-Gavino-di-Carbini (Corse-du-Sud), en corse San Gavinu di Càrbini ; Porto-Vecchio (Corse-du-Sud, 11 040 habitants), en corse Portivechju ; exceptions notoires : Saint-Florent, L'Île-Rousse, Sartène.
+Communes jumelles : certaines communes sont voisines avec leurs (presque) homonymes séparées par les vicissitudes de l'histoire :
+
+
+=== Territoire ===
+Le territoire est le deuxième élément caractérisant l'identité d'une collectivité territoriale.
+
+
+==== Chef-lieu ====
+Au moment de la formation des communes, la règle anciennement établie de la supériorité par possession du clocher s’applique pour la désignation du chef-lieu. L’article 1 du décret du 20 janvier 1790 qui place le siège de l’assemblée municipale « où est le clocher » confirme cette règle. Toutes les communes n’ayant pas de clocher, « on a proposé de dire que le chef-lieu des communes était à l’endroit où se trouvait le siège de l’administration municipale ».
+Avec les modifications territoriales, se pose la question de la position du chef-lieu. La loi du 10 mai 1838 attribue aux conseils généraux et aux conseils d’arrondissement un pouvoir consultatif sur la désignation des chefs-lieux des communes de leur ressort, le préfet statuant définitivement. La loi du 10 août 1871 donne au conseil général le droit de statuer définitivement sur la désignation du chef-lieu de la commune, lorsqu’il y a accord des conseils municipaux. À partir de 1884, si le transfert de chef-lieu de la commune est accompagné d’une demande de changement de nom, la compétence appartient, non plus au conseil général, mais au gouvernement, seul habilité à autoriser les changements de nom de communes.
+Aujourd’hui, la fixation ou le transfert de chef-lieu sont pris par arrêté préfectoral, sauf si les modifications communales dont ils découlent entraînent des changements aux limites cantonales (dans ce cas, un décret en Conseil d'État est nécessaire).
+
+
+==== Délimitation du territoire communal ====
+À la différence des autres circonscriptions établies par l'Assemblée constituante, la commune n’a pas été définie à partir d’un territoire, mais est née du regroupement naturel et spontané de ses habitants. Les communautés d’habitants qui ont donné naissance aux communes correspondaient tantôt à des paroisses fiscales, tantôt à des paroisses ecclésiastiques, tantôt à des regroupements plus informels. Les limites territoriales des communes ont commencé à être définies formellement avec la levée du cadastre de 1791, mais il faut attendre l’achèvement du cadastre napoléonien, opération longue mais mieux orchestrée, pour que chaque commune (ou presque) dispose, dans les années 1850, d’un acte administratif de reconnaissance formelle de son territoire.
+
+
+==== Modifications de territoires (période 1790-1971) ====
+Devant l’important morcellement du territoire, il est rapidement apparu la nécessité de regrouper les communes pour en diminuer le nombre et donc, parallèlement, de définir un cadre réglementaire pour ces modifications territoriales. Plusieurs lois se succèdent ainsi pour réglementer les réunions, divisions, créations de communes ou simplement modifications territoriales (1801, 1806, 1837, 1871, 1884). La législation actuelle a conservé les dispositions de la loi de 1884, à la différence près que, depuis le décret du 5 novembre 1926 (art. 18), un arrêté préfectoral suffit lorsqu’il s’agit de réunir des communes situées dans un même canton, et qu’il y a accord des conseils municipaux ou des commissions syndicales intéressées.
+
+
+==== Fusion-association de communes (période 1971-2015) : loi Marcellin ====
+
+Avec la loi du 16 juillet 1971, dite « loi Marcellin », le Gouvernement renoue avec la volonté de regrouper les petites communes dans un souci de bonne administration. Dans chaque département, une commission d’élus devait, entre autres, examiner et proposer au préfet une liste des communes susceptibles d’être fusionnées. Le préfet était ensuite chargé de dresser « un plan des fusions de communes à réaliser et des autres formes de coopération intercommunale à promouvoir », qui comportait différentes propositions : la création de communautés urbaines, la fusion d’une ou plusieurs communes voisines, des regroupements en districts ou en syndicats intercommunaux à vocation multiple (SIVOM). Les propositions de fusion de communes étaient soumises, par le préfet, aux conseils municipaux concernés, et s’ils en étaient d’accord, la fusion était prononcée par arrêté préfectoral. Toutefois, les conseils municipaux pouvaient demander que la fusion s’opère avec d’autres communes que celles proposées par le préfet.
+Pour encourager les fusions, la loi prévoyait que certains avantages puissent être laissés aux communes : en particulier, elles pouvaient opter pour le statut de commune associée qui leur permettait de conserver leur nom et une certaine individualité administrative (art. 7 de la loi du 16 juillet 1971), mais pas leur personnalité juridique. Les communes associées pouvaient ensuite décider de fusionner définitivement.
+Mais la « loi Marcellin » ne rencontra pas le succès escompté. Face à la résistance de nombreux élus locaux, les préfets, pourtant dotés de tous les pouvoirs, ne réalisèrent pas les plans de fusions prévus. Toutefois, ce bilan doit être nuancé, la volonté plus ou moins forte de certains préfets explique les disparités géographiques constatées. Sur les 3 482 fusions prévues, concernant 9 671 communes, seules 838 (intéressant 2 045 communes) ont eu lieu entre 1972 et décembre 1977. En tenant compte des défusions, ce sont finalement 1100 communes qui sont réellement supprimées entre 1971 et 2009.
+
+
+==== Création de communes nouvelles (depuis 2015) ====
+
+La politique de fusion de communes prend une nouvelle tournure avec les lois du 16 décembre 2010, du 16 mars 2015 et du 1er août 2019. L'essentiel est en fait dans la loi de 2010 où s'ajoute à la « fusion horizontale » (entre communes) une « fusion verticale » (à partir d'un EPCI). En effet, la création d'une « commune nouvelle » peut se trouver adossée à l'existence préalable d'un établissement public de coopération intercommunale dont la fusion des communes membres marque, en quelque sorte, la dernière étape de leur rapprochement.
+La création d'une « commune nouvelle » se ramène à trois cas : soit à la demande unanime de communes « contiguës », soit à la demande d'un EPCI à fiscalité propre (émanant de la majorité qualifiée de ses communes membres ou du conseil « le rétablissement avec accord de la majorité qualifiée de ces communes), soit à l’initiative du préfet avec accord de la majorité qualifiée des communes intéressées.
+Novatrice par ses possibilités de création, la « commune nouvelle » demeure classique dans ses procédures de création qui laissent une place encore essentielle à la libre volonté locale et à son pouvoir de s'opposer. Elle incite donc au scepticisme touchant l'aptitude à apporter à la cause d'une réduction significative du nombre de communes françaises, des résultats considérables. Si les premiers résultats sont encourageants (517 communes nouvelles fusionnant 1760 communes début 2017, abaissant à 35 416 le nombre de communes françaises), c'est sans doute parce que cette loi est regardée comme un remède financier dans un contexte budgétaire où les communes ne disposent plus des ressources qu’exige leur équipement. C’est sans doute la raison pour laquelle le processus intéresse principalement des petites communes,. Au 1er janvier 2020, 799 communes nouvelles avaient été créées.
+
+
+==== Singularité : changements de territoires inter-départements ====
+Les rattachements aux départements évoluent également. Ainsi :
+
+la commune de Pont-Farcy était jusqu'en 2018 rattachée au département du Calvados ; elle fait désormais partie de celui de la Manche au sein de la commune nouvelle de Tessy-Bocage ;
+la commune de Han-devant-Pierrepont était jusqu'en 1997 rattachée au département de la Meuse ; elle fait désormais partie de celui de Meurthe-et-Moselle ;
+la commune de Locunolé était jusqu'en 1857 rattachée au département du Morbihan ; elle fait désormais partie de celui du Finistère.
+
+
+==== Singularité : communes avec enclaves ====
+
+Une enclave est une division administrative totalement entourée par une autre division. Une exclave est a contrario un territoire qui n'est pas connexe au reste du territoire auquel il est politiquement rattaché.
+Les enclaves les plus remarquables sont celles dont les territoires de rattachement relèvent du niveau régional :
+
+les enclaves bigourdanes constituées d'une part des communes d'Escaunets, Séron et Villenave-près-Béarn, et d'autre part des communes de Gardères et Luquet, deux enclaves des Hautes-Pyrénées dans les Pyrénées-Atlantiques, et donc de l'Occitanie en Nouvelle-Aquitaine ;
+l'Enclave des papes, constituée des quatre communes de Grillon, Richerenches, Valréas et Visan, partie du Vaucluse enclavée dans la Drôme et donc une enclave de Provence-Alpes-Côte d'Azur en Auvergne-Rhône-Alpes.
+
+
+==== Arrondissements municipaux à Paris, Lyon et Marseille ====
+Les trois plus importantes communes, Paris, Lyon et Marseille, ont un statut particulier visé par la loi du 2 mars 1982, dite « loi PLM » : elles ont notamment été découpées en arrondissements dits municipaux, mais l'essentiel des pouvoirs a été laissé aux municipalités centrales. Chaque arrondissement est administré par un conseil d'arrondissement et un maire d'arrondissement.
+Paris est découpée en vingt arrondissements. Ils servent de cadre à l'élection des conseillers de Paris, qui ont à la fois les compétences de conseillers municipaux et celles de conseillers départementaux. La division de Paris en arrondissements date de 1795 (loi du 19 vendémiaire an IV), avec alors un découpage en douze arrondissements. Les arrondissements, dans leur état actuel, ont été délimités par la loi du 16 juin 1859, qui a porté leur nombre de douze à vingt dans le cadre de l'annexion des faubourgs situés entre les fortifications de l'enceinte de Thiers et le mur des Fermiers généraux. La loi du 28 février 2017 portant sur une réforme du statut de la ville de Paris, qui entre en vigueur au 1er janvier 2019, a introduit la notion de secteur qui complète celle d'arrondissement. La Ville de Paris, nom officiel de la nouvelle collectivité, est désormais découpée en 17 secteurs, le secteur 1 regroupant les quatre arrondissements centraux 1, 2, 3 et 4, chacun des autres secteurs correspondant aux anciens arrondissements.
+Lyon est découpée en neuf arrondissements. Le décret du 24 mars 1852 crée à Lyon cinq arrondissements. Trois d'entre eux correspondent à l'annexion de communes suburbaines : La Guillotière et Monplaisir (3e), Croix-Rousse (4e), Vaise (5e). Le sixième arrondissement est créé le 17 juillet 1867, le septième le 8 mars 1912, le huitième le 19 février 1959 et le neuvième le 12 août 1964.
+Marseille est découpée en seize arrondissements. Créés en 1946, ces arrondissements ont été regroupés en secteurs en 1965. Ces secteurs sont redécoupés et dotés de conseils et maires élus en 1983 puis de nouveau redécoupés par la loi du 9 juillet 1987, qui fixe leur nombre à huit.
+
+Arrondissements et secteurs
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Organe délibérant : le conseil municipal ===
+
+Une commune est administrée par un conseil municipal dont les membres sont élus au suffrage universel direct pour six ans. Les conseillers des communes de moins de 1 000 habitants sont élus au scrutin plurinominal majoritaire à deux tours avec possibilité de créer une liste qui pourra subir un panachage. Les conseillers des communes de plus de 1 000 habitants sont élus via un scrutin de liste proportionnel bloqué à deux tours avec prime majoritaire de 50 %.
+Le conseil élit en son sein un maire chargé de préparer et d’appliquer les décisions du conseil, et qui dispose de compétences propres. Le maire est assisté d'un ou de plusieurs adjoints, qui peuvent recevoir des délégations.
+Le nombre de conseillers municipaux est fonction de la population de la commune, le minimum étant de 7. Les séances du conseil sont publiques mais seuls les élus peuvent s’exprimer. Le conseil municipal se réunit au minimum une fois par trimestre sur convocation du maire. Il peut se réunir, aussi, quand le maire le juge utile. Et, également, sous certaines conditions, à la demande d’une partie du conseil municipal ou du préfet.
+Il y a en France environ 500 000 conseillers municipaux (maires inclus). Ils exercent également les fonctions de grands électeurs élisant les sénateurs.
+
+
+=== Organe exécutif : le maire ===
+
+L’organe exécutif d'une collectivité territoriale a pour rôle de préparer et d’exécuter les délibérations de l'assemblée délibérante. Alors que le CGCT désigne formellement l’exécutif du département et de la région, il est silencieux s’agissant de celui de la commune, se contentant d’indiquer : « Il y a, dans chaque commune, un maire et un ou plusieurs adjoints […] ». Le maire est seul chargé de l’administration de la commune. Les adjoints ne disposent pas de compétences propres ; ils ne peuvent par conséquent intervenir à titre individuel dans l’administration de la commune que sur la base d’une délégation délivrée par le maire, sous sa surveillance et sa responsabilité. Dans une acception large, on peut considérer que l’équipe constituée du maire et des adjoints, parfois désignée sous l’appellation de « municipalité », forme l’exécutif de la commune.
+Le maire est ainsi chargé, d’exécuter les décisions du conseil municipal, par exemple celles concernant la préparation et la proposition du budget ainsi que l’ordonnancement des dépenses, la souscription des marchés, la gestion des revenus, la surveillance des établissements communaux et de la comptabilité communale ou la conservation et l’administration des propriétés de la commune,.
+
+
+=== Domaines de compétences ===
+Les communes gèrent l’administration locale (gestion de l'eau, des permis de construire, etc.). En tant que représentant de l’État dans la commune, le maire a la charge des actes d’état civil (naissance, mariage, divorce, décès). De plus il dispose d’un pouvoir de police administrative et, en vertu de son statut d'officier de police judiciaire, d'un pouvoir de police judiciaire, exercé par le biais de la police municipale. Exception est faite de Paris où la compétence relève du préfet de police, sous l’autorité du gouvernement.
+Les décisions des conseils municipaux et des maires peuvent être contestées devant le tribunal administratif.
+Les trois communes les plus peuplées, Paris, Marseille et Lyon sont divisées en arrondissements municipaux (qui sont distincts des arrondissements départementaux, une autre division administrative française) mais ces derniers présentent des compétences réduites et ne disposent pas de budget propre, par exemple.
+
+
+=== Moyens pour l'action municipale ===
+
+
+==== Moyens financiers ====
+Une commune étant une collectivité territoriale, elle est une personne morale de droit public et dispose ainsi d’un budget propre, acte par lequel le conseil municipal prévoit et autorise les recettes et les dépenses de l’exercice budgétaire (du 1er janvier au 31 décembre). Préparé par le maire, avec la collaboration des services municipaux, il est soumis au vote du conseil municipal.
+Les recettes d'une commune sont de quatre types :
+
+des recettes fiscales se répartissant en :
+imposition des entreprises : cotisation foncière des entreprises (CFE), cotisation sur la valeur ajoutée des entreprises (CVAE), imposition forfaitaire sur les entreprises de réseaux (IFER), taxe sur les surfaces commerciales (TASCOM)
+imposition des ménages : taxe d'habitation et taxe foncière
+des transferts financiers de l’État (sous forme de dotations, de compensations fiscales ou encore de fiscalité transférée) ;
+des recettes tarifaires et patrimoniales ;
+des fonds structurels européens.L'examen des comptes des communes de 2012 à 2017 a permis de dégager cinq profils budgétaires et financiers des communes : Les plus forts budgets par habitant, les plus faibles budgets par habitant, les communes « investisseuses-emprunteuses », les communes avec « une aversion au risque financier » et les communes en difficultés. Cette dernière classe regroupe 5 % des communes qui, avec des dépenses de fonctionnement par habitant supérieures aux recettes, ont une épargne brute négative. Elles ont également un besoin de financement élevé (-109 €/h, alors qu’en moyenne les communes dégagent une capacité de financement de +13 €/h). Les communes rurales y sont surreprésentées et elles ont le revenu moyen par habitant le plus faible des cinq classes (11 660 €/h),.
+
+
+==== Moyens humains ====
+Les communes disposent de moyens humains qu'est l'ensemble des agents communaux, recrutés sous le statut de fonctionnaire de la fonction publique territoriale, dont le statut dépend de deux lois : loi du 13 juillet 1983 dite loi Le Pors, pour les dispositions générales, et loi du 26 janvier 1984 pour les dispositions propres à la fonction publique territoriale.
+Au 31 décembre 2015, 1 021 856 agents étaient employés dans les communes, soit 54 % de la fonction publique territoriale (1 889 310 agents) et 19 % de la fonction publique dans son ensemble (5 450 619 agents), qui comprend la fonction publique d'État, la fonction publique territoriale et la fonction publique hospitalière.
+Les communes comptent, en 2019, 14,3 agents agents territoriaux par habitant en équivalent temps plein pour 1 000 habitants. Ce taux d'administration est plus faible dans les petites communes et plus élevé dans les grandes.
+
+
+==== Moyens juridiques ====
+Les moyens juridiques pour la mise en œuvre de l'action communale sont les mêmes que pour toute collectivité territoriale : la mise en œuvre (régie locale, établissement public, comme les CCAS), le recours aux contrats publics (marchés publics, marchés de partenariat, délégations de service public, conventions, services publics locaux, contrats de recrutement d’agents publics) ou la mise en œuvre de sociétés commerciales (SEM ou SPL).
+
+
+==== Moyens matériels ====
+La commune dispose de biens propres et en particulier du domaine public comme les routes communales, les bâtiments publics, etc.
+
+
+=== Contrôle de l'action municipale ===
+Comme l'ensemble des autres collectivités territoriales, la commune est soumise à trois types de contrôles : un contrôle a posteriori, exercé après l’entrée en vigueur des actes et n’étant pas une condition de cette dernière, un contrôle juridictionnel (les juridictions administratives sont désormais seules compétentes pour annuler les actes contraires à la légalité) et un contrôle de légalité exercé par le préfet.
+
+
+== Coopération intercommunale ==
+
+Il y a deux sortes de structures intercommunales.
+
+
+=== Structures sans compétences fiscales ===
+Elles correspondent à la forme d’intercommunalité la moins contraignante. Les syndicats de communes en sont la forme la plus connue. Les communes s’associent et contribuent financièrement au syndicat mais ce dernier ne peut lever ses propres taxes. Les communes peuvent le quitter à n’importe quel moment. Les syndicats peuvent être mis en place pour un sujet précis ou traiter différents problèmes. Ces structures sans pouvoir fiscal n’ont pas été touchées par la loi Chevènement et voient leur intérêt diminuer.
+
+
+=== Structures avec compétence fiscale ===
+Ce sont ces structures qui ont été créées ou modifiées par la loi Chevènement. Elles sont au nombre de quatre :
+
+la communauté de communes, pour les communes rurales ;
+la communauté d'agglomération, pour les ensembles de plus de 50 000 habitants ;
+la communauté urbaine, pour les ensembles de plus 450 000 habitants, la loi du 16 décembre 2010 ayant abaissé le seuil de création des communautés urbaines des 500 000 habitants fixés par la loi Chevènement à 450 000 habitants ;
+et la métropole, créée par la loi no 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales, qui constitue la forme la plus intégrée des intercommunalités françaises, réservée aux ensembles de plus de 500 000 habitants.Ces quatre structures disposent de différents niveaux de compétences fiscales. Les métropoles, les communautés urbaines et les communautés d’agglomération ont plus de pouvoir en matière fiscale, elles disposaient, jusqu'en 2010, de la taxe professionnelle qui doit être au même niveau dans toutes les communes membres. Comme un syndicat intercommunal, elles gèrent le traitement des ordures ménagères et les transports mais elles s’occupent aussi du développement économique, des projets d’urbanisme et de la protection de l’environnement. Les communautés de communes ont moins de compétences et laissent beaucoup plus d’autonomie aux communes. la loi ne prévoit pas de territoire d'une communauté, en sorte qu'il existe des communautés de deux ou trois communes seulement.
+Pour encourager la création de communautés de communes l’État leur alloue des subventions dont le montant dépend du niveau de population. Plus il y aura de communes unies et plus les subventions seront importantes. Cet encouragement est déterminant dans le choix que font les communes de s’unir.
+La loi Chevènement est un succès car la grande majorité des communes françaises ont rejoint la nouvelle structure intercommunale, chaque commune conservant selon la loi sa structure municipale. Au 1er janvier 2007 on comptait 2 573 communautés de communes en France métropolitaine (y compris cinq syndicats d’agglomérations nouvelles). Cela représente 33 327 communes (91,1 % du total métropolitain) et plus de 52 millions d’habitants (86,7 % de la population française métropolitaine).
+Toutefois en zone rurale de nombreuses communes n’ont rejoint une communauté que dans le but de bénéficier des subventions de l’État. Souvent, ce sont de simples syndicats intercommunaux qui ont été transformés en communautés de communes. Celles-ci se limitent alors aux deux attributions minimum prévues par la loi et aux activités de la structure précédente, ce qui bien sûr est contraire à l’objectif initial.
+Dans les zones urbaines les nouvelles structures intercommunales sont beaucoup plus vivantes. Le plus souvent leurs créateurs avaient dès le départ la volonté de s’unir et de travailler ensemble. Malgré tout, de vieilles haines ne manquent pas de ressurgir ici ou là. Il n’est pas rare de voir une communauté urbaine incomplète car telle ou telle commune a refusé d’y adhérer, quitte à créer une communauté parallèle ; ainsi, la ville de Marseille est partagée en quatre districts intercommunaux. Dans plusieurs endroits, les communes les plus riches se sont regroupées entre elles et n’ont pas accepté l’adhésion des communes plus pauvres pour ne pas avoir à les financer. D’autre part, il faut bien admettre que de nombreuses communautés restent fragiles. Il y a souvent des tensions entre communes, les villes centrales sont souvent suspectées de vouloir dominer ou même absorber les communes limitrophes, sans oublier, bien sûr, les querelles entre partis politiques.
+Toulouse et Paris sont deux bons exemples de cette situation :
+
+Toulouse n'a longtemps formé avec ses banlieues qu’une simple communauté d’agglomération, qui ne s'est transformée en communauté urbaine du Grand Toulouse qu'en janvier 2009, alors que c’est une des plus grandes villes de France qui aurait dû être dotée d'une communauté urbaine depuis longtemps. Celle-ci, bien qu’elle apporte beaucoup plus de subventions, a été refusée par les communes environnantes car elles avaient peur de perdre trop de pouvoir.
+De la même façon, Paris ne fait partie d’aucune structure intercommunale à fiscalité propre jusqu'à la création de la métropole du Grand Paris le 1er janvier 2016. Les communes de la banlieue de Paris craignant l’avènement d’un « Grand Paris » ont longtemps préféré créer plusieurs entités intercommunales excluant systématiquement la capitale, et celle-ci ne souhaitait pas réellement s'allier structurellement avec certaines communes limitrophes. Dans le cadre du débat complexe autour du Grand Paris initié par le président Sarkozy, le syndicat mixte Paris Métropole a été créé en février 2009, qui regroupe, en janvier 2016 plus de 200 collectivités franciliennes.Le principal défaut des structures intercommunales est qu’elles ne sont pas dirigées par des représentants directement élus. Ce sont les élus des communes qui siègent au conseil intercommunal. La nécessité de concilier les points de vue de chacune des communes membres prend donc le pas sur l'efficacité de la prise de décision (de manière analogue aux institutions européennes) et crée en définitive une carence à la fois de bonne administration et de démocratie. Depuis plusieurs années a lieu un débat sur l'intérêt de voir élire les membres des conseils des communautés au suffrage universel direct lors des élections municipales, ce qui aboutirait toutefois nécessairement à une baisse du poids politique des maires et des communes par rapport à celui des intercommunalités et de leurs présidents.
+La loi no 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales a réformé le mécanisme, et, à partir des élections municipales de 2014, les conseillers communautaires des communes de plus de 3 500 habitants seront élus au suffrage universel direct, dans le cadre des élections municipales. Les représentants des communes de plus petite taille (c'est-à-dire environ 90 % de l'ensemble des communes) resteront élus en leur sein par les conseils municipaux.
+
+
+== Coopération décentralisée ==
+
+
+=== Fondements juridiques ===
+La coopération décentralisée désigne toutes les formes de coopération que les collectivités territoriales françaises ou leurs groupements peuvent développer avec des autorités ou des collectivités locales étrangères dans le respect des engagements internationaux de la France. Initialement, les collectivités avaient développé des relations informelles qui pouvaient prendre la forme de jumelage. Puis la loi du 6 février 1992 a autorisé les collectivités françaises à conclure des conventions avec les collectivités étrangères. La loi du 7 décembre 2006 permet la coopération décentralisée spécifique, ainsi que les aides d’urgence ou des actions de solidarité internationale dans les domaines de la distribution de l’eau potable et de l’assainissement, de la distribution d’électricité ou de gaz,. Enfin, la loi MAPAM du 27 janvier 2014 autorise une collectivité ou un groupement de collectivités à conclure une convention avec un État étranger pour la création d’un groupement européen de coopération territoriale, d’un groupement eurorégional de coopération ou d’un groupement local de coopération transfrontalière.
+
+
+=== État des lieux en 2020 ===
+La Commission nationale de la coopération décentralisée a publié en 2019 une brochure mettant en avant les contributions des collectivités territoriales françaises en matière de coopération décentralisée réalisées, notamment dans le cadre du plan 2016-2018. En 2019, plus de 4 700 collectivités françaises, dont un grand nombre de communes, entretiennent plus de 10 700 partenariats de coopération décentralisée avec 8 700 autorités locales étrangères dans 133 pays. Par exemple deux villes, Hérouville-Saint-Clair (Calvados) et Tikhvine, en Russie, travaillent sur la mise en place de pépinières d'entreprises pour favoriser l'attractivité de Tikhvine, qui pâtit de la proximité de Saint-Pétersbourg. Dans un autre domaine, la ville de Montreuil a participé à la création de la maison des femmes de Yélimané au Mali, un lieu de rencontres, de formation, notamment sur des activités économiques, et d'échanges.
+41 projets nouveaux ont été retenus par le ministère de l'Europe et des Affaires étrangères (MEAE) à la suite de l’appel à projets triennal 2019-2021 sur la coopération décentralisée. Le Burkina Faso est le premier pays partenaire avec sept projets retenus, avec Chambéry, Belfort, Châteauroux, Douai, Saint-Pierre-d'Aurillac et les régions Nouvelle-Aquitaine et Occitanie. Viennent ensuite Madagascar, Haïti, le Bénin ou le Mali.
+
+
+== Communes d'outre-mer ==
+Les communes situées en département d'outre-mer ont le statut de collectivité territoriale, par contre les communes situées dans les collectivités d'outre-mer, ne disposant pas de la libre administration, ont un statut à part.
+
+
+=== Polynésie française ===
+
+
+==== Statut de collectivité territoriale : un processus inabouti ====
+L'article 6 de la loi organique du 27 février 2004 énonce pour la première fois le principe selon lequel « Les communes de la Polynésie française, collectivités territoriales de la République, s'administrent librement dans les conditions prévues par la Constitution, la présente loi organique et les dispositions législatives qui leur sont applicables ». Cet article marque, en droit, une étape décisive dans l'attribution d'un régime identique à celui de métropole et dans le renforcement du rôle des 48 communes polynésiennes.
+La qualification, par la loi organique, de collectivités territoriales de la République, implique que les communes polynésiennes se voient pleinement appliquer l'article 72 de la Constitution, qui affirme le principe de libre administration des collectivités territoriales et exclut toute hiérarchisation entre collectivités. En effet, l'article 72 de la Constitution dispose qu'« aucune collectivité territoriale ne peut exercer une tutelle sur une autre ». Toutefois les communes ont des ressources propres très faibles, en contradiction avec le principe de libre administration. Les recettes tant de fonctionnement que d’investissement des communes de Polynésie française proviennent essentiellement des dotations ou subventions de l'État.
+La loi organique no 2019-706 du 5 juillet 2019 modifie le statut d'autonomie de la Polynésie française et consacre une reconnaissance toujours plus forte du rôle des communes dans le paysage institutionnel polynésien. Les articles 43, 45 et 52 de la loi de 2004 sont en particulier modifiés et prévoient désormais de faciliter l’exercice concomitant par les communes et la Polynésie française de certaines compétences et témoignent d’une prise en compte accrue du rôle des communes. Toutefois, le défaut de libre administration caractérisant ce processus inabouti conduit la DGCL à ne pas classer ces communes comme des collectivités territoriales.
+
+
+==== Compétences ====
+L'article 43 du statut défini par la loi organique du 27 février 2004 réserve des compétences d'attribution aux communes, dès lors que la Polynésie française exerce une compétence de principe. Dans le cadre des règles édictées par l'État et par la Polynésie française, il s'agit :
+
+de la police municipale ;
+de la voirie communale ;
+des cimetières ;
+des transports communaux ;
+de la construction, de l'entretien et du fonctionnement des écoles du premier degré ;
+de la distribution d'eau potable ;
+de la collecte et du traitement des ordures ménagères, de la collecte et du traitement des déchets végétaux ;
+ainsi que de la collecte et du traitement des eaux usées.La loi organique du 5 juillet 2019 modifiant le statut d'autonomie de la Polynésie français élargit la liste des compétences concernées par des interventions conjointes de la Polynésie française et des communes. Le texte avait prévu initialement que le développement économique et l’aménagement de l’espace ainsi que la jeunesse et le sport pourraient désormais faire l’objet d’actions conjointes des communes et de la Polynésie française, dans un cadre juridique fixé par cette dernière. Mais le Sénat a souhaité élargir les secteurs concernés par ces possibilités d’intervention des communes polynésiennes. Ces dernières pourront ainsi, dans les conditions prévues par une loi du pays, intervenir dans trois autres domaines : la protection, la mise en valeur de l’environnement et le soutien aux actions de maitrise de l’énergie ; la politique du logement et du cadre de vie ; et la politique de la ville,.
+
+
+==== Moyens ====
+Les communes ont des ressources propres limitées et demeurent structurellement dépendantes des subventions de l’État et du Pays tant pour le financement du fonctionnement que de leurs investissements. La fiscalité locale est caractérisée par des impositions anciennes, peu nombreuses, et se révèle embryonnaire car la compétence relève avant tout du Pays.
+
+
+=== Nouvelle-Calédonie ===
+
+
+== Circonscription administrative ==
+
+
+=== Dénombrement ===
+
+Au 1er janvier 2022, la direction générale des collectivités locales (DGCL) recense 35 038 circonscriptions administratives relevant de la catégorie des communes : 34 826 dans la France métropolitaine, 129 dans les DROM et 83 dans les COM et la Nouvelle-Calédonie.
+Les 83 communes des collectivités d'outre-mer comprennent les deux communes de Saint-Pierre-et-Miquelon, les 48 communes de Polynésie française et les 33 communes de Nouvelle-Calédonie. Wallis-et-Futuna est découpée en trois circonscriptions territoriales.
+
+
+==== Situation dans les collectivités d'outre-mer ====
+Depuis l'entrée en vigueur de la loi no 2007-223 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à l'outre-mer, une collectivité territoriale unique a été substituée, sur le territoire de l'île de Saint-Barthélemy et des îlots qui en dépendent, à la commune de Saint-Barthélemy ainsi qu'au département et à la région d'outre-mer de la Guadeloupe. Il en est de même sur le territoire de la partie française de l'île de Saint-Martin et des îlots qui en dépendent, où une collectivité territoriale unique a été substituée à la commune de Saint-Martin ainsi qu'au département et à la région d'outre-mer de la Guadeloupe. Saint-Barthélemy et Saint-Martin continuent néanmoins d'être comptés, dans les statistiques, comme deux communes relevant des circonscriptions administratives.
+Deux collectivités d'outre-mer ne sont pas divisées en communes mais ont des divisions qui sont traitées statistiquement à un niveau équivalent : Wallis-et-Futuna avec trois circonscriptions et les Terres australes et antarctiques françaises (TAAF) avec cinq districts.
+Relevant du domaine public maritime et inscrit, à ce titre, au tableau des propriétés domaniales de l’État en vertu d’un arrêté interministériel du 18 mars 1986, l’atoll de Clipperton, est placé sous la juridiction du haut-commissaire de la République en Polynésie française, représentant de l'État, et est à ce titre aussi une circonscription administrative de l'État.
+
+
+=== Autorités administratives ===
+
+
+=== Compétences du maire ===
+
+
+==== France et DOM ====
+Sous l'autorité du préfet, le maire remplit des fonctions administratives où il agit par pouvoir lié, notamment :
+
+la publication des lois et règlements ;
+l'organisation des élections ;
+la légalisation des signatures apposée en sa présence par l'un de ses administrés connu de lui, ou accompagné de deux témoins connus ;
+le maire est chargé, sous l'autorité du représentant de l'État dans le département, de l'exécution des mesures de sûreté générale et des fonctions spéciales qui lui sont attribuées par les lois, par exemple de l'application de la loi no 79-1150 du 29 décembre 1979 sur la publicité, les enseignes.En cas d'urgence, ou pour renforcer dans un but d'ordre public local, la mesure prise par l'autorité supérieure en matière de police, le maire peut être appelé à intervenir au titre de son pouvoir de police administrative générale, en complément des polices spéciales étatiques (par exemple la police spéciale des monuments historiques et des sites naturels) ;
+il exerce aussi des fonctions dans le domaine judiciaire sous l'autorité du procureur de la République : il est officier d'état civil et célèbre par exemple les mariages civils et officier de police judiciaire. À ce titre, il concourt par son pouvoir de police à l'exercice des missions de sécurité publique.
+
+
+==== Collectivités d'outre-mer ====
+Polynésie française : Les autorités de l'État sont compétentes dans un nombre restreint de missions définies par l'article 14 de la loi organique du 27 février 2004 portant statut d'autonomie de la Polynésie française. Le maire tout comme le maire délégué et, pour partie, les adjoints exercent, comme agents de l'État, des fonctions propres. À ce titre, ils sont officiers d'état civil et officiers de police judiciaire. Ils peuvent assurer le recensement du service national ou être chargés de la publication et de l'exécution des lois et règlements. Les mairies peuvent ainsi délivrer des cartes nationales d’identité ou l'organisation des élections ;
+Wallis-et-Futuna : le chef de circonscription exerce diverses missions régaliennes : Délivrance des titres d'identités, tenue de l'état civil, établissement des listes électorales et organisation des scrutins. Il exerce aussi certains services de proximité comme la protection des personnes et des biens, visites de sécurité, suivi des établissements recevant du public, qui rejoignent les exercices de police municipale des maires en métropole ou dans les DOM.
+
+
+== Circonscription électorale ==
+La circonscription électorale est une division du territoire effectuée dans le cadre d'une élection. Chaque citoyen est rattaché à une circonscription et à une seule dans le cadre d'un vote. La commune est circonscription électorale pour les élections municipales. La commune, étant à la fois territoire électoral et collectivité locale, est le seul territoire où coïncident territoire à administrer (celui pour lequel on souhaite un gouvernement élu) et territoire électoral (celui à l’échelle duquel on désigne un ou plusieurs représentants).
+
+
+=== Mode de scrutin selon la taille de la commune ===
+Le mode de scrutin utilisé pour cette consultation n'est pas uniforme sur l'ensemble du territoire. Il diffère selon la population des communes considérées :
+
+scrutin majoritaire plurinominal avec panachage pour les communes de moins de 1 000 habitants ;
+scrutin proportionnel de liste avec prime majoritaire, pour les communes plus importantes.
+
+
+=== Sectionnement des communes de plus de 20 000 habitants ===
+Les communes de 20 000 habitants et plus peuvent être divisées en sections électorales, dont chacune élit un nombre de conseillers proportionné au chiffre des électeurs inscrits, mais seulement quand elle se compose de plusieurs agglomérations d'habitations distinctes et séparées ; aucune section ne peut avoir moins de deux conseillers à élire. Chaque section doit être composée de territoires contigus. Le sectionnement électoral des communes est fait par le préfet, à son initiative, sur celle du conseil municipal ou d'électeurs de la commune intéressée.
+
+
+=== Régimes particuliers de Paris, Lyon et Marseille ===
+Les règles sont les mêmes que pour les communes de 1 000 habitants et plus mais l'élection se fait par secteur. À Paris et à Lyon, chaque arrondissement forme un secteur. À Marseille, il existe 8 secteurs de 2 arrondissements chacun. Les sièges de membres du conseil de Paris ou du conseil municipal de Marseille ou de Lyon sont donc attribués au regard des résultats obtenus par secteur et selon les mêmes règles que pour les communes de 1 000 habitants et plus. Des conseillers d'arrondissement sont, en outre, élus en même temps que les membres du Conseil de Paris et des conseils municipaux de Marseille et de Lyon. Les sièges sont répartis dans les mêmes conditions entre les listes.
+
+
+== Géographie physique ==
+En parallèle à l’approche institutionnelle, la commune est également une division administrative, base élémentaire d'étude et de connaissance du territoire national. De multiples approches thématiques peuvent être envisagées. Trois thèmes sont abordés ci-après à titres d'exemples et de manière non exhaustive : géographie, urbanisme et environnement, qui donnent souvent lieu à des classements des communes selon des typologies spécifiques.
+
+
+=== Superficies ===
+
+Il existe deux valeurs en matière de superficie : la superficie cadastrale, conventionnelle, et la superficie géographique, plus proche de la réalité puisque ne faisant aucune exception, mais dépendante des systèmes de projection et du niveau de précision. Conventionnellement c'est la surface cadastrale qui est retenue pour caractériser les divisions administratives françaises. Jusqu'en 2016, ces données figuraient dans le répertoire géographique des communes (RGC), produit par l'IGN, contenant en particulier la superficie de chaque commune. Cette donnée, fournie annuellement par l'Insee, correspond à la superficie évaluée en 1975 par le service du cadastre de la Direction générale des impôts, corrigée des modifications communales intervenues depuis 1975. Elle comprend « toutes les surfaces du domaine public et privé, cadastrées ou non cadastrées, à l'exception des lacs, étangs et glaciers de plus d'un kilomètre carré [à la fin du XIXe siècle, le plancher de non comptabilité était de 4 km2], ainsi que des estuaires ».
+La taille moyenne d'une commune de France métropolitaine est de 14,88 km2. La taille médiane des communes de France métropolitaine n'est que de 10,73 km2, à cause du nombre élevé de communes de faible superficie (là encore, la France fait figure d'exception en Europe : en Allemagne, la taille médiane des communes de la plupart des Länder est supérieure à 15 km2, en Italie elle est de 22 km2, en Espagne 35 km2, en Belgique 40 km2). Dans les départements d'outre-mer, les communes sont généralement plus grandes qu'en France métropolitaine et peuvent regrouper des villages relativement distants.
+En France métropolitaine, la répartition des communes est la suivante :
+
+La commune la plus étendue est Maripasoula (Guyane avec 18 360 km2). Sur le territoire métropolitain, Arles (758,93 km2) (dans les Bouches-du-Rhône) et Val-Cenis (408,05 km2) (en Savoie) sont les deux communes les plus étendues. La plus petite commune est Castelmoron-d'Albret (Gironde) avec 0,035 4 km2. Vaudherland (Val-d'Oise) avec 0,09 km2, est la deuxième plus petite commune de France.
+
+
+=== Extrêmes géographiques ===
+Altitude la plus haute :
+
+les communes françaises possédant l’altitude maximale la plus haute sont deux communes de Haute-Savoie, Chamonix-Mont-Blanc et Saint-Gervais-les-Bains (via une enclave entre Chamonix et l'Italie), qui culminent au sommet du mont Blanc à 4 806 m qui se trouve sur la limite des deux communes. Cela est dit en prenant en compte la position française sur la frontière franco-italienne dans la région. Pour l'Italie le mont Blanc est frontalier et l'enclave de Saint-Gervais-les-Bains est en Italie ;
+la commune dont les zones habitées sont les plus élevées est Saint-Véran (Hautes-Alpes), dont le territoire s’étend entre 1 756 et 3 175 m d’altitude ; le village est étagé de 1 950 m à 2 040 m. Depuis l'engloutissement du village dans le lac du Chevril et sa reconstruction plus haut, Tignes, situé à 2 100 m, peut aussi être considérée comme la plus haute commune de France.Altitude la plus basse : la commune française la plus basse est Quimper (Finistère) dont une partie du territoire est située au-dessous du niveau de la mer, jusqu’à -5 m.
+À vol d'oiseau, la commune française la plus éloignée de Paris est l’Île des Pins (en Nouvelle-Calédonie) à 16 806 km de la capitale. Sur le territoire métropolitain, il s’agit de Bonifacio, située à 986 km.
+La commune la plus au nord est Bray-Dunes, Nord.
+Les communes les plus à l’ouest sont :
+
+sur le territoire continental : Plouarzel (Finistère) ;
+en France métropolitaine : Ouessant (Finistère) ;
+sur la totalité du territoire : Rimatara (Polynésie française).Les communes les plus à l’est sont :
+
+sur le territoire continental : Lauterbourg (Bas-Rhin) ;
+en France métropolitaine : Aléria (Haute-Corse) ;
+sur la totalité du territoire : Maré (Nouvelle-Calédonie).Les communes les plus au sud sont :
+
+sur le territoire continental : Lamanère (Pyrénées-Orientales) ;
+en France métropolitaine : Bonifacio (Corse-du-Sud) ;
+sur la totalité du territoire : Rapa (archipel des Australes en Polynésie française).
+
+
+=== Communes insulaires ===
+
+Par commune insulaire, il convient d'entendre toute commune dont le territoire présente pour tout ou partie un caractère d'insularité, à savoir étant situé sur une île ou comprenant une île dans son périmètre ou étant à lui seul une île. La liste non exhaustive suivante peut être dressée :
+
+communes constituées d'une seule île maritime : Île-d'Aix, Île-d'Arz et Île-de-Batz, Groix, Île-aux-Moines, Hœdic, Île-d'Houat ;
+communes constituées d'une seule île fluviale : L'Île-Saint-Denis, Béhuard ;
+communes comprenant une ou plusieurs îles : Ouessant, Île-de-Bréhat, Île-Molène, Île-de-Sein, L'Île-d'Yeu ;
+îles ou archipels comportant plusieurs communes, classés par ordre décroissant du nombre de communes les composant : la Corse (360), les cinq archipels de la Polynésie française (48), la Martinique (34), l'archipel de la Nouvelle-Calédonie (33), la Guadeloupe (32), La Réunion (24), Mayotte (17), l'île de Ré (10 communes), l'île d'Oléron (8), Belle-Île-en-Mer (4), l'île de Noirmoutier (4), Saint-Pierre et Miquelon (2).L'association des îles du Ponant regroupe les îles sans liaison physique fixe avec le continent. Par contre l'archipel de Chausey au sein des îles du Ponant est situé dans la commune non insulaire de Granville et l'archipel des Glénan au sein des îles du Ponant est situé dans la commune non insulaire de Fouesnant.
+
+
+== Géographie humaine ==
+
+
+=== Population ===
+La population est le troisième élément caractérisant l'identité d'une collectivité territoriale. C'est en particulier en fonction du nombre d'habitants que le mode de scrutin des conseillers municipaux est déterminé.
+
+
+==== Plus d'une commune métropolitaine sur deux compte moins de 500 habitants ====
+Selon les chiffres officiels du recensement de la population publiés le 1er janvier 2021, 53 % de ces communes comptent moins de 500 habitants au 1er janvier 2018,. Ces 18 374 petites communes accueillent 4,1 millions d'habitants, soit 6,2 % de la population résidant en France métropolitaine : c'est à peu près autant que le total des quatre plus grandes villes réunies : Paris, Marseille, Lyon et Toulouse. Les petites communes sont localisées essentiellement dans une bande traversant la France du nord-est au sud-ouest, en zone rurale ou montagneuse. En 2015, sept départements comptaient au moins 80 % de communes de moins de 500 habitants : la Meuse, la Haute-Marne, la Haute-Saône et le Jura au nord-est, le Gers, les Hautes-Pyrénées et la Lozère au sud-ouest. À l'inverse, l'Ouest, les façades atlantique et méditerranéenne, ainsi que les zones frontalières non montagneuses, qui sont aussi les plus peuplées, comptent relativement peu de petites communes.
+
+
+==== Communes les plus peuplées ====
+
+En 2021, la commune de France métropolitaine la plus peuplée est Paris (2 175 601 habitants).
+La commune la plus densément peuplée est Levallois-Perret (Hauts-de-Seine, 27 907,9 hab./km2). L'unité urbaine (c'est-à-dire une commune comportant une zone de plus de 2 000 habitants où aucune habitation n’est séparée de la plus proche de plus de 200 mètres) la moins densément peuplée est Saintes-Maries-de-la-Mer (Bouches-du-Rhône, 6,7 hab/km2).
+
+
+==== Communes les moins peuplées ====
+
+En 2021, (données du recensement de 2018), 19 communes ont 6 habitants ou moins, dont six communes totalement dévastées après la bataille de Verdun en 1916. Villages français détruits durant la Première Guerre mondiale, ils ne furent jamais reconstruits et ne comptent aucun habitant. Chacune de ces communes qualifiées de communes « mortes pour la France », est administrée par un conseil municipal de trois membres nommés par le préfet de la Meuse.
+
+0 habitant : Beaumont-en-Verdunois (55), Bezonvaux (55), Cumières-le-Mort-Homme (55), Fleury-devant-Douaumont (55), Haumont-près-Samogneux (55), Louvemont-Côte-du-Poivre (55) ;
+1 habitant : Rochefourchat (26) ;
+2 habitants : La Bâtie-des-Fonds (26) ;
+3 habitants : Leménil-Mitry (54), Rouvroy-Ripont (51) ;
+4 habitants : Caubous (31), Majastres (04), Molring (57) ;
+5 habitants : Bourg-d'Oueil (31), Épécamps (80), Fontanès-de-Sault (11), Pommerol (26) ;
+
+
+== Maillage communal ==
+
+
+=== Dénombrement des communes ===
+
+Au 1er janvier 2023, la direction générale des collectivités locales (DGCL) recense 35 031 collectivités territoriales relevant de la catégorie des communes : 34 816 dans la France métropolitaine, 129 dans les DROM et 86 dans les COM et la Nouvelle-Calédonie. Cette situation est le résultat d'une histoire où le pouvoir étatique tente par diverses mesures législatives à en réduire le nombre, qui prend son origine dans les près de 44 000 paroisses de l'Ancien Régime.
+
+
+=== Évolution quantitative ===
+En 1802-1803, la France compte environ 40 200 communes et 30 400 paroisses (ecclésiastiques). Le Premier Empire tente de réduire leur nombre. Mais après 1815, la densité de population dans les campagnes croit et les fidèles réclament de nouvelles paroisses : c'est au début du Second Empire que le nombre des paroisses ecclésiastiques culmine, avec 33 400 paroisses.
+Exceptionnellement, les grands travaux d'urbanisme réalisés par le Second Empire conduisent celui-ci à faire absorber les faubourgs par les villes connaissant une forte croissance démographique. C'est ainsi que Paris voit ses limites adaptées à son extension, par absorption de 14 communes ou portions de commune en 1859, ou encore que Lyon en absorbe trois en 1852, ou encore que Lille, dénoncée dès avant 1850 comme un mouroir de la nouvelle industrie, quadruple sa superficie en absorbant quatre communes en 1858. D'autres, moins grandes, connaissent le même mouvement ; par exemple, Le Mans triple sa superficie en absorbant cinq entre 1855 et 1865. Au total, dans les mêmes limites qu'à la fin de la Révolution, la France contient en 1870 environ 37 600 communes.
+Mais dès les dernières années de l'Empire libéral, les républicains promettent aux communes leur émancipation. À partir de 1871, parce que le pouvoir issu des événements de 1870-1871 se sait en sursis, celui-ci n'ose plus opérer de fusion, mais seulement des créations. Ainsi les régions côtières s'enrichissent-elles désormais de nouvelles communes pour cause de peuplement et, côté Méditerranée, pour cause de retour de la population des reliefs de l'arrière-pays vers le littoral (dont elles s'étaient éloignées à cause des raids barbaresques), tandis que le reste de la France voit s'accélérer l'exode rural sans voir s'accélérer le nombre d'opérations de fusion de communes. Globalement, après avoir stagné entre 1846 et 1870, le nombre de communes se met très légèrement à croître, pour atteindre le maximum de 38 014 en 1936. Alors que la révolution industrielle généralise l'exode rural à toutes les régions françaises à partir de 1881, et que la Grande Guerre accélèrent brutalement le phénomène dans les montagnes pauvres, les divisions administratives françaises n'évoluent quasiment plus.
+
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Hétérogénéité du maillage communal : une perception variable dans le temps ===
+L’hétérogénéité interne au maillage communal français été explorée par différents auteurs. André Meynier fait en 1945 une première étude parue dans les Annales de géographie en abordant les communes tant par leur dimensions que par leur forme, en tentant de relier terre, économie et société et constate qu’il n’y a pas forcément corrélation entre superficie et population d’une part et activité ou relief d’autre part. Au recensement de 1936, la France compte 38 014 communes, d'une superficie moyenne de 14 km2 chacune. Presque toutes peuvent être considérées comme rurales : en effet, dans 250 seulement d'entre elles, tous les habitants vivent en agglomération de caractère urbain (sans compter les 81 communes de la Seine). Les autres villes comprennent toutes dans Ieur territoire une certaine population rurale et sont donc le centre d'une commune rurale. Meynier découpe la France en deux secteurs homogènes :
+
+une zone de petites communes comprend le Nord et l'Est, le bassin de la Seine, la Normandie, le Jura, le couloir séquano-rhodanien jusqu'à Vienne, et une partie de l'Aquitaine et des Pyrénées.
+une zone de grandes communes s'étend sur l'Armorique, l'ensemble du bassin de la Loire, le Massif central (sauf les départements de Loire, Rhône, Saône-et-Loire), le Nord de l'Aquitaine, les Alpes, la presque totalité des pays méditerranéens (sauf Hérault et Aude).Entre les deux secteurs, le passage est souvent brutal. Il y a bien une limite nette, et non une zone de transition où les deux types de communes se mélangeraient.
+De même il montre que l’axiome selon lequel la commune actuelle succède exactement à la paroisse d'autrefois n’est souvent pas confirmé. Cette assertion serait surtout valable pour la zone des petites communes, où la Normandie, par exemple, compte 4 295 paroisses au XIVe siècle, 4 297 au XVIIIe siècle, 4 102 communes en l'an II, 4 407 en 1945. Mais ce n’est pas le cas pour la zone des grandes communes : dans le Pays basque, on constate une réduction très sensible du nombre des communes par rapport à celui des anciennes paroisses. Dans l'ancien arrondissement de Rodez, 82 communes correspondent aux territoires de 155 paroisses de l'Ancien Régime ; certaines communes couvrent l'emplacement de 3, 5, et même 7 anciennes paroisses.
+Au cours des années 1960, la carte des communes est principalement utilisée à fin de preuve de l’inadaptation de la trame municipale française. Sa présentation doit rendre tangible le caractère du maillage désormais inadapté à la répartition du peuplement (quantité d’unités très faiblement peuplées alors que les agglomérations urbaines continues correspondent à plusieurs territoires communaux), donc aux nouvelles missions municipales. Elle est alors sans cesse comparée, opposée au dessin aéré produit par les trames étrangères. Ses tracés fins et complexes la discréditent.
+À partir du milieu des années 1970, l’usage de cette même image s’inverse. Cette inversion a été rendue possible, ou au moins très favorisée, par le développement d’un nouvel état d’esprit. Les valeurs de référence changent ; c’est le temps où l’on découvre que « small is beautiful », et des propos tenus au plus haut niveau de la hiérarchie consacrent ce revirement. C’est aussi une période marquée par l'affirmation du sentiment d’appartenance locale, par le renforcement de l'attachement au territoire à toutes les échelles, mais prioritairement aux échelles locales.
+Puis, c’est avec la diffusion de la crise, le temps du repli sur soi. Désormais, ancienneté de la trame se lit patrimoine, qui, à son tour, signifie : solidité, maintien, résistance, autonomie locale. Finesse du maillage devient synonyme d’échelle humaine. Le nombre élevé des communes n’est plus un archaïsme, mais une richesse, l’instrument incomparable de la diffusion des responsabilités locales. Quant aux effectifs restreints de population de la majeure part des communes, ils sont perçus comme les conditions favorables, voire les garanties, d’une démocratie véritable. Des agglomérations multicommunales, il n’est plus question.
+Cette approche va changer dans les années 1990, avec l'évidente nécessité de procéder à des regroupements intercommunaux.
+
+
+=== Approche par géosystèmes ===
+En 2000, Simon Edelblutte, étudiant l’évolution du maillage communal depuis 1790, constate que les modifications, en réalité sont assez nombreuses et riches d’enseignements. Il y voit autant d’adaptations d’un cadre administratif réputé figé à l’évolution permanente de l’organisation spatiale, et surtout à la naissance et au déclin de géosystèmes successifs. Terme fréquemment utilisé en géographie physique pour désigner des systèmes produits par l’action conjuguée du relief, du climat et des sols, le géosystème est un espace cohérent aux éléments constitutifs interdépendants et aux liens étroits, s’inscrivant dans le paysage. Cette approche par géosystèmes permet de mieux cerner les ensembles industriels nés autour des usines au XIXe siècle ou d’autres ensembles plus vastes, construits autour des agglomérations urbaines actuelles.
+
+
+=== Le morcellement communal est-il une exception française ? ===
+La France est régulièrement considérée comme le pays de l’émiettement territorial par excellence, au sein de l’Union Européenne, voire de l’Europe dans son ensemble. Cette exception française est reprise régulièrement dans les publications, mettant en avant, par pays, les moyennes globales de population et superficie des unités administratives locales (LAU2). Mais la France est loin d’être le seul pays d’Europe à compter un maillage morcelé et des entités très peu peuplées.
+
+
+==== Comparaison des moyennes nationales ====
+Le tableau ci-après présente un état des lieux en 2011 des unités administratives de base dans les pays d’Europe, avec quelques éléments de comparaison. Au premier abord et au regard de ces chiffres nationaux, il convient donc de relativiser le caractère exceptionnel de la situation française, même s’il est vrai que seule une minorité de pays se situe dans les moyennes les plus faibles pour les deux indicateurs retenus (population et superficie).
+
+
+==== Un succès limité des autorités françaises dans la réduction du maillage ====
+Il est par contre certain que la France n'a pas vraiment réussi à réduire ce maillage par rapport à la plupart des pays européens qui ont, au cours des années 1970, réduit, de manière souvent significative, le nombre de leurs communes.
+
+
+== Typologies communales ==
+
+
+=== Typologies géographiques ===
+
+
+==== Communes classées en zone montagne ====
+En France, deux délimitations officielles et administratives des montagnes se superposent. Les zones dites de montagne d'une part (elles relèvent d’une approche sectorielle dédiée en priorité à l’agriculture au titre de la reconnaissance et de la compensation des handicaps naturels) et d’autre part des massifs construits pour promouvoir l’auto-développement des territoires de montagne. La zone de montagne se caractérise par des handicaps liés à l’altitude, à la pente, et/ou au climat, qui ont pour effet de restreindre de façon conséquente les possibilités d’utilisation des terres et d’augmenter de manière générale le coût de tous les travaux. Ce classement sert notamment au calcul de la dotation globale de fonctionnement des communes par la DGCL,.
+
+
+==== Communes classées en massifs ====
+Le massif englobe, non seulement les zones de montagne, mais aussi les zones qui leur sont immédiatement contigües : piémonts, voire plaines si ces dernières assurent la continuité du massif. La notion de massif est une approche uniquement française, permettant d'avoir une entité administrative compétente pour mener à bien la politique de la montagne, mais est à différencier de la notion de montagne. Il existe six massifs en France métropolitaine.
+
+Trois massifs ont été définis dans les DOM : Guadeloupe, Martinique et Hauts de la Réunion.
+
+
+==== Communes catégorisées selon une approche socio-économique des massifs ====
+Une typologie des campagnes françaises a été réalisée en 2011, à la demande de la Datar, par un groupement de laboratoires de recherche, afin de prendre en compte les évolutions socio-économiques du territoire. L'étude a aussi permis de dresser des typologies pour les espaces à enjeux spécifiques que sont la montagne et le littoral.
+La typologie de la montagne concerne les six massifs de France métropolitaine délimités par la loi montagne : les Alpes, le Jura, le Massif central, la Corse, les Pyrénées et les Vosges. Quatre groupes ont été identifiés :
+
+
+==== Communes classées au titre de la loi littoral ====
+La prise de conscience de l'importance économique du littoral et des multiples convoitises dont il fait l'objet a rendu indispensable l'intervention d'une norme de valeur juridique supérieure chargée d'arbitrer entre les multiples utilisations du littoral. C'est l'objet de la loi 3 janvier 1986, dite « loi littoral », qui s'applique aux côtes métropolitaines et d'outre-mer, aux étangs salés et aux plans d'eau intérieurs de plus de 1 000 hectares. Elle vise à préserver les espaces rares et sensibles, gérer de façon économe la consommation d'espace par l'urbanisation et les aménagements touristiques notamment, ouvrir plus largement le rivage au public, comme les plages, afin d'accueillir en priorité sur le littoral les activités dont le développement est lié à la mer.
+
+
+==== Communes dans la frange littorale ====
+L'étude de 2013 dressait des typologies pour les espaces à enjeux spécifiques que sont la montagne mais aussi le littoral. La typologie du littoral a été établie en prenant en compte les communes situées à moins d’une heure de voiture de la côte où vivent 19 millions d'habitants. Elle fait apparaître des différences notables entre la façade atlantique et la façade méditerranéenne. Une transposition sur la géographie communale 2020 a été faite par l’observatoire des territoires. Dans le cas de fusion de communes de classe identique, la nouvelle commune reprend cette classe. Dans le cas de fusion de communes de classes différentes, la nouvelle commune est exclue de la typologie. Quatre groupes ont ainsi été identifiés :
+
+
+=== Typologies urbanistiques ===
+Plusieurs approches peuvent permettre de catégoriser les communes : morphologique (unités urbaines ou densités de population), fonctionnelle (aires urbaines) ou par croisement des deux.
+
+
+==== Communes urbaines et rurales : typologie morphologique selon la continuité du bâti ====
+La notion d'unité urbaine repose sur la continuité du bâti et le nombre d'habitants. On appelle unité urbaine une commune ou un ensemble de communes présentant une zone de bâti continu (pas de coupure de plus de 200 mètres entre deux constructions) qui compte au moins 2 000 habitants. Les communes rurales sont, d’après les définitions diffusées sur le site insee.fr, les communes qui n’appartiennent pas à une unité urbaine. Il s’agit donc d’une définition « par défaut » de la ruralité. Plus précisément, les communes rurales correspondent aux communes sans zone de bâti continu de 2 000 habitants ou plus, et celles dont moins de la moitié de la population municipale est dans une zone de bâti continu.
+
+Selon le nouveau zonage de 2010, l'Insee a délimité 2 293 unités urbaines en France, dont 60 dans les départements d'outre-mer (en incluant Mayotte). Selon cette définition, 23 % de la population de France métropolitaine habite en 2015 dans une commune rurale.
+
+
+==== Typologie morphologique selon la densité de population ====
+L’Insee évalue la densité de population des communes en s’appuyant sur la distribution de la population à l’intérieur de la commune en découpant le territoire en carreaux de 1 kilomètre de côté. Elle repère ainsi des zones agglomérées. C’est l’importance de ces zones agglomérées au sein des communes qui permet de les caractériser (et non la densité communale habituelle correspondant à la simple division de la population par la superficie). Quatre catégories de communes sont ainsi définies,, :
+
+
+==== Typologie fonctionnelle selon l'influence des villes : le zonage en aires urbaines ====
+Une autre approche consiste à évaluer l’influence des villes au-delà de leurs limites physiques définies par la continuité du bâti. C’est ce que l’Insee fait avec les aires urbaines qui sont des ensembles de communes, chacun d'un seul tenant et sans enclave, constitué par un pôle urbain (unité urbaine) de plus de 10 000 emplois, et par des communes rurales ou unités urbaines dont au moins 40 % de la population résidente ayant un emploi travaille dans le pôle ou dans des communes attirées par celui-ci (couronne périurbaine).
+
+Il convient toutefois de noter que, si le nouveau zonage de 2010 a affiné la notion de pôle urbain en distinguant les pôles « grands » (plus de 10 000 emplois), « moyens » (entre 5 000 et 10 000 emplois), et « petits » (entre 1 500 et 5 000 emplois), elle a surtout conduit à la disparition complète, du point de vue statistique, des espaces à dominante rurale. Dans un rapport d'information de janvier 2020, le sénat souligne que l'approche par bassins de vie et par la grille de densité est plus respectueuse de la réalité de la ruralité.
+
+
+==== Typologie croisée morphologique et fonctionnelle ====
+Pour mieux décrire le système éducatif français, en particulier les conditions de scolarisation, mais aussi les parcours des élèves, le Ministère de l’Education a élaboré une grille croisant les approches morphologiques et fonctionnelles et permettant de distinguer plusieurs types de communes rurales et urbaines. Neuf catégories sont ainsi définies : quatre caractérisant les communes rurales et cinq décrivant les communes urbaines. La carte ci-contre présente les résultats.
+
+
+=== Typologies environnementales ===
+
+
+==== Énergie et communes en transition ====
+Les communes, à travers l'aménagement du territoire, l'éclairage public, et leurs incitations à mieux construire, se déplacer et consommer ont un rôle important en matière de gestion et économie de l'énergie. En France, dans les années 2000, les bâtiments que les communes doivent entretenir, chauffer, éclairer, etc. représentent 75 % de la consommation d’énergie des communes (21 milliards de kWh en 2005). L’éclairage public et la signalisation viennent juste derrière. 4 % (en moyenne) du budget de fonctionnement des communes sont des dépenses en gaz, fioul et électricité.
+En 2005, 1,5 milliard d’euros ont été dépensés pour éclairer (éclairage public principalement), chauffer et alimenter les matériels électriques du patrimoine communal, c'est 26 % de plus qu'en 2000, alors que l’accroissement des consommations s’élevait à 7,3 %.
+L'éclairage public et les véhicules des collectivités (dont intercommunalités, départements et régions) ont nécessité environ 50 €/an par habitant. En 2009, le parc bâti devant être entretenu par les collectivités était de plus de 280 millions de m², avec une forte prépondérance des bâtiments scolaires au sein de ce patrimoine. Ces derniers comptent pour 149,2 millions de m² (53 % du parc des collectivités), alors que les équipements de sports, loisirs et culture comptent pour 16 % et ceux de l’action sociale pour 13 %. Les locaux (bureaux, salles de mairies, etc.) même des collectivités ne comptent que pour 10 %. Par contre pour ce qui est de la consommation d'énergie par mètre carré, ce sont les équipements sportifs, culturels et de loisirs (308 kWh/m2, soit 28 %) et les maisons de retraite (242 kWh/m2, soit 22 % du total des dépenses énergétique des collectivités) qui consomment le plus, devant les bâtiments scolaires (145 kWh/m2, 13 %), les bureaux des collectivités (193 kWh/m2, 17 %) et l'action sociale (227 kWh/m2, 20 %). Les communes jouent en outre un rôle d'exemple pour les habitants.
+Elles doivent décliner à leur échelle au Facteur 4 (réduction par 4 des émissions de gaz à effet de serre avant 2050) et à l'objectif intermédiaire de la loi Grenelle I du « 3 fois 20 » :
+
+- 20 % d'émissions de CO2 (rapport à 1990 et avant 2020) ;
+20 % d’économies d’énergie ;
+20 % d’énergies renouvelables.
+
+
+==== Territoires à énergie positive ====
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+André Payan-Passeron, La bataille de Lorraine d'août et septembre 1914 : analyse stratégique et détaillée, Paris, Éditions L'Harmattan, décembre 2021, 424 p., 21 × 30 cm  (ISBN 978-2-343-25132-5) (présentation en ligne [archive], écouter en ligne [archive])
+Christophe Brun, « Comment l'usage de la mesure de la superficie de la France s'est-il imposé au XVIIIe siècle ? Quelques remarques. », Histoire & Mesure, vol. 8, nos 3-4,‎ 1993, p. 417-440 (lire en ligne)
+Claude Motte, Isabelle Séguy & Christine Théré, avec la collaboration de Dominique Tixier-Basse, Communes d'hier, communes d'aujourd'hui - Les communes de la France métropolitaine, 1801-2001. Dictionnaire d'histoire administrative, Paris, Institut National d'Études Démographiques, 2003, 408 p. (ISBN 978-2-7332-1028-4)
+Maud Bazoche, Commune ou ville intercommunale ? De Condorcet à Nicolas Sarkozy 1793 - 2009, éditions L'Harmattan, février 2010.
+Maud Bazoche, « De la commune à l'intercommunalité en France métropolitaine. L'état des lieux - Printemps 2013 », éditions L'Harmattan, juillet 2013.
+Achille Luchaire, Louis Halphen, Les communes françaises à l'époque des Capétiens directs, Librairie Hachette et Cie, Paris, 1911 (lire en ligne)
+Valère Staraselski, Une histoire française, éditions du cherche midi, 2006  (ISBN 978-2-7491-0811-7) et Monsieur le député, éditions Le cherche midi, 2002  (ISBN 2-74910-003-8).
+Jean-Pierre Muret et Pascal Nicolle, Comprendre la vie municipale, Victoire éditions, février 2014.
+Jean-Baptiste Grison, Les très petites communes en France, héritage sans avenir ou modèle original ?, Clermont-Ferrand, Presses universitaires Blaise-Pascal, 2012.
+Marie-Christine Steckel-Assouère, (dir.), Regards croisés sur les mutations de l'intercommunalité, Éditions L'Harmattan, coll. « GRALE », avril 2014, 484 p.  (ISBN 978-2-343-03033-3).
+Virginie Donier, Droit des collectivités territoriales, Paris, Dalloz, avril 2014, 190 p. (ISBN 978-2-247-10592-2)
+Bertrand Faure, Droit des collectivités territoriales, Paris, Dalloz, 2018, 802 p. (ISBN 978-2-247-17986-2)
+
+
+=== Articles connexes ===
+Bataille de Lorraine (1914) - Le 11 août 1914 à Lagarde : première défaite française en Lorraine.
+Nombre de communes en France
+Section de commune
+Élection municipale française
+Finances locales en France
+Biens communaux
+Espace urbain • Aire urbaine (France) • Unité urbaine
+Intercommunalité
+Ville nouvelle • Politique des villes nouvelles françaises • syndicat d'agglomération nouvelle
+
+
+=== Liens externes ===
+
+Le Code officiel géographique - édition 2018 sur le site de l'Insee
+Les comptes des communes de 2000 à 2013 sur le portail de l’État au service des collectivités
+Loi du 14 décembre 1789 relative à l’organisation des communes du royaume de France
+ Portail des communes de France

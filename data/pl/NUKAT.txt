@@ -1,0 +1,62 @@
+Narodowy Uniwersalny Katalog Centralny, NUKAT – katalog centralny części polskich bibliotek naukowych i akademickich. Uruchomiony w 2002 roku. Znajdują się w nim opisy różnego typu publikacji: książek, czasopism, nagrań dźwiękowych, druków muzycznych, filmów, dokumentów kartograficznych, ikonograficznych czy dokumentów życia społecznego. Obecnie obejmuje zbiory 185 bibliotek (stan na 25.10.2022). Prowadzona jest również retrokonwersja opisów dokumentów wydanych przed 2002 rokiem. Serwis był notowany w rankingu Alexa na miejscu 1 097 878 (stan na 21 grudnia 2021).
+
+
+== Historia ==
+Od 1996 roku w Bibliotece Uniwersyteckiej w Warszawie (BUW) działało Centrum Formatów i Kartotek Haseł Wzorcowych (CFiKHW), oddział nadzorujący prace nad centralną kartoteką haseł wzorcowych (CKHW), rozpoczęte w BUW w 1991 roku. W 2001 roku CFiKHW przekształcono w Centrum NUKAT i rozpoczęto przygotowania do uruchomienia współkatalogowania w jednej bazie katalogowej. Pierwszy rekord wprowadzono do bazy centralnej 5 lipca 2002 roku, a 21 października tego samego roku nastąpiło oficjalne otwarcie Narodowego Uniwersalnego Katalogu Centralnego NUKAT w Bibliotece Uniwersyteckiej w Warszawie. W bibliotece NUKAT znalazły się zbiory z 32 biblioteki. 
+W 2005 roku została podpisana umowa z OCLC (Online Computer Library Center) o przekazywaniu opisów z bazy NUKAT do katalogu WorldCat. Biblioteka Narodowa rozpoczęła współkatalogowanie, które trwało do 2008 roku, a w katalogu centralnym NUKAT znalazły się zbiory 58 bibliotek. 
+W latach 2009–2013 realizowany był projekt POPC (Program Operacyjny Polska Cyfrowa) „Autostrada informacji cyfrowej”. Baza NUKAT została scalona o katalogi lokalne 30 bibliotek (łącznie 292 tys. rekordów bibliograficznych). W  2017 roku w bazie znalazł się opisy z 157 bibliotek, a rok później było ich 168. Retrokonwersja rekordów nadal trwa. Od stycznia 2018 rekordy bibliograficzne są budowane według zasad RDA (Resource Description and Access). 
+Z katalogiem NUKAT współpracują największe ośrodki naukowe oraz wiodące w swoich dziedzinach instytucje specjalistyczne. Wśród nich znajdują się biblioteki uczelni wyższych, biblioteki jednostek Polskiej Akademii Nauk (w tym stacji badawczych PAN w Paryżu, Rzymie, Wiedniu), biblioteki jednostek badawczo-rozwojowych, biblioteki wojewódzkie i pedagogiczne.
+Kierownikiem CFiKHW, a następnie Centrum NUKAT w latach 1996-2014 była Maria Burchard. Jej następcą w 2015 została Ewa Kobierska-Maciuszko, wcześniej dyrektor BUW.
+
+
+== Zasada działania ==
+Katalog centralny NUKAT jest źródłem gotowych rekordów bibliograficznych i wzorcowych dla bibliotek. Dzięki temu możliwe jest przyspieszenie bieżących prac katalogowych oraz retrokonwersji. Zawartość katalogu NUKAT jest budowana przez pracowników bibliotek współtworzących tę bazę. Jeżeli potrzebny opis znajduje się w katalogu NUKAT, bibliotekarz pobiera go wraz z kompletem rekordów haseł wzorcowych do swojej bazy lokalnej, co jest odnotowywane w rekordzie bibliograficznym. W przypadku braku opisu bibliotekarz buduje opis w bazie centralnej i po jego pojawieniu się w katalogu NUKAT pobiera go do swojej bazy lokalnej. Efektem tych działań jest zintegrowana informacja o zasobach bibliotek naukowych i akademickich, które wyraziły chęć uczestniczenia w projekcie.
+Spójność danych w katalogu zapewnia Centralna Kartoteka Haseł Wzorcowych, która gwarantuje poprawność i jednolitość terminów stosowanych w opisach dokumentów. Przykładowo, dzięki kartotece wszystkie dzieła danego autora zebrane są pod jedną ujednoliconą formą hasła, nawet gdy autor używał wielu nazw (nazwisko, pseudonim, inicjały). 
+Do opracowania rzeczowego zbiorów w katalogu NUKAT wykorzystywane są 3 języki informacyjno-wyszukiwawcze: język haseł przedmiotowych KABA (jhp KABA), Medical Subject Headings (MeSH) oraz język haseł przedmiotowych Biblioteki Narodowej (jhp BN), będący w trakcie przekształceń w język deskryptorowy (DBN – Deskryptory Biblioteki Narodowej). Użytkownicy katalogu NUKAT w jednym punkcie dostępu otrzymują informację o rozproszonych zasobach bibliotek naukowych i akademickich.
+Dzięki stosowaniu międzynarodowych norm i standardów możliwa jest również wymiana i publikacja danych bibliograficznych i wzorcowych na poziomie ponadkrajowym. Informacja o zbiorach polskich bibliotek naukowych i akademickich jest dostępna w światowym katalogu WorldCat (od 2005 roku), a od 2019 roku również w Karlsruher Virtuelle Katalog (KVK). Z kolei dane wzorcowe znajdują się w międzynarodowej kartotece haseł wzorcowych VIAF (od 2009 roku).
+
+
+== Zakres współpracy ==
+Z katalogiem centralnym NUKAT mogą współpracować biblioteki akademickie, uczelnie wyższej lub naukowe (w rozumieniu Dz.U. z 2012 r. poz. 390), a także biblioteki, które używają zintegrowanego systemu bibliotecznego, obsługującego format MARC21. Bibliotekarze współpracujący z NUKAT mają stałą możliwość dokonywania korekt i uzupełnień w rekordach bazy NUKAT. Współpraca przebiega na dwa sposoby:
+
+współpraca bierna: w przypadku, gdy bibliotekarz potrzebuje opisu, który już znajduje się w katalogu, pobiera go wraz z kompletem rekordów haseł wzorcowych do swojej bazy lokalnej;
+współpraca czynna: w przypadku braku opisu w katalogu NUKAT to bibliotekarz przygotowuje opis pobiera go do swojej bazy lokalnej, gdy zostanie on dodany do bazy NUKAT. Opis pozostaje w katalogu i może być wykorzystywany ponownie.
+
+
+== Struktura Centrum katalogu NUKAT ==
+Ośrodek Kontroli Rekordów Bibliograficznych – zajmuje się kontrolą wprowadzanych i modyfikowanych rekordów bibliograficznych.
+Ośrodek Kontroli Rekordów Kartoteki Haseł Wzorcowych – zajmuje się kontrolą rekordów khw formalnych i przedmiotowych wprowadzanych do bazy NUKAT.
+Ośrodek Obsługi Informatycznej – obsługuje informatyczne bazy NUKAT oraz sprawuje nadzór nad infrastrukturą i oprogramowaniem. Celem jest optymalizacja działania katalogu NUKAT za pomocą metod informatycznych, a do zadań pracowników ośrodka należą prace projektowo-programistyczne i ich dokumentacja. Ośrodek zajmuje się także bieżącą kontrolą bezpieczeństwa serwera oraz stałą kontrolą zasobów systemowych i dostępu do nich.
+Ośrodek Koordynacji – kontroluje przepływ rekordów w katalogu centralnym i spójność bazy NUKAT. Do obowiązku Ośrodka Koordynacji należy również wdrażanie zmian we współkatalogowaniu, które wynikają ze zmian w normach i przepisach katalogowania. Zajmuje się również kontaktem z bibliotekarzami systemowymi z bibliotek współpracujących i organizuje szkolenia oraz warsztaty. Pracownicy tego działu redagują i aktualizują strony www Centrum NUKAT oraz interfejsu katalogu NUKAT.
+
+
+== Biblioteki współpracujące z katalogiem NUKAT ==
+Lista bibliotek, które wprowadziły powyżej 90 000 rekordów bibliotecznych (stan na 13.11.2018).
+
+Biblioteka Jagiellońska i Biblioteka Medyczna Collegium Medicum UJ – 581 736 rekordów.
+Biblioteka Uniwersytecka w Warszawie – 531 271 rekordów.
+Biblioteka Uniwersytecka w Toruniu – 205 188 rekordów.
+Biblioteka Uniwersytetu Łódzkiego – 187 015 rekordów.
+Biblioteka Główna Uniwersytetu Gdańskiego – 169 281 rekordów.
+Biblioteka Uniwersytecka we Wrocławiu – 150 893 rekordów.
+Biblioteka Uniwersytetu Śląskiego –119 465 rekordów.
+Biblioteka Uniwersytecka w Poznaniu – 114 752 rekordów.
+Biblioteka Katolickiego Uniwersytetu Lubelskiego – 95 431 rekordów.
+Biblioteka Uniwersytetu Warmińsko-Mazurskiego w Olsztynie – 94 982 rekordów.
+Biblioteka Publiczna m.st. Warszawy - Biblioteka Główna Województwa Mazowieckiego – 93 561 rekordów.
+
+
+== Zobacz też ==
+KaRo (Katalog Rozproszony Bibliotek Polskich)
+OCLC
+VIAF
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+Katalog NUKAT
+Centrum NUKAT
+Lista bibliotek współpracujących z NUKAT
+Lista publikacji o NUKAT

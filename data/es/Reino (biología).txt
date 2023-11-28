@@ -1,0 +1,95 @@
+En el ámbito de la biología, un reino representa cada una de las grandes subdivisiones taxonómicas en las que se clasifican los seres vivos respecto a su parentesco evolutivo. Reino es el segundo nivel de clasificación por debajo de dominio y por encima de filo y, al igual que el resto de grupos taxonómicos, su ortografía y pronunciación es latina. Históricamente, los primeros reinos que se establecieron para clasificar la naturaleza fueron el animal, el vegetal y el mineral, pero con el advenimiento del estudio biológico se popularizó el sistema de los cinco reinos de la vida (Animalia, Plantae, Fungi, Protista y Monera), clasificados más por sus apariencias que por su verdadera relación evolutiva.
+Sin embargo, en la actualidad la clasificación de los reinos está siendo redefinida para que represente en mayor medida la filogenia de cada grupo. Por un lado, el reino Protista es una clasificación parafilética, donde algunos de sus filos tienen tantas diferencias entre sí como estos con Animalia, Plantae o Fungi. Por ello, y para facilitar su estudio, cada vez es más común que Protista se encuentre dividido entre los reinos Chromista y Protozoa.
+Por otro lado, Monera es un término en desuso que incluía dos grupos bien diferenciados: los actuales dominios Archaea y Bacteria donde, además, Archaea estaría ligeramente más relacionado con Eukarya. Este esquema fue propuesto por Woese en 1977 al notar las grandes diferencias que a nivel de la genética ribosómica presentan arqueas y bacterias, a pesar de que ambos grupos están compuestos por organismos con células procariotas.[1]​[2]​
+La clasificación taxonómica de reino no se utiliza para la catalogación de procariotas (Archaea y Bacteria), en donde únicamente se utiliza la agrupación en dominios. Por ello, en la actualidad, el sistema de reinos queda restringido a los organismos eucariotas, esto es, animales, plantas, hongos, protozoos y algas.[3]​
+
+
+== Historia ==
+
+
+=== Sistema de dos reinos ===
+Históricamente, la primera organización en reinos se debe a Aristóteles (siglo IV a. C.), que diferenció todas las entidades vivas de la naturaleza en dos reinos: vegetal y animal. El primero caracterizado por tener "alma vegetativa" que le da reproducción, crecimiento y nutrición. El segundo tiene adicionalmente "alma sensitiva" que le da además de lo anterior movimiento, percepción y deseo. Aristóteles sentó las bases del conocimiento sistemático, pues dividió al reino animal en dos géneros máximos: anaima para los animales sin sangre (invertebrados) y enaima los animales con sangre (vertebrados); y estos a su vez se dividían en géneros y especies.[4]​
+Carlos Linneo[5]​ también distinguió estos dos reinos de seres vivos y además trató a los minerales, colocándolos en un tercer reino, Lapides. Además, introdujo la nomenclatura binomial para referir a las especies y dividió los reinos en clases, las clases en órdenes, los órdenes en familias, las familias en géneros y los géneros en especies (la división de los reinos en filos se introdujo posteriormente).
+Posteriormente, con la invención de la microscopía apareció un nuevo mundo de investigación biológica que cambiaría el concepto sobre los reinos. En la siguiente tabla se presenta una comparación de los sistemas de clasificación en reinos biológicos más notables:
+
+
+=== Tres reinos ===
+En 1858, Richard Owen observó la dificultad de clasificar los seres microbianos en animales y vegetales, por lo que propuso crear el reino Protozoa[14]​ y los definió como los seres en su mayoría diminutos formados por células nucleadas.
+En 1860 el biólogo inglés John Hogg, postula el tercer Regnium primigenium o Protoctista para los protozoos, protófitos y formas simples, como la esponja verde dulceacuícola Spongilla que en realidad es simbionte con algas verdes.[15]​ Hogg en realidad hablaba de cuatro reinos: animal, vegetal, primigenio y mineral. Las ideas de Hogg fueron eclipsadas por Ernst Haeckel, quien es considerado fundador de la protistología.
+Haeckel en 1866[6]​ llamó al tercer reino Protista y lo definió como el "primordial", el reino de las formas primitivas e intermedio entre los reinos Animal y Plantae. Reconoció lo problemático de su clasificación por la presencia de caracteres animales, vegetales y mixtos, pero necesario para propósitos sistemáticos, antes que filogenéticos. Dentro de protista colocó a las bacterias en el filo Moneres. Fue el primero en distinguir entre organismos unicelulares (protistas) y pluricelulares (plantas y animales). En sucesivas publicaciones, Haeckel hizo correcciones a sus clasificaciones: por ejemplo movió las esponjas del reino protista al animal, a los hongos del reino planta al protista, a las algas verdeazuladas del reino planta al protista junto con las bacterias, Labyrinthulomycetes de animal a protista y los volvocales de protista a planta.[16]​
+
+
+=== Cuatro reinos ===
+El concepto del tercer reino fue puesto en duda por Otto Bütschli en los años 1880, pues se consideró a Protista como polifilético, especialmente por la inclusión de las bacterias. Poco a poco se puso de manifiesto la importancia de la distinción entre procariotas y eucariotas propuesta de Edouard Chatton[7]​ de 1925-1937 y se popularizó en los años 1950.
+Herbert Copeland en sus publicaciones de 1938, 1947 y 1956, separa los protistas nucleados de las bacterias anucleadas en el sistema de cuatro reinos siguiente: Plantae (o Metaphyta), Animalia (o Metazoa), Protoctista (o Protista) y Mychota (o Monera) para las bacterias.[17]​
+En 1948, los editores del Manual de Bacteriología Determinativa de Bergey sugirieron llamar al nuevo reino Protophyta, para incluir tanto a bacterias como a virus.[18]​
+
+
+=== Cinco reinos ===
+Robert Whittaker reconoce el reino adicional de los hongos (Fungi) en 1959.[19]​ El resultado fue el sistema de los 5 reinos, propuesto en 1969,[9]​ que se convirtió en un estándar muy popular y que, con algunas modificaciones, aún hoy se utiliza en muchas obras o constituye la base para nuevos sistemas propuestos. Se basa principalmente en las diferencias en materia de nutrición: Plantae son en su mayoría pluricelulares autótrofos, Animalia pluricelulares heterótrofos y Fungi pluricelulares saprofitos. Los otros dos reinos, Protista (eucariotas) y Monera (procariotas), incluyen organismos unicelulares o coloniales.
+Ante la posibilidad de que algunos de estos reinos pudieran no ser monofiléticos, Whittaker argüia: "La monofilia es un valor primordial en sistemática, pero al igual que otros valores, no es absoluto y no siempre se debe seguir si se sacrifican otros objetivos".[9]​
+Otros trabajos han apoyado este sistema de cinco reinos, como el de Margulis (1974)[20]​ y Margulis & Schwartz (1998),[21]​ quienes usaron el término original de Hogg Protoctista.
+
+
+=== Sistemas multirreinos ===
+Desde que Haeckel propuso el reino Protista, muchos biólogos consideraron que este grupo era excesivamente polifilético o parafilético y que debía subdividirse en varios reinos monofiléticos. Hennig en 1950 propuso su teoría de la sistemática filogenética (posteriormente denominada cladista), que introducía explícitamente el concepto de evolución en sistemática por grupos monofiléticos, (tal como postulaba Darwin).
+Uno de estos sistemas fue el de G. F. Leedale, que en 1974 propuso 19 reinos: Monera, Rhodophyta, Plantae, Heterokonta, Eustigmatophyta, Haptophyta, Cryptophyta, Dinophyta, Euglenophyta, Chytridiomycota, Fungi, Myxomycota, Zoomastigota (zooflagelados), Sarcodinia, Ciliophora, Sporozoa, Animalia, Porifera y Mesozoa.[22]​ Sin embargo, muchos de estos clados han sido reagrupados o superados por el estudio filogenético protista en continua actualización.
+Se han propuesto otros sistemas. El más grande es probablemente el de A.L. Drozdov (2003),[23]​ quien propuso 26 reinos.
+
+
+=== Seis reinos ===
+
+En los años 1980 se produjo un gran avance en filogenia procariota gracias al advenimiento del análisis genético. Sobre la base de estudios de ARNr (más específicamente ADN que codifica para el ARN ribosomal 16S procariota y 18S eucariota), Carl Woese y G. Fox dividieron en 1977 a los procariotas o moneras en dos superreinos: Eubacteria y Archaebacteria.[1]​ En 1990, Woese renombró los nuevos grupos por lo que postuló el sistema de tres dominios formado por Bacteria, Archaea  y Eucarya.[2]​ Este sistema es el más aceptado actualmente para la clasificación de los seres vivos y se opone al sistema de dos imperios.
+Estos dos grupos procariotas Archaea (o Archaebacteria) y Bacteria (o Eubacteria), son considerados por otros autores como reinos junto con plantas, animales, hongos y protistas, lo que constituye el sistema de seis reinos, sistema que se ha convertido en estándar en muchas obras[25]​ y libros educativos.[26]​ Los seis reinos son atribuidos a Woese,[27]​ pero en realidad por una tangencial interpretación, ya que él hablaba en realidad de tres reinos primarios o superreinos (Woese 1977). Archaea y Bacteria están considerados como dominios o superreinos pero su trato también es de reino, pues se subdividen siempre en filos. Los Archaebacteria y los Bacteria anteriormente eran catalogados como organismos del reino Monera, pero en los años 70 y 80 se encontró una diferencia principalmente en la estructura de pared y membranas celulares lo cual hace que se divida el reino en 2 partes[28]​
+Los reinos[29]​ presentan las siguientes características:
+
+Bacteria: son procariontes que presentan una típica pared celular de peptidoglicano, pueden ser didérmicas (Gram negativas) o monodérmicas (Gram positivas). Son los seres más abundantes, con gran variedad de hábitats y metabolismos. Hay varios grupos fotosintéticos, pero la mayoría son aerobios que se alimentan de sustancias orgánicas (quimio-organo-heterótrofos). Pueden ser patógenas.
+Archaea: las arqueas son procariontes cuya pared celular no presenta peptidoglicano sino glicoproteínas u otros compuestos. Son monodérmicos pues presentan una sola membrana. Hay varios grupos hipertermófilos, termoacidófilos, hipersalinos y metanógenos. En su mayoría son anaerobios con metabolismo quimiosintético (quimiolitoautótrofo) y no son patógenas.
+Protista: son los eucariontes más simples, conforman un grupo constituido por protozoos, algas y mohos mucilaginosos. Son un grupo basal (parafilético) ya que de ellos derivan los reinos Plantae, Fungi y Animalia. Son mayormente unicelulares, con excepción de los mixomicetos, pseudohongos y algas feofíceas.
+Plantae: son los eucariontes fotosintéticos oxigénicos, con cloroplastos que presentan clorofila a y b. Son principalmente multicelulares y descendientes de Primoplantae, aunque la delimitación puede variar según los autores. Las paredes celulares y tejidos estructurales contienen celulosa. En la reproducción es común la alternancia haplo-diploide. Destacan las plantas terrestres.
+Fungi: son eucariontes heterótrofos, aerobios y osmótrofos, mayormente multicelulares cuyas paredes celulares contienen quitina. La reproducción es mediante esporas haploides. Destacan los hongos saprófitos.
+Animalia: son eucariontes heterótrofos, aerobios, fagótrofos y multicelulares de gran diferenciación tisular. Sus células son diploides y los gametos haploides. Presentan locomoción, desarrollo embrionario por blastulación y la proteína estructural es el colágeno. Es común un sistema nervioso para la función sensorial y motora de la contracción muscular.
+
+
+=== Siete reinos ===
+
+Desde entonces, se han propuesto multitud de nuevos reinos eucariotas, pero la mayoría fueron rápidamente invalidados, reclasificados a nivel de filos o clases o abandonados. El único que aún era mencionado por algunos autores ha sido el sistema de seis reinos de Cavalier-Smith,[11]​[12]​ que propone al reino Chromista para abarcar organismos tales como algas pardas, algas verde-amarillas, algas doradas, diatomeas, oomicetos y otros relacionados; y al reino Protozoa (de los protozoarios) como un grupo eucariota basal. Esta propuesta ha ido recibiendo atención paulatinamente, aunque la cuestión de las relaciones y división en grupos de los seres vivos sigue siendo todavía materia de discusión.
+La taxonomía más reciente (Sistema del Catálogo de la Vida 2015), busca establecer una clasificación manejable y práctica, por lo que los criterios evolutivos y filogenéticos son relativos, admitiéndose algunos grupos parafiléticos en determinados casos. Recoge parte de los postulados de Cavalier-Smith y presenta la siguiente clasificación en dos superreinos y siete reinos:[13]​
+
+I. Prokaryota
+1. Archaea
+2. Bacteria
+II. Eukaryota
+3. Protozoa
+4. Chromista
+5. Fungi
+6. Plantae
+7. AnimaliaEste sistema incluye dos nuevos reinos, los cuales pueden describirse como sigue:
+
+Protozoa: Grupo basal parafilético con las características eucariotas más primitivas. Suelen ser células desnudas (sin cubierta rígida), con movilidad, flagelados o con tendencias ameboides. Mayormente son unicelulares, salvo algunos grupos de mohos mucilaginosos y casi todos los grupos son heterótrofos alimentándose por fagocitosis.
+Chromista: Grupo eucariota filogenéticamente cercano a Plantae y constituido por organismos muy diversos, muchos de ellos fotosintéticos (algas) que contienen clorofila a y c. La mayoría son unicelulares, excepto los pseudohongos y las algas pardas. Suelen presentar rigidez debido a la presencia de pared celular o algún tipo de cubierta.
+
+
+== Otros niveles de clasificación ==
+
+Debido a la elevada variedad de la vida se han establecido numerosos niveles de clasificación denominados taxones. El nivel de reino era hasta hace poco el nivel superior de la clasificación biológica. En las clasificaciones modernas el nivel superior es el dominio, superreino o imperio; cada uno de los cuales se subdivide en reinos, los reinos, a su vez, pueden organizarse en filos, etc. Los niveles más importantes de la clasificación biológica se muestran a continuación:
+
+Superreino, dominio o imperio (Superregnum, Dominium, Imperium).
+Reino (Regnum)
+Subreino (Subregnum)
+Rama (Ramus)
+Infrarreino (Infraregnum)
+Filo (animales y otros) o División (plantas y hongos).
+Clase
+Orden
+Familia
+Género
+Especie
+
+
+== Véase también ==
+Taxonomía
+Sistemática
+
+
+== Referencias ==

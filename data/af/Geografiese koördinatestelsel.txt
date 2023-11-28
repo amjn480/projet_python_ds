@@ -1,0 +1,5 @@
+'n Geografiese koördinatestelsel help om alle posisies op aarde te spesifiseer deur hoofsaaklik van die sferiese koördinatestelsel gebruik te maak. Daar is drie koördinate: lengtegraade, breedtegraade en geodetiese hoogte.
+
+
+== Sien ook ==
+GPS, Globale Posisioneringstelsel.

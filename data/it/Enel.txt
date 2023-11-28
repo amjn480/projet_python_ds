@@ -1,0 +1,473 @@
+Enel S.p.A. (originariamente acronimo di Ente Nazionale per l'Energia Elettrica) è un'azienda multinazionale italiana dell’energia, tra i principali operatori integrati globali nei settori dell'energia elettrica e del gas. Istituita come ente pubblico a fine 1962, nel 1992 è stata trasformata in società per azioni e nel 1999, in seguito alla liberalizzazione del mercato dell'energia elettrica in Italia. Lo Stato italiano, tramite il Ministero dell'economia e delle finanze, ne rimane comunque il principale azionista, con il 23,6% del capitale sociale, al 31 dicembre 2020.Enel è la 90ª azienda al mondo per fatturato con 140,5 miliardi di euro e con una capitalizzazione di borsa di 54 miliardi di euro, è uno dei 10 principali titoli azionari sulla Borsa Italiana.
+La società è quotata nell'indice FTSE MIB della Borsa di Milano.
+
+
+== Storia ==
+
+
+=== 1898–1962: verso una politica nazionale dell'energia elettrica ===
+La produzione di energia elettrica in Italia nel 1898 era pari a 100 milioni di chilowattora ed è arrivata ad oltre 56 miliardi nel 1960. La gran parte della produzione di energia elettrica ha sfruttato le caratteristiche del territorio, ovvero le risorse idrogeologiche, ad opera di oltre 1200 aziende private locali o di ambito regionale o legate a soggetti industriali.Lo stato ha sovvenzionato la realizzazione di centrali elettriche e delle opere territoriali connesse al fine di incrementare la produzione di energia elettrica. Nell'ambito della distribuzione lo stato è intervenuto nel 1961 con l'unificazione delle tariffe su base nazionale per uguali classi di consumo (attraverso la cassa conguaglio per il settore elettrico) e ha imposto alle aziende elettriche l'allacciamento alla rete elettrica a chiunque ne facesse richiesta.Entro la fine degli anni venti si consolidarono alcuni gruppi oligopolistici, le cui capogruppo erano anche considerate capofila dei sei compartimenti: Edisonvolta, SIP, SADE, SME, La Centrale (in quanto controllante sia la SELT-Valdarno che la Romana).
+Nel 1962 è stato istituito l'Ente per l'energia elettrica con l'obiettivo di fare dell'energia elettrica uno strumento di sviluppo del paese e di definire una politica nazionale dell'energia elettrica, anche sulla base delle esperienze di altri paesi quali Francia e Gran Bretagna.
+
+
+=== 1962: istituzione dell'Ente nazionale per l'energia elettrica ===
+Agli inizi del 1962 il Governo Fanfani IV ha ricevuto la fiducia dal parlamento italiano e ha assunto l'impegno di proporre entro 3 mesi dalla fiducia un provvedimento di unificazione del sistema elettrico nazionale. Nella seduta della Camera dei deputati del 26 giugno 1962 è stato presentato il disegno di legge di una legge delega che ha sancito i princìpi e le modalità per l'istituzione dell'Ente nazionale per l'energia di lavoro (ENEL).
+L'ENEL nasce ufficialmente con la legge 6 dicembre 1962, n. 1643(pubblicata nella Gazzetta Ufficiale il 12 dicembre 1962).
+Enel ha acquisito tutte le attività delle aziende operanti nella produzione, trasformazione, trasmissione e distribuzione di energia elettrica, fatto salvo alcune eccezioni, quali gli autoproduttori ovvero aziende che producevano più del 70% di energia elettrica in funzione di altri processi produttivi (a cui successivamente furono equiparate anche le aziende municipalizzate), o le piccole aziende che non producevano più di 10 milioni di chilowattora per anno.A compensazione delle acquisizioni, sono state definite le modalità di valutazione del valore delle aziende ed è stato istituito un indennizzo da corrispondere in 10 anni ai creditori al tasso di interesse del 5,5%. Il 1962 è stato considerato un esercizio di transizione in cui tutti gli oneri ed i proventi delle aziende acquisite sono stati trasferiti ad Enel, mentre il 1963 ha segnato il primo anno di esercizio dell'azienda.Sull’onda di tali provvedimenti Giuseppe Medici, Ministro per l'industria e commercio, firma il 13 febbraio 1965 un decreto che sancisce l’incorporazione dell'Ente siciliano di elettricità, senza però prevedere alcun indennizzo per la Regione Siciliana, motivo per il quale il presidente Francesco Coniglio citerà in giudizio l’allora Presidente del Consiglio dei ministri Aldo Moro. La vicenda finirà in un nulla di fatto data la successiva rinunzia al ricorso del presidente siciliano. Le prime acquisizioni hanno interessato le seguenti aziende:
+SIP (Piemonte)
+Edison Volta (Lombardia)
+SADE (Veneto)
+SEEE (Emilia)
+OEG (Liguria)
+SELT-Valdarno (Toscana)
+SRE (Lazio)
+SME (Campania)
+SGES (Sicilia)
+SEC (Calabria)
+Carbosarda (Sardegna)
+
+
+=== 1963–1970: ammodernamento e sviluppo della rete ===
+I primi obiettivi di Enel sono stati l'ammodernamento e lo sviluppo della rete elettrica con la costruzione delle dorsali ad alta tensione, i collegamenti internazionali, i collegamenti con le isole, l'elettrificazione delle zone rurali e la realizzazione del centro nazionale di dispacciamento, finanziati anche tramite l'emissione, nel 1965, di obbligazioni garantite dallo stato per un valore di oltre 200 miliardi di lire.
+In questi anni si è anche finalizzata l'incorporazione di tutte quelle piccole imprese di generazione e distribuzione dell'energia elettrica che erano ancora sparse sul territorio nazionale e non erano rientrate nel novero di quelle prioritarie. Le acquisizioni avvenivano solitamente mediante decreti del Presidente della Repubblica.Nel 1967 la sorveglianza di Enel è passata dal Comitato dei Ministri al comitato interministeriale per la programmazione economica (CIPE) sempre di concerto con il Ministero dell'industria, del commercio e dell'artigianato. In questo periodo inoltre la produzione di energia termoelettrica ha superato per la prima volta quella idroelettrica.
+
+
+==== Centro nazionale di dispacciamento ====
+
+Nel 1963 è stato creato il Centro nazionale di dispacciamento di Roma al fine di gestire i flussi di energia sulla rete coordinando gli impianti di produzione, la rete di trasmissione, la distribuzione oltre che l'interconnessione del sistema elettrico italiano con l'estero, regolando istante per istante la produzione e la trasmissione di energia sulla base dell'effettiva richiesta.
+
+
+==== Elettrificazione rurale ====
+Nell'ambito dell'elettrificazione rural i nuclei abitati non collegati alla rete elettrica sono passati dall'1,27% del 1960 allo 0,46% del 1964, con oltre 320 000 nuovi abitanti collegati. Nel quinquennio 1966-1970 sono stati avviati ulteriori investimenti per l'elettrificazione rurale, a carico per l'80% dello Stato e per il 20% di Enel, complementati da tariffe agevolate come stimolo allo sviluppo agricolo.
+
+
+==== Rete ad alta tensione e collegamenti con le isole ====
+Nel 1968 sono iniziati i lavori (terminati nella prima metà degli anni '70) di realizzazione della linea a 380 kV di collegamento tra Firenze e Roma che unì il sistema elettrico ad alta tensione del Nord con quello del Centro Sud. Sono stati realizzati inoltre i collegamenti internazionali ad alta tensione con la Francia (linea 380 kV Venaus-Villarodin, 1969) e con la Svizzera.Negli stessi anni sono stati attivati i collegamenti elettrici con l'utilizzo di cavi sottomarini tra la penisola e l'Isola d'Elba (1966), l'Isola d'Ischia (1967) e la Sardegna, attraverso la Corsica (1967).
+
+
+==== Il disastro del Vajont ====
+
+L'Enel è stata coinvolta nel disastro del Vajont, accaduto il 9 ottobre 1963 al bacino del Vajont, invaso artificiale da poco costruito e che si intendeva sfruttare per produrre una grande quantità di energia idroelettrica, sulle cui acque è caduta una frana di 260 milioni di metri cubi. L'impianto era stato realizzato dalla Sade e il 14 marzo 1963 era stato appena conferito nell'ambito del processo di nazionalizzazione alla neonata Enel. L'impatto della frana nel lago ha provocato delle ondate, dentro e fuori la valle del Vajont, che hanno lambito i paesi di Erto e Casso e che hanno scavalcato la diga, distruggendo i paesi a valle di Longarone, Pirago, Rivalta, Villanova e Faè. Questo disastro ha causato circa duemila vittime. Enel è stata imputata al processo come società responsabile del disastro, aggravata dalla prevedibilità dell'evento. Nel 1964, anche la Montedison è stata coinvolta nel processo, avendo acquisito la SADE, costruttore dell'impianto. Le due società sono state condannate a risarcire i danni alle comunità coinvolte nella catastrofe.
+
+
+=== 1970–1980: crisi energetica e ricerca di nuove fonti ===
+
+Gli anni '70 sono stati caratterizzati da una forte crisi energetica, che nel 1975 portò l'Italia all'adozione di un drastico piano di austerity e alla definizione del primo piano energetico nazionale (PEN). Come obiettivo venne stabilita la costruzione di nuove centrali elettriche e la diversificazione delle fonti energetiche in modo da ridurre la dipendenza dagli idrocarburi mediante l'utilizzo di energia idroelettrica e geotermica, l'incremento dell'uso del carbone, l'incenerimento dei rifiuti e soprattutto il ricorso all'energia nucleare.Nel corso del decennio sono stati realizzati diversi impianti:
+Agli inizi degli anni '70 è stata avviata la costruzione della centrale nucleare di Caorso, quarto impianto nucleare in Italia e primo di grossa taglia (840-860 MW), successivamente allacciata alla rete elettrica nel 1978 ed avviata nel 1981.
+Tra il 1972 e il 1978 è stata realizzata la centrale idroelettrica del Taloro, in provincia di Nuoro (Sardegna).
+Nel 1973 è entrata in servizio la centrale idroelettrica di San Fiorano (Lombardia).
+Nel 1977 è stata avviata la centrale termoelettrica Torre del Sale in località Piombino (Toscana).
+Alla fine degli anni '70 è iniziata la costruzione della centrale termoelettrica di Porto Tolle la cui prima sezione è entrata in servizio nel 1980.
+Tra il 1971 e il 1977 è stata avviata la sperimentazione di impianti di trasmissione a 1000 kV a Suvereto (Toscana).
+Tra il 1973 e il 1977 sono stati perforati i pozzi per la produzione di energia geotermica a Torre Alfina in provincia di Viterbo (Lazio).
+Nel 1974 sono stati completati i lavori della dorsale elettrica adriatica ad alta tensione.
+Sono stati svolti i lavori di costruzione della diga dell'Alto Gesso, completata nel 1982, parte della centrale idroelettrica Luigi Einaudi "Entracque".
+Nel 1982 è stato dato incarico per la costruzione della Centrale Nucleare di Montalto di Castro (oggi nota come Alto Lazio), che, con la sua taglia di 1964 MW (due unità di 982 MW), era destinata ad essere una tra le maggiori centrali elettriche italiane del tempo e la prima di una serie.
+
+
+=== 1980–1990: blocco del nucleare ===
+Il decennio dal 1980 al 1990 è stato caratterizzato dalla realizzazione di nuovi impianti, anche sperimentali con l'uso di energie alternative, e da una progressiva diminuzione della dipendenza dal petrolio che è passata dal 75,3 per cento del 1973 al 58,5 per cento del 1985 di tutta l'energia.Il 1986 ha visto il primo bilancio in attivo di Enel con 14 miliardi e 100 milioni di lire di utile.Nel 1987 in seguito agli eventi di Černobyl, ha avuto luogo il referendum sul nucleare, che ha sancito la fine dell'utilizzo dell'energia nucleare in Italia, la chiusura delle centrali nucleari esistenti, il blocco della costruzione di nuovi impianti nucleari e la definizione di un nuovo piano energetico nazionale.
+
+
+==== Nuovi impianti ed energie alternative ====
+Sono stati realizzati i seguenti impianti:
+Nel 1983-84 è stata avviata la centrale termoelettrica di Fiumesanto (Sardegna),
+Nel 1984-85 è entrata in servizio la centrale di pompaggio idroelettrico di Edolo (Lombardia), una delle più grandi centrali elettriche di questo tipo in Europa,
+Nel 1984 è stata avviata la centrale termoelettrica di Torrevaldaliga Nord (Lazio).Nell'ambito delle energie alternative:
+
+Nel 1981 Enel è stata la prima società al mondo, con il contributo della Comunità Economica Europea, a realizzare e ad allacciare una centrale solare (la centrale Eurelios di Adrano in Sicilia) alla rete elettrica in via sperimentale (la centrale è stata chiusa nel 1987),
+Nel 1984 è entrata in servizio la prima centrale fotovoltaica di Vulcano (Sicilia),
+Nel 1984 è stata avviata la prima centrale eolica in Alta Nurra (Sardegna).Nel 1985 inoltre il centro nazionale di dispacciamento e di controllo della rete elettrica è stato gradualmente trasferito dal centro di Roma a Settebagni ed inserito in un contesto europeo di sincronizzazione della produzione di energia elettrica.
+
+
+==== Referendum, chiusura delle centrali nucleari e nuovo piano energetico nazionale ====
+
+In seguito al disastro di Černobyl', nel 1987 è stato indetto un referendum che ha sancito l'interruzione dei programmi energetici del nucleare in Italia. In relazione alle centrali esistenti o in costruzione:
+La centrale nucleare di Caorso (Emilia-Romagna), già ferma dal 1986 per la ricarica del combustibile, non è stata più riattivata ed è stata definitivamente chiusa nel 1990.
+Nel 1987 la centrale nucleare Enrico Fermi di Trino in provincia di Vercelli (Piemonte) è stata disattivata, sono stati annullati i programmi della seconda centrale ed è stata definitivamente chiusa nel 1990.
+Nel 1988 sono stati interrotti i lavori iniziati nel 1982 di costruzione della centrale elettronucleare Alto Lazio situata in Montalto di Castro. Nel 1989 la centrale è stata convertita a centrale policombustibile.
+Nel 1988 è stata chiusa la centrale nucleare di Latina (Lazio).
+La centrale nucleare del Garigliano (Campania) era già chiusa dal 1978.A seguire nel 1988 il nuovo piano energetico nazionale (PEN) ha stabilito come obiettivi fondamentali l'incremento dell'efficienza energetica, la protezione dell'ambiente, lo sfruttamento delle risorse nazionali, la diversificazione delle fonti di approvvigionamento dall'estero e in generale la competitività del sistema produttivo.
+
+
+=== 1990–2000: liberalizzazioni e quotazioni in borsa ===
+
+Tra il 1990 ed il 2000 si è assistito ad una progressiva liberalizzazione del mercato dell'energia elettrica.Nel 1991, la legge 9 gennaio 1991, n. 9, ha dato il via a una prima parziale liberalizzazione della produzione di energia elettrica proveniente da fonti convenzionali e da fonti rinnovabili; è stato concesso alle imprese di produrre energia elettrica per uso proprio con l'obbligo di cederne la quantità in eccesso a Enel.Nel luglio del 1992 il Governo Amato I ha trasformato Enel in società per azioni con il Ministero del Tesoro come unico azionista. La legge n. 359/92 abrogava la riserva di legge sostituendola con una concessione di durata non inferiore a venti anni. Il Tesoro manteneva poteri speciali di veto in merito a patti e accordi rilevanti, voti relativi a delibere di scioglimento, scissione, fusione, trasferimento all'estero, nomina di sindaci o amministratori.Nel 1999, attraverso il Decreto Bersani, è stata avviata la liberalizzazione del mercato elettrico; ne è conseguito un riassetto societario di Enel con la separazione delle attività di produzione, trasmissione, distribuzione e vendita di energia, affidate a tre distinte società: Enel Produzione, Enel Distribuzione e Terna (la proprietà di Terna fu ceduta completamente da Enel nel 2005). Inoltre è stata stabilita per Enel una soglia massima di produzione di energia elettrica pari al 50% dell'intera produzione sul suolo nazionale.Nel 1999 Enel, con il nuovo assetto societario è stato venduto il 31,7% del capitale e la società è stata quotata in borsa; le azioni Enel sono state quotate nella Borsa Italiana ad un prezzo per titolo di 4,30 euro (corrispondenti ad euro 8,60 in seguito al raggruppamento del 2001); il totale dell'offerta è stato di 4,183 miliardi di azioni per un valore totale di 18 miliardi di Euro.Già nel 1997 con il cambio di denominazione (da ENEL - Ente nazionale per l'energia elettrica, a Enel S.p.A.) si era stabilito il cambio del logo aziendale: fu adottato quello proposto da Maurizio Minoggio dello studio UNIMARK, che combina gli stilemi del sole e dell'albero, con le radici che richiamano la tradizione aziendale e i raggi che alludono alla moltiplicazione dei servizi offerti.
+
+
+==== Nuovi impianti ed energie alternative ====
+Nel 2000 è stato avviato da Enel il progetto di collegamento tra le reti elettriche di Italia e Grecia attraverso la posa di un elettrodotto sottomarino di una lunghezza di 160 km che avrebbe unito Otranto (Puglia) con la città greca di Aetos (Peloponneso) e capace di trasportare 600 MW di energia a tensione continua. La realizzazione del progetto conclusasi nel 2002, ha avuto un costo complessivo di 339 milioni di euro.Nell'ambito delle energie alternative:
+
+Nel 1993 è stato realizzato da Enel l'impianto fotovoltaico di Serre in località Persano (Campania) allora il più grande d'Europa con una potenza installata di 3,3 MW, impianto potenziato e riattivato nel 2011.
+Nel 1995 è stato realizzato l'impianto di energia eolica "Acquaspruzza" a Frosolone (Molise).
+Nel 1998 è stato realizzato l'impianto di energia eolica di Collarmele (Abruzzo).
+
+
+==== Altre operazioni ====
+
+Nel 1997 da una collaborazione di Enel, France Télécom e Deutsche Telekom è nata Wind Telecomunicazioni, che ha cominciato la sua attività nella telefonia fissa e mobile.Malgrado la diffusione della tecnologia Powerline all'estero e il problema del divario digitale in Italia, la prima attività in tal senso sarebbe stata avviata solamente nel 2016.
+
+
+=== 2000–2010: politiche ambientali e internazionalizzazione ===
+Il decennio dal 2000 al 2010 è stato caratterizzato da alcune politiche di riduzione dell'impatto ambientale nella produzione di energia e da una progressiva internazionalizzazione di Enel attraverso numerose acquisizioni e fusioni.
+
+
+==== Politiche ambientali ====
+Nel 2000 Enel ha firmato un accordo con il Ministero dell'ambiente e il Ministero dell'industria, del commercio e dell'artigianato in cui si è impegnata a ridurre le emissioni di anidride carbonica del 13,5% entro il 2002 e del 20% entro il 2006.
+Nel 2008 Enel ha costituito Enel Green Power, società dedicata allo sviluppo e alla gestione della produzione elettrica da fonti rinnovabili.
+
+
+==== Acquisizioni e fusioni ====
+Nel 2000 Enel attraverso la sua controllata Erga ha acquistato CHI Energy produttore di energia rinnovabile operante nel mercato statunitense e canadese; l'operazione è costata ad Enel 170 milioni di dollari.
+Nel 2001 Enel si è aggiudicata la gara per l'acquisto di Viesgo, società controllata di Endesa e operante sul mercato spagnolo della produzione e distribuzione di energia elettrica con una capacità netta installata di 2400 MW.
+Nel 2001 Enel ha ceduto Elettrogen S.p.A, e nel 2002 Eurogen S.p.A e Interpower S.p.A., in ottemperanza a quanto prescritto dal Decreto Bersani.
+Nel 2004 Enel è stata inclusa per la prima volta nel Dow Jones Sustainability Index, indice borsistico che valuta le performance finanziarie delle compagnie mondiali in base a principi di eccellenza economico-finanziaria e di sostenibilità ambientale.Nel 2007 Enel ha avviato l'operazione di acquisizione della utility iberica Endesa dove ha raggiunto in un primo momento una quota del 67% del capitale, arrivando nel 2009 al pieno controllo del capitale. Enel e Acciona ufficializzano il tandem per Endesa. Pagheranno ogni titolo 41 euro e 30 cent. Valore dell’operazione: quasi 44 miliardi (11-04-2007, agenzie)
+
+
+==== Nuovi impianti ed energie alternative ====
+Nel 2001 Enel ha avviato in Brasile la costruzione di una linea di trasmissione ad alta tensione lunga 1095 km.
+Nel 2009 Enel ha dato vita al progetto Archilede; il nuovo sistema di illuminazione urbana è stato scelto da 1600 comuni; questa nuova tecnologia di illuminazione intelligente ha permesso di realizzare un risparmio energetico di circa 26 GWh/anno riducendo le emissioni di anidride carbonica di 18 000 ton/anno.
+Nel 2009 Enel ha inaugurato una nuova centrale fotovoltaica, presso il parco di Villa Demidoff a Pratolino (Firenze). Il progetto denominato “Diamante” prevedeva la messa in funzione di un impianto capace di immagazzinare l'energia accumulata nelle ore diurne sotto forma di idrogeno al fine di utilizzare tale energia in assenza di sole.
+Nel 2010 è nata la centrale solare termodinamica Archimede a Priolo Gargallo in provincia di Siracusa (Sicilia); si tratta della prima centrale al mondo a utilizzare la tecnologia dei sali fusi integrata con un impianto a ciclo combinato.
+
+
+==== Altre operazioni ====
+Nel 2001 ha acquistato Infostrada da Vodafone; il costo dell'operazione è stato pari a 7,25 miliardi di euro; successivamente Infostrada si è fusa con Wind Telecomunicazioni (17 milioni di clienti di telefonia fissa, mobile e Internet).
+Nel 2005 Enel ha ceduto il 62,75% (il restante 37,25% è stato ceduto nel 2006) di Wind a Weather Investments S.A.R.L. società facente capo all'imprenditore egiziano Naguib Sawiris, all'epoca amministratore delegato del gruppo Orascom.
+
+
+=== 2010 - 2015 ===
+Tale periodo è stato caratterizzato dal riassetto di alcune attività del gruppo.
+
+
+==== Attività industriali ====
+Nel 2011 Enel ha inaugurato a Brindisi presso la Centrale Enel Federico II il primo impianto pilota in Italia per la cattura dell'anidride carbonica.
+Nel 2011 Enel Distribuzione ha realizzato nel Molise nella zona di Isernia, la prima rete intelligente ovvero Smart grid, in grado di regolare con efficienza il flusso bidirezionale di energia elettrica prodotta da energie rinnovabili. L'investimento complessivo per questo progetto è stato pari a 10 milioni di euro.
+Nel 2012 Enel e Renault, nell'ambito della mobilità elettrica e delle città intelligenti, hanno collaborato per la produzione di un modello d'auto che consentisse di indicare in tempo reale al cliente la localizzazione dei punti di ricarica Enel più vicini rispetto alla sua posizione e le informazioni sulla loro disponibilità. In precedenza, collaborazioni si ebbero anche con altre case produttrici come Opel, Mercedes e Piaggio.
+
+
+==== Attività societarie ====
+Nel 2012 Enel ha messo in vendita il 5,1% di Terna ancora in suo possesso, uscendo definitivamente dalla rete ad alta tensione.
+Nel 2013 Enel ha siglato a Soči un accordo per la vendita del 40% di Artic Russia, una joint venture con Eni, che a sua volta controllava il 49% di SeverEnergia, per 1,8 miliardi di dollari.
+Nel maggio del 2014 è stata eletta presidente del consiglio di amministrazione, Maria Patrizia Grieco e Francesco Starace è stato nominato amministratore delegato. Principali obiettivi perseguiti sono stati il riassetto delle attività nella Iberia e in America Latina e la riduzione del debito.
+Nel 2014, attraverso la controllata Endesa Chile, ha acquisito la quota di controllo del Gruppo Gas Atacama per 309 milioni di dollari statunitensi dal fondo Southern Cross Group.
+Nel 2015 ha ceduto la partecipazione del 40% in SE Hydropower S.r.l, detenuta dalla controllata Enel Produzione, alla Società Elettrica Altoatesina per 345 milioni di euro.
+Nel 2015 nell'ambito del piano di riqualificazione di 23 centrali termoelettriche in disuso (Futur-e), ha venduto il sito della centrale di Porto Marghera per 5 milioni di euro.
+Nel 2015 ha ceduto l'intera partecipazione azionaria del 49% in Hydro Dolomiti Enel, detenuta dalla controllata Enel Produzione, alla società lussemburghese Fedaia Holdings per 335 milioni di euro.
+Il 31 marzo 2016 in seguito alla scissione parziale non proporzionale di Enel Green Power, ha ricevuto il compendio scisso rappresentato dalla partecipazione totalitaria detenuta in Enel Green Power International, holding di diritto olandese che detiene partecipazioni in società operanti nel settore delle energie rinnovabili nel Nord, Centro e Sud America, in Europa, in Sudafrica e in India, e da attività, passività, contratti e rapporti giuridici connessi a tale partecipazione. Rimangono invece in capo ad Enel Green Power, tutti i restanti elementi patrimoniali diversi da quelli che fanno parte della scissione: le attività italiane e le residue limitate partecipazioni estere. Come conseguenza il capitale sociale di Enel Green Power è stato ridotto da un miliardo a 272 milioni di euro. Enel, invece, ha emesso 763.322.151 nuove azioni, aumentando il capitale sociale a 10.166.679.946 dai 9.403.357.795 euro precedenti, in applicazione del rapporto di cambio pari a 0,486 nuove azioni Enel per una Enel Green Power.
+
+
+==== Attività di ricerca e sviluppo ====
+Nel 2011 Enel ha firmato un protocollo d'intesa con il Comune di Roma e l'Università di Roma La Sapienza per la realizzazione e installazione di Diamante, una centrale fotovoltaica in grado di accumulare e conservare l'energia prodotta, rendendola disponibile anche in assenza di luce solare.
+Nel 2011 Enel Distribuzione società che gestisce la rete di distribuzione di Enel e NEC Corporation hanno raggiunto un accordo di partenariato strategico con il fine di sviluppare nuove tecnologie e soluzioni nell'ambito delle Smart grid.
+Tra il 2012 e il 2014 Enel Distribuzione e General Electric hanno collaborato in progetti di ricerca negli ambiti dell'efficienza energetica e della riduzione delle emissioni di CO2.
+Nel 2012 Enel e Huaneng Clean Energy Research Institute hanno siglato un protocollo d'intesa finalizzato a rafforzare la cooperazione nello sviluppo di tecnologie in materia di carbone pulito, energia rinnovabile e generazione distribuita.
+Nel 2014 Enel assieme ad Endesa, Accelerace e FundingBox ha avviato il programma INCENSe (Internet Cleantech Enablers Spark), cofinanziato dalla Commissione Europea, per la promozione dell'innovazione tecnologica nelle energie rinnovabili e a cui hanno partecipato oltre 250 start-up provenienti da 30 paesi nel 2015.
+
+
+==== Altre operazioni ====
+Nel 2011 Enel è entrata a far parte del Patto mondiale delle Nazioni Unite, l'iniziativa creata dalle Nazioni Unite, in tema di sostenibilità economica, sociale e ambientale, che raggruppa aziende da tutto il mondo.
+Nel 2011 Enel è stata ammessa nel FTSE4Good Index della Borsa di Londra che misura il comportamento delle imprese nell'ambito della sostenibilità ambientale, nelle relazioni con gli stakeholder, nel rispetto dei diritti umani, nella qualità delle condizioni lavorative e nella lotta alla corruzione. Dal 2012 al 2017 Enel è stata riconfermata nel FTSE4Good.
+Nel 2011 Enel ha firmato un accordo quadro di cooperazione con il Programma alimentare mondiale (WFP) delle Nazioni Unite, nella lotta alla fame nel mondo e ai cambiamenti climatici. L'ammontare del progetto è stato pari a 8 milioni di euro e comprendeva la produzione e distribuzione di stufe da cucina ad alta efficienza, l'installazione di impianti fotovoltaici presso le sedi logistiche del WFP e sostegno a interventi umanitari.
+Nel 2012 Enel ha confermato la sua presenza all'Expo 2015 aggiudicandosi due gare per la realizzazione di una Smart grid, una rete intelligente per ottimizzare la distribuzione e la gestione dell'energia e un articolato progetto di Smart Lighting Solutions.
+Nel 2014 e 2015 Enel è stata inserita nello STOXX Global Esg Leader Index, indice che misura i risultati delle pratiche ambientali, sociali e di governance adottate dalle aziende.
+Nel 2015 Enel ha presentato all'Expo di Milano il progetto Powering Education, avviato insieme a The Coca Cola Company e Givewatts, al fine di incrementare il consumo di energia elettrica rinnovabile nelle zone rurali del Kenya, tramite la distribuzione di lampade ad energia solare in diverse scuole sul territorio.
+Il 25 maggio 2016 la Cassa Depositi e Prestiti ha approvato l'offerta di Enel per l'acquisto di Metroweb per un corrispettivo pari a 806 milioni di euro, pagati in parte in contanti ed in parte tramite una partecipazione azionaria nella società risultante dalla fusione tra Enel Open Fiber e Metroweb.
+
+
+=== 2016 - 2018 ===
+Tale periodo è caratterizzato da una serie di operazioni volte alla digitalizzazione del gruppo e all’innovazione, con particolare attenzione al tema della sostenibilità.
+
+Nel gennaio del 2016 Enel lancia il brand “Open Power”, presentandosi con una nuova identità visiva e un nuovo logo. Il concetto di “apertura” diventa il motore della strategia operativa e comunicativa.
+Nel giugno del 2016 Enel presenta Open Meter, il nuovo contatore 2.0 di Enel destinato a prendere il posto dei contatori elettronici di prima generazione. Lo strumento è stato progettato dal noto designer e architetto Michele De Lucchi.
+Nel luglio del 2016 Enel lancia a Tel Aviv un hub per l’innovazione in Israele: l’obiettivo è l’individuazione di 20 startup con le quali collaborare, offrendo allo stesso tempo un programma di supporto personalizzato.
+Nel dicembre del 2016 Open Fiber perfeziona l’acquisizione di Metroweb Italia per un totale di 714 milioni di euro.
+Nel marzo del 2017 Enel inaugura l’Innovation Hub presso la University of California a Berkeley: l’obiettivo dell’operazione è lo scouting di startup per sviluppi di nuove collaborazioni future.
+Nell’aprile del 2017 Enel entra in Australia con il più grande progetto fotovoltaico “ready to build”, realizzato attraverso una joint venture con Dutch Infrastructure Fund.
+Nel maggio del 2017 Enel lancia E-solutions, una nuova linea di business globale che ha lo scopo di esplorare nuove tecnologie e sviluppare prodotti innovativi e soluzioni digitali.
+Nel luglio del 2017 Enel si unisce a Formula E per portare a New York il primo evento a zero-emissioni nella storia del campionato.
+Nel settembre del 2017 Enel entra al ventesimo posto della lista “Change the World” di Fortune, diventando una delle 50 principali aziende del mondo e l’unica italiana ad avere un impatto sociale positivo attraverso le proprie attività di business.
+Nel settembre del 2017 Enel, insieme a Enap, inaugura Cerro Pabellón, primo impianto geotermico del Sud America e primo al mondo a essere costruito a 4500 metri sul livello del mare.
+Nell’ottobre del 2017 Enel inaugura il proprio Innovation Hub in Russia, nato dalla collaborazione con i talenti tecnologici del polo di Skolkovo.
+Nell’ottobre del 2017 Enel entra nella Top 20 della World’s Best Employers List 2017 di Forbes Magazine.
+Nell’ottobre del 2017 Enel viene confermata dalla piattaforma globale no profit CDP come leader globale nella lotta al cambiamento climatico.
+Nel novembre del 2017 Enel presenta E-Mobility Revolution, un piano che prevede l’installazione entro il 2020 di 7000 colonnine di ricarica per i veicoli elettrici.
+Nel novembre del 2017 Enel presenta il piano strategico 2018-2020, incentrato sulla digitalizzazione e sulla promozione di nuove offerte al cliente.
+Nel dicembre del 2017 Enel firma un accordo con Audi per lo sviluppo di servizi connessi alla mobilità elettrica.
+Nel dicembre del 2017 Enel lancia il marchio Enel X sul mercato, sviluppando prodotti innovativi e soluzioni digitali negli ambiti in cui l’energia mostra le sue maggiori possibilità di trasformazione.
+Nel gennaio del 2018 Enel lancia un nuovo green bond in Europa: l’emissione ammonta a un totale complessivo di 1,25 miliardi di euro.
+Nel gennaio del 2018 Enel viene confermata per la decima volta all’interno degli indici di sostenibilità ECPI.
+Nel febbraio del 2018 Enel viene insignita del premio Corporate Governance 2018 di Ethical Boardroom per gli standard di sostenibilità e corporate governance.
+Nel febbraio del 2018 Enel diventa title sponsor della FIM MotoE World Cup e Sustainable Power Partner di MotoGP.
+Nel marzo del 2018 Enel inaugura il più grande impianto solare fotovoltaico del Perù, un investimento da 170 milioni di dollari.
+Nel maggio del 2018 Enel diventa partner del progetto Osmose, finalizzato allo sviluppo di sistemi e servizi integrati nel settore delle rinnovabili.
+Nel maggio del 2018 Enel inaugura a Pisa l’Innovation Hub&Lab della Global Thermal Generation, uno spazio destinato allo sviluppo di tecnologie innovative da applicare nella generazione termoelettrica.
+Nel maggio del 2018 Enel si aggiudica il round finale nell’offerta pubblica per l’acquisizione di Eletropaulo.
+
+
+=== 2019 - 2022 ===
+Diventata da fine marzo 2019 la società più capitalizzata della Borsa Italiana con un valore di oltre 67 miliardi di euro, dal 23 settembre entra nell'indice STOXX Europe 50.  La rivista Management delle Utilities e delle Infrastrutture (MUI) ha assegnato a Francesco Starace, Amministratore Delegato di Enel, il premio “Manager Utility Energia 2019”.
+Nell’aprile del 2022 nasce Enel X Way, la nuova business line del Gruppo che ha l’obiettivo di accelerare lo sviluppo della mobilità elettrica e coniugare decarbonizzazione, digitalizzazione ed elettrificazione. L’iniziativa è stata presentata dalla CEO Elisabetta Ripa nel corso del gran premio romano di Formula E.
+
+
+== Attività ==
+Enel, quotata alla Borsa di Milano dal 1999 e con sede principale a Roma, è parte di un gruppo di aziende che si occupa della produzione e della distribuzione di energia elettrica e gas in 31 paesi nei 5 continenti.A dicembre 2022 il gruppo impiegava più di 65.000 persone, con quasi 67 milioni di clienti nel mondo e una capacità netta installata pari a 90,1 GW, confermandosi primo in Europa per numero di clienti e secondo, dopo EdF, per capacità.
+
+
+=== Organizzazione ===
+Enel è organizzata in 5 linee di business:
+
+Enel Green Power and Thermal Generation: si occupa della produzione di energia elettrica da fonti rinnovabili e tradizionali.
+Enel Grids: copre le infrastrutture di trasporto e distribuzione dell'energia. Per la costruzione delle infrastrutture l'Enel si appoggia ad aziende esterne sparse su tutto il territorio nazionale. Tramite questo metodo la società ha una forte diminuzione del carico di lavoro e dei rischi ad esso connessi. Le aziende più importanti che collaborano con questa sono: Arcobaleno Consorzio Stabile, Consorzio Stabile Golden Lucano, Siel.
+Global Energy and Commodity Management: fornisce alle società del gruppo Enel e a clienti terzi i prodotti impiegati nell'alimentazione di centrali termoelettriche e i servizi di ottimizzazione della produzione di energia e di distribuzione.
+Enel X Global Retail: si occupa dell’erogazione di servizi a valore aggiunto.
+Enel X Way: nata per facilitare la transizione all’elettrico del trasporto pubblico e privato attraverso l’installazione di infrastrutture di ricarica.
+
+
+=== Produzione di energia elettrica ===
+La produzione di energia elettrica è realizzata da diverse fonti di energia tra cui geotermica, eolica, fotovoltaica, idroelettrica, termoelettrica, nucleare, biomasse e solare termodinamico. Nell’anno 2022 il gruppo Enel ha prodotto complessivamente 239 miliardi di kWh di elettricità, ha distribuito sulle proprie reti 507,7 miliardi di kWh e ha venduto 321,1 miliardi di kWh.
+Dalla fine del 2008 la produzione di energia elettrica da fonti rinnovabili è svolta dalla controllata Enel Green Power.
+
+
+=== Ricerca e sviluppo ===
+Enel svolge inoltre attività di ricerca e sviluppo nell'ambito della produzione e della trasmissione di energia elettrica, tra cui:
+
+la progettazione e la realizzazione di "centrali ibride" che prevedono l'impiego combinato di diverse fonti o di tecnologie per la conservazione di energia al fine di incrementare l'efficienza degli impianti, in alcuni progetti insieme all'ENEA.
+lo sviluppo delle reti intelligenti Smart grid in grado di incrementare l'efficienza e la sostenibilità nella distribuzione di energia elettrica, con il sostegno dell'Unione Europea.
+
+
+=== Mercato italiano ===
+In Italia, Enel opera nel campo:
+
+della produzione di energia elettrica tramite Enel Produzione e, da fonti rinnovabili, tramite Enel Green Power.
+della fornitura di energia elettrica tramite Enel Energia.
+della distribuzione e della trasformazione di energia elettrica e della manutenzione degli impianti tramite e-distribuzione.
+della gestione del servizio di maggior tutela, tramite Servizio Elettrico Nazionale, ovvero la fornitura di energia a prezzi stabiliti dall'Autorità per l'energia elettrica e il gas nelle aree nelle quali e-distribuzione è concessionaria del servizio.
+dell'illuminazione pubblica ed artistica tramite Enel Sole.In seguito alla liberalizzazione del mercato, Enel non può produrre più del 50% dell'energia elettrica prodotta sul territorio nazionale ed è obbligata, al pari di tutte le aziende produttrici, a collegare alla rete elettrica chiunque ne faccia richiesta (servizio universale), secondo le normative europee. In generale Enel è soggetta alla supervisione e alle decisioni dell'Autorità per l'energia elettrica e il gas.
+
+
+== Attività internazionali ==
+A livello globale il gruppo Enel, attraverso le sue controllate, svolge le seguenti attività:
+
+produzione, distribuzione e vendita di energia elettrica e gas nella penisola iberica, in America Latina tramite Enel Américas, in Marocco e in Russia attraverso la controllata Enel Russia. A marzo 2022, Enel annuncia la cessazione delle operazioni in Russia, impegno finalizzato nell’ottobre del 2022.
+produzione di energia elettrica da fonti rinnovabili a livello globale (Nord America, Sud America, Africa, Europa, Asia e Australia) tramite Enel Green Power International, sua controllata dal 1º aprile 2016 dopo la scissione da Enel Green Power.
+opera nel settore del gas ed è presente in Algeria e in Egitto.
+svolge attività finanziarie di raccolta fondi sui mercati, impiegandoli in operazioni di investimento attraverso le controllate Enel Finance International la neo costituita Enel Financ America ed International Endesa (aziende localizzate nei Paesi Bassi).
+
+
+== Aree internazionali ==
+
+Enel è presente in Europa (Italia, Spagna, Portogallo, Romania, Francia, Grecia, Germania, Polonia, Paesi Bassi, Regno Unito e Irlanda), in Nord America (Canada e Stati Uniti), America Latina (Argentina, Brasile, Cile, Colombia, Costa Rica, Guatemala, Messico, Panama e Perù), in Africa (Marocco, Sudafrica e Zambia), in Asia (India, Giappone e Sud Corea), in Oceania (Australia e Nuova Zelanda).
+
+
+=== Europa ===
+
+
+==== Belgio ====
+In Belgio Enel produceva energia elettrica con l'impianto di Marcinelle Energie per una capacità totale di 406 MW.L'impianto è stato ceduto a fine 2016 alla società francese Direct Energie S.A.
+
+
+==== Bulgaria ====
+In Bulgaria Enel era presente con due impianti eolici acquisiti nel 2008 e la cui capacità è stata raddoppiata nel 2010, per un totale di 40 MW. Gli impianti sono localizzati a Kamen Bryag e Shabla nel nord-est del paese lungo la costa del Mar Nero.Nel 2020 Enel ha venduto il parco eolico a MET Group, uscendo definitivamente dalla Bulgaria.
+
+
+==== Cipro ====
+A Cipro Enel partecipa tramite Enel Trade con una partecipazione del 12,5% ad un consorzio per l'esplorazione e la produzione di gas nel campo di Leviathan tra Cipro, Israele e Libano.
+
+
+==== Francia ====
+In Francia Enel opera nel trading di energia elettrica con una partecipazione del 5% della borsa elettrica francese Powernext.
+
+
+==== Grecia ====
+In Grecia Enel dispone di centrali idroelettriche (19 MW), fotovoltaiche (72 MW) ed eoliche (200 MW) per un totale di 291 MW.
+
+
+==== Paesi Bassi ====
+Nei Paesi Bassi Enel è presente con diverse società finanziarie (Enel Finance International N.V., Enel Investment Holding B.V., International Endesa B.V.) per la raccolta di fondi sui mercati tramite obbligazioni o altre forme di finanziamento ed investimento in attività di produzione e di distribuzione di energia elettrica. Inoltre Enel è presente tramite Endesa Energia S.A. nella vendita di gas ed elettricità a grandi clienti.
+
+
+==== Romania ====
+In Romania Enel conta oltre 2,8 milioni di clienti attraverso quote di maggioranza in società di distribuzione di energia elettrica nella Muntenia del Sud, inclusa Bucarest, nel Banato e nella Dobrugia. Tramite Enel Green Power, Enel è presente nella produzione di energia elettrica con una capacità totale di 534 MW.
+
+
+==== Russia ====
+In Russia Enel è attiva in diversi settori:
+tramite Enel Russia, produce energia elettrica con centrali termolettriche con una capacità totale di 8878 MW.
+nella rivendita di elettricità, con RusEnergoSbyt.A marzo 2022, Enel annuncia la cessazione delle operazioni in Russia, impegno finalizzato nell’ottobre del 2022.
+
+
+==== Slovacchia ====
+Dal 2006 al 2015 Enel, tramite una partecipazione del 66% in Slovenské Elektrárne, ha prodotto in Slovacchia energia elettrica per un totale di 5700 MW derivante da energia nucleare, termoelettrica e idroelettrica. Nel 2015 ha ceduto l'intera partecipazione ad EP Slovakia per un corrispettivo pari a 750 milioni di euro.
+
+
+==== Spagna e Portogallo ====
+In Spagna e in Portogallo Enel è il principale operatore tramite la partecipazione in Endesa con una produzione di energia elettrica totale pari a 29200 MW (di cui 6400 MW rinnovabili) e oltre 10 milioni di clienti nel mercato elettrico e circa 2 milioni nel mercato del gas.
+
+
+=== Nord America ===
+
+
+==== Stati Uniti d'America e Canada ====
+Negli Stati Uniti d'America e in Canada Enel produce energia idroelettrica, geotermica, eolica, solare e a biomasse per una capacità totale di 3570 MW (3500 MW negli USA e 80 MW in Canada).
+
+
+==== Messico ====
+Enel è presente in Messico dal 2007. Produce energia per 480 MW da energia eolica (400 MW) e da energia idroelettrica (80 MW).
+
+
+=== Centro America ===
+
+
+==== America Latina Enel ====
+In America Latina Enel è nel 2014 il secondo produttore di energia elettrica da fotovoltaico.
+
+
+==== Costa Rica ====
+Tramite Enel de Costa Rica, S.A, in Costa Rica Enel produce energia elettrica per un totale di 80 MW da energia idroelettrica.
+
+
+==== Guatemala ====
+In Guatemala Enel produce energia elettrica per 167 MW interamente da energia idroelettrica.
+
+
+==== Panama ====
+A Panama, tramite la sua controllata Enel Fortuna Enel produce energia con una capacità totale di 360 MW, pari al 23% del fabbisogno nazionale panamense nel 2014.
+
+
+=== Sudamerica ===
+In America Latina Enel è nel 2014 il secondo produttore di energia elettrica da fotovoltaico.
+
+
+==== Argentina ====
+In Argentina Enel produce energia elettrica con una capacità totale di 4420 MW, attraverso le controllate Endesa Costanera, Hidroeléctrica El Chocón, e Dock Sud. Tramite EDESUR Enel distribuisce energia elettrica ad oltre 2,5 milioni di clienti.
+
+
+==== Brasile ====
+In Brasile Enel produce energia elettrica tramite le controllate Enel Geração Fortaleza e Enel Green Power Brasil per una capacità totale di 2740 MW. Enel inoltre opera nella trasmissione di energia elettrica tramite Enel CIEN e nella distribuzione con:
+Enel Distribuição São Paulo, nello stato di São Paulo
+Enel Distribuição Rio, nello Stato di Rio de Janeiro.
+Enel Distribuição Ceará, nello stato di Ceará.
+Enel Distribuição Goiás, nello stato di Goiás, società distributrice la cui cessione è stata però finalizzata nel settembre del 2022.In totale 9 milioni di clienti per l'elettricità.
+Tramite Enel Brasil Participações Ltda produce energia elettrica da fonti rinnovabili per 376 MW da energia fotovoltaica (203 MW) e da energia idroelettrica (173 MW).
+
+
+==== Cile ====
+In Cile Enel produce elettricità per 10.470 MW. Enel ha una capacità di produzione di oltre 738 MW da energia idroelettrica ed eolica.
+
+
+==== Colombia ====
+In Colombia Enel produce energia elettrica per una capacità di 2300 MW, sviluppando anche progetti di energie rinnovabili.
+
+
+==== Perù ====
+In Perù Enel produce energia elettrica per una capacità totale di 1980 MW. Dal 2011 lavora per lo sviluppo delle energie rinnovabili nel paese, ottenendo diverse concessioni per impianti di produzione di energia elettrica.
+
+
+==== Uruguay ====
+In Uruguay Enel sta realizzando un impianto ad energia eolica per 50 MW.
+
+
+=== Africa ===
+
+
+==== Algeria ====
+In Algeria Enel detiene il 13,5% delle riserve di gas nel bacino degli Illizi nel sud-est del paese e il 18,4% del campo di Isarene. Nel 2014 inoltre sono state acquisite insieme a Dragon Oil le licenze di esplorazione per gas di due aree, Msari Akabli e Tinrhert Nord. Nel primo Enel è anche operatore con una partecipazione del 70%, mentre nel secondo ha una partecipazione del 30%.
+Nel 2019 Enel ha rinnovato il suo accordo con l’algerina Sonatrach fino al 2027 per la fornitura di gas. I volumi sono dimezzati rispetto al passato.
+
+
+==== Egitto ====
+In Egitto Enel detiene il 10% della licenza di esplorazione di gas dell'area El Burullus.
+
+
+==== Marocco ====
+In Marocco Enel produce energia elettrica con Energie Electrique de Tahaddart con una capacità di 384 MW.
+Sono state preassegnate ad EGP le realizzazioni di cinque progetti eolici in Marocco per complessivi 850 MW, assieme al gruppo tedesco Siemens e alla società locale NAREVA.
+
+
+==== Sudafrica ====
+In Sudafrica Enel ha attivato una centrale che produce 200 MW di eolica e 320 di solare.
+
+
+== Aziende partecipate ==
+
+
+=== Italia ===
+In Italia Enel possiede le seguenti aziende attive nella produzione e vendita di energia elettrica:
+la totalità di Enel Produzione e, tramite Enel Produzione:
+il 51% di Energy Hydro Piave.
+la totalità di Servizio Elettrico Nazionale che si occupa della vendita di energia elettrica sul mercato regolato.
+la totalità di Enel Energia che si occupa della vendita di energia elettrica sul mercato libero e di gas naturale alla clientela finale. Quest'ultima possiede il 100% di Enel.si, azienda che offre soluzioni di energie rinnovabili alla clientela finale e gestisce i "Punto Enel Green Power" in franchising.
+l'intero capitale sociale di Enel Green Power che detiene partecipazioni in società operanti nel settore delle energie rinnovabili italiane.
+Enel XPer le infrastrutture e le reti Enel dispone del:
+100% di e-distribuzione, per la distribuzione di energia elettrica.
+100% di Enel Sole, che si occupa di illuminazione pubblica e artistica.Per il trading sui mercati internazionali ed in Italia oltre che l'approvvigionamento e la vendita di prodotti energetici compreso il gas, Enel possiede il 100% di Enel Trade, che a sua volta detiene il 100% di Enel Trade Romania, Enel Trade Croazia e di Enel Trade Serbia.Tramite Enel Trade inoltre Enel possiede la totalità di Nuove Energie, azienda specializzata nella costruzione di impianti di rigassificazione del Gas naturale liquefatto.
+
+
+=== Europa ===
+In Belgio Enel possedeva, tramite Enel Investment Holding, il 100% di Marcinelle Energie, proprietaria dell'omonima centrale elettrica, acquisita nel 2008 da Duferco Diversification.Nel 2013 è stata firmata una lettera di intenti per la cessione della società a Gazprom. La società è stata infine ceduta a Direct Energie S.A. a fine 2016.In Francia Enel possiede il 5% della borsa elettrica francese Powernext.In Spagna, dopo il collocamento di azioni del novembre 2014, Enel detiene, attraverso la società Enel Iberia Srl (nota precedentemente come Enel Energy Europe), il 70,1% di Endesa, acquisita nel 2009 con una partecipazione del 92,06%. L'acquisizione valse ad Enel nel 2009 il premio Platts Global Energy Awards di Deal of the Year.In Russia Enel è presente dal 2004:
+possiede il 56,4% di Enel Russia (in origine OGK-5) tramite Enel Investment Holding BV.
+dal 2008, possiede il 49,5% di RusEnergoSbyt, fornitore di energia elettrica, che fa direttamente capo a Enel S.p.A..Nel 2013 Rosneft, tramite NGK Itera, ha comprato la partecipazione del 40% di Enel in Arctic Russia BV che a sua volta possedeva il 19,6% in SeverEnergia. A marzo 2022, Enel annuncia la cessazione delle operazioni in Russia.
+
+
+=== Sud America ===
+In Argentina Enel possiede il controllo del 41.0% di Empresa Distribuidora Sur SA.
+In Cile Enel possiede, Empresa Electrica Panguipulli SA: controllo 61,9%, Enel Américas SA: controllo 56,80%, Enel Distribución Chile SA: controllo 61,04%, Enel Generación Chile SA: controllo 57,9%, Enel Green Power Chile Ltda: controllo 61,9%, Enel Green Power del Sur SpA: controllo 61,9%, Gas Atacama Chile SA: controllo 58,0%.
+In Perù tramite Enel Perù SAC, Enel controlla Enel Distribución Perù SAA al 47,2% e Enel Generación Perù SA al 47,5%.
+
+
+== Dati societari ==
+
+
+=== Principali azionisti ===
+Al 31 dicembre 2020:
+Ministero dell'economia e delle finanze - 23,6%
+Investitori istituzionali - 62,3%
+Investitori individuali - 14,1%
+
+
+=== Storico dei presidenti ===
+
+
+=== Storico dei direttori generali ===
+
+
+== Onorificenze ==
+
+
+== Archivio ==
+L'Archivio storico Enel è stato riunito in un'unica sede, a Napoli, il 24 settembre 2008. Racchiude e conserva la memoria storica dell'industria elettrica italiana dalla fine dell'Ottocento fino all'elettrificazione completa del Paese. Custodisce più di 13.000 metri lineari di documenti, 200.000 fotografie, migliaia di disegni tecnici e di libri e riviste specializzate, centinaia di reperti e filmati, ripartiti nei fondi: Ente Autonomo Volturno - EAV; Ex Compartimento di Cagliari; Archivio storico Angelo Omodeo; Ex Compartimento di Firenze; Archivio storico Piero Ginori Conti; Ex Compartimento di Milano; Archivio storico Giuseppe Colombo; Ex Compartimento di Napoli; Archivio storico Giuseppe Cenzato; Ex Compartimento di Palermo; Archivio storico Enrico Vismara; Archivio storico Orso Mario Corbino; Ex Compartimento di Torino; Archivio storico Giancarlo Vallaurino; Archivio storico Giancarlo Vallauri; Ex Compartimento di Venezia; Archivio storico Nicolò Papadopoli Aldobrandini; Fondo fotografico Parisio; Fondo Giuseppe Cenzato; Fondo Vito Antonio Di Cagno; Fondo Larderello.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Caso Costa contro Enel
+Decreto legislativo 16 marzo 1999, n. 79
+Distribuzione di energia elettrica
+Produzione di energia elettrica
+Produzione di energia elettrica in Italia
+Referendum abrogativi in Italia del 1987
+Trasmissione di energia elettrica
+Società Gestione Impianti Nucleari (SOGIN)
+Sede Enel di Firenze
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «ENEL»
+ Wikimedia Commons contiene immagini o altri file su Enel
+
+
+== Collegamenti esterni ==
+
+(EN, IT, ES) Sito ufficiale, su enel.com. 
+ Enel Energia (canale), su YouTube. 
+ Enel, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+ Gianfranco Castelli e Angelo Camplani, ENEL, in Enciclopedia Italiana, IV Appendice, Istituto dell'Enciclopedia Italiana, 1978. 
+ Angelo Camplani-Gianfranco Castelli, ENEL, in Enciclopedia Italiana, V Appendice, Istituto dell'Enciclopedia Italiana, 1992. 
+ ENEL, su sapere.it, De Agostini. 
+ Eventi organizzati da Enel, su RadioRadicale.it, Radio Radicale. 
+ Enel, Archivio storico., su SAN - Portale degli archivi d'impresa.
+ La storia dell'azienda attraverso le esperienze degli ex-dipendenti, su ceraunvolt.it. URL consultato il 27 maggio 2010 (archiviato dall'url originale il 27 maggio 2010).

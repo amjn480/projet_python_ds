@@ -1,0 +1,78 @@
+Els cordats (Chordata) són un embrancament d'animals que inclou els vertebrats, juntament amb una sèrie d'invertebrats estretament relacionats. Es caracteritzen pel fet que, en algun moment del seu cicle vital, tenen un notocordi o corda dorsal, un tub neural buit situat en posició dorsal, fenedures faríngies, un endostil i una cua postanal.Es coneixen quasi 65.000 especies actuals (són el tercer embrancament animal més nombrós, després dels artròpodes i dels mol·luscs), la majoria pertanyents als subembrancament dels vertebrats, dels que quasi la meitat són peixos.L'embrancament dels cordats se subdivideix en tres subembrancaments: els tunicats; els cefalocordats, representats per les llancetes; i els craniats, que inclou els vertebrats. Les larves dels tunicats tenen un notocordi, però desapareixen a la fase adulta. Els cefalocordats tenen un notocordi i un tub neural dorsal però manquen de cervell i d'òrgans sensorials especialitzats, i tenen un aparell circulatori molt senzill. Els craniats són l'únic embrancament del qual els membres tenen crani. En tots els craniats, tret dels mixinoïdeus, la corda nerviosa dorsal buida ha estat envoltada amb vèrtebres cartilaginoses o òssies i el notocordi ha estat generalment reduït; per tant, els mixinoïdeus no són considerats vertebrats. Els cordats i tres embrancaments germans, els hemicordats, els equinoderms i els xenoturbèl·lids, formen el grup dels deuteròstoms, un dels dos superembrancaments que engloben tots els animals d'una certa complexitat.
+En els cordats destaca la capacitat d'autorregulació i organització interna, l'elevació i manteniment constant de la temperatura del cos, tot i que aquesta és una qualitat que no es dona en tots ells, només en aus i mamífers. Aquests i altres factors han afegit complexitat a aquest grup d'animals, permetent un major control sobre les reaccions metabòliques i el desenvolupament d'un sistema nerviós complex.
+
+
+== Característiques ==
+Els cordats formen un embrancament, un grup d'animals amb un pla corporal comú, que es distingeixen perquè en algun moment de la seva vida presenten totes les característiques següents:
+un notocordi, és a dir, una barra de teixit cartilaginós bastant rígida que s'estén al llarg de la part interior del cos. Dins el subgrup dels vertebrats, el notocordi es desenvolupa en la columna vertebral, i en les espècies completament aquàtiques ajuda els animals a nedar flexionant la cua.
+un tub neural dorsal. En els peixos i la resta de vertebrats, es converteix en la medul·la espinal, la via de comunicació principal del sistema nerviós.
+fenedures faríngies. La faringe és la part de la gola que està situada immediatament darrere la boca. En els peixos, les fenedures estan modificades per formar brànquies, però en alguns cordats formen part d'un sistema d'alimentació per filtratge que extreu partícules d'aliment de l'aigua en què viuen els animals.
+una cua muscular que s'estén cap enrere, des de darrere l'anus.
+un endostil. Es tracta d'un solc situat a la paret ventral de la faringe. En les espècies que s'alimenten per filtratge, produeix mucositat per atrapar partícules de menjar, contribuint a transportar-les a l'esòfag. També emmagatzema iode, i podria ser el precursor de la glàndula tiroide dels vertebrats.
+
+
+== Diversitat ==
+Existeixen tres grans grups de cordats (vegeu també l'apartat taxonomia):
+
+CefalocordatsEls cefalocordats són animals petits, vagament pisciformes, que manquen de cervell, de cap clarament definit i d'òrgans sensorials especialitzats. Aquests animals excavadors que s'alimenten per filtratge podrien ser o bé els parents vivents més propers dels craniats, o bé els membres supervivents d'un grup del qual haurien evolucionat tots els altres cordats.TunicatsLa majoria de tunicats apareixen en dues formes a la fase adulta; les dues formes són bosses de gelatina que manquen de les característiques dels cordats: els ascidis són sèssils i són bàsicament bombes d'aigua i mecanismes d'alimentació per filtratge; els sàlpids floten a l'aigua, alimentant-se de plàncton, i tenen un cicle bigeneracional en què una generació és solitària i l'altra forma colònies en forma de cadena. Tanmateix, totes les larves de tunicats tenen les característiques estàndard dels cordats, incloent-hi llargues cues similars a les dels capgrossos; també tenen un cervell rudimentari, sensors lumínics i sensors d'inclinació. El tercer grup principal de tunicats, els apendicularis (també conegut com a larvàcies) mantenen una forma similar a un capgròs i la capacitat de nedar durant tota la vida, i durant molt de temps es cregué que eren larves d'ascidis o sàlpids. Degut a la llarga cua de les seves larves, els tunicats també són anomenats urocordats ('cordats de cua').Craniats/VertebratsEls craniats tenen un crani distint. Michael J. Benton comenta que «els craniats es caracteritzen pel seu cap de la mateixa manera que els cordats, o possiblement tots els deuteròstoms, es caracteritzen per la seva cua». La majoria són vertebrats, en què el notocordi és substituït per la columna vertebral. Aquesta consisteix en una sèrie de vèrtebres cilíndriques òssies o cartilaginoses, generalment amb arcs neurals que protegeixen la medul·la espinal, i amb projeccions que uneixen les vèrtebres. Els mixinoïdeus tenen un neurocrani incomplet i manquen de vèrtebres, de manera que no se'ls considera vertebrats, sinó com a membres dels craniats, el grup del qual es pensà que evolucionaren els vertebrats. La posició de les llampres és ambigua. Tenen un neurocrani complet i vèrtebres rudimentàries, de manera que se les pot considerar vertebrats i peixos autèntics. Tanmateix, la filogènia molecular, que utilitza trets bioquímics per classificar els organismes, ha donat resultats que les agrupen amb els vertebrats i altres que les agrupen amb els mixinoïdeus.
+
+
+== Orígens ==
+La majoria d'animals més complexos que les meduses i altres cnidaris es divideixen en dos grups, els protòstoms i els deuteròstoms, i els cordats són deuteròstoms. Sembla molt probable que Kimberella, de fa 555 milions d'anys, fou un protòstom. Si fos cert, això implicaria que els llinatges dels protòstoms i els deuteròstoms se separaren un temps abans que aparegués Kimberella – fa com a mínim 558 milions d'anys, és a dir, molt abans que comencés el Cambrià. El fòssil ediacarià Ernettia, de fa 549-543 milions d'anys, podria ser un animal deuteròstom.
+Els fòssils d'un gran grup de deuteròstoms, els equinoderms (que avui en dia inclouen les estrelles de mar, els eriçons de mar i els crinoïdeus) ja eren bastant comuns a principis del període Cambrià, fa uns 542 milions d'anys. Un fòssil del Cambrià mitjà, Rhabdotubus johanssoni, ha estat interpretat com a hemicordat pterobranqui. Les opinions difereixen sobre si Yunnanozoon, un fòssil de la fauna de Chengjiang del Cambrià inferior, era un hemicordat o un cordat. Un altre fòssil provinent de Chenjiang, Haikouella lanceolata, ha estat interpretat com un cordat i possiblement un craniat, car presenta signes de tenir cor, artèries, filaments branquials, una cua, una medul·la espinal amb un cervell a l'extrem anterior, i possiblement ulls, tot i que també presentava petits tentacles al voltant de la boca. Haikouichthys i Myllokunmingia, també de la fauna de Chengjiang, són considerats peixos. Pikaia, descobert molt abans però provinent dels esquistos de Burgess (Cambrià mitjà) també és considerat un cordat primitiu. D'altra banda, els fòssils dels primers cordats són extremament rars, car els cordats no vertebrats no tenen ni ossos ni dents, i només se n'ha trobat un en tota la resta del Cambrià.Arbre genealògic dels cordats.
+Les relacions evolutives entre els grups de cordats i entre els cordats en general i els seus parents deuteròstoms més propers han estat debatudes des finals del segle xix. Estudis basats en dades anatòmiques, embriològiques i paleontològiques han produït diferents "arbres genealògics". Alguns traçaven una relació estreta entre els cordats i els hemicordats, però actualment aquesta idea és rebutjada. La combinació d'aquestes anàlisis amb dades d'un petit conjunt de gens d'ARN ribosòmic eliminà algunes de les idees més antigues, però plantejà la possibilitat que els tunicats (urocordats) siguin "deuteròstoms basals", és a dir, membres supervivents del grup a partir del qual evolucionaren els equinoderms, els hemicordats i els cordats. La majoria d'investigadors estan d'acord que, dins els cordats, els craniats estan emparentats més pròximament amb els cefalocordats, però hi ha motius per considerar els tunicats com els parents més propers dels craniats. Un altre embrancament, el dels xenoturbèl·lids, sembla basal dins dels deuteròstoms, és a dir, més proper als deuteròstoms originals que els cordats, equinoderms i hemicordats.Com que els cordats han deixat un registre fòssil pobre, s'han fet intents de calcular les dates clau de la seva evolució per mitjà de tècniques de filogènia molecular, és a dir, analitzant les diferències bioquímiques, principalment en l'ARN. Un d'aquests estudis suggerí que els deuteròstoms aparegueren fa més de 900 milions d'anys, i els primers cordats fa uns 896 milions d'anys Tanmateix, les estimacions moleculars de les dates solen contradir-se entre elles i amb el registre fòssil, i la seva assumpció que el rellotge molecular funciona a una velocitat constant ha estat qüestionada.
+
+
+== Taxonomia ==
+El diagrama següent prové de la tercera edició de Vertebrate Palaeontology. Les classes de cordats invertebrats provenen de Fishes of the World. Tot i que està estructurada de manera que reflecteixi les relacions evolutives (més o menys com un cladograma), també conserva les categories tradicionals de la taxonomia linneana.
+
+Embrancament Chordata
+Subembrancament Cephalochordata (Acraniata) — (30 espècies)
+Classe Leptocardii
+Subembrancament Tunicata (tunicats; 3.000 espècies)
+Classe Appendicularia
+Classe Ascidiacea
+Classe Thaliacea
+Subembrancament Vertebrata (Craniata) (vertebrats — animals amb columna vertebral; 57.674 espècies)
+Infraembrancament incertae sedis
+Superclasse Agnatha parafilètica (vertebrats sense mandíbula; >100 espècies)
+Classe Anaspida †
+Classe Cephalaspidomorphi †
+Classe Conodonta †
+Classe Hyperoartia (lamprees)
+Classe Myxini (65 espècies)
+Classe Pteraspidomorphi † (peixos sense mandíbula del Paleozoic)
+Classe Thelodonti † (peixos sense mandíbula del Paleozoic)
+Infraembrancament Gnathostomata (vertebrats amb mandíbula)
+Superclasse incertae sedis
+Classe Acanthodii † ("taurons espinosos" del Paleozoic)
+Classe Chondrichthyes (peixos cartilaginosos; >900 espècies)
+Classe Placodermi † (formes cuirassades del Paleozoic)
+Superclasse Osteichthyes (peixos ossis; >30.000 espècies)
+Classe Actinopterygii (peixos d'aletes radiades; aproximadament 30.000 espècies)
+Classe Sarcopterygii (peixos d'aletes lobulades: 8 espècies)
+Superclasse Tetrapoda (vertebrats de quatre potes; >28.000 espècies)
+Classe Amphibia (amfibis; 6.000 espècies)
+Classe Aves (ocells; 10.000-12.000 espècies)
+Classe Mammalia (mamífers; >5.700 espècies)
+Classe Reptilia (rèptils; >9.000 espècies)
+Classe Synapsida (sinàpsids; >4.000 espècies)
+
+
+== Referències ==
+
+
+== Bibliografia ==
+Díaz, J.; Santos, T. Zoología: Aproximación evolutiva a la diversidad y organización de los animales (en castellà).  Editorial Síntesis, 1998. ISBN 84-7738-591-2. 
+Colbert, E. H.; Morales, M., Minkoff, E. C.. Colbert's Evolution of the Vertebrates: A History of the Backboned Animals Through Time (en anglès). 5a edició.  Wiley-Liss, 2001. ISBN 978-0471384618. 
+Kellicott, William E. Outlines Of Chordate Development (en anglès).  Smyth Press, 2007. ISBN 978-1406743234. 
+Maisey, J.; Maisey, J. G.. Discovering Fossil Fishes (en anglès).  Basic Books, 2000. ISBN 978-0813338071. 
+
+
+== Enllaços externs ==
+Preguntes sobre els cordats
+Chordata Arxivat 2011-12-05 a Wayback Machine. - vista general dels cordats i de les seves característiques (alemany)
+Els cordats a GlobalTwitcher.com (anglès)
+Node dels cordats al web Tree Of Life (anglès)
+Document Arxivat 2005-11-24 a Wayback Machine. Word de la Universitat de Còrdova amb informació sobre diferents aspectes dels cordats (castellà)
+Organització morfològica dels cordats Arxivat 2013-01-07 at Archive.is (francès)

@@ -1,0 +1,20 @@
+Die Wayback Machine is 'n digitale argief van die Wêreldwye Web en ander inligting op die Internet. Die diens stel mense in staat om webblaaie te argiveer en geargiveerde bladsye oor tyd op te roep. Dit is veral handig om bladsye wat nie meer bestaan nie, op te soek.
+Die argief word deur Internet Archive ('n nie-winsgewende organisasie wat in San Francisco in die VSA gesetel is) bestuur. Dit is deur Brewster Kahle en Bruce Gilliat begin, en word met behulp van Alexa Internet instand gehou. Hulle visie is om die hele Internet te argiveer.Die organisasie argiveer bladsye sedert 1996 op hulle Linux-bedieners. Hulle besoek geargiveerde bladsye elke paar weke of maande en skep 'n nuwe weergawe as die inhoud daarvan verander het. Gebruikers word ook toegelaat om skakels vir aktivering in te voer. Die oogmerk is om inligting, wat andersins verlore kan gaan wanneer 'n webwerf verander of gesluit word, vas te vang.
+
+
+== Gebruik ==
+Wys 'n kalender wat die weergawes van 'n geargiveerde bladsy wys:
+
+https://web.archive.org/web/*/http://af.wikipedia.org/Sien hoe 'n bladsy in die verlede (in die geval, die Afrikaanse Wikipedia op 29 Januarie 2004) gelyk het:
+
+https://web.archive.org/web/20040129010037/http://af.wikipedia.org/Om 'n URL te argiveer:
+
+https://web.archive.org/save/http://af.wikipedia.org/
+
+
+== Verwysings ==
+
+
+== Eksterne skakels ==
+Amptelike webtuiste
+Bibliotheca Alexandrina se gedupliseerde weergawe van die Wayback Machine

@@ -1,0 +1,63 @@
+Systematik innebär inom biologin gruppering av organismer inom biologin. Begreppet myntades i det avseendet av Augustin Pyrame de Candolle för att beteckna läran om klassifikation. Taxonomi blandas ofta samman med systematik och används ibland synonymt med systematik.
+Modern systematik har sina rötter i Carl von Linnés system, i vilket arter grupperades på grundval av bland annat likhet i fortplantningens organ som man kunde observera hos växter. Dagens system för zoologisk klassificering härrör från 10:e upplagan av Linnés verk Systema naturae, ett sätt att systematiskt ordna alla levande varelser. Linné var inte först att systematisera växter och djur efter yttre observationer av dem. Andrea Cesalpino, John Ray och Joseph Pitton de Tournefort hade var och en utarbetat system som Linné influerades av.
+Den traditionella artsystematiken, liksom den vardagliga bestämningen av olika typer av djur och växter, bygger på arternas iakttagbara egenskaper, den så kallade fenotypen.
+Linnés grupperingar har sedan reviderats för att bättre överensstämma med släktskapsförhållanden enligt evolutionsteorin. Molekylär systematik, som analyserar släktskap genom jämförelse av organismers arvsmassa, har lett till många revideringar på senare tid, och kommer sannolikt att leda till många fler i den närmaste framtiden. 
+Se vidare Linnés sexualsystem.
+
+
+== Definition ==
+"Systematisk biologi" och "taxonomi" (termer som ofta blandas samman och används synonymt) definierades i relation till varandra som följer:Systematisk biologi (hädanefter bara kallad systematik) är det vetenskapliga fält som
+
+(a) förser organismer med vetenskapliga namn
+(b) beskriver dem
+(c) bevarar samlingar av dem
+(d) skapar klassificeringssystem för organismer, nycklar för identifiering av dem, och uppgifter om deras utbredning
+(e) undersöker deras evolutionära historia, och
+(f) bedömer deras anpassning till miljön […]Delar av det teoretiska materialet har att göra med evolutionära frågeställningar (punkterna e och f ovan), medan resten har att göra med specifika problemställningar kopplade till klassificering. Taxonomi är den del av systematiken som beskrivs i punkterna (a) till (d) ovan.
+
+
+== De olika modellernas uppkomst och utveckling ==
+Alla moderna biologiska klassificeringssystem innebär att arterna ordnas i släktskapsträd. Trädet ska i princip innehålla alla nu levande arter, som löv, och åtminstone en del av de arter dessa härstammar från, som överordnade noder. 
+Men det har inte alltid varit så. Carl von Linné gjorde på 1700-talet systematiska indelningar av de då kända organismerna (cirka 10 000 "växter" och cirka 10 000 "djur") och lade därmed en grund för systematiken. Dessa principer gällde med endast mindre modifieringar fram till mitten av 1900-talet. Den här traditionella systematiken, som var starkt antropocentrisk, utgjorde så sent som i början av 1900-talet en viktig del av vårt gemensamma kulturella arv. Den speglade bland annat föreställningen att den biologiska variationsrikedomen kommit till genom en gudomlig skapelseakt. Det var så man tänkte i 250 år. De föreställningarna skiljer sig markant från hur biologer idag tänker sig att arterna kommit till genom evolution.    
+När Charles Darwin år 1859 föreslog en rent genealogisk klassificering (efter härkomst), raserades det antropocentriska tänkandet. Om arterna kommit till genom evolution borde de klassificeras så att det evolutionära avståndet framgår. Men det kom att dröja nästan ett sekel innan denna tanke verkligen fick genomslag. Det skedde när vi accepterade att frågan om genealogin (vem härstammar från vem?) är omöjlig att besvara, och därför koncentrerar oss på den fylogenetiska frågan (vem är närmast släkt med vem?). Under andra halvan av 1900-talet utvecklades en strikt fylogenetisk metod, kladistiken. Den innebär att det grundläggande kriteriet vid val av klassificering är att den strikt ska visa framför allt graden av släktskap mellan arterna. Denna syn på fylogenin är en konsekvens av evolutionsteorin och de fylogenetiska trädens förmåga att förutsäga andra förhållanden är ett tydligt stöd för evolutionsteorin. 
+Den fylogenetiska metoden innebär att taxa ska definieras så att de följer följande två krav: 
+
+Alla noder i ett taxon härstammar från en bestämd nod
+Alla noder som härstammar från denna nod ingår i samma taxonMan använder alltså endast monofyletiska taxon. Denna restriktion innebar grundläggande förändringar i systematiken, ibland på tvärs med det "sunda förnuft" som formats av det kulturella arvet. Så är till exempel dinosaurierna som grupp betraktat inte utdöda, eftersom de nu levande fåglarna kan anses höra till samma monofyletiska taxon. 
+Exempel på traditionella taxa som inte finns med i den fylogenetiska systematiken är reptiler, fiskar, alger, tvåhjärtbladiga växter och pongidae (människoapor). Dessa är antingen polyfyletiska (olika arter har olika ursprung) eller parafyletiska (vissa avkomlingar, som borde höra hit, saknas). Andra taxa har ersatts med ett flertal nya, till exempel svampar. Men en del har också överlevt stormen, till exempel djur och däggdjur. Vi bör lägga märke till att det inte var uppenbart att alla flercelliga djur kommer från en gemensam anmoder som är helt skild från alla växter och svampar.
+
+
+== Klassisk systematik ==
+De vetenskapliga namnet för ett släkte och lägre taxa (artnamn, eventuella underarter och varieteter etc) skrivs normalt i kursiv stil. I en kursiv text anges dock det vetenskapliga namnet med okursiverad stil. Vetenskapliga namn som betecknar taxa av högre rang än släkte (familj, klass, o s v) skrivs dock vanligen ut med rak stil.Exempel:
+
+Domäner: eukaryoter
+Riken: djurriket, växtriket, svampar
+Stam (fylum): ryggsträngsdjur (Inom växtriket heter denna nivå division)
+Understam (subfylum): ryggradsdjur
+Klasser: däggdjur
+Ordningar: rovdjur
+Familjer: kattdjur, hunddjur
+Släkten:  Felis (småkatter), Panthera (storkatter)
+Arter: tamkatt (Felis catus), lejon (Panthera leo)
+Underarter: Asiatiskt lejon (Panthera leo persica). Underart kallas också lokalform, dock inte ras (se detta ord)Det vetenskapliga namnet på en art, exempelvis vitsippa, är sammansatt av släktets namn Anemone och ett artepitet nemorosa. Ibland bifogas dessutom en så kallad auktorsbeteckning, vilken anger vem som först publicerat namnet, i detta fall Linné, således "Anemone nemorosa L."
+När arten ska beskrivas än mer exakt anges i vilken publikation som namnet föreslogs samt vilket typexemplaret är och var det förvaras: "Fumaria officinalis L., Sp. Pl. vol II, p. 700 (1753);. Typus: LINN 881.13" specificerar således växten jordrök. Ej sällan ser man en sammansatt auktorsbeteckning med först en förkortning inom parentes och sedan en annan efter parentesen. Detta innebär då att epitetet först föreslagits av auktorn inom parentes, men i ett annat släkte eller i en annan rang. Auktorn efter parentesen har sedan omkombinerat epitetet till det namn vi nu använder. 
+"Mentha longifolia (L.) L. (1756)" grundar sig på "Mentha spicata var. longifolia L. (1753)" och "Gymnadenia conopsea (L.) R. Br. (1813)" på "Orchis conopsea L. (1753)". Märk att eventuella andra kombinationer av samma epitet som gjorts inte tas med, således tas inte "R. Br." med i "Habenaria conopsea (L.) Benth. (1880)". Vad beträffar hybrider skriver man oftast föräldraarternas artepitet i bokstavsordning, Anemone nemorosa × ranunculoides, men om det är en hybrid där man vet vilken som är moderplanta skrivs dess epitet först. Vilket system man använder skall dock markeras i texten.
+
+
+=== Skillnader mellan botaniken och zoologin ===
+Zoologin och botaniken har olika praxis för hur man anger auktorsnamn. Inom botaniken använder man förkortningar, medan zoologin vanligen använder hela efternamnet. Inom botaniken markeras till exempel Carl von Linné med L., medan zoologin använder Linné eller den latinska formen Linnaeus. Förnamnsinitialer används för att skilja auktorer med samma efternamn.
+En annan skillnad är att man under artnivå i botaniken alltid specificerar vilken rang som avses med eventuella epitet: de vanligast förekommande är underart (subsp.), varietet (var.) eller form (f.). Dessa förkortningar skrivs i rak stil. Sålunda betecknar exempelvis "Viola tricolor var. maritima" att det rör sig om släktet Viola, närmare bestämt arten Viola tricolor (styvmorsviol) – och än mer specifikt en varietet av denna som heter maritima.
+Inom zoologin förekommer endast underart som taxonomisk rang under art, och inte varietet eller form. I förekommande fall är det alltså underförstått att det rör sig om just en underart, och rangens status (alltid subsp.) behöver därför inte specificeras. Följaktligen betyder exempelvis Clupea harengus membras per automatik att membras (strömming) är en underart till Clupea harengus (sill), och aldrig en varietet, form, eller dylikt.
+Inom zoologin är tautonyma artnamn – t.ex. Grus grus – tillåtna. Så är inte fallet för organismer som sorterar under International Code of Nomenclature for algae, fungi, and plants, som växter och svampar.
+
+
+== Se även ==
+Taxonomi
+Lista över auktorsförkortningar inom växttaxonomin
+
+
+== Noter ==
+
+
+== Externa länkar ==
+Tree of Life web project

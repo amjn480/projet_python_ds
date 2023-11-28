@@ -1,0 +1,98 @@
+C peut faire référence à :
+
+Lettre C, la 3e lettre et la 2e consonne de l'alphabet latin ;
+C, le nombre 100 en chiffre romain.
+
+
+== Arts et culture ==
+C, un poème de Louis Aragon (Les Yeux d'Elsa, 1942) mis en musique par Francis Poulenc ;
+C correspond à la note do, ou ut dans le système anglo-saxon ;
+C, une série d'animation japonaise des années 2010.
+
+
+== Code ==
+C est un code pouvant désigner :
+
+C, Canada, selon la liste des préfixes OACI d’immatriculation des aéronefs ;
+🄲, Commune, selon la notation cartographique de l'IGN ;
+C, Cuba, selon la liste des codes internationaux des plaques minéralogiques.
+
+
+== Sciences ==
+
+
+=== Unités ===
+c, un préfixe du Système international signifiant centi (10-2) ;
+c, le symbole de la tasse ;
+c, le symbole du demiard ;
+C, le symbole du coulomb ;
+°C, le symbole du degré Celsius.
+
+
+=== Biologie ===
+C, la cytosine dans la transcription d'une chaîne d'ADN ou d'ARN ;
+ C, la cystéine dans la transcription d'une chaîne polypeptidique ;
+Vitamine C, un type de vitamine.
+
+
+=== Mathématiques ===
+
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  , l'ensemble des complexes ;
+
+  
+    
+      
+        
+          C
+          
+            n
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle C_{n}^{k}}
+   dénote, en France, une k-combinaison d'un ensemble à n éléments ;
+Ck désigne la classe des fonctions k fois continument dérivables, de même que C∞ désigne la classe des fonctions indéfiniment dérivables.
+
+
+=== Langage de programmation ===
+C ;
+C++ ;
+Objective-C ;
+C# ;
+Csound.
+
+
+=== Phonétique ===
+[c] est le symbole de l'alphabet phonétique international représentant la consonne occlusive palatale sourde.
+[ɕ] est le symbole de l'alphabet phonétique international représentant la consonne fricative alvéolo-palatale sourde.
+
+
+=== Physique - Chimie ===
+C, le symbole de l'élément chimique carbone ;
+C, la formule chimique du carbone atomique ;
+c, la célérité de la lumière c'est-à-dire la vitesse de la lumière dans le vide ;
+c, la concentration molaire d'un soluté dans une solution ;
+C, un condensateur dans un schéma de circuit électronique.
+
+
+== Divers ==
+Génération C, l'ensemble des personnes nées entre 1984 et 1996 selon  le CEFRIO ;
+Classe C, une automobile de Mercedes-Benz ;
+C, des formats internationaux de feuille de papier ;
+©, le symbole du copyright ;
+c., l'abréviation de circa qui signifie en latin "environ" concernant une date.
+C: ou C:\, la lettre de lecteur de la partition principale de stockage de fichiers des systèmes d'exploitation de type MS-DOS et Windows
+C est l'indicatif du chef du MI-6, qui était à l'origine l'initiale de Sir Mansfield Smith-Cumming, son premier directeur ;

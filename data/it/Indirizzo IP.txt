@@ -1,0 +1,121 @@
+In informatica e nelle telecomunicazioni, un indirizzo IP (dall'inglese Internet Protocol address) è un numero del pacchetto IP che identifica univocamente un dispositivo detto host collegato a una rete informatica che utilizza l'Internet Protocol come protocollo di rete per l'instradamento/indirizzamento, inserito dunque nell'intestazione (header) del datagramma IP per l'indirizzamento tramite appunto il protocollo IP. Esso equivale all'indirizzo stradale o al numero telefonico, infatti sono informazioni complete e univoche a livello mondiale, similmente all'indirizzo IP.
+Viene assegnato a un'interfaccia (per esempio una scheda di rete) che identifica l'host di rete, che può essere un personal computer, un palmare, uno smartphone, un router, o anche un elettrodomestico. Va considerato, infatti, che un host può contenere più di una interfaccia: per esempio un router ha diverse interfacce (minimo due) per ognuna delle quali occorre un indirizzo IP.
+
+
+== Composizione e formati ==
+L'indirizzo IP si compone di due parti: indicatore di rete (Net_ID) e indicatore di host (Host_ID).
+
+La prima parte identifica la rete, chiamata network o routing prefix (Net_ID) ed è utilizzata per l'instradamento a livello di sottoreti. Il NetID viene assegnato dall'ICANN che a sua volta delega organizzazioni regionali (Europa, Asia, ecc.) che a loro volta delegano altre organizzazioni (per l'Italia GARR).
+La seconda parte invece identifica, all'interno della rete, l'host (o l'interfaccia in IPv6) e le eventuali sottoreti (Host_ID) ed è utilizzato per l'instradamento a livello locale dell'host una volta raggiunta la sottorete locale di destinazione, cui segue la traduzione o risoluzione in indirizzo MAC per l'effettiva consegna del pacchetto dati al destinatario con i protocolli della rete locale.Con l'introduzione del CIDR è possibile creare sottoreti, a differenza del sistema a classi, che prevedeva il rispetto delle reti imposte con conseguente spreco di indirizzi IP.Con lo scopo di ridurre la necessità di indirizzi IP sono stati assegnati tre blocchi di indirizzi IP per le reti private, classe A, classe B e classe C. Se un'organizzazione decide di utilizzare uno di questi IP, non ha bisogno di coordinarsi con ICANN o con qualsiasi altro registro Internet.
+
+
+=== IPv4 ===
+
+L'indirizzo IPv4 è costituito da 32 bit (quattro byte) suddiviso in quattro gruppi da 8 bit (1 byte), separati ciascuno da un punto (notazione dotted, es. 11001001.00100100.10101111.00001111). Ciascuno di questi quattro byte è poi convertito in formato decimale di più facile identificazione, che semplifica la lettura e la memorizzazione da parte di noi umani, (quindi ogni numero varia tra 0 e 255 essendo 28=256, ovvero le combinazioni disponibili ci dicono quanti numeri possiamo utilizzare in ogni gruppo identificato dal punto). Un esempio di indirizzo IPv4 è 172.16.254.1 che corrisponde a una notazione binaria.
+Nello standard IPv4 (Internet Protocol versione 4), essendo costituito da 32 bit, le combinazioni utilizzabili sono 232 pari a circa 4 miliardi. All'inizio, nel 1981, sembravano tanti, tuttavia oggi sono pochi poiché se ognuno di noi ha diversi dispositivi connessi a internet, questi avranno degli indirizzi IP univoci. Basti pensare che molte persone posseggono uno smartphone, un computer e una smart TV, quindi tre indirizzi IP. Sono quindi state identificate delle soluzioni, per esempio separare degli "indirizzi privati" assegnati nelle LAN, al cui interno sono identificati univocamente, ma il router ha un indirizzo pubblico, i rimanenti non sono visti dall'esterno. Questa soluzione è generalmente utilizzata dalle imprese. L'altra soluzione è passare a un nuovo standard: IPv6.
+
+
+=== IPv6 ===
+
+L'indirizzo IPv6 è costituito da 128 bit (16 byte), viene descritto da 8 gruppi di 4 cifre esadecimali che rappresentano 2 byte ciascuno (quindi ogni numero varia tra 0 e 65535) separati dal simbolo "due punti". Un esempio di indirizzo IPv6 è 2001:0DB8:0000:0000:0000:0000:0000:0001, che può essere abbreviato in 2001:DB8::1 (i due punti doppi rappresentano la parte dell'indirizzo che è composta di soli zeri consecutivi. Si può usare una sola volta, per cui se un indirizzo ha due parti composte di zeri la più breve andrà scritta per esteso).
+I dispositivi connessi a una rete IPv6 ottengono un indirizzo di tipo unicast globale, vale a dire che i primi 48 bit del suo indirizzo sono assegnati alla rete a cui esso si connette, mentre i successivi 16 bit identificano le varie sottoreti a cui l'host è connesso. Gli ultimi 64 bit sono ottenuti dall'indirizzo MAC dell'interfaccia fisica.
+Nello standard IPv6 (Internet Protocol versione 6), essendo costituito da 128 bit, le combinazioni utilizzabili sono 2128, per un totale di 3,4*1038 indirizzi, pari a circa 7*1023 indirizzi IP per ogni metro quadrato di superficie terrestre. A oggi ipotizziamo sufficiente, anche se non si è ancora passati totalmente all'IPv6.
+
+
+== Tipologie ==
+
+
+=== Indirizzi statici ===
+Gli indirizzi statici vengono utilizzati per identificare dispositivi semi-permanenti con indirizzo IP permanente. Server, stampanti di rete ecc. utilizzano tipicamente questo metodo di indirizzamento. Tipicamente si può ricorrere anche a un'assegnazione statica anziché dinamica per dispositivi di rete non permanenti se il numero di host della sottorete è contenuto e/o per motivi di sicurezza potendo tenere sotto controllo le azioni di ciascun host e del relativo utente.
+Sul fronte della sicurezza informatica l'assegnazione di un IP statico rende però il dispositivo più soggetto ad attacchi informatici.L'indirizzo statico può essere configurato direttamente sul dispositivo, oppure come parte di una configurazione DHCP che associa all'Indirizzo MAC il corrispondente indirizzo IP statico.
+
+
+=== Indirizzi dinamici ===
+
+Gli indirizzi dinamici sono utilizzati per identificare dispositivi non permanenti in una LAN. Un server presente nella LAN assegna dinamicamente e automaticamente l'indirizzo scegliendolo casualmente da un range preimpostato. Si può scegliere l'intervallo di indirizzi a seconda del numero delle utenze della rete impostando la maschera di sottorete, ossia dicendo al server DHCP quanti bit dell'indirizzo sono assegnabili dinamicamente a ogni singolo client che fa accesso. Per esempio se la netmask ha valore 255.255.255.0 (dove ogni blocco separato da puntini denota un gruppo di 8 bit) solo gli ultimi 8 bit sono assegnabili agli host.
+I fornitori di connessione internet (Internet Service Provider, ISP), per esempio, utilizzano un numero variabile di indirizzi assegnabili per una vasta clientela facendo leva sul concetto che non tutti i client saranno connessi nello stesso momento. Questo sistema viene utilizzato soprattutto per gli accessi dial-up, Wi-fi o in qualsiasi altro accesso temporaneo permettendo, per esempio a un computer portatile, di connettersi a un'ampia varietà di servizi senza la necessità di conoscere i dettagli di indirizzamento di ogni rete.
+
+
+== La gestione internazionale ==
+
+Gli indirizzi IP pubblici e i range di indirizzi sono rilasciati e regolamentati dall'ICANN tramite una serie di organizzazioni delegate. A causa della saturazione dello spazio di IPv4 l'ICANN ha proceduto alla definizione di una nuova versione del protocollo IP: IPv6. Tale versione è basata su indirizzi a 128 bit anziché a 32, ciò permetterà l'assegnazione di un numero maggiore di indirizzi
+La difficile implementazione a livello globale dell'IPv6 ha portato all'introduzione di nuovi concetti, che hanno rivoluzionato la teoria e la pratica delle reti. Vanno citati l'abbandono del concetto di classi di indirizzi IP e il conseguente utilizzo sempre maggiore di indirizzi classless (privi del concetto di classe), la maschera di sottorete, la riorganizzazione gerarchica degli indirizzi mediante utilizzo massivo di Network address translation (NAT).
+
+
+=== Assegnazione e funzioni ===
+
+La parte Net_ID degli indirizzi è assegnata dall'ICANN mentre l'assegnazione della parte Host_ID è delegata al richiedente che eventualmente può suddividerla ulteriormente per la creazione di altre sottoreti logiche (subnetting) evitando duplicazioni e sprechi di indirizzi.
+Gli indirizzi IP possono essere assegnati in maniera permanente (per esempio un server che si trova sempre allo stesso indirizzo) oppure in maniera temporanea, da un intervallo di indirizzi disponibili. In particolare l'assegnazione dell'Host_Id può essere di due tipi: dinamica oppure statica.
+Assolve essenzialmente due funzioni: identificare un dispositivo sulla rete e di conseguenza fornire il percorso per essere raggiunto da un altro terminale o dispositivo di rete in una comunicazione dati a pacchetto.
+
+
+== I servizi correlati ==
+
+
+=== Sistemi di risoluzione dei nomi ===
+Per rendere maggiormente user-friendly la tecnologia IP sono stati implementati alcuni servizi di risoluzione dei nomi, cioè che associano un nome leggibile a un determinato indirizzo.
+
+
+==== DNS (Domain Name System) ====
+
+Il DNS è un servizio di directory utilizzato per la risoluzione dei nomi dei server da indirizzi logici e testuali (URL) in indirizzi IP. Questa funzione è essenziale per l'usabilità di Internet, visto che gli esseri umani hanno più facilità a ricordare nomi testuali, mentre i dispositivi di instradamento (interfacce di rete e router di livello 2 e superiore) lavorano su indirizzi binari. Permette inoltre a una qualsiasi entità di cambiare o riassegnare il proprio indirizzo IP, senza dovere notificare tale cambiamento a nessuno, tranne che al proprio server DNS di riferimento.
+Un'altra delle peculiarità del DNS è quella di consentire, per esempio a un sito web, di essere ospitato su più server (ognuno con il proprio indirizzo IP), con una conseguente divisione del carico di lavoro.
+Per esempio si può vedere come viene risolto www.wikipedia.org qui.
+Ogni suffisso (o classe) finale degli indirizzi IP, detta Top Level Domain, è associata a una e una sola autorità, delegata direttamente dall'ICANN (ex IANA) con il compito di gestire tutte le attività relative alla registrazione e al mantenimento dei nomi con un certo dominio. 
+Per i domini nazionali (Country Code) esiste una autorità designata per ogni Paese, che per l'Italia è il sito Registro.it, gestito dal Consiglio Nazionale delle Ricerche.
+Per vari domini di primo livello come questi la registrazione dei siti web è una procedura completamente automatica che inizia e si conclude interamente via Internet, e priva di passaggi manuali o cartacei. I tempi di attivazione divengono molto rapidi, quanto quelli di indicizzazione del nuovo sito fra i risultati di un motore di ricerca, operazioni che al limite si possono ripetere in contemporanea.
+
+
+==== WINS ====
+
+Nato dalla azienda Microsoft è l'implementazione del protocollo NetBIOS per risolvere nomi in reti locali, presente in tutti i sistemi operativi Windows. Da Windows 2000 fa parte di Active Directory.
+
+
+=== Servizi tecnici ===
+
+
+==== NAT ====
+
+Il NAT (Network Address Translation, Traduzione indirizzi di rete) è un servizio che permette a più dispositivi di condividere un unico indirizzo IP potendo così mettere in comunicazione diverse reti. Questa funzione è compito dei router. Utilizzando questa funzionalità si ha distinzione tra indirizzo IP pubblico e indirizzo IP privato.
+
+
+==== ARP ====
+L'indirizzo IP in formato numerico, una volta raggiunta la sottorete finale di destinazione, deve essere poi convertito in indirizzo MAC locale per l'instradamento diretto. Di tale risoluzione si occupa il protocollo ARP.
+
+
+== Conoscere l'indirizzo in uso ==
+Per conoscere il proprio indirizzo IP, maschera di sottorete e gateway in qualsiasi sistema operativo Unix-like (come nei sistemi Linux o in macOS) è sufficiente aprire una shell e digitare il comando ifconfig (o ipconfig, a seconda della distribuzione in uso).
+Nei sistemi operativi Microsoft Windows, invece, con il comando ipconfig, dal prompt dei comandi, si possono avere le informazioni desiderate. Tale comando non è sempre già installato. Nel caso non lo fosse già, per installarlo si deve eseguire un doppio click sul file suptools.msi nella cartella \Support\Tools nel CD di installazione.Mediante il ping e il traceroute (comandi del DOS, oppure programmi scritti in altri linguaggi) viene inviato un pacchetto "di prova" per misurare rispettivamente il tempo di risposta e il percorso geografico della connessione attiva.
+Chi naviga utilizzando un router, usando tali comandi visualizzerà le informazioni relative alla propria rete privata. Le informazioni riguardo all'IP pubblico (assegnato al router) sono disponibili nel pannello di configurazione del router stesso oppure è possibile visualizzarlo tramite un sito apposito.Per conoscere il proprio indirizzo IP su iPad e iPhone, aprire l'app Impostazioni, selezionare la voce Wi-Fi, premere successivamente sull'icona (i) posizionata a fianco della rete a cui si è connessi e comparirà l'indirizzo IP in corrispondenza della scritta "Router".
+
+
+== Cambiare l'indirizzo in uso ==
+Su iOS 15 e iPadOS 15 si può cambiare l'indirizzo IP.Su iPhone e iPad ci si può cimentare a:
+
+impostare un IP statico;
+dissociare una rete Wi-Fi;
+rinnovare l'indirizzo IP;
+cambiare i server DNS.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Porta (reti)
+Socket (reti)
+Gateway predefinito
+Indirizzo di broadcast
+Indirizzo link local
+Tracert
+Whois
+
+
+== Collegamenti esterni ==
+
+ indirizzo IP, in Lessico del XXI secolo, Istituto dell'Enciclopedia Italiana, 2012-2013. 
+(EN) IP address, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Indirizzo IP, in Free On-line Dictionary of Computing, Denis Howe. Disponibile con licenza GFDL
+ Informazioni sui vari ip presso il Ripe, su ripe.net.
+Indirizzamento IPv4: RFC 791, RFC 1519, RFC 1918
+Indirizzamento IPv6: RFC 4291

@@ -1,0 +1,53 @@
+B bzw. b (gesprochen: [beː]) ist der zweite Buchstabe des klassischen und modernen lateinischen Alphabets. Er repräsentiert im Deutschen einen Konsonanten. Der Buchstabe B hat in deutschen Texten eine durchschnittliche Häufigkeit von 1,89 %. Er ist damit der sechzehnthäufigste Buchstabe in deutschen Texten.
+
+Das Fingeralphabet für Gehörlose bzw. Schwerhörige stellt den Buchstaben B in Form einer geöffneten Hand mit eingeklappten Daumen dar.
+
+
+== Aussprache im Deutschen ==
+Dem Graphem B/b ist grundsätzlich das Phonem /b/, also der stimmhafte bilabiale Plosiv, zugeordnet wie in Baum, Baby, Liebe, Robbe. Dieser ist im Gegensatz zu seinem Gegenüber /p/ ein stimmhafter und nicht-aspirierter Lenis. B/b gehört damit zu den Obstruenten, die sich im Deutschen jeweils in Stimmhaft-stimmlos- bzw. Lenis-Fortis-Paaren gegenüberstehen: b ≠ p.
+Am Wort- und Silbenende sowie vor anderen stimmlosen Obstruenten wird B/b allerdings ebenso wie sein eigentlicher Fortis-Gegenüber P/p – also als stimmloser bilabialer Plosiv /p/ – ausgesprochen (lieb, lieblich, liebt, robbt, hübsch). Wenn bei verwandten Wortformen stimmloses /p/ gesprochen wird, nennt man dies Auslautverhärtung: lieb [-p], lieblich [-pl-], liebt [-pt] zu Liebe [-b-], robbt [-pt-] zu robben [-b-]; dagegen ist hübsch [-pʃ] ohne stimmhafte Entsprechung, also keine Auslautverhärtung.
+Nach einigen stimmlosen Obstruenten fällt die Aussprache des b nur fast mit der von p zusammen: lesbisch. Hier liegt der realisierte Laut zwischen einem b- und p-Laut, ist nicht-aspiriert und mehr oder weniger stimmlos. Phonologisch gesehen findet in den genannten Fällen, in denen die Aussprache von der grundlegenden Aussprache abweicht (z. B. bei der Auslautverhärtung), eine Neutralisation statt, das heißt die Opposition stimmhaft-stimmlos bzw. Lenis-Fortis ist in diesen Positionen aufgehoben und hat hier keine bedeutungsunterscheidende Funktion mehr.
+In einigen Dialekten wird es im Wortinneren und manchmal auch am Wortanfang als Reibelaut gesprochen, wie der stimmhafte labiodentale Frikativ /v/ oder der stimmhafte bilabiale Frikativ /β/.
+
+
+== Herkunft des Buchstabens ==
+Die protosinaitische Urform des Buchstabens stellt den Plan eines Hauses mit Ausgang dar. Die Phönizier gaben dem Buchstaben den Namen Bet (Haus), bis zum 9. Jahrhundert v. Chr. hatte sich der Buchstabe stark abstrahiert. Bereits Bet hatte den Lautwert [b]. Je nach Schreibwerkzeug konnte der Buchstabe sehr eckig oder abgerundet geschrieben werden.
+Die Griechen übernahmen den phönizischen Buchstaben, versahen ihn mit einer zusätzlichen Rundung und nannten ihn Beta. Den Lautwert behielten sie bei. Die Etrusker übernahmen diesen Buchstaben als „B“, ohne ihn zu modifizieren. Da die etruskische Sprache allerdings keine stimmhaften Verschlusslaute wie [b] enthielt, verwarfen sie den Buchstaben nach kurzer Zeit.
+Die frühgriechische Schrift wurde von rechts nach links geschrieben. Als die Griechen die Schreibrichtung wechselten, spiegelten sie auch das Beta. Als die Römer das lateinische Alphabet schufen, das ebenfalls von links nach rechts geschrieben wird, orientierten sie sich am griechischen Beta und übernahmen es ohne weitere Modifikationen.
+
+
+== Siehe auch ==
+Β, β (Beta), der zweite Buchstabe des griechischen Alphabets
+Б, б  (Be), der zweite Buchstabe des kyrillischen Alphabets
+В, в (We), der dritte Buchstabe des kyrillischen Alphabets
+Ⲃ, ⲃ (bēta), der zweite Buchstabe des koptischen Alphabets
+ב, der Hebräische Buchstabe Beth
+ب, der Arabische Buchstabe Bā'
+verschiedene UNICODE-Zeichen, die vom lateinischen B, b abgeleitet sind:
+♭, das Musikzeichen b oder Be
+␢, ein Symbol für das Leerzeichen (englisch blank)
+B …
+mit Akut: B́
+mit Querstrich: Ƀ, ƀ
+mit Haken: Ɓ, ɓ (Kleinbuchstabe auch IPA-Zeichen)
+mit oberem Balken: Ƃ, ƃ
+mit Mitteltilde: ᵬ
+mit Palatalhaken: ᶀ
+mit Punkt darüber: Ḃ, ḃ
+mit Punkt darunter: Ḅ, ḅ
+mit Strich darunter: Ḇ, ḇ
+als Kapitälchen: ʙ (auch IPA-Zeichen), daneben auch mit Querstrich: ᴃ
+hochgestellt: ᴮ, ᵇ
+in Handschrift: ℬ
+die L-B-Ligatur: ℔
+umkreistes B: Ⓑ, ⓑ
+geklammertes kleines b: ⒝
+
+
+== Literatur ==
+B (Buchstabe). In: Johann Heinrich Zedler: Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste. Band 3, Leipzig 1733, Sp. 1 f.
+
+
+== Weblinks ==
+
+Evolution of Alphabets (englisch)

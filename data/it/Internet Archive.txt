@@ -1,0 +1,102 @@
+Internet Archive è una biblioteca digitale non profit che ha lo scopo dichiarato di consentire un "accesso universale alla conoscenza". Essa offre uno spazio digitale permanente per l'accesso a vari tipi di risorse: per esempio, siti web, audio, video e libri. Internet Archive fu fondata da Brewster Kahle nel 1996 e fa parte della IIPC (International Internet Preservation Consortium). In aggiunta alla sua funzione primaria di archiviazione, Internet Archive è un'organizzazione che si batte per un'Internet libera e aperta ed è un'associazione non profit riconosciuta ufficialmente negli Stati Uniti d'America.
+Gli uffici amministrativi hanno sede a San Francisco mentre i centri elaborazione dati sono collocati a San Francisco, a Redwood City e a Mountain View, in California. La più massiccia raccolta digitale della biblioteca è l'archivio web, una sorta di collezione di "fermi immagine" del World Wide Web catalogati secondo la data di acquisizione. Per assicurare la stabilità e la sicurezza dei dati archiviati, l'intera collezione ha un mirror nei server della Bibliotheca Alexandrina ad Alessandria d'Egitto. L'archivio permette a chiunque abbia un account gratuito il caricamento e lo scaricamento di materiale digitale da e verso i suoi server a costo zero.Esso inoltre permette l'accesso a uno dei più vasti progetti di archiviazione digitale di libri esistente, è parte dell'American Library Association ed è ufficialmente riconosciuta dallo stato della California come biblioteca pubblica. La società conta 200 dipendenti, molti dei quali impegnati nella scansione di volumi cartacei presso i centri specializzati. L'ufficio principale di San Francisco conta trenta dipendenti. Internet Archive ha un budget annuale di circa 10 milioni di dollari, derivanti in massima parte da una varietà di fonti: i profitti dei servizi riguardanti il web crawling, collaborazioni varie, sovvenzioni, donazioni, e la Kahle-Austin Foundation.Secondo il sito web di Internet Archive "molte società danno importanza alla conservazione di manufatti riguardanti la loro eredità culturale. Senza questi manufatti la civiltà non ha memoria e non ha modo di imparare dai propri successi e dai propri fallimenti. La nostra cultura ora produce sempre più prodotti in forma digitale. La missione di Internet Archive è di aiutare a conservare questi manufatti e creare una biblioteca digitale su Internet per ricercatori, storici e studiosi".
+
+
+== Storia ==
+Brewster Kahle fondò Internet Archive nel 1996, nello stesso periodo in cui fondò la società Alexa Internet, compagnia impegnata in servizi di web crawling. Internet Archive ha cominciato ad archiviare il World Wide Web nel 1996, ma la collezione non fu accessibile fino al 2001, quando fu sviluppata la Wayback Machine. Nel 1999, Internet Archive si espanse aggiungendo altre raccolte tra cui il Prelinger Archive. L'Internet Archive comprende attualmente, tra l'altro, testi, audio, immagini in movimento e software. Ospita una serie di altri progetti tra cui un archivio di immagini della NASA, il servizio di indicizzazione Archive-It e Open Library, un catalogo di volumi editabile tramite un software simile a un wiki.
+Il 25 marzo 2020, a seguito della pandemia di COVID-19, L'internet Archive ha lanciato la National Emergency Library, un'iniziativa che consente l'accesso gratuito in modalità testo integrale all'intera collezione digitale che conta più di 1 milione di titoli a catalogo.Nel marzo 2023 un giudice statunitense di primo grado ha dato ragione a un gruppo di editori che aveva citato l'Internet Archive per violazione del diritto d'autore, sostenendo che la messa a disposizione del pubblico delle copie dei libri digitalizzati non rientrasse nel fair use. L'internet archive gestisce anche un servizio di Controlled Digital Library che prevede la messa in prestito di un numero di copie digitali di un titolo esattamente pari al numero delle copie possedute regolarmente pagate dalle biblioteche partner del progetto.
+
+
+== Progetti ==
+
+
+=== Wayback Machine ===
+
+Wayback Machine è l'interfaccia web utilizzata da Internet Archive per l'estrapolazione dagli archivi dei dati riguardanti siti web. I siti archiviati rappresentano una sorta di "fermi immagine" raccolti al momento dell'acquisizione delle pagine tramite il software di indicizzazione di Internet Archive. Il nome "Wayback Machine" deriva dal termine "WABAC Machine" utilizzato in una delle storie della serie animata Rocky e Bullwinkle. Il servizio, grazie allo spider di Alexa, memorizza nel tempo i cambiamenti e le evoluzioni dei diversi siti web. Per i siti minori non ha un frequente caching, ovvero le pagine vengono memorizzate solo raramente.
+Si rivela un servizio utile nei seguenti casi:
+
+studio dell'evoluzione dei siti Web;
+recupero di pagine e siti andati persi;
+ricerca di prove una volta pubblicate e quindi cancellate.Il servizio permette di accedere a versioni archiviate di pagine web del passato, una sorta di "archivio tridimensionale" secondo le parole di Internet Archive. Milioni di siti web con i rispettivi dati (immagini, testo, documenti collegati, ecc.) sono archiviati in un gigantesco database. Non tutti i siti web sono disponibili a causa della scelta di molti proprietari di siti di escludere i loro siti dall'indicizzazione. Come per tutti i siti basati su dati provenienti da web crawler, inoltre, mancano vaste aree del web per una serie di ragioni tecniche. Diverse problematiche legali riguardanti l'archiviazione e la copertura o meno di siti sono state infine riscontrate negli anni, sebbene queste non siano il risultato di azioni deliberate.L'uso del termine "Wayback Machine" nel contesto di Internet Archive è diventato così comune che "Wayback Machine" e "Internet Archive" sono divenuti quasi sinonimi nella cultura di massa; per esempio, nella serie televisiva Law & Order: Criminal Intent (nell'episodio "Legacy", andato in onda per la prima volta il 3 agosto 2008, intitolato Amore virtuale nella controparte in italiano), uno dei protagonisti dell'episodio utilizza la "Wayback Machine" per scovare la copia archiviata di un sito web. Le "istantanee" dei siti archiviate durante i vari passaggi del crawler diventano accessibili pubblicamente di solito dopo 6-18 mesi.
+Esempi di siti web archiviati da Internet Archive e visualizzati attraverso la Wayback Machine:
+
+Internet Archive (archiviazione ricorsiva)
+ Wikipedia, su web.archive.org.
+ Google, su web.archive.org.Internet Archive utilizza il protocollo Robots Exclusion Standard (attraverso il file robots.txt) per l'esclusione volontaria dei siti dal proprio database. Internet Archive rispetta le direttive del file robots.txt facendo in modo che i suoi bot non indicizzino le pagine. Per questo motivo, Internet Archive ha reso indisponibili un certo numero di siti web che sono del tutto inaccessibili attraverso la Wayback Machine. In caso di siti bloccati, viene archiviato il solo file robots.txt.
+L'Internet Archive applica le regole robots.txt con effetto retroattivo: se un sito blocca lo spider di Internet Archive attraverso il file robots.txt, allora diventano non disponibili tutte le pagine già archiviate dal dominio. Inoltre, lo stesso comportamento è riservato a tutti i siti web che ne fanno esplicita richiesta: per questo, ogni volta che il proprietario di un sito ne chiede l'esclusione dall'indice, si acconsente alla richiesta, non essendo "Internet Archive [...] interessato a preservare o offrire l'accesso a siti Web o ad altri documenti su Internet di proprietà di persone che non vogliono i loro materiali nella nostra collezione".Per esempio, l'indirizzo https://web.archive.org/*/https://www.ubuntu-it.org, mostra le copie consultabili della pagina 
+
+https://www.ubuntu-it.org,
+suddivise in base alla data del salvataggio su Internet Archive.
+
+
+=== Open Library ===
+Open Library, fra i cui fondatori si annovera anche l'attivista digitale Aaron Swartz è una biblioteca digitale nata con lo scopo di raccogliere schede per ogni libro mai pubblicato e di catalogarle in un unico database; una sorta di versione open source di WorldCat, nata in contrapposizione al progetto di digitalizzazione Google Books (in italiano, Google Libri). Il progetto nasce nel 2007 e include alcuni milioni di schede catalografiche e libri digitalizzati nel pubblico dominio interamente accessibili e scaricabili. 
+Open Library è un progetto che si basa su software libero e open source, il codice sorgente è interamente accessibile dal sito di riferimento.
+A partire da giugno 2010 Open Library offre anche un servizio di prestito di ebook svolto in collaborazione col distributore di contenuti digitali statunitense OverDrive e con biblioteche americane.
+
+
+=== Archive-It ===
+Sviluppato nel 2006, Archive-It è un servizio che permette a istituzioni ed entità individuali di costruire e preservare collezione di materiale digitale. Attraverso un'applicazione web, i sottoscrittori del servizio possono raccogliere, catalogare, indicizzare e, nel corso di 24 ore, accedere interamente all'archivio. Le collezioni sono ospitate su server di Internet Archive e accessibili al pubblico tramite ricerche full-text. Tutto il materiale digitale è conservato in duplice copia (una primaria e una di back up), viene periodicamente indicizzato nell'archivio generale di Internet Archive e una copia dei dati può essere mandata ai sottoscrittori su richiesta. Al 2009 Archive-It conta 125 istituzioni partner in 42 stati americani e in 11 nazioni per un totale di 1,5 miliardi di URL e 963 collezioni pubbliche. Le istituzioni che hanno sottoscritto il servizio Archive-It sono in larga parte biblioteche universitarie e di college, archivi di stato, istituzioni federali, musei e organizzazioni culturali, tra cui la Electronic Literature Organization, l'Archivio di Stato della Carolina del Nord, il Texas State Library and Archives Commission, la Stanford University, la National Library of Australia, il Research Libraries Group (RLG), e molti altri.
+
+
+=== NASA Images ===
+Il progetto NASA Images fu creato grazie a uno Space Act Agreement tra Internet Archive e la NASA per rendere accessibili al pubblico gli archivi delle immagini, dei video e degli audio prodotti dall'agenzia nel corso degli anni attraverso un singolo archivio interamente indicizzato e fruibile tramite ricerche. Il sito web fu lanciato nel luglio del 2008 ed è arrivato a contenere oltre 100 000 file.
+
+
+=== Collezioni di risorse multimediali ===
+Oltre agli archivi web, Internet Archive mantiene grosse collezioni di risorse multimediali digitali riconosciute, da chi le ha caricate sul sito, nel pubblico dominio negli Stati Uniti o distribuiti con una licenza che ne rende possibile la redistribuzione libera, come per esempio le licenze Creative Commons. Le risorse sono classificate a seconda del tipo di media (immagini in movimento, audio, testo) e in altre sotto-classificazioni secondo vari criteri.
+
+
+==== Collezione di immagini in movimento ====
+La collezione di immagini in movimento (Moving Image Collection) di Internet Archive comprende: cinegiornali; cartoni animati classici; propagande di guerra; il Prelinger Archive, un archivio speciale che contiene materiale considerato "effimero" come film sponsorizzati da aziende e organizzazioni, film didattici e filmati amatoriali, pubblicità e altro materiale i cui diritti d'autore sono scaduti. Le collezioni di risorse digitali sono molte e variano per argomento e fonte di reperimento; la collezione di brickfilm, per esempio, contiene numerosi film girati in stop-motion con mattoncini Lego; un'altra collezione riguarda le elezioni presidenziali USA del 2004 e la relativa campagna elettorale. La collezione Independent News comprende una serie di raccolte tra cui quella del concorso del 2001 Internet Archive's World At War, per il quale i concorrenti crearono cortometraggi per dimostrare l'importanza dell'accesso alle informazioni e alla storia. L'archivio riguardante l'attacco alle Torri gemelle dell'11 settembre 2001 contiene materiale d'archivio prodotto dai principali network televisivi mondiali sull'evento e andato in onda in diretta quel giorno.
+
+
+===== Film =====
+Nelle collezioni di immagini in movimento sono presenti anche versioni originali di celebri film, tra cui:
+
+
+==== Collezione audio ====
+La collezione audio comprende musica, audiolibri, notiziari, vecchie trasmissioni radio e una grande varietà di altri file audio. La collezione Live Music Archive comprende oltre 50 000 registrazioni di concerti di artisti indipendenti e artisti affermati ed ensemble musicali che adottano norme permissive sulla registrazione dei loro concerti, come i Grateful Dead, e gli Smashing Pumpkins.
+
+
+==== Collezione di testi ====
+La collezione comprende testi di libri digitalizzati da varie biblioteche di tutto il mondo così come molte collezioni speciali. Internet Archive dispone di 23 centri di scansione in cinque paesi, per una digitalizzazione di circa 1 000 libri al giorno, finanziata da biblioteche e fondazioni. Nel novembre 2008, quando c'erano circa 1 milione di testi, l'intera collezione occupava circa 0,5 petabyte, Incluse immagini raw, file PDF, OCR e dati grezzi.Tra il 2006 e il 2008 Microsoft Corporation instaura un rapporto di collaborazione con Internet Archive attraverso il suo progetto Live Search Books, con la scansione più di 300 000 libri che sono stati aggiunti alla raccolta, nonché con il sostegno finanziario e con le attrezzature di scansione. Il 23 maggio 2008 Microsoft annunciò che avrebbe posto fine al progetto Live Book Search e alla scansione di nuovi libri. Microsoft ha reso i libri digitalizzati disponibili senza restrizioni contrattuali e ha donato la sua attrezzatura di scansione al suo ex partner.
+Nell'ottobre del 2007 gli utenti di Internet Archive hanno iniziato il caricamento di libri di dominio pubblico da Google Libri. Dal mese di gennaio 2010 sono stati raccolti 900 000 libri digitalizzati da Google, che rappresentano oltre la metà dei libri del totale disponibile su archive.org. I libri sono identici alle copie trovate su Google, e sono disponibili per un uso illimitato e per il downloading, come tutti i materiali Internet Archive.
+Internet Archive è un membro della Open Book Alliance, organizzazione che è stata tra le più critiche nei confronti dell'accordo tra l'associazione degli editori americani e Google per la digitalizzazione di libri.
+Nel 2016, anche seguito dello scandalo delle elezioni presidenziali, l'Internet Archive avviò una collaborazione con le versioni di Wikipedia in molteplici lingue, elaborando un programma per la sostituzione automatica dei link non funzionanti nei template di citazione. In loro sostituzione, l'Internet Archive Bot inserisce l'URL della copia digitale della fonte presente nell'Internet Archive, con un'anteprima di due pagine per contestualizzare la citazione.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Progetto Gutenberg
+Archiviazione web
+Preservazione digitale
+PANDORA
+WebCite
+Web crawler
+Web 3.0
+HathiTrust
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Internet Archive
+
+
+== Collegamenti esterni ==
+
+(EN) Sito ufficiale, su archive.org. 
+(EN) Blog ufficiale, su blog.archive.org. 
+ Internet Archive (canale), su YouTube. 
+(EN) Internet Archive, su GitHub. 
+(EN) Internet Archive, su MusicBrainz, MetaBrainz Foundation. 
+ Brewster Kahle, Archiving the Internet, in Scientific American, marzo 1997 (archiviato dall'url originale l'11 ottobre 1997).
+ Leonard Berberi, L'arca della memoria, in Corriere della Sera (archiviato dall'url originale il 22 luglio 2014).
+(EN) Guida alla consultazione delle risorse su Internet Archive, su WikiHow.Altri Progetti e risorse(EN) Servizio di cattura e archiviazione di pagine Internet, su archive.today.
+(EN) Servizio di archiviazione e ricerca avanzata per le pubblicazioni scientifiche, su datacite.org.
+(EN) Servizio della Harvard Library Innovation Lab, su perma.cc.
+(EN) Servizio di archiviazione di materiale scientifico ed educativo, su webcitation.org. URL consultato il 2 maggio 2019 (archiviato dall'url originale il 12 novembre 2017).
+(EN) NDIIPP statunitense e Content Negotiation, su mementoweb.org. (servizio di ricerca avanzata)
+(EN) 11 Best Wayback Machine Alternatives in 2017 to Check History of Websites, su pingzic.net. URL consultato il 13 Maggio 2018 (archiviato dall'url originale il 13 maggio 2018).

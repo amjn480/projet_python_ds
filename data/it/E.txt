@@ -1,0 +1,34 @@
+E (maiuscola) o e (minuscola) è la quinta lettera dell'alfabeto italiano, largamente modellato su quello latino. È anche la quinta lettera dell'alfabeto etrusco e nello stampatello maiuscolo ha la stessa forma della maiuscola dell'epsilon greco (Ε; ε) e dell'Е cirillico. [e] è anche il simbolo che rappresenta una vocale anteriore medio-alta nell'alfabeto fonetico internazionale. In lingua italiana rappresenta la più comune congiunzione semplice tra parti del discorso. Può trasformarsi in ed a scopo eufonico.
+
+
+== Storia ==
+La lettera E deriva dalla epsilon dell'alfabeto greco, con una forma quasi uguale e la medesima funzione. Il semitico hê, molto probabilmente, rappresentava dapprima una figura umana nell'atto di pregare o invocare, ed era basata sul geroglifico egizio, pronunciato in modo diverso. In semitico, infatti, la lettera era pronunciata [h] (ma in parole straniere poteva anche pronunciarsi [e]), mentre in greco essa divenne [e]: l'etrusco e il latino seguirono quest'uso, che nelle lingue moderne rimane tale o può evolversi ulteriormente (ad esempio in inglese, dove la pronuncia è più simile a una i lunga [iː], ma va aggiunto che in tale lingua il legame fonema/lettera sia molto debole).
+
+
+== E commerciale ==
+
+La variante & (si legge e commerciale) è diffusa nei paesi anglosassoni e non è considerata un carattere dell'alfabeto latino, ma una variante del carattere e (una legatura con la t del latino et) da usare in particolari contesti. La e commerciale è presente in documenti romani del I secolo d.C. La sua invenzione è attribuita a Marco Tullio Tirone, segretario di Cicerone per moltissimi anni.
+
+
+== Codici informatici ==
+Unicode: maiuscola U+0045, minuscola U+0065.
+ASCII: maiuscola 69, minuscola 101; in binario 01000101 e 01100101 rispettivamente.
+EBCDIC: maiuscola 197, minuscola 133.
+Entità: maiuscola &#69; minuscola &#101;
+
+
+== Voci correlate ==
+Ѐ
+Accento acuto
+&
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni di o su E
+ Wikimedia Commons contiene immagini o altri file su E
+
+
+== Collegamenti esterni ==
+
+(EN) e, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

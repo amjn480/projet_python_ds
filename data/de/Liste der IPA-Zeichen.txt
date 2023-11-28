@@ -1,0 +1,128 @@
+Diese Liste der Zeichen des Internationalen Phonetischen Alphabets (IPA) ordnet die Lautschriftzeichen nach Ähnlichkeit mit Graphem bzw. Lautwert von Zeichen des lateinischen Alphabets.
+Alle IPA-Zeichen sind mit einer Beschreibung und Beispielen versehen. Als Beispielsprachen bevorzugt werden neben Deutsch die gängigen Schulsprachen, das heißt vor allem Englisch, Französisch, Italienisch, Spanisch und Russisch.
+Die als Beispiele angegebenen Aussprachevarianten erheben keinen Anspruch darauf, standardsprachlich, überregional oder gar die einzig mögliche Variante zu sein. Auch die Übersetzungen geben lediglich jeweils eine Bedeutung der meist polysemen oder homonymen Wörter wieder.
+
+
+== Konsonanten und Vokale ==
+Griechische Buchstaben (und daraus abgeleitete Zeichen) sind bei den lateinischen Buchstaben aufgeführt, mit denen sie üblicherweise dargestellt werden.
+Gedrehte Zeichen sind doppelt aufgelistet, sofern ihre Lautbedeutung stark von der des ungedrehten Buchstabens abweicht. Die eigentliche Beschreibung steht bei dem Buchstaben, zu dessen phonetischer Bedeutung sie eine Lautvariante darstellen. Ein zusätzlicher Querverweis steht bei dem Buchstaben, aus dem oder aus dessen griechischem Pendant sie erstellt wurden.
+Um ein Zeichen aus einer Lautschriftangabe in einem Artikel in der Liste zu finden, kann man das Zeichen hier in der Leiste suchen oder im Artikel kopieren und mit der Suchfunktion des Browsers in dieser Liste ausmachen.
+
+
+=== A ===
+Für den deutschen Ä-Laut siehe unter E.
+
+
+=== B ===
+
+
+=== C ===
+
+
+=== D ===
+
+
+=== E ===
+
+
+=== F ===
+
+
+=== G ===
+
+
+=== H ===
+
+
+=== I ===
+
+
+=== J ===
+
+
+=== K ===
+
+
+=== L ===
+
+
+=== M ===
+
+
+=== N ===
+
+
+=== O ===
+
+
+=== P ===
+
+
+=== Q ===
+
+
+=== R ===
+
+
+=== S ===
+Für die stimmhaften Varianten von s und sch siehe unter Z.
+
+
+=== T ===
+
+
+=== U ===
+Für den deutschen Ü-Laut siehe unter Y.
+
+
+=== V ===
+
+
+=== W ===
+Für den deutschen W-Laut siehe unter V.
+
+
+=== X ===
+
+
+=== Y ===
+
+
+=== Z ===
+
+
+=== Sonstige ===
+
+
+== Diakritika und Suprasegmentalia ==
+Diese Zeichen sind keine Laute, sondern dienen der näheren Beschreibung der Aussprache einzelner Laute oder Lautfolgen. Hier ist "◌" ein Platzhalter für ein Lautzeichen.
+
+
+== Suchindex ==
+
+
+== Siehe auch ==
+International Phonetic Association
+Liste ehemaliger IPA-Zeichen
+Unicodeblock IPA-Erweiterungen
+Diphthong, im Deutschen:
+/aʊ̯/ wie in „Haus“
+/aɪ̯/ wie in „Hai“, „Reim“
+/ɔʏ̯/ wie in „Häuser“, „treu“
+/ʊɪ̯/ wie in „pfui“
+
+
+== Literatur ==
+Handbook of the International Phonetic Association. A guide to the use of the international phonetic alphabet. Hrsg. von der International Phonetic Association. 12. Auflage. University Press, Cambridge u. a. 2011, ISBN 978-0-521-65236-0
+Geoffrey K. Pullum, William A. Ladusaw: Phonetic symbol guide. 2. Auflage University of Chicago Press, Chicago 1996, ISBN 0-226-68535-7
+
+
+== Weblinks ==
+
+Website der International Phonetic Association
+IPA transcription in Unicode (englisch)
+IPA englischer Begriffe (englisch)
+IPA-Reader: Liest IPA-Text in verschiedenen Sprachen vor
+
+
+== Einzelnachweise ==

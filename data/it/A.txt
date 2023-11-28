@@ -1,0 +1,45 @@
+A (minuscolo a; nome italiano "a" /a/) è la prima lettera dell'alfabeto latino, greco e italiano, nonché della maggior parte degli alfabeti derivanti da quello fenicio. Essa rappresenta anche la lettera alfa dell'alfabeto greco e la а dell'alfabeto cirillico.
+In italiano corrisponde unicamente alla vocale centrale di massima apertura [a].
+
+
+== Storia ==
+L'evoluzione grafica e quella fonetica della lettera hanno seguito parzialmente percorsi differenti fino all'epoca fenicia. Le origini del segno "A" possono essere rintracciate in un geroglifico egizio rappresentante una testa di bove, poi riadattato e stilizzato, non prima di 3500 anni fa, in un alfabeto proto-semitico al nuovo stile di lettura, ma anch'esso rappresentante lo stesso soggetto. Il suono allora corrispettivo non era quello che conosciamo oggi, ma una consonante detta colpo di glottide [ʔ], usata nella lingua semitica. Successivamente col passaggio all'alfabeto fenicio, imparentato con quello semita, il segno grafico venne ulteriormente stilizzato, sino a renderlo simile all'odierno ma orientato con la punta a sinistra e verso il basso, imitando così il muso dell'animale e le corna. Fu in quest'epoca che la lettera, pur mantenendo il valore fonetico del colpo di glottide, assunse il nome di "aleph", con ph che non si pronunciava come la f ma come la p in inglese [pʰ], dal nome della prima lettera dell'alfabeto ebraico, che ancora significa «testa di bove» e da cui deriveranno gli altri suoi nomi e il valore fonologico odierno.
+I Greci elaborarono il loro alfabeto da quello fenicio, col bisogno, però, di apportarvi alcune modifiche in quanto loro, a differenza dei Fenici, avevano una lingua in cui le vocali hanno un valore distintivo ben preciso, così dovettero trovare un simbolo per il suono vocalico centrale aperto [a], rappresentato presso loro dalla lettera "alfa", riadattando la aleph fenicia proprio perché iniziante con quella medesima vocale.
+
+Il valore fonetico è finalmente quello odierno, e anche il segno grafico di oggi è grossomodo quello di quel tempo; i Greci ebbero bisogno di modellare due diversi segni per indicare la medesima lettera, uno maiuscolo, ottenuto orientando l'aleph fenicia verso l'alto, e uno minuscolo, probabilmente sempre da un riarrangiamento della lettera, non più modificandone l'orientamento ma la forma dei tratti essenziali attraverso delle linee tondeggianti. 
+I Greci usavano inoltre la lettera "A" nelle monete greche antiche, ed aveva il significato di Argo, Atene, Antiochia.Le lettere così formate si sono poi trasmesse attraverso l'alfabeto etrusco a quello latino, e grazie ai Romani diffuso in gran parte del territorio occupato dall'impero con il nome attuale "a" corrispondente al semplice valore fonetico della vocale.
+
+
+== Uso nelle lingue ==
+Nella maggior parte delle altre lingue che utilizzano l'alfabeto latino, la lettera A viene utilizzata per rappresentare o il suono [ɑ] o il suono [ä] (quest'ultimo, prodotto dall'emissione della voce dalla gola a labbra aperte, è lievemente gutturale ed esplosivo ed è il valore della lettera in italiano). Come si può notare, nell'alfabeto fonetico internazionale diverse versioni della lettera A simboleggiano suoni diversi (ma comunque abbastanza simili). In inglese invece la lettera A ha diversi valori: [æ] (come in pad), [ɑː] (come in father), [eɪ] (come in ace o nel nome stesso della lettera), o [ɔ] (come although).
+In francese la lettera "A", unita ad altre vocali quali "U", "E" formano un dittongo.
+In italiano, come anche in altre lingue, una A preposta ad una parola viene spesso usata per trasformarne il senso in quello opposto (prefisso privativo): ad esempio, "morale" diventa "amorale", in realtà un'alfa privativa greca; il prefisso è "an-" per le parole che iniziano per vocale ("alcolico" diventa "analcolico"). Nella grammatica italiana a è anche una preposizione semplice (mentre a' è la forma tronca della preposizione articolata ai). A può essere anche prefisso di verbi composti (es: rabbia-arrabbiare).
+
+
+== Codici informatici ==
+Unicode: maiuscola U+0041, minuscola U+0061
+ASCII: maiuscola 65, minuscola 97; in binario 01000001 e 01100001 rispettivamente
+EBCDIC: maiuscola 193, minuscola 129
+Entity: maiuscola & #65; e minuscola & #97;
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Grande Enciclopedia De Agostini, vol. 1, Novara, Istituto Geografico De Agostini, 1992,  p. 1.
+ Paola Crescini, Luigi Della Peruta, Franco Fava, Dizionario Illustrato della Mitologia Classica, vol. 1, Milano, 1999, ISBN 9788871443935.
+
+
+== Voci correlate ==
+À
+ª
+Å
+@
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni di o su A
+ Wikizionario contiene il lemma di dizionario «a»
+ Wikimedia Commons contiene immagini o altri file su A

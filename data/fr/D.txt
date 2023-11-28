@@ -1,0 +1,450 @@
+D est la 4e lettre et la 3e consonne de l'alphabet latin.
+
+
+== Sciences et techniques ==
+
+
+=== Astronomie et planétologie ===
+Dans la désignation des planètes mineures, le D indique que l'objet céleste a été découvert entre le 16 et le 29 février d'une année.
+
+
+=== Biologie ===
+Dans la transcription d'une chaîne polypeptidique, le D désigne l'acide aspartique.
+La vitamine D est un type de vitamine.
+d est le symbole du darwin, une unité de mesure servant à l'estimation d'un changement dû à l'évolution.
+
+
+=== Chimie ===
+D est le symbole du deutérium, un isotope de l'hydrogène.
+d est un type d'orbitale atomique (abréviation de diffuse). Les éléments du bloc d, bloc du tableau périodique sont ceux dont l'orbitale occupée de plus haute énergie est de type d.
+
+
+=== Informatique ===
+Le langage D est un langage de programmation créé par Walter Bright, inspiré du C et du Java.
+D est un langage de programmation pour piloter le système de trace DTrace
+Le tutorial D est un langage proposé comme successeur de SQL.
+
+
+=== Mathématiques ===
+D représente l'ensemble des nombres décimaux.
+D ou d est la notation généralement utilisée en français pour le diamètre d'un cercle.
+D ou d est le nom par défaut d'une droite.
+
+  
+    
+      
+        
+          D
+          
+            f
+          
+        
+      
+    
+    {\displaystyle D_{f}}
+   est l'ensemble de définition de la fonction 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  .
+Dans le système de numération hexadécimale, la lettre D correspond à la valeur décimale 13.
+D signifie 500 en chiffres romains.
+d est un symbole associé aux notions de dérivée et de différentielle :
+on note la dérivée d'une fonction 
+  
+    
+      
+        f
+         
+      
+    
+    {\displaystyle f~}
+   en x0 par 
+  
+    
+      
+        
+          f
+          ′
+        
+        (
+        
+          x
+          
+            0
+          
+        
+        )
+        =
+        
+          
+            
+              
+                
+                  d
+                
+              
+              f
+            
+            
+              
+                
+                  d
+                
+              
+              x
+            
+          
+        
+        (
+        
+          x
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle f'(x_{0})={\frac {{\rm {d}}f}{{\rm {d}}x}}(x_{0})}
+  ;
+on note la différentielle d'une fonction f par df ;
+la base canonique d'un espace vectoriel de formes linéaires est souvent notée 
+  
+    
+      
+        
+          (
+          
+            
+              d
+            
+            x
+            ,
+            
+              d
+            
+            y
+            ,
+            …
+          
+          )
+        
+      
+    
+    {\displaystyle \left(\mathrm {d} x,\mathrm {d} y,\ldots \right)}
+   ou 
+  
+    
+      
+        
+          (
+          
+            
+              d
+            
+            
+              x
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              d
+            
+            
+              x
+              
+                n
+              
+            
+          
+          )
+        
+        
+      
+    
+    {\displaystyle \left(\mathrm {d} x_{1},\ldots ,\mathrm {d} x_{n}\right)\,}
+  .
+le « d rond » ∂ est le symbole de la dérivation partielle : on note la dérivée partielle selon x de ƒ(x,y) par 
+  
+    
+      
+        
+          
+            
+              ∂
+              f
+            
+            
+              ∂
+              x
+            
+          
+        
+        (
+        
+          x
+          
+            0
+          
+        
+        ,
+        
+          y
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle {\frac {\partial f}{\partial x}}(x_{0},y_{0})}
+  
+en théorie des nombres, la fonction nombre de diviseurs est notée d (ou τ, ou σ0).
+
+
+=== Physique ===
+d ou D est souvent utilisé comme variable pour désigner une distance.
+Par abus de notation, dx désigne un « petit incrément » de x (confusion volontairement entretenue entre une petite variation δx et la différentielle dx).
+D est utilisé en mécanique des fluides pour désigner la dérivation particulaire :  
+  
+    
+      
+        
+          
+            
+              D
+            
+            
+              
+                D
+              
+              t
+            
+          
+        
+        =
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          
+            
+              v
+              →
+            
+          
+        
+        ⋅
+        
+          
+            ∇
+            →
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathrm {D} }{\mathrm {D} t}}={\frac {\partial }{\partial t}}+{\vec {v}}\cdot {\overrightarrow {\nabla }}}
+    où t désigne le temps, 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   la vitesse du fluide et 
+  
+    
+      
+        
+          
+            ∇
+            →
+          
+        
+      
+    
+    {\displaystyle {\overrightarrow {\nabla }}}
+   l'opérateur nabla. La dérivée particulaire de la température 
+  
+    
+      
+        T
+        (
+        x
+        ,
+        y
+        ,
+        z
+        ,
+        t
+        )
+      
+    
+    {\displaystyle T(x,y,z,t)}
+  , par exemple, est ainsi :  
+  
+    
+      
+        
+          
+            
+              
+                D
+              
+              T
+            
+            
+              
+                D
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              ∂
+              T
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          
+            
+              v
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              g
+              r
+              a
+              d
+            
+            →
+          
+        
+        
+        T
+      
+    
+    {\displaystyle {\frac {\mathrm {D} T}{\mathrm {D} t}}={\frac {\partial T}{\partial t}}+{\vec {v}}\cdot {\overrightarrow {\mathrm {grad} }}\,T}
+  .
+
+  
+    
+      
+        
+          
+            
+              D
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {D}}}
+   peut désigner le vecteur d'induction électrique.
+
+
+=== Unités ===
+d (minuscule) est le préfixe du Système international (SI) signifiant déci (10-1)
+d (minuscule) est le symbole non-SI de la  journée (du latin diem, accusatif de dies -et non de l'anglais day) : 1 d = 86 400 s.
+D (majuscule) est le symbole du debye.
+D est le nombre 500 (cinq cents) en chiffres romains.
+
+
+== Culture et société ==
+
+
+=== Cinéma et télévision ===
+D est un film indien de Vishram Sawant.
+Canal D est une chaîne de télévision québécoise.
+
+
+=== Jeux ===
+D est un jeu vidéo sorti en 1995 sur 3DO, puis sur Saturn et PlayStation.
+D est un fantôme qui est le 2e héros dans le jeu vidéo Another code: mémoire double
+
+
+=== Littérature et bande dessinée ===
+D est la note signifiant « désolant » dans la série des livres Harry Potter.
+D est une série fantastique de Alain Ayroles, Bruno Maïorana et Thierry Leprévost, se déroulant à l'époque victorienne.
+D est une particule, entourée de mystère, placée entre le prénom et le nom de certains personnages du manga One Piece.
+D. est un roman de Robert Harris, consacré à l'affaire Dreyfus.
+
+
+=== Musique ===
+D correspond à la note ré.
+D est aussi un groupe de visual kei composé d'Asagi au chant, Ruiza à la guitare, Hiroki à la batterie, Hide-zou à la guitare et Tsunehito à la basse.
+D de Otto Erich Deutsch qui a réalisé un catalogue des œuvres de Franz Schubert.
+Monsieur D est le pseudonyme d'un membre du duo de chanson française Oldelaf et Monsieur D composé de Olivier Delafosse et de Frédéric Draps (plus tard remplacé par Frédéric Vaysse).
+DJ D (1982-) est un disc jockey italien de musique électronique hardcore et gabber.
+
+
+=== Phonétique ===
+[d] est le symbole de l'alphabet phonétique international qui représente la consonne occlusive alvéolaire voisée.
+[ɖ] est le symbole de l'alphabet phonétique international qui représente la consonne occlusive rétroflexe voisée.
+[ɗ] est le symbole de l'alphabet phonétique international qui représente la consonne occlusive injective alvéolaire.
+
+
+=== Religion ===
+La notation D... ou D. est une abréviation du nom de Dieu employée par les juifs les plus religieux, puisque le judaïsme interdit de prononcer le nom de Dieu au complet. En principe, seul le nom le plus sacré de Dieu (le Tétragramme) est concerné par cette interdiction, mais celle-ci s'est étendue à certains synonymes, comme « Dieu » en français.
+En critique textuelle, D est le sigle représentant le Codex Bezae, manuscrit des Evangiles et des Actes des Apôtres considéré comme le chef de file du "texte occidental"
+
+
+=== Vie pratique ===
+Signalisation routière :
+la lettre D est le code international des automobiles venant d'Allemagne ;
+D est utilisée dans la dénomination des voies de circulation en France pour désigner les routes départementales ;
+le D est la lettre d'indexation des poteaux d'éclairage dans la Région de Bruxelles-Capitale, en Belgique.
+D1, D2, D3, D4, D5, D6 et D7 sont des formats internationaux de feuille de papier.
+Dans un système de notation (évaluation des performances) de A à E (sur 5), D (majuscule) correspond à une performance insuffisante. Ce système est plutôt employé dans les pays anglo-saxons.
+
+
+== Divers ==
+Sigles, de D0 à D99
+Le D, deuxième fleuve le plus court du monde
+Voitures de Formule 1 :
+la Pankratz D ;
+la Ewing D ;
+la Templeton D.
+
+
+== Notes et références ==

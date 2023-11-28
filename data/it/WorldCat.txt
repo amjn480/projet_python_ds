@@ -1,0 +1,31 @@
+WorldCat è un catalogo bibliografico. Registra le collezioni di quasi 20 000 biblioteche che, in oltre 123 Paesi, partecipano alla cooperazione bibliotecaria dell'Online Computer Library Center (OCLC). WorldCat è costruito e mantenuto collettivamente dalle biblioteche partecipanti.
+
+
+== Storia ==
+Il catalogo è stato creato da Fred Kilgour a partire dal 1967 ed è diventato operativo a partire dal 1971. È il più ampio database bibliografico internazionale. OCLC fornisce WorldCat liberamente alle biblioteche, ma il catalogo è la base per altri servizi a pagamento, come la condivisione di risorse e la gestione completa della biblioteca.
+Nel 2003 OCLC ha iniziato il programma pilota "Open WorldCat", rendendo disponibili record abbreviati, provenienti da una sezione di Worldcat, ai siti web partner e ai rivenditori di libri, in modo da incrementare le possibilità di accedere alle collezioni delle biblioteche partecipanti. Dal 2006 è possibile fare ricerche liberamente su WorldCat attraverso un motore di ricerca interno proposto dal suo sito web.
+Nel 2007 WorldCat Identities ha iniziato a fornire informazioni sugli autori e sulle persone legate ai libri pubblicati (per esempio, coloro che hanno scritto prefazioni, postfazioni e contributi). A maggio del 2019, WorldCat conteneva oltre 450 milioni di record bibliografici in 484 lingue, che rappresentano oltre 2,8 miliardi di risorse di biblioteche fisiche e digitali, mentre il set di dati sulle persone comprendeva oltre 100 milioni di nomi.
+
+
+== Limitazioni ==
+WorldCat opera seguendo un modello misto di aggiornamento in tempo reale e di elaborazione batch. Tutte le biblioteche che riversano i propri record su WorldCat effettuano gli aggiornamenti a scadenze predefinite con OCLC, mentre tutte le biblioteche (ca 25 000) che catalogano online arricchiscono il catalogo in tempo reale. WorldCat può mostrare dunque che un determinato documento è presente nel catalogo della biblioteca, ma non se questo è in prestito in quel momento, oppure è disponibile.
+Per ovviare a questo problema, esiste la possibilità per le biblioteche di aggiungere link diretti al proprio catalogo, in modo da permettere agli utenti di controllare lo status di circolazione del documento.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Wendy M. Grossman, Why you can't find a library book in your search engine: Finding a book at your local library should just involve a simple web search; but thanks to a US cataloguing site, that is far from the case, in The Guardian, 21 gennaio 2009.
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su WorldCat
+
+
+== Collegamenti esterni ==
+
+(EN, CS, DE, ES, FR, IT, NL, PT, TH, KO, JA, ZH) Sito ufficiale, su worldcat.org. 
+ OCLC - "Web scale" discovery and delivery of library resources, su oclc.org.
+ WorldCat Identities, su worldcat.org.

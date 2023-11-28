@@ -1,0 +1,48 @@
+På grund av tekniska begränsningar leder ſ (långt s) hit.
+S [ess] är den nittonde bokstaven i det moderna latinska alfabetet.
+
+
+== Betydelser ==
+
+
+=== Versalt S ===
+Förkortning för Sveriges socialdemokratiska arbetareparti.
+Förkortning för Socialdepartementet.
+Länsbokstav för Värmlands län.
+Kemiskt tecken för grundämnet svavel. Se även periodiska systemet.
+Nationalitetsmärke för motorfordon från Sverige.
+Beteckningen för entropi.
+Inom bibliotekens klassifikationssystem SAB är S signum för  militärväsen, se S (SAB).
+En klass torpedbåtar i den finländska marinen, se till exempel S 2 (torpedbåt).
+S (TV-serie).
+Förkortning för söder, södra, syd.
+Nationalitetsbeteckning i registreringsnummer för hundar registrerade i Sverige.
+Beteckning för konduktans, Siemens, inom elektrotekniken.
+En skvallertidning utgiven av Bonniers sedan 2010, se S (tidskrift).
+Ett programspråk för statistiska analysera, se S (programspråk), jfr R (programspråk).
+Den statistiska kategorin Save i baseboll.
+
+
+=== Gement s ===
+Förkortning för socialdemokrat.
+Anger i kemiska formler att ett ämne är i fast form (förkortning för latinets "solidus"). Exempel: AgCl(s)
+Symbol för sekund, måttenheten för tid i Internationella måttenhetssystemet.
+Beteckning för centrumavstånd, till exempel mellan väggreglar. Äldre beteckningar såsom cc, c/c och c är fortfarande vanliga.
+ſ är en äldre variant av den gemena bokstaven s. Se långt s.
+
+
+== Historia ==
+Till det latinska alfabetet kom bokstaven "S" från den grekiska bokstaven sigma. Den härstammar i sin tur från den feniciska bokstaven "shin", som först hade föreställt solen ("shimsh"), men sedan kom att föreställa en tand ("shin").
+
+
+== Datateknik ==
+I Unicode lagras S, samt förkomponerade bokstäver med S som bas och vissa andra varianter av S, med följande kodpunkter:
+
+I ASCII-baserade kodningar lagras S med värdet 0x53 (hexadecimalt), s med värdet 0x73 (hexadecimalt) och (utom för nationella varianter av ISO/IEC 646) $ med värdet 0x24 (hexadecimalt).
+I EBCDIC-baserade kodningar lagras S med värdet 0xE2 (hexadecimalt), s med värdet 0xA2 (hexadecimalt) och $ med värdet 0x5B (hexadecimalt).
+Övriga varianter av S lagras med olika värden beroende på vilken kodning som används, om de alls kan representeras.
+
+
+== Se även ==
+långt s (ſ)
+http://en.wikipedia.org/wiki/Phoenician_alphabet

@@ -1,0 +1,444 @@
+Die Internasionale Standaard Boeknommer (ISBN) is 'n unieke, numeriese, kommersiële identifiseerder vir boeke wat gebaseer is op die 9-syfer Standaard Boeknommer (SBN) kode wat in die Verenigde Koninkryk deur die boekverkopers en skryfbehoefte handelaar W.H. Smith en ander in 1966 ontwikkel is. Die 10-syfer ISBN-formaat is deur die Internasionale Standaarde Organisasie ontwikkel en as internasionale standaard, ISO 2108 in 1970 gepubliseer (Die 9-syfer SBN-kode is in die Verenigde Koninkryk egter tot en met 1974 gebruik). Tans is die ISO TC46/SC9 subkomitee verantwoordelik vir die standaard.
+Sedert 1 Januarie 2007 het die Internasionale Standaard Boeknommers uit 13-syfers bestaan, wat versoenbaar was met die Europese Artikelnommers (EAN).'n Soortgelyke numeriese identifiseerder, die International Standard Serial Number (ISSN) identifiseer periodiese publikasies soos tydskrifte.
+
+
+== Oorsig ==
+'n ISBN word toegeken aan elke uitgawe en variasie (behalwe vir herdrukte uitgawes) van 'n boek. Die ISBN is 13 syfers lank indien dit na 1 Januarie 2007 toegeken is en 10 syfers lank as dit voor 2007 toegeken is. 'n Internasionale Boeknommer bestaan uit 4 of 5 dele:
+
+vir 'n 13-syfer ISBN, 'n GS1 voorvoegsel: 978 of 979
+die groepidentifiseerder
+die uitgewerkode
+die itemnommer en
+'n Kontrolesom of kontrolesyfer.Die dele van die ISBN mag verskil in lengte en word gewoonlik geskei deur koppeltekens of spasies.
+Die groepidentifiseerder is 'n 1 tot 5 syfer getal. Die enkelsyfer groepidentifiseerders is: 0 of 1 vir Engelssprekende lande; 2 vir Franssprekende lande; 3 vir Duitssprekende lande; 4 vir Japannees; 5 vir Russies en 7 vir Sjinees. 'n Voorbeeld van 'n 5 syfer groepidentifiseerder is 99936 vir Boetan. Oor die algemeen is die groepe 0-7, 80-94, 950-993, 9940-9989. Die oorspronklike standaard boeknommer (SBN) het nie groepidentifiseerders gehad nie, maar die byvoeg van 'n nul (0) as 'n voorvoegsel tot 'n 9-syfer SBN skep 'n geldige 10-syfer ISBN. Groepidentifiseerders vorm 'n voorvoegselkode wat vergelykbaar is met telefoniese landkodes.
+Die nasionale ISBN agentskap ken die uitgewernommer toe; die uitgewer kies dan 'n itemnommer. Gewoonlik word daar nie van 'n uitgewer vereis om 'n ISBN toe te ken nie of dat die nommer op die boek vertoon moet word nie, die meeste boekwinkels hanteer egter slegs goedere wat met 'n ISBN genommer is. 'n Volledige lys van die 628 000 toegekende uitgewerskodes word gepubliseer en kan aangekoop word. Die webwerf van die internasionale ISBN agentskap bied egter nie 'n gratis metode aan om uitgewerskodes op te soek nie.Daar word blokke ISBN'e aan uitgewers vir gebruik toegeken. Die groter uitgewers met 'n hoër verwagte aantal boeke kry gewoonlik groter blokke. 'n Klein uitgewer mag dalk ISBN'e ontvang wat insluit een of meer syfers vir die groepidentifiseerder en verskeie ander syfers vir die uitgewer en 'n enkelsyfer vir die indiwiduele items. Wanneer die uitgewer dan daardie blok opgebruik het kan die uitgewer 'n verdere blok ISBN'e ontvong met 'n verskillende uitgewernommer. Gevolglik kan dit gebeur dat 'n uitgewer meer as een uitgewernommer het. Daar mag ook meer as een groepidentifiseerder wees vir 'n land. Dit kan gebeur as 'n gewilde identifiseerder al sy nommers opgebruik het. Die lys van identifiseerders wys dat dit in China en meer as 'n dosyn ander lande al gebeur het.
+Deur veranderlike bloklengtes te gebruik, kan 'n groot uitgewer slegs 'n paar syfers toegeken word vir die uitgewernommer en baie syfers vir sy titels; op soortgelyke wyse kan lande waar baie boeke uitgegee word minder syfers toegeken word vir die groepidentifiseerder en baie vir die uitgewers en titels. Die tabel hieronder bevat 'n paar ISBN-10 kodes ter illustrasie van veranderlike bloklengtes.
+
+Engelstalige uitgewerkodes volg 'n sistematiese patroon wat dit moontlik maak vir hulle lengtes om maklik bepaal te word, as volg
+
+
+== Kontrolesyfer in ISBN-10 ==
+Die 2001 weergawe van die amptelike handleiding van die Internasionale ISBN agentskap sê dat die ISBN-10 kontrolesyfer — wat die laaste syfer in die tien syfer ISBN is – moet wissel tussen 0 tot 10 en moet so opgestel wees dat die som van al die tien syfers vermenigvuldig met 'n heeltal gewig wat afneem van 10 tot 1, 'n veelvoud van die getal 11 moet wees. Die kontrolesyfer word met ander woorde bepaal deur die eerste nege syfers van die 10 syfer ISBN te vermenigvuldig met sy volgorde in die kode beginnende by 10 tot by 2. Die totaal van die getalle word dan bereken en met 11 gedeel en die res bepaal. Die kontrolesyfer is dan die getal 11 minus die res daarvan afgetrek.
+Die kontrolesyfer van 'n ISBN-10 van 0-306-40615-? word byvoorbeeld as volg bereken:
+
+s = 0×10 + 3×9 + 0×8 + 6×7 + 4×6 + 0×5 + 6×4 + 1×3 + 5×2
+  =    0 +  27 +   0 +  42 +  24 +   0 +  24 +   3 +  10
+  = 130
+130 / 11 = 11 res 9
+11 – 9 = 2
+
+Die kontrolesyfer is dus 2 en die volledige reeks is ISBN 0-306-40615-2.
+Formeel word die berekening van die kontrolesyfer as volg uitgedruk:
+
+  
+    
+      
+        
+          x
+          
+            10
+          
+        
+        ≡
+        11
+        −
+        (
+        10
+        
+          x
+          
+            1
+          
+        
+        +
+        9
+        
+          x
+          
+            2
+          
+        
+        +
+        8
+        
+          x
+          
+            3
+          
+        
+        +
+        7
+        
+          x
+          
+            4
+          
+        
+        +
+        6
+        
+          x
+          
+            5
+          
+        
+        +
+        5
+        
+          x
+          
+            6
+          
+        
+        +
+        4
+        
+          x
+          
+            7
+          
+        
+        +
+        3
+        
+          x
+          
+            8
+          
+        
+        +
+        2
+        
+          x
+          
+            9
+          
+        
+        )
+        
+        
+          mod
+          
+            1
+          
+        
+        1.
+      
+    
+    {\displaystyle x_{10}\equiv 11-(10x_{1}+9x_{2}+8x_{3}+7x_{4}+6x_{5}+5x_{6}+4x_{7}+3x_{8}+2x_{9})\,{\bmod {1}}1.}
+  As die resultaat 11 is, word 'n '0' ingeskryf; as dit 10 is moet 'n 'X' gebruik word.
+Die twee algemeenste foute wat voorkom in die hantering van 'n ISBN (wanneer dit getik of geskryf word) is 'n verkeerde syfer of die omkeer van twee syfers. Aangesien 11 'n priemgetal is, verseker die ISBN kontrolesyfer metode dat die twee foute altyd opgespoor sal word. As daar egter 'n fout by die uitgewer voorkom en dit nie opgetel word nie, sal die boek met 'n ongeldige ISBN uitgereik word.
+
+
+=== Alternatiewe berekening ===
+Die ISBN-10 kontrolesyfer kan ook op 'n effe makliker manier bereken word:
+
+  
+    
+      
+        
+          x
+          
+            10
+          
+        
+        =
+        (
+        1
+        
+          x
+          
+            1
+          
+        
+        +
+        2
+        
+          x
+          
+            2
+          
+        
+        +
+        3
+        
+          x
+          
+            3
+          
+        
+        +
+        4
+        
+          x
+          
+            4
+          
+        
+        +
+        5
+        
+          x
+          
+            5
+          
+        
+        +
+        6
+        
+          x
+          
+            6
+          
+        
+        +
+        7
+        
+          x
+          
+            7
+          
+        
+        +
+        8
+        
+          x
+          
+            8
+          
+        
+        +
+        9
+        
+          x
+          
+            9
+          
+        
+        )
+        
+        
+          mod
+          
+            1
+          
+        
+        1.
+      
+    
+    {\displaystyle x_{10}=(1x_{1}+2x_{2}+3x_{3}+4x_{4}+5x_{5}+6x_{6}+7x_{7}+8x_{8}+9x_{9})\,{\bmod {1}}1.}
+  Hierdie berekening lewer presies dieselfde resultaat as die bostaande berekening.
+
+  
+    
+      
+        
+          x
+          
+            10
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            9
+          
+        
+        i
+        
+          x
+          
+            i
+          
+        
+        
+        
+          mod
+          
+            1
+          
+        
+        1
+      
+    
+    {\displaystyle x_{10}=\sum _{i=1}^{9}ix_{i}\,{\bmod {1}}1}
+  Dit lewer die kontrolesyfer vir 'n 10-syfer ISBN, deur som notasie.
+
+  
+    
+      
+        
+          x
+          
+            10
+          
+        
+        =
+        10
+        −
+        
+          (
+          
+            
+              ∑
+              
+                1
+                =
+                1
+              
+              
+                9
+              
+            
+            (
+            i
+            
+              x
+              
+                i
+              
+            
+            )
+            −
+            1
+          
+          )
+        
+        
+        
+          mod
+          
+            1
+          
+        
+        1
+      
+    
+    {\displaystyle x_{10}=10-\left(\sum _{1=1}^{9}(ix_{i})-1\right)\,{\bmod {1}}1}
+  Hierdie metode gee ook die korrekte syfer, '0', in plaas van '11' wat met die formele berekeningsmetode verkry word.
+
+
+== Kontrolesyfer in ISBN-13 ==
+Die 2005 uitgawe van die Internasionale ISBN agentskap se amptelike handleiding wat ISBN'e dek wat na Januarie 2007 uitgereik is, beskryf die metode vir die berekening van die 13-syfer kontrolesom.
+Die berekening van 'n ISBN-13 kontrolesom begin met die eerste 12 syfers van die 13 syfer ISBN (wat met ander woorde die kontrolesyfer self uitsluit). Elke syfer van links na regs word alternatiewelik met 1 of 3 vermenigvuldig en die produkte dan bymekaar getel en die modulus van 10 daarvan word dan bereken wat 'n waarde tussen 0 en 9 lewer. Die syfer word dan van 10 afgetrek wat 'n resultaat lewer tussen 1 en 10. 'n Nul word gebruik om die 10 te vervang sodat daar in alle gevalle 'n een syfer kontrolesyfer opgelewer word.
+Die ISBN-13 kontrolesyfer van die ISBN 978-0-30640615-? word byvoorbeeld as volg bereken:
+s = 9×1 + 7×3 + 8×1 + 0×3 + 3×1 + 0×3 + 6×1 + 4×3 + 0×1 + 6×3 + 1×1 + 5×3
+
+  =   9 +  21 +   8 +   0 +   3 +   0 +   6 +  12 +   0 +  18 +   1 +  15
+  = 93
+93 / 10 = 9 res 3
+10 – 3
+= 7
+
+Die kontrolesyfer is dus 7 en die volledige reeks is ISBN 978-0-306-40615-7.
+Formeel word die berekening van die ISBN-13 kontrolesyfer as volg geskryf:
+
+  
+    
+      
+        
+          x
+          
+            13
+          
+        
+        =
+        
+          [
+          
+            10
+            −
+            
+              
+                (
+              
+            
+            
+              [
+              
+                x
+                
+                  1
+                
+              
+              +
+              3
+              
+                x
+                
+                  2
+                
+              
+              +
+              
+                x
+                
+                  3
+                
+              
+              +
+              3
+              
+                x
+                
+                  4
+                
+              
+              +
+              ⋯
+              +
+              
+                x
+                
+                  11
+                
+              
+              +
+              3
+              
+                x
+                
+                  12
+                
+              
+              ]
+              
+                mod
+                
+                  1
+                
+              
+              0
+            
+            
+              
+                )
+              
+            
+          
+          ]
+        
+        
+          mod
+          
+            1
+          
+        
+        0.
+      
+    
+    {\displaystyle x_{13}=\left[10-{\big (}{[x_{1}+3x_{2}+x_{3}+3x_{4}+\cdots +x_{11}+3x_{12}]{\bmod {1}}0}{\big )}\right]{\bmod {1}}0.}
+  Hierdie kontrolestelsel wat ooreenstem met die Universele Produkkode se formule vang nie alle foute met die omkeer van aangrensende syfers op nie. Veral as die verskil tussen die twee aangrensende syfers 5 is sal die kontrolesyfer nie optel dat die syfers omgeruil is nie. In die bostaande voorbeeld sal die kontrolesyfer byvoorbeeld dieselfde wees as die 6 en die 1 in die ISBN omgeruil word. Die ISBN-10 formule het nie die probleem nie.
+
+
+== Gebruik van die ISBN kontrolesyfer ==
+Uitgewers en biblioteke het verskillende beleide ten opsigte van die gebruik van die ISBN kontrolesyfer. Uitgewers bly soms in gebreke om te verseker dat die titel van 'n boek en sy ISBN ooreenstem alvorens hulle dit publiseer; daardie faling veroorsaak heelwat probleme vir biblioteke, boekhandelaars en lesers. Die meeste biblioteke en boekhandelaars vertoon die boekrekord vir 'n ongeldige ISBN wat deur die uitgewer uitgereik is. Die Library of Congress in die V.S.A se katalogus bevat boeke wat gepubliseer is met ongeldige ISBN'e, wat dit gewoonlik met die frase "Cancelled ISBN" aandui. Sommige boekbesteldienste soos Amazon.com sal egter nie 'n soektog na 'n boek doen as die ISBN wat by hul soekenjin ingesleutel word, ongeldig is nie.
+
+
+== Verwysings en voetnotas ==

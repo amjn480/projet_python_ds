@@ -1,0 +1,225 @@
+Proxy, in informatica e telecomunicazioni, indica un tipo di server che funge da intermediario per le richieste da parte dei client alla ricerca di risorse su altri server, disaccoppiando l'accesso al web dal browser. Un client si connette al server proxy, richiedendo qualche servizio (ad esempio un file, una pagina web o qualsiasi altra risorsa disponibile su un altro server), e quest'ultimo valuta ed esegue la richiesta in modo da semplificare e gestire la sua complessità. I proxy sono stati inventati per aggiungere struttura e incapsulamento ai sistemi distribuiti.
+Ad oggi, i server proxy vengono utilizzati per svariati impieghi come:
+
+Fornire l'anonimato durante la navigazione Internet (es. sistema TOR)
+Memorizzare una copia locale degli oggetti web richiesti in modo da poterli fornire nuovamente senza effettuare altri accessi ai server di destinazione (HTTP caching proxy)
+Creare una "barriera di difesa" (Firewall) verso il web, agendo da filtro per le connessioni entranti ed uscenti e monitorando, controllando e modificando il traffico interno
+
+
+== Tipi ==
+Un server proxy può risiedere localmente nel PC dell'utente o in un qualsiasi punto tra questo e i server di destinazione su Internet.
+
+Un server proxy che trasmette richieste e risposte senza modificarle è detto gateway o tunneling proxy
+Un forward proxy è un proxy volto a Internet usato per recuperare dati da un vastissimo campo di risorse (generalmente ovunque su Internet)
+Un reverse proxy o proxy inverso è anch'esso rivolto a Internet ed è usato front-end per controllare e proteggere gli accessi ai server su una rete privata. Ha inoltre diverse mansioni quali bilanciamento del carico, autenticazione, decrittazione e caching
+Un caching proxy che memorizza tutti i dati non cifrati su un supporto e al momento della richiesta riprodurrà i dati presenti in memoria, riducendo i tempi di caricamento
+Un proxy trasparente capta tutte le informazioni della rete e rimane invisibile agli utenti
+
+
+=== Proxy "aperti" (Open Proxies) ===
+Gli open proxies sono forwarding proxy accessibili da qualsiasi utente di Internet. Gordon Lyon (esperto di sicurezza Internet, programmatore di software open source, scrittore e hacker) stima che ci siano centinaia di migliaia di proxy "aperti" in Internet. Un proxy aperto ed anonimo permette agli utenti di nascondere il proprio indirizzo IP navigando sul Web o usando altri servizi di Internet. Ci sono comunque diversi livelli di anonimità, così come sono i "trucchetti" per fare in modo che il client si riveli nonostante venga usato un proxy (usare una determinata impostazione di lingua, visitare frequentemente gli stessi siti sia anonimamente che "allo scoperto", possedere determinate estensioni/plugin del browser piuttosto che altre e la combinazione delle versioni di browser/sistema operativo e altri software sono fattori determinanti nell'identificazione di utenti "anonimi" - si veda la voce Device fingerprint).
+
+
+=== Controllo degli accessi (Caching) ===
+Alcuni server proxy implementano un requisito di accesso (log-in). Nelle grandi aziende, gli utenti autorizzati devono effettuare l'accesso prima di poter accedere al web. In tal modo, i datori di lavoro possono monitorare l'utilizzo di Internet da parte degli impiegati.
+
+
+== Usi ==
+
+
+=== Monitoraggio e Filtraggio ===
+
+
+==== Controllo del contenuto ====
+Un proxy web atto al filtraggio del contenuto consente il controllo amministrativo sul contenuto che può essere trasmesso in una o entrambe le direzioni attraverso il proxy. È comunemente usato sia nelle organizzazioni commerciali che non-commerciali (soprattutto scuole) per garantire che l'utilizzo di Internet sia conforme ad una accettabile politica di utilizzo.
+Un proxy di filtraggio dei contenuti spesso supporta l'autenticazione degli utenti, per controllare l'accesso al web. Produce inoltre i log (registri), sia per dare informazioni dettagliate sulle URL a cui hanno acceduto utenti specifici, o per monitorare le statistiche della larghezza di banda utilizzata. Può inoltre comunicare con software antivirus basati su demoni e/o basati su ICAP per garantire la sicurezza contro virus e altro malware prima che entri nella rete mediante la scansione dei contenuti in entrata in tempo reale.
+Svariati luoghi di lavoro, scuole e università limitano i siti web e servizi on-line accessibili presso le loro strutture. Anche i governi censurano i contenuti indesiderati. Questo si può fare con un proxy specializzato, chiamato "filtro sul contenuto" (esistono soluzioni commerciali sia gratis che a pagamento), oppure utilizzando un protocollo di estensione della cache come ICAP, che permette estensioni ad un'architettura cache aperta.
+Ironia della sorte, i siti web comunemente utilizzati dagli studenti per aggirare i filtri e il blocco sull'accesso ai contenuti, spesso includono un proxy da cui l'utente può accedere ai siti Web che il filtro sta cercando di bloccare.
+Ci sono diversi modi per filtrare le richieste, come ad esempio una "lista nera" di URL o DNS, un regex di URL, MIME (standard per classificare i diversi tipi di informazione) o il filtraggio dei contenuti tramite parola chiave. Alcuni prodotti implementano tecniche di analisi dei contenuti per cercare di categorizzarne i fornitori in base linee guida comunemente utilizzate dalle varie categorie. Le cosiddette liste nere sono spesso fornite e gestite da società che si occupano di filtraggio web, spesso raggruppate in categorie (pornografia, gioco d'azzardo, shopping, social network, ecc.).
+Supponendo che l'URL richiesto sia accettabile, il contenuto viene poi recuperato dal proxy. A questo punto un filtro dinamico può essere applicato sul percorso di ritorno. Ad esempio, i file JPEG possono essere bloccati sulla base di corrispondenze con toni del colore della pelle, o filtri linguistici possono rilevare dinamicamente un linguaggio indesiderato. Se il contenuto viene rifiutato verrà poi inoltrato un messaggio di errore di richiesta HTTP al richiedente.
+La maggior parte delle aziende che si occupa di filtraggio Web utilizzano robot che, passando in rassegna internet, valutano la probabilità che un contenuto sia un certo tipo. Il database risultante viene poi corretto con il lavoro manuale in base a richieste/lamentele o difetti noti dell'algoritmo di associazione dei contenuti.
+Alcuni proxy scansionano i contenuti in uscita (ad esempio per la prevenzione della perdita dei dati).
+
+
+==== Filtraggio di dati criptati ====
+I proxy atti al filtraggio Web non sono in grado di scrutare dentro le transazioni HTTP sicure, assumendo che la catena di fiducia di SSL/TLS (Transport Layer Security) non sia stata manomessa.
+Il protocollo SSL/TLS si basa su autorità di certificazione attendibili. In un ambiente di lavoro in cui il client è gestito dall'organizzazione, la fiducia potrebbe essere concessa a un certificato la cui chiave privata è nota al proxy. Per questo motivo, un certificato generato dal proxy viene installato nella lista delle autorità di certificazione del browser dallo staff tecnico.
+In queste situazioni, l'analisi da parte del proxy del contenuto di una transazione SSL/TLS diventa possibile. È come se il proxy stesse eseguendo un attacco ti di tipo man-in -the-middle, però consentito dal client per via di un certificato di autorizzazione posseduto dal proxy.
+
+
+==== Aggirare filtri e censura ====
+Se il server di destinazione filtra i contenuti basandosi sull'origine della richiesta, l'uso di un proxy può aggirare questo filtro. Ad esempio, un server che usa la geolocalizzazione dell'indirizzo IP per restringere il campo dei suoi servizi a determinati Paesi, può eseguire l'accesso usando un server proxy localizzato in uno dei Paesi a cui è consentito accedere.
+I proxy web sono il mezzo più comune di aggirare censure governative nonostante non più del 3% degli utenti di internet usi strumenti atti a questo scopo.
+In alcuni casi, gli utenti possono aggirare proxy i cui filtri usano delle "liste nere" usando servizi appositi per modificare le informazioni ricevute dal proxy facendogli "credere" di non essere nella lista nera.
+
+
+==== Accessi e intercettazioni ====
+I proxy possono essere installati in modo da intercettare dati sul flusso tra computer client e il web. Tutti i contenuti inviati - incluse le password inviate e cookies utilizzati - possono essere catturati e analizzati da parte del proxy. Per questo motivo, le password per i servizi online (come webmail e bancari) devono sempre essere scambiati attraverso una connessione protetta crittograficamente come SSL. Con il concatenamento proxy che non rivelano i dati relativi al richiedente originale, è possibile nascondere le attività dagli occhi dell'utente di destinazione. Tuttavia, diverse tracce vengono lasciate sui passaggi intermedi, che potrebbero essere utilizzate per tracciare le attività dell'utente. Se le politiche e gli amministratori di questi altri proxy sono sconosciuti, l'utente può cadere vittima di un falso senso di sicurezza solo perché questi dettagli non gli sono visibili. Quello che è più un inconveniente di un rischio è che gli utenti del proxy possono ritrovarsi bloccati da alcuni siti Web che bloccano gli indirizzi IP da proxy noti per aver "disturbato" il sito. Il rimbalzo tra più proxy può essere utilizzato per mantenere la privacy.
+
+
+=== Miglioramento delle prestazioni ===
+Un caching proxy velocizza notevolmente le richieste di servizi restituendo contenuti memorizzati da una precedente richiesta (che può essere stata fatta anche da altri client).
+I caching proxy mantengono copie locali delle risorse richieste più frequentemente, permettendo a grosse aziende di ridurre notevolmente il traffico effettuato (quindi la banda utilizzata e di conseguenza costi e tempo). La maggior parte degli ISP (fornitori di servizi internet) e delle grosse organizzazioni (per grosse si intende con tanti impiegati che effettuano traffico) ha un caching proxy.
+I caching proxy furono la prima tipologia di proxy implementata.
+Un proxy che è stato progettato per ridurre i problemi o degradazioni (link non più attivi) relativi a specifici link è un Performance Enhancing Proxy (PEP). Questi di solito sono utilizzati per migliorare le prestazioni di TCP in presenza di considerevoli tempi di richiesta/risposta o di elevata perdita di pacchetti (come le reti wireless o di telefonia mobile) o link altamente asimmetrici che caratterizzano tassi di upload e download molto diversi. I PEP possono fare un uso più efficiente della rete, ad esempio attraverso la fusione di ACK TCP o comprimere i dati inviati a livello di applicazione.
+Un altro importante uso del server proxy è quello di ridurre il costo dell'hardware. Un'organizzazione può avere molti sistemi sulla stessa rete o sotto il controllo di un singolo server, proibendo una singola connessione a Internet per ciascun sistema. In questi casi, i singoli sistemi possono essere collegati ad un server proxy e il server proxy connesso al server principale.
+
+
+=== Traduzione ===
+Un proxy di traduzione è un server proxy che è usato per gestire e ottimizzare siti web multilingue che risultino coerenti a livello globale e di effettivo interesse a livello locale.
+Il traffico proveniente dal pubblico globale viene instradato attraverso il proxy di traduzione al sito web di origine. La risposta, caratterizzata dal linguaggio del sito web originale, viene sostituita da una versione tradotta mentre passa nuovamente attraverso il proxy. La traduzione può essere sia una traduzione automatica che effettuata da interpreti, nonché una combinazione di entrambi. Diverse implementazioni di proxy di traduzione hanno differenti capacità: alcuni permettono un'ulteriore personalizzazione del sito di origine ad un pubblico locale, come ad esempio l'esclusione del contenuto di origine o la sua sostituzione con un contenuto locale.
+
+
+=== Accesso anonimo ai servizi web ===
+Un server proxy anonimo generalmente ha lo scopo di rendere anonima la navigazione web.
+Il server di destinazione (quello che risponderà alla richiesta) riceve richieste dai server web "anonimizzatori" senza ricevere quindi informazioni dell'utente richiedente.Tali informazioni però sono ricevute dal proxy e questo implica un certo livello di fiducia da parte dell'utente. Alcuni di questi server sono finanziati tramite pubblicità presentando all'utente che ne fa uso svariati annunci pubblicitari.
+Alcuni server di anonimizzazione potrebbero inoltrare i pacchetti di dati con header come HTTP_VIA, HTTP_X_FORWARDED_FOR o HTTP_FORWARDED, che possono rivelare l'indirizzo IP del client. Altri invece, noti come "l'elite dei proxy di anonimizzazione" o ad "alto anonimato", comprendono solo l'intestazione REMOTE_ADDR con l'indirizzo IP del server proxy, facendo apparire che il server proxy è il client. Un sito web potrebbe tuttavia sospettare che si stia utilizzando un proxy se il client invia i pacchetti che comprendono cookie da una visita precedente che non ha utilizzato il server ad alto anonimato: eliminando i cookies ed eventualmente svuotando la cache il problema è risolto.
+Tra i proxy noti per fornire anonimato, ci sono anche i Proxy distorcenti, che trasmettono un IP casuale, diverso da quello del richiedente e modificano o aggiungono alcuni header. Solitamente vengono scambiati per proxy di anonimizzazione comuni (non ad alto anonimato), ma offrono una protezione maggiore, in quanto il server web vede le richieste di un utente provenienti da indirizzi IP diversi.
+Esistono programmi che, basandosi sulla tecnologia peer to peer forniscono funzionalità di proxy "anonimizzante" (un proxy che non inoltra al server l'indirizzo IP del client).
+Per vedere se il proxy server consente una navigazione anonima, ossia se non rivela l'IP del client a nessun altro server della rete, è bene effettuare un "Who-is". Il server del sito per il Who-is deve restituire l'IP del proxy server; se invece, rende visibile un IP diverso, presumibilmente si tratta di quello del client (ad eccezione fatta per i proxy distorcenti), e il test è fallito.
+
+
+=== Annunci pubblicitari ===
+Gli inserzionisti utilizzano server proxy per la convalida, il controllo e la garanzia della qualità degli annunci con geolocalizzazione. Un server di annunci "geolocalizzatore" controlla l'indirizzo IP della richiesta di origine e utilizza un database geo-IP per determinare l'origine geografica delle richieste. Utilizzando un server proxy che si trova fisicamente all'interno di un determinato paese o di una città fornisce agli inserzionisti la possibilità di fornire annunci selezionati in base ad essi.
+
+
+=== Sicurezza ===
+Un proxy può mantenere nascosta la struttura interna della rete di una compagnia se si utilizza una traslazione degli indirizzi di rete, aumentandone così la sicurezza. Questo rende anonime le richieste da parte di macchine e utenti sulla rete locale.
+Un proxy configurato in una maniera non corretta potrebbe isolare da internet.
+
+
+==== Risorse attraverso i domini ====
+I proxy consentono ai siti web di effettuare richieste web alle risorse ospitate esternamente (ad esempio immagini, file musicali e così via) quando le restrizioni tra domini vietano al sito web di linkare direttamente ai domini esterni.
+I proxy, inoltre, consentono al browser di fare richieste web a contenuti ospitati esternamente per conto di un sito web, quando le restrizioni tra domini (in atto per proteggere i siti da cose come furto di dati) proibiscono al browser di accedere direttamente ai domini esterni.
+
+
+== Implementazioni dei proxy ==
+
+
+=== Premessa ===
+Non tutti i protocolli sono "proxabili": quelli che si prestano meglio sono HTTP e FTP, mentre altri (come H323 utilizzato per lo streaming video live) non sono proxabili; quindi quando la configurazione della rete consente di collegarsi ad internet solamente attraverso un proxy, non sono ovviamente utilizzabili molti tipi di applicazioni basate su protocolli non supportati dal proxy, ad esempio:
+
+Giochi on-line
+webcam: la ricezione e l'invio di immagini tramite webcam con programmi di messaggistica istantanea
+browser che non supportano la configurazione di un proxy. Questo caso è frequente su dispositivi particolari come console per videogiochi o telefoni cellulari.
+servizi VoIP
+applicazioni di file sharingTalune di queste applicazioni sono state modificate per poter far passare il proprio traffico incapsulato in HTTP e quindi per poterlo veicolare in un proxy.
+
+
+=== Proxy Server Web ===
+I proxy web, inoltrano le richieste HTTP che arrivano dal client come normali richieste HTTP (l'unica differenza è che vanno chiamati con l'URL completo invece che con il percorso relativo). Alcuni proxy web permettono di impostare arbitrariamente l'inoltro di dati attraverso la connessione (tramite il metodo HTTP CONNECT per il tunnelling HTTP). Ad esempio, è politica comune vincolare il traffico di dati HTTPS solo tramite la porta 443.
+Alcuni esempi di server proxy:
+Apache (con mod_proxy o Traffic Server), HAProxy, IIS configurato come proxy (ad esempio con Application Request Routing), Nginx, Privoxy, Squid, Varnish (solo reverse proxy), WinGate, Ziproxy, Tinyproxy, RabbIT4 e Polipo.
+
+
+=== Protocollo SOCKS ===
+Il protocollo SOCKS realizza invece una forma di proxy a livello di trasporto, che inoltra semplicemente le connessioni TCP e UDP tra client e server, senza analizzare i protocolli applicativi. Esistono due tipi di protocolli Socks: 
+
+Socks 4: permette di lavorare solo con i protocolli TCP, come HTTP (web browsing), accesso NNTP newsgroup, IRC;
+Socks 5: è più avanzato del precedente, permettendo di rendere anonimi anche i protocolli UDP (per esempio ICQ).
+
+
+=== Proxy ARP ===
+Il proxy ARP è una funzionalità che può essere adottata su alcuni router per realizzare configurazioni particolari.
+
+
+=== Proxy SIP ===
+Il proxy SIP è un componente di un'architettura di comunicazione VoIP o multimediale, che viene usato come punto di contatto per terminali che devono comunicare tra loro, e in alcuni casi come vero e proprio proxy tra i terminali.
+
+
+=== Proxy trasparenti (Trasparent Proxies) ===
+Anche conosciuto come Intercepting proxy, inline proxy o forced proxy, un proxy detto trasparente intercetta la comunicazione a livello di rete (livello 3 della pila ISO/OSI) senza richiedere alcuna configurazione del client. I client non necessitano di essere a conoscenza dell'esistenza di questo proxy. Solitamente è allocato tra i client e Internet eseguendo alcune funzioni del gateway o del router.RFC 2616 (Hypertext Transfer Protocol-HTTP / 1.1) offre definizioni standard:
+"Un proxy trasparente è un proxy che non modifica le richieste o le risposte al di là di ciò che è necessario per l'autentificazione e l'identificazione"
+"Un proxy non trasparente è un proxy che modifica le richieste e/o le risposte con lo scopo di fornire alcuni servizi aggiuntivi allo user agent"
+l'Intercettazione TCP è una funzionalità di filtraggio del traffico che protegge i server TCP da attacchi di tipo TCP SYN flood.
+
+
+==== Scopo ====
+I proxy "intercettati" (intercepting proxies) sono comunemente utilizzati nelle imprese per far rispettare le politiche di utilizzo.
+Sono anche utilizzati dagli ISP (Internet Service Provider, fornitori di servizi internet) in alcuni Paesi per risparmiare banda in upload e migliorare i tempi di risposta degli utenti tramite caching. Questa procedura è praticata specialmente in nazioni in cui la banda è ridotta (ad esempio le isole) o a pagamento.
+
+
+==== Problemi ====
+L'intercettazione di una connessione TCP crea diversi problemi. Prima di tutto l'IP destinatario originale e la porta vanno comunicate al proxy e non è sempre possibile (ad esempio quando gateway e proxy sono posti su host differenti).
+C'è una classe di attacchi cross site che dipende dal fatto che certi proxy non controllano o non hanno accesso alle informazioni relative al destinatario originale. Questo problema può essere risolto usando un software a livello di pacchetto e a livello di applicazione che è in grado di comunicare questa informazione tra il gestore di pacchetto e il proxy.
+L'intercettazione crea problemi anche all'autenticazione HTTP, specialmente le autenticazioni orientate alla connessione come NTLM dal momento che il browser del client crede di star comunicando con un server piuttosto che un proxy. Ciò può causare problemi quando un proxy d'intercettazione richiede l'autenticazione e l'utente si connette a un sito che richiede anch'esso l'autenticazione.
+Per finire, intercettare connessioni può creare problemi alle cache HTTP dal momento che alcune richieste e risposte diventano "non-cachabili" da una cache condivisa.
+
+
+==== Metodi di Implementazione ====
+Nei server in cui il router o il firewall è sullo stesso host del proxy, comunicare l'informazione relativa alla destinazione originale può essere fatto in diversi modi come ad esempio Microsoft TMG o WinGate.
+Le intercettazioni possono essere effettuate anche usando WCCP (Web Cache Control Protocol) della Cisco. Questo protocollo proprietario risiede nel router ed è configurato dalla cache, permettendo a quest'ultima di determinare quali porte e quale traffico inviato ad esse tramite ridirezione trasparente dal router. Questa ridirezione può essere fatta in due modi: tunneling GRE (a livello 3 della pila ISO/OSI) o riscrittura dei MAC (a livello 2 della pila ISO /OSI).
+Una volta che il traffico raggiunge il proxy stesso, l'intercettazione viene comunemente eseguita tramite NAT (Network Address Translation). Queste impostazioni sono invisibili al browser del client, ma rende il proxy visibile al server Web e agli altri dispositivi sul lato rivolto a internet del proxy.
+Recentemente Linux e alcune versioni di BSD implementano TPROXY (proxy trasparente) che effettua una intercettazione trasparente a livello di IP (livello 3 della pila ISO/OSI) e lo "spoofing" del traffico in uscita, nascondendo l'indirizzo IP del proxy agli altri dispositivi in rete.
+
+
+==== Come individuarli ====
+Ci sono svariati metodi che possono essere utilizzati per individuare la presenza di un server proxy di intercettazione:
+
+Comparando l'indirizzo IP esterno del client all'indirizzo "visto" da un server Web esterno, o a volte, esaminando gli header HTTP ricevuti da un server. Ci sono diversi siti creati per risolvere questo problema riportando l'indirizzo IP dell'utente "visto da loro"; Google stesso lo dovrebbe fare cercando la parola chiave "IP".
+Comparando il risultato di "controllori IP" online connettendosi sia via HTTP che HTTPS poiché la maggior parte dei proxy di intercettazione non intercetta SSL. Nel caso ci sia il sospetto che venga intercettato anche il traffico SSL, si può esaminare il certificato associato con un qualsiasi sito web sicuro: il certificato di root dovrebbe indicare se è stato emesso con lo scopo di intercettare.
+Comparando la sequenza dei passi effettuati nella rete (usando tool come traceroute) tramite un protocollo proxato (come HTTP, porta 80) con quella generata passando per un protocollo non proxato come SMTP (porta 25).
+Provando a connettersi a un indirizzo IP in cui è noto non ci siano server. Il proxy accetterà la connessione e quindi proverà a connettersi ad esso. Quando scoprirà che non ci sono server a cui connettersi, restituirà o un messaggio di errore o chiuderà la connessione al client. Questa differenza è facile da individuare, ad esempio, la maggior parte dei browser web genera una pagina di errore creata dal browser nel caso in cui non riescano a connettersi ad un server HTTP, ma restituiscono un messaggio di errore differente nel caso in cui la connessione venga accettata e poi chiusa.
+
+
+=== Proxy CGI ===
+Un proxy CGI consiste in un web proxy che, dopo aver preso in ingresso degli URL tramite un web form nel browser dell'utente, processa le richieste e restituisce i risultati sempre nel browser dell'utente permettendogli di navigare in modo relativamente anonimo. Ci sono svariati proxy CGI e la maggior parte sono realizzati da Glyphe o PHProxy ed entrambi scritti in linguaggio PHP.
+
+Vantaggi:Gestione autonoma dell'utente di cookies, referrer e JavaScript (abilitandoli in una apposita maschera della pagina)
+Permette ad un utente di rete (che non abbia i diritti di amministratore per modificare le impostazioni del browser o del sistema operativo) di bypassare le restrizioni di navigazione imposte ed operare on-line in modo relativamente anonimo.
+Servizio gratuito
+Estrema semplicità di utilizzo
+Nessun software specifico installatoSvantaggi:Alcuni proxy non permettono la gestione autonoma da parte dell'utente di cookies, referrer e JavaScript. Se il proxy non permette la gestione di queste impostazioni, alcuni siti potrebbero dare problemi di accesso e visualizzazione delle pagine
+La velocità di navigazione si riduce notevolmente.
+Tutti i servizi sono in lingua inglese
+
+
+=== Suffix Proxy ===
+Un suffix proxy permette ad un utente di accedere a contenuti web aggiungendo ("in append") il nome del proxy all'URL del contenuto richiesto (esempio: "www.mipiacitu.it.Suffix.Proxy.com").
+Sono più facili da usare rispetto ai proxy normali ma non offrono lo stesso livello di anonimato: il loro unico scopo è quello di bypassare i filtri. Il loro uso è in degrado a causa di filtri web sempre più avanzati.
+
+
+=== T.O.R. The Onion Router ===
+Tor, è un sistema mirato a permettere l'anonimità online.
+Il client (software) tor, instrada il traffico internet attraverso una rete di server "volontari" sparsi su tutto il globo con lo scopo di nascondere la posizione di un utente o il "suo uso" di internet (come ad esempio nel caso di analisi del traffico o sorveglianza della rete). Usare tor, rende molto più difficile tracciare l'attività in internet (visite a siti web, post online, messaggeria istantanea e altre forme di comunicazione) risalendo all'utente. Il suo obiettivo è proteggere la libertà dell'utente e la sua privacy permettendogli di non essere monitorato quando svolge attività su internet.
+L'onion routing si basa sulla natura stratificata della decrittazione: i dati originali vengono criptati e ri-criptati svariate volte, quindi inviati ai successivi nodi della rete tor, dei quali ognuno decritta uno strato prima di passare i dati al successivo e, al termine, alla destinazione. Questo riduce la possibilità che i dati vengano decodificati mentre sono in transito.Il client tor è un software gratuito e non ci sono spese addizionali per l'accesso alla rete.
+
+
+=== I2P ===
+La rete anonima I2P è una rete di proxy mirata a fornire anonimità online. Implementa il garlic routing (letteralmente "instradamento ad aglio") che è una variante migliorata dell'onion routing ("Instradamento a cipolla") di tor. È totalmente distribuito e funziona crittando tutte le comunicazioni in svariati livelli e trasmettendoli attraverso una rete di router gestiti da volontari in svariate posizioni del globo. Per mantenere nascosta la fonte delle informazioni, I2P offre "resistenza alla censura". L'obiettivo di I2P è di proteggere la libertà personale degli utenti, la loro privacy e dare loro la possibilità di svolgere attività private.
+Ogni utente di I2P gestisce un router I2P sul proprio computer (che è a tutti gli effetti un nodo della rete). Ogni router I2P si occupa di cercare altri nodi e di instaurare tunnel anonimi attraverso essi.
+I2P fornisce proxy per tutti i protocolli "proxabili" (HTTP, IRC, SOCKS.)
+Il software è gratis e open source e la rete è gratis senza costi d'utilizzo.
+
+
+=== Proxy contro NAT ===
+La maggior parte delle volte, con il termine proxy ci si riferisce ad un'applicazione di livello 7 della pila ISO/OSI. In ogni modo, esistono altri modi di "proxare": uno di questi è attraverso il livello 3 (della pila ISO/OSI) è conosciuto come Network Address Translation (NAT). Le differenze tra queste due tecnologie di realizzare proxy sono il livello in cui operano e la procedura di configurazione dei client e dei server che adottano.
+Nella configurazione del client per il proxy di livello 3 (NAT) è sufficiente configurare il gateway. Per quello di livello 7 invece, la destinazione dei pacchetti che genera il client deve essere sempre il server proxy, che legge ogni pacchetto e trova la destinazione reale.
+Il NAT poiché opera a livello 3 richiede meno risorse rispetto al proxy di livello 7, ma è allo stesso tempo meno flessibile.
+
+
+=== Proxy DNS ===
+Un server proxy DNS si prende in carico le richieste di risoluzione degli indirizzi DNS da una rete (generalmente locale) e le inoltra a un Internet Domain Name Server. Può anche cachare i record DNS.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Firewall
+Reverse proxy
+Gateway (informatica)
+Tor (software di anonimato)
+Bastion host
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file sul proxy
+
+
+== Collegamenti esterni ==
+
+ proxy, in Lessico del XXI secolo, Istituto dell'Enciclopedia Italiana, 2012-2013. 
+(EN) Proxy, in Free On-line Dictionary of Computing, Denis Howe. Disponibile con licenza GFDL
+ Proxy test online, su test-net.org. URL consultato il 15 dicembre 2014 (archiviato dall'url originale il 16 dicembre 2014).

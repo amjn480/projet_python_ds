@@ -1,0 +1,193 @@
+Il copyright (termine di lingua inglese che letteralmente significa "diritto di copia") è un termine che identifica il diritto d'autore nei paesi di common law, dal quale però differisce sotto vari aspetti. Ciononostante, il termine viene comunemente usato anche per indicare genericamente la normativa sul diritto d'autore degli ordinamenti di civil law.
+È solitamente abbreviato con il simbolo ©. Quando tale simbolo non è utilizzabile si riproduce con la lettera "c" posta tra parentesi: (c) o (C). In base alla Convenzione di Berna e venne introdotta la regola della durata più breve.
+
+
+== Storia ==
+Le prime norme sul diritto di copia (copy right) furono emanate nel XVI secolo dalla monarchia inglese al fine di operare un controllo sulle opere pubblicate nel territorio nazionale. Col diffondersi dei primi torchi tipografici, infatti, fu ampliata enormemente la diffusione fra la popolazione di scritti e volumi di ogni argomento e genere. Il governo, poiché la censura era all'epoca una funzione amministrativa legittima come la gestione della sicurezza pubblica, avvertì il bisogno di controllare e autorizzare la libera circolazione delle opinioni. Ragion per cui fondò una corporazione privata di censori, la «London Company of Stationers» (Corporazione dei librai e stampatori di Londra), i cui profitti sarebbero dipesi da quanto fosse stato efficace il loro lavoro di censura filo-governativa. Va ricordato che però già il 19 marzo 1474 a Venezia ai Provveditori de Comun fu assegnato il compito di sovrintendere alla registrazione di brevetti.Agli Stationers (categoria che comprende librai e stampatori) furono concessi i diritti di copia (copy right, appunto) su ogni stampa, con valenza retroattiva anche per le opere pubblicate precedentemente. La concessione prevedeva il diritto esclusivo di stampa e quello di poter ricercare e confiscare le stampe e i libri non autorizzati, finanche di bruciare quelli stampati illegalmente. Ogni opera, per essere stampata, doveva essere registrata nel Registro della corporazione, registrazione che era effettuabile solamente dopo un attento vaglio da parte del Censore della corona o dopo la censura degli stessi editori. La corporazione degli editori esercitava perciò a tutti gli effetti funzioni di polizia privata, dedita al profitto e controllata da parte del governo.Ogni nuova opera veniva annotata nel registro della corporazione sotto il nome di uno dei membri della corporazione il quale ne acquisiva il copyright, ovvero il diritto esclusivo sugli altri editori di pubblicarla; una corte risolveva le eventuali dispute fra membri. Il diritto sulle copie (copyright), perciò, nasce come diritto specifico dell'editore, diritto sul quale il reale autore non può quindi recriminare alcunché né guadagnare di conseguenza.
+Nel successivo secolo e mezzo la corporazione dei censori inglesi generò benefici per il governo e per gli editori: per il governo, esercitando un potere di controllo sulla libera diffusione delle opinioni e delle informazioni; per gli editori, traendo profitto dal proprio monopolio di vendita. Sul finire del XVII secolo, però, l'imporsi di idee liberali nella società frenò le tradizionali politiche censorie e causò una graduale fine del monopolio delle caste editrici.
+Temendo una liberalizzazione della stampa e la concorrenza da parte di stampatori indipendenti e autori, gli editori fecero valere la propria moral suasion sul Parlamento. Basandosi sull'assunto che gli autori non disponessero dei mezzi per distribuire e stampare le proprie opere (attività all'epoca assai costosa e quindi riservata a pochi), mantennero tutti i privilegi acquisiti in passato con un'astuzia: attribuire ai veri autori diritti di proprietà sulle opere prodotte, ma con la clausola che questa proprietà potesse essere trasferita ad altri tramite contratto. Di lì in poi gli editori non avrebbero più generato profitto dalla censura sulle opere, ma semplicemente dal trasferimento dei diritti firmato (più o meno volontariamente) dagli autori, trasferimento in ogni caso necessario per l'altrimenti troppo costosa pubblicazione delle opere.Su queste basi, nel 1710 venne perciò emanata la prima norma moderna sul copyright: lo Statuto di Anna (Statute of Anna).
+A partire dallo Statuto di Anna, gli autori, che fino ad allora non avevano detenuto alcun diritto di proprietà, ottennero in sostanza il (tutto sommato vacuo) potere di bloccare la diffusione delle proprie opere, mentre la corporazione degli editori incrementò i profitti grazie alla cessione, sostanzialmente obbligatoria per ottenere stampa e distribuzione, da parte degli autori dei vari diritti sulle opere.Il rafforzamento successivo dei diritti d'autore su pressione delle corporazioni, generò gradualmente il declino di altre forme di sostentamento per gli autori (come il patronato, la sovvenzione, ecc.), legando e sottoponendo indissolubilmente il sostentamento dell'autore al profitto dell'editore.Nel corso dei successivi due secoli anche la Francia, la Repubblica Cisalpina, il Regno d'Italia, il Regno delle Due Sicilie e il resto d'Europa emanarono legislazioni per l'istituzione del copyright (o del diritto d'autore).
+
+nel 1836, il codice civile albertino per la Sardegna.
+nel 1840, il 22 dicembre, il decreto di Maria Luigia, per il Ducato di Parma, Piacenza e Guastalla.
+nel 1865, il 25 giugno, nel Regno d'Italia, con legge 2337.Talune con ispirazioni maggiormente illuministe e democratiche rispetto a quella anglosassone, pur tuttavia con la medesima radice.
+Nel 1886, il 9 settembre, per coordinare i rapporti in questo campo di tutti i paesi iscritti fu costituita l'Unione internazionale di Berna, ancora oggi operante.
+
+Nel XX secolo il diffondersi delle memorie di massa (come videocassette e musicassette) e dei riproduttori ha reso assai difficile la tutela del copyright come tradizionalmente inteso, e creato nuovi spazi per gli autori. A tal proposito nel 1976 la Disney e gli Universal Studios intentarono una causa legale contro Sony, poiché avrebbe favorito la libera diffusione di opere in violazione del copyright. Successivamente il diffondersi del personal computer e di internet, ha sottratto uno dei cardini alla base del copyright in senso classico: ovvero il costo e la difficoltà di riprodurre e diffondere sul territorio le opere, aspetti fino ad allora gestiti dalla corporazione degli editori dietro congruo compenso o cessione dei diritti da parte degli autori.
+Il primo episodio con eco internazionale, si è avuto a cavallo fra il XX e il XXI secolo con il cosiddetto caso Napster, uno dei primi sistemi di condivisione gratuita di file musicali, oggetto di enorme successo a cavallo del millennio. La chiusura di Napster, avvenuta nel 2002 e generata dalle denunce degli editori, che vedevano nel sistema un concorrente ai propri profitti, non ha risolto se non per breve tempo gli attriti. Nuovi programmi di file sharing gratuito sono sorti rimpiazzando l'originale Napster e vanificando gli scopi della chiusura. Secondo gli operatori del mercato dell'intrattenimento, una costante diminuzione delle vendite di cd musicali è scaturita dalla diffusione di questi sistemi e dalla progressiva obsolescenza della precedente tecnologia, obsolescenza dovuta principalmente all'eccessivo costo d'acquisto di materiale originale. Ciò avrebbe danneggiato principalmente il sistema corporativo e ingessato dell'industria discografica; vi sono, tuttavia, autorevoli studi che sostengono il contrario.
+Il file sharing (scambio e condivisione di file) di materiale protetto dal copyright, si è sviluppato e diffuso con l'imporsi delle tecnologie informatiche e del web, e in particolar modo grazie al sistema del peer-to-peer. La velocità di questa diffusione e sviluppo, ha reso difficile per il diritto industriale internazionale aggiornarsi con la medesima prontezza. Molti analisti internazionali accusano infatti la presenza di vuoti normativi non omogeneamente colmati.
+Ted Nelson nella sua opera Literary machines del 1981, introduce il progetto "Xanadu" nel quale è contenuto il concetto di transcopyright. Il transcopyright è legato alla possibilità di includere in un proprio lavoro collegamenti e riferimenti attraverso dei micro-pagamenti in base ai quali verranno pagati gli editori dell'opera citata e verranno citati gli autori originali, in modo da preservare anche i diritti morali d'autore; inoltre Nelson afferma che questa soluzione potrà venire utilizzata non solo per i testi, ma anche per progetti improntati su audio o video.
+Il transcopyright si basa su una licenza che si differenzia dalle licenze open source in base al fatto che un contenuto redatto con il transcopyright non è concepito per essere poi ridistribuito e modificato.
+Questa idea, in generale, non è stata ben accolta, sia perché difficile da implementare, sia perché molti insistono che i contenuti debbano essere liberi e gratuiti, come accade, per esempio, con Wikipedia.
+
+
+== Considerazioni generali ==
+
+
+=== Deroghe ai diritti per pubblica utilità ===
+La proprietà intellettuale può essere oggetto di "esproprio" per fini di pubblica utilità che prevalgono sull'interesse del privato. In un caso del genere rientra la distruzione o lo spostamento ad altro sito di un'opera d'arte anche contemporanea, per realizzare un'autostrada o una ferrovia; oppure la produzione di un farmaco che è troppo costoso acquistare dal legittimo produttore, non riconoscendo validità al brevetto sul territorio nazionale e non pagando il copyright allo scopritore in deroga a un brevetto internazionale depositato all'estero (si tratta della importazione forzata e registrazione parallela).
+La definizione di pubblica utilità, per quanto ampia e discrezionale, solitamente riguarda prodotti tangibili, non la fruizione di servizi, come potrebbe essere un intrattenimento musicale.
+
+
+=== Disciplina giuridica e diritto ===
+A sostegno di una disciplina giuridica dei brevetti sorgono una serie di considerazioni in particolare nel settore delle arti.
+Le arti (scultura, pittura, ecc.) sono considerate un fattore di crescita della società e del cittadino, cui tutti hanno diritto di accesso in base a un diritto all'istruzione e di un diritto, da questo indipendente, alla fruizione della bellezza, quale bisogno dell'uomo, poiché la legge non deve limitarsi a garantire il soddisfacimento delle necessità primarie della persona, ma la possibilità di una sua completa realizzazione.
+Altri sostengono che l'arte non è mai il prodotto di un singolo individuo, e che non è quantificabile il contributo e le influenze che qualunque artista ha avuto, anche in modo inconsapevole, da altri artisti e uomini comuni, passati e contemporanei, e il debito dell'autore nei loro confronti. In questo senso, l'opera è prodotto e proprietà di una società e di un'epoca, più che di un individuo e dei suoi eredi.
+Il principio di un diritto collettivo alla fruizione della bellezza e all'apprendimento dall'arte, nelle loro opere originali sono state idee che portarono nel Settecento alla nascita dei primi musei che erano concepiti come il luogo in cui l'arte veniva valorizzata e doveva essere conservata, piuttosto che all'interno di collezioni private gelosamente custodite.
+Pure per la musica, per quanto sia un'arte non "tangibile", alcune considerazioni spingono per un diritto d'accesso collettivo che può esserci solo a titolo gratuito o comunque a basso costo: il fatto che la musica è cultura e i cittadini hanno diritto d'accesso ai livelli più alti dell'istruzione, il diritto allo studio nei conservatori che richiedono spese notevoli per lo strumento e il materiale didattico musicale, la bellezza come bene comune e valore apartitico.
+
+
+=== Durata ed ereditarietà del copyright ===
+La normativa prevede una durata del copyright limitata nel tempo e variabile significativamente a seconda della categoria merceologica tutelata (medicinali, brani musicali, software, ecc.).
+Il periodo di copyright dovrebbe consentire di avere un adeguato margine di guadagno e di recuperare i costi che precedono l'entrata in produzione e la distribuzione del prodotto. In linea di principio la durata è proporzionale ai costi da remunerare. Tuttavia non sempre la proporzione viene rispettata. Per esempio un brano musicale ha una durata di copyright di 70 anni mentre per un medicinale, che ha costi di ricerca e sviluppo assai maggiori, la durata brevettuale è di 20 anni a cui si aggiunge un periodo massimo di 5 anni garantito dal certificato complementare di protezione - SPC-.
+Storicamente la morte dell'autore causava l'estinzione del copyright. In seguito, il diritto d'autore è passato agli eredi del soggetto e quindi la durata prevista dalla legge è prescrittiva (30/70 anni in ogni caso). È stata modificata anche la distribuzione dei margini: all'editore tocca talvolta più dell'autore, talora più del 50% (a fronte di un equo margine che per un intermediario è generalmente intorno al 20%).
+
+
+=== Dibattito sulle pene per la violazione del copyright ===
+Nelle legislazioni internazionali è frequente una tendenza all'equiparazione fra la violazione del copyright e il reato di furto.
+Esiste un dibattito non solo sull'entità delle pene che una simile equiparazione comporta, ma anche sulla reale opportunità di accomunare i due tipi di reato. L'equiparazione al furto comporta infatti un considerevole inasprimento delle pene.
+Analogo dibattito investe il rispetto del proporzionalismo fra le pene rispetto alla gravità del reato. Il plagio, infatti, prevede pene inferiori al furto (sebbene l'utilizzo commerciale sia un'aggravante nella violazione di copyright). In sostanza, chi copia e vende opere in forma identica all'originale commette un reato punito molto più severamente del plagio, ovvero di chi apporta lievi modifiche e si appropria di una qualche paternità sull'opera, traendone profitto.
+
+
+=== La Proposta di Direttiva sul diritto d'autore nel mercato unico digitale ===
+
+La relazione di accompagnamento alla Proposta di Direttiva 2016/0280 (COM/2016/0593 final) del 14 settembre 2016 si base sul potere dell'UE "di adottare misure aventi per oggetto l'instaurazione e il funzionamento del mercato interno", secondo l'articolo 114 del TFUE. 
+La Proposta determina "eccezioni e le limitazioni al diritto d’autore e ai diritti connessi sono armonizzate a livello UE", Il potere di introduzione e di adeguamento degli Stati membri, in generale derivante dal principio di sussidiarietà per la loro competenza concorrente con il diritto dell'Unione europea, è limitato invocando "la natura transfrontaliera delle questioni individuate".
+Le deroghe, eccezioni e limitazioni al diritto d'autore sono previste:
+
+considerazioni introduttiva (5):
+la ricerca "scientifica", l'insegnamento e la conservazione del patrimonio culturale
+le eccezioni e le limitazioni attualmente vigenti nel diritto dell'Unione, previste nelle direttive 96/9/CE e 2001/29/CE
+considerazione introduttiva (9): atti di estrazione di testo e di dati, oggetto di incertezza giuridica perché possono essere esclusi dalle condizioni delle licenze (sia in abbonamento, che ad accesso aperto), anche per i ricercatori.
+considerazioni introduttiva (11): gli "organismi di ricerca" (di cui all'art. 2) senza scopo di lucro, ovvero destinatari di finanziamenti e contratti con la pubblica amministrazione, purché indipendenti dalla proprietà e gestione di imprese commerciali.
+
+
+=== Aspetti controversi e iniziative di protesta ===
+All'art. 12, la Proposta di Direttiva prevede che gli Stati membri possano ampliare la tutela economica degli autori, anche in caso di cessione o trasferimento "parziali" dei propri diritti mediante licenza. Se la licenza contiene una qualche eccezione o limitazione del diritto, essa è definita come una base giuridica sufficiente per l'autore al fine di ottenere "una quota del compenso previsto compenso in virtù di un'eccezione o di una limitazione al diritto trasferito o concesso mediante licenza" (art. 12).
+All'art. 13, la Proposta di Direttiva prevede l'introduzione di "tecnologie efficaci per il riconoscimento dei contenuti", adeguate e proporzionate al loro fine legittimo. La misura riguarda non soltanto il rispetto di un quantitativo massimo di parole o parti citabili dell'opera, ma la completa esclusione di "talune opere o altro materiale identificati dai titolari dei diritti mediante la collaborazione con gli stessi prestatori [che] siano messi a disposizione sui loro servizi". 
+I prestatori di servizi concludono accordi con i titolari dei diritto, informano sull'attivazione, funzionamento e sul riconoscimento e l’utilizzo delle opere e altro materiale (art. 13)).
+Nell'ottobre 2016 è stata promossa una petizione web, per richiedere la riforma della legge europea sul diritto d'autore, con particolare riferimento ai meme. Questi ultimi sono stati considerati tecnicamente fuori legge in molti Stati europei; l'iniziativa è sostenuta, tra gli altri, da Mozilla.
+
+
+=== Critiche ===
+Particolari critiche sono mosse nei confronti del caricamento di contenuti su piattaforme Internet e dello scambio digitale di opere originali, si discute infatti degli aspetti del copyright del download e dello streaming, degli aspetti del copyright del collegamento ipertestuale e del framing.
+Le preoccupazioni sono spesso espresse nel linguaggio dei diritti digitali, della libertà digitale, dei diritti sui database, dei dati aperti o della censura. 
+Alcuni suggeriscono un sistema di compensazione alternativo. In Europa i consumatori si stanno opponendo all'aumento dei costi di musica, film e libri, e di conseguenza sono stati creati Pirate Party. Alcuni gruppi rifiutano del tutto il copyright, assumendo una posizione anti-copyright. L'incapacità percepita di far rispettare il copyright online porta alcuni a sostenere l'ignoranza degli statuti legali quando si è sul web.
+
+
+== Azioni legali famose ==
+Nel 2008 gli eredi di Chet Baker hanno fatto causa contro le major discografiche (Sony BMG, EMI Music, Universal Music e Warner Music) per violazione del copyright. A loro dopo poco si sono aggiunti altri artisti fino ad arrivare a una class action. Le case discografiche sfruttavano commercialmente i brani senza pagare i diritti agli autori dichiarando, semplicemente, che non era possibile rintracciarli, compresi artisti come Bruce Springsteen.Un altro caso eclatante di violazione del copyright, che ha interessato anche l'Italia, è quello che ruota intorno al caso Rojadirecta, la piattaforma di eventi sportivi trasmessi in streaming fondato dallo spagnolo Igor Seoane. Nonostante l'arresto del 2016 a carico di Seoane, dopo una battaglia giudiziaria che lo ha visto contrapposto a Google, Mediaset e alla magistratura spagnola, oggi Rojadirecta è di nuovo funzionante.
+
+
+== Nel mondo ==
+Nei Paesi del Common Law (Regno Unito, Australia, Nuova Zelanda, Singapore) l'attenuazione alla rigidità del copyright è regolata dal fair dealing, che esenta le attività didattiche e altre ipotesi dall'usuale normativa.
+
+
+=== Paesi che applicano il copyright ===
+A livello internazionale, il diritto d'autore è riconosciuto dai 177 paesi firmatari della Convenzione di Berna per la protezione delle opere letterarie e artistiche.
+Ai sensi della Convenzione di Berna, la durata tipica della protezione del diritto d'autore è di 50 anni dalla data di pubblicazione. Questa è una media: le leggi nazionali sono generalmente più lunghe di questo periodo.
+Il concetto di uso corretto limita in alcuni casi la portata del diritto d'autore al fine di garantire l'equilibrio tra la protezione delle opere e il diritto del pubblico all'informazione.
+
+
+=== Italia ===
+In Italia la fonte normativa principale è la legge 22 aprile 1941, n. 633. La pretesa della SIAE di richiedere compensi per diritto d'autore anche per le attività didattiche è stata oggetto di un'interrogazione parlamentare del senatore Mauro Bulgarelli, che ha chiesto di valutare l'opportunità di estendere anche in Italia il fair use.
+
+
+=== Stati Uniti d'America ===
+
+Negli Stati Uniti la legislazione in materia di copyright è contenuta nel Titolo 17 dello United States Code. Le violazioni di copyright sono pertanto considerate reato federale e possono comportare, in sede civile, multe fino a 100.000$. 
+Negli USA un'opera, anche incompiuta, si realizza quando è fisicamente su un supporto. Dall'adesione degli Stati Uniti alla Convenzione di Berna nel 1989, la registrazione di opere straniere presso il Copyright Office non è più necessaria per beneficiare della tutela giuridica, ma resta possibile agevolare la prova dei propri diritti. Il titolare del copyright ha il diritto esclusivo di riprodurre o comunicare le opere e di autorizzare la creazione di opere derivate. Un diritto morale, compreso il diritto di paternità e il diritto al rispetto dell'integrità delle creazioni, è concesso solo agli artisti visivi. La durata del diritto d'autore dipende dalla natura dell'opera e dalla sua data di pubblicazione. D'ora in poi, ogni opera realizzata beneficia di una tutela post mortem di 70 anni se il titolare è una persona fisica. Ai sensi del Sonny Bono Copyright Term Extension Act, le aziende godono di 95 anni di protezione dalla pubblicazione o 120 anni dalla creazione, a seconda di quale sia più lungo.
+Tuttavia la legge statunitense prevede il concetto di fair use, che lascia ampi spazi per la riproduzione di opere con scopi didattici o scientifici. 
+
+
+=== Giappone ===
+Nel 2010, la legge sul copyright rivista in Giappone, la cosiddetta illegalizzazione dei download ha iniziato a essere implementata e i download illegali sono stati classificati come reati, con l'eccezione del fatto che il caricamento illegale continua a essere illegale. Tuttavia, la legge non impone alcuna penalità per il download illegale. La legge non include download illegali diversi da musica e video. Non è un reato guardare video streaming come YouTube. 
+Alla fine di gennaio, un sondaggio ha mostrato che i download illegali in Giappone sono stati ridotti del 60%. A metà febbraio, il sondaggio di Oricon ha mostrato che i giapponesi avevano una conoscenza del 51,6% della legge e il 12,1% ha dichiarato che avrebbe continuato a scaricare illegalmente.
+
+
+=== Repubblica Popolare della Cina ===
+Nella Cina continentale, il termine copyright è solitamente usato in documenti legali e il copyright è generalmente definito copyright. Il governo ha anche un ufficio nazionale per il copyright e l'Ufficio Nazionale del Copyright non è affiliato all'Ufficio Proprietà Intellettuale dello Stato. Tutte le opere di cittadini cinesi, persone giuridiche o unità prive di personalità godono del diritto d'autore indipendentemente dal fatto che siano pubblicate o meno, i lavori degli stranieri vengono pubblicati per la prima volta in Cina e anche i diritti d'autore sono concessi ai sensi della legge sul copyright; l'accordo con la Cina o il trattato internazionale che partecipa all'accordo gode del diritto d'autore.
+In Cina, le opere protette dal diritto d'autore si riferiscono a realizzazioni intellettuali che sono originali nei campi della letteratura, dell'arte e della scienza e possono essere riprodotte in qualche forma tangibile. Un'opera conforme alle condizioni della protezione del copyright è solitamente una creazione intellettuale che può essere espressa in una forma di riproduzione materiale, pertanto non è esclusa la protezione di un lavoro orale non fissato da un vettore tangibile. Piuttosto che richiedere che il lavoro sia fissato su un vettore tangibile, come nel caso della legge anglo-americana.
+
+
+=== Unione Europea ===
+
+
+==== La direttiva IPRED ====
+
+Anche l'originaria direttiva conteneva, in fase di presentazione, norme penali, che erano state omesse per riuscire a ottenere l'approvazione entro il 1º maggio 2004.
+Il Parlamento europeo ha votato, in seduta plenaria, la relazione che accoglie la proposta della Commissione, ma nello stesso tempo propone una serie di emendamenti. Con uno, in particolare, sulla base del fair use, prima esistente solo nel diritto americano, si stabilisce che la riproduzione in copie o su supporto audio o con qualsiasi altro mezzo a fini di critica, recensione, informazione, insegnamento, compresa la produzione di copie multiple per l'uso in classe, studio o ricerca, «non sia qualificato come reato».
+
+
+==== La direttiva IPRED2 ====
+
+Il Parlamento di Strasburgo nell'aprile del 2007 ha approvato il testo di una nuova direttiva, che mira a modificare la direttiva 2004/48/EC sui diritti di proprietà intellettuale. Poiché è la seconda direttiva sull'argomento, ha preso il nome di IPRED2.
+La Direttiva IPRED2, detta "IP Enforcement" cioè "rafforzamento della proprietà intellettuale", è stata recepita in Italia nel maggio del 2007 e introduce diverse misure a maggiore tutela dei detentori di diritti d'autore. In particolare obbliga gli Internet Service Provider a fornire i dati personali degli utenti in caso di contestazione da parte dei detentori dei diritti. Si tratta di rivelare i nominativi o i numeri telefonici corrispondenti agli indirizzi IP rilevati da società specializzate nelle intercettazioni su reti P2P. L'obbligo in precedenza valeva solamente rispetto a interventi delle forze dell'ordine o di pubblica autorità. La Direttiva riconosce implicitamente un valore probatorio alla rilevazione degli indirizzi IP.
+
+
+=== La Link Tax e la Censorship Machine ===
+Nel giugno 2018 il Parlamento Europeo discute la promulgazione di una direttiva, in cui si pone l'accento sul frequente utilizzo di link che rimandano a pagine di quotidiani e giornali e sulla diffusione di immagini protette da copyright; i due articoli più discussi della direttiva, in particolare, sono gli articoli 11 e 13, definiti rispettivamente Link-Tax e Censorship Machine. Il primo mira a contrastare i cosiddetti snippet, termine solitamente legato all'ambito tecnico informatico, e qui stante a indicare quei piccoli estratti di un articolo di giornale o di un qualunque contenuto editoriale più generico, talora corredati di una foto interna allo stesso, che appaiono al momento della condivisione del link al contenuto su un qualunque social o sito internet; ciò costituirebbe una violazione del copyright, e sarebbe quindi necessario che colui il quale condivide il link richiedesse una licenza dall'editore dell'articolo per poter condividere l'articolo, pagando un compenso. Il secondo parla di copyright in maniera più generale, e prevederebbe l'inserimento di appositi algoritmi in grado di valutare preventivamente qualsiasi contenuto caricato in rete, verificarne la liceità in termini di violazione del copyright ed, eventualmente, procedere alla rimozione del contenuto; ciò mette a rischio anche i meme, nei quali molto spesso si fa utilizzo indebito di materiale fotografico coperto da copyright.Questa proposta di direttiva ha generato critiche e scetticismo diffusi; in particolare Julia Reda, relatrice per l'assemblea di Strasburgo del dossier sulla riforma del copyright, europarlamentare del Partito Pirata tedesco, fra le problematiche più evidenti ha evidenziato come le probabilità di successo su larga scala della direttiva siano ridotte (riferendosi a tentativi di applicazione di questa legge in Germania e Spagna, poi naufragati), come il collegamento ipertestuale e lo stesso linking siano messi a rischio su ogni tipo di sito, come questa direttiva limiti in un certo senso la libertà d'espressione e accesso all'informazione, come aumenti la possibilità che le fake news si diffondano (non potendo avere un'anteprima della notizia più dettagliata, la condivisione "alla cieca" sarebbe più diffusa), come questo scoraggi le startup e i piccoli editori in questo settore e come questa direttiva sia in conflitto con la Convenzione di Berna.In Italia sono state espresse critiche specialmente dal Ministro del Lavoro Luigi di Maio, che ne sostiene l'anacronismo e l'arretratezza.
+
+
+== Il Copyleft ==
+
+Nel 1984, Richard Stallman e la Free Software Foundation svilupparono un meccanismo originato dal copyright, specifico per la gestione dei diritti sulla proprietà dei software. Utilizzando un doppio senso della lingua inglese, in cui "right" significa sia "diritto", sia "destra", denominarono questo meccanismo copyleft: "left" significa sia "lasciato" sia "sinistra", a sottolineare una filosofia opposta a quella del copyright. Questo principio è stato ampiamente applicato nell'ambito del software libero.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Simone Aliprandi, Capire il copyright. Percorso guidato nel diritto d'autore, PrimaOra/Copyleft-Italia.it, 2007, ISBN 978-88-901724-7-2.
+Borghi e Montagnani, "Proprietà digitale. Diritti d'autore, nuove tecnologie e digital rights management", EGEA, 2006.
+Umberto Izzo, "", Roma: Carocci, 2010, ISBN 978-88-430-5314-8
+Lessig, Il futuro delle idee, Feltrinelli, 2006.
+Lessig, Cultura libera. "Un equilibrio fra anarchia e controllo, contro l'estremismo della proprietà intellettuale Archiviato il 27 gennaio 2007 in Internet Archive.", Apogeo, 2005.
+Pascuzzi e Caso, "I diritti sulle opere digitali. Copyright statunitense e diritto d'autore italiano", CEDAM, 2002.
+Marco Ricolfi, "Copyright Policy for digital libraries in the context of the i2010 strategy", paper per 1st Communia Conference on the Digital Public Domain, Louvain-la-Neuve (Belgio); disponibile online qui Archiviato il 19 gennaio 2012 in Internet Archive..
+Richard Stallman, "Free Software, Free Society: The Selected Essay of Richard M. Stallman", GNU Press, 2002.
+Carlo Gubitosa, "Elogio della pirateria Archiviato il 13 novembre 2007 in Internet Archive.", Altreconomia, 2005.
+Ted Nelson, "Literary Machine", Mindful press, 1981.
+
+
+== Voci correlate ==
+Copyleft
+Copyzero
+Diritto d'autore
+Diritto d'autore italiano
+Fair use
+Regola della durata più breve
+Libertà digitali
+SIAE
+All Rights Reserved
+Open source
+Peer-to-peer
+Legge italiana sul peer-to-peer
+Creative Commons
+Proprietà intellettuale
+Pubblico dominio
+GNU Free Documentation License
+GNU General Public License
+Free Software Foundation
+Sniffing
+Diritto e fotografia
+Partito Pirata
+Trattato di Marrakech
+Simbolo di copyright
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «copyright»
+ Wikimedia Commons contiene immagini o altri file su copyright Wikinotizie contiene l'articolo Il sottosegretario del MIBAC: Copyright. Riforma sbagliata nel metodo Wikinotizie contiene l'articolo Il Parlamento Europeo vota la riforma del Diritto d'autore
+
+
+== Collegamenti esterni ==
+
+(EN) William Weston Fisher, copyright, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN, FR) Copyright, su Enciclopedia canadese. 
+(EN)  UK Copyright Aid - Info sul copyright in UK
+(EN) United States Copyright Office, su copyright.gov. URL consultato il 2 ottobre 2006 (archiviato dall'url originale il 5 gennaio 2008).* (EN)  Legislazione EUA:
+(EN) China Law Blog, su chinalawblog.com.
+(EN) The Korean Law Blog, su thekoreanlawblog.com.
+ Relazione ed emendamenti Nuova direttiva Parlamento Europeo, su europarl.europa.eu.

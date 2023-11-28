@@ -1,0 +1,244 @@
+Z est la 26e et dernière lettre, ainsi que la 20e consonne de l'alphabet latin.
+
+
+== Code ==
+Z est le code de la province de Saragosse (Zaragoza en castillan), selon la norme ISO 3166-2:ES espagnole.
+
+
+== Sciences et techniques ==
+
+
+=== Astronomie et astrophysique ===
+Le symbole Z peut représenter la métallicité d'un objet astronomique.
+Le symbole z peut représenter le décalage vers le rouge : 
+  
+    
+      
+        z
+        =
+        
+          
+            
+              
+                λ
+                
+                  
+                    o
+                    b
+                    s
+                  
+                
+              
+              −
+              
+                λ
+                
+                  0
+                
+              
+            
+            
+              λ
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle z={\frac {\lambda _{\mathrm {obs} }-\lambda _{0}}{\lambda _{0}}}}
+  , où 
+  
+    
+      
+        
+          λ
+          
+            
+              o
+              b
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \lambda _{\mathrm {obs} }}
+   et 
+  
+    
+      
+        
+          λ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \lambda _{0}}
+   sont respectivement la longueur d'onde observée dans le spectre d'un objet céleste et la longueur d'onde de la même raie dans un référentiel au repos.
+
+
+=== Géographie ===
+La Cote Z en géographie.
+
+
+=== Informatique ===
+Contrôle Z ou Ctrl+Z, raccourci clavier permettant d'annuler la dernière modification apportée dans une application ;
+on ajoute souvent la lettre Z à la fin des mots faisant référence au piratage, le Z étant le pluriel pirate (par exemple : les Zobz, les hackerz, le warez) ;
+la notation Z, langage de spécification formelle servant à décrire et à comprendre le fonctionnement de systèmes informatiques ;
+le Z-buffer, en infographie ;
+z/OS, un système d'exploitation d'IBM, pour les ordinateurs centraux zSeries.
+le langage de programmation Z de ZOLA Technologies.
+
+
+=== Mathématiques ===
+La notation 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   (Unicode U+2124 : ℤ) représente l'ensemble des nombres entiers relatifs selon un usage qui remonte à Nicolas Bourbaki. Il s'agit de l'initiale du mot allemand Zahlen ;
+z sert couramment de symbole d'inconnue dans le cadre des nombres complexes ;
+z, symbole fréquemment utilisé pour désigner la troisième variable inconnue (après x et y) ;
+de même, z sert souvent à désigner la cote d'un point ;
+la transformée en Z, en traitement du signal, est l'équivalent discret de la transformée de Laplace.
+
+
+=== Minéralogie et cristallographie ===
+Le symbole Z exprime le nombre de mailles élémentaires contenues dans une maille conventionnelle.
+
+
+=== Physique et chimie ===
+Z, symbole du boson Z ;
+Z, variable attribuée à l'impédance électrique en électrotechnique et en électronique et à l'impédance acoustique ;
+la Z machine, le générateur de rayons X ;
+Z-pinch, une technique de fusion thermonucléaire ;
+z désigne le nombre de motifs par maille en cristallographie ;
+Z, symbole du numéro atomique ;
+Z désigne une stéréoisomérie ;
+Z, le groupe carboxybenzyle en biochimie ;
+la protéine Z est un type de protéine synthétisée par le foie.
+
+
+=== Unités ===
+z (minuscule), préfixe du SI signifiant zepto (10-21) ;
+Z (majuscule), préfixe du SI signifiant zetta (1021) ;
+Z (majuscule), code signifiant heure UTC ou heure GMT (bien que ce ne soit pas la même chose à strictement parler). Se prononce « zoulou » (en anglais Zulu time) ;
+Z (majuscule), signifiant le nombre de dents d'une pièce (ex. : pignon, roue dentée).
+
+
+== Sciences humaines et sociales ==
+
+
+=== Histoire ===
+En 1905, pour indiquer le début de la bataille navale de Tsushima, l'amiral japonais Heihachirō Tōgō fit hisser le pavillon signifiant la lettre Z selon le Code international des signaux maritimes. En 1941, l'amiral Isoroku Yamamoto fit de même avant l'attaque de Pearl Harbor.
+
+
+=== Politique ===
+Durant l'invasion de l'Ukraine par la Russie en 2022, les chars russes du front nord arborent la marque de reconnaissance « Z » tracée à la peinture blanche. Ce sigle devient le symbole des patriotes russes en faveur de cette guerre et est décliné sous de nombreuses formes lors de leurs manifestations.
+Lors de l'élection présidentielle française de 2022, la lettre « Z » est un symbole de ralliement pour les partisans d'Éric Zemmour.
+
+
+=== Phonétique ===
+[z] est le symbole, dans l'alphabet phonétique international, de la consonne fricative alvéolaire voisée.
+[ʐ] est le symbole, dans l'alphabet phonétique international, de la consonne fricative rétroflexe voisée.
+[ʑ] est le symbole, dans l'alphabet phonétique international, de la consonne fricative alvéolo-palatale voisée.
+
+
+== Culture et société ==
+Voir de Z0 à Z99.
+La génération Z est une génération sociologique qui débute en 1997.
+
+
+=== Bande dessinée ===
+Zorglub, un personnage de la bande dessinée Spirou et Fantasio mis en scène dans Z comme Zorglub, L'Ombre du Z, Le réveil du Z et Aux sources du Z.
+Mazinger Z, manga créée par Go Nagai ;
+
+
+=== Cinéma ===
+Un film de série Z, film de série B poussé à l'extrême, c’est-à-dire un film au budget microscopique, aux moyens minimaux (tenant souvent du bricolage) et au tournage précipité et bâclé ;
+Z, film franco-algérien de Costa-Gavras, sorti en 1969 ;
+The Lost City of Z, film d'aventure historique américain de James Gray, sorti en 2016 ;
+Z, personnage principal du film Fourmiz ;
+Z, personnage fictif du film Snowboarder ;
+Z, personnage principal du film Zardoz ;
+Z, signature de Zorro ;
+Z, personnage dans le film Men in Black ;
+Dragon Ball Z, série télévisée d'animation japonaise ;
+Z, personnage dans le film Pulp Fiction de Quentin Tarantino ;
+« Z au Bras Noir » est le pseudonyme de Zephyr, principal antagoniste du film One Piece : Z, 12e film inspiré par la série japonaise One Piece ;
+Pokemon XY & Z, série télévisée d'animation japonaise.
+
+
+=== Entreprises et produits ===
+Z est un luminaire du fabricant Schréder.
+Les vêtements Z sont une marque du Kidiliz Group.
+
+
+=== Graphisme ===
+Monsieur Z, pseudonyme de Richard Zielenkiewicz, graphiste et illustrateur.
+
+
+=== Littérature ===
+Z, roman de Vassilis Vassilikos dont est tiré le film de Costa-Gavras ;
+Dans Le Grain de la voix, Entretiens 1962-1980, Roland Barthes écrit que « dans un esprit très balzacien, un peu ésotérique, on doit tenir compte des maléfices de la lettre z, qui est la lettre de la déviance, la lettre déviée ». (Points/Seuil, p. 116–117)
+
+
+=== Médias ===
+Z, revue itinérante d'enquête et de critique sociale ;
+
+
+=== Musique ===
+Z, groupe formé par Ahmet et Dweezil Zappa, fils de Frank Zappa ;
+Monsieur Z, artiste de musique ;
+Jay-Z, le rappeur américain ;
+Z-Audio, label de musique indépendant ;
+Z, album du groupe ZONE ;
+Z. est le préfixe choisi par le musicologue Franklin B. Zimmerman (en) pour son catalogue des œuvres du compositeur anglais Henry Purcell. Par exemple, Z.628 correspond à l'opéra King Arthur.
+
+
+=== Jeux vidéo ===
+Le Z, symbole de la Zaibatsu, dans Grand Theft Auto 2.
+Z, jeu vidéo des studios The Bitmap Brothers sur PC, PlayStation et Saturn.
+
+
+=== Sports ===
+Z, « surnom » du marathonien français Benoît Zwierzchiewski ;
+Z, une ancienne équipe cycliste française.
+
+
+=== Transports ===
+Ligne Z 
+Surnom des automotrices Z 23000 ;
+La gamme de roadster 2 places cabriolet ou coupé chez BMW (Z1, Z3, Z4, Z8)
+Une gamme de voitures de sport chez Nissan ;
+Une gamme de moto chez le constructeur japonais Kawasaki (comme la Z750 ou la Z1000).
+
+
+=== Vie pratique ===
+Le Z, surnom du délégué de classe/promotion dans l'argot des classes préparatoires et des grandes écoles ;
+le Code Z, en morse ;
+Don Z, revue de bandes dessinées pour la jeunesse ;
+Télé Z, revue de télévision ;
+Z, chaîne de télévision au Québec ;
+le Z Café, bar rue de la Roquette, Paris 11e ;
+la lettre Z, sigle distinctif des automobiles immatriculées en Zambie ;
+la lettre Z était le code de la province de Saragosse (Zaragoza en castillan), sur les plaques d'immatriculation espagnoles jusqu'en 2000 ;
+la lettre z, code de la ville de Zwickau, Allemagne sur les plaques d'immatriculation allemandes.
+
+
+== Anthroponyme ==
+Monsieur Z est le surnom que s'était donné Protais Zigiranyirazo, un des principaux responsables présumés du génocide rwandais.
+-Z-, artiste tunisien ;
+Dr Z…, rédacteur de la revue La Nature.
+
+
+== Notes et références ==

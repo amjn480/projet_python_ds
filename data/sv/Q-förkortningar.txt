@@ -1,0 +1,65 @@
+Q-förkortningar kallas en uppsättning fördefinierade treställiga förkortningar som används vid radiokommunikation, speciellt vid telegrafi. De är fastställda av Internationella Teleunionen (ITU) i Appendix 13 och Appendix 14 av Radioreglementet, som är en bilaga till Internationella Telekonventionen.
+Förkortningarna börjar alla med Q, därav namnet, och kan tänkas komma från engelskas question. Q-förkortningen ges frågande innebörd om den följs av ett frågetecken. Utan frågetecken ska Q-förkortningen tolkas som ett påstående eller en uppmaning. (Se nedan). En definition med negativ innebörd kan modifieras till en positiv betydelse genom tillägg av C vid telegrafi. Vid telefoni uttalat Charley vid Q-signaler upptagna i Appendix 13, men YES vid Q-signaler upptagna i Appendix 14. Detta synes inkonsekvent, men så blev i alla fall utslaget vid 1985 års ITU-konferens.
+En definition med positiv innebörd kan ändras till negativ betydelse genom tillägg av N vid telegrafi och NO vid telefoni. I lokala trafikföreskrifter har det förekommit föreskrift att den omvända innebörden ska anges genom att ordet NEGATIVE uttalas.
+
+
+== Disposition ==
+Serien QAA … QNZ är reserverad för aeronautisk trafik (definieras av ICAO)
+Serien QOA … QQZ är reserverad för sjöfarttrafik (definieras i Radioreglementet Appendix 14)
+Serien QRA … QUZ är för allmänt bruk. I delserien QTA – QUZ ingår en hel del koder med tillämpning både för sjöfart och luftfart, främst vid samverkan vid sjöräddning (definieras i Radioreglementet Appendix 13)
+Serien QVA/QWA ... QZZ   saknar ITU-definitioner, men den tyska polisen har använt vissa delar i denna serie med egna definitioner.
+Rysk militär trafik har egna definitioner av Q-signalerna. Föga är känt om tolkningen.
+I svensk militär trafik används serien QXA … QZZ med nationella definitioner.
+Okänt tillämpningsområdeVissa Q-koder har en liknande tolkning vid flaggsignalering enligt International Code of Signals.
+Som underlag för framtida historieskrivning upptas även vissa äldre lydelser enligt Signalinstruktion för Armén 1938. Ett annat skäl är rimlig tolkning vid läsning av äldre litteratur där Q-signaler nämns. (Se t ex konflikten vid QRJ.) Dessa äldre lydelser finns enbart i den allmänna delen och utmärks genom skrift med denna stil.
+Signalen QRR var tidigare vakant, och användes då inofficiellt av radioamatörer som nödanrop. Sedermera tog ITU signalen QRR i anspråk med tillämpning på maskinsändning. För att undvika konflikter ändrade då radioamatörerna sitt inofficiella nödanrop till QRRR.
+Bland radioamatörer, speciellt i USA, förekommer en inofficiell definition av serien QNA … QNZ med tillämpning på nättrafik. Från detta bruk måste starkt avrådas, eftersom allvarliga missförstånd kan uppstå om det tolkas enligt Radioreglementets officiella definitioner med tillämpning på flygtrafik.
+
+
+== Förkortningar ==
+
+
+=== Kod för aeronautisk trafik ===
+Denna serie består av koderna QAA—QNZ, vilken administreras av ICAO. Serien har reviderats åtskilliga gånger, vilket ibland inneburit att föråldrade koder annullerats, varvid luckor uppstått i den sista revisionen av Doc8400 (1989), vars användning slutligen avskaffades helt och hållet 1999.
+För luckorna vid
+
+har komplettering skett med svenska definitioner enligt Signal I A 1945, i tabellen nedan skrivna med liten stil.
+Aktualisering till svensk officiell lydelse har skett t o m 1968 enligt SbIK:3.Båda dessa kompletteringar är i tabellen markerade med asterisk (*).
+Övriga fall är fri översättning från engelska i ICAO Doc8400-4.
+
+––––––––––*) Definitionen av dessa koder är enligt SignalI A 1945
+
+
+==== Tilläggsignaler ====
+Svaret kan i vissa fall ersättas med Ex: QAM SLA 1015 mulet QBA 20 km QBB 800 9/10 QAN 270 gr 25 km/t QFE 1013 mb.
+
+
+=== Kod för maritim trafik ===
+(Oauktoriserad fri översättning från den engelska versionen) 
+
+
+=== Allmänna koden ===
+Definitionerna i nedanstående tabell är i huvudsak en oauktoriserad fri översättning av engelska utgåvan av internationella Radioreglementet  (RR 1985). I den mån officiella svenska översättningar är kända har dessa använts i st f den oauktoriserade svenska översättningen. Dessa fall är utmärkta med en not. Rent formella ändringar har inte markerats.a) Förkortningar med lydelse enligt Sambandsinstruktion för krigsmakten, del 3. Telegrafering (SbIK:3 1968) är markerade med asterisk (*).
+Förkortningar med fetstil används inom amatörradio.
+Förklaringar skrivna med Kapitäler baseras på Signal I A 1938.–––––––––––––––a) Exempelvis kan engelska you, your vara både singular och plural, som på svenska har numerusskiljande ord (du, ni o s v).
+
+
+=== Svensk militär kod ===
+Observera, att flera definitioner är varandra motstridande (t ex jag/Ni) mellan respektive årgångsversioner enligt indikerade referenser.
+
+
+== Inofficiella nättrafik-förkortningar använda i USA ==
+Serien QNA … QNZ är internationellt avdelad för aeronautisk trafik och nedanstående inofficiella förkortningar har helt annan innebörd än de internationella, och allvarliga följder riskeras om man misstolkar användningsområdet.
+Nedanstående är försöksvis fri  översättning från engelsk originaltext med anpassning till svenska termer.
+Sammanhanget avgör om meddelandet ska tolkas som fråga (avslutas i så fall med frågetecken '?') eller ha positiv betydelse.
+
+–––––––––––––––* Endast huvudstationen får använda denna kod
+
+
+== Okänt tillämpningsområde ==
+
+
+== Referenser ==
+
+
+=== Noter ===

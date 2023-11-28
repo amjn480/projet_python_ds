@@ -1,0 +1,86 @@
+Das Internet Archive in San Francisco ist ein gemeinnütziges Projekt, das 1996 von Brewster Kahle gegründet wurde und seit 2007 den offiziellen Status einer Bibliothek hat. Gestartet wurde es als reines Webarchiv, bei dem man mit der sogenannten Wayback Machine archivierte Websites betrachten kann. Schon von 1999 an wurde es um weitere Archive erweitert, so dass sie nunmehr eine digitale Bibliothek ist, die bedeutende Sammlungen von Texten und Büchern, Audiodateien, Videos, Bildern und Software umfasst. Das Internet Archive hat sich die Langzeitarchivierung digitaler Daten in frei zugänglicher Form zur Aufgabe gemacht und legt dabei auch Wert auf Zugangsmöglichkeiten für blinde oder anders eingeschränkte Nutzer.
+Neben der Funktion als Archiv versteht sich das Internet Archive auch als Aktivist für ein offenes und freies Internet sowie den Erhalt und die Verbreitung gemeinfreier Werke.
+
+
+== Entstehung und Geschichte ==
+Brewster Kahle gründete das Internet Archive im Mai 1996 als Non-Profit-Organisation nach Paragraph 501(c)(3) des US-amerikanischen Einkommensteuerrechts. Es erhielt gleich zu Beginn eine große Datenlieferung von Alexa Internet. Es speichert im Rahmen der Web-Archivierung sogenannte Mementos, d. h. Momentaufnahmen von Webseiten und Usenet-Beiträgen.Von 1999 an wurde durch die Aufnahme der Prelinger Archives und später weiterer Sammlungen das Ziel auf eine umfassende frei zugängliche Bibliothek erweitert.
+Anfang 2023 umfasst das Internet Archive eine Sammlung von:
+
+41 Millionen Büchern und Texten,
+8,4 Millionen Videos und Filmen,
+14,7 Millionen Audiodateien,
+890.000 Computerprogrammen und
+4,4 Millionen Bilddateien.Das Webarchiv der Wayback Machine enthält inzwischen mehr als 735 Milliarden Webseiten.Für 2021 berichtete das Projekt, dass die Daten in vier Rechenzentren auf 28.000 Festplatten gespeichert würden. Ein Spiegelserver der Daten von San Francisco befindet sich unter anderem in der ägyptischen Bibliotheca Alexandrina. Im Dezember 2021 erreichte die Sammlung eine Größe von über 99 Petabytes.Das Archiv ist vom US-Bundesstaat Kalifornien seit Anfang Mai 2007 offiziell als Bibliothek anerkannt.Eine weitere Kopie ist mit einer Speicherkapazität von 100 TB ist in Amsterdam, Niederlande seit Juni 2004 in Betrieb.Seit den Wahlen vom 8. November 2016 plant das Internetarchiv nach Aussage auf seiner Website, eine permanent aktualisierte Kopie in Kanada zu hinterlegen.Anlässlich des 25. Jahrestags seines Bestehens veröffentlichte das Internet Archive am 30. September 2021 die „Wayforward Machine“; eine dystopische Website, welche ein stark zensiertes Internet im Jahre 2046 darstellt.
+
+
+== Klage von Verlagen ==
+Eine Reihe amerikanischer Verlage haben 2020 das gemeinnützige Internet Archive verklagt. Sie wollen für 127 mutmaßliche Urheberrechtsverletzungen um die 19 Millionen US-Dollar, was etwa dem Jahresbudget des Internet Archives entspricht. Das Archiv wehrt sich mit einem Antrag auf Beendigung dieser existenzbedrohenden Klage. Das Electronic Frontier Foundation (EFF) verteidigt das Internet Archive und kritisiert, die Klage der Verlage ziele darauf ab, das Ausleihen in Bibliotheken zu kriminalisieren.
+
+
+== Dienste ==
+
+
+=== Audiodateien ===
+Das Audioarchiv enthält im Jahr 2023 über 15 Millionen Tonaufnahmen (Stand: Juni 2023).
+Diese reichen von Hörfunksendungen und Radio-Features über Hörbücher, Dichterlesungen, Live-Konzertmitschnitten bis hin zu Musik, die von Benutzern hochgeladen wurde. Das Archiv kann auch genutzt werden, um Podcasts zu veröffentlichen. Das Archiv enthält auch eine Vielzahl von digitalisierten alten Schellackplatten aus der ersten Hälfte des 20. Jahrhunderts. Deswegen wurde das Internet Archive 2023 von der Musikindustrie auf Schadensersatz von bis zu 412 Millionen US-Dollar verklagt.
+
+
+=== Bilder ===
+Das Bildarchiv umfasste im März 2023 mehr als 4,6 Millionen Dateien. Dabei handelt es sich um Abbildungen von Kunstwerken, beispielsweise eine Sammlung von Werken aus dem Metropolitan Museum of Art mit über 100.000 Einträgen, Abbildungen von historischen Landkarten, astronomische Aufnahmen der NASA, Schallplattencover sowie auch frei verfügbare Aufnahmen von Privatpersonen.
+
+
+=== Software ===
+Die Library of Congress hat im Dezember 2006 sechs Ausnahmen des US-Copyright-Gesetzes Digital Millennium Copyright Act gewährt. Das Internet Archive darf somit Computer-Software oder ‑Spiele, welche zu Abandonware wurden, mit der Absicht der Erhaltung speichern, wenn die Originalhardware, ‑formate oder ‑technik veraltet sind. 2013 begann das Internet Archive damit, Spieleklassiker als spielbares Webbrowser-Streaming via M.E.S.S.-Emulation anzubieten, z. B. das Atari-2600-Videospiel E.T. the Extra-Terrestrial. Vom 23. Dezember 2014 an werden zu Lehr- und Forschungszwecken mithilfe von DOSBox-Emulation im Browser tausende von klassischen DOS-Computerspielen präsentiert. Bisher wurden 1.010.000 Titel archiviert. Im Jahre 2013 begann das Internet Archive, Spieleklassiker als spielbares Webbrowser-Streaming via M.E.S.S.-Emulation anzubieten. Bisher umfasst die Sammlung 15.800 Titel (Stand: März 2023).
+
+
+=== Texte ===
+In dem Million Book Project werden durch das Internet Archive Bücher, die durch das Ablaufen des Copyrights (US-amerikanisches Urheberrecht) oder aus anderen Gründen gemeinfrei geworden sind, digitalisiert und zum Herunterladen zur Verfügung gestellt. Die Digitalisate sind Teil der Open Library. Inzwischen sind mehr als 45 Millionen Bücher und Texte archiviert (Stand: Juli 2023).
+Es werden mehrere Scan-Center (2009 insgesamt zwölf) unterhalten, zum Beispiel in Richmond. Gescannt wird per Auftrag, berechnet werden pro Seite zehn US-Cent (Stand 2009). Die Auftraggeber, meist Bibliotheken, erhalten das Digitalisat, eine per OCR erzeugte Textdatei, eine persistente Internetadresse sowie die Möglichkeit, die Digitalisate auf den Servern des Vereins zu speichern. Weiterhin bestehen Kooperationsvereinbarungen mit selbst digitalisierenden Bibliotheken für einzelne Dienste, wie OCR und redundantes Hosting.
+
+
+==== Bücher ====
+Um die Glaubwürdigkeit von referenzierten Zitaten aus Büchern in der Wikipedia zu verbessern, gibt es seit 2019 eine Kooperation zwischen der Wikipedia und dem Internet-Archiv. Es wurde damit begonnen, den Quellenangaben in Wikipedia-Artikeln digitale Scans der zitierten Bücher anzufügen. Auf jeweils zwei Seiten wird die fragliche Passage dargestellt. Ein Beispiel hierfür ist das Zitat Nummer 163 (Stand 26. Oktober 2022) im Artikel über Martin Luther King in der englischsprachigen Wikipedia.
+
+
+==== Open-Access-Publikationen ====
+Im September 2020 stellte das Internet Archive eine Initiative zur Archivierung und Bereitstellung von Open-Access-Publikationen unter dem Namen „Internet Archive Scholar“ vor.
+
+
+=== Filme ===
+Unter der Rubrik „Movies“ bietet das Internet Archive über 10,3 Millionen Filme (Stand: Juli 2022) an, darunter zahlreiche, alte Klassiker. Trailer und Kurzfilme gehören ebenso zum Angebot wie diverse Propagandafilme aus der Zeit des Zweiten Weltkrieges.Die mehr als 3.500 Stummfilme beinhalten unter anderem 442 Filme in der Rubrik „Silent Hall of Fame“ mit frühen Werken von Charlie Chaplin oder Buster Keaton aber auch deutschen Regisseuren wie Robert Wiene (vertreten u. a. mit Das Cabinet des Dr. Caligari von 1920).
+Ergänzt wird das Spielfilmangebot durch frühe Dokumentarfilme, die z. B. die Ankunft europäischer Einwanderer 1909 auf Ellis Island zeigen (von Billy Bitzer). In der separat gelistete Kollektion von Georges Méliès sind natürlich dessen bekannte Genre-Klassiker vertreten, wie der 16-minütige Stummfilm Die Reise zum Mond von 1902.Neben Experimentalfilmen namhafter Regisseure wie Ingmar Bergman (z. B. Persona, 1966) gibt es auch Klassiker vom Großmeister Alfred Hitchcock, der u. a. mit Im Schatten des Zweifels (1946) vertreten ist.
+Der Spanier Segundo de Chomón hat ebenfalls eine eigene Rubrik, ebenso wie der deutsche Experimentalfilmer Lutz Mommartz und der Österreicher Johann Schwarzer. Unterschiedliche Genres werden bedient, es gibt sowohl Historisches, als auch eine Rubrik mit fast 300 Filmkomödien und über 450 Science-Fiction und Horrorfilme, wie z. B. Nosferatu – Eine Symphonie des Grauens von Friedrich Wilhelm Murnau (1922). Neben seltenen Grindhouse- und Exploitationfilmen wie Sex Madness (1938), oder Begotten (E. Elias Merhige, 1989) sowie Cyberpunkwerke wie Tetsuo: The Iron Man des Japaners Shin’ya Tsukamoto.
+Der Film Noir ist mit 700 abrufbaren Beiträgen vertreten, einschließlich Straße der Versuchung von Fritz Lang (1946) und Der dritte Mann von Carol Reed (1949).Außerdem gibt es über 8.900 Filme und Videos aus dem Themenbereich Sport, 6.700 animierte Filme und Kurzfilme, sowie über 18.000 Inhalte aus den Themenbereichen Kunst und Musik und über 136.000 visuelle Beiträge zu Religion und Spiritualität.
+
+
+=== Websites ===
+Die Wayback Machine („Take Me Back“) ist ein Onlinedienst, mit dem man die gespeicherten Webseiten in verschiedenen Versionen abrufen kann. Die zu speichernden Seiten werden über den Dienst Alexa Internet ausgewählt. Alle dort hinterlegten URLs werden regelmäßig aufgerufen und archiviert. Man kann eine noch nicht gespeicherte Internet-Ressource auch von Hand, durch Suchen nach der Seite und anschließendes Bestätigen der Aufnahme, aufnehmen lassen (Dateiinhalte, z. B. JPG-Bilder, werden ohne vorherige Nachfrage gespeichert). Der Gesamtumfang betrug im November 2009 etwa 150 Milliarden Seiten und wuchs bis Juli 2023 auf über 821 Milliarden Seiten an.
+Mit Archive-It wurde 2006 ein weiteres Webarchiv-Service für individuelle Webarchivierung bereitgestellt. Hierbei haben Institutionen und Einzelpersonen die Möglichkeit, digitale Sicherungen ihrer Sammlungen anzulegen und die Freigabe der Daten selbst festzulegen. Archive-It verfügt über 400 Partner aus 16 Staaten weltweit, wobei sich diese vor allem aus Universitäten, staatlichen Archiven, Museen und Kunstbibliotheken, öffentlichen Bibliotheken sowie weiteren öffentlich-rechtlichen Institutionen und NGOs zusammensetzen. Archive-It bietet für teilnehmende Partner eine Volltextsuche auf ihre Inhalte, aber auch die Möglichkeit, mit Metadaten angereicherte strukturierte Datensätze für Forscher zu exportieren.Die Aufnahme der Prelinger Archives im Jahr 1999 war die erste über die Webarchivierung hinausgehende Erweiterung des Internet Archives. Es enthält heute gut drei Millionen Videos und Filme, die unter freier Lizenz oder Public Domain stehen. Es wird hier auch an einem Archiv für Fernsehsendungen gearbeitet.
+
+
+== Finanzierung ==
+Das Internet Archive finanziert sich durch Spenden und Zuwendungen diverser Stiftungen, Institute und Vereinigungen aus den Bereichen Bildung, Forschung, Wissenschaften etc. Im April 2019 wurden vom Internet Archive folgende Geldgeber angegeben: Andrew W. Mellon Foundation, Council on Library and Information Resources, United Nations Democracy Fund, Federal Communications Commission Universal Service Program for Schools and Libraries (E-Rate), Institute of Museum and Library Services (IMLS), Knight Foundation, Laura and John Arnold Foundation, National Endowment for the Humanities (Office of Digital Humanities), National Science Foundation, The Peter and Carmen Lucia Buck Foundation, The Philadelphia Foundation, Rita Allen Foundation.
+
+
+== Literatur ==
+Alexis Rossi: Föderale Vielfalt – globale Vernetzung: Strategien der Bundesländer für das kulturelle Erbe in der digitalen Welt. Hrsg.: Ellen Euler, Stiftung Preußischer Kulturbesitz (= Kulturelles Erbe in der digitalen Welt). 1. Auflage. Hamburg University Press, Verlag der Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky, Hamburg 2016, ISBN 978-3-943423-34-1, Internet Archive, S. 224–237 (d-nb.info [PDF; 6,1 MB] Alternativ-ISBN 978-3-943423-35-8 [E-Book]; ISBN 978-3-943423-36-5 [PDF]). 
+
+
+== Siehe auch ==
+archive.today
+WebCite
+
+
+== Weblinks ==
+
+Offizielle Website – archive.org (englisch)
+Mirrorseite des Webarchivs bei Bibliotheca Alexandrina
+Steffan Heuer: Online in die Vergangenheit, Technology Review, 21. Dezember 2004
+Vorlage:Webarchiv/Wartung/SternBeispiel-Archivversionen für die de.wikipedia.org (Archivversionen)
+BlinkenTV: Elektrischer Reporter S01E07 – Brewster Kahle über das Internet-Archiv – 2006 auf YouTube, 16. März 2011 (deutsch; Mario Sixtus für Handelsblatt I.com (HI); Laufzeit: 14 min 34 s).
+Jonathan Minard (Regisseur), John Behrens, Alexander Porter, Fearghal O'dea: Dokumentation über das Internet Archive (2012). Abgerufen am 11. August 2013 (englisch). 
+Adrian Lobe: „Wayback Machine“. Netz-Gedächtnis der Menschheit lagert in einer Kirche. In: Frankfurter Allgemeine Zeitung, 30. Mai 2015.
+Jürgen Schmieder: Wo das ganze Netz gespeichert wird. In: Süddeutsche Zeitung, 19. Mai 2017.
+
+
+== Einzelnachweise ==

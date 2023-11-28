@@ -1,0 +1,47 @@
+J oder j (Bezeichnung in Deutschland: [jɔt], österreichisches Hochdeutsch und z. T. in Bayern: [jeː]) ist der zehnte Buchstabe des modernen lateinischen Alphabets und repräsentiert einen Konsonanten. Der Buchstabe J hat in deutschen Texten eine durchschnittliche Häufigkeit von 0,27 Prozent und ist damit der 24-häufigste Buchstabe.
+
+Das Fingeralphabet für Gehörlose bzw. Schwerhörige stellt den Buchstaben J dar, indem die geschlossene Faust vom Körper weg zeigt, während der Daumen davor liegt und der kleine Finger nach oben weist, wobei die Hand eine Drehbewegung um vertikale Achse durchführt.
+In Morsezeichen wird J kurz, lang, lang, lang, also · − − − geschrieben/gesprochen.
+In der Entwicklung des lateinischen Alphabets wurden anders als heute I und J lange als bloße grafische Varianten desselben Zeichens nebeneinander verwendet, ohne dass eine lautliche Unterscheidung damit verbunden war. Das Zeichen selbst wurde jedoch teilweise für verschiedene Laute genutzt.
+
+
+== Herkunft ==
+Im phönizischen Alphabet wurde das Zeichen Yodh zur Wiedergabe des Halbvokals [j] verwendet, der sowohl als palataler Approximant wie auch als unsilbisches [i] beschrieben werden kann. Als die Griechen aus dem phönizischen das griechische Alphabet entwickelten, übernahmen sie das Zeichen als Iota zur Schreibung des Vokals [i].
+Die Etrusker übernahmen das griechische Zeichen, verwendeten es jedoch nicht nur zur Schreibung des Vokals [i], sondern auch zur Schreibung des gleichlautenden Halbvokals [j] (so wie sie das Zeichen V sowohl für den Vokal [u] als auch für den gleichlautenden Halbvokal [w] verwendeten). Die Römer übernahmen die etruskische Verwendung unverändert.
+In der Spätantike entwickelte sich aus dem Halbvokal [j] eine stimmhafte Affrikate [dʒ]. Aus dieser entstanden die verschiedenen Laute der modernen romanischen Sprachen. So entspricht das lateinische [j] (z. B. in iustus „gerecht“) in modernem Italienisch einem [dʒ] (giusto [ˈdʒusto]), in modernem Spanisch meistens einem [x] (justo [ˈxusto]) und im modernen Französisch einem [ʒ] (juste [ʒyst]).
+
+Obwohl sich diese erheblichen Lautunterschiede schon im frühen Mittelalter vollständig ausgebildet hatten, wurden beide Laute noch bis in die frühe Neuzeit mit demselben Zeichen geschrieben, das mal wie ein J (als Majuskel), mal wie ein I (als Minuskel) aussehen konnte. Die Capitalis der Römer kannte die grafische Variante J noch nicht. Bei der späteren Unziale ist die heutige Form des J mit kleiner Unterlänge erkennbar. Die konsequente Unterscheidung der Buchstaben I und J soll zuerst im 16. Jahrhundert vom französischen Philosophen Pierre de la Ramée vorgeschlagen worden sein.
+
+
+== Verwendung in der deutschen Sprache ==
+Bei der Verschriftlichung der deutschen Sprache gegen Ende des ersten Jahrtausends n. Chr. wurde der Buchstabe I zweifach verwendet: Einerseits für die Wiedergabe des ungerundeten geschlossenen Vorderzungenvokals [i], andererseits für die Wiedergabe des stimmhaften palatalen Approximanten [j]. Man übernahm also die ursprüngliche lateinische Doppelverwendung, obwohl das I in seiner Verwendung als Konsonantenbuchstabe in den damaligen romanischen Sprachen mittlerweile einen anderen Laut bezeichnete, ein [dʒ].
+
+Weil der Halbvokal [j] in der deutschen Sprache bestehen blieb, war der Bedarf einer Unterscheidung des Konsonantenbuchstabens J vom Vokalbuchstaben I weniger dringend als in anderen Sprachen. Diese Unterscheidung wurde daher erst in die Schreibung deutscher Texte übernommen, als sie sich bei anderen Sprachen schon etabliert hatte. Gebrochene Schriften unterschieden bei den Majuskeln bis um 1900 nicht zwischen I und J. Während sich bei den Minuskeln nur die Verwendung änderte, wiesen erst nach 1900 gestaltete gebrochene Satzschriften ein unterscheidbares Majuskel-J mit verlängertem Bogen, sowie ein gestauchtes Majuskel-I auf. Soweit deutsche Texte in Antiqua gesetzt wurden, hatten sie bereits im 19. Jahrhundert – ebenso wie heute – zwischen I/J und i/j unterschieden.
+
+Bis heute gibt es  noch ältere Schreiber, die anstelle des Großbuchstabens I ein J verwenden (z. B. Jda, Jtalien). Auch bei serifenlosen Schriften wird manchmal ein großes J anstelle eines großen I gesetzt. Ein Grund dafür ist, dass bei derartigen Schriften das große I und das kleine L oft schwer oder gar nicht unterscheidbar sind, vor allem wenn beide Buchstaben nebeneinanderstehen (etwa in Jll, Jller, Jlmenau, Jllustrierte im Unterschied zu Ill, Iller, Ilmenau, Illustrierte).
+
+„Seitdem die Endstrichlosen eine so große Rolle spielen, scheint man da und dort das I für ungenügend zu halten und setzt dafür nicht selten das verkehrte J, also einen verkehrten Laut. Wenn dem I ein oder zwei l folgen, so entstehen in der Endstrichlosen drei nackte senkrechte Striche. In einer guten Schrift sind diese aber nicht von gleicher Größe und Stärke. Zumindest ist das I um eine Spur dicker. Das muß genügen.“
+– Jan Tschichold: Meisterbuch der SchriftBei einigen Fremdwörtern existiert sowohl eine nach der neuen deutschen Rechtschreibung gültige eingedeutschte Schreibweise mit J, als auch eine fachsprachliche mit I (z. B. Iod, neben Jod). In der Chemie wird die Schreibweise mit I sogar bevorzugt (analog zu Citronensäure).
+Von Eigennamen und Abkürzungen abgesehen endet laut Rechtschreibung kein Wort auf diesen Buchstaben.
+
+
+== Verwendung in weiteren Sprachen ==
+Zur Unterscheidung des vor allem in  protogriechischen Wörtern vorkommenden Phonems /j/ vom vokalischen /i/ wird die Glyphe j unter dem aus dem Deutschen entlehnten Namen Jot (griechisch γιοτ, giot) seit dem 19. Jahrhundert im sprachwissenschaftlichen Kontext auch im Zusammenhang mit dem griechischen Alphabet verwendet. Aus diesem Grund wurde im Unicodeblock Griechisch und Koptisch diesem Buchstaben eine eigene Position (U+03F3) zugewiesen.Das J hat auch in einigen Sprachen Eingang gefunden, die mit kyrillischem Alphabet geschrieben werden (Serbisch, Mazedonisch). Auch hierfür gibt es im Unicodeblock Kyrillisch eigene Positionen (U+0408, U+0458).
+Im Italienischen wird das J (i lunga, „langes i“) heute nur noch in Eigennamen verwendet. Bis ins 19. Jahrhundert wurde es für ein intervokalisches /j/ noch verwendet, ferner zur Indizierung zweier verschmolzener Minuskel-I:
+
+Beispiel: Zum Singular principio („Prinzipien“) der Plural principj aus principii (heutige Form aber principi). Dagegen zum Singular principe („Fürst“) Plural principi.
+
+
+== Siehe auch ==
+ي, der arabische Buchstabe Yāʾ
+י, der hebräische Buchstabe Jod
+Jotierung
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+
+University of Maryland: Evolution of Alphabets
+krysstal.com: The Evolution of the Latin Alphabet

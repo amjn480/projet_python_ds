@@ -1,0 +1,490 @@
+Il Gioco di carte di Yu-Gi-Oh! (anche noto come Yu-Gi-Oh! Trading Card Game, Yu-Gi-Oh! TCG o Yu-Gi-Oh! GCC) è un gioco di carte collezionabili reale derivato dall'analogo gioco immaginario che appare nel manga e anime Yu-Gi-Oh! (nel fumetto il gioco è chiamato "Magic & Wizards", nel cartone animato è chiamato invece "Duel Monsters"). Il gioco comprende tre tipi principali di carte: Carte Mostro, Carte Magia e Carte Trappola. Attraverso l'Evocazione di Carte Mostro i giocatori cercano di danneggiare l'avversario, aiutati dai poteri di Carte Magia e Carte Trappola.
+Il gioco è pubblicato in Giappone dalla Konami; complessivamente è stato pubblicato in più di 40 nazioni. Nel 2009, la Konami ha annunciato che il totale delle vendite di carte aveva superato i 22,5 miliardi, il che ha permesso al gioco di entrare nel Guinness World Record come gioco di carte collezionabili con più carte vendute al mondo.
+
+
+== Regole del gioco ==
+Come in tutti i giochi di carte collezionabili, anche in Yu-Gi-Oh! i giocatori devono munirsi di un proprio mazzo di carte personale (indicato con il termine inglese Deck). Vi sono regole precise riguardo alle carte che possono essere incluse nel mazzo (vedi sotto).
+Il regolamento basilare del gioco (riproposto qui di seguito in forma di sommario) è codificato in un apposito libretto delle regole, che è sempre incluso nei Mazzi tematici (e aggiornato con il tempo). Il regolamento più avanzato (risoluzione di meccaniche di gioco particolari, concetti più formali sulla struttura del gioco, ruling, ecc.) è di solito (e anche in questa sede) introdotto in minima parte. Chi padroneggia queste nozioni più avanzate può conseguire un esame di Judge, e conseguentemente arbitrare in incontri ufficiali.
+Si tenga presente, come meta-regola generale, che quando l'effetto di una carta contraddice il regolamento, permettendo azioni "speciali", è l'effetto della carta a prevalere.
+
+
+=== Terreno di gioco ===
+Ogni giocatore dispone di una griglia di 7x2 caselle (più due speciali situate fra i due terreni, dove verranno collocati i mostri evocati dall'extra deck) dove giocare le proprie carte, chiamata Terreno.
+
+Nella casella in alto a sinistra si giocano le carte Magia Terreno (vedi oltre);
+La zona in basso a sinistra è deputata a contenere l'Extra Deck (vedi oltre);
+Nella zona in basso a destra va messo il proprio Main Deck (coperto);
+In alto a destra va posizionata la propria pila degli scarti, chiamata Cimitero (Graveyard, nell'edizione inglese (abbreviato anche come GY), nell'edizione giapponese Cemetery).
+Delle due file 5x1 centrali del Terreno, quella superiore è riservata alle carte Mostro;
+Quella inferiore alle carte magia e trappola e per le carte mostro pendulum
+le due zone più in alto per evocare un mostro dall'extra deckN.B. Quando ogni slot della Zona Carte Mostro è occupato, non è più possibile evocare mostri; effetti che permetterebbero di farlo non possono essere attivati; effetti che lo obbligherebbero (attivandosi automaticamente) non possono sortire quella parte di effetto.
+
+La fila inferiore può contenere carte Magia e carte Trappola.N.B. Quando è occupata tutta la Zona Carte Magia e Trappola, non è più possibile attivare né posizionare carte Magia o Trappola (eccetto carte Magia Terreno).
+Una carta è considerata (ai fini delle meccaniche di gioco) "sul Terreno" solo se si trova nella Zona Carte Mostro o nella Zona Carte Magia/Trappola o nella Zona Carte Terreno. Una carta che si trovi sul Terreno dalla parte di un giocatore viene considerata "controllata" da quel giocatore (anche qualora la carta sia di proprietà dell'avversario: in questo caso, si dice che il suo controllo è stato cambiato).
+
+
+==== La Zona Carte Bandite ====
+Alcune carte possono "bandire" (in passato "remove from play", "banish" a partire dall'espansione Generation Force) sé stesse o altre carte; questo non equivale a "mandare/scartare al Cimitero". Tali carte, infatti, vanno poste in una zona che le differenzi da quelle sul Terreno o nel Cimitero; queste carte possono essere riprese o comunque influenzate soltanto per mezzo di altre carte (o anche sé stesse) che consentano specificamente di scegliere una carta dalla "Zona Carte Bandite". Quando un effetto richieda, ad esempio, di "mandare/scartare al Cimitero" una carta come Costo d'Attivazione, ciò non è possibile se un'altra carta in gioco sta costringendo le carte a essere "bandite" anziché "mandate/scartate al Cimitero", mentre sarebbe invece possibile attivare una carta che richieda semplicemente di "scartare" (non "al Cimitero") una carta.
+Le carte che finiscono nella Zona Carte Bandite vengono messe scoperte, a meno che ciò non sia specificato nel testo della carta che le ha rimosse (come in Differente Capsula Dimensionale (DR1-IT031)).
+
+
+=== Pubblica conoscenza ===
+Si parla di pubblica conoscenza a proposito delle informazioni di cui può disporre ciascun giocatore durante la partita. Sono di pubblica conoscenza:
+
+Il numero di carte in mano al giocatore avversario, nonché il numero di carte nel suo Side Deck.
+Ogni informazione (ATK, DEF, effetto, livello...) circa le carte scoperte sul Terreno.
+La zona occupata da ogni carta sul Terreno: una volta giocata una carta, non si può (pena Warning o Game Loss) modificarne la posizione (ad esempio, spostare un mostro da uno slot a un altro) senza usare una carta apposita (come Scambio Senet (CDIP-IT048)); questa regola è stata introdotta ufficialmente dopo l'uscita dell'espansione Impatto Cyberoscuro.
+Il Cimitero: ossia, è possibile per ciascun giocatore controllarlo in ogni momento (previa autorizzazione del possessore, e salvo una carta lo vieti esplicitamente); è però severamente vietato (ed è punibile con Game Loss) modificare l'ordine delle carte nel Cimitero.
+La Zona Carte Bandite: ossia, il numero di carte ivi presenti e le informazioni sulle sole carte scoperte presenti in essa.
+I Life Points dell'avversario.Ogni informazione deve essere rivelata da un giocatore ogniqualvolta l'avversario ne faccia richiesta. Tuttavia, è vietato (e penalizzabile) toccare le carte dell'avversario senza sua previa autorizzazione; si noti inoltre che è vietato dal regolamento ufficiale prendere appunti scritti circa lo stato della partita, salvo il numero di Life Points propri e dell'avversario (ad esempio, se un effetto ha permesso a un giocatore di prendere visione della mano avversaria, costui non può annotare per iscritto di quali carte egli disponga).
+
+
+=== Il Mazzo e la mano ===
+Ogni giocatore è proprietario di:
+
+Un Mazzo, (Main) Deck, formato almeno da 40 carte (nel rispetto della Ban List in vigore, vedi oltre) e da non più di 60 carte. Il Deck è posto coperto, e non può essere passato in rassegna in nessun momento da alcun giocatore, a meno che una carta non lo consenta o lo richieda.
+Un Side Deck, formato da un numero di carte compreso tra 0 e 15 compresi (sempre nel rispetto della Ban List). Le carte bandite, limitate e semi-limitate tengono conto del totale di Deck, Side Deck ed Extra Deck. Il Side Deck permette di compiere sostituzioni di carte tra esso e il (Main/Extra) Deck. Queste possono avvenire:
+esclusivamente tra un Duello disputato e il successivo, durante una pausa deputata a queste sostituzioni;
+a patto che il totale di carte presenti rispettivamente nel Main/Extra Deck e nel Side Deck rimanga invariato (ossia, non si possono aggiungere carte al Main/Extra Deck togliendole dal Side o viceversa, ma solo scambiarle);
+purché non sia stato chiamato il timeover durante la disputa di un Duello, e si debba giocarne un altro per elidere una situazione di parità (vedi Scopo del gioco).N.B. Il Side Deck assume importanza soltanto tra un Duello e un altro, per le sostituzioni di carte (nel corso di un Duello, esso non ha rilevanza). In ogni caso, l'avversario non può prendere visione di esso in alcun momento, se non coperto (per accertarsi che sia composto da non più di 15 carte), ossia esso non è di pubblica conoscenza.
+
+Un Extra Deck (in passato, Fusion Deck), contenente fino a 15 mostri tra Fusione, Synchro e Xyz (vedi oltre), anch'esso posto coperto (come per il Side Deck, l'avversario non può controllarlo se non coperto, per accertarsi che sia di massimo 15 carte). Carte Mostro Fusione, Link, Synchro e Xyz, una volta giocate, possono normalmente finire al Cimitero o nella Zona Carte Rimosse. Tuttavia, qualora si trovino a dover tornare nel Deck o in mano, tornano invece nell'Extra Deck.Durante il Duello, il giocatore avrà quasi sempre carte in mano. All'inizio del Duello, ciascun giocatore pesca 5 carte; si pesca una carta dal mazzo all'inizio di ogni proprio turno (escluso il primo turno, modifica apportata con l'inserimento delle carte pendulum). Alla fine di ogni turno, se le carte nella mano del giocatore di turno sono 7 o più, egli dovrà scartare al Cimitero carte finché ne avrà in mano 6.
+Si è soliti parlare di "vantaggio carte" in riferimento a una situazione in cui il giocatore abbia più carte in mano rispetto all'avversario; il vantaggio carte, così inteso, è una situazione estremamente positiva per il giocatore, in quanto il numero di strategie adottabili nel corso del Duello aumenta drasticamente in proporzione al numero di carte di cui si dispone (per questo si parla anche di "vantaggio Terreno" in riferimento al numero di carte Mostro, Magia e Trappola controllate dal giocatore). Nella maggior parte dei mazzi competitivi si tiene conto della possibilità di sfruttare il vantaggio carte, tipicamente grazie a effetti che consentano di pescare carte o di recuperarle dal Cimitero.
+
+
+=== Scopo del gioco ===
+Ogni singola partita di Yu-Gi-Oh! è detta Duello, e le persone che prendono parte al duello (i duellanti) usano le carte dei loro rispettivi Deck allo scopo di azzerare i punti vita (Life Point(s), anche in italiano) dell'avversario. Ciascun duellante inizia il Duello con 8000 Life Points, e perde il Duello nel momento in cui essi arrivano a 0 (che è il loro limite inferiore). Un giocatore perde anche qualora non sia in grado di pescare una carta dal Deck allorché richiesto (esaurimento del Deck o crash; in inglese to deck out o to mill ha il senso transitivo di far crashare l'avversario). Infine, esistono carte che permettono, con i loro effetti, di vincere il Duello automaticamente (Exodia il Proibito, Tavola del Destino, Numero 88: Burattino Arnese del Leone e Horakhty, il creatore della luce (disponibile solamente nella versione OCG)...).
+Le partite si giocano al meglio delle tre: chi vince due Duelli su tre è il vincitore del Match. È altresì possibile che un Duello finisca pari merito (azzeramento contemporaneo dei Life Points, crash contemporaneo...), e che il Match si prolunghi, pertanto, per più di tre Duelli. Nel caso di un Duello che si prolunghi per un tempo eccessivo, l'arbitro (Judge) può decidere di chiamare il timeover: in quel caso, si disputano 3 turni extra e, alla fine dell'ultimo turno extra, si proclama vincitore il duellante provvisto di più Life Points; nel caso di ulteriore pareggio, si prosegue finché uno dei giocatori perda Life Points. A questo punto (dopo la conclusione di ogni Catena di effetti), il giocatore con più Life Points vince. Se persiste una situazione di pareggio, si dovrà disputare un ulteriore Duello (senza però utilizzare il Side Deck, perché il timeover è stato chiamato nel mezzo di un Duello in corso) della durata di 2 turni. Alla fine del secondo turno, si procederà come descritto sopra per determinare il vincitore.
+Se invece il tempo scadesse tra un Duello e l'altro, viene immediatamente dichiarato vincitore colui che ha vinto più Duelli. In caso di parità, si disputerà il Duello extra di 2 turni, ma sarà stavolta possibile utilizzare il Side Deck (perché il timeover è avvenuto tra un Duello e un altro). Si determina la vittoria come sopra descritto.
+
+
+=== Tipi di carte ===
+Esistono fondamentalmente tre tipi di carte: Mostro, Magia e Trappola; queste a loro volta si dividono in svariati sottogeneri, come descritto nei seguenti paragrafi. Si tenga presente che esistono alcune carte che riportano, nel testo del proprio effetto, errori o imprecisioni, che sono stati perlopiù corretti con l'andare delle ristampe, e sono attualmente raccolti qui (file PDF).
+
+
+==== Carte Mostro ====
+Rappresentano creature di vario genere (non necessariamente mostri, visto che comprendono anche robot, esseri umani, etc) che, nella finzione del gioco, "combattono" tra loro, attaccando l'avversario e difendendo il loro "controllore". Tipicamente è possibile giocare solo una carta mostro per turno (si parla di Evocazione Normale o Posizionamento, a seconda che la si giochi scoperta in posizione di Attacco o coperta in posizione di Difesa), a meno che il testo di un'altra carta non consenta diversamente (in questo caso si parla di Evocazione Speciale).
+L'Evocazione Normale (o il Posizionamento) di un mostro di livello 5 o 6 richiede un tributo (ossia, è necessario mandare al Cimitero un mostro già presente sul proprio Terreno; questo mostro non è considerato "distrutto"); per evocare Normalmente (o Posizionare) un mostro di livello 7 o superiore sono invece necessari due tributi.
+Le carte Mostro sono caratterizzate da punteggi numerici di attacco (ATK) e difesa (DEF), che determinano l'esito delle battaglie, e da un livello rappresentato come una serie di stelle (Level Stars), per un massimo di 12. La maggior parte dei mostri sono dotati di un effetto che influisce sull'avanzamento del gioco. I mostri sono classificati principalmente in due modi: per Attributo (chiamato però Tipo - Type - nella versione giapponese), che è un parametro che identifica l'elemento legato alla creatura (LUCE [光], OSCURITÀ [闇], FUOCO [炎], VENTO [風], ACQUA [水], TERRA [地] e l'Attributo speciale DIVINO [神]); e per Tipo (chiamato però Sottotipo - Sub-Type nella versione giapponese), che può essere uno dei 23 seguenti: Acqua, Bestia, Bestia Alata, Cyberso, Demone, Dinosauro, Drago, Fata, Guerriero, Guerriero-Bestia, Incantatore, Insetto, Macchina, Pesce, Pianta, Psichico, Pyro, Rettile, Roccia, Serpente Marino, Tuono, Wyrm, Zombie, più i Tipi speciali "Divinità-Bestia" e "Divinità-Creatrice" (quest'ultimo posseduto solo in OCG da Horakhty, il Creatore della Luce).
+Le carte Mostro si dividono ulteriormente in:
+
+Mostro Normale (sfondo giallo), ossia che non possono far altro che attaccare o difendere (vedi sotto);
+Mostro con Effetto (sfondo arancione): il mostro, oltre ad attaccare o stare in difesa, ha un effetto speciale, ad esempio può diminuire i punteggi di attacco o difesa di altri mostri, danneggiare direttamente l'avversario, permettere al controllore di pescare altre carte, ecc. Gli effetti si attivano in vari modi, a seconda di quanto scritto sulla carta. In questo senso, ci sono 5 diversi tipi di effetti:
+Effetto ad Ignizione (Ignition Effect): può essere attivato solo durante la Main Phase 1 o 2 (vedi Struttura del turno) del giocatore di turno, che attiva l'effetto semplicemente dichiarandono l'Attivazione (e pagando eventuali costi);
+Effetto Innescato (Trigger Effect): si attiva automaticamente in particolari condizioni, ad esempio quando un mostro viene distrutto. Si suddivide in Innescato Obbligatorio e Innescato Facoltativo;
+Effetto Scoperta (Flip Effect): si attiva automaticamente quando il mostro viene scoperto in qualsiasi modo (in Main Phase, a seguito di Evocazione per Scoperta; in Damage Step, a seguito di un attacco avversario; in un altro momento, a seguito dell'effetto di una carta). Sono caratterizzati nel testo dalla dicitura iniziale SCOPRI:.
+Effetto Rapido (Quick Effect, in passato Effetto Multi-Innescato o Multi-Trigger Effect): è caratterizzato dalla scritta "Puoi attivare questo effetto nel turno di qualsiasi giocatore" (a partire dall'espansione Crisi Massima - Edizione Speciale è semplicemente riportata la scritta "(Effetto Rapido)" prima della spiegazione di tale effetto). Inoltre, è l'unico Effetto di Mostri a possedere Spell Speed 2, ossia a poter essere messo in Catena ad altri effetti con Spell Speed 2 o inferiore.
+Effetto Continuo (Continuous Effect): si attiva quando il mostro viene evocato e rimane attivo per tutto il tempo in cui esso rimane scoperto sul Terreno, a meno che non venga annullato da qualche effetto (ad esempio, l'effetto di Risucchia Abilità).
+Mostro Fusione (sfondo viola): sono carte particolari che non devono essere messe nel mazzo di gioco, ma in un mazzo a parte chiamato Fusion Deck (Extra Deck a partire dalla serie 5D's), dal quale non vengono pescate, ma prelevate quando servono. Nella finzione del gioco, una carta Fusione rappresenta la "combinazione" di due o più mostri fusi in una sola creatura (solitamente più forte o dotata di effetti aggiuntivi). Per giocare un mostro Fusione bisogna avere i mostri necessari in mano o in gioco, ma non è sufficiente perché la Fusione avviene solo grazie all'effetto di un'altra carta: un esempio tipico è la carta magia Polimerizzazione (Polymerization). Esistono anche altre carte che permettono di evocare tramite Fusione. I mostri da usare vengono generalmente detti Materiali da Fusione. Un mostro fusione può anche non avere un effetto, in quel caso ci sarà scritto il tipo del mostro e la scritta fusione. Alcuni dei mostri fusione più recenti si possono evocare anche in altri modi (ne sono un esempio l'archetipo di carte Gladiatori Bestia, i cui mostri fusione possono essere evocati semplicemente rimescolando i mostri necessari nel mazzo, senza la necessità di usare carte magia).
+Mostro Rituale (sfondo blu): è un tipo di mostro che può essere giocato solo usando la magia Rituale appropriata (vedi oltre). Bisogna anche offrire in tributo, cioè mandare mostri al cimitero, un numero preciso indicato sulla carta magia (tipicamente, mostri il cui livello bilanci quello del mostro da evocare). I mostri Rituale possono anche essere senza effetto, in quel caso ci sarà scritto il tipo di mostro e la scritta Rituale.
+Mostro Spirit (sfondo arancione, perché considerato mostro ad effetto): carta che ritorna nella mano del suo proprietario al termine del turno in cui è stata giocata. Generalmente il loro testo dice che non possono essere evocati tramite Evocazione Speciale.
+Mostro Toon (sfondo arancione, perché considerato mostro ad effetto): carta che rappresenta una sorta di cartone animato di alcune carte famose e che può eludere alcune regole del gioco; ad esempio - in particolari condizioni - può attaccare l'avversario direttamente anche se questi possiede dei mostri a difenderlo. Generalmente le carte Toon possono stare in gioco solo se il loro controllore ha attivato la speciale carta magia Mondo Toon (chiamata Mondo Animato nell'edizione italiana dell'anime), ma esistono anche mostri Toon che non necessitano che tale carta sia presente sul terreno per essere evocate, ma possono utilizzare appieno il loro potere e i loro effetti solo dopo che Mondo Toon viene giocata.
+Mostro Union (sfondo arancione, perché considerato mostro ad effetto): il controllore di questo tipo di carta può decidere se usarla come vero e proprio mostro o trattarla come se fosse una carta magia equipaggiamento (vedi oltre); in tal modo si può 'equipaggiare' (vedi oltre) questa carta come una carta magia Equipaggiamento ad un altro mostro aumentandone la forza o conferendogli effetti aggiuntivi. L'equipaggiamento, ad ogni modo, può avvenire solo a seguito dell'evocazione del mostro. Di solito, nel caso in cui un mostro equipaggiato con un mostro Union dovesse essere distrutto viene invece distrutto il secondo.
+Mostro Gemelli (sfondo arancione, perché considerato mostro ad effetto): chiamate Gemello nell'edizione italiana, questa nuova tipologia di mostri è stata introdotta nel 2007 con l'espansione TAEV - Evoluzione Tattica. Questi mostri, appena entrano in gioco, sono considerati mostri normali; per poter usufruire del loro effetto, il proprietario della carta deve Evocarli tramite Evocazione Normale una seconda volta.
+Mostro Synchro (sfondo bianco) introdotti dallo Starter Deck 5D's, simili alle fusioni, ma per evocarli bisogna avere sul terreno un mostro Tuner (indicato vicino al tipo) e uno o più mostri non-Tuner (qualsiasi altro mostro che non abbia la dicitura "Tuner") che complessivamente abbiano lo stesso livello del mostro Synchro da evocare e mandarli al cimitero (senza l'utilizzo di carte aggiuntive) per evocare il mostro scelto dall'Extra Deck (in precedenza chiamato Fusion Deck, è stato modificato il nome per la presenza dei mostri Synchro). Alcuni mostri Synchro necessitano di mostri specifici (ad esempio Guerriero Rottame necessita di Rottame Synchron da usare come Tuner, in più uno o più mostri la cui somma dei livelli sia 2). Non hanno bisogno di carte per l'Evocazione.
+Mostro Tuner (sfondo arancione o giallo, a seconda se ha l'effetto o meno): mostro necessario per l'Evocazione tramite Sincronizzazione, solitamente di livello basso in modo che sia adatto alla Sincronizzazione (vedi sopra). Certi mostri Synchro possono essere anche Tuner (come Formula Synchron).
+Mostro Xyz (sfondo nero) Introdotta con la nuova serie anime: Yu-Gi-Oh! Zexal. I Mostri Xyz sono evocati dall'Extra Deck con il sacrificio di due o più mostri (il numero è indicato nell'effetto della carta), di livello pari al rango del mostro Xyz. I mostri materiale non vengono inviati al cimitero ma invece diventano equipaggiamenti, che sono posti in una pila sotto il mostro Xyz (nella stessa Zona Carte Mostro, in "posizione d'attacco"). Questi mostri possono essere inviati al Cimitero al fine di attivare gli effetti dei mostri Xyz. Inoltre i mostri Xyz sono caratterizzati da un rango anziché da un livello, e sono inalterati da carte che coinvolgono il livello di un mostro (ad esempio, non possono essere utilizzati per Evocazioni Rituali o Evocazioni Synchro); il rango è indicato da stelle, come il livello, ma queste sono poste a sinistra anziché a destra, e sono di un colore differente. Come per i mostri Synchro, i mostri Xyz non hanno bisogno di carte per l'Evocazione.
+Mostro Pendulum (sfondo arancione/giallo/viola/bianco/nero e verde) Introdotta con la nuova serie anime: Yu-Gi-Oh! Arc-V. Questo tipo di carta ha come prerogativa quella di poter essere utilizzata sia come mostro che come carta magia: si contraddistingue infatti per un doppio colore (arancione/giallo/viola/bianco/nero e verde) e guadagna degli effetti differenti a seconda del “ruolo” in cui viene utilizzata. Se usati come carte magia, i Pendulum vanno attivati direttamente dalla mano (o da effetti di altre carte) e collocati in apposite zone del campo da gioco che finora non esistevano: le Zone Pendulum, che sono due e si trovano a destra (rossa) e a sinistra (blu) della zona di gioco rispettivamente tra il mazzo e il cimitero e tra la zona della magia terreno e l'Extra Deck. Una volta attivati come magie, i mostri Pendulum guadagnano, se ne hanno uno, il relativo effetto indicato sulla carta (nel riquadro sopra al tipo di mostro) analogamente a quanto farebbe una magia continua. Essi non possono essere posizionati a faccia in giù nelle Zone Pendulum e non possono essere sostituiti da un altro mostro Pendulum per meccaniche di gioco come avviene per le magie terreno: cioè non è possibile attivare un mostro Pendulum se tutte le zone sono occupate. Finché c'è posto è possibile attivare più Pendulum per turno. Quando vengono distrutti vanno posizionati nell'Extra Deck. 2 mostri Pendulum (uno in ogni zona) permettono di evocare specialmente (Evocazione Pendulum) una volta per turno un numero qualsiasi di mostri dalla mano o Extra Deck che abbiano un livello compreso tra i valori (esclusi) scritti ai lati dell'effetto pendulum delle 2 carte (scala pendulum).
+Mostro Link (sfondo blu con motivo ad esagoni) sono carte che non possiedono né un Livello, né un valore di DEF (difesa). Queste carte non possono essere messe in posizione di difesa e sono quindi immuni a tutti quegli effetti che cambiano la posizione di battaglia. Il mostro presenta delle frecce intorno alla artwork e un valore di Link in basso a destra. Il valore di Link indica il numero di frecce che la carta possiede ed indicherà una Zona Carte Mostro che verrà “sbloccata” ed in cui si potrà evocare un mostro dell’Extra Deck.
+Combinazioni: Fusione/Effetto, Rituale/Effetto, Synchro/Effetto, Synchro/Tuner, Xyz/Effetto, ecc.
+
+
+==== Carte Magia ====
+Le carte Magia (Spell cards nella versione inglese, Magic cards nella versione giapponese) hanno sfondo verde; quando vengono giocate, producono effetti di vario tipo, modificando il gioco (come già visto per i mostri Effetto). Possono essere giocate solo in determinati momenti del proprio turno (Main Phase), eccezion fatta per le magie rapide (vedi oltre). Si dividono nei 6 seguenti tipi:
+
+Magie Normali: si attivano piazzandole scoperte nella Zona Carte Magia e Trappola; una volta risolto il loro effetto (al termine di eventuali catene) vengono mandate al Cimitero, a meno che l'effetto non specifichi altrimenti.
+Magie Continue (Continuous nella versione inglese, Permanent nella versione giapponese; caratterizzate dal simbolo "infinito" a fianco della scritta "Carta Magia"): dopo l'attivazione, restano scoperte sul Terreno finché non vengano distrutte o rimosse in altro modo da un effetto (anche il proprio).
+Magie Rapide (Quick-Play nella versione inglese, Instant nella versione giapponese; caratterizzate dal simbolo di un fulmine): possono essere attivate in qualsiasi momento del proprio turno dalla mano, o dal Terreno se sono state Posizionate da almeno un turno; inoltre è possibile attivarle anche durante il turno avversario, purché già Posizionate sul Terreno, come le carte Trappola (vedi oltre).
+Magie Equipaggiamento (Equip o Equipment nella versione inglese; caratterizzate dal simbolo di una croce): all'attivazione, il giocatore deve dichiarare un mostro sul Terreno (anche dell'avversario, se non specificato diversamente) cui equipaggiare la carta; quel mostro diventa bersaglio per la Carta Magia, la quale verrà quindi distrutta appena il mostro cessi di essere scoperto sul Terreno (sia che lasci il Terreno, sia che venga coperto da un effetto, ma non qualora cambi controllo o posizione di combattimento). Solitamente tali carte servono ad aumentare o diminuire la potenza di una Carta Mostro.
+Magie Terreno (Field nella versione inglese; caratterizzate da una rosa dei venti a quattro punte): all'attivazione, vengono piazzate scoperte nella Zona Carte Magia Terreno; come le altre Carte Magia, possono essere Posizionate (nella Zona Carte Magia Terreno); una sola carta Magia Terreno può essere attiva sul Terreno, ma ogni giocatore dispone di una propria Zona Carte Magia Terreno: ciò implica che non è possibile, per un giocatore, avere due Carte Magia Terreno attive nello stesso momento sul proprio Terreno (un giocatore può però decidere di sostituire la propria Carta Magia Terreno già sul Campo con un'altra dalla sua mano, mandando così al Cimitero quella sul Terreno per meccaniche di gioco). Questa regola è in vigore dal 14 luglio 2014, con la Master Rule 3; prima, poteva essere presente sul Terreno soltanto una Carta Magia Terreno fra entrambi i giocatori, e dunque un'eventuale Carta Magia Terreno sul Terreno di un giocatore sarebbe stata distrutta nel momento dell'attivazione di un'altra Carta Magia Terreno da parte del suo avversario.
+Magie Rituale (Ritual nella versione inglese; caratterizzate dal simbolo di una fiamma): si attivano e risolvono come le Magie Normali; durante la risoluzione di queste carte, il giocatore deve Tributare mostri che eguaglino, con la somma dei loro Livelli, il Livello del Mostro Rituale da evocare (anche se esistono rare eccezioni), quindi evocarlo direttamente dalla mano. Queste carte non possono quindi essere attivate se non si possiedono i Tributi adatti, il mostro Rituale adatto (in mano) e almeno una Zona Mostro libera.N.B. Tutte le Carte Magia (anche quelle Terreno) possono essere sia attivate direttamente sia Posizionate (ossia giocate coperte sul Terreno nella loro apposita zona, durante una Main Phase - il che non dà inizio a una catena). In questo caso, eccetto per le Carte Magia Rapida (vedi sopra), possono essere attivate durante il medesimo turno, sempre durante una Main Phase.
+
+
+==== Carte Trappola ====
+Le carte Trappola (Trap cards) hanno lo sfondo porpora e producono vari effetti, come le carte Magia. La loro particolarità è che non possono essere giocate direttamente, ma vanno prima Posizionate coperte (Set, in inglese): potranno essere attivate solo a partire dal turno successivo (anche nel turno avversario). Vengono chiamate "trappole" proprio perché il loro scopo è sorprendere l'avversario, disturbando il suo gioco (ad esempio bloccando gli attacchi o annullando l'evocazione di una carta Mostro). Le Trappole possono essere attivate anche durante il proprio turno, purché appropriate. Si dividono in:
+
+Trappole Normali: analoghe alle Carte Magia Rapide. Si attivano, risolvono l'effetto e poi si mandano al Cimitero dopo la Risoluzione (in caso di catena, alla fine della catena).
+Trappole Continue: analoghe alle Carte Magia Continue. Dopo che vengono attivate rimangono nella Zona Carte Magia & Trappola. A differenza degli altri tipi di Carte Trappola se queste carte vengono distrutte all'attivazione esse non sortiscono alcun effetto.
+Contro-Trappole (Counter nella versione inglese; caratterizzate da una freccia curva che punta a sinistra): sono l'unico tipo di carte con Spell Speed 3. A esse non possono essere incatenate altre carte se non Contro-Trappole.
+
+
+=== Turni ===
+Ogni turno si suddivide nelle seguenti Fasi (Phase(s), anche in italiano):
+
+Draw Phase (Fase di pesca): il giocatore di turno pesca una carta dalla cima del Deck. È possibile (a entrambi i giocatori) attivare carte Magia Rapida e carte Trappola.
+Standby Phase (Fase d'attesa): si risolvono gli effetti di alcune carte Magia, Trappola e Mostro con Effetto (come indicato sulle carte). È possibile (a entrambi i giocatori) attivare carte Magia Rapida e carte Trappola
+Main Phase 1 (Fase principale 1): il giocatore di turno può ora evocare fino a un Mostro per Evocazione Normale, oppure Posizionarlo coperto. Può attivare carte Magia (di qualunque tipo) e posizionare carte Magia e Trappola coperte sul Terreno. Può attivare carte Magia Rapida e carte Trappola già posizionate da almeno un turno. Può evocare per Scoperta un Mostro già posizionato da almeno un turno (disponendolo scoperto in posizione di attacco). Può spostare Mostri scoperti da almeno un turno da posizione di attacco a posizione di difesa, o viceversa, ma solo una volta per mostro al turno (spostamento manuale). È possibile (a entrambi i giocatori) attivare carte Magia Rapida e carte Trappola.Il giocatore di turno può ora dichiarare di entrare nella Battle Phase (a meno che non sia il primo turno del Duello), o di passare direttamente alla End Phase.
+
+Battle Phase (Fase di battaglia): si suddivide in quattro sottofasi (Step(s), anche in italiano).
+Start Step (Sottofase d'inizio): il giocatore di turno dichiara di entrare nella Battle Phase, e si appresta all'attacco. È possibile (a entrambi i giocatori) attivare carte Magia Rapida e carte Trappola.
+Battle Step (Sottofase di battaglia): se esistono sul suo Terreno mostri che possono attaccare, il giocatore di turno dichiara con quale mostro sta attaccando, e il bersaglio dell'attacco. È possibile (a entrambi i giocatori) attivare carte Magia Rapida e carte Trappola.
+Damage Step (Sottofase di danno): avviene la battaglia e il Calcolo dei danni. In questo Step, solo carte Magia Rapida e Trappola che modifichino i parametri ATK/DEF possono essere attivate, nonché le carte Contro-Trappola. Finita la battaglia, il giocatore di turno può decidere di sferrare un nuovo attacco con un altro mostro che lo possa fare, o di passare in End Step.
+End Step (Sottofase di fine): quando non esistono più mostri in grado di attaccare, o quando il giocatore di turno decide di cessare l'attacco, si conclude la Battle Phase, e si passa alla Main Phase 2. È possibile (a entrambi i giocatori) attivare carte Magia Rapida e carte Trappola, seguendo le linee guida di Priorità.N.B. Si noti che è possibile entrare nella Battle Phase pur non avendo mostri in grado di attaccare sul proprio Terreno. In questo caso, dallo Start Step si passerà direttamente all'End Step, e avverrà la Main Phase 2 come di consueto.
+
+Main Phase 2 (Fase principale 2): avviene solo a seguito di una Battle Phase. È ora possibile al giocatore di turno compiere ogni azione di quelle menzionate nella Main Phase 1, purché non ecceda al limite di un'Evocazione Normale al turno, e non sposti mostri già spostati nella Main Phase 1 o che hanno dichiarato un attacco. È possibile (a entrambi i giocatori) attivare carte Magia Rapida e carte Trappola.
+End Phase (Fase di fine): prima che finisca il turno, si risolvono effetti specifici di carte con effetto (vedi Standby Phase). Il giocatore di turno scarta carte dalla mano fino ad averne 6, se in eccesso. È possibile (a entrambi i giocatori) attivare carte Magia Rapida e carte Trappola.
+
+
+=== Catene e Spell Speed ===
+Ogni tipo di effetto, eccetto gli Effetti Continui, è contraddistinto da due momenti distinti, chiamati attivazione e risoluzione: un effetto può attivarsi automaticamente (ad esempio, un Effetto Innescato) o essere attivato da un giocatore (ad esempio, un Effetto a Ignizione); se l'effetto richiede un costo d'attivazione, questo va pagato immediatamente (il pagamento avviene anche se l'effetto viene negato o sfuma in Catena). Se nulla lo impedisce, l'effetto così attivato va in risoluzione (resolve).
+Gli effetti delle carte possono essere attivati l'uno dietro l'altro, prima che essi risolvano. L'insieme di queste attivazioni viene chiamata Catena, e ogni effetto così attivato Anello della Catena; gli Anelli vengono contrassegnati in ordine numerico dal primo all'ultimo.
+Quando si decide di chiudere una Catena, gli effetti risolvono dall'ultimo Anello della Catena al primo, ossia in ordine inverso rispetto all'attivazione; ogni volta che un giocatore attiva un effetto, inoltre, l'avversario ha il diritto di attivarne un altro in Catena prima che il giocatore incateni eventuali altri effetti. Questo dà all'avversario la possibilità di reagire alle mosse del giocatore, ad esempio incatenando un effetto che impedisca la risoluzione dell'effetto precedente (si dice che lo nega); l'avversario può anche agire in modo da volgere l'effetto del giocatore a proprio vantaggio (ad esempio, cambiando il controllo di un Mostro in Catena), poiché una volta attivato un effetto non è possibile "ritirarlo" dalla Catena.
+Per aggiungere un Anello a una Catena è necessario conoscere la Spell Speed degli effetti, ossia la loro rapidità. Grazie alla Spell Speed si può sapere se è possibile incatenare un effetto a un altro. Esistono tre velocità, ciascuna delle quali è superiore alla precedente:
+
+Spell Speed 1: carte con questa velocità non possono essere messe in Catena se non come Anello 1, salvo i casi in cui più effetti con Spell Speed 1 si attivino automaticamente in contemporanea (ad esempio, due Sangan che vengano distrutti contemporaneamente); in questo caso, si applica il principio detto SEGOC (Simultaneous Effect Go On Chain, ossia Effetti Simultanei che si Incatenano): i primi effetti ad attivarsi sono quelli Obbligatori del giocatore di turno (che può deciderne l'ordine di Attivazione), quindi gli Obbligatori del giocatore avversario (anch'egli li dispone a piacere); in seguito, si incatenano quelli Facoltativi del giocatore di turno, seguiti infine dai Facoltativi del giocatore avversario (anch'essi sono disposti in ordine ad arbitrio dei rispettivi giocatori). Le carte con Spell Speed 1 sono:
+Carte Magia Normale, Equipaggiamento, Terreno, Continue e Rituale;
+Effetti Innescati, Continui, ad Ignizione e Scoperta di Mostri con Effetto.
+Spell Speed 2: carte con questa velocità possono essere attivati in risposta a effetti di velocità 1 o 2, ovvero come Anello 1. Le carte con Spell Speed 2 sono:
+Carte Magia Rapide;
+Carte Trappola Normali e Continue;
+Effetti Rapidi di Mostri con Effetto.
+Spell Speed 3: carte con questa velocità possono essere incatenate a ogni altro effetto (quando esistano le condizioni legali di Timing), o dare inizio a Catene. Le carte con Spell Speed 3 sono:
+Carte Contro-Trappola.N.B. Evocare Mostri, spostarli, offrirli come Tributo e pagare costi non sono azioni che danno origine a Catena.
+
+
+=== Game state e timing di attivazione degli Effetti Rapidi ===
+All'inizio di ogni Phase, il game state si dice "aperto". A quel punto, il giocatore di turno ha la priorità di attivare Effetti, Evocare Mostri, utilizzare Effetti e così via; se l'azione svolta dal giocatore di turno non genera una Catena (per esempio Evocare Normalmente un Mostro o cambiare la posizione di un Mostro), e se ciò non fa attivare nessun Effetto Innescato, il giocatore di turno ha la priorità di attivare un Effetto Rapido (ovvero con Spell Speed 2 o superiore). Se egli decide di non utilizzarlo, la priorità passa all'avversario, il quale potrà attivare a sua volta un Effetto Rapido. Se anche l'avversario decide di passare la priorità non attivando alcun Effetto Rapido, il game state ritorna aperto.
+Se, in ciò, viene attivato in un qualche punto un Effetto che invece genera una Catena, entrano in gioco le regole delle Catene: ogni giocatore può incatenare Effetti che a loro volta possono essere messi in Catena all'ultimo attivato, a partire dal giocatore che non ha attivato l'ultimo Effetto. Nella Catena, dopo che entrambi i giocatori hanno passato la priorità all'avversario senza attivare nulla, gli Effetti si risolvono, a partire da quello più recente e andando a decrescere.
+Il giocatore di turno può anche decidere, quando il game state è aperto, di passare alla fase successiva: se ciò avviene, l'avversario può attivare un Effetto Rapido; se ciò non avviene, ed entrambi i giocatori sono d'accordo nel passare alla prossima Phase (o al prossimo Step), la Phase (o Step) attuale finisce e si passa a quello/a successivo/a.
+Tutte queste meccaniche sono consultabili nel documento ufficiale Konami a proposito della priorità d'azione.Priorità per gli Effetti ad Ignizione (Rimossa):
+Prima della rimozione di questa regola, il giocatore di Turno aveva la priorità sugli Effetti ad Ignizione dei Mostri; ciò vuol dire che, una volta Evocato un Mostro con un Effetto "Una volta per turno... puoi" (esempio: Stregone del Chaos), egli poteva utilizzare in priorità tale Effetto, prima che l'avversario potesse rispondere all'Evocazione del Mostro (ad esempio con Buco Trappola Senza Fine). Questa regola è stata rimossa nell'OCG il 19 marzo 2011; il TCG ha invece dovuto aspettare il 25 aprile 2012 per l'annuncio.
+
+
+=== Casi particolari negli Effetti Innescati ===
+I Mostri con Effetti Innescati possono avere due diciture particolari, "Quando... puoi" (esempio: Peten il Clown Oscuro) oppure "Se... puoi" (esempio: Mago a Molla). Nel primo dei casi, l'Effetto Innescato può attivarsi solamente se la sua condizione d'attivazione è stata l'ultima cosa ad avvenire nello stato di gioco: se quindi Peten il Clown Oscuro venisse offerto come Tributo per un Evocazione tramite Tributo, il suo Effetto non potrebbe essere attivato poiché l'ultima azione avvenuta non è stata mandare Peten al Cimitero, ma Evocare il Mostro che l'ha utilizzato come Tributo. Per gli Effetti "Se... puoi", invece, affinché essi possano verificarsi, basta che la condizione d'attivazione sia stata attivata nell'ultima Catena dello stato di gioco.
+
+
+== Master Rules ==
+Le Master Rules sono dei cambiamenti sostanziali delle regole del gioco; esse comprendono l'inclusione di nuovi tipi di carte da gioco, la modifica di alcune regole fondamentali del gioco, o entrambi. Il termine Master Rules è proprio del gioco di carte orientale; questi cambiamenti di regole sono giunti anche in occidente, ma senza un nome specifico.
+
+
+=== Master Rule 1 ===
+Introdotta con Starter Deck 2008 (OCG) / Starter Deck: Yu-Gi-Oh! 5D's (TCG).
+
+Aggiunge al gioco i Mostri Tuner e i Mostri Synchro.
+Aggiunge al gioco limiti sul numero di carte giocabili; da un minimo di 40 a un massimo di 60 nel Main Deck, da un minimo di 0 a un massimo di 15 nel Side Deck e da un minimo di 0 a un massimo di 15 nell'Extra Deck.
+
+
+=== Master Rule 2 ===
+Introdotta con Starter Deck 2011 (OCG) / Starter Deck: Dawn of the Xyz (TCG).
+
+Aggiunge al gioco i Mostri Xyz.
+Rimuove dal gioco la Priorità per gli Effetti ad Ignizione (Igniton Effects).
+
+
+=== Master Rule 3 ===
+Introdotta con Starter Deck 2014 (OCG) / Super Starter: Space-Time Showdown (TCG).
+Aggiunge al gioco i Mostri Pendulum.
+Aggiunge al campo da gioco le Zone Pendulum.
+Rimuove dal gioco la regola che garantiva al giocatore iniziante il Duello di pescare una carta durante il suo primo turno di gioco.
+Modifica le regole a proposito delle Carte Magia Terreno, permettendo a ogni giocatore di avere una Magia Terreno nella propria Zona, anche se quella dell'avversario è occupata.
+Introduce il PSCT (Problem Solving Card Text), ovvero la standardizzazione dei testi delle singole carte attualmente ancora in vigore, utile per ben interpretare tutti gli aspetti del funzionamento dei vari Effetti.
+
+
+=== Master Rule 4 / New Master Rule ===
+Introdotta con Starter Deck 2017 (OCG) / Starter Deck: Link Strike (TCG).
+
+Aggiunge al gioco i Mostri Link.
+Sposta le Zone Pendulum (Introdotte con le Master Rules 3) nelle Zone Magie/Trappole.
+Aggiunge al campo da gioco le Zone Mostri Extra.
+Modifica le regole a proposito dell'Evocazione dei Mostri dall'Extra Deck, permettendo di Evocarli solamente nelle Zone Mostri Extra oppure in una Zona Mostri a cui punta un Mostro Link. Per maggiori informazioni, vedi il video ufficiale esplicativo delle nuove regole.
+
+
+=== Master Rule 2020 ===
+Introdotta a partire dal 1 aprile 2020 (TCG e OCG); è, ufficialmente, solo una revisione della Master Rule 4.
+
+Modifica le regole a proposito dell'Evocazione dei Mostri dall'Extra Deck, permettendo di Evocare Mostri Fusione, Mostri Synchro e Mostri Xyz, oltre che nelle Zone Mostri Extra, anche in una qualsiasi altra Zona Mostri, e non necessariamente in una a cui punta un Mostro Link.
+
+
+== Formati di gioco ==
+
+
+=== Tradizionale e Avanzato ===
+Esistono due principali formati di gioco, chiamati Tradizionale e Avanzato. La differenza non sta nelle regole, ma nelle restrizioni applicate alle carte. In entrambi i formati, alcune carte sono limitate (non è concesso averne più di una copia nel mazzo) e altre semi-limitate (non è concesso averne più di due copie nel mazzo): la lista di tali carte può però differire nei due formati.
+In entrambi i formati:
+
+Non possono esistere, tra Main/Extra/Side Deck, più di 3 carte con lo stesso nome.
+Il Deck non può contare meno di 40 carte, né più di 60. Il Side Deck e l'Extra Deck possono contenere un massimo di 15 carte.
+Si dicono semi-limitate le carte di cui non si possono avere più di 2 copie tra Main/Extra/Side Deck.
+Si dicono limitate quelle di cui non si può avere più di 1 copia tra Main/Extra/Side Deck.Solo in formato Avanzato:
+
+Si dicono bandite (in gergo, bannate, dall'inglese to ban) le carte che non è permesso avere tra Main/Extra/Side Deck.Solo in formato Tradizionale:
+
+Vengono considerate limitate anche tutte le carte bandite dal formato Avanzato.La lista delle carte bandite, limitate e semi-limitate (Banned List) viene periodicamente modificata e pubblicata sul sito ufficiale del gioco, in modo che i giocatori possano adeguare i propri mazzi per i tornei.
+Esiste inoltre una guida sul sito della Konami, che specifica i casi particolari a proposito della legalità delle carte nei tornei ufficiali.
+
+
+=== Speed Duel ===
+Lo Speed Duel è un formato introdotto nel TCG nel gennaio 2019, con Speed Duel Starter Decks: Destiny Masters e Speed Duel Starter Decks: Duelists of Tomorrow.
+Esso riprende il sistema di gioco di Yu-Gi-Oh! Duel Links, e si discosta dal gioco principale per alcune regole:
+
+Entrambi i giocatori iniziano il Duello con 4000 LP (invece che 8000).
+Entrambi i giocatori iniziano il Duello con 4 carte nella propria mano (invece che 5).
+Il limite di carte giocabili è: da un minimo di 20 a un massimo di 30 nel Main Deck, da un minimo di 0 a un massimo di 5 nell'Extra Deck e da un minimo di 0 a un massimo di 6 nel Side Deck.
+Ogni giocatore può usare fino a 1 Carta Abilità, un tipo di carte utilizzabili solamente in questo formato.
+Ogni giocatore ha solo 3 Zone Mostri e 3 Zone Magie/Trappole (invece di 5); non sono inoltre presenti le Zone Mostri Extra.
+Non è presente la Main Phase 2.Nei Duelli Speed Duel, è possibile utilizzare solamente carte con lo specifico simbolo Speed Duel. Queste carte possono essere inoltre utilizzate nei Duelli in formato Avanzato/Tradizionale.
+
+
+=== Rush Duel ===
+Il Rush Duel è un formato introdotto nell'OCG l'11 aprile 2020, con Deck Modification Pack: Hyperspeed Rush Road!!.
+Esso è il metodo di gioco utilizzato nella serie animata Yu-Gi-Oh! SEVENS, e segue delle particolari regole, tra le quali:
+
+Entrambi i giocatori possono avere nel proprio Deck fino a una "Legend Card", ovvero delle particolari carte, riconosciute dalla specifica icona.
+Entrambi i giocatori iniziano il Duello con 4 carte nella propria mano (invece che 5).
+All'inizio di ogni turno, il giocatore di turno pesca fino ad avere 5 carte in mano, o, se ne ha già 5 o più, ne pesca una.
+Non esiste un limite alle carte che ogni giocatore può tenere in mano.
+Ogni giocatore può effettuare quante Evocazioni Normali o Evocazioni per Tributo desidera ogni turno.
+Non sono presenti la Standby Phase e la Main Phase 2.
+Ogni Effetto delle carte può essere utilizzato solo una volta per turno.Nei Duelli Rush Duel, è possibile utilizzare solamente le specifiche carte ideate per il formato. Queste carte non possono essere utilizzate nei Duelli in qualsiasi altro formato.
+
+
+== Discordanza dei regolamenti ==
+Sin dalla prima apparizione cartacea sono presenti differenze con il gioco reale, riprese anche dalla serie televisiva. Le principali regole, valide nel torneo del Regno dei Duellanti nell'anime, sono riportate di seguito:
+
+All'inizio del duello ciascun giocatore dispone di 2000 Life Points, che nella realtà sono 8000.
+Se è presente un mostro sul Terreno avversario, non è possibile effettuare un attacco diretto ai Life Points.
+Si può Evocare Normalmente in posizione di Difesa, quando nella realtà in Difesa si può solo Posizionare.
+L'Evocazione di mostri di alto livello (almeno 5) non richiede Tributi. Nella realtà sono richiesti un Tributo per mostri di livello 5-6 e due per mostri di livello 7 o superiore.
+La distruzione di un mostro tramite l'effetto di una carta comporta, per il suo controllore, un danno pari alla metà del valore offensivo dello stesso.
+Non sono richiesti pagamenti di Life Points per l'utilizzo di determinate carte.Altre differenze derivano dal ricorso della serie ad effetti speciali: per esempio, il terreno su cui si combatte il duello comporta aumenti ("bonus ambiente") o diminuzioni del valore offensivo-difensivo dei mostri, in ragione del loro Tipo e/o Attributo.
+A partire dal torneo della Città dei Duelli nell'anime, le regole vengono cambiate, avvicinandole a quelle del gioco reale. Permangono comunque alcune differenze, riportate di seguito:
+
+All'inizio del duello ciascun giocatore dispone di 4000 Life Points, che nella realtà sono 8000.
+Si può Evocare Normalmente in Posizione di Difesa, quando nella realtà in Difesa si può solo Posizionare.
+Fino al Grand Championship, un mostro Fusione non poteva attaccare nel turno in cui era stato evocato se non per effetto della Carta Magia Quick Attack (che nella realtà non esiste).Sparisce il bonus ambiente, sostituito dalle carte Magia Terreno (presenti anche nella realtà). Gli effetti delle carte sono nella maggior parte dei casi gli stessi sia nell'anime che nella realtà, con alcune differenze per quanto riguarda carte specifiche (ad esempio per il Sigillo di Orichalcos o per lo Stregone della Magia Oscura). Ci sono, inoltre, alcune carte presenti solo nell’anime e non nel GCC.
+Per i duelli a coppie o sfide collettive (in cui un solo duellante ne affronta 2 o 3) il regolamento prevede che l'incontro a coppie termina quando una coppia viene sconfitta, mentre nelle sfide collettive è sufficiente battere un avversario per concludere il duello.
+
+
+== Espansioni ==
+Le varie espansioni del gioco che sono uscite sino ad adesso sono le seguenti. Le parentesi tonde indicano le espansioni già uscite in occidente ma non in Italia, le parentesi quadre quelle limitate all'oriente e quindi all'OCG.
+
+
+=== OCG ===
+Yu-gi-oh! Official card game (abbreviato in OCG) è un gioco di carte prodotto dalla Konami. Si gioca principalmente in Asia. Le carte ocg vengono stampate esclusivamente in giapponese (jp), koreano (kr) e cinese semplificato (sc).
+Alcune carte sono state precedentemente stampate anche in inglese (indicato come inglese asiatico) e in cinese tradizionale ( tc); nonostante queste carte facciano parte dell'ocg hanno "Yu-gi-oh! Gioco di carte collezionabili " stampato sul retro, sebbene con un logo diverso. Anche se fanno parte dell'OCG, le carte coreane e in inglese asiatico seguono il layout e gli artwork del TCG.
+Le carte TCG non sono legali nei tornei OCG, e viceversa. A partire da settembre 2013, OCG e TCG hanno banlist diverse, con più carte proibite in un elenco ma illimitate nell'altro (in entrambe le direzioni).
+
+
+=== Booster Packs ===
+Ogni Booster Pack, o Busta d'Espansione, appartiene ad una generazione, che indica a quale serie anime appartiene, e ad una serie, ogni serie ha diversa struttura della carta. Le carte delle prime tre serie sono uscite in Giappone prima dell'introduzione del gioco in occidente, che quindi sono state rilasciate successivamente e mescolate. Ogni Booster Pack contempla 80 carte nell'OCG e 100 nel TCG. Ogni bustina contiene 5 carte nell'OCG e 9 nel TCG.
+
+
+==== Yu-gi-oh! OCG ====
+Serie 1 e 2
+Lista dei set "canonici" usciti prima del rilascio TCG. Da questa lista sono esclusi i pacchetti d'edizione limitata, promozionali, dei settimanali, di eventi, tornei o mazzi da gioco.
+
+
+==== Yu-Gi-Oh! DM ====
+Serie 1, 2 e 3
+
+La Leggenda del Drago Bianco Occhi Blu - LDD
+Predoni Metallici - PMT
+Sovrano della Magia - SDM
+Servitore del Faraone - SDF
+Labirinto dell'Incubo - LDI
+Eredità delle Tenebre - LOD
+Guardiano del Faraone - PGD
+Forza del Mago - MFC
+Crisi Oscura - DCR
+Invasione del Chaos - IOC
+Antico Santuario - ASTSerie 4
+
+Anima del Duellante - SOD
+Ascesa del Destino - RDS
+Eternità Fiammeggiante - FET
+
+
+==== Yu-Gi-Oh! GX ====
+Il Millennio Perduto - TLM
+Rivoluzione Cibernetica - CRV
+Energia Elementale - EEN
+Ombra dell'Infinito - SOI
+Nemico della Giustizia - EOJSerie 5
+
+Potere del Duellante - POTD
+Impatto CyberOscuro - CDIP
+Attacco di Neos - STON
+Forza del Distruttore - FOTB
+Evoluzione Tattica - TAEV
+Assalto del Gladiatore - GLAS
+Oscurità Fantasma - PTDN
+Luce della Distruzione - LODT
+
+
+==== Yu-Gi-Oh! 5D's ====
+Serie 6
+
+La Genesi del Duellante - TDGS
+Crocevia del Chaos - CSOC
+Crisi Scarlatta - CRMS
+Battaglia Furiosa - RGBT
+Antica Profezia - ANPR
+Potere della Polvere di Stelle - SOVR
+Potere Assoluto - ABPF
+L'Oscurità Brillante - TSHDSerie 7
+
+Rivoluzione dei Duellanti - DREV
+Esplosione Astrale - STBL
+Tempesta dei Ragnarok - STOR
+Vittoria Estrema - EXVC
+
+
+==== Yu-Gi-Oh! Zexal ====
+Forza Generatrice - GENF
+Onda d'Urto Fotonica - PHSW
+Ordine del Chaos - ORCS
+Sovrano Galattico - GAOVSerie 8
+
+Il Ritorno del Duellante - REDU
+Risveglio degli Abissi - ABYR
+Fiammata Cosmica - CBLZ
+Il Signore della Galassia Tachionica - LTGY
+Cacciatori di Numeri - NUMH
+Giudizio della Luce - JOTL
+Spettri dell'Ombra - SHSP
+Eredità del Valoroso - LVAL
+Origine Primordiale - PRIO
+
+
+==== Yu-Gi-Oh! Arc-V ====
+Serie 9
+
+Alleanza dei Duellanti - DUEA
+I Nuovi Sfidanti - NECH
+Segreti dell'Eternità - SECE
+Destini Incrociati - CROS
+Scontro di Ribellioni - CORE
+Dimensione del Chaos - DOCS
+Distruttori dell'ombra - BOSH
+Vittorie brillanti - SHVI
+L'Illusione Oscura - TDIL
+Invasione Vendetta - INOV
+Tempesta Furiosa - RATE
+Crisi Massima - MACR
+Evoluzione Pendulum - PEVO
+Battaglie della Leggenda - Vendetta della luce - BLLR
+
+
+==== Yu-Gi-Oh! VRAINS ====
+Serie 10
+
+Codice del Duellante - COTD
+Duellanti Leggendari - LED1
+Distruzione del Circuito - CIBR
+Guerrieri Spirito - SPWA
+Forza Estrema - EXFO
+Duellanti Leggendari: Antico Millennio - LED2
+Star Pack: VRAINS - SP18
+Fiamme della Distruzione - FLOD
+Salvatori Oscuri - DASA
+Battaglie della Leggenda: Vendetta Implacabile - BLRR
+Orizzonte Cibernetico - CYHO
+Ombre nel Valhalla - SHVA
+Duellanti Leggendari: Drago Bianco dell'Abisso - LED3
+Fusione delle Anime - SOFU
+Evocatori Nascosti - HISU
+Duellanti Leggendari: Sorelle della Rosa - LED4
+Attacco Selvaggio - SAST
+I Cercatori dell'Infinito - INCH
+Neotempesta Oscura - DANE
+Battaglie della Leggenda: Vendetta dell'Eroe - BLHR
+Furia Crescente - RIRA
+Pugni dei Congegni - FIGA
+Duellanti Leggendari: Destino Immortale - LED5
+Impatto del Chaos - CHIM
+Combattenti Mistici - MYFI
+Duellanti Leggendari: Eroe Magico - LED6
+Assalto Accensione - IGAS
+Codice Eternità - ETCO
+Ascesa del Duellante - ROTD
+Rabbia Fantasma - PHRA
+Impatto Origini - GEIM
+Vortice Fiammeggiante - BLVO
+Fantasmi dal Passato - GFTP
+Antichi Guardiani - ANGU
+Iperattività Fulmine - LIOV
+La Corte del Re - KICO
+Alba della Maestosità - DAMA
+Esplosione del Destino - BODE
+Fratelli della Leggenda - BROL
+Battaglia del Chaos - BACH
+Fantasmi dal Passato: La Seconda Apparizione - GFP2
+Forza Dimensionale - DIFO
+Duellanti Leggendari: Duelli delle Profondità - LED9
+Duellanti Leggendari: Stagione 3 - LDS3
+Potere degli Elementi - POTE
+Maestri di Tattica - TAMA
+
+
+=== Duelist Pack ===
+I Duelist Pack sono un particolare tipo di espansione. Nei Duelist Pack si può trovare una varietà di carte minore rispetto alle normale buste di espansione, ma una busta di Duelist Pack contiene solamente 5 carte. Queste buste, fino alla numero 7, sono abbinate ciascuna ad un personaggio della serie di Yu-Gi-Oh! GX, la numero 8 è abbinata ad un personaggio della nuova serie Yu-Gi-Oh! 5D's. Questi sono i Duelist Pack:
+
+
+== Mazzi da gioco ==
+Oltre alle espansioni sono usciti mazzi tematici per imparare a giocare con le varie tipologie di carte. Le confezioni comprendono, oltre alle carte (solitamente 40, il numero minimo consentito per giocare in base alle regole) un "campo da gioco" (la griglia su cui disporre le carte) e il libretto delle regole. I mazzi tematici si dividono in due categorie: Mazzi Introduttivi (destinati ai principianti, in genere ispirati ai mazzi usati dai personaggi del manga e dell'anime) e Structure Deck (o mazzi d'ampliamento, in cui il "tema" è solitamente rappresentato da un preciso Tipo di carte mostro). Di seguito ecco i mazzi usciti in Italia:
+
+
+=== Mazzi Introduttivi ===
+
+
+=== Structure Decks ===
+
+
+== Altre carte da gioco ==
+Oltre alle carte presenti nei mazzi o nelle espansioni, ve ne sono altre in edizioni limitate, chiamate Promo. Un esempio può essere "Sarcofago d'Oro" (Gold Sarcophagus). Altre carte, inoltre, sono presenti in videogiochi, riviste, modellini, McDonald's, partecipazioni a tornei, ovvero i cosiddetti Sneak Preview, al cinema, e in buste esclusive.
+
+
+== Tornei ==
+Il gioco si è diffuso al punto che sono stati istituiti dei tornei ufficiali, detti sanzionati, da parte di Konami stessa.
+I giocatori possono cimentarsi in essi recandosi in una fumetteria che svolge questo tipo di tornei; queste possono ospitare tornei locali settimanali sanzionati, ma anche tornei di livello più alto come possono essere i Regionali (WCQ: Regional). Ottenendo buoni risultati in questi ultimi è possibile ottenere un invito per il Campionato Europeo (European WCQ); la tappa finale è il Campionato Mondiale, al quale è possibile accedere solo arrivando nei primi 3 posti del Campionato Europeo, oppure attraverso i World Qualifying Points, ovvero dei punti ottenuti attraverso buoni posizionamenti a tornei di alto livello in tutta Europa.
+Le singole fumetterie potevano anche, fino all'espansione Assalto Accensione, decidere di organizzare Sneak Peeks, ovvero degli eventi specifici per provare in anteprima le nuove carte in uscita. Questo tipo di eventi è stato sostituito, a partire dall'espansione Codice Eternità, con gli eventi Premiere, svolti in modalità leggermente differente dagli Sneak Peeks.
+Esistono anche Campionati Nazionali (WCQ: Campionati Nazionali), eventi che non richiedono qualifica. È da notare che non è possibile partecipare a 2 Campionati Nazionali diversi nella stessa stagione di gioco competitivo.
+In tutto il mondo sono inoltre svolti YCS (Yu-Gi-Oh! Championship Series), eventi senza bisogno di qualifica e con un numero di giocatori particolarmente alto, considerati tra i tornei più prestigiosi in assoluto.
+
+
+=== Remote Duel ===
+A seguito della pandemia di COVID-19 del 2019-2021, Konami ha annunciato ufficialmente la nascita del Remote Duel, un nuovo modo di organizzare tornei ufficiali e sanzionati da parte delle fumetterie partecipanti. L'annuncio è stato pubblicato il 30 aprile 2020, sulla pagina Facebook Yu-Gi-Oh! TRADING CARD GAME (KONAMI Europe), ma la nuova modalità di gioco è stata ufficialmente avviata solo a partire dal 1º giugno 2020.
+
+
+== Rarità ==
+Questo gioco di carte ha delle rarità molto particolari e diverse dagli altri giochi di carte collezionabili (Pokémon, Magic ecc.); esse si distinguono per il valore, la possibilità di essere trovate e il modo in cui modificano la carta.
+Le rarità esistenti sono:
+
+Comune: Questa è la rarità base: non presenta nessun cambiamento estetico od olografico. In ogni pacchetto di un'espansione principale sono presenti più carte Comuni, mentre alcuni pacchetti di espansioni secondarie possono non averne al loro interno.
+Rara: Questa rarità ha come unico cambiamento rispetto alla carta originale il nome con la scritta argentata. Fino a Codice Eternità, ne era presente una in ogni pacchetto di un'espansione principale.
+Super Rara: Questa rarità rende olografici l'immagine, il livello/rango e l'attributo della carta. Prima di Battaglie della Leggenda - Vendetta della luce, solamente l'immagine della carta era olografica. Prima di Distruttori dell'ombra, era possibile che un pacchetto di un'espansione principale contenesse solo Comuni e Rare; a partire da Distruttori dell'ombra, è garantita invece una carta Super Rara, o di qualche rarità superiore, all'interno di ogni pacchetto.
+Ultra Rara: Questa rarità appare come la Super Rara, ma la scritta del nome della carta è dorata.
+Rara Ultimate: Questa rarità presenta la scritta di un colore dorato simile a quello delle Ultra Rare, mentre sono di colore metallizzato l'immagine e il livello della carta. Le Rare Ultimate presentano inoltre una diversa consistenza al tatto delle parti metallizzate, simile a quella di una lamina incisa.
+Rara Segreta: Questa rarità è caratterizzata dalla scritta olografica e da uno sfondo olografico arricchito con rette oblique, anch'esse olografiche.
+Rara Fantasma: In questa rarità l'immagine si vede quasi solo controluce, mentre la scritta è olografica come quella della rarità Rara Segreta. Per quanto riguarda le espansioni principali, a partire dalla sua prima apparizione nell'espansione Evoluzione Tattica, la carta con questa rarità era sempre la "cover card", ovvero quella che compariva sui box e sulle bustine (a eccezione dell'espansione Oscurità Fantasma). A partire dall'espansione Giudizio della Luce la Rara Fantasma non è per forza la cover card, ma una delle Rare Segrete del pacchetto (spesso trovabile anche come Rara Ultimate). A partire da Distruttori dell'ombra, le espansioni principali non contengono carte Rare Fantasma al loro interno.
+Rara Oro: Questa rarità è molto simile alla Ultra Rara, e si caratterizza per il bordo della carta dorato. La si trova solo nelle varie "Serie Oro". Esistono due tipi particolari di Rare Oro: Rare Segrete Oro e Rare Fantasma Oro.
+Rara Parallela: Questa rarità è molto simile alla Ultra Rara, ma la carta è interamente olografica ed è particolarmente rigida. Era ottenuta partecipando a specifici tornei svolti in passato, chiamati Hobby Leagues.
+Rara Nera: Questa rarità è uguale alla Rara, ma con la scritta del nome di colore nero lucido. Può essere trovata unicamente in Battle Pack: Alba Epica e in Battle Pack 2: Guerra dei Giganti.
+Rara Starfoil: Questa rarità si trova solo in Battle Pack: Alba Epica e nei vari Star Packs; è identica alla Comune, tranne per il fatto che presenta delle stelle olografiche su tutta la carta.
+Rara Mosaico: Questa rarità si trova solo nel Battle Pack 2: Guerra dei Giganti; è identica alla Comune, tranne per il fatto che presenta dei quadrati olografici su tutta la carta.
+Rara Shatterfoil: Questa rarità si trova solo nel Battle Pack 3: Lega dei Mostri; è identica alla Comune, tranne per il fatto che presenta delle schegge di luce visibili mettendo la carta in controluce.
+Rara Duel Terminal: Questa rarità è simile alla Starfoil, solo che, anziché stelle, presenta dei rombi e quadrati olografici, oltre alla scritta "DUEL TERMINAL" al posto dell'edizione. Le carte di tale rarità si trovano solo nei Duel Terminal, una sorta di postazioni arcade, giapponesi o americani.
+Rara Platino: Questa rarità si trova solo in Nobili Cavalieri della Tavola Rotonda Box Set e ricorda la rarità Rara Segreta Oro, ma con il color platino al posto dell'oro.
+Rara Segreta Prismatica: Questa rarità è contraddistinta da un motivo olografico orizzontale lungo tutta la carta. Appare in tutte le espansioni principali, a partire da Furia Crescente.
+
+
+== Note ==
+
+
+== Bibliografia ==
+Yu-Gi-Oh!, manuale delle regole ufficiali, pubblicato da Konami e incluso nei Mazzi Introduttivi e nelle confezioni di alcuni videogiochi.
+
+
+== Altri progetti ==
+
+ Wikibooks contiene testi o manuali su Yu-Gi-Oh!
+ Wikimedia Commons contiene immagini o altri file su Yu-Gi-Oh!
+
+
+=== Collegamenti esterni ===
+
+ Sito ufficiale, su yugioh-card.com. 
+(ZH) Sito ufficiale, su yugioh-card.com. 
+(EN) Riassunto di tutte le policies ufficiali riferite al gioco competitivo (PDF), su img.yugioh-card.com (archiviato dall'url originale il 12 novembre 2020).
+(EN) Sito di riferimento per il coverage dei tornei ufficiali di alto livello, su coverage.yugioh-card.com.

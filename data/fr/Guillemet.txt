@@ -1,0 +1,299 @@
+Le guillemet est un signe typographique de ponctuation, principalement utilisé par paire d’un guillemet ouvrant et d’un guillemet fermant. Leurs formes (simple ou double, en chevron ou en apostrophe) et positions (gauche ou droite) varient selon les langues, les régions ou la direction du système d’écriture utilisé.
+Le principal usage des guillemets est de mettre en relief une expression, un terme ou une citation. Les guillemets s’emploient ainsi pour le discours rapporté et les dialogues. Ils sont parfois utilisés pour indiquer que le terme ou l’expression mis en exergue n’a pas sa signification littérale ou habituelle — on parlera alors de guillemets d'ironie.
+
+
+== Histoire ==
+Déjà dans l’Antiquité, le chevron — ou διπλῆ / diplễ, « diplè » — est un signe de ponctuation composé d’un chevron indiquant différentes annotations, dont les citations.
+Au Moyen Âge, et principalement à partir du XIIe siècle, les guillemets sont des virgules (du latin virgula, « petite verge ») destinées à séparer ou signaler les citations, ou encore à encadrer un mot d’orthographe ou de sens douteux, pour signaler au lecteur un terme à corriger. Le guillemet proprement dit est apparu pour la première fois en 1527 chez Alde et J. Bade dans Priscien, l’invention en ayant ultérieurement été faussement attribuée à l’imprimeur Guillaume en 1622.
+Les guillemets sont d’abord utilisés dans la marge, hors du texte, et ont la forme de virgules, inversées ou non, ou de petites parenthèses doubles. Les guillemets fermants sont introduits au XVIIIe siècle et se mettent dans le corps de texte.
+
+En français, les guillemets angulaires en chevrons apparaissent à partir de la fin du XVIIIe siècle et deviennent majoritaires vers la fin du XIXe siècle.
+Dans l’usage typographique moderne, les guillemets ne se sont imposés qu’en concurrence avec l’italique et le tiret, notamment dans l’impression des pièces de théâtre de Diderot.
+
+
+== Formes des guillemets ==
+Au sein d’un système d’écriture donné, on distingue en premier lieu le guillemet ouvrant du guillemet fermant, car ce signe typographique ne s’utilise aujourd’hui que par paires (plus ou moins symétriques), à la manière des parenthèses ou des crochets. Mais à travers les langues et même les pays d’une même langue, l’usage des guillemets varie si fortement qu’un même guillemet est ouvrant ici, fermant là-bas, et son pendant apparié vice-versa (« … » contre » … «), s’il n’est pas remplacé par un autre caractère (“…” contre „…“). La forme des guillemets varie selon les marches typographiques.
+En informatique, certains guillemets sont codés avec des caractères dont l’aspect peut changer en fonction de l’écriture utilisée, car depuis l’avènement d’Unicode, les guillemets en chevrons sont des caractères miroir, de sorte que leurs glyphes sont réfléchis dans un contexte droite-à-gauche (arabe, hébreu) par rapport à ce qu’ils sont dans un contexte gauche-à-droite (grec, cyrillique, écriture latine) et l’utilisation de terme « gauche » ou « droit » n’a de sens que dans un contexte ou selon un point de vue précis. Par exemple, le caractère U+00AB ‹ « › représentant ce que l’on nomme en français un guillemet ouvrant pointe à gauche, et sera aussi un guillemet ouvrant mais pointant à droite en arabe. Un même caractère de guillemet peut aussi avoir un rôle différent, ouvrant ou fermant, selon la langue. Par exemple, le caractère U+00AB ‹ « › est un guillemet ouvrant en français mais fermant en allemand.
+
+
+=== Guillemets en chevrons ===
+Ces guillemets se distinguent par leur position verticale centrée sur la ligne médiane, c’est-à-dire le milieu du corps des lettres (les minuscules dans les écritures à majuscule et minuscule). Ils ont principalement la forme de chevrons, doubles ou simples, pointant vers la gauche ou la droite ; ils peuvent toutefois être arrondis en forme courbes ou même en apostrophes dans certaines polices de caractères.
+Traditionnellement, les guillemets en chevrons doubles sont appelés guillemets français ou simplement guillemets lorsque le guillemet ouvrant pointe à gauche et le guillemet fermant pointe à droite «…», par opposition aux guillemets-virgules appelés guillemets anglais “…”. Les guillemets français sont aussi appelés guillemets typographiques, par opposition aux guillemets dactylographiques "…".
+Les guillemets en chevron simple (‹ ›) sont appelés guillemets simples. En Suisse, ils sont utilisés pour une citation à l’intérieur d’une autre déjà indiquée à l’aide des guillemets.
+En français de France, les guillemets sont comptés comme des ponctuations hautes, et en tant que telles appellent l’usage d’espaces insécables après le guillemet ouvrant et avant le guillemet fermant. La norme typographique canadienne suit également cette règle. En typographie suisse, c'est l'espace fine insécable qui est préférée dans ce cas. Si elle n'est pas disponible, on ne met pas d'espace du tout.
+Les guillemets en chevrons doubles sont aussi appelés guillemets allemands lorsque le guillemet ouvrant pointe à droite et le guillemet fermant pointe à gauche (» «). Cependant, en Suisse, les guillemets en chevrons doubles sont utilisés en allemand avec la même direction qu’en français (« »). De plus, les guillemets allemands peuvent aussi désigner des guillemets en forme de virgules utilisés en allemand.
+
+
+=== Guillemets en virgule ou apostrophe ===
+Ces guillemets se distinguent par leur position et forme, soit élevée à la hauteur de capitale ou d’ascendante avec la forme d’apostrophes (ou de virgules élevées) retournées, réfléchies ou non, soit au niveau de la ligne de base avec la forme de virgules retournées ou non.
+Traditionnellement, on appelle les guillemets en apostrophes tournées et apostrophes guillemets anglais, ou plus précisément guillemets anglais doubles lorsque le guillemet ouvrant a la forme d’une double apostrophe tournée et le guillemet fermant a la forme d’une double apostrophe : “…” ; et guillemets anglais simples lorsque le guillemet ouvrant a la forme d’une apostrophe tournée et le guillemet fermant a la forme d’une apostrophe : ‘…’.
+Le guillemet en apostrophes tournées fait aussi partie des guillemets allemands, dont le guillemet ouvrant a la forme d’une double ou simple virgule, et le guillemet fermant a la forme d’une double ou simple apostrophe tournée : „…“ ; ‚…‘. Cependant, guillemets allemands se dit aussi des guillemets chevrons permutés (ceux qui sont fermants en français sont ouvrants en allemand, et vice versa : »…« ; ›…‹).
+En informatique, quand bien même les guillemets sont parfois affichés sous forme d’apostrophe(s), on utilise toujours les guillemets génériques : simple (U+0027 ' apostrophe ), ou double (U+0022 " guillemet ), ou encore le guillemet inverse (U+0060 ` accent grave ), dont les deux premiers sont présentés dans la sous-section suivante.
+
+
+=== Guillemets dactylographiques ===
+Les guillemets dactylographiques sont des guillemets en forme de petits traits généralement droits. On distingue les guillemets doubles ou guillemets droits : "…" ; des guillemets simples : '…'.
+Ils sont devenus d’usage courant avec les machines à écrire, puis les premiers ordinateurs avec leurs jeux de caractères restreints (par exemple le codage ASCII).
+Dans ces jeux de caractères, les guillemets dactylographiques couvrent de multiples usages (par exemple : un même signe pour les guillemets ouvrant et fermant, ou encore pour représenter le signe prime) et ne distinguent pas les formes élevées des formes sur la ligne de base et des formes centrées sur la médiane ; de ce fait, ils sont réducteurs comparés aux usages traditionnels en typographie.
+Leur usage en programmation informatique a des sémantiques bien définies.
+Ils servent principalement en dactylographie étant sur les dispositions de clavier ; certains logiciels de traitement de texte sont pourvus d’un automatisme remplaçant les guillemets dactylographiques par les guillemets typographiques propres à la langue du texte.
+Il convient de mentionner ici un caractère codé comme accent (U+0060 ` accent grave ) et servant autrefois de guillemet ouvrant, car il sert toujours de guillemet en programmation, apparié avec lui-même : `…`. Dans certains usages informatiques, il est apparié avec le guillemet simple : `…'.
+
+
+== Usage en français ==
+Les guillemets sont utilisés pour indiquer le début et la fin d’un texte qui est soit la citation d’un autre auteur, soit tenu par une personne dans le style direct, en particulier pour restituer un dialogue ou une partie de discours. L’auteur cité peut être anonyme dans le cas des proverbes, devises, maximes, idiomes ou expressions consacrées, qui seront mis entre guillemets pour indiquer que ce ne sont pas les propos tenus par l’auteur mais un texte rapporté.
+Les guillemets peuvent aussi s’utiliser pour indiquer l’ironie, pour les surnoms ou sobriquets, pour les mots cités en tant que mots, pour les phrases pensées dans les dialogues introduits par un tiret, pour les titres de parties d’œuvres.
+En revanche, l’italique s’utilise pour les titres d’ouvrages, de journaux, de revues, de recueils ainsi que pour les noms de bateaux ou d’aéronefs, ainsi que pour les mots étrangers. Un cinéma projette le film Psychose et non « Psychose ». En cas de titres successifs dont l’un est une partie (chapitre, article, etc.) et l’autre le tout (l’ouvrage), la partie se compose en romain et entre guillemets français et l’ouvrage en italique.
+Les guillemets ne doivent jamais être utilisés pour les noms de lieux, rues, places, boulevards ou institutions, car la majuscule suffit à les identifier : on réside en Martinique et non en « Martinique » ; on étudie au lycée Chaptal et non au lycée « Chaptal » ; on est soigné à l’hôpital Necker et non à l’hôpital « Necker » ; on habite avenue du Trône ; on visite le palais de la Découverte.
+Dans les textes manuscrits, comme les copies d’examens ou les travaux scolaires, les titres, qui ne peuvent être signalés par l’italique, doivent être soulignés. Cet usage n’est pas très ancien : jusqu’à la fin du XXe siècle, les guillemets étaient admis.
+En français, on sépare les guillemets typographiques ou français (« ») de l’expression qu’ils mettent en exergue par une espace insécable. En typographie suisse, on utilise une espace fine insécable, sauf si celle-ci n'est pas disponible ; on ne met alors aucun espacement. Lorsque la citation s'étend sur plusieurs paragraphes, un guillemet ouvrant — ou fermant — est parfois placé à chaque alinéa, voire à chaque début de ligne dans le cas d’une citation de second niveau.
+
+
+=== Écriture manuscrite et dactylographie ===
+Les guillemets droits doubles ou simples (" " et ' ') sont souvent employés en dactylographie, soit que les « guillemets français » sont absents du clavier, soit que le logiciel est défectueux ou imparfaitement connu de l'opérateur.
+
+
+=== Double ou triple niveau de citation ===
+Selon certains typographes, les guillemets anglais (“ ”) peuvent être employés comme guillemets de second niveau et, en troisième niveau, on peut utiliser des apostrophes — et, dans ces deux cas, les guillemets anglais et apostrophes sont directement accolés à l’expression —, mais afin d’éviter l’ambiguïté avec les guillemets d’ironie, les guillemets français simples (en simple chevron) sont préférés pour le second niveau,. En cas de déficience, un pis-aller courant (et préférable à l’ambiguïté) consiste à imbriquer les guillemets français, au prix d’une perte de clarté pour le lecteur qui doit alors compter les occurrences (comme avec les parenthèses imbriquées), et d’esthétique quand plusieurs niveaux se referment en même temps (exemple : Il dit : « Il m’a dit : « D’accord. » » contre Il dit : « Il m’a dit : ‹ D’accord. › »).
+Cependant, en troisième niveau, l’usage de l’italique est préférable.
+
+Méthode avec doubles guillemets-apostrophes : « L’ouvreuse m’a dit : “Donnez-moi votre ticket.” Je le lui ai donné. »Recommandée en français canadien, et utilisée par de nombreuses publications françaises tel que le journal Le Monde.Méthode avec doubles guillemets sans espace-guillemets anglais : «L’ouvreuse m’a dit: “Donnez-moi votre ticket.” Je le lui ai donné.»D’application obligatoire dans tout type de document (papier ou électronique) élaboré en langue française par l’ensemble des institutions, organes et organismes de l’Union européenne et par tout intervenant dans l’élaboration de ces documents au sein de ces structures,.Méthode avec doubles guillemets répétés : « L’ouvreuse m’a dit : « Donnez-moi votre ticket. » Je le lui ai donné. »Recommandée par l'Imprimerie nationale et d'usage sur Wikipédia en français. Noter que l’Imprimerie nationale recommande l’omission de l’un des guillemets fermants en cas de cumul de guillemets quand une citation se termine sur une citation incluse.Méthode avec simples guillemets : « L’ouvreuse m’a dit : ‹ Donnez-moi votre ticket. › Je le lui ai donné. »Recommandée en typographie suisse, avec des espaces fines insécables.Lorsque la citation est sur plusieurs paragraphes, un guillemet ouvrant est placé à chaque alinéa, voire à chaque début de ligne dans le cas d’une citation de second niveau, mais le guillemet fermant n’est pas répété à chaque alinéa et se place seulement à la fin du dernier. Enfin, dans les règles de l’Imprimerie nationale, une citation de premier rang peut être simplement mise en italique et sans guillemets (les citations de second rang utilisent systématiquement des guillemets, mais on ne les répète pas en début de ligne dans ce cas-là), mais cette solution est à éviter si elle contient de nombreux mots eux-mêmes en italiques (langues étrangères ; ils seraient alors composés en romain).
+L’usage de citation française de premier niveau entre guillemets et en italique est traditionnellement considérée comme inutile car les deux ont la même fonction. La formule : « Ceci est une citation » est donc proscrite selon cette convention. Cependant, l’usage des guillemets et de l’italique est justifié par certains pour des considérations graphiques — pour faciliter la lecture — comme le font de nombreux journalistes ou pour distinguer l’incise de narration en romain de la citation en italique par exemple : « Ce coiffeur travaille, dit-il, avec l’air de s’ennuyer. ».
+
+
+=== Citation d’un texte en langue étrangère ===
+L’italique sert à marquer un passage en langue étrangère, donc on utilisera des guillemets et de l’italique pour une citation en langue étrangère, ce qui permettra une claire distinction avec la citation en français deux lignes plus haut. L’italique se fait à l’intérieur des guillemets (qui n’ont pas à être en italique).
+Si la citation est introduite par un deux-points et que son caractère de citation est clair, on ne met pas de guillemets mais on utilise simplement l’italique. La traduction éventuelle est en romain, entre parenthèses si la citation est guillemetée, entre guillemets si elle ne l’est pas.
+
+Je suivais le vieux précepte d’Horace, « Carpe diem » (mets à profit le jour présent).
+— ou bien —
+Je suivais le vieux précepte d’Horace : Carpe diem, « mets à profit le jour présent ».
+
+
+=== Ponctuation dans la phrase citée ===
+La citation d'une phrase terminée par une ponctuation expressive laisse la ponctuation à l’intérieur des guillemets :
+
+L’ouvreuse m’a dit : « Donnez-moi votre ticket ! » avec un grand sourire.Le point dans l'extrait cité est supprimé :
+
+L’ouvreuse m’a dit : « Donnez-moi votre ticket » avec un grand sourire.S’il s’agit d’un point final, la phrase guillemetée est annoncée par un deux-points et le point final est conservé à l’intérieur des guillemets, sans qu’aucune ponctuation forte soit ajoutée après les guillemets fermants :
+
+L’ouvreuse m’a dit : « Donnez-moi votre ticket. » Je le lui ai donné.Si la phrase citée termine la phrase, la règle générale est de laisser la ponctuation à l’intérieur des guillemets, et de faire commencer la phrase suivante par une majuscule après leur fermeture :
+
+J'ai dit à la caissière : « Le film était sensationnel ! » Elle m'a répondu avec un grand sourire.Si la phrase annonçant la citation est elle-même interrogative ou exclamative, c’est la ponctuation de fin de citation qui s’efface au profit de la ponctuation encadrante :
+
+L’ouvreuse ne m’a-t-elle pas dit : « Donnez-moi votre ticket » ?Dans les cas qui précèdent, la citation correspond à une phrase entière, d’où la présence d’un deux-points avant les guillemets ouvrants et d’une lettre majuscule au début de la citation. Lorsque la citation porte sur un extrait de phrase, l'usage recommande une lettre minuscule, sans insérer de ponctuation à la fin :
+
+La caissière du cinéma m’a recommandé un « film sensationnel » !
+
+
+=== Dialogue ===
+L’usage le plus courant consiste à placer des guillemets ouvrants au début du dialogue et des guillemets fermants à la fin du dialogue. On ne sort pas des guillemets au moment des incises, sauf pour celle qui suit éventuellement la dernière réplique. Les répliques, hormis la première, sont introduites par un tiret cadratin qui marque le changement d'interlocuteur.
+
+« J’vais voir si c’est ainsi ! que je crie à Arthur, et me voici parti à m’engager, et au pas de course encore.
+— T’es rien qu'un c… Ferdinand ! » qu’il me crie, lui Arthur en retour, vexé sans aucun doute par l’effet de mon héroïsme sur tout le monde qui nous regardait.
+Toutefois, si une réplique comporte plusieurs alinéas, les alinéas supplémentaires seront introduits par un guillemet ouvrant. L’édition a néanmoins de plus en plus tendance à supprimer les guillemets.
+
+
+=== Bibliographie ===
+En bibliographie, les guillemets sont employés pour les titres d’articles. Par extension, dans des références, on placera entre guillemets les titres de parties, sections et sous-sections. En revanche, les titres de livres, recueils et journaux sont présentés en italiqueTout poème extrait d’un texte plus large se met entre guillemets, ce qui permet de différencier « Les Fleurs du mal », section du recueil de poèmes Les Fleurs du mal. En revanche, les titres de fables se mettent par tradition en italique.
+
+
+=== Guillemets d'ironie ===
+Les guillemets d’ironie, dits aussi guillemets ironiques, désignent une utilisation particulière des guillemets pour indiquer que le terme ou l’expression mis en exergue n’a pas sa signification littérale ou habituelle et n’est pas nécessairement cité d’une autre source. Les guillemets d’ironie marquent la distance, l’ironie, le mépris que l’auteur veut montrer vis-à-vis de ce qu’il cite. Ils ont un pouvoir de distanciation et indiquent les réserves de l’auteur par rapport à un mot ou à une expression. Leur nom anglais est scare quotes.
+Le linguiste Jacques Drillon écrit : « Les guillemets ont deux fonctions principales : on les emploie pour citer, mais on les emploie aussi pour se désolidariser de ce qu’on dit, pour ajouter une distance, une nuance d’ironie ou d’étrangeté. »
+Les guillemets peuvent servir à mettre en valeur le ou les mots isolés, dans un but (fréquemment poursuivi dans la langue actuelle) de dérision, d’ironie ou de mise en doute de la véracité de l’idée ou du fait énoncé.
+Pour lever l’ambiguïté qui en résulte, il est courant dans la presse d’employer comme guillemets d’ironie un type particulier de guillemets, appelés en typographie française les guillemets courbes appariés ou guillemets anglais : U+201C “ guillemet-virgule double tourné  et U+201D ” guillemet-virgule double .
+Les exemples suivants sont tirés d’ouvrages imprimés, issus d’une tradition typographique qui considère les guillemets-virgules comme “étrangers” et n’utilise par conséquent que les guillemets-chevrons, laissant chaque fois au lecteur le soin de décrypter si par exemple, l’auteur cite sa source pour la critiquer avec les expressions d’origine, ou s’il critique sa source en utilisant ses propres mots, comme dans cet exemple de Michel Onfray :
+
+« Freud a voulu bâtir une « science », et il n’y est pas parvenu ; il a voulu « prouver » que l’inconscient avait ses lois, sa logique intrinsèque, ses protocoles expérimentaux — mais, hélas, il a un peu (beaucoup ?) menti pour se parer des emblèmes de la scientificité. »
+
+Autre exemple, plus ancien, que l’on doit à Victor Klemperer :
+
+« Lorsque, pendant la Première Guerre mondiale, les Allemands se vantaient de leur culture supérieure et qu’ils regardaient de haut la civilisation occidentale comme s’il se fût agi d’une conquête bien superficielle, de leur côté, les Français n’omettaient jamais les guillemets ironiques lorsqu’ils évoquaient la « culture allemande ». »
+
+Dans le curieux exemple suivant, Vladimir Nabokov suggère que le mot réalisme n’a pas de signification littérale ou habituelle définie, mais qu’une signification subjective et relative au contexte dans lequel il est employé, que chaque lecteur déterminera à sa manière ; on peut aussi voir dans les guillemets qui entourent le mot réalisme une référence au coconstructivisme d'Edgar Morin :
+
+« La recherche des ingrédients locaux propres à assaisonner d’un brin de « réalisme » (c’est là un de ces mots qui n’ont de sens qu’entre guillemets) la recette de l’imagination personnelle s’avéra une tâche beaucoup plus pénible, à cinquante ans, qu’elle ne l’avait été pendant ma jeunesse européenne, quand l’automatisme de ma réceptivité et de ma mémoire était à son apogée. »
+
+
+=== Répétition ===
+Le signe double prime ‹ ″ › ou certains guillemets fermants (guillemet français fermant ‹ » ›, guillemet anglais double fermant ‹ ” ›, guillemet droit ‹ " ›) sont utilisés seuls pour ne pas répéter une entrée déjà écrite à la ligne précédente dans une table de données. Il est utilisé à chaque ligne où l’entrée est censée être répétée,.
+Par exemple
+
+Dans cet exemple, la seconde ligne est lue « Dupont Marie 9 mars 1825 » et la troisième « Dupuis Michel 5 mars 1825 ».
+En comptabilité, il peut y avoir confusion étant donné les usages différents en francophonie. En France, le guillemet fermant ‹ » › est égal au zéro et marque l’absence, la répétition étant indiquée à l’aide du tiret ‹ — ›. Au Canada, le guillemet fermant ‹ » › indique la répétition tandis que le tiret ‹ — › marque l’absence.
+
+
+== Autres langues et autres pays ==
+
+
+=== En anglais ===
+Les anglophones utilisent les guillemets anglais :
+
+doubles (double quote) : “…” ;
+simples (single quote) : ‘…’.L'usage de la version double ou simple dépend du pays. Au Royaume-Uni, en Australie et en Nouvelle-Zélande, on préfère utiliser les guillemets simples au premier niveau de citation et les doubles pour les citations enchâssées : (‘...“...”...’)
+L'usage aux États-Unis et au Canada est inverse : d'abord les guillemets doubles, puis les simples (“...‘...’...”).
+De plus, contrairement à l'usage britannique et à celui des langues européennes, l'anglais américain et l'anglais canadien mettent toujours les signes de ponctuation à l'intérieur des guillemets :
+
+Anglais nord-américain : The woman asked them to “be quiet.”
+Anglais britannique : The woman asked them to ‘be quiet’.
+
+
+=== En portugais ===
+Au Portugal, on emploie les guillemets angulaires, soit en chevrons, comme on le fait en français. Pour les deuxièmes et troisièmes niveau de citation, on utilise les guillemets courbes (aspas altas) doubles, puis simples :
+
+E estava escrito «Alguém perguntou “Quem foi que gritou ‘Meu Deus!’?”.» na folha de papel.Au Brésil, on utilise les guillemets courbes doubles au premier niveau, courbes simples au deuxième niveau[réf. nécessaire].
+
+E estava escrito “Alguém perguntou ‘Quem foi que gritou Meu Deus!?’.” na folha de papel.
+
+
+=== En basque ===
+En basque, les guillemets (komatxoak, « petites virgules » ou aipu-markak « marques de citation ») sont soit angulaires (komatxo frantsesak, c'est-à-dire, « guillemets français »), soit courbes (komatxo bikoitzak, « guillemets doubles »), soit simples (komatxo bakunak ou komatxo ingelesak, « guillemets anglais »), c'est un choix personnel :
+
+'Honela dio Mitxelenak: «inoiz batera bagaitez, bada, huskeriak baino zerbait gehiago galduko du gure hizkuntzak».
+"Ez zioat inori esango", esan zion bere buruari.On n'insère pas d'espace entre les guillemets et le texte qu'ils incadrent. Cependant, la tendance est à employer plutôt l'italique.
+
+
+=== En espagnol ===
+Les guillemets français (comillas latinas ou comillas españolas) sont généralement préférés, les guillemets anglais doubles (comillas inglesas) peuvent être employés au deuxième niveau et les guillemets anglais simples (comillas simples ou comillas sencillas) au troisième niveau si nécessaire. L’usage des guillemets anglais au premier niveau est déconseillé, mais est préféré par certains éditeurs, par exemple dans le journal El País utilisant les guillemets anglais doubles. Cependant, on n’insère pas d’espace entre les guillemets et le texte qu’ils encadrent ; on écrira ainsi «España».
+
+
+=== En espéranto ===
+On utilise “ comme guillemet ouvrant et ” comme guillemet fermant, sans espace insécable.
+
+
+=== En italien ===
+En italien, on préfère les «guillemets français» (sans espace) au premier niveau et les “guillemets anglais” au deuxième niveau. Cependant, certains éditeurs utilisent les deux formes avec une signification différente : les «guillemets français» sont employés pour les discours rapportés et les dialogues, tandis que les “guillemets anglais” sont utilisés pour mettre en relief des termes.
+
+
+=== En allemand, danois, bulgare, slovène, tchèque, croate et géorgien ===
+En allemand (sauf en Suisse et au Liechtenstein), danois, bulgare, slovène, tchèque, slovaque, croate et géorgien on utilise des guillemets courbes dont les guillemets ouvrants sont en bas et les fermants en haut.
+
+soit „ comme guillemet ouvrant et “ comme guillemet fermant.Au second rang, ces guillemets s’utilisent sous forme simple :
+
+soit ‚ comme guillemet ouvrant et ‘ comme guillemet fermant.Le premier, qui ressemble à une virgule, n’en est pas une : U+201A ‚ guillemet-virgule inférieur .
+Une autre forme moins utilisée (jamais utilisée en tchèque, slovaque et bulgare) est celle des guillemets à chevrons mais inversés par rapport à l'usage français :
+
+soit » comme guillemet ouvrant et « comme guillemet fermant.Au second rang, ces guillemets s’utilisent sous forme simple :
+
+soit › comme guillemet ouvrant et ‹ comme guillemet fermant.
+
+
+=== En pandunia ===
+Pour aider à la frappe de cette langue internationale, quelle que soit la disposition de clavier utilisée, les guillemets droits doubles " sont conseillés en ouvrant et fermant.
+
+
+=== En polonais et hongrois ===
+Les Polonais et Hongrois utilisent une autre forme de guillemets fermants que les Tchèques et Bulgares.
+
+soit „ comme guillemet ouvrant et ” comme guillemet fermant.
+
+
+=== En Suisse, au Liechtenstein et en Norvège ===
+En Suisse (pour les quatre langues nationales) au Liechtenstein et aussi en Norvège, on utilise les guillemets français, mais sans espace ou avec une espace fine entre les guillemets et la citation
+
+soit «Schweiz», «Suisse», «Svizzera», «Svizra», «Liechtenstein».
+
+
+=== En finnois et en suédois ===
+En finnois et en suédois, on utilise un guillemet arrondi élevé (guillemet anglais fermant), à la fois comme guillemet ouvrant et fermant. Dans une citation de deuxième niveau, on utilise la version simple – semblables à des apostrophes – à la fois comme guillemets ouvrants et fermants. L'usage des guillemets à chevrons » et « a été commun mais n'est plus privilégié.
+Exemple en finnois :
+
+”Hän sanoi: ’Sisään!’ ja me menimme taloon.”
+
+
+=== En russe, ukrainien et biélorusse ===
+En russe, et dans les langues apparentées, on utilise des «guillemets français» (mais sans espace) au premier niveau, et des „guillemets allemands“ au deuxième niveau.
+
+
+=== En chinois et en japonais ===
+Il existe différents types de guillemets selon le mode d’écriture. En japonais, que ce soit dans le cas de l’écriture horizontale ou verticale, on utilise principalement 「 comme guillemet ouvrant et 」comme guillemet fermant, que ce soit pour les dialogues ou pour marquer certains mots. Les Japonais utilisent des formes évidées 『 et 』 pour citer le titre d’un ouvrage.
+Pour obtenir le même effet, les Chinois possèdent des guillemets à la française 《 et 》 (bien qu’occasionnellement les Japonais s’en servent aussi). Les guillemets anglais servent de façon très occasionnelle. En écriture verticale, ces guillemets subissent une rotation (d’un quart de tour dans le sens horaire) pour des raisons évidentes d’esthétisme. En chinois, les noms de lois et de déclarations sont toujours accompagnés de guillemets.
+Les guillemets ne sont généralement pas suivis ou précédés d’espace car ils occupent (comme pour tout caractère sino-japonais) un cadratin, ce qui simule la présence d’une petite espace (les caractères sino-japonais ne sont pas non plus séparés par des espaces autres que virgules et points).
+
+
+=== En néerlandais ===
+Il n’y a pas de règles officielles pour l’usage et la forme des guillemets en néerlandais. Plusieurs éditeurs ont des règles spécifiques selon leurs codes typographiques.
+Dans la pratique, à part les guillemets dactylographiques,,, :
+
+les guillemets doubles anglais sont le plus souvent utilisés, avec “ comme guillemet ouvrant et ” comme guillemet fermant ;
+cependant, traditionnellement et encore souvent, le „ comme guillemet ouvrant et ” comme guillemet fermant sont aussi utilisés ;
+les guillemets simples anglais sont aussi souvent utilisés (en particulier pour de simples mots plutôt que des phrases, ou comme guillemets imbriqués), avec ‘ comme guillemet ouvrant et ’ comme guillemet fermant ;
+les guillemets français  (« et ») sont parfois aussi utilisés mais déconseillés par certains guides orthographiques.
+
+
+=== En zapotèque de Güilá ===
+Dans l’orthographe du zapotèque de Güilá, le guillemet simple, c’est-à-dire le chevron fermant, est utilisé pour noter les voyelles murmurées : ‹ a›, e›, i›, o›, u› ›.
+
+
+== Guillemets en informatique ==
+
+
+=== Chaînes de caractères ===
+Les guillemets droits, simples ou doubles, sont fréquemment utilisés en informatique pour délimiter les chaînes de caractères, ou les caractères seuls.
+Exemples
+
+'0123456789'
+"" (chaîne vide)
+'' (chaîne vide)
+'A' (caractère A)Comme il n’est pas possible d’imbriquer différents niveaux de guillemets dans une chaîne de caractères, certains langages de programmation (JavaScript, Ruby…) permettent d’utiliser des apostrophes, comme ceci
+
+'Le texte suivant est "entre guillemets" dans une chaîne délimitée par des apostrophes'
+"Ici l'on a placé une apostrophe dans une chaîne délimitée par des guillemets"Et tous les langages comportent un moyen de signaler au processeur qu’une apostrophe ou un guillemet sont contenus dans la chaîne de caractères, et ne la terminent pas. En SQL et en Pascal, on redouble l’apostrophe à inclure
+
+'Ah, l''écriture informatique !'Dans le format CSV, on redouble de la même manière les guillemets droits
+
+"Le code est ainsi truffé de ""pattes de mouche"" difficiles à lire."Dans la plupart des autres langages, on « échappe » apostrophes ou guillemets en les faisant précéder d’une barre oblique inversée
+
+'Ah, l\'écriture informatique !'
+"Le code est ainsi truffé de \"pattes de mouche\" difficiles à lire."En langage Python, il est possible d’utiliser les triples apostrophes ou triples guillemets pour délimiter des chaînes de caractères contenant des apostrophes, des guillemets ou des retours à la ligne
+
+'''L'exemple suivant est "entre guillemets"'''
+"""L'exemple suivant est 'entre apostrophes'"""
+
+
+=== Codage ===
+Notes
+
+Les codes Unicode inférieurs à 128 sont identiques aux codes ASCII, Windows-1252 et MacRoman.
+Les codes Unicode inférieurs à 256 sont identiques aux codes ISO-8859-1.
+Les préfixes 0x et U+ sont suivis de chiffres hexadécimaux.
+Les entités numériques HTML permettent de noter tous les caractères en utilisant les codes Unicode. On utilise le préfixe &# pour les chiffres décimaux (&#187;) et &#x pour les chiffres hexadécimaux (&#xBB;).
+Les lettres Oo dans le tableau servent à situer les caractères par rapport à la ligne d’écriture.Rappel, autres symboles proches en aspect
+
+
+== Notes et références ==
+
+
+=== Bibliographie ===
+« Remplacer les guillemets typographiques par des guillemets droits et vice versa » (consulté le 27 mai 2017).
+[Lexique 2002] Lexique des règles typographiques en usage à l’Imprimerie nationale, Imprimerie nationale, 2002 (réimpr. 2007) (ISBN 978-2-7433-0482-9).
+(pt) Magnus Bergström et Neves Reis, Prontuário Ortográfico e Guia da Língua Portuguesa, Lisboa, Casa das Letras, 2011, 50e éd. (ISBN 978-972-46-2003-9).
+Bureau de la traduction, Le guide du rédacteur, Travaux publics et Services gouvernementaux Canada, 2014 (lire en ligne).
+Nina Catach, « La structure de l’orthographe française », La Recherche, vol. 4, no 39,‎ 1973, p. 949-956.
+Jean-Pierre Clément, Dictionnaire typographique : petit guide du tapeur à l’usage de ceux qui tapent, saisissent ou composent textes, thèses ou mémoires à l’aide d’un micro-ordinateur, Paris, Ellipses, 2005 (ISBN 2-7298-1998-3).
+Doris da Cunha et Marc Arabyan, « La ponctuation du discours direct des origines à nos jours », l’Information grammaticale, no 102,‎ juin 2004, p. 35‒45.
+Paul Desalmand, Guide pratique de l’écrivain, Paris, Leduc.S Éditions, 2004 (présentation en ligne).
+(es) « comillas », sur Diccionario panhispánico de dudas (consulté le 23 juin 2015).
+Albert Doppagne, La bonne ponctuation, De Boeck Université, 1998, 102 p. (ISBN 2-8011-1197-X, lire en ligne).
+Jacques Drillon, Traité de la ponctuation française, Gallimard, 1991 (ISBN 978-2-07-072198-6).
+Jacques Drillon, « Des guillemets et de l’italique », sur Le nouvel Observateur, 15 décembre 2008.
+Guide du typographe : règles et grammaire typographiques pour la préparation, la saisie, la mise en page des textes et leur correction, Mont-sur-Lausanne, Groupe de Lausanne de l'association suisse des typographes (AST), 2015 (ISBN 978-2-9701032-0-2).
+(es) José Martínez de Sousa, Manual de estilo de la lengua española, Ediciones Trea, 2001, 2e éd. (1re éd. 2000).
+Jean Méron, En question  : la grammaire typographique (les guillemets), 14 juin 1999 (lire en ligne).
+Yves Perrousseaux, Manuel de typographie française élémentaire, Atelier Perrousseaux, 2002, 128 p. (ISBN 2-911220-00-5).
+Bernard Tanguay, L’art de ponctuer, Québec Amérique, 2006, 3e éd. (ISBN 978-2-7644-0474-4, présentation en ligne).
+Pedro Uribe Echeverria, « Deux-points et guillemets: le «procès-verbal» », L’Express,‎ 7 août 2009 (lire en ligne).
+Syndicat national des cadres et maîtrises du livre, Code typographique, Paris, 1971.
+Aurel Ramat, Grammaire typographique, Montréal, 1982.
+
+
+== Voir aussi ==
+Geste des guillemets
+
+
+=== Liens externes ===
+
+Histoire des guillemets, avant et après l'invention de l'imprimerie
+Section consacrée aux guillemets sur le site Orthotypographie, de Jean-Pierre Lacroux, également en version téléchargeable (2 fichiers PDF)
+ Portail de l’écriture   Portail de la typographie

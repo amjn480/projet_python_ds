@@ -1,0 +1,105 @@
+Wikipedia in italiano è l'edizione in lingua italiana dell'enciclopedia on line Wikipedia. Tale edizione, che nacque ufficialmente l'11 maggio 2001, è la nona per numero di voci (dopo la Wikipedia in spagnolo e prima di quella in arabo egiziano), con 1 837 300 voci al 28 novembre 2023.L'edizione italiana non è una traduzione di un'altra versione linguistica: la maggior parte delle voci, infatti, è stata appositamente scritta da utenti italofoni, sebbene varie voci siano state iniziate o ampliate traducendo quelle esistenti in altre lingue.
+Per quanto a volte sia comparsa nei media, la dicitura "Wikipedia Italia" è errata e priva di significato, dato che le oltre 300 edizioni attive di Wikipedia sono organizzate su base linguistica e non nazionale (e una lingua può essere parlata in più di una nazione). Non trattandosi di una "Wikipedia dell'Italia", ma di una Wikipedia scritta in lingua italiana, l'espressione "Wikipedia italiana" risulta anch'essa non precisa. "Wikipedia in italiano" è pertanto la dicitura più adatta. Esistono numerose edizioni di Wikipedia nelle varie lingue locali parlate nell'ambito del territorio italiano.
+Si stima che i progetti in italiano della Wikimedia Foundation, il principale dei quali è Wikipedia, abbiano raggiunto nel mese di gennaio del 2009 8 839 000 navigatori italiani (circa il 40% del totale). A gennaio 2020 risultava il quinto sito più visitato in Italia.
+
+
+== Storia ==
+
+L'idea di sviluppare edizioni in lingue diverse dall'inglese è da ricondurre a Jimmy Wales, che la propose nel marzo del 2001.Le prime di queste, tra le quali quella in lingua italiana, furono aggiunte nel maggio dello stesso anno; inizialmente l'indirizzo era italian.wikipedia.com, mentre la notazione ISO 639, it.wikipedia.com, fu attivata alcuni giorni dopo.
+ Successivamente, il sito di Wikipedia migrò dal dominio wikipedia.com a wikipedia.org.
+Le prime pagine erano semplicemente una copia, ancora in lingua inglese, delle pagine già esistenti su Wikipedia. Solo dall'11 giugno 2001 si cominciò ad operare effettivamente sulle voci.
+Una delle prime pagine modificate fu quella che sollecitava ad aiutare Nupedia con traduzioni e modifiche. I primi lemmi furono dedicati alla comunicazione, a Dante Alighieri, a Petrarca, a Manzoni e ad altri scrittori. Per lungo tempo la lista delle voci restò ferma sui venti-trenta titoli, senza che se ne aggiungessero di nuovi, ma con qualche sparsa modifica su queste o qualche traduzione per aiutare Nupedia ed en.wikipedia.
+Il gruppo degli utenti, per diverso tempo, non raggiunse la decina e si verificava qualche occasionale modifica da IP di passaggio. Il progetto principale restava la Wikipedia in inglese, ancora in parte in fase di lancio, ma già ricca di discussioni, approfondimenti, proposte e pagine.
+Per it.wiki (lo pseudonimo nacque subito) le prime sfide furono riuscire a tradurre tutte le pagine, attirare utenti e a consolidare l'esoscheletro (cioè l'insieme dei template, della grafica, delle discussioni, e così via). Con la cessazione di Nupedia il progetto si risollevò leggermente e verso il 2003 affluirono i primi veri e propri utenti. Con lo sviluppo degli amministratori e della politica di semiprotezione, l'edizione in italiano divenne più sicura e si iniziarono a creare nuove pagine oltre a quelle già in traduzione.
+Dall'inizio del 2004 la Wikipedia in lingua italiana conobbe un notevole incremento, sia come utenti, sia come quantità di voci.
+
+Nell'agosto del 2005 superò le edizioni in lingua spagnola e portoghese, diventando l'ottava edizione per numero di voci. La ragione fondamentale del rapido salto da 56 000 a 64 000 voci complessive fu un bot automatizzato che ne creò oltre 8 000 sui comuni spagnoli nell'ambito del "Progetto:Comuni spagnoli". Grazie all'aiuto di alcuni bot semiautomatici, la comunità riesce a creare in due settimane le voci enciclopediche di 8 000 comuni italiani, venendo imitata da altre versioni linguistiche del progetto.L'8 settembre 2005 superò la Wikipedia in olandese e il giorno dopo superò le 100 000 voci. L'11 settembre superò la Wikipedia in svedese, diventando la quinta edizione per numero di voci. La crescita fu dovuta spesso all'utilizzo di script automatici, impiegati ad esempio per la creazione delle oltre 35 000 sui comuni francesi, nell'ambito del "Progetto:Comuni della Francia".Nel giugno 2006 venne sviluppato, autonomamente da qualsiasi altro progetto Wikipedia nel mondo, il template:Bio, uno strumento avanzato per l'indicizzazione dei dati biografici e l'immissione automatica di incipit e categorie nelle voci. Gradualmente venne aggiunto a circa 200 000 voci, ottenendo anche liste automatiche di persone per nazionalità, per attività, per data di nascita e morte, e altre caratteristiche.
+Il 23 settembre 2006 it.wiki venne superata dalla edizione in lingua polacca. Il 16 ottobre 2006 erano registrati 100 000 utenti (di cui 90 amministratori).
+In seguito a decisione della Wikimedia Foundation, nel 2007 anche su it.wiki fu adottata un'Exemption Doctrine Policy, ovvero un documento che definisce i criteri di ammissibilità dei documenti multimediali che non rientrano nella definizione di "opera culturale libera". Il 21 maggio dell'anno stesso la Wikipedia in italiano oltrepassa le 300 000 voci.
+Il 22 gennaio 2008 furono superate le 400 000 voci. A febbraio del 2008 fu rinnovata per la terza volta la pagina principale, e il numero di utenti registrati raggiunse i 250 000. Il 3 ottobre dello stesso anno, l'edizione in italiano superò le 500 000 voci.
+Il 28 giugno 2009, Wikipedia in italiano superò i 400 000 utenti registrati e due mesi dopo, il 28 agosto, raggiunse le 600 000 voci. Il 17 dicembre dello stesso anno, it.wiki superò la Wikipedia in giapponese.
+Il 13 aprile 2010 it.wiki arrivò a 500 000 utenti registrati. Il 22 giugno 2010 fu oltrepassata la soglia delle 700 000 pagine e circa tre mesi dopo, il 28 settembre, it.wiki superò la Wikipedia in polacco per numero di voci anche se poi successivamente vi furono reciproci scambi di "posizione".
+L'11 maggio 2011, alle ore 19:48 ed esattamente nel giorno in cui compì il primo decennio, Wikipedia in italiano superò le 800 000 voci, e il giorno seguente sorpassò nuovamente la Wikipedia in polacco.
+Autonomamente da qualsiasi altro progetto Wikipedia nel mondo e come primo caso, dalle 19:00 (ora di Greenwich) del 4 ottobre 2011, per tutta la giornata del 5, fino alle 13:00 del 6, Wikipedia in lingua italiana è stata oscurata nella totalità, come forma di protesta contro il comma 29 contenuto nel disegno di legge in materia di intercettazioni, in fase di approvazione dalla Camera dei deputati della Repubblica Italiana. La comunità ha ritenuto che se tale comma fosse stato approvato avrebbe minato alla base la neutralità di Wikipedia stessa: le leggi italiane si applicherebbero all'operato dei cittadini domiciliati in Italia, dovunque si trovino i server di Wikipedia, e i cittadini italiani costituiscono la grandissima maggioranza dei contributori di Wikipedia in lingua italiana. L'iniziativa ha ricevuto notevole copertura mediatica sia italiana che internazionale. Durante questo lasso di tempo ogni pagina dell'enciclopedia (eccetto la versione "mobile") reindirizzava a una pagina contenente un comunicato che spiegava le ragioni della protesta. Questa pagina ha ricevuto più di 8,1 milioni di visite nel giorno del 5 ottobre, raggiungendo, di fatto, il primato della pagina più visitata in un solo giorno nella storia di it.wiki, vicino alla soglia dell'intero traffico prodotto quotidianamente dalla Wikipedia in lingua italiana. Col rinvio dei tempi di discussione e di approvazione del testo di legge alla camera l'oscuramento è stato rimosso, e le pagine sono tornate visibili. Tuttavia fino alla mattina del 14 ottobre rimase visibile un banner che spiegava la posizione della comunità rispetto al testo del comma contenuto nella proposta di legge, banner rimosso in seguito al rinvio, a data imprecisata, della discussione alla Camera dei deputati.
+Il 3 gennaio 2012 la Wikipedia in italiano ha raggiunto cinquanta milioni (50 000 000) di modifiche totali, divenendo la quinta edizione in ordine di tempo a raggiungere questo traguardo, dopo quella inglese, tedesca, francese e spagnola, mentre il 12 marzo dello stesso anno ha superato la soglia delle 900 000 voci totali.
+Il 22 gennaio 2013, alle ore 04:50, la Wikipedia in italiano raggiunse 1 000 000 voci totali.
+Il 3 luglio 2018 è stata la prima edizione di Wikipedia a decidere l'oscuramento in segno di protesta contro la proposta di direttiva sul diritto d'autore nel mercato unico digitale, seguita poi da alcune edizioni in altre lingue. Protesta analoga si è svolta il 25 marzo 2019, giorno antecedente alla votazione definitiva sulla proposta di direttiva.
+
+
+== Cronologia recente ==
+12 marzo 2012 – supera 900 000 voci ed è la quinta edizione per numero di voci
+23 gennaio 2013 – supera 1 000 000 di voci
+19 giugno 2013 – viene superata dall'edizione in svedese e diventa la sesta edizione per numero di voci
+6 agosto 2014 – viene superata dall'edizione in russo e diventa la settima edizione per numero di voci
+31 agosto 2014 – viene superata dall'edizione in cebuano e diventa l'ottava edizione per numero di voci
+22 settembre 2014 – viene superata dall'edizione in waray-waray e diventa la nona edizione per numero di voci
+16 luglio 2015 – supera l'edizione in cebuano e ritorna a essere l'ottava edizione per numero di voci
+6 settembre 2015 – viene nuovamente superata dall'edizione in cebuano e ritorna a essere la nona edizione per numero di voci
+14 marzo 2016 – supera l'edizione in waray-waray e ritorna a essere l'ottava edizione per numero di voci
+15 agosto 2018 – viene superata dall'edizione in spagnolo e ritorna a essere la nona edizione per numero di voci
+1º febbraio 2019 – supera 1 500 000 di voci
+16 febbraio 2019 – risupera l'edizione in spagnolo e ritorna a essere l'ottava edizione per numero di voci
+7 ottobre 2021 – viene nuovamente superata dall'edizione in spagnolo e ritorna a essere la nona edizione per numero di voci
+
+
+== Statistiche ==
+Al 28 novembre 2023 l'edizione di Wikipedia in italiano conta 1 837 300 voci (con una crescita di oltre 5 000 voci al mese), 7 859 494 pagine, 2 455 153 utenti registrati di cui 7 472 attivi, 123 amministratori e una "profondità" (depth) di 186.
+È la nona Wikipedia per numero di voci e, come "profondità", è la 13ª tra quelle con più di 100 000 voci (al 23 gennaio 2023).
+
+
+== Riconoscimenti ==
+Nel corso del tempo it.wiki si è guadagnata numerosi riconoscimenti e citazioni da parte di giornali famosi e da parte di numerosissimi siti e applicazioni internet, soprattutto per voci di qualità, per la grafica e per la diffusione assai semplice dell'informazione.
+Wikipedia in italiano ha ricevuto tre riconoscimenti nell'ambito del Premio WWW, organizzato da Il Sole 24 Ore; nell'edizione 2005 due premi, come miglior sito nella categoria Istruzione e Lavoro il premio speciale Internet Educational assegnato in collaborazione con il Ministero per l'Innovazione e le Tecnologie; nell'edizione del 2007 nella categoria Portali, siti di informazione & community.
+Nel 2009 l'edizione in italiano di Wikipedia fu insignita del Premiolino, il più antico e prestigioso premio giornalistico italiano, «per aver messo a disposizione di tutti una grande enciclopedia aperta, democratica, incessantemente perfezionata in tempo reale (come dimostra ad esempio la scheda di Giorgio Napolitano rifinita dal suo stesso personale) fino a diventare uno strumento utilissimo per chi scrive».Il 9 novembre 2019 it.wiki è stata premiata al Teatro Morlacchi di Perugia come miglior sito divulgativo con il Macchianera Internet Awards, il riconoscimento conferito dall'omonimo blog a seguito di una votazione online ai migliori siti e personaggi italiani presenti su Internet.
+
+
+== Pubblicazione su altri media ==
+Dall'edizione italiana di Wikipedia è stata tratta una prima e unica versione su DVD, pubblicata nel settembre del 2007 per sistemi operativi Microsoft Windows e macOS, che conteneva 300 000 voci. Il DVD è stato sviluppato da Mediaport e distribuito dall'editore EXA Media col marchio di Wikipedia concesso in licenza da Wikimedia Italia per conto della Wikimedia Foundation (sua detentrice). Per ogni copia venduta sono stati corrisposti 0,50 € a Wikimedia Italia e altrettanti a Wikimedia Foundation; l'editore dichiara di avere venduto 42 000 copie. Successivamente non sono più state realizzate altre versioni su DVD o supporto removibile.
+Wikipedia in italiano è stata disponibile, dalla metà del 2006 al 2013, in una versione online per telefoni cellulari e PDA accessibile tramite WAP, con il nome di Wapedia. Sono invece disponibili una versione mobile del sito (it.m.wikipedia.org) e un'app per Android e iOS.
+È possibile accedere ai contenuti di Wikipedia offline usando Kiwix.
+
+
+== Caratteristiche ==
+Alcune caratteristiche relative ai meccanismi decisionali dell'edizione italiana possono differire dalle altre edizioni.
+
+A differenza delle versioni in lingua inglese, francese e tedesca, non esiste un comitato di arbitraggio.
+Gli amministratori (che al 28 novembre 2023 sono 122) vengono eletti tramite votazione; affinché l'elezione sia considerata valida, il candidato deve essere in possesso di determinati requisiti. Inoltre, è richiesto il superamento di un doppio quorum: il primo riguarda il numero minimo di voti favorevoli (ricalcolato a ogni elezione); il secondo richiede che i voti favorevoli siano almeno i 4/5 (80%) dei voti complessivi. Un meccanismo analogo è previsto anche per l'elezione di burocrati e check user.
+Gli amministratori sono sottoposti a riconferma dopo un anno dalla loro elezione o dalla loro ultima procedura di riconferma. La modalità utilizzata è quella del silenzio-assenso per la durata di una settimana. Qualora 15 utenti qualificati si esprimano però contro la riconferma, motivando il loro voto contrario, si avvia una votazione di riconferma della durata di due settimane. L'amministratore è riconfermato se i 2/3 (67%) dei voti complessivi sono favorevoli alla riconferma.
+I check user possono essere sottoposti a riconferma dopo un anno dalla loro elezione o dalla loro ultima procedura di riconferma, qualora intendano continuare a ricoprire la carica. Anche qui il quorum è dei 2/3, ossia quando il 67% dei voti complessivi è favorevole alla riconferma.
+Gli amministratori inattivi per più di 6 mesi o i check user inattivi per più di due mesi decadono automaticamente dalla loro carica.
+
+
+== Studi e ricerche su Wikipedia in italiano ==
+Esiste una vasta bibliografia scientifica sul "fenomeno Wikipedia" e in particolare sulla Wikipedia in inglese. Sulla Wikipedia in italiano sono disponibili:
+
+ Sara Monaci, La produzione di contenuti di qualità in un’organizzazione on line per la gestione collettiva delle conoscenze: il caso it.wikipedia.org (abstract), in Quaderni di sociologia, LIII, n. 51/200, Torino, Rosenberg & Sellier, 2009,  pp. 111-128. URL consultato il 21 giugno 2014.
+(EN) Sara Monaci, Quality assessment process in Wikipedia’s Vetrina: the role of the community’s policies and rules, in Observatorio, vol. 3, n. 1, 2009,  pp. 148-161. URL consultato il 21 giugno 2014.
+ Miguel Gotor, L'isola di Wikipedia. Una fonte elettronica, in Sergio Luzzatto (a cura di), Prima lezione di metodo storico, Roma-Bari, Laterza, 2010, ISBN 978-88-581-2260-0.
+ Elvis Mazzoni; Roberto Reggi, Effetto Lucifero Su Wikipedia. Collaborazione e conflitto nella costruzione del sapere collettivo della Wikipedia in italiano, su scribd.com, 16 luglio 2012. URL consultato il 20 giugno 2014.
+ Emanuele Mastrangelo e Enrico Petrucci, Wikipedia. L’enciclopedia libera e l’egemonia dell’informazione, Milano, Bietti, 2014, ISBN 978-88-8248-299-2.
+(EN) “Nemo” (Wikimedia Meta-Wiki); Aaron Halfaker (Wikimedia Foundation); “Alexmar983” (Italian Wikipedia); “Incola” (Italian Wikipedia); “Junkie.dolphin” (CNetS), Research: The sudden decline of Italian Wikipedia, su meta.wikimedia.org, Wikimedia, maggio 2014. URL consultato il 21 giugno 2014.
+ Roberto Bianchi e Gilda Zazzara, La storia formattata. Wikipedia tra creazione, uso e consumo, in Passato e Presente, n. 100, Milano, Franco Angeli, 2017,  pp. 131-155, DOI:10.3280/PASS2017-100008.
+
+
+== Note ==
+
+
+== Bibliografia ==
+Cristina Ortolani, Wikipedia. L'enciclopedia sul Web, IALweb, 2007. ISBN 88-89563-22-2.
+Luciano Paccagnella, Open access. Conoscenza aperta e società dell'informazione, Il Mulino, 2010. ISBN 978-88-15-13670-1.
+ Utente:Gianfranco, Qualche nota sulla nascita di it.wiki, su en.wikipedia.org, Wikipedia in inglese, 7 settembre 2005. URL consultato il 10 maggio 2008. In questo testo la storia di it.wiki è in parte tratta dalla testimonianza dell'utente "Gianfranco", rilasciata con licenza CC BY-SA.
+
+
+== Voci correlate ==
+Storia di Wikipedia
+Wikipedia
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Wikipedia in italiano Wikinotizie contiene l'articolo Wikipedia chiusa per protesta contro il DDL Intercettazioni, 4 ottobre 2011 Wikinotizie contiene l'articolo Wikipedia in italiano raggiunge il milione di voci, 22 gennaio 2013
+
+
+== Collegamenti esterni ==
+
+ Sito ufficiale, su it.wikipedia.org.

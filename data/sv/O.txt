@@ -1,0 +1,31 @@
+O [uː]  är den femtonde bokstaven i det moderna latinska alfabetet. Bokstaveringsnamnet är Olle.
+
+
+== Betydelser ==
+
+
+=== Versalt O ===
+Länsbokstav för Västra Götalands län (tidigare för Göteborgs och Bohus län).
+Kemiskt tecken för grundämnet syre. Se även periodiska systemet.
+Inom bibliotekens klassifikationssystem SAB är O signum för samhälle, se SAB:O.
+Förkortning för väderstrecket Ost.
+
+
+== Historia ==
+Till det latinska alfabetet kom bokstaven O från den grekiska bokstaven omikron, som i sin tur härstammar från den feniciska bokstaven "ayin", vilken ursprungligen föreställde ett öga.
+
+
+== Datateknik ==
+I datorer lagras O samt förkomponerade bokstäver med O som bas och vissa andra varianter av O med följande kodpunkter:
+
+I ASCII-baserade kodningar lagras O med värdet 0x4F (hexadecimalt) och o med värdet 0x6F (hexadecimalt).
+I EBCDIC-baserade kodningar lagras O med värdet 0xD6 (hexadecimalt) och o med värdet 0x96 (hexadecimalt).
+Övriga varianter av O lagras med olika värden beroende på vilken kodning som används, om de alls kan representeras.
+
+
+== Referenser ==
+
+
+== Externa länkar ==
+
+ Wikimedia Commons har media som rör O.

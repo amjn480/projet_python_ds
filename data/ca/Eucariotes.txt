@@ -1,0 +1,34 @@
+Els eucariotes (de noms científics Eucaryotae, Eukaryotae, Eukarya o Eucarya) són, en taxonomia i histologia, el domini d'organismes cel·lulars amb nucli diferenciat, i altres orgànuls tancats dins de les membranes biològiques, contraposats així als procariotes. Els eucariotes pertanyen al tàxon Eukarya o Eukaryota.
+L'estructura que defineix l'estructura de la membrana que fa que les cèl·lules eucariotes estiguin a part de les cèl·lules procariòtiques (bacteris i Archaea) és el nucli cel·lular, el qual conté el material genètic, tancat dins l'embolcall nuclear. La presència d'un nucli dona als eucariotes el seu nom, el qual prové del grec: ευ (eu, 'ben') i κάρυον (karyon, 'nou' o 'pinyol'). Les cèl·lules eucariotes també contenen altres orgànuls amb membrana com els mitocondris o els aparells de Golgi. A més, les plantes i les algues contenen cloroplasts. Molts organismes unicel·lulars són eucariotes, com ho són els protozoa. Tots els organismes multicel·lulars són eucariotes, incloent-hi animals, plantes i fongs.
+Als organismes formats per cèl·lules eucariotes se'ls denomina eucarionts.
+Les anàlisis seqüenciadores dels ribosomes avalen la teoria que aquestes seqüències dels eucariotes, les principals en la taxonomia genètica, són més properes als arqueobacteris que no pas als bacteris i que van compartir un avantpassat comú amb els primers durant més temps que els segons. Tanmateix, altres grups de gens estan més relacionats amb els bacteris i encara d'altres semblen ser una diversificació anterior als dos altres dominis. Això es deuria a l'elevada transferència horitzontal de gens original que es va donar en el brou primitiu.
+La divisió cel·lular en els eucariotes difereix de la dels procariotes. Hi ha dos tipus de processos de divisió. En la mitosi, una cèl·lula es divideix per a produir dues cèl·lules genèticament idèntiques. En la meiosi, la qual es requereix en la reproducció sexual, una cèl·lula diploide experimenta recombinació: de cada parell de cromosomes parentals, en resulten quatre cèl·lules haploides (gamets).
+El domini Eukaryota sembla monofilètic. Els dos altres dominis, Eubacteria i Archaea, són procariotes. Els eucariotes representen una petita minoria de tots els éssers vius; fins i tot, en el cos humà hi ha 10 cops més microbis que cèl·lules humanes.
+
+
+== Organització cel·lular ==
+També es denominen eucariotes les cèl·lules que tenen el seu material hereditari fonamental (la seva informació genètica, ADN) envoltat per d'una membrana cel·lular doble, l'embolcall nuclear, que delimita un nucli cel·lular.L'alternativa a l'organització eucariòtica de la cèl·lula l'ofereix l'anomenada cèl·lula procariota. En aquestes cèl·lules, el material hereditari apareix més o menys dispers en el citoplasma. Les cèl·lules eucariotes no tenen un compartiment al voltant de la membrana plàsmica, com el que tenen les cèl·lules procariotes.
+A diferència de les cèl·lules procariotes, les eucariotes presenten un citoplasma molt compartimentat, amb orgànuls separats o interconnectats, limitats per membranes biològiques que són de la mateixa naturalesa essencial que la membrana plasmàtica. El nucli és només el més notable i característic dels compartiments en què es divideix el protoplasma, és a dir, la part activa de la cèl·lula. En el protoplasma, distingim tres components principals, a saber: la membrana plasmàtica, el nucli i el citoplasma, constituït per tota la resta. Les cèl·lules eucariotes estan dotades d'un citoesquelet complex, molt estructurat i dinàmic, format per microtúbuls i diversos filaments proteics. A més, pot haver-hi paret cel·lular, que és el típic de plantes, fongs i protoctists pluricel·lulars, o algun altre tipus de recobriment extern a la membrana.
+
+
+== Fisiologia ==
+Les cèl·lules eucariotes contenen en principi mitocondris, orgànuls derivats per endosimbiosi de certs bacteris, la qual cosa els dota de la capacitat de desenvolupar un metabolisme aerobi. Tanmateix, en alguns eucariotes del regne protoctists, els mitocondris han desaparegut secundàriament en el curs de l'evolució, en general derivant a altres orgànuls, com els hidrogenosomes.
+Alguns eucariotes realitzen la fotosíntesi, gràcies a la presència en el seu citoplasma d'orgànuls anomenats cloroplasts, els quals deriven per endosimbiosi d'eubacteris del grup denominat cianobacteris (algues blaves).
+Encara que demostren una diversitat increïble en la seua forma, comparteixen les característiques fonamentals de la seua organització cel·lular, a dalt resumides, i una gran homogeneïtat quant a la seua bioquímica (composició) i metabolisme, que contrasta amb la immensa heterogeneïtat que en aquest terreny presenten els procarionts (bacteris sensu lato).
+
+
+== Diversitat ==
+Els organismes eucariotes formen el domini Eukarya, que inclou els organismes més coneguts, repartits en quatre regnes: Animalia (animals), Plantae (plantes), Fungi (fongs) i Protista. Inclouen la gran majoria dels organismes extints morfològicament recognoscibles que estudien els paleontòlegs. Els exemples de la disparitat eucariòtica van des d'un dinoflagel·lat (un protist unicel·lular fotosintetitzador), un arbre com la sequoia, un calamar, o un xanglot de bolets (òrgans reproductius de fongs), cadascun amb cèl·lules distintes i, en el cas dels pluricel·lulars, sovint molt variades.
+
+
+== Cladograma ==
+El següent arbre filogenètic mostra les relacions entre els diferents grups d'eucariotes:
+
+
+== Vegeu també ==
+Adelfogàmia.
+
+
+== Referències ==
+
+Viccionari

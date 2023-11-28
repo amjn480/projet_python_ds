@@ -1,0 +1,425 @@
+YouTube è una piattaforma web 2.0 che consente la condivisione e visualizzazione in rete di contenuti multimediali: sul sito è possibile vedere videoclip, trailer, cortometraggi, notizie, live streaming, shorts (tradotto in italiano video brevi) e slideshow e altri contenuti come video blog, brevi video originali, video didattici e altro ancora, classificabili anche per età, con gli utenti che possono anche interagire votando, commentando, aggiungendo ai preferiti e, nei casi ove necessario, segnalando i video.
+Acquistato nell'ottobre 2006 dall'azienda statunitense Google per circa 1,65 miliardi di dollari, con l'azienda che ha sede a San Bruno in California, secondo Alexa è il secondo sito web più visitato al mondo, alle spalle solamente di Google, guadagnando entrate pubblicitarie da Google AdSense, un programma che indirizza gli annunci in base al contenuto del sito e al pubblico.
+La piattaforma, attraverso il video sharing, utilizza i tag standard di HTML5 nelle nuove versioni dei browser (Adobe Flash Video in quelle più vecchie) per visualizzare una vasta gamma di video sia da singoli utenti, sia da società dei media (CBS, BBC, Rai, Vevo) sia da comuni utenti, che offrono parte del loro materiale tramite il sito come sottoscritto nel programma di partenariato di YouTube; il partenariato, inoltre, permette agli utenti, in base ai risultati ottenuti dai video, di ottenere una ricompensa in denaro in cambio della sponsorizzazione, a partire dai 1000 iscritti sul proprio canale. Ogni attività precedente all'arrivo dei 1000 iscritti e delle 4000 ore di visualizzazioni verranno comunque conteggiate, prima di tale obiettivo non vi è monetizzazione.
+La maggioranza dei suoi video sono liberi per visualizzazione, ma ci sono eccezioni, inclusi i video caricati in modalità "premium" basati su un abbonamento solitamente mensile (con prezzo deciso dal creator, ovvero gestore del canale), noleggio film, nonché YouTube Premium.
+
+
+== Storia ==
+YouTube è stato fondato il 14 febbraio 2005 da Chad Hurley (amministratore delegato), Jawed Karim (consigliere) e Steve Chen (direttore tecnico), tre ragazzi che in passato avevano lavorato per PayPal. Il primo video caricato su YouTube è stato Me at the zoo (Io allo zoo), pubblicato da Jawed Karim, alle 20:27 del 23 aprile 2005. Il breve filmato è stato girato di fronte alla gabbia degli elefanti dello Zoo di San Diego, in California. Karim, il cui username è jawed, è stato anche il primo utente a registrarsi sul sito, il quale è anche verificato da YouTube stessa.
+Nel luglio del 2006, prendendo spunto da un annuncio aziendale a carattere informativo, l'agenzia Reuters comunica – notizia poi ripresa dagli organi di stampa on-line – che quotidianamente venivano visualizzati circa "100 milioni di video con oltre 65.000 video caricati ogni giorno".Nell'agosto del 2006, Sony ha acquisito il sito concorrente Grouper per 65 milioni di dollari; all'epoca questo evento aveva lasciato presupporre che il valore di mercato di YouTube potesse aggirarsi intorno al miliardo di dollari; tuttavia, la stima si è rivelata sottodimensionata, tanto che il 10 ottobre 2006, infatti, Google ha acquisito YouTube per 1,65 miliardi di dollari, pagati in azioni proprie. In conseguenza di ciò, la rivista Time nomina il sito web di condivisione video "Invenzione dell'anno per il 2006".A partire dall'aprile del 2006, YouTube ha iniziato un'imponente attività di cancellazione di video che violano i diritti di copyright, il cui numero si aggira intorno ai 100.000, e di sospensione degli account che hanno caricato questi filmati. Dal 14 maggio 2007 il sito è disponibile anche in italiano. Da giugno del 2011, è stata introdotta la possibilità di selezionare una licenza Creative Commons per i video pubblicati. L'autore può selezionare il tipo di licenza, tra cui la licenza CC BY per concedere ai visitatori di scaricare, riutilizzare, modificare e condividere il video senza alcuna restrizione. L'anno seguente è stato annunciato il raggiungimento di 4 milioni di video in tale licenza libera.Google ha dichiarato il 23 giugno 2017 che la piattaforma ha raggiunto il traguardo di 1 miliardo e mezzo di visitatori al mese. L'incremento di popolarità che YouTube ha avuto dalla sua fondazione gli ha permesso di diventare il secondo sito web più visitato al mondo prima di Google.
+
+
+== Descrizione ==
+YouTube fa uso della tecnologia HTML5 (Adobe Flash per i browser meno recenti) per riprodurre i suoi contenuti. Il suo scopo è quello di ospitare solamente video realizzati direttamente da chi li carica, ma spesso contiene materiale di terze parti caricato senza autorizzazione, come spettacoli televisivi e video musicali protetti dal copyright. Il rispetto dei termini di servizio del sito, che vietano il caricamento di materiale protetto da diritto d'autore se non se ne è titolari, altrimenti il video verrà bloccato se richiesto dall'autore (in generale non succede, ma in alcuni casi è prevedibile, come l'utilizzo di musica protetta su un proprio video), si basa su una verifica ex post di quanto proposto dagli utenti.
+YouTube consente l'incorporazione dei propri video all'interno di altri siti web, e si occupa anche di generare il codice HTML necessario. YouTube è accessibile tuttavia da qualsiasi dispositivo, connettendosi ad internet e web con PC, con Media Internet Tablet (M.I.T.) e con dispositivi aventi funzioni analoghe. È accessibile anche da telefono cellulare e smartphone.
+I video possono essere codificati con diversi codec; a partire dal 9 dicembre 2010, YouTube ha concesso a utenti che hanno caricato almeno un video e che non hanno infranto le Norme della Community, il caricamento illimitato, a quel tempo riservato solitamente ai partner di YouTube. A partire da novembre 2011, i caricamenti illimitati sono possibili anche fornendo un numero di cellulare valido, per motivi di sicurezza, ovvero verificare la veridicità dell'utente e motivi connessi al recupero del canale qualora fosse perso per via di un attacco hacker.Dal 9 agosto 2013, è stata introdotta una differente modalità di caricamento delle pagine. Questa, durante la riproduzione di un video, permette, cliccando sul collegamento di un altro video, di caricarlo direttamente senza abbandonare la pagina, rendendo il passaggio più fluido ed esteticamente apprezzabile, grazie anche a una sottile barra rossa nella parte superiore della pagina.
+Il miglioramento di funzionamento del portale ha spesso richiesto tempo e l'intervento di suggerimenti specifici a carattere tecnico. Uno studio del 2007, per esempio, sottolineava fra l'altro l'idea che se il bandwidth consumption, ossia il consumo della larghezza di banda, tende ad esaurire – tramite la generazione di una gran quantità di traffico –, tutta la banda a disposizione dell'host, superando la capacità del canale di trasmissione, la memorizzazione nella cache (web caching) potrebbe migliorare l'esperienza dell'utente finale, riducendo il consumo della larghezza di banda della rete ed il carico sull'infrastruttura del server principale di YouTube e migliorando il caching.
+
+
+== Politica ==
+Un grande successo mediatico è stato ottenuto da YouTube, in quanto il tradizionale dibattito tra i candidati alle primarie del Partito Democratico USA si è svolto in televisione in base a domande scelte tra quelle degli utenti di YouTube. In precedenza, RTVE e YouTube si sono alleate per dare la possibilità agli utenti di porre alcune domande ai candidati premier Zapatero e Rajoy.
+Il video amatoriale dell'uccisione di Neda Agha-Soltan inserito su YouTube nel maggio del 2009, superando la censura di notizie imposta dal regime iraniano, ha avuto una larghissima diffusione con un forte impatto sull'opinione pubblica.
+
+
+== Servizi collaterali e funzionalità ==
+
+
+=== YouTube Kids ===
+
+YouTube Kids è un'app secondaria per dispositivi mobili pensata per la fruizione dei video da parte dei bambini. Ha un'interfaccia utente semplificata, una selezione dei contenuti adattata per la loro fascia d'età e funzioni di controllo parentale.
+
+
+=== YouTube Music ===
+
+YouTube Music è un servizio di streaming che si basa sui contenuti video musicali caricati sulla piattaforma di YouTube. Esso consente agli utenti di cercare ed ascoltare musica secondo generi, playlist e suggerimenti.
+
+
+=== YouTube Premium ===
+
+YouTube Premium (precedentemente noto come "YouTube Red") è il servizio in abbonamento per utenti premium che consente di usufruire dei video caricati su YouTube senza inserzioni pubblicitarie, accedere a video e serie originali in esclusiva, riprodurre i video in modalità offline su dispositivi mobili e la possibilità di scaricare video.
+
+
+=== YouTube TV ===
+
+Lanciata a febbraio del 2017, offre agli abbonati connessi da rete fissa e da rete mobile una Web TV, che ritrasmette in diretta 40 emittenti statunitensi via etere e via cavo, reti sportive e canali a diffusione regionale.
+
+
+=== YouTube Originals ===
+YouTube Originals ha prodotto serie gratuite disponibili sui canali dei Creator in questione.
+
+
+=== YouTube Stories ===
+Nel 2018, YouTube ha iniziato a testare una nuova funzione inizialmente chiamata "YouTube Reels". La funzione è simile alle Storie di Instagram e di Snapchat. YouTube in seguito ha ribattezzato la funzione in "YouTube stories" ed è disponibile solo per i creator che hanno più di 10.000 iscritti e può essere pubblicato/visualizzato solo nell'app YouTube per i dispositivi mobili.
+
+
+=== YouTube Shorts ===
+Nel settembre 2020, YouTube ha annunciato che avrebbe lanciato una funzionalità beta al suo interno simile a TikTok, chiamata YouTube Shorts. La piattaforma è stata testata per la prima volta in India, ma a partire da marzo 2021 si è estesa ad altri paesi. Sulla piattaforma si può pubblicare video che ora possono durare fino a 1 minuto. La piattaforma è integrata nell'app principale di YouTube e vi è un feed a sé stante per visualizzare gli Shorts, differenziato dalla Home page dove si trovano i video standard. Come TikTok, offre agli utenti l'accesso a strumenti creativi integrati, inclusa la possibilità di aggiungere musica con licenza ai propri video.
+
+
+== Aspetti controversi ==
+
+
+=== YouTube e SIAE ===
+
+
+==== Le indicazioni della Direttiva 790/2019 ====
+Uno studio, commissionato da SIAE – la società di gestione collettiva dei diritti d'autore, soggetta al controllo della Presidenza del Consiglio, del MEF, del MiBACT (ora MiC) e, con l'attuazione della "Direttiva", anche dell'AGCOM –, riteneva che già "nel 2013 il 59% delle visualizzazioni YouTube in Italia era riferito a contenuti di tipo musicale". Inoltre, il meccanismo del Content ID, implementato da Google su YouTube, ossia il sistema automatizzato per l'individuazione di violazioni della normativa in materia di diritto d'autore, in principio attivato volontariamente dalla piattaforma stessa – visitata da quasi due miliardi di utenti ogni mese –, non arginerebbe il fenomeno della pirateria musicale ma agevolerebbe l'elusione: in sostanza, secondo "EY Report 2017", il "funzionamento non ha una precisione adeguata nel riconoscimento di brani coperti da diritto d'autore soprattutto nei casi di musica live, con il risultato che i titolari dei diritti perdono fatturati rilevanti". Nel 2016 l'invio di una lettera sul value gap rispetto ai servizi di streaming da parte di mille artisti internazionali e italiani a Jean-Claude Juncker, presidente della Commissione Europea, nasce dal divario tra l'attuale e capillare diffusione di musica e i ricavi che ne derivano. In questa lettera si suggeriva che la distorsione del mercato a favore degli intermediari tecnologici di contenuti potrebbe essere risolta, prima ancora che con negoziazioni bi-laterali tra soggetti detentori dei diritti di autore e soggetti detentori di piattaforme, andando a chiarire le fattispecie giuridiche di usi appropriati del safe harbour in occasione delle prossime revisioni delle leggi sul copyright della Commissione Europea (nel 2019 fu adottata la Direttiva 790/2019 sul diritto d'autore e diritti connessi nel mercato unico digitale – approvata malgrado il voto contrario di un certo numero di Stati Membri dell'Unione Europea, tra cui l'Italia.)
+La Commissione europea, al termine di un confronto con circa 80 tra associazioni di autori e di utilizzatori, più singoli big players (Google, Facebook, etc.), emise le linee guida per il recepimento dell'articolo 17 della cd. Direttiva Copyright, ossia la norma fondamentale riguardo a una possibile più efficiente remunerazione degli autori. Con il "nuovo articolo 17" della Direttiva Copyright, si è stabilito che "il prestatore di servizi di condivisione online pone in essere sempre un atto di comunicazione al pubblico ogni volta che concede l'accesso a opere protette dal diritto d'autore o ad altri contenuti protetti caricati dai suoi utenti, ampliando così il regime di responsabilità degli stessi prestatori di servizi e riconoscendo loro, dunque, una sorta di responsabilità semi-oggettiva qualora non abbiano rispettato le condizioni stabilite dall'art. 17 della Direttiva Copyright".
+
+
+==== Le relazioni SIAE-YouTube: uso dei diritti musicali ====
+Nel lontano 2010 YouTube ha firmato il primo contratto con la SIAE, società che tutela i diritti d'autore degli artisti musicali ed editori. L'accordo in vigore tra SIAE e YouTube è stato concluso a giugno 2017 e ha durata biennale. Con questo accordo, YouTube regolarizza la sua posizione con la Società Italiana Autori ed Editori per quanto riguarda i diritti di riproduzione e pubblica esecuzione. Per poter eseguire brani tutelati da diritto d'autore su un qualsiasi canale di distribuzione (e quindi anche online), è infatti necessario sottoscrivere un accordo con la società autori ed editori.
+Si tratta di un accordo che ogni sito italiano che trasmette musica tutelata sul web dovrebbe sottoscrivere con la SIAE ("Ufficio Multimedialità") e che prevede importi calcolati sulla base di numero di pagine viste mese e di utenti e sul tipo di sito (portale, sito corporate, privato). In particolare, l'accordo tra SIAE e YouTube è multi-territoriale cioè riguarda l'utilizzo del repertorio SIAE "diretto" in tutti i paesi dello spazio economico europeo nonché in alcuni paesi del Medioriente. È bene sottolineare che questo accordo riguarda solo la possibilità di trasmettere contenuti tutelati, mentre non include i diritti connessi dei produttori discografici, nonché i diritti di sincronizzazione o abbinamento delle musiche alle immagini.
+Infatti per abbinare una qualsiasi traccia musicale a un qualsiasi video è necessario richiedere l'autorizzazione direttamente agli autori e ai produttori, che potrebbero non essere d'accordo con tale abbinamento o comunque valutarlo sulla base di un compenso da definirsi di volta in volta con l'utente che intende farne uso. È sempre necessario ottenere un'autorizzazione e questo sia in presenza di un utilizzo commerciale diretto (ad esempio musiche utilizzate per sonorizzare un canale commerciale su YouTube, video virali postati con finalità evidentemente promozionali, corporate video, tutorial di programmi) ma anche a scopo non commerciale o magari apparentemente non tale (si citi ad esempio un video realizzato a fini umanitari ma sponsorizzato da una multinazionale, che ottiene quindi indiretto profitto in termini di immagine e pubblicità e che produce il contenuto con un budget di tutto rispetto).
+In sostanza, pur in presenza dell'accordo SIAE-YouTube, non è comunque consentito sonorizzare liberamente un video e pubblicarlo con una traccia musicale per la quale non sia stata concessa una specifica liberatoria di utilizzo dagli aventi diritto per l'abbinamento al video stesso (diritti di "sincronizzazione"). Come si può leggere nei vari disclaimer sul sito "YouTube però consiglia di controllare attivamente i video, perché le condizioni del trattamento della canzone/sottofondo musicale, potrebbero cambiare". Questo passaggio è riferibile proprio a quanto illustrato e testimonia come l'accordo SIAE-YouTube non consenta all'utente di utilizzare liberamente qualsiasi brano per sonorizzare i propri video postati. Lo stesso vale per la situazione inversa, ovvero per i produttori musicali (musicisti, editori, discografici) che intendono postare video di terzi sonorizzati con le proprie musiche allo scopo di promuoverle. Infatti, in tali situazioni, sempre a discrezione della SIAE e dell'autore del brano o filmato utilizzato, viene consentito il caricamento del video privo di "monetizzazione", poiché non è monetizzabile e tutti i costi guadagnati vengono riversati al proprietario del materiale utilizzato impropriamente senza consenso, oppure se richiesto viene bloccata la visualizzazione del video a tutti gli utenti (privato lo si può rivedere in qualsiasi momento).
+Così come chi realizza il video dovrà sempre richiedere e ottenere l'approvazione finale degli aventi diritto della musica prima di abbinarla alle immagini; chi intenda abbinare un video alla propria musica dovrà provvedere a fare lo stesso nei confronti degli aventi diritto dei contenuti video.
+
+
+==== Altri accordi SIAE-YouTube ====
+Per armonizzare le relazioni fra piattaforme e società degli autori, nel 2014 fu siglato un accordo fra l'hub "Armonia" per le negoziazioni di licenze digitali – società partecipata SIAE con la spagnola SGAE presentata nel 2012, nata nell'aprile del 2013 e cessata il 31 dicembre 2022) con il nuovo servizio in abbonamento YouTube Music Key. Il 30 novembre 2015 muore Music Key e dalle sue ceneri nasce YouTube Red. Nel 2017 la SIAE aderisce al progetto "Sharon" della francese SACEM, volto a gestire l'enorme volume di dati generato dalle licenze musicali on-line.
+
+
+=== Violazioni di copyright ===
+Per identificare le violazioni di copyright, in una prima fase il proprietario dei contenuti fornisce elementi al database interno di YouTube che rendano univocamente identificabile il materiale sottoposto e definisce una procedura di utilizzo alla quale YouTube dovrà attenersi qualora riscontri una coincidenza tra i contenuti originali (traccia audio e/o video) e quello sottoposto dagli utenti. Ogni volta che un video viene caricato su YouTube, esso viene confrontato con ogni altro elemento del database. Il sistema di confronto non opera soltanto sul file completo ma su ogni suo singolo istante. Questo significa che è possibile identificare le coincidenze anche se la copia in questione è solo una porzione del file originale, se viene riprodotta al rallentatore e ultimamente al contrario, o ha audio e video di scarsa qualità. Tale sistema di confronto vaglia video per una durata equivalente a circa 100 anni ogni giorno, tra nuovi caricamenti e controllo degli archivi.
+Il detentore dei diritti, invece di proibire il caricamento dei propri contenuti da parte degli utenti (Bloccare), ha l'opzione di permettere che la copia venga pubblicata traendone beneficio sia inserendovi dei link commerciali (Monetizzazione-Tracciamento), sia in popolarità del Brand (Tracciamento). In alcuni casi il proprietario dei contenuti concede la compartecipazione delle entrate con l'utente che carica un video con contenuto non originale, ad esempio cover di brani musicali famosi (Monetizzazione parziale-Tracciamento).Come per i brani della SIAE, in tali situazioni, sempre a discrezione dell'autore del brano o filmato utilizzato, viene consentito il caricamento del video privo di monetizzazione, poiché non è monetizzabile e tutti i costi guadagnati vengono riversati al proprietario del materiale utilizzato impropriamente senza consenso, oppure se richiesto viene bloccata la visualizzazione del video a tutti gli utenti (privato lo si può rivedere in qualsiasi momento).
+Così come chi realizza il video dovrà sempre richiedere e ottenere l'approvazione finale degli aventi diritto della musica prima di abbinarla alle immagini; chi intenda abbinare un video alla propria musica dovrà provvedere a fare lo stesso nei confronti degli aventi diritto dei contenuti video.
+La richiesta di rimozione di un video per violazione del copyright consiste invece nell'invio, da parte del detentore dei diritti, di un avviso formale comprensivo di tutti i dati legali necessari. Successivamente, l'utente incriminato, visualizzerà accanto al video l'informazione relativa alla sua rimozione per violazione di copyright. Inoltre riceverà un avvertimento a seguito del quale dovrà completare il programma "Scuola di copyright", che illustra le regole a tutela del copyright imposte dalla piattaforma. Se il video è stato cancellato erroneamente a seguito di un avviso, il ricevitore di tale avviso può richiedere il ritiro da parte dell'autore della rivendicazione o inviare una contronotifica. In caso contrario, l'avvertimento scadrà dopo tre mesi. A seguito di tre avvertimenti sul copyright, l'account incriminato verrà chiuso insieme agli eventuali canali associati, tutti i video saranno eliminati e l'utente in questione non avrà la possibilità di creare nuovi canali.
+
+
+=== La vicenda di Chris Brown ===
+Nel 2008 uscì il video del singolo Forever dell'artista Chris Brown; un fan lo vide in TV, lo registrò con la videocamera del suo telefono e lo caricò su YouTube. Siccome Sony Music aveva registrato il video di Chris Brown nel sistema Content ID di YouTube, entro pochi secondi dal tentativo di caricare il video, la copia è stata identificata, dando la scelta su cosa fare a Sony, che fece eliminare il contenuto. Tuttavia, nel 2010 una giovane coppia si è sposata utilizzando questa canzone per un ingresso in chiesa. Il loro filmino di matrimonio è stato caricato su YouTube, ottenendo 40 milioni di visite (98 milioni nel 2019). Sony, invece di bloccarlo, ha consentito il caricamento. Vi ha inserito della pubblicità e l'ha linkato ad iTunes. Così la canzone, che aveva ormai 18 mesi, è tornata in cima alle classifiche di iTunes. Jill e Kevin, la coppia protagonista, sono tornati dalla luna di miele e hanno scoperto che il loro video era diventato popolare, sono finiti in numerosi talk show e l'hanno sfruttato come una grande opportunità. Il video ha generato 26.000 dollari in donazioni per porre fine alla violenza domestica e il video "Entrata in chiesa di JK" è diventato così popolare che la NBC ne ha fatto una parodia (2009) nella puntata Niagara di "The Office" (ndr, Stagione 6, Episodio 4).Non è raro che un singolo video abbia più di un detentore di diritti. Il sistema content ID di YouTube prende in considerazione tutti questi casi ma funziona solo tramite la partecipazione dei detentori dei diritti. Se ci sono contenuti che altri caricano su YouTube, dovrebbero registrarli nel sistema content ID e poi avranno la scelta su come verranno utilizzati. Bloccando semplicemente il riutilizzo, si perdono tutte le nuove forme d'arte, nuovi utenti, nuovi canali distributivi e nuove fonti di profitto.
+Stando alle regole imposte da YouTube, nessun utente può caricare contenuti protetti dal copyright statunitense, ma nonostante questo, ancora molti video continuano ad essere caricati: come show televisivi, video musicali o concerti live. Inizialmente, a meno che non fosse il titolare del diritto d'autore stesso a notificare una violazione del copyright, YouTube ne veniva informata solo tramite segnalazioni inviate da utenti. Questo sistema, utilizzabile anche in caso di contenuto dubbio o che urta la sensibilità dei visitatori, è stato utilizzato talvolta anche in maniera non appropriata, provocando delle guerre virtuali fatte di segnalazioni e contro-segnalazioni di video altrui puramente per cattiveria o per ripicche personali. È stato pertanto deciso di cancellare tale opzione. Il metodo principale attualmente utilizzato da YouTube per rilevare violazioni in materia di copyright consiste nel sistema di ricerca che gli utenti associano al clip. È per questo che gli utenti, nel tentativo di aggirare il controllo, utilizzano termini alternativi quando caricano certi tipi di file.
+Hollywood rimane divisa su YouTube, così come "i ragazzi commerciali amano YouTube e i ragazzi legali lo odiano".
+
+I proprietari del contenuto non solo mirano all'utilizzo di YouTube per infrangere il copyright, ma mirano anche, tramite collegamenti a siti esterni, ad infrangere i contenuti di YouTube e di altri siti di condivisione video. Ne sono un esempio i casi QuickSilverScreen vs. Fox, Daily Episodes vs. Fox e Columbia vs. Slashfilm. L'obbligo dei collegamenti rimane una questione discussa, avendo sia pro che contro. La legge negli Stati Uniti è attualmente incline a ritenere responsabili dei contenuti illegali i proprietari del sito. Essi tuttavia sono spesso protetti dalla legge DMCA, a condizione che cancellino i contenuti illeciti dopo la pubblicazione di una notifica di eliminazione. Comunque, una recente sentenza giudiziaria negli Stati Uniti ha considerato Google non responsabile per collegamenti che infrangono il diritto d'autore.
+
+
+=== Esempi di denunce di violazioni ===
+Il 5 ottobre 2006, la Società Giapponese per i Diritti degli Autori, Compositori ed Editori (JASRAC), denunciò l'infrazione del proprio copyright relativo ai contenuti giapponesi su YouTube. Migliaia di video di molti artisti giapponesi (come Tokyo Jihen e di altri artisti J-pop) furono rimossi. Quando la CBS e la Universal Music Group firmarono l'accordo per inserire contenuti su YouTube, annunciarono anche un prossimo utilizzo di nuove tecnologie di aiuto all'identificazione ed eliminazione del materiale protetto da copyright.
+Il giornalista TV, Robert Tur sporse la prima denuncia contro la società nell'estate 2006, con l'accusa di aver violato il copyright, ospitando una serie di famose news clip senza alcuna autorizzazione. Il caso deve essere ancora discusso. Il 9 novembre 2006 Artie Lange comunicò che il suo avvocato era in trattative con YouTube, dopo aver trovato per intero il suo DVD, "It's the Whiskey Talking", disponibile gratis sul sito. Artie aggiunse che avrebbe richiesto un risarcimento, altrimenti avrebbe proceduto per le vie legali.
+Le società Viacom e BBC richiesero a YouTube di cancellare più di 200.000 video. Nel 2008 Viacom fece causa a YouTube e al suo proprietario Google, per più di 1 miliardo di dollari, presso la Corte Distrettuale degli Stati Uniti per il distretto Sud di New York. La Viacom ha reclamato il possesso da parte di YouTube di oltre 150.000 dei loro video, distribuiti online senza la loro autorizzazione.Mediaset il 30 luglio 2008 citò YouTube presso il tribunale di Roma, chiedendo un risarcimento di 500 milioni di euro per diffusione illecita di materiale audiovisivo coperto da diritto d'autore. Il 17 dicembre 2009, il tribunale di Roma dispose la rimozione dai server YouTube di tutti i contenuti appartenenti a Mediaset illecitamente caricati; nello specifico, quelli del Grande Fratello, essendo questo il contenuto Mediaset più visualizzato.
+
+
+=== Il fair use ===
+Nelle stesse linee guida dettate da YouTube, dopo aver elencato i casi in cui si è di fronte ad una chiara violazione del copyright, indica che ci sono casi particolari dove può legittimamente invocarsi il fair use, ma lascia la responsabilità della scelta al singolo utente. Ci sono ora le prime cause: ad esempio, una casalinga americana aveva messo su YouTube l'immagine del proprio figlio, accompagnata da una musica di sottofondo. Il titolare dei diritti su tale brano musicale ne ha chiesto la rimozione; YouTube ha poi deciso di riammettere il filmato e la questione è finita in tribunale.
+
+
+=== Strike ===
+L'avvertimento sul copyright (YouTube copyright strike) è una pratica di controllo del copyright utilizzata da YouTube allo scopo di gestire la violazione del copyright e rispettare il Digital Millennium Copyright Act. Esso è la base per la progettazione del sistema di avvertimento sul copyright di YouTube. Affinché YouTube mantenga la protezione del porto sicuro DMCA, deve rispondere alle richieste di violazione del copyright con un avviso e successivo eventuale processo di rimozione. La prassi di YouTube consiste nell'emettere un "avvertimento sul copyright" all'utente accusato di violazione del copyright. Quando un utente di YouTube viene redarguito da un avvertimento sul copyright, dovrà guardare un video di avvertimento sulle regole del copyright e rispondere a domande sul pericolo di violazione. Quando un utente di YouTube riceve tre avvertimenti sul copyright, il social chiude il canale di quell'utente (inclusi tutti i canali associati a quel profilo), rimuove tutti i suoi video dal canale di quell'utente e gli impedisce di creare un altro canale YouTube.YouTube assegna gli strike (avvertimenti) in base alle segnalazioni di violazioni del copyright da parte dei bot. Alcuni utenti hanno espresso preoccupazione per il fatto che il processo di strike sia ingiusto nei confronti degli utenti. La lamentela è che il sistema si assume la colpa degli utenti di YouTube e si schiera dalla parte dei detentori del copyright anche quando non si è verificata alcuna violazione. Tali strike possono arrivare anche in caso di diffusione di video contenenti fake news, violenza e istigazione all'odio.
+
+
+=== Identificazione vocale ===
+Il 12 ottobre 2006, YouTube ha annunciato che a causa dei recenti accordi con i creatori di contenuti di alto profilo, sono stati costretti ad utilizzare software anti-pirateria. Il software utilizza una tecnologia di firma audio che può distinguere una copia di bassa qualità di un video musicale con licenza o altro materiale, da una versione originale ad alta qualità, o in altri casi, modificata con autotune ed altre opzioni simili.
+YouTube in tal caso aveva la facoltà di rimpiazzare il file con una versione approvata o eliminarlo automaticamente.
+
+
+=== Violenza ===
+
+Il 1º giugno del 2006, il notiziario serale della ITV News ha riportato che YouTube e altri siti affini incoraggiano la violenza e il bullismo tra i giovani, i quali filmano combattimenti con i loro cellulari, e in seguito li caricano su YouTube.
+Mentre il sito ha provveduto con una funzione per segnalare contenuti eccessivamente violenti, il reportage ha dichiarato che le comunicazioni con la società erano difficili.
+
+
+== Censura ==
+
+
+=== Afghanistan ===
+Il 12 settembre 2012 YouTube venne vietato in Afghanistan a causa della pubblicazione di un film su Maometto.
+
+
+=== Iran ===
+Il 3 dicembre 2006, in Iran il "Comitato per la Propagazione della Virtù e la Prevenzione dal vizio" ha affermato che "I siti ebrei come YouTube, con i loro video provocanti e peccaminosi, sono il simbolo della decadenza del perverso occidente". Pertanto ha bloccato l'accesso a YouTube e ad altri siti nel tentativo di impedire la diffusione di musica e film stranieri ritenuti moralmente viziati. YouTube in Iran non è accessibile, a riprova di questo vi è il canale YouTube ufficiale dell'agenzia di stampa Iraniana Fars News Agency.
+
+
+=== Turchia ===
+
+La Turchia ha bloccato YouTube il 6 marzo 2007 per aver pubblicato video offensivi verso i turchi e Atatürk, il fondatore della moderna Turchia, raffigurato nell'escalation di quella che molti chiamano "guerra virtuale" tra greci, armeni, kurdi e turchi su YouTube, dove persone di ogni fronte hanno inserito video con lo scopo di sminuire e rimproverare l'altro. Il video che ha causato il blocco accusava i turchi e Atatürk di essere gay. Il video è stato prima menzionato sulla CNN turca ed in seguito il procuratore pubblico di Istanbul ha fatto causa a YouTube per aver offeso la cultura turca. La corte ha sospeso l'accesso al sito in attesa della rimozione del video. Il ban è stato fortemente criticato come censura della stampa dalla gente comune. I legali di YouTube hanno inviato una documentazione della rimozione del video al procuratore turco e l'accesso è stato riabilitato il 9 marzo 2007. L'accesso a YouTube è stato nuovamente bloccato da due successive sentenze relative ad altri video rispettivamente del 5 maggio 2008 e del 6 giugno 2008.
+
+
+=== Thailandia ===
+Durante la settimana dell'8 marzo 2007, YouTube è stato bloccato in Thailandia. Molti blogger hanno ritenuto che le ragioni di tale impedimento sono state dovute al video dell'intervista del Primo ministro Thaksin Shinawatra alla CNN. Peraltro, il governo non ha smentito o confermato le ragioni della censura. YouTube è comunque tornato accessibile dal 10 marzo. La notte del 3 aprile, il sito è stato nuovamente bloccato in Thailandia. Il governo ha citato un video dichiarandolo "offensivo" per il re Bhumibol Adulyadej. Tuttavia, il Ministro dell'Informazione e della Comunicazione Tecnologica ha affermato che YouTube sarebbe tornato accessibile in pochi giorni, dopo che i siti contenenti riferimenti a tale video fossero stati rimossi. In seguito a questo incidente il blog tecnologico Mashable è stato bloccato dalla Thailandia per aver riportato il video in questione.
+
+
+=== Brasile ===
+YouTube è stato accusato dalla modella brasiliana e VJ di MTV Daniella Cicarelli per aver mostrato sul proprio sito un video registrato da un paparazzo, nel quale lei e il suo fidanzato, Renato Malzon, avevano un rapporto sessuale su una spiaggia spagnola. L'accusa ha richiesto l'inaccessibilità di YouTube in Brasile finché ogni copia del video fosse stata rimossa. Sabato 6 gennaio 2007, un'ingiunzione legale ha ordinato l'inserimento di una serie di filtri, con lo scopo di impedire l'accesso agli utenti brasiliani.
+
+
+=== Birmania ===
+Nell'agosto 2007 la giunta militare birmana ha chiuso l'accesso a YouTube per fermare i filmati di denuncia dei massacri dei dimostranti, in gran parte monaci, che chiedevano una maggiore libertà.
+
+
+=== Cina ===
+Nel marzo 2008 YouTube è stato bloccato in Cina per aver ospitato nella propria piattaforma e reso visibile un video dove erano filmate le violenze e i disordini scoppiati in Tibet in quei giorni. Anche se YouTube è bloccato dal Great Firewall, molti media cinesi, tra cui China Central Television (CCTV), hanno account YouTube ufficiali. Nonostante il divieto, Alexa classifica YouTube come l'undicesimo sito Web più visitato in Cina.
+
+
+=== Marocco ===
+Il Marocco ha bloccato l'accesso nel maggio 2007, probabilmente a causa di video critici nei confronti dell'occupazione marocchina del Sahara occidentale. YouTube è diventato nuovamente accessibile il 30 maggio 2007, dopo che Maroc Telecom ha annunciato ufficiosamente che l'accesso negato al sito web era un semplice "problema tecnico".
+
+
+=== Eritrea ===
+YouTube è stato bloccato a intermittenza in Eritrea dal 2011 da alcuni ISP, anche se un portavoce di Freedom House ha ipotizzato che ciò fosse dovuto a considerazioni sulla larghezza di banda.
+
+
+=== Corea del Nord ===
+YouTube è bloccato in Corea del Nord a causa delle leggi del paese relative a Internet e alla sua accessibilità. È stato completamente bloccato dall'aprile 2016 e il governo nordcoreano ha avvertito che chiunque tenti di accedervi è soggetto a punizione.
+
+
+=== Sudan ===
+Le autorità sudanesi hanno bloccato YouTube il 21 aprile 2010, a seguito delle elezioni presidenziali del 2010, e hanno anche bloccato il proprietario di YouTube, Google. Il blocco era in risposta a un video di YouTube che mostrava i lavoratori della Commissione elettorale nazionale in uniformi ufficiali e un bambino nella regione di Hamashkoreib mentre compilavano le strisce elettorali e le inserivano nelle urne, con uno di loro che esprimeva sollievo per il prolungamento del periodo di votazione per loro di finire il loro lavoro. Il Sudan aveva precedentemente bloccato temporaneamente YouTube nel 2008 per ragioni sconosciute. Il 17 settembre 2012, YouTube è stato nuovamente bandito dalla National Telecommunication Corporation per non aver rimosso Innocence of Muslims, un controverso film anti-islamico. Tuttavia, il blocco è stato successivamente revocato.
+
+
+=== Sudan del Sud ===
+YouTube è stato bloccato in Sud Sudan a causa delle polemiche relative a Innocence of Muslims, un controverso film anti-islamico.
+
+
+=== Siria ===
+Nel febbraio 2011, la Siria ha smesso di filtrare YouTube, Facebook e Twitter. All'inizio della guerra civile siriana, il 3 giugno 2011, il governo ha chiuso la rete Internet del paese. Dalla primavera araba nei primi anni del 2010 in Medio Oriente, questo ha portato alla causa di gravi conflitti nel paese.
+
+
+=== Tagikistan ===
+Nel luglio 2012, le autorità tagike hanno bloccato YouTube in risposta al caricamento di video che mostravano proteste contro gli scontri tra militanti. Otto giorni dopo, il divieto è stato revocato. Nello stesso anno, il governo tagiko ha nuovamente bloccato il sito, questa volta a causa di video che ritraevano il presidente Emomali Rakhmon, ritenuti offensivi nei confronti del governo. Nel 2013, il Tagikistan ha bloccato YouTube per la terza volta a causa di un video che mostra il presidente Rakhmon che balla e canta stonato alla festa di matrimonio di suo figlio nel 2007. Dal 1º aprile 2020 la medesima piattaforma ha vietato YouTube Shorts, poiché alcune ragazze tagiche avrebbero creato contenuti sessualmente discutibili.
+
+
+=== Turkmenistan ===
+Il 25 dicembre 2009, per motivi di sicurezza, YouTube è stato bloccato in Turkmenistan dall'unico ISP del paese, Turkmentelecom. Anche altri siti Web, come LiveJournal, sono stati bloccati.
+
+
+== Termini di servizio ==
+In accordo con i termini di servizio del sito, gli utenti possono caricare video in qualsiasi momento, ma se vengono utilizzati materiali e/o persone esterni, bisogna avere il permesso della proprietà dei diritti d'autore e, come dalle regole sulla privacy, delle persone raffigurate. Pornografia, diffamazione, molestie, pubblicità e materiale che incoraggia condotte criminali non possono essere caricati sul sito e qualora vengano caricati gli utenti sono invitati a segnalare il video. Gli utenti che inviano materiale concedono a YouTube la licenza di distribuire e modificare il materiale caricato per ogni scopo se consentito tramite licenza CC BY. Esiste anche la licenza Standard, che non ha invece la licenza di distribuire e modificare il materiale caricato. Dette licenze hanno effetto su ogni singolo video e hanno termine quando l'utente cancella il singolo video sul sito.
+Gli utenti possono vedere il video ma non possono scaricarlo. Per vedere i video, non è necessaria la registrazione ma è consigliata. Mentre, per utilizzare altre funzioni come la creazione di playlist, commenti oppure like/dislike è obbligatoria la registrazione.
+La registrazione viene effettuata con gli Account Google, già esistenti oppure creati al momento.
+
+
+== Profitti e costi di gestione ==
+Prima di essere stata acquistata da Google, YouTube ha dichiarato che il suo modello di affari si basa principalmente sulla pubblicità. Alcuni esperti industriali hanno speculato che i costi di YouTube, in particolare la larghezza di banda richiesta, potrebbero ammontare a più di un milione di dollari al giorno, pertanto hanno alimentato critiche su come la società, come tante altre in avviamento su Internet, non ha attuato un proficuo modello di affari. Le pubblicità sono state lanciate sul sito dall'inizio di marzo 2006. In aprile, YouTube ha iniziato a usare Google AdSense, servizio terminato successivamente. Dati i suoi altissimi livelli di traffico, il flusso di dati video e il numero di pagine viste, alcuni hanno calcolato che i potenziali guadagni di YouTube potrebbero aggirarsi intorno al milione di dollari al mese.
+Si stima che nel 2009 il sito sia costato quasi 700 milioni di dollari, di questi almeno 300 dedicati al pagamento delle connessioni Internet. Si stima che nel 2009 il sito abbia generato il 42% dei traffico on-line che è transitato su Internet e che fatturerà circa 240 milioni di dollari, quindi una cifra insufficiente a coprire i costi del sito. Dall'autunno 2011 YouTube inserisce degli spot pubblicitari prima di permettere la visione di alcuni video.
+
+
+== Il nome del dominio ==
+La scelta del nome del dominio www.youtube.com si rivelò fonte di problemi per un sito con un nome simile, www.utube.com. L'azienda proprietaria del sito, la Universal Tube & Rollform Equipment, citò in giudizio YouTube nel novembre 2006 in seguito a frequenti sovraccarichi dovuti a utenti che cercavano YouTube. La Universal Tube ha successivamente modificato il nome del proprio sito web in www.utubeonline.com.
+
+
+== Note tecniche ==
+
+
+=== Formato video ===
+Dal 2009, la tecnologia video del sito si basa su HTML5 per video Mpeg-4 con codec H264. In precedenza utilizzava Flashplayer 7 di Macromedia con codec video Sorenson Spark H.263, che permetteva a YouTube di mostrare video con una qualità comparabile a quella di molti altri player affermati (come Windows Media Player, RealPlayer o il QuickTime Player della Apple), ma richiedeva all'utente il download e l'installazione di un plugin per il browser aggiuntivo per visionare il video: Adobe Flash o Gnash.
+YouTube ufficialmente accetta video nei formati WMV, AVI, QTFF, ogg e della famiglia MPEG (3gp, MPEG-1, MP4, MOV e M4v).
+Da marzo 2008 YouTube permette di visualizzare alcuni video in "alta qualità" (HQ). Ciò è possibile cliccando sotto "Visualizzazioni" sotto al video (in seguito i comandi del player sono stati modificati). Anche i video che non dispongono di questa funzionalità possono essere visualizzati in alta qualità aggiungendo alla fine dell'indirizzo del video "&fmt=18". A novembre 2008 è stata aggiunta anche la possibilità di visualizzare i video in alta definizione (720p), ancora migliore rispetto all'alta qualità (HQ). Se la funzione è presente, basta cliccare sul pulsante HD presente nella barra del player, oppure aggiungere alla fine dell'indirizzo del video "&fmt=22".In seguito, nel novembre del 2009, la funzionalità HD è stata migliorata passando dalla risoluzione 1280x720 (meglio conosciuta come 720p) a quella "full HD" 1920x1080 (conosciuta come 1080p), analoga a quella offerta da un Blu-ray Disc e compatibile con le videocamere e gli schermi HD. In ogni caso un video caricato in alta definizione risulta sempre riproducibile anche nelle definizioni inferiori. Nel luglio 2010 è stato implementato anche il supporto ai video con risoluzione 4K (4096x3072 pixel). L'ottimizzazione della risoluzione video secondo gli standard SEO di YouTube contribuirà al posizionamento.Le definizioni disponibili risultano le seguenti:
+
+144p (176x144);
+240p (320x240);
+360p (480x360/640×360);
+480p (640x480/854x480) - paragonabile ma inferiore a quella di un DVD-Video;
+720p (1280x720);
+1080p (1920x1080) - equivalente a quella di un Blu-ray Disc;
+1440p (2560x1440);
+2160p (3840×2160);
+4K (4096x3072) - usata nel cinema digitale;
+8K (7680 × 4320) - "ultra HD", formato video digitale in via sperimentale.Dal luglio 2009 è possibile la riproduzione di contenuti stereoscopici (3D) in diversi modi:
+
+l'anaglifo (vecchie lenti bicolori)
+monitor 3D con trasmettitore IR e occhialini attivi.
+a mano, girando il video con il dito. È consigliato l'uso di cuffie durante la riproduzione del video.
+
+
+=== Accessibilità dei contenuti ===
+Gli utenti possono inviare i video in molti formati comuni (come mpeg e avi). YouTube li converte automaticamente nei formati supportati e li rende visionabili online.
+Ogni video è accompagnato dal markup HTML per collegarsi (link) e rimandare ad esso e/o inserirlo (embed) in un'altra pagina; alcune piccole aggiunte al markup permettono al video di partire automaticamente (autoplay) all'apertura della pagina. Queste semplici opzioni taglia-e-incolla sono molto diffuse tra gli utenti del social web.
+
+
+=== YouTube Video Editor ===
+Il 18 giugno 2007 YouTube ha lanciato il proprio programma di video editing online, chiamato YouTube Video Editor. Il programma permette agli utenti di modificare i propri video direttamente online. Esso si presenta come un'altra estensione dei servizi resi possibili grazie al Web 2.0. È rimasto attivo fino al 20 settembre 2017.Successivamente, è stato introdotto su YouTube Studio con il solo nome di Editor, prima dell'upload del video e durante la sua pubblicazione è possibile modificarlo nelle impostazioni del singolo video, e grazie alla YouTube Audio Library è possibile scegliere una canzone senza copyright da includere nel video. Volendo, è possibile scaricare sul proprio dispositivo le musiche della YouTube Audio Library.
+
+
+== Riconoscimenti ==
+Nel 2006 YouTube ha annunciato il suo YouTube Video Awards, premi dati come riconoscimento formale ai migliori video di YouTube dell'anno precedente, votati dalla comunità di YouTube. Si tratta di video riprodotti talmente tante volte da essere considerati "casi" degni di interesse per la comunità di Internet, e a volte i personaggi anonimi che hanno messo in rete il loro video diventano vere e proprie icone sociali, ripresi o citati da altri media (dai videoclip a South Park). Prima del 2007 era un contatore ad occuparsi di selezionare i video più visti, ora gli utenti di YouTube hanno un ruolo attivo nella scelta. I vincitori ricevono un trofeo; al fine di essere nominati, gli utenti dovevano aver creato un proprio video originale.
+Le categorie sono: "Most Creative", "Best Comedy", "Best Commentary", "Best Series", "Best Music Video", "Most Inspirational", "Most Adorable". Nella prima edizione le categorie erano solo sette. Per ogni categoria vengono candidati dieci video, tra i quali verrà scelto il vincitore. I video nominati da votare sono scelti dal personale di YouTube, mentre i vincitori sono selezionati dagli stessi utenti di YouTube, i quali nel 2008 hanno avuto diritto al voto una volta al giorno, ma una volta effettuata la scelta non hanno avuto la possibilità di cambiarla.Al fine di essere nominati, gli utenti dovevano aver creato un proprio video originale.
+2006 Awards:
+
+Most Creative - Here It Goes Again OK Go
+Best Comedy - Smosh Short 2: Stranded Smosh
+Best Commentary - Hotness Prevails thewinekone
+Best Series - Ask a Ninja digtalfilmmaker
+Best Music Video - Say It's Possible Terra Naomi
+Most Inspirational - Free Hugs Campaign PeaceOnEarth123
+Most Adorable - Kiwi Madyeti472007 Awards:
+
+Adorable - "Laughing Baby" - gsager1234
+Comedy - "Potter Puppet Pals in 'The Mysterious Ticking Noise'" - NeilCicierega
+Commentary - "LonelyGirl15 is Dead!"- WHATTHEBUCKSHOW
+Creative -"The Original Human TETRIS Performance by Guillaume Reymond" - notsonoisy
+Eyewitness - "Battle at Kruger" - Jason275
+Inspirational -"Blind Painter" - texascountryreporter
+Instructional - "How to solve a Rubik's Cube (Part One)" - pogobat
+Music - "Chocolate Rain" -TayZonday
+Politics -"Stop the Clash of Civilizations" - AvaazOrg
+Series - "The Guild - Episode 1: Wake-Up Call" — first in "The Guild" series - watchtheguild
+Short Film - "my name is lisa" - sheltonfilms
+Sports - "balloon bowl" - davetheknave
+
+
+=== Creator Awards ===
+
+
+=== Attenzione dei media ===
+Grazie soprattutto al passaparola online, YouTube è cresciuto rapidamente, fin dalla sua creazione, e ha dato al sito il suo primo aumento di notorietà quando ospitò il popolare Saturday Night Live. Tuttavia, la linea di condotta di YouTube proibisce la pubblicazione di materiali protetti da diritto d'autore e NBCUniversal, proprietaria di SNL, decise presto di intraprendere azioni contro YouTube.
+Nel febbraio 2006, NBC chiese la rimozione di alcuni dei suoi contenuti protetti dal diritto d'autore da YouTube, compresa Lazy Sunday e le immagini delle Olimpiadi invernali del 2006. Il mese seguente, in un tentativo di rinforzare la sua politica contro le infrazioni al copyright, YouTube mise un limite massimo di tempo ai video, pari a 10 minuti (più precisamente 10 minuti e 58 secondi), ad eccezione per i contenuti spediti attraverso il suo programma nel quale si può specificare che si tratta di video amatoriali. Questa restrizione è spesso superata da chi inserisce video dividendo il video originale in segmenti più piccoli o al massimo uguali al limite.
+Anche se YouTube aveva fatto la sua parte per venire incontro alle richieste di NBC, l'incidente diventò una notizia pubblica, rendendo YouTube più popolare che mai. Mentre il sito continuava a crescere, NBC iniziò a capire le possibilità e nel giugno del 2006 fece una mossa insolita: il network riconsiderò il proprio operato e annunciò un'alleanza strategica con YouTube. Come parte dell'alleanza, fu aperto un canale ufficiale della NBC su YouTube, ospitante filmati promozionali della serie TV The Office. YouTube, inoltre, avrebbe promosso i video della NBC nel proprio sito.
+La CBS, che in precedenza aveva chiesto a YouTube di rimuovere alcuni dei suoi filmati, si fece risentire nel luglio 2006. In un documento indicativo di come stava cambiando la percezione di YouTube (e di siti simili) da parte dell'industria tradizionale dei media, Sean McManus, presidente della CBS News and Sports disse:
+
+Nell'agosto 2006, YouTube ha annunciato che, entro i successivi 18 mesi, si augurava di offrire ogni video musicale mai creato.
+Warner Music Group ed EMI hanno confermato di essere tra le compagnie in trattative per rendere effettivo questo progetto. In settembre, Warner Music e YouTube hanno siglato un patto, nel quale YouTube sarebbe stata abilitata a ospitare ogni video musicale prodotto dalla Warner, mentre avrebbe condiviso una parte dei ricavi pubblicitari. Inoltre, i video creati dagli utenti di YouTube sarebbero stati autorizzati a usare canzoni della Warner nelle loro colonne sonore.
+Il 9 ottobre, la CBS, insieme alla Universal Music Group e alla Sony BMG Music Entertainment hanno pattuito di fornire contenuti su YouTube.
+Il 29 gennaio 2007, il cofondatore di YouTube, Chad Hurley, ha annunciato che il sito avrebbe pagato gli utenti più importanti, che sarebbero potuti anche diventare proprietari dei diritti d'autore e guadagnare una parte dei ricavi pubblicitari. Ad ogni modo, al Forum economico mondiale, Mr. Hurley non ha dichiarato la somma concreta che YouTube avrebbe pagato ai propri contribuenti.
+
+
+=== Promozioni musicali e per le band ===
+YouTube è anche diventato un metodo per promuovere le band e la loro musica. Uno dei tanti esempi sono stati gli OK Go, i quali hanno avuto alti ascolti in radio e un MTV Video Music Awards per la loro performance sui tapis-roulant nel video Here It Goes Again. Allo stesso modo, il video viral di Samuel Ferrari con la canzone YouTube School (centomila visite in poche settimane) o la Campagna degli abbracci gratis, accompagnato da una musica dei Sick Puppies, ha portato notorietà sia alla band che alla campagna, oltre che l'emulazione dell'iniziativa in altre parti del mondo. Il protagonista del video Juan Mann ha ottenuto tale fama, grazie anche all'intervista pubblicata per un programma di news australiano; in seguito è apparso su The Oprah Winfrey Show.
+
+
+==== Fruizione in HD ====
+L'importanza promozionale assume rilievo strategico anche nella fruizione dell'archivio dei videoclip musicali. Infatti, nel giugno del 2019, è stato annunciato un nuovo accordo (subito operativo) con la Universal Music Group che determina la volontà tecnica di sostituire le copie delle opere di artisti di punta – ormai vecchie versioni digitali in SD a bassa risoluzione – restaurandole, rimasterizzandole e rendendole fruibili in formato FHD (Full High-Definition).
+L'operazione di restyling che dovrebbe coinvolgere all'incirca 1 000 videoclip musicali, già presenti nella piattaforma, non avverrà in modo invasivo, ovvero rimuovendoli dai loro canali aziendali. Con un espediente tecnico, non precisato nel comunicato ufficiale, senza ulteriori dettagli, i nuovi clip sostituiscono le vecchie copie sia su YouTube che su YouTube Music, mantenendo sia l'URL originario, sia il numero di visualizzazioni, che i like e i commenti. Nella descrizione, a sottolineare l'avvenuta sostituzione, si nota nella maggioranza dei casi la dicitura "REMASTERED IN HD!".
+I primi tre titoli annunciati sono i video di Tom Petty con Free Fallin' (1989), dei Beastie Boys con Sabotage (da Ill Communication, 1994), Lady Gaga con Bad Romance (2009).
+
+
+=== Guadagni per i creatori di contenuti ===
+Gli utenti che producono e pubblicano video sono indicati col neologismo "youtuber". Questo status esclusivo, in precedenza offerto solo a provider commerciali, ha permesso agli utenti di trarre guadagni dalle inserzioni pubblicitarie. I primi youtuber "professionisti", ovvero che si dedicano regolarmente alla creazione di contenuti in modo da incrementare visualizzazioni e iscrizioni al canale, sono apparsi negli Stati Uniti in seguito a tali accordi con il sito web; la pratica si è successivamente diffusa in tutto il mondo. La popolarità degli youtuber è ormai altissima tanto da essere paragonati ad attori o cantanti; molti di loro vengono spesso ingaggiati da aziende per pubblicizzare i loro prodotti, come il caso della Fanta, ma anche tour per autografi e merchandising: in Italia l'esempio più eclatante è la IlluminatiCrew, gruppo di youtuber italiani nato nel 2015 e che ha iniziato una collaborazione con l'azienda di scarpe 2Stars per un modello speciale firmato col logo del gruppo. Per questo è stato organizzato un tour per negozi d'abbigliamento in tutta Italia: un evento a Rimini è stato annullato per via dell'incredibile folla che ha costretto i gestori del negozio a chiamare le autorità.Negli ultimi anni YouTube ha reso disponibile il Programma Partner di YouTube (YPP) ad una platea di creatori di contenuti sempre maggiore. Dal 18 aprile 2017 tutti gli utenti che caricano video in osservanza delle norme della community e quelle degli inserzionisti, sono teoricamente idonei a monetizzare i loro contenuti, indifferentemente dal numero di iscritti e con un numero di visualizzazioni complessivo per il canale superiore a 10.000. Il 16 gennaio 2018 sono state aggiunte delle restrizioni, come la necessità di avere almeno 4000 ore di visualizzazioni del canale negli ultimi 12 mesi e 1000 iscritti.
+
+
+=== Le assemblee di YouTube ===
+Gli youtuber organizzano periodicamente incontri per celebrare la comunità della condivisione video. Uno dei primi di questi incontri, l'annuale e internazionale As One, si è tenuto per la prima volta nel gennaio 2007 ad Hollywood in California. Il secondo As One, tenutosi il 17 febbraio 2007 nel centro commerciale Pier 39 di San Francisco, ha organizzato la riunione di molti degli utenti più in vista del sito.
+
+
+=== Onorificenze ===
+YouTube ha inoltre premiato video con delle onorificenze, la più popolare riguarda "il più votato" e "il più visto" del giorno, della settimana, del mese, e di sempre. Le distinzioni includono:
+
+Most Viewed
+Top Rated
+Most Discussed
+Top Favorites
+Most Linked
+Recently Featured
+Most Responded
+
+
+== Classifiche ==
+
+
+=== Video con più visualizzazioni ===
+Il video con più "Mi piace" è Despacito di Luis Fonsi e Daddy Yankee, con oltre 52 milioni di "pollici in su". Il videoclip del singolo Butter dei BTS detiene il record di maggior numero di visualizzazioni nelle prime 24 ore con 108,2 milioni.Il 21 dicembre 2012 Gangnam Style di Psy è stato il primo video a raggiungere un miliardo di visualizzazioni; per questa occasione, a fianco al numero di visualizzazioni, YouTube ha inserito un GIF danzante del cantante sudcoreano. Il 30 maggio 2014 il video di Psy ha raggiunto i due miliardi di visualizzazioni, e la GIF, questa volta raddoppiata, è comparsa nuovamente a fianco. Il 1º dicembre 2014 sempre lo stesso video ha raggiunto il più alto numero intero 32-bit (2 147 483 647), utilizzato dal contatore delle visualizzazioni di YouTube, costringendo il team di sviluppo a effettuare un aggiornamento, implementando il contatore a 64-bit (9 223 372 036 854 776 000). Il 4 agosto 2017, l'11 ottobre 2017, il 5 aprile 2018, il 24 febbraio 2019 e il 10 ottobre 2020 Despacito è diventato il primo video a raggiungere 3, 4, 5, 6 e 7 miliardi di visualizzazioni. Il 22 febbraio 2021, il 20 luglio 2021, il 13 gennaio 2022, il 24 luglio 2022, il 29 dicembre 2022 e il 27 giugno 2023 Baby Shark Dance è diventato il primo video a raggiungere 8, 9, 10, 11, 12 e 13 miliardi di visualizzazioni.Nella classifica sottostante sono presenti i dieci video più visti sul sito ed è aggiornata al 26 novembre 2023:
+
+
+=== Canali con più iscritti ===
+La classifica sottostante è aggiornata al 26 novembre 2023:
+
+
+== Influenze su altri siti ==
+Con il successo di YouTube, molti altri siti di condivisione video hanno cercato di emularne il modello; alcuni contengono anche il familiare "tube" alla fine o all'interno del nome. Inoltre, centinaia di siti web hanno creato filtri e mostrano contenuti da YouTube nel tentativo di evitare le pubblicità. YouTube, chiaramente di diritto statunitense, ha il vantaggio dell'applicazione del fair use che non hanno i siti europei.
+
+
+== EuTube ==
+Il 3 marzo 2006 l'Unione europea ha lanciato attraverso YouTube il progetto ANCU-EuTube, curato dalla Commissione europea e teso a rendere disponibili al pubblico i propri materiali audiovisivi. Lo scopo principale del progetto è quello di informare i cittadini sulle attività dei paesi aderenti all'UE. I video disponibili sono in lingua inglese, in lingua francese e in lingua tedesca anche se è in programma un'estensione della gamma linguistica.
+Una particolare attenzione è rivolta al materiale di repertorio riguardante la storia dell'Unione europea, dalla sua fondazione ai tempi attuali.
+
+
+== Leanback ==
+YouTube Leanback è un servizio attivo dal 2012 che permette di visualizzare video ed altri contenuti presenti sul sito, direttamente in televisione.
+
+
+== Canali ufficiali ==
+Non sono solo le persone "comuni" a creare canali su YouTube, ma anche aziende e persone famose che, caricando video di cui detengono il copyright, aumentano la propria popolarità. I canali ufficiali di YouTube vengono detti "partner".
+
+
+== Ricorrenze ==
+Il 17 maggio 2010, giorno del quinto compleanno dall'apertura della beta, YouTube ha festeggiato sostituendo il classico logo con uno raffigurante una candela a forma di 5, festeggiando anche un nuovo traguardo, il raggiungimento di due miliardi di contatti al giorno.
+L'11 giugno 2010, giorno dell'apertura dei mondiali di calcio in Sudafrica, YouTube ha sostituito il classico logo con uno attinente ai mondiali.
+Il 14 novembre 2015, in occasione dell'attentato a Parigi di venerdì 13 novembre, YouTube ha modificato il logo, sostituendolo con la bandiera della Francia.
+Il 24 agosto 2016, in occasione del terremoto avvenuto nel centro-Italia, YouTube ha posto accanto al logo un fiocco nero in segno di lutto.
+Il 14 giugno e il 15 luglio 2018, giorni di apertura e chiusura dei mondiali di calcio in Russia, YouTube ha sostituito la parola "YouTube" con "2018" nel logo che si vede nella home page; cliccando quel numero appaiono i risultati per "2018 Fifa World Cup".
+
+
+== Pesci d'aprile ==
+Dal 2008 fino al 2016 YouTube ha organizzato diversi pesci d'aprile.
+
+Il 1º aprile 2008 i video presenti nella homepage, venivano reindirizzati al video della canzone Never Gonna Give You Up di Rick Astley, seguendo il noto fenomeno di Internet conosciuto con il nome di rickrolling.
+Il 1º aprile 2009 i video e i commenti risultavano capovolti.
+Il 1º aprile 2010 YouTube ha aggiunto un nuovo formato video, il formato "TEXTp", il quale visualizza video con lettere, numeri e segni, del rispettivo colore del video. YouTube ha inserito questo formato, sostenendo che faceva risparmiare al sito 1 dollaro al secondo sui costi della banda larga.
+Il 1º aprile 2011 YouTube ha fatto un salto cent'anni indietro, mostrando dei remake in chiave storica di alcuni dei video più famosi.
+Il 1º aprile 2012 cliccando sull'immagine di un DVD accanto al logo del sito portava gli utenti a un video su "The Collection YouTube", un'opzione che consente di ordinare tutti i video di YouTube per la consegna a domicilio su DVD, videocassette, dischi laser, o nastri Betamax. Il video spoof promozionale promesso era: "L'esperienza di YouTube è completamente offline".
+Il 31 marzo 2013 è comparso online un video che annunciava la chiusura del portale YouTube. All'inizio del filmato compariva lo slogan "It's finally time to pick the winner" e in seguito venivano intervistati il CEO insieme ad un team di giudici, intenti a svelare il reale progetto del sito, quello di premiare il miglior video caricato. Alla fine veniva annunciata la data dell'evento, il 1º aprile 2013. Lo scherzo faceva parte dei "pesci d'aprile" creati dalla società Google.
+Il 1º aprile 2015 YouTube ha aggiunto il tasto "Aggiungi Musica" alla testa dei tasti dedicati alla gestione della riproduzione del filmato. Cliccando sull'icona a forma di nota musicale era possibile riprodurre alcuni secondi del brano Sandstorm di Darude (brano musicale/meme. Il titolo di questo brano è divenuto famoso per la sua onnipresenza in tutte le sezioni commenti di ogni video). Se si cerca una canzone o un cantante o un gruppo musicale sopra ai risultati appare la scritta "Forse cercavi: Darude - Sandstorm by Darude".
+Il 1º aprile 2016 YouTube ha aggiunto il tasto "SnoopaVision" al seguito delle altre icone sulla barra di riproduzione dei video. Se si prova a cliccare sopra si verrà reindirizzati ad una pagina esterna nella quale sarà presente un video promozionale di presentazione del progetto, diretto dal famoso rapper Snoop Dogg, nel quale spiegherà l'ideazione e la realizzazione di questa fantomatica nuova opzione che, a detta sua permetterebbe di visualizzare qualsiasi video in 360° e di aggiungere il rapper stesso al video visualizzato. La data di rilascio per questa nuova opzione cambia ogni volta che si accede alla pagina. Solo pochi video hanno avuto il vantaggio di avere un video a 360° con il rapper che commentava il video. Inoltre, erano disabilitati i commenti per ogni tipo di video.
+
+
+== Easter Egg ==
+
+Nei video letti con il nuovo player è presente un'applicazione che permette di giocare a Snake. Per attivare tale applicazione è necessario visualizzare un video con il nuovo player, premere il tasto pausa in un qualsiasi momento, tenere premuto il tasto freccia sinistra della tastiera per 2-3 secondi e senza rilasciarlo premere il tasto freccia su.
+Dal 2013, premendo il tasto destro del mouse sul video in riproduzione, è possibile trovare tra le varie opzioni del menù a tendina anche la voce "Statistiche per Nerd", nella quale sarà possibile visualizzare tutti i parametri relativi all'audio ed al video in riproduzione.
+Dal 2013 in poi, se viene cercato "Use the force luke", tutti i video caricati avranno un'animazione e si sposteranno nella direzione in cui venga spostato il mouse (non più funzionante).
+Dal 2013, se viene cercato "Beam me up Scotty" i video vengono caricati con una tipica animazione (non più funzionante).
+Dal 2013, se viene cercato sulla barra di ricerca "/geekweek" all'improvviso la HomePage di YouTube diventa completamente diversa e viene visualizzata con codici e caratteri ASCII (non più funzionante).
+Nel 2013, se veniva cercato "Fibonacci" i video venivano caricati in una approssimativa spirale aurea che segue la sequenza di Fibonacci (non più funzionante).
+Dal 2013, se durante la visualizzazione di un video viene digitato "1980", compare improvvisamente un piccolo gioco Flash in cui si debbano distruggere dei missili (non più funzionante).
+Dal 2013, se in un video qualunque viene digitato "1337" tutti i commenti verranno visualizzati con la scrittura Leet (non più funzionante).
+Dal 2013, se nella barra di ricerca viene digitato un personaggio qualunque del cartone My Little Pony - L'amicizia è magica la barra cambierà colore in base al colore del Pony (non più funzionante).
+Dal 2013, se viene cercato Ponies o Bronies, i video caricati avranno un'animazione di Pony che corrono (non più funzionante).
+Dal 2012 o 2013, il video Nyan Cat divenne tanto famoso che YouTube cambiò la barra di caricamento con Nyan Cat (non più funzionante).
+Se sulla barra dell'url di YouTube viene aggiunto /robots.txt (www.youtube.com/robots.txt) apparirà il messaggio "Creato nel distante e futuro anno 2000, dopo la rivolta dei robot a metà degli anni 90 che spazzò via la razza umana", riportante una serie di codici.Se viene cercato "WebDriver Torso", i risultati saranno evidenziati in blu e rosso (non più funzionante).
+Se durante la visualizzazione di un video viene digitato "awesome", la barra di avanzamento assumerà diversi colori, dopodiché digitando "awesome" o "notawesome" la barra tornerà normale.
+Dal 2017 se si apre un video con argomento i fidget spinner il buffering diventerà un fidget spinner (non più funzionante).
+
+
+== Attacchi informatici ==
+Il 4 luglio 2010 YouTube è stato preso di mira da cracker che hanno sfruttato una falla del sistema per rinviare ad altri video, o talvolta a siti pornografici, gli utenti che accedessero ai video di Justin Bieber.
+
+
+== Loghi ==
+
+
+== Note ==
+
+
+== Bibliografia ==
+Andreucci Giacomo, YouTube. Video online e Web TV, Edizioni FAG, Milano, 2012, pp. 304.
+Burgess Jean, Green Joshua, YouTube, con saggio introduttivo di Alberto Abruzzese, Egea, Milano 2009, ISBN 978-88-238-3249-7.
+Miller Michael, Fare business con YouTube. Online video marketing per tutti, Sperling & Kupfer, 2009, pp. 288.
+Bartorelli Guido, Art//Tube. L'arte alla prova della creatività amatoriale, Edizioni Cleup, Padova, 2010, ISBN 978-88-6129-588-9.
+ Daniela Amenta, YOUTUBE, in Enciclopedia Italiana, IX Appendice, Roma, Istituto dell'Enciclopedia Italiana, 2015.  
+
+
+== Voci correlate ==
+Contenuto generato dagli utenti
+Dailymotion
+Deezer
+Google
+Google Video
+LiveLeak
+RaiPlay
+Streaming video
+Spotify
+Vimeo
+Webserie
+YouTube Kids
+YouTube Music
+YouTuber virtuale
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni di o su YouTube
+ Wikimedia Commons contiene immagini o altri file su YouTube Wikinotizie contiene l'articolo YouTube condividerà i ricavi pubblicitari con gli uploader, 27 gennaio 2007 Wikinotizie contiene l'articolo Google acquista YouTube, 10 ottobre 2006
+
+
+== Collegamenti esterni ==
+
+(EN) Sito ufficiale, su youtube.com. 
+(EN, DE, ES, PT) Blog ufficiale, su blog.youtube (archiviato il 9 novembre 2020). 
+ YouTube (canale), su YouTube. 
+ YouTube, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+ YouTube, in Lessico del XXI secolo, Istituto dell'Enciclopedia Italiana, 2012-2013. 
+(EN) William L. Hosch, YouTube, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Opere riguardanti YouTube / YouTube (altra versione), su Open Library, Internet Archive. 
+(EN) YouTube, su GitHub. 
+(EN) YouTube, su Anime News Network. 
+(EN) YouTube, su IMDb, IMDb.com.

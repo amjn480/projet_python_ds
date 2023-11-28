@@ -1,0 +1,42 @@
+Q bzw. q  (gesprochen: in Deutschland und in der Schweiz [kuː]; in Österreich im Allgemeinen [kveː], in der Mathematik [kuː]) ist der 16. Buchstabe des klassischen und der 17. Buchstabe des modernen lateinischen Alphabets. Er bezeichnet einen Konsonanten. In den meisten Sprachen kommt das Q – von Eigennamen abgesehen – nur im Digraphen QU vor, im Deutschen hat diese Buchstabenverbindung den Lautwert /kv/. Der Buchstabe Q hat in deutschen Texten eine durchschnittliche Häufigkeit von 0,02 % und ist somit der seltenste Buchstabe in deutschen Texten.
+Der „Schwanz“ oder „Schweif“ des Buchstabens Q wird fachsprachlich Cauda genannt.
+
+Das Fingeralphabet für Gehörlose bzw. Schwerhörige stellt den Buchstaben Q dar, indem der Zeigefinger und Daumen nach unten zeigen und die restlichen Finger auf der Handfläche ruhen.
+
+
+== Herkunft ==
+Ob der Buchstabe bereits in der protosinaitischen Schrift auftauchte, ist umstritten. Wenn das der Fall ist, so ist die Frühform des Qs wohl ein Symbol, das wie eine 8 aussieht. Der früheste mit Sicherheit identifizierte Vorläufer ist der Buchstabe Qoph im phönizischen Alphabet. Dieser Buchstabe hat bereits starke Ähnlichkeiten mit dem lateinischen Q. Als Begründung für das Aussehen des Qophs gibt es zwei Theorien: Basierend auf dem akrophonischen Prinzip könnte der Buchstabe seinem Namen (qoph bedeutet „Affe“) nach die Rückenansicht eines Affen darstellen, der Strich dessen Schwanz. Eine andere Möglichkeit wäre, dass das Symbol einen menschlichen Kopf mit Hals darstellt. Bei den Phöniziern hatte Kof den Lautwert /q/ für den stimmlosen uvularen Plosiv. Die Lautung des [q] entspricht einem k, das im Rachen (am Zäpfchen, der Uvula) ausgesprochen wird.
+Die Griechen übernahmen den Buchstaben als Qoppa in ihr Alphabet und veränderten ihn so, dass die vertikale Linie nicht mehr durchgezogen wurde. Da Griechisch den Laut /q/ nicht enthielt, benutzten sie das Qoppa für den /k/-Laut vor den Hintervokalen /o/ und /u/, während sie /k/ vor den übrigen Vokalen mit Kappa schrieben. Weil sich zwei Buchstaben für ein Phonem als redundant erwiesen, wurde das Qoppa früh abgeschafft und blieb nur noch als Zahlzeichen für 90 in Gebrauch.
+Als die Etrusker das griechische Alphabet übernahmen, war das Qoppa noch in Gebrauch und wurde so auch in das altitalische Alphabet übernommen. Der Buchstabe V konnte bei den Etruskern sowohl den Lautwert /β/ als auch /u/ haben, und die etruskische Sprache enthielt beide Lautfolgen /kβ/ und /ku/. Um dazwischen unterscheiden zu können, verwendeten die Etrusker entsprechend der griechischen Praxis den Buchstaben Q um /k/ vor /u/ wiederzugeben (ein /o/ gab es im Etruskischen nicht). Neben dem K, das vor /a/ verwendet wurde, und dem aus dem griechischen Gamma hervorgegangenen C (das Etruskische kannte keine stimmhaften Konsonanten), das vor /e/ und /i/ verwendet wurde, hatte das Etruskische also auch einen dritten Buchstaben mit dem Lautwert /k/.
+Über die etruskische Vermittlung gelangte das Q auch in das lateinische Alphabet, lediglich der untere Strich wanderte mit der Zeit nach rechts. Anfangs folgte man der etruskischen Praxis und schrieb z. B. PEQUNIA für pecunia („Geld“). Später ging man dazu über, das /k/ nur noch mit C zu schreiben. Das Q behielt man aber in der Buchstabenkombination <QV> (= <QU>) bei, um den Laut [kʷ] schreiben zu können. Dieser war aus dem urindogermanischen Labiovelar hervorgegangen und stellte im Lateinischen nicht einfach eine Verbindung aus [k] und [w], sondern ein eigenständiges Phonem dar. Wie sich unter anderem aus den metrischen Regeln der Dichtung ergibt, wurde das [kʷ] auch als eigenständiger Laut aufgefasst. Deshalb war es auch folgerichtig, für ihn eine spezielle Schreibweise zu verwenden. So konnte qui [kʷiː] („wer“) von cui [ˈkui]  („wem“) unterschieden werden.
+
+
+== Verwendung ==
+In vielen Sprachen, die mit dem lateinischen Alphabet geschrieben werden, ist aus historischen Gründen das Graphem <QU> für <KV> oder <KW> erhalten geblieben, obwohl es in diesen Sprachen kein eigenständiges Phonem darstellt. Im Deutschen wird der Digraph <QU> als [kv], in vielen anderen Sprachen, etwa dem Englischen als [kw] ausgesprochen. In einigen romanischen Sprachen (Französisch, Spanisch, Portugiesisch) verwendet man <QU> für den /k/-Laut vor den Vordervokalen /e/ oder /i/ (Beispiel: Québec).
+In verschiedenen Sprachen kann das Q auch ohne nachfolgendes U vorkommen. In der Orthografie des Albanischen steht das Q seit 1908 für den stimmlosen palatalen Plosiv [c]. In der für das Chinesische verwendeten Pinyin-Umschrift steht das Q für die Affrikate [tɕʰ].
+Im internationalen phonetischen Alphabet (IPA) bezeichnet das Graphem in Anlehnung an das Qoph der Phönizier den stimmlosen uvularen Plosiv [q]. In einigen modernen Alphabeten außereuropäischer Sprachen wird der Buchstabe Q für diesen Laut verwendet, so im Quechua, Aymara, Quiché und Grönländischen (Kalaallisut). Bei der Transkription des Arabischen wird das arabische Qāf, das ebenfalls auf das phönizische Qoph zurückgeht und denselben Lautwert hat, bisweilen mit Q wiedergegeben (z. B. „Qalam“). Im Somali bezeichnet Q den stimmhaften uvularen Plosiv, im Maltesischen einen Glottisschlag. In einigen Sprachen des südlichen Afrika (z. B. Zulu und Xhosa) repräsentiert ein Q einen Klicklaut.
+
+
+== Varianten ==
+Ein nach links gekipptes Q (℺) (ROTATED CAPITAL Q) ist im Unicode-Zeichensatz Version 3.0.0 vom September 1999 unter U+213a enthalten.
+Ein spiegelbildliches Q (⌕) (TELEPHONE RECORDER) ist bereits in Unicode 1.0.0 unter U+2315 enthalten und symbolisiert – etwa in alten Telefonbüchern – einen Anrufbeantworter.
+
+
+== Zitat ==
+
+
+== Siehe auch ==
+ق, der arabische Buchstabe Qāf
+ק, der hebräische Buchstabe Koph
+
+
+== Literatur und Film ==
+Beantwortung einer Leserfrage. In: Der Sprachdienst 4, 2014, Seite 168–169. Der kurze Artikel behandelt die Geschichte des q vom phönizischen Qoph über das Griechische, Etruskische und Lateinische bis zum Deutschen.
+Q ist ein Wesen, das im Star-Trek-Universum einer gleichnamigen, omnipotenten Spezies angehört.
+Q ist die für die Ausrüstung von Agenten zuständige Person des MI6 in James-Bond-Filmen, abgekürzt von „Quartermaster“.
+
+
+== Weblinks ==
+
+http://www.wam.umd.edu/~rfradkin/alphapage.html
+Videotutorial zu Herkunft und Entstehung des Buchstabens Q in Daniel Scholtens Belles-Lettres-Podcast

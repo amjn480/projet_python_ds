@@ -1,0 +1,2091 @@
+El número áureo, también llamado numero aureario, número de oro, número de Dios, razón extrema y media,[2]​  razón dorada, media áurea, proporción áurea y divina proporción,[3]​ es un número irracional,[4]​ representado por la letra latina-griega  φ (phi) (en minúscula) o Φ (Phi) (en mayúscula) en honor al escultor griego Fidias.
+Su valor numérico, mediante radicales o decimales es:
+
+  
+    
+      
+        φ
+        =
+        
+          
+            
+              1
+              +
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+        ≈
+        1.618
+         
+        033
+         
+        988
+         
+        749
+         
+        894
+        …
+      
+    
+    {\displaystyle \varphi ={\frac {1+{\sqrt {5}}}{2}}\approx 1.618\ 033\ 988\ 749\ 894\ldots }
+  
+Al ser irracional, no es posible representarlo con exactitud como una fracción decimal; se puede seguir calculando cifras, pero nunca se alcanza la última.
+También se representa con la letra griega tau (Τ τ),[5]​ por ser la primera letra de la raíz griega τομή, que significa acortar, aunque es más común encontrarlo representado con la letra fi (phi) (Φ,φ). También se representa con la letra griega alfa minúscula.[6]​
+Se trata de un número algebraico irracional (su representación decimal es infinita y no tiene periodo) que posee muchas propiedades interesantes y que fue descubierto en la Antigüedad, no como una expresión aritmética, sino como relación o proporción entre dos segmentos de una recta, es decir, una construcción geométrica. Esta proporción se encuentra tanto en algunas figuras geométricas como en la naturaleza: en las nervaduras de las hojas de algunos árboles, en el grosor de las ramas, en el caparazón de un caracol, en los flósculos de los girasoles, etc. Una de sus propiedades aritméticas más curiosas es que su cuadrado (Φ2 ≈ 2,61803398874988…) y su recíproco (1/Φ ≈ 0,61803398874988…) tienen las mismas infinitas cifras decimales.
+Asimismo, se atribuye un carácter estético a los objetos cuyas medidas guardan la proporción áurea. Algunos incluso creen que posee una importancia mística. A lo largo de la historia, se ha atribuido su inclusión en el diseño de diversas obras de arquitectura y otras artes, aunque algunos de estos casos han sido cuestionados por los estudiosos de las matemáticas y el arte.
+
+
+== Definición ==
+El número áureo es el valor numérico de la proporción que guardan entre sí dos segmentos de recta a y b (a más largo que b), que cumplen la siguiente relación:
+
+La longitud total, suma de los dos segmentos a y b, es al segmento mayor a, lo que este segmento a es al menor b. Escrito como ecuación algebraica:
+  
+    
+      
+        
+          
+            
+              a
+              +
+              b
+            
+            a
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\frac {a+b}{a}}={\frac {a}{b}}}
+  
+Siendo el valor del número áureo φ el cociente: 
+  
+    
+      
+        ϕ
+        =
+        a
+        
+          /
+        
+        b
+      
+    
+    {\displaystyle \phi =a/b}
+  . Surge al plantear el problema geométrico siguiente: partir un segmento en otros dos, de forma que, al dividir la longitud total por la del segmento mayor, obtengamos el mismo resultado que al dividir la longitud del segmento mayor por la del menor.
+
+
+=== Cálculo del valor del número áureo ===
+Dos números a y b están en proporción áurea si se cumple: 
+
+  
+    
+      
+        φ
+        =
+        
+          
+            
+              1
+              +
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \varphi ={\frac {1+{\sqrt {5}}}{2}}}
+   
+  
+    
+      
+        ≈
+        1
+        ,
+        61803398874989484820
+      
+    
+    {\displaystyle \approx 1,61803398874989484820}
+  
+  
+    
+      
+        45868343656381177203
+        …
+      
+    
+    {\displaystyle 45868343656381177203\ldots }
+  
+
+que es el valor del número áureo, equivalente a la relación 
+  
+    
+      
+        a
+        
+          /
+        
+        b
+      
+    
+    {\displaystyle a/b}
+  .
+
+
+== Historia del número áureo ==
+Algunos autores sugieren que el número áureo se encuentra como proporción en varias estelas de Babilonia y Asiria de alrededor de 2000 a. C. Sin embargo, no existe documentación histórica que indique que el número áureo fuera utilizado conscientemente por dichos artistas en la elaboración de las estelas. Cuando se mide una estructura compleja, es fácil obtener resultados curiosos si se tienen muchas medidas disponibles. Además, para que se pueda afirmar que el número áureo está presente, las medidas deben tomarse desde puntos significativos del objeto, pero este no es el caso de muchas hipótesis que defienden la presencia del número áureo. Por todas estas razones Mario Livio concluye que es muy improbable que los babilonios hayan descubierto el número áureo.[8]​
+
+
+=== Antigüedad ===
+El primero en hacer un estudio formal del número áureo fue Euclides (c. 300 a. C-265 a. C.), quien lo definió de la siguiente manera:
+
+ 
+
+Euclides demostró también que este número no puede ser descrito como la razón de dos números enteros; es decir, es un número irracional.
+Platón (c. 428-347 a. C.) puede haber estudiado el número áureo; sin embargo, puede ser que se le atribuya el desarrollo de teoremas relacionados con el número áureo debido a que el historiador griego Proclo escribió:
+
+ 
+
+Aquí a menudo se interpretó la palabra sección (τομή) como la sección áurea. Sin embargo a partir del siglo XIX esta interpretación ha sido motivo de gran controversia y muchos investigadores han llegado a la conclusión de que la palabra sección no tuvo nada que ver con el número áureo. No obstante, Platón consideró que los números irracionales, descubiertos por los pitagóricos, eran de particular importancia y la llave de la física del cosmos. Esta opinión tuvo una gran influencia en muchos filósofos y matemáticos posteriores, en particular los neoplatónicos.
+
+
+=== Edad Moderna ===
+En 1509 el matemático y teólogo italiano Luca Pacioli publicó De Divina Proportione (La Divina Proporción), donde plantea cinco razones por las que estima apropiado considerar divino al número áureo:
+
+La unicidad; Pacioli compara el valor único del número áureo con la unicidad de Dios.
+El hecho de que esté definido por tres segmentos de recta, Pacioli lo asocia con la Trinidad.
+La inconmensurabilidad; para Pacioli la inconmensurabilidad del número áureo y la inconmensurabilidad de Dios son equivalentes.
+La autosimilitud asociada al número áureo; Pacioli la compara con la omnipresencia e invariabilidad de Dios.
+Según Pacioli, de la misma manera en que Dios dio ser al Universo a través de la quinta esencia, representada por el dodecaedro, el número áureo dio ser al dodecaedro.En 1525, Alberto Durero publicó Instrucción sobre la medida con regla y compás de figuras planas y sólidas, donde describe cómo trazar con regla y compás la espiral áurea basada en la sección áurea, que se conoce como “espiral de Durero”.
+El astrónomo Johannes Kepler (1571-1630) desarrolló un modelo platónico del sistema solar utilizando los sólidos platónicos, y se refirió al número áureo en términos grandiosos:
+
+ 
+
+El primer uso conocido del adjetivo áureo, dorado, o de oro, para referirse a este número lo hace el matemático alemán Martin Ohm, hermano del célebre físico Georg Simon Ohm, en la segunda edición de 1835 de su libro Die Reine Elementar Matematik (Las matemáticas puras elementales). Ohm escribe en una nota al pie:
+
+ 
+
+A pesar de que la forma de escribir sugiere que el término ya era de uso común para la fecha, el hecho de que no lo incluyera en su primera edición sugiere que el término pudo ganar popularidad alrededor de 1830.
+En los textos de matemáticas que trataban el tema, el símbolo habitual para representar el número áureo fue τ, del griego τομή, que significa ‘corte o sección’. Sin embargo, la moderna denominación Φ o φ la efectuó en 1900 el matemático Mark Barr en honor a Fidias, ya que esta era la primera letra de su nombre escrito en griego (Φειδίας). Este honor se le concedió a Fidias por el máximo valor estético atribuido a sus esculturas, propiedad que ya por entonces se le atribuía también al número áureo. Mark Barr y Schooling fueron responsables de los apéndices matemáticos del libro The Curves of Life, de sir Theodore Cook.
+
+
+== El número áureo en las matemáticas ==
+
+
+=== Propiedades y representaciones ===
+
+
+==== Ángulo de Plata ====
+
+  
+    
+      
+        
+          
+            
+              360
+              
+                ∘
+              
+            
+            
+              φ
+              +
+              
+                1
+              
+            
+          
+        
+        ≈
+        137
+        
+          .
+        
+        
+          5
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle {\frac {360^{\circ }}{\varphi +{1}}}\approx 137{.}5^{\circ }}
+   razón número áureo
+
+
+==== Propiedades aritméticas ====
+
+  
+    
+      
+        
+          φ
+          =
+          1.618033988749894848204586834365638117720309...
+        
+      
+    
+    {\displaystyle \textstyle \varphi =1.618033988749894848204586834365638117720309...}
+   es el único número real positivo tal que:
+  
+    
+      
+        
+          φ
+          
+            2
+          
+        
+        =
+        φ
+        +
+        1
+         
+      
+    
+    {\displaystyle \varphi ^{2}=\varphi +1\ }
+  φ posee además las siguientes propiedades, derivadas de la anterior:
+  
+    
+      
+        φ
+        −
+        1
+        =
+        
+          
+            1
+            φ
+          
+        
+         
+      
+    
+    {\displaystyle \varphi -1={\frac {1}{\varphi }}\ }
+  
+  
+    
+      
+        
+          φ
+          
+            3
+          
+        
+        =
+        
+          
+            
+              φ
+              +
+              1
+            
+            
+              φ
+              −
+              1
+            
+          
+        
+         
+      
+    
+    {\displaystyle \varphi ^{3}={\frac {\varphi +1}{\varphi -1}}\ }
+  
+  
+    
+      
+        
+          φ
+          
+            2
+          
+        
+        −
+        
+          
+            1
+            φ
+          
+        
+        =
+        2
+         
+      
+    
+    {\displaystyle \varphi ^{2}-{\frac {1}{\varphi }}=2\ }
+  Las potencias del número áureo pueden expresarse en función de una suma de potencias de grados inferiores del mismo número, establecida una verdadera sucesión recurrente de potencias.El caso más simple es: 
+  
+    
+      
+        
+          φ
+          
+            n
+          
+        
+        =
+        
+          φ
+          
+            n
+            −
+            1
+          
+        
+        +
+        
+          φ
+          
+            n
+            −
+            2
+          
+        
+        
+      
+    
+    {\displaystyle \varphi ^{n}=\varphi ^{n-1}+\varphi ^{n-2}\,}
+  , cualquiera sea n un número entero. Este caso es una sucesión recurrente de orden k = 2, pues se recurre a dos potencias anteriores.Una ecuación recurrente de orden k tiene la forma:
+
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        
+          u
+          
+            n
+            +
+            k
+            −
+            1
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        
+          u
+          
+            n
+            +
+            k
+            −
+            2
+          
+        
+        +
+        .
+        .
+        .
+        +
+        
+          a
+          
+            k
+          
+        
+        
+          u
+          
+            n
+          
+        
+        
+      
+    
+    {\displaystyle a_{1}u_{n+k-1}+a_{2}u_{n+k-2}+...+a_{k}u_{n}\,}
+  ,donde 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        
+      
+    
+    {\displaystyle a_{i}\,}
+   es cualquier número real o complejo y k es un número natural menor o igual a n y mayor o igual a 1. En el caso anterior es 
+  
+    
+      
+        
+          k
+          =
+          2
+          
+        
+      
+    
+    {\displaystyle \scriptstyle k=2\,}
+  , 
+  
+    
+      
+        
+          
+            a
+            
+              1
+            
+          
+          =
+          1
+          
+        
+      
+    
+    {\displaystyle \scriptstyle a_{1}=1\,}
+   y 
+  
+    
+      
+        
+          
+            a
+            
+              2
+            
+          
+          =
+          1
+          
+        
+      
+    
+    {\displaystyle \scriptstyle a_{2}=1\,}
+  .Pero podemos «saltar» la potencia inmediatamente anterior y escribir:
+  
+    
+      
+        
+          φ
+          
+            n
+          
+        
+        =
+        
+          φ
+          
+            n
+            −
+            2
+          
+        
+        +
+        2
+        
+          φ
+          
+            n
+            −
+            3
+          
+        
+        +
+        
+          φ
+          
+            n
+            −
+            4
+          
+        
+        
+      
+    
+    {\displaystyle \varphi ^{n}=\varphi ^{n-2}+2\varphi ^{n-3}+\varphi ^{n-4}\,}
+  . Aquí 
+  
+    
+      
+        
+          k
+          =
+          4
+          
+        
+      
+    
+    {\displaystyle \scriptstyle k=4\,}
+  , 
+  
+    
+      
+        
+          
+            a
+            
+              1
+            
+          
+          =
+          0
+          
+        
+      
+    
+    {\displaystyle \scriptstyle a_{1}=0\,}
+  , 
+  
+    
+      
+        
+          
+            a
+            
+              2
+            
+          
+          =
+          1
+          
+        
+      
+    
+    {\displaystyle \scriptstyle a_{2}=1\,}
+  , 
+  
+    
+      
+        
+          
+            a
+            
+              3
+            
+          
+          =
+          2
+          
+        
+      
+    
+    {\displaystyle \scriptstyle a_{3}=2\,}
+   y 
+  
+    
+      
+        
+          
+            a
+            
+              4
+            
+          
+          =
+          1
+          
+        
+      
+    
+    {\displaystyle \scriptstyle a_{4}=1\,}
+  .Si anulamos las dos potencias inmediatamente anteriores, también hay una fórmula recurrente de orden 6:
+  
+    
+      
+        
+          φ
+          
+            n
+          
+        
+        =
+        
+          φ
+          
+            n
+            −
+            3
+          
+        
+        +
+        3
+        
+          φ
+          
+            n
+            −
+            4
+          
+        
+        +
+        3
+        
+          φ
+          
+            n
+            −
+            5
+          
+        
+        +
+        
+          φ
+          
+            n
+            −
+            6
+          
+        
+        
+      
+    
+    {\displaystyle \varphi ^{n}=\varphi ^{n-3}+3\varphi ^{n-4}+3\varphi ^{n-5}+\varphi ^{n-6}\,}
+  En general:
+  
+    
+      
+        
+          φ
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            k
+            
+              /
+            
+            2
+          
+        
+        
+          
+            
+              (
+            
+            
+              
+                
+                  k
+                  2
+                
+              
+              i
+            
+            
+              )
+            
+          
+        
+        
+          φ
+          
+            
+              [
+              
+                n
+                −
+                
+                  (
+                  
+                    
+                      
+                        k
+                        2
+                      
+                    
+                    +
+                    i
+                  
+                  )
+                
+              
+              ]
+            
+          
+        
+        ;
+        
+        k
+        =
+        2
+        j
+        ,
+         
+        n
+        ,
+         
+        i
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle \varphi ^{n}=\sum _{i=0}^{k/2}{{\frac {k}{2}} \choose i}\varphi ^{\left[\textstyle n-\left(\textstyle {\frac {k}{2}}+i\right)\right]};\qquad k=2j,\ n,\ i\in \mathbb {N} }
+  .En resumen, cualquier potencia del número áureo puede ser considerada como el elemento de una sucesión recurrente de órdenes 2, 4, 6, 8,..., 2k; donde k es un número natural. En la fórmula recurrente es posible que aparezcan potencias negativas de 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  , hecho totalmente correcto. Además, una potencia negativa de 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   corresponde a una potencia positiva de su inverso, la sección áurea.Este curioso conjunto de propiedades y el hecho de que los coeficientes significativos sean los del binomio, parecieran indicar que entre el número áureo y el número e hay un parentesco.El número áureo 
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    5
+                  
+                
+                +
+                1
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {{\sqrt {5}}+1}{2}}}
+   es la unidad fundamental «ε» del cuerpo de números algebraicos 
+  
+    
+      
+        
+          Q
+        
+        
+          (
+          
+            
+              5
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \mathbb {Q} \left({\sqrt {5}}\right)}
+   y la sección áurea 
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    5
+                  
+                
+                −
+                1
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {{\sqrt {5}}-1}{2}}}
+   es su inversa, «
+  
+    
+      
+        
+          ε
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \varepsilon ^{-1}}
+  ». En esta extensión el «emblemático» número irracional 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   cumple las siguientes igualdades:
+  
+    
+      
+        
+          
+            2
+          
+        
+        =
+        
+          
+            
+              
+                
+                  5
+                
+              
+              +
+              1
+            
+            2
+          
+        
+        
+          
+            3
+            −
+            
+              
+                5
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  5
+                
+              
+              −
+              1
+            
+            2
+          
+        
+        
+          
+            3
+            +
+            
+              
+                5
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}={\frac {{\sqrt {5}}+1}{2}}{\sqrt {3-{\sqrt {5}}}}={\frac {{\sqrt {5}}-1}{2}}{\sqrt {3+{\sqrt {5}}}}}
+  .
+
+
+==== Representación mediante fracciones continuas ====
+La expresión mediante fracciones continuas es:
+
+  
+    
+      
+        φ
+        =
+        1
+        +
+        
+          
+            1
+            φ
+          
+        
+        
+        ⟶
+        
+        φ
+        =
+        1
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                1
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                1
+                                                +
+                                                .
+                                                .
+                                                .
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \varphi =1+{\frac {1}{\varphi }}\quad \longrightarrow \quad \varphi =1+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{1+...}}}}}}}}}
+  
+
+Esta iteración es la única donde sumar es multiplicar y restar es dividir. Es también la más simple de todas las fracciones continuas y la que tiene la convergencia más lenta. Esa propiedad hace que además el número áureo sea un número mal aproximable mediante racionales que de hecho alcanza el peor grado posible de aproximabilidad mediante racionales.[9]​
+Por ello se dice que 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   es el número más alejado de lo racional o el número más irracional. Este es el motivo por el cual aparece en el teorema de Kolmogórov-Arnold-Moser.
+
+
+==== Representación trigonométrica ====
+
+  
+    
+      
+        φ
+        =
+        1
+        +
+        2
+        sen
+        ⁡
+        (
+        π
+        
+          /
+        
+        10
+        )
+        =
+        1
+        +
+        2
+        sen
+        ⁡
+        
+          18
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle \varphi =1+2\operatorname {sen}(\pi /10)=1+2\operatorname {sen} 18^{\circ }}
+  
+
+  
+    
+      
+        φ
+        =
+        
+          
+            1
+            2
+          
+        
+        csc
+        ⁡
+        (
+        π
+        
+          /
+        
+        10
+        )
+        =
+        
+          
+            1
+            2
+          
+        
+        csc
+        ⁡
+        
+          18
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle \varphi ={1 \over 2}\csc(\pi /10)={1 \over 2}\csc 18^{\circ }}
+  
+
+  
+    
+      
+        φ
+        =
+        2
+        cos
+        ⁡
+        (
+        π
+        
+          /
+        
+        5
+        )
+        =
+        2
+        cos
+        ⁡
+        
+          36
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle \varphi =2\cos(\pi /5)=2\cos 36^{\circ }}
+  
+
+  
+    
+      
+        φ
+        =
+        
+          
+            1
+            2
+          
+        
+        sec
+        ⁡
+        
+          
+            2
+            5
+          
+        
+        
+        π
+        =
+        
+          
+            1
+            2
+          
+        
+        sec
+        ⁡
+        
+          72
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle \varphi ={\frac {1}{2}}\sec {\frac {2}{5}}\,\pi ={\frac {1}{2}}\sec 72^{\circ }}
+  
+
+  
+    
+      
+        φ
+        =
+        
+          
+            
+              sen
+              ⁡
+              (
+              2
+              π
+              
+                /
+              
+              5
+              )
+            
+            
+              sen
+              ⁡
+              (
+              1
+              π
+              
+                /
+              
+              5
+              )
+            
+          
+        
+        
+        =
+        
+          
+            
+              sen
+              ⁡
+              (
+              
+                72
+                
+                  ∘
+                
+              
+              )
+            
+            
+              sen
+              ⁡
+              (
+              
+                36
+                
+                  ∘
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \varphi ={\frac {\operatorname {sen}(2\pi /5)}{\operatorname {sen}(1\pi /5)}}\,={\frac {\operatorname {sen}(72^{\circ })}{\operatorname {sen}(36^{\circ })}}}
+  Estas corresponden al hecho de que la diagonal de un pentágono regular (distancia entre dos vértices no consecutivos) es φ veces la longitud de su lado, y de otras relaciones similares en el pentagrama.
+
+
+==== Representación mediante raíces anidadas ====
+
+  
+    
+      
+        φ
+        =
+        
+          
+            1
+            +
+            φ
+          
+        
+        
+        ⟶
+        
+        φ
+        =
+        
+          
+            1
+            +
+            
+              
+                1
+                +
+                
+                  
+                    1
+                    +
+                    
+                      
+                        1
+                        +
+                        ⋯
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \varphi ={\sqrt {1+\varphi }}\quad \longrightarrow \quad \varphi ={\sqrt {1+{\sqrt {1+{\sqrt {1+{\sqrt {1+\cdots }}}}}}}}}
+  Esta fórmula como caso particular de una identidad general publicada por Nathan Altshiller-Court, de la Universidad de Oklahoma, en la revista American Mathematical Monthly, 1917. El teorema general dice que la expresión 
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              a
+              
+                1
+              
+            
+            +
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                +
+                
+                  
+                    
+                      a
+                      
+                        3
+                      
+                    
+                    +
+                    
+                      
+                        
+                          a
+                          
+                            4
+                          
+                        
+                        +
+                        
+                          
+                            ⋯
+                            +
+                            
+                              
+                                
+                                  a
+                                  
+                                    n
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\sqrt {a_{1}+{\sqrt {a_{2}+{\sqrt {a_{3}+{\sqrt {a_{4}+{\sqrt {\cdots +{\sqrt {a_{n}}}}}}}}}}}}}}
+  donde 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        =
+        a
+        
+      
+    
+    {\displaystyle a_{i}=a\,}
+  , es igual a la mayor de las raíces de la ecuación 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        x
+        −
+        a
+        =
+        0
+        ,
+      
+    
+    {\displaystyle x^{2}-x-a=0,}
+   o sea, 
+  
+    
+      
+        
+          
+            
+              
+                1
+                +
+                
+                  
+                    1
+                    +
+                    4
+                    a
+                  
+                
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1+{\sqrt {1+4a}}}{2}}}
+  .
+
+
+==== Relación con la sucesión de Fibonacci ====
+Si se denota el enésimo número de Fibonacci como Fn, y al siguiente número de Fibonacci como Fn + 1, descubrimos que, a medida que n aumenta, esta razón oscila y es alternativamente menor y mayor que la razón áurea. Podemos también notar que la fracción continua que describe al número áureo produce siempre números de Fibonacci a medida que aumenta el número de unos en la fracción. Por ejemplo: 
+  
+    
+      
+        
+          
+            
+              3
+              2
+            
+          
+          =
+          1.5
+        
+      
+    
+    {\displaystyle \textstyle {\frac {3}{2}}=1.5}
+  ; 
+  
+    
+      
+        
+          
+            
+              8
+              5
+            
+          
+          =
+          1.6
+        
+      
+    
+    {\displaystyle \textstyle {\frac {8}{5}}=1.6}
+  ; y 
+  
+    
+      
+        
+          
+            
+              21
+              13
+            
+          
+          =
+          1.61538461...
+        
+      
+    
+    {\displaystyle \textstyle {\frac {21}{13}}=1.61538461...}
+  , lo que se acerca considerablemente al número áureo. Entonces se tiene que:
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              F
+              
+                n
+                +
+                1
+              
+            
+            
+              F
+              
+                n
+              
+            
+          
+        
+        =
+        φ
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\frac {F_{n+1}}{F_{n}}}=\varphi }
+  Esta propiedad fue descubierta por el astrónomo alemán Johannes Kepler, pero pasaron más de cien años antes de que fuera demostrada por el matemático escocés Robert Simson.
+Con posterioridad se encontró que cualquier sucesión aditiva recurrente de orden 2 tiende al mismo límite. Por ejemplo, si tomamos dos números naturales arbitrarios, por ejemplo 3 y 7, la sucesión recurrente resulta: 3, 7, 10, 17, 27, 44, 71, 115, 186, 301, … Los cocientes de términos sucesivos producen aproximaciones racionales que se acercan asintóticamente por exceso y por defecto al mismo límite: 44/27 = 1.6296296…; 71/44 = 1.613636…; 301/186 = 1.6182795.[10]​
+A mediados del siglo XIX, el matemático francés Jacques Philippe Marie Binet redescubrió una fórmula que aparentemente ya era conocida por Leonhard Euler, y por otro matemático francés, Abraham de Moivre. La fórmula permite encontrar el enésimo número de Fibonacci sin la necesidad de producir todos los números anteriores. La fórmula de Binet depende exclusivamente del número áureo:
+
+  
+    
+      
+        
+          F
+          
+            n
+          
+        
+        =
+        
+          
+            1
+            
+              5
+            
+          
+        
+        
+          [
+          
+            
+              
+                (
+                
+                  
+                    
+                      1
+                      +
+                      
+                        
+                          5
+                        
+                      
+                    
+                    2
+                  
+                
+                )
+              
+              
+                n
+              
+            
+            −
+            
+              
+                (
+                
+                  
+                    
+                      1
+                      −
+                      
+                        
+                          5
+                        
+                      
+                    
+                    2
+                  
+                
+                )
+              
+              
+                n
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle F_{n}={\frac {1}{\sqrt {5}}}\left[\left({\frac {1+{\sqrt {5}}}{2}}\right)^{n}-\left({\frac {1-{\sqrt {5}}}{2}}\right)^{n}\right]}
+   
+  
+    
+      
+        =
+        
+          
+            
+              
+                φ
+                
+                  n
+                
+              
+              −
+              (
+              1
+              −
+              φ
+              
+                )
+                
+                  n
+                
+              
+            
+            
+              5
+            
+          
+        
+      
+    
+    {\displaystyle ={\frac {\varphi ^{n}-(1-\varphi )^{n}}{\sqrt {5}}}}
+  
+para n >0 y  n es un número entero positivo.
+
+
+=== El número áureo en la geometría ===
+El número áureo y la sección áurea están presentes en todos los objetos geométricos regulares o semirregulares en los que haya simetría pentagonal, que sean pentágonos o que aparezca de alguna manera la raíz cuadrada de cinco.
+
+Relaciones entre las partes del pentágono.
+Relaciones entre las partes del pentágono estrellado, pentáculo o pentagrama.
+Relaciones entre las partes del decágono.
+Relaciones entre las partes del dodecaedro y del icosaedro.
+
+
+==== El rectángulo áureo de Euclides ====
+
+El rectángulo AEFD es áureo porque sus lados AE y AD están en la proporción del número áureo. Euclides, en su proposición 2.11 de Los elementos, obtiene su construcción:
+
+  
+    
+      
+        G
+        C
+        =
+        
+          
+            5
+          
+        
+      
+    
+    {\displaystyle GC={\sqrt {5}}}
+  Con centro en G se obtiene el punto E, y por lo tanto:
+
+  
+    
+      
+        G
+        E
+        =
+        G
+        C
+        =
+        
+          
+            5
+          
+        
+      
+    
+    {\displaystyle GE=GC={\sqrt {5}}}
+  con lo que resulta evidente que
+
+  
+    
+      
+        A
+        E
+        =
+        A
+        G
+        +
+        G
+        E
+        =
+        1
+        +
+        
+          
+            5
+          
+        
+      
+    
+    {\displaystyle AE=AG+GE=1+{\sqrt {5}}}
+  de donde, finalmente,
+
+  
+    
+      
+        
+          
+            
+              A
+              E
+            
+            
+              A
+              D
+            
+          
+        
+        =
+        
+          
+            
+              1
+              +
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+        =
+        φ
+      
+    
+    {\displaystyle {\frac {AE}{AD}}={\frac {1+{\sqrt {5}}}{2}}=\varphi }
+  Por otra parte, los rectángulos AEFD y BEFC son semejantes, de modo que este último es asimismo un rectángulo áureo.
+
+De otra manera:
+
+  
+    
+      
+        φ
+        =
+        
+          
+            
+              
+                (
+                
+                  
+                    1
+                    2
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            +
+            1
+          
+        
+        +
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\displaystyle \varphi ={\sqrt {\left({\frac {1}{2}}\right)^{2}+1}}+{\frac {1}{2}}}
+  
+
+
+==== En el pentagrama ====
+El número áureo tiene un papel muy importante en los pentágonos regulares y en los pentagramas. Cada intersección de partes de un segmento se interseca con otro segmento en una razón áurea.
+El pentagrama incluye diez triángulos isósceles: cinco acutángulos y cinco obtusángulos. En ambos, la razón de lado mayor y el menor es φ. Estos triángulos se conocen como los triángulos áureos.
+Teniendo en cuenta la gran simetría de este símbolo, se observa que dentro del pentágono interior es posible dibujar una nueva estrella, con una recursividad hasta el infinito. Del mismo modo, es posible dibujar un pentágono por el exterior, que sería a su vez el pentágono interior de una estrella más grande. Al medir la longitud total de una de las cinco líneas del pentáculo interior, resulta igual a la longitud de cualquiera de los brazos de la estrella mayor, o sea Φ. Por lo tanto, el número de veces en que aparece el número áureo en el pentagrama es infinito al añadir infinitos pentagramas.
+
+
+==== El teorema de Ptolomeo y el pentágono ====
+Claudio Ptolomeo desarrolló un teorema conocido como el teorema de Ptolomeo, el cual permite trazar un pentágono regular mediante regla y compás. Aplicando este teorema, se forma un cuadrilátero al quitar uno de los vértices del pentágono, Si las diagonales y la base mayor miden b, y los lados y la base menor miden a, resulta que b2 = a2 + ab lo que implica:
+
+  
+    
+      
+        
+          
+            b
+            a
+          
+        
+        =
+        
+          
+            
+              1
+              +
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+        
+        .
+      
+    
+    {\displaystyle {b \over a}={{1+{\sqrt {5}}} \over 2}\,.}
+  
+
+
+==== Pentágono estrellado ====
+Aparece el número de la justa razón entre los segmentos parciales de los lados de un pentágono estrellado.[11]​
+
+
+==== Trigonometría ====
+El seno de 18º es la mitad del inverso del número de la justa razón.[12]​
+
+cos 36º es la mitad del número áureo.[13]​De igual modo 2 cos 36º - 2 sen 18º = φ - 1/φ.
+
+
+==== Relación con los sólidos platónicos ====
+El número áureo está relacionado con los sólidos platónicos, en particular con el icosaedro y el dodecaedro, cuyas dimensiones están dadas en términos del número áureo.
+Los 12 vértices de un icosaedro con aristas de longitud 2 pueden expresarse en coordenadas cartesianas por los siguientes puntos:
+(0, ±1, ±φ), (±1, ±φ, 0), (±φ, 0, ±1)
+Los 20 vértices de un dodecaedro con aristas de longitud 2/φ=√5−1 también se pueden dar en términos similares:
+(±1, ±1, ±1), (0, ±1/φ, ±φ), (±1/φ, ±φ, 0), (±φ, 0, ±1/φ)
+
+Para un dodecaedro con aristas de longitud a, su volumen y su área total se pueden expresar también en términos del número áureo:
+
+  
+    
+      
+        A
+        =
+        3
+        
+          
+            15
+            +
+            20
+            φ
+          
+        
+        ⋅
+        
+          a
+          
+            2
+          
+        
+      
+    
+    {\displaystyle A=3{\sqrt {15+20\varphi }}\cdot a^{2}}
+  
+
+  
+    
+      
+        V
+        =
+        
+          
+            
+              4
+              +
+              7
+              φ
+            
+            2
+          
+        
+        ⋅
+        
+          a
+          
+            3
+          
+        
+      
+    
+    {\displaystyle V={\frac {4+7\varphi }{2}}\cdot a^{3}}
+  Si tres rectángulos áureos se solapan paralelamente en sus centros, los 12 vértices de los tres rectángulos áureos coinciden exactamente con los vértices de un icosaedro, y con los centros de las caras de un dodecaedro.
+El punto que los rectángulos tienen en común es el centro tanto del dodecaedro como del icosaedro.
+
+
+== El número áureo en la naturaleza ==
+En la naturaleza, hay muchos elementos relacionados con la sección áurea y/o los números de Fibonacci:
+
+Leonardo de Pisa (Fibonacci), en su Libro de los ábacos (Liber abacci, 1202, 1228), usa la sucesión que lleva su nombre para calcular el número de pares de conejos n meses después de que una primera pareja comienza a reproducirse (suponiendo que los conejos están aislados por muros, se empiezan a reproducir cuando tienen dos meses de edad, tardan un mes desde la fecundación hasta el parto y cada camada es de dos conejos). Este es un problema matemático puramente independiente de que sean conejos los involucrados. En realidad, el conejo común europeo tiene camadas de 4 a 12 individuos y varias veces al año, aunque no cada mes, pese a que la preñez dura 32 días. El problema se halla en las páginas 123 y 124 del manuscrito de 1228, que fue el que llegó hasta nosotros, y parece que el planteamiento recurrió a conejos como pudiera haber sido a otros seres; es un soporte para hacer comprensible una incógnita, un acertijo matemático. El cociente de dos términos consecutivos de la sucesión de Fibonacci tiende a la sección áurea o al número áureo si la fracción resultante es propia o impropia, respectivamente. Lo mismo sucede con toda sucesión recurrente de orden dos, según demostraron Barr y Schooling en la revista The Field del 14 de diciembre de 1912.[15]​La disposición de los pétalos de las flores (el papel del número áureo en la botánica recibe el nombre de Ley de Ludwig).[16]​[17]​
+La distribución de las hojas en un tallo. Ver: Sucesión de Fibonacci.[16]​
+La relación entre las nervaduras de las hojas de los árboles.[18]​La relación entre el grosor de las ramas principales y el tronco, o entre las ramas principales y las secundarias (el grosor de una equivale a Φ tomando como unidad la rama superior).[18]​
+La cantidad de espirales de una piña (ocho y trece espirales), flores o inflorescencias. Estos números son elementos de la sucesión de Fibonacci y el cociente de dos elementos consecutivos tiende al número áureo.[19]​[20]​
+La distancia entre el ombligo y la planta de los pies de una persona, respecto a su altura total.[21]​
+La cantidad de pétalos en las flores. Existen flores con 3, 5 y 8 pétalos y también con 13, 21, 34, 55, 89 y 144.[19]​
+La distribución de las hojas de la yuca y la disposición de las hojas de las alcachofas.[19]​
+La relación entre la distancia entre las espiras del interior espiralado de cualquier caracol o de cefalópodos como el nautilus. Hay por lo menos tres espirales logarítmicas más o menos asimilables a proporciones aúreas. La primera de ellas se caracteriza por la relación constante igual al número áureo entre los radiovectores de puntos situados en dos evolutas consecutivas en una misma dirección y sentido. Las conchas del Fusus antiquus, del Murex, de Scalaria pretiosa, de Facelaria y de Solarium trochleare, entre otras, siguen este tipo de espiral de crecimiento.[22]​[23]​ Se debe entender que en toda consideración natural, aunque involucre a las ciencias consideradas más matemáticamente desarrolladas, como la Física, ninguna relación o constante que tenga un número infinito de decimales puede llegar hasta el límite matemático, porque en esa escala no existiría ningún objeto físico. La partícula elemental más diminuta que se pueda imaginar es infinitamente más grande que un punto en una recta. Las leyes observadas y descriptas matemáticamente en los organismos las cumplen transgrediéndolas orgánicamente.[24]​
+Para que las hojas esparcidas de una planta (Ver Filotaxis) o las ramas alrededor del tronco tengan el máximo de insolación con la mínima interferencia entre ellas, éstas deben crecer separadas en hélice ascendente según un ángulo constante y teóricamente igual a 360° (2 - φ) ≈ 137° 30' 27,950 580 136 276 726 855 462 662 132 999…". En la naturaleza se medirá un ángulo práctico de 137º 30' o de 137º 30' 28" en el mejor de los casos.[16]​ Para el cálculo se considera iluminación vertical y el criterio matemático es que las proyecciones horizontales de unas sobre otras no se recubran exactamente. Aunque la iluminación del Sol no es, en general, vertical y varía con la latitud y las estaciones, esto garantiza el máximo aprovechamiento de la luz solar. Este hecho fue descubierto empíricamente por Church[16]​ y confirmado matemáticamente por Weisner en 1875. En la práctica no puede medirse con tanta precisión el ángulo y las plantas lo reproducen "orgánicamente"; o sea, con una pequeña desviación respecto al valor teórico. No todas las plantas se benefician con un máximo de exposición solar o a la lluvia, por lo que se observan otros ángulos constantes diferentes del ideal de 137.ª 30'. Puede encontrar una tabla en la página 26 del documento completo accesible en el enlace de la referencia.[20]​
+En la cantidad de elementos constituyentes de las espirales o dobles espirales de las inflorescencias, como en el caso del girasol, y en otros objetos orgánicos como las piñas de los pinos se encuentran números pertenecientes a la sucesión de Fibonacci. El cociente de dos números sucesivos de esta sucesión tiende al número áureo.
+Existen cristales de pirita dodecaédricos pentagonales (piritoedros) cuyas caras son pentágonos irregulares. Sin embargo, las proporciones de dicho poliedro irregular no involucran el número áureo. En el mundo inorgánico no existe el pentágono regular. Este aparece (haciendo la salvedad de que con un error orgánico; no podemos pretender exactitud matemática al límite[25]​) exclusivamente en los organismos vivos.[26]​
+
+
+== El número áureo en el arte ==
+Relaciones en la forma de la Gran Pirámide de Guiza. La afirmación de Heródoto de que el cuadrado de la altura es igual a la superficie de una cara es posible únicamente si la semi-sección meridiana de la pirámide es proporcional al triángulo rectángulo 
+  
+    
+      
+        
+          
+            (
+            
+               
+              1.
+              
+              
+                
+                  
+                    
+                      
+                        
+                          5
+                        
+                      
+                      +
+                      1
+                    
+                    2
+                  
+                
+              
+              ,
+              
+              
+                
+                  
+                    
+                      
+                        5
+                      
+                    
+                    +
+                    1
+                  
+                  2
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \textstyle \left(\ 1.\;{\sqrt {\frac {{\sqrt {5}}+1}{2}}},\;{\frac {{\sqrt {5}}+1}{2}}\right)}
+  , donde 1 representa proporcionalmente a la mitad de la base, la raíz cuadrada del número áureo a la altura hasta el vértice (inexistente en la actualidad) y el número áureo o hipotenusa del triángulo a la apotema de la Gran Pirámide. Esta tesis ha sido defendida por los matemáticos Jarolimek, K. Kleppisch y W. A. Price (ver referencias), se apoya en la interpretación de un pasaje de Heródoto (Historiae, libro II, cap. 124) y resulta teóricamente con sentido, aunque una construcción de semejante tamaño podría contener errores inevitables a toda obra arquitectónica y a la misma naturaleza de la tecnología humana, que en la práctica puede manejar únicamente números racionales.Otros investigadores famosos se inclinan por la hipótesis de que los constructores intentaron una cuadratura del círculo, pues la raíz cuadrada del número áureo se aproxima mucho al cociente de 4 sobre π. Pero una construcción tal, aunque se conociera π con una aproximación grande, carecería completamente de interés geométrico.[27]​
+No obstante, con base en mediciones no es posible elegir entre una u otra pues la diferencia sobre el monumento real no es mayor a 14,2 cm y esta pequeña variación queda enmascarada por las incertidumbres de las medidas, los errores constructivos y, principalmente, porque la pirámide perdió el revestimiento en manos de los primeros constructores de El Cairo. Para que esto quede más claro, una precisión del 1 por mil en una base de 230 metros equivale a 23 centímetros y en la altura está en el orden de la diferencia real que debería existir entre ambas posibilidades.
+
+La relación entre las partes, el techo y las columnas del Partenón, en Atenas (s. V a. C.). Durante el primer cuarto del siglo XX, Jay Hambidge, de la Universidad de Yale, se inspiró en un pasaje del Teeteto de Platón para estudiar las proporciones relativas de las superficies, algo muy natural cuando se trata de obras arquitectónicas. Dos rectángulos no semejantes se distinguen entre sí por el cociente de su lado mayor por el menor, número que basta para caracterizar a estas figuras y que denominó módulo del rectángulo. Un cuadrado tiene módulo 1 y el doble cuadrado módulo 2. Aquellos rectángulos cuyos módulos son números enteros o racionales fueron denominados "estáticos" y los que poseen módulos irracionales euclidianos, o sea, expresables algebraicamente como raíces de ecuaciones cuadráticas o reducibles a ellas, "dinámicos". El doble cuadrado es a la vez estático y dinámico, pues 2 es la raíz cuadrada de 4. Un ejemplo de rectángulo dinámico elemental es aquel que tiene por lado mayor a la raíz cuadrada de 5 y por lado menor a la unidad, siendo su módulo la raíz cuadrada de 5.[28]​ Posteriormente Hambidge estudió a los monumentos y templos griegos y llegó a encuadrar el frontón del Partenón en un rectángulo de módulo 
+  
+    
+      
+        
+          
+            
+              
+                4
+                φ
+                −
+                2
+              
+              
+                φ
+                +
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {4\varphi -2}{\varphi +1}}}
+  . Por medio de cuatro diagonales suministra las principales proporciones verticales y horizontales. Este rectángulo es descompuesto en seis de módulo 
+  
+    
+      
+        
+          
+            5
+          
+        
+      
+    
+    {\displaystyle {\sqrt {5}}}
+   y cuatro cuadrados.[29]​Como dato adicional para indicar la complejidad del tratamiento del edificio se tiene que en 1837 fueron descubiertas correcciones ópticas en el Partenón. El templo tiene tres vistas principales y si sus columnas estuvieran efectivamente a plomo, todas sus líneas fuesen paralelas y perfectamente rectas y los ángulos rectos fueran exactos, por las propiedades de la visión humana el conjunto se vería más ancho arriba que en la base, sus columnas se percibirían inclinadas hacia afuera y la línea que fundamenta el techo sobre las columnas se vería como una especie de catenaria, con los extremos del edificio aparentemente más altos que el centro. Los constructores hicieron la construcción compensando estos efectos de ilusión óptica inclinando o curvando en sentido inverso a los elementos involucrados. Así las columnas exteriores, en ambos lados del frente, están inclinadas hacia adentro en un ángulo de 2,65 segundos de arco, mientras que las que están en el medio tienen una inclinación de 2,61 segundos de arco. La línea que formarían los dinteles entre columnas y que constituye la base del triángulo que corona el edificio, en realidad es un ángulo de 2,64 segundos de arco con el vértice más elevado que los extremos. De esta forma, y con otras correcciones que no se mencionan aquí, se logra que cualquier observador que se sitúe en los tres puntos principales de vista vea todo el conjunto paralelo, uniforme y recto.[30]​
+
+Estudios como los del Dr. Fechner han demostrado que la percepción de la belleza radica en la proporción áurea. Por ende, aquello que matemáticamente más se aproxime a fi, se percibirá como más bello y perfecto. Esta noción de belleza y perfección es aplicable a estructuras arquitectónicas, pinturas, partituras musicales, fractales y personas.[31]​
+En el cuadro Leda atómica, de Salvador Dalí, hecho en colaboración con el matemático rumano Matila Ghyka.[32]​[33]​[34]​
+En las estructuras y tiempos de las películas "El acorazado Potemkin" e "Iván el Terrible" de Serguéi Eisenstein.[35]​[34]​
+En los violines, la ubicación de las efes o eses (los “oídos” u orificios en la tapa) se relaciona con el número áureo.[cita requerida]
+El número áureo aparece en las relaciones entre altura y ancho de los objetos y personas que aparecen en las obras de Miguel Ángel, Durero y Leonardo Da Vinci, entre otros.
+Es necesario desmentir la expandida aseveración de que el número áureo aparece en la conocida representación del hombre de Vitruvio de Leonardo da Vinci. En este dibujo Leonardo da Vinci sigue estrictamente las proporciones fraccionarias del cuerpo humano que Vitruvio describe en su libro De architectura; concretamente en el Capítulo I del Libro Tercero, “El origen de las medidas del Templo”.
+En las estructuras formales de las sonatas de Wolfgang Amadeus Mozart, en la Quinta Sinfonía de Ludwig van Beethoven[cita requerida], en obras de Franz Schubert[cita requerida] y Claude Debussy [cita requerida] (estos compositores probablemente compusieron estas relaciones de manera inconsciente, basándose en equilibrios de masas sonoras).[36]​
+En la pág. 56 de la novela de Dan Brown El código Da Vinci aparece una versión desordenada de los primeros ocho números de Fibonacci (13, 3, 2, 21, 1, 1, 8, 5), que funcionan como una pista dejada por el conservador del museo del Louvre, Jacques Saunière. En las pp. 121 a 123 explica algunas de las apariciones del número phi (1.618) en la naturaleza y el ser humano. Menciona que las distancias entre nuestro cuerpo son proporcionales entre sí, como las de la pierna al muslo, el brazo al antebrazo, etc.
+En el episodio “Sabotaje” de la serie de televisión NUMB3RS (primera temporada, 2005), el genio de la matemática Charlie Eppes menciona que el número fi se encuentra en la estructura de los cristales, en la espiral de las galaxias y en la concha del Nautilus.
+En el episodio de Mentes Criminales "Obra maestra" (Cuarta temporada, episodio 8), los crímenes del profesor Rothschild siguen una sucesión de Fibonacci; en la primera zona, mató a una víctima; en la segunda, a otra; en la tercera, a dos; en la cuarta, a tres; y en la quinta, a cinco: doce en total. Las localizaciones también se disponen según una espiral áurea, de fuera hacia dentro: el sitio donde estaban secuestrados los niños estaba justo en el centro. Hasta eligió a sus doce primeras víctimas según cuánto se acercaran las relaciones entre sus rasgos faciales al número áureo: buscaba que fueran los "especímenes más perfectos de ser humano".
+En la cinta de Darren Aronofsky Pi, fe en el caos/Pi, el orden del caos, el personaje central, el matemático Max Cohen, explica la relación que hay entre los números de Fibonacci y la sección áurea, aunque denominándola incorrectamente Theta (θ) en vez de Phi (Φ).
+En Steel Ball Run, la séptima parte de la popular franquicia de manga JoJo's Bizarre Adventure, la espiral dorada constituye un elemento crucial dentro de la trama, siendo el origen de la técnica Spin utilizada por los protagonistas.
+El número phi aparece en la película de Disney Donald en el país de las matemáticas.[37]​
+
+
+== Véase también ==
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+En orden cronológico:
+
+Jarolimek (Viena, 1890). Der Mathematischen Schlüssel zu der Pyramide des Cheops. Kleppisch, K. (1921). Die Cheops-Pyramide: Ein Denkmal Mathematischer Erkenntnis. Múnich: Oldenburg. Cook, Theodore Andrea (1979; obra original: 1914). The Curves of Live. Nueva York: Dover. ISBN 0-486-23701-X; ISBN 978-0-486-23701-5. Pacioli, Luca (1991). La Divina Proporción. Tres Cantos: Ediciones Akal, S. A. ISBN 978-84-7600-787-7. Ghyka, Matila (1992). El Número de plata. Barcelona: Poseidón, S.L. ISBN 978-84-85083-11-4. Ghyka, Matila (2006). El Número de plata. I Los ritmos. II Los Ritos. Madrid: Ediciones Apóstrofe, S. L. ISBN 978-84-455-0275-4. Corbalán, Fernando (2010). La proporción áurea. RBA Coleccionables S. A. ISBN 978-84-473-6623-1. 
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Número áureo.
+Weisstein, Eric W. «GoldenRatio».  En Weisstein, Eric W, ed. MathWorld (en inglés). Wolfram Research. 
+Matematicasvisuales.com. «La proporción áurea» (en español). Consultado el 16 de abril de 2015. Paniagua Sánchez, Juan Ángel. «El número áureo o Phi» (en español). Castor.es. Consultado el 16 de abril de 2015. 
+De Castro P., Carlos Armando. «Sucesiones áureas: Parte I.» (en español). Archivado desde el original el 21 de junio de 2009. Consultado el 16 de abril de 2015. 
+De Castro P., Carlos Armando. «Sucesiones áureas: Parte II.» (en español). Archivado desde el original el 21 de junio de 2009. Consultado el 16 de abril de 2015. 
+Tomasini, María Cecilia. «El número y lo sagrado en el arte» (en español). Consultado el 16 de abril de 2015. 
+Knott, Ron (9 de diciembre de 2011). «The Golden section ratio: Phi» (en inglés). Archivado desde el original el 5 de diciembre de 2006. Consultado el 16 de abril de 2015.

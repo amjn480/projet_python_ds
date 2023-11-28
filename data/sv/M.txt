@@ -1,0 +1,44 @@
+M [emm] är den trettonde bokstaven i det moderna latinska alfabetet.
+
+
+== Betydelser ==
+
+
+=== Versalt M ===
+Symbol för mega, SI-prefix för faktorn 1 000 000.
+Inom SAB:s klassifikationssystem signum för etnografi, socialantropologi och etnologi, se M (SAB).
+Betecknar talet tusen (1000) i det romerska talsystemet.
+Nationalitetsbeteckning för motorfordon från Malta.
+Länsbokstav för Skåne län (tidigare Malmöhus län).
+På vägmärke betyder det mötesplats.
+Namnet på James Bonds chef i filmerna och böckerna om densamme. Karaktärens riktiga namn är Sir Miles Messervy, se M (James Bond).
+En film av Fritz Lang, se M (film).
+Förkortning för Motormännens Riksförbund.
+Artistnamn för sångaren Robin Scott.
+Trafikplatssignatur för Malmö centralstation.
+M GmbH, ett dotterbolag till BMW.
+M (tecknad serie), en serie av Mads Eriksen.
+Partiförkortning för Moderata samlingspartiet.
+Förkortning för Miljö- och energidepartementet.
+Beteckning för en typ av gängor, se M-gänga.
+Godispåse från Marabou.
+Inom universitetet står det för civilingenjörers inriktning Maskinteknik
+M-bandet, radiofrekvenser från 60 till 100 GHz
+Molar, kemiskt mått
+
+
+=== Gement m ===
+Symbol för meter, måttenheten för längd i Internationella måttenhetssystemet.
+Symbol för milli, SI-prefix för faktorn 1/1000.
+
+
+== Historia ==
+Till det latinska alfabetet kom bokstaven M från den grekiska bokstaven my, som i sin tur härstammade från den feniciska bokstaven "mem", vilken ursprungligen föreställde vatten (eller rättare sagt vattenvågor).
+
+
+== Datateknik ==
+I datorer lagras M samt förkomponerade bokstäver med M som bas och vissa andra varianter av M med följande kodpunkter:
+
+I ASCII-baserade kodningar lagras M med värdet 0x4D (hexadecimalt) och m med värdet 0x6D (hexadecimalt).
+I EBCDIC-baserade kodningar lagras M med värdet 0xD4 (hexadecimalt) och m med värdet 0x94 (hexadecimalt).
+Övriga varianter av M lagras med olika värden beroende på vilken kodning som används, om de alls kan representeras.

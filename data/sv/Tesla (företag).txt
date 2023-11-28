@@ -1,0 +1,127 @@
+Tesla, Inc., tidigare Tesla Motors, är ett amerikanskt bil- och energiföretag med verksamhet inom elbilar och komponenter till elektriska drivlinor samt solceller, batterier för hemmabruk och för energibolag. Företaget grundades år 2003. Företaget fick sitt namn efter fysikern och uppfinnaren Nikola Tesla. Teslas målsättning är att påskynda världens övergång till hållbar energi. Den 1 december 2021 flyttade Tesla sitt huvudkontor från Palo Alto i Kalifornien till Austin i Texas.. Företaget är känt för att vara en av de första biltillverkare att inkludera ett antal så kallade autopilot-funktioner såsom autostyrning, automatiskt körfältsbyte och autoparkering. Företaget har producerat ett antal bilmodeller: Tesla Roadster, Tesla Model S, Tesla Model X, Tesla Model 3 och Tesla Model Y.
+
+
+== Fordonsmodeller ==
+
+
+=== Utgångna modeller ===
+
+
+==== Tesla Roadster (2008 - 2012) ====
+
+Tesla Roadster var företagets första modell, en sportig cabriolet som lanserades 2008. Bilens chassi byggdes av Lotus och Tesla stod för batterierna och drivningen. Det som utmärkte Tesla Roadster från många andra elbilar var dess räckvidd. Tesla Roadster hade en räckvidd på cirka 400 kilometer och var den första elektriskt drivna sportbilen. Toppfarten var 201 km/h och den accelererade från 0–100 km/h på 3,7 sekunder. Bilen såldes både i Nordamerika och Europa. En ersättare för bilen väntas i slutet av 2024. 
+
+
+=== I produktion ===
+
+
+==== Model S (2012) ====
+
+Tesla Model S är en 5-dörrars halvkombi med ett 60, 75, 85, 90 eller 100 kWh litiumjonbatteri. 100 kWh modellen klarar ungefär 485 km på en laddning beroende på fart och väder. Bilen konkurrerar med modeller som BMW 5-serie. Bilen började säljas i USA i juni 2012, ett år efter den ursprungliga planen. Bilen har utnämnts till "årets bil" eller liknande av ett antal motortidningar och flera månader varit den bäst säljande bilen i Norge under 2013 och 2014. I slutet av 2015 fanns det över 1000 svenskregistrerade Tesla Model S.  Model S blev 2017 även den vanligaste elbilen i Sverige efter att ha passerat Nissan Leaf.
+
+
+==== Model X (2015) ====
+
+Tesla Model X är en crossover utility vehicle som började säljas i USA i september 2015, med fullskalig produktion 2016. Bilen har ett batteripack på 75 eller 100 kWh. Beroende på tillval kan Model X accelerera från 0–100 km/h på 3,4, 4,0, 5,0 respektive 6,4 sekunder. Model X har så kallade Falcon Wing-dörrar (måsvingedörrar) och dörrarna kan öppnas i princip varsomhelst tack vare ett flertal sensorer runtom fordonet som förser fordonets dator med data om omgivningen. Datorn räknar ut exakt hur dörrarna ska öppnas.
+
+
+==== Model 3 (2017) ====
+
+Tesla Model 3 är en 4-dörrars sedan i premiumsegmentet med 5 sittplatser. Bilen har i grundutförande en räckvidd på cirka 448 km, enligt WLTP upp till 614 km. Model 3 är Teslas modell med lägst inköpspris och med effektivare motorer och lågt luftmotstånd vilket anges ge lägre driftkostnader.Model 3 anges accelerera från 0 till 100 km/h på 3,3 sekunder. Det lägre priset på Model 3 uppnås genom minskade kostnader för batterier från fabriken Gigafactory samt att modellen är cirka 20 procent mindre än Model S. Bilen visades upp 2016 och leveranser påbörjades i USA 28 juli 2017.
+
+
+==== Model Y (2020) ====
+
+Tesla Model Y är ett kompakt crossover utility vehicle. Prototypen presenterades i mars 2019. Produktionen i Tesla Factory i Fremont påbörjades i januari 2020 och leveranserna påbörjades 13 mars 2020. Detta är den andra biltypen baserad på Tesla Model 3 sedan-plattformen. Model Y kommer att erbjuda platser på en tredje rad i bilen, så att upp till sju passagerare ryms.  Fyra varianter finns för Model Y: standard, lång räckvidd med dubbla motorer och fyrhjulsdrift samt prestanda modellen.
+
+
+=== Planerade modeller ===
+
+
+==== Tesla Semi (2022) ====
+Teslas framtida lastbilsmodell, Tesla Semi, presenterades under ett event i Kalifornien den 16 november 2017. Det är en helelektrisk tung lastbil som klarar transporter av upp till 36,3 tons last när den används som långtradare. Två versioner kommer finnas tillgängliga, en med 800 km räckvidd och en med 500 km räckvidd. Eldriften anges ge förbättrad backtagningsförmåga, där Semi anges kunna hålla 105 km/h kontinuerlig hastighet uppför en 5 % lutning. Övriga egenskaper är en extra tålig vindruta, centrerad körposition med 2 pekskärmar och en låg tyngdpunkt på grund av batteripaketets låga placering, vilket bidrar till förbättrad väghållning och säkerhet. Samtliga Semi avses att levereras med Teslas "Uppgraderade Autopilot", vilket möjliggör konvojkörning som ger sänkta driftskostnader. Lastbilen kommer kosta från $150 000 och produktionen väntas starta 2021.
+
+
+==== Tesla Roadster (Gen 2, 2023) ====
+Efterträdaren till Teslas första bilmodell med samma namn, Tesla Roadster, presenterades på den första Tesla Semi-konferensen den 16 november 2017. Produktionen planeras att påbörjas 2023. Jämfört med Tesla Roadster från 2008 kommer den nya generationen Tesla Roadster till större grad vara utvecklad av Tesla själva, medan till exempel chassit av 2008 års generation Tesla Roadster tillverkades av Lotus. Basmodellen kommer ha ett batteripack på 200 kWh, och kan enligt Tesla nå 1 000 km i räckvidd med motorvägsfart. När Tesla presenterade bilen i november 2017 sade de att den kunde accelerera från 0 till 97 km/h på 1,9 sekunder.. Tesla Roadster kommer kosta från 200 000 USD.
+
+
+==== Tesla Cybertruck (2022) ====
+
+Tesla Cybertruck visades upp 21 november 2019, med ett planerat produktionsdatum i slutet av 2022.
+
+
+== Gigafactory ==
+Gigafactory (även känd som Gigafactory 1) är en litiumjonackumulatorfabrik under konstruktion som startade produktionen av litiumjonbatterier år 2017. Fabriken ligger i Reno, Nevada i USA, och giga inkluderas i namnet på grund av att energiinnehållet i alla batterier som totalt produceras varje år är tänkt att vara minst 1 gigawattimme (GWh) när fabriken är färdigbyggd. Tanken med fabriken är att den genom massproduktion ska sänka priset på litiumjonbatterier med cirka 30 procent[källa behövs], vilket är viktigt för att kunna sälja billiga elbilar. Det är planerat att fabriken ska producera mer litiumjonbatterier 2020 (räknat i GWh) än den totala produktionen av litiumbatterier år 2013.Teslas första bilfabrik var Tesla Fremont-fabriken.
+
+
+== Tesla Energy ==
+
+
+=== Energilagring ===
+
+
+==== Powerwall (2015) ====
+Tesla började sommaren 2015 att sälja Powerwall-batterier till privatpersoner och företag. Två modeller fanns tillgängliga, ett mindre batteri med kapacitet för 7 kWh för 3000 amerikanska dollar och ett större batteri med kapacitet för 10 kWh för 3500 amerikanska dollar. Dessa batterier kan hängas på väggen, till exempel i ett garage. Batterierna har tre funktioner. Den första är att lagra el som köpts när priset på el är lågt i väntan på förbrukning senare när priset på el är högre (priset på el skiftar under varje dygn) för att spara pengar. Den andra funktionen är att lagra el som genereras av solpaneler för förbrukning senare om solpaneler under en tid genererar mer el än vad som förbrukas. Den tredje funktionen är att leverera el ifall det inte kommer någon el från elnätet, det är en så kallad "back-up".
+
+
+==== Powerwall V2 (2016) ====
+Tesla lanserade i oktober 2016 en uppdaterad version av batterilagringssystemet Powerwall. Bland nyheterna är större kapacitet, 14 kWh, och bättre stöd för kortare laddningscykler, vilket gör den bättre lämpad som komplement till solceller.[källa behövs] Powerwall kostar 61 000 kr.[källa behövs]
+
+
+==== Powerpack ====
+För storskaliga energilagringssystem tillverkar Tesla ett skalbart och modulärt system av batteripack. Varje modul har en kapacitet på 210 kWh och kan ge 50 kW effekt per modul. Systemet är vätskekylt och utomhusklassat.
+
+
+=== Solenergiprodukter ===
+Tesla köpte i augusti 2016 upp det amerikanska solcellsinstallationsföretaget Solarcity. De två företagen hade sedan tidigare haft nära samarbete, till stor del beroende på att Lyndon Rive, VD för Solarcity, är kusin till Teslas VD Elon Musk. Samtidigt är Musk själv styrelseordförande i Solarcity. Uppköpet möjliggjorde en komplett produkt med solceller och batterilagring i ett integrerat system för privatpersoner. I samband med uppköpet presenterade Tesla och Solarcity en ny version av Powerwall samt en takprodukt med integrerade solceller, samtidigt som utseendet är snarlikt ett traditionellt tak, kallat Tesla Solar Roof. Solar Roof erbjuds i flera utföranden med olika utseende. För den amerikanska marknaden erbjuds även traditionella solcellsinstallationer via Solarcity.
+
+
+== Tidslinje för produktion ==
+Den 9 mars 2020 producerade företaget sin miljonte elbil.
+
+
+== Bolagsstyrelse ==
+Robyn Denholm - Styrelseordförande
+Elon Musk – VD och produktarkitekt för Tesla. En av grundarna och före detta vd för Paypal. Grundare, vd och teknisk chef för SpaceX. Styrelseordförande i Solarcity.
+Ira Ehrenpreis
+Larry Ellison
+Antonio J. Gracias
+Steve Jurvetson
+James Murdoch
+Kimbal Musk
+Kathleen Wilson-Thompson
+
+
+== Reaktioner på världshändelser och kriser ==
+Då Tesla, primärt som stöd för sin egen elbilsmodellserie, byggt upp ett nätverk av så kallade Superchargers, har man samtidigt skapat en viktig infrastrukturkomponent i många länder.
+I ett flertal situationer, som t.ex. naturkatastrofer och krig (se även: Internationella reaktioner mot Ryssland i samband med Ukraina-krisen) har Tesla använt sitt nätverk av laddningsstationer för att till exempel underlätta evakueringar, även för förare av icke-Tesla-tillverkade fordon, ibland kombinerat med mukvarustyrda räckviddsutökningar i vissa av sina egna modeller.
+
+
+== Klagomål och kritik ==
+
+
+=== Dataintegritet ===
+Enligt Mozillas är Tesla "den värsta syndaren i ligan".
+
+
+=== Kollektivavtalstvisten ===
+IF Metall vill ha kollektivavtal på Teslas bilverkstäder i Sverige, som ägs och drivs av dotterbolaget TM Sweden. Efter en dryg veckas strejk körde förhandlingarna fast den 7 novemeber 2023. Strejkbrytare anges förekomma på Tesla i Malmö och nu planeras sympatiåtgärder av hamnarbetare och elektriker.
+
+
+== Se även ==
+Elbil
+Faraday Future
+Lucid Motors
+
+
+== Referenser ==
+Den här artikeln är helt eller delvis baserad på material från engelskspråkiga Wikipedia, Tesla, 19 april 2016.
+
+
+=== Noter ===
+
+
+== Externa länkar ==
+ Wikimedia Commons har media som rör Tesla, Inc..﻿
+Officiell webbplats (engelska)

@@ -1,0 +1,586 @@
+Un quadrat màgic és la disposició d'una sèrie de nombres enters en una taula quadrada o matriu de forma que la suma dels nombres per columnes, files i diagonals sigui la mateixa, la constant màgica. Usualment, els nombres emprats per a omplir les caselles són consecutius de l'1 a n², essent n el nombre de columnes i files del quadrat.
+
+Sigui la successió aritmètica 1, 2, 3, 4 ... 36 (quadrat d'ordre 6), disposats ordenadament en dues sèries en zig-zag:
+
+Resulta evident que qualsevol parell de nombres alineats verticalment suma el mateix, ja que a mesura que ens desplacem per les columnes en la fila superior s'hi afegeix una unitat mentre que en la inferior se n'hi resta una. La suma és, en tots els casos, la dels extrems:
+
+  
+    
+      
+        
+          n
+          
+            2
+          
+        
+        +
+        1
+        =
+        36
+        +
+        1
+        =
+        37
+      
+    
+    {\displaystyle n^{2}+1=36+1=37}
+  
+Si es disposen el conjunt de nombres en sis files (vegeu la taula a la dreta), fàcilment es pot apreciar que les sumes en les diferents columnes han de ser necessàriament iguals, ja que els nombres es troben agrupats per parelles tal com ho estaven en el primer cas (compareu les parelles de files 1a-6a, 2a-5a i 3a-4a amb la disposició original). Ara, tanmateix, per ser tres (n/2) les parelles de files, la suma resulta:
+
+  
+    
+      
+        
+          M
+          
+            2
+          
+        
+        (
+        n
+        )
+        =
+        
+          
+            
+              n
+              (
+              
+                n
+                
+                  2
+                
+              
+              +
+              1
+              )
+            
+            2
+          
+        
+      
+    
+    {\displaystyle M_{2}(n)={\frac {n(n^{2}+1)}{2}}}
+  quantitat anomenada constant màgica, i que en aquest cas és n×(n² + 1)/2 = 6×(36 + 1)/2 = 111.
+
+El quadrat anterior no és pas un quadrat màgic, ja que com s'han disposat les files en forma consecutiva, les sumes de cada fila són cada cop més grans. No obstant això, s'han trobat sis sèries de nombres compresos entre 1 i 36 de forma tal que, sense repetir-se'n cap, les sumes de les sèries són la constant màgica. Però, és més, la suma de les xifres de la diagonal principal en un quadrat així construït és també la constant màgica: els nombres de la diagonal principal es poden escriure de la forma (a-1)×n + a.
+Calculant la suma, sabent que les files a van d'1 a n:
+
+  
+    
+      
+        
+          ∑
+          
+            a
+            =
+            1
+          
+          
+            n
+          
+        
+        (
+        a
+        −
+        1
+        )
+        
+          n
+        
+        +
+        a
+        =
+        (
+        n
+        +
+        1
+        )
+        
+          ∑
+          
+            a
+            =
+            1
+          
+          
+            n
+          
+        
+        a
+        −
+        
+          ∑
+          
+            a
+            =
+            1
+          
+          
+            n
+          
+        
+        n
+        =
+        (
+        n
+        +
+        1
+        )
+        
+          
+            
+              n
+              (
+              1
+              +
+              n
+              )
+            
+            2
+          
+        
+        −
+        
+          n
+          
+            2
+          
+        
+        =
+        
+          
+            
+              
+                n
+                
+                  3
+                
+              
+              +
+              2
+              
+                n
+                
+                  2
+                
+              
+              +
+              n
+              −
+              2
+              
+                n
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        =
+        
+          
+            
+              n
+              (
+              
+                n
+                
+                  2
+                
+              
+              +
+              1
+              )
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \sum _{a=1}^{n}(a-1){n}+a=(n+1)\sum _{a=1}^{n}a-\sum _{a=1}^{n}n=(n+1){\frac {n(1+n)}{2}}-n^{2}={\frac {n^{3}+2n^{2}+n-2n^{2}}{2}}={\frac {n(n^{2}+1)}{2}}}
+  
+que és la constant màgica. Però això no és tot: qualsevol sèrie de valors on no hi hagi dos nombres de la mateixa fila o columna sumarà la constant màgica. Escrivint el terme i, j de la matriu com (i-1)×n + j, i prenent 6 termes qualssevol amb la condició que ni i, ni j es repeteixin i variïn d'1 a n, l'equació resultant obtinguda és exactament l'escrita per al cas anterior, que condueix de la mateixa manera cap a la constant màgica.
+Com es pot demostrar, la quantitat de sèries possibles de n nombres que compleixin la condició anterior és n!, 720 en quadrats d'ordre 6, i ni tan sols són totes les possibles, ja que abans s'havien obtingut sis sèries no incloses entre elles. En definitiva, sent possible construir (n²)! matrius en les que cap terme es repeteixi i existent almenys només n! (en realitat, moltes més) combinacions de nombres que sumin la constant màgica, s'intueix que podria ser impossible construir quadrats màgics.
+D'ordre 3, existeix un únic quadrat màgic (lògicament amb les seves variacions que es poden obtenir per rotació o reflexió). El 1693 Bernard Frenicle de Bessy va establir que hi ha 880 quadrats màgics d'ordre 4 [1]. Posteriorment s'ha trobat que existeixen 275.305.224 quadrats màgics d'ordre 5. El nombre de quadrats màgics d'ordre major, es desconeix amb exactitud, però segons estimacions de Klaus Pinn y C. Wieczerkowski realitzades el 1998 mitjançant mètodes de Monte Carlo i de mecànica estadística existeixen (1,7745 ± 0,0016) × 1019 quadrats d'ordre 6 i (3,7982 ± 0,0004) × 1034 quadrats d'ordre 7.
+Pel que fa a ordres inferiors, és evident que d'ordre 1 existeix un únic quadrat màgic,   1  , mentre que d'ordre 2, no n'existeix cap, cosa fàcilment demostrable considerant el quadrat màgic a, b, c, d de la figura i imposant les següents equacions (on M és la constant màgica, no fixada a priori), condició de quadrat màgic:
+
+resolent el sistema d'equacions es veu que el sistema tan sols té la solució trivial a = b = c = d = M/2, de manera que resulta impossible construir un quadrat màgic amb les seves xifres diferents.
+
+
+== Història ==
+En l'antiga Xina ja es coneixien quadrats màgics des del III mil·lenni aC, com testimonia el quadrat màgic Lo Shu, representat en ambdós cantons d'aquestes línies. Segons la llegenda, un cert dia van desbordar-se molts rius; la gent, temorosa, va intentar fer una ofrena al déu del riu Lo (un dels desbordats) per a calmar la seva ira. Però cada vegada que ho feien, apareixia una tortuga que rondava l'ofrena sense acceptar-la, fins que un noi va adonar-se de les peculiars marques que tenia la tortuga a la closca. D'aquesta manera es va poder incloure en l'ofrena la quantitat demanada (15), de manera que el déu quedà satisfet i les aigües van tornar a la seva llera.
+Igualment van conèixer combinacions d'aquesta classe els indis, egipcis, àrabs i gregs. Les diferents cultures han atribuït propietats astrològiques i divines a aquests tipus de quadrats, que sovint van ésser representats en talismans. Per exemple, com recull Heinrich Cornelius Agrippa en De oculta philosophia libri tres (1533), el quadrat d'ordre 3 (15) estava consagrat a Saturn, el de 4 (34) a Júpiter, el de 5 (65) a Mart, el de 6 (111) al Sol, el de 7 (175) a Venus, el de 8 (260) a Mercuri i el de 9 (369) a la Lluna. Una idèntica atribució pot trobar-se també en astrologia hindú.
+La introducció dels quadrats màgics a occident s'atribueix a Emanuel Moschopoulos cap al segle xiv, autor d'un manuscrit en què s'expliquen, per primera vegada, alguns mètodes per a construir-ne. Amb posterioritat, l'estudi de les propietats de caràcter científic dels quadrats màgics va atreure l'atenció de grans matemàtics que van dedicar-hi diverses obres tot i la seva manifesta inutilitat pràctica. Entre aquests, cal citar Stifel, Fermat, Pascal, Leibnitz, Frenicle, Bachet, La Hire, Saurin, Euler…
+
+
+=== Els quadrats màgics en les arts ===
+El quadrat màgic d'Albrecht Dürer, tallat en la seva obra Malenconia I, és considerat el primer de les arts europees. Es tracta d'un quadrat d'ordre quatre, on s'obté la constant màgica (34) en files, columnes i diagonals principals, però també en cadascuna de les quatre submatrius d'ordre 2 en què es pot dividir el quadrat, sumant els nombres de les cantonades, els quatre nombres centrals, els dos nombres centrals de les files primera i última (idem en columnes), etc. A més a més, les dues xifres centrals de l'última fila, 15 i 14, formen l'any en què s'executà l'obra, 1514.
+Aquestes peculiaritats han fet que sovint se l'anomeni quadrat satànic o quadrat diabòlic, tot i que aquesta última expressió denota en altres contextos una propietat dels quadrats màgics que aquest no té (vegeu apartats posteriors).
+Algunes disposicions particulars en el quadrat màgic de Dürer que sumen la constant màgica.
+
+La façana de la Passió del temple de la Sagrada Família, dissenyada per l'escultor Josep Maria Subirachs, mostra un quadrat màgic d'ordre 4.
+La constant màgica del quadrat és 33, l'edat de Jesucrist en la Passió. Es tracta d'una reestructuració del quadrat màgic de Dürer, girat 180° i retocat convenientment per a rebaixar la constant màgica en una unitat mantenint la majoria de combinacions que la sumen. El preu pagat per fer-ho, però, va ser el d'haver de repetir dos nombres (14 i 10) i de fer-ne desaparèixer uns altres dos (12 i 16).
+
+
+== Construcció de quadrats màgics ==
+Hi ha diverses maneres de construir quadrats màgics, però les més simples consisteixen a seguir certes configuracions o fórmules que generen patrons regulars. A més, poden imposar-se condicions addicionals al quadrat, com per exemple que siguin bimàgics, trimàgics, etc. Anàlogament, poden construir-se també cercles, polígons o cubs màgics.
+No existeix un mètode general per a construir quadrats màgics de qualsevol ordre, però sí per a tres grups: ordre senar, ordre múltiple de 4 i la resta (d'ordre (4•m + 2).
+
+
+=== Quadrats màgics d'ordre senar (I) ===
+Aquests quadrats poden generar-se segons el mètode publicat el 1691 per Simon de la Loubere, anomenat sovint mètode siamès, ja que fou on va exercir càrrec d'ambaixador de Lluís XIV. De tota manera, el mètode ja era conegut per astròlegs orientals amb anterioritat. Començant en la casella central de la primera fila amb el primer nombre, s'omple la diagonal (trencada) amb els següents nombres segons el sentit NW (o NE). Completada la primera diagonal es descendeix una posició i s'omple la segona en el mateix sentit que l'anterior. Seguidament es repeteix el pas anterior amb la resta de diagonals fins a completar el quadrat.
+
+Òbviament, també es pot començar des de qualsevol de les caselles centrals de les files o columnes perimetrals, sempre que se segueixi el sentit en què s'omplen les diagonals cap a fora del quadrat i el sentit de desplaçament després d'haver omplert cada diagonal és el mateix que cal prendre per anar de la casella inicial fins al centre del quadrat.
+Resulta evident que començant per qualsevol altra casella, les sumes de files i columnes seguirà sent la constant màgica, ja que la posició relativa de les xifres serà la mateixa que en el cas anterior. No obstant això, la suma no es compleix en la diagonal paral·lela a la direcció en què s'omplen les diagonals (en l'altra sí), i de fet, això només s'aconsegueix escollint la casella inicial descrita anteriorment.
+
+
+=== Quadrats màgics d'ordre senar (II) ===
+Pas 1: S'escriuen els nombres d'1 a n. S'escriu l'1 en la casella superior d'un rombe i se segueix de forma obliqua tal com s'observa en l'exemple. El quadrat màgic serà un quadrat inscrit en el rombe format.
+
+Pas 2: Es traslladen els nombres de les cantonades del rombe a les caselles buides que hi ha en el costat oposat del quadrat.
+
+Pas 3: S'esborren les cantonades del rombe i el quadrat màgic d'ordre senar està ja construït.
+
+
+=== Quadrats màgics d'ordre múltiple de 4 ===
+Es construeix un quadrat amb els nombres disposats consecutivament, disposició que garanteix que les diagonals sumen la constant màgica. Seguidament, i conservant la submatriu central d'ordre n/2 i les quatre submatrius de les cantonades d'ordre n/4, els nombres restants es giren 180° respecte al centre del quadrat (o equivalentment, es recol·loquen en ordre decreixent).
+
+Partint des de la mateixa disposició i escollint patrons simètrics similars de les xifres a conservar es poden construir quadrats màgics diferents a l'obtingut amb anterioritat, com el següent:
+
+
+=== Quadrats màgics d'ordre múltiple de 4 més 2 (ordre 4•k + 2) ===
+Per tal d'aconseguir quadrats d'aquest ordre es pot utilitzar el mètode LUX, que en part es basa en el mètode de la Loubere dels quadrats d'ordre senar (vegeu més amunt).
+Com a exemple, es procedeix tot seguit a la construcció d'un quadrat màgic d'ordre 10.
+1r pas:
+S'agrupen les caselles en subquadrats 2x2, es marquen de la següent manera:
+- Els quadrats de les k+1 primeres files, on k és la divisió entera de l'ordre del quadrat entre quatre, s'etiqueten amb la lletra L (en l'exemple, k=2 i per tant, es marquen 3 files.
+- Els quadrats de la següent fila s'etiqueten amb la lletra U.
+- Els quadrats de les files restants, es marquen amb la lletra X.
+
+2n pas:
+S'intercanvia el quadrat U central amb el quadrat L immediatament superior.
+
+3r pas:
+S'etiqueta cada subquadrat 2x2 amb un nombre seguint el mètode de la Loubere, ja que el nombre de submatrius 2x2 serà senar.
+Aquests nombres marcaran l'ordre en què s'hauran d'omlir les cel·les de cada subquadrat.
+.
+
+4t pas:
+Ara, al subquadrat i-èsim li corresponen els nombres 4i - 3, 4i - 2, 4i - 1 i 4i. Per exemple al subquadrat nombre 1 li corresponen els nombres 1, 2, 3 i 4, i al 0 li corresponen 37, 38, 39 i 40.
+Només cal saber ara com es col·loquen aquests quatre nombres en cada subquadrat, i d'això se n'encarreguen les etiquetes L, U i X.
+
+Subquadrat tipus L
+Subquadrat tipus U
+Subquadrat tipus X
+Observeu que les lletres recorden la forma que es fa per col·locar els nombres convenientment en cada quadrat.
+I amb tots aquests elements es pot ja construir el quadrat.
+
+
+== Variants ==
+Existeixen multitud de variants dels quadrats màgics simples dels apartats anteriors. Existeixen també diversos mètodes alternatius per a la construcció d'altres quadrats màgics, mètodes que es troben descrits en els enllaços de més avall.
+
+
+=== Bandes exteriors ===
+Hi ha quadrats màgics que continuen sent màgics quan se'ls elimina la banda més externa, i fins i tot n'hi ha que continuen sent màgics si se'ls treu una segona banda després de la més externa.
+El quadrat complet de la figura, d'ordre 7, té per constant màgica 175 i està format pels primers 49 nombres. El quadrat interior, d'ordre 5 i que comprèn els nombres centrals de la sèrie anterior (del 13 al 37), també és màgic, amb constant màgica 125. El quadrat central d'ordre 3 (nombres del 21 al 29) és també màgic amb constant 75.
+
+
+=== Quadrats diabòlics ===
+Alguns quadrats conserven la suma màgica al llarg de les diagonals trencades, a més a més de files, columnes i diagonals principals, com el de la dreta. Aquests tipus de quadrats se'ls sol anomenar quadrats diabòlics, tot i que de vegades també es fa servir aquesta expressió per al quadrat de Dürer que no compleix aquesta condició. El quadrat diabòlic de la figura, presenta, com el de Dürer, altres disposicions peculiars que sumen la constant màgica (34): les quatre cantonades, els quatre nombres centrals, les quatre submatrius d'ordre 2, etc., a part de les disposicions que el fan màgic i diabòlic.
+
+
+=== Matrius màgiques ===
+Si s'entenen els quadrats màgics com a matrius i es consideren les seves operacions habituals de suma i producte, el quadrat màgic d'ordre 3 té la curiosa propietat que la seva matriu inversa torna a ser un quadrat màgic, amb valors fraccionaris positius i negatius, i amb constant màgica d'1/15.
+Aquest és el quadrat màgic d'ordre 3 habitual...
+
+...i aquest és el seu quadrat màgic invers.
+
+
+=== Quadrats p-màgics ===
+Els Quadrats p-màgics són aquells tals que, elevades totes les seves xifres a la k-èsima potència, essent 1≤k≤p, segueixen sent màgics:
+
+El quadrat bimàgic menor conegut és el d'ordre 8, que es mostra a continuació i que té com a constants màgiques 260 (k=1) i 11180 (k=2). Es conjectura que no existeixen quadrats bi-màgics d'ordre inferior però d'això no n'hi ha cap prova concloent. En 1998, J. R. Hendricks demostrà que és impossible construir quadrats bimàgics d'ordre 3, excepte el que conté 9 xifres iguals, que de màgic en té més aviat poc.S'han construït quadrats trimàgics d'ordres 12, 32, 64, 81 i 128; l'únic d'ordre 12 fou construït pel matemàtic alemany Walter Trump el juny de 2002.El primer quadrat tetramàgic, d'ordre 512, el van obtenir André Viricel i Christian Boyer el maig de 2001; un mes més tard, van presentar el primer quadrat pentamàgic, d'ordre 1024. Ja el 2003, van presentar un quadrat tetramàgic d'ordre 256, i el matemàtic xinès Li Wen un de pentamàgic d'ordre 729.
+
+
+=== Extracció de quadrats màgics de qualsevol successió aritmètica ===
+Poden construir-se quadrats màgics amb nombres extrets de qualsevol successió aritmètica independentment del seu nombre inicial i de la raó de la sèrie. Sent a0 el primer terme i r la raó, es pot demostrar que la constant màgica serà en aquest cas:
+
+  
+    
+      
+        
+          M
+          
+            2
+          
+        
+        (
+        n
+        )
+        =
+        
+          
+            
+              n
+              [
+              2
+              
+                a
+                
+                  0
+                
+              
+              +
+              (
+              
+                n
+                
+                  2
+                
+              
+              −
+              1
+              )
+              r
+              ]
+            
+            2
+          
+        
+      
+    
+    {\displaystyle M_{2}(n)={\frac {n[2a_{0}+(n^{2}-1)r]}{2}}}
+  
+
+
+=== Quadrats màgics en producte ===
+Anàlogament, es poden construir quadrats de forma que el producte dels nombres per columnes, files i diagonals sigui la mateixa. Aquests quadrats poden construir-se amb les mateixes regles donades per als quadrats màgics aritmètics però substituint el terme de la successió geomètrica en la posició indicada per la corresponent sèrie aritmètica:
+
+La constant màgica és en el cas general
+
+  
+    
+      
+        
+          
+            
+              M
+              
+                2
+              
+            
+          
+          
+            ∗
+          
+        
+        (
+        n
+        )
+        =
+        (
+        
+          
+            
+              a
+              
+                0
+              
+            
+          
+          
+            2
+          
+        
+        
+          
+            r
+            
+              (
+              
+                n
+                
+                  2
+                
+              
+              −
+              1
+              )
+            
+          
+        
+        
+          )
+          
+            
+              n
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {M_{2}}^{*}(n)=({a_{0}}^{2}{r^{(n^{2}-1)}})^{\frac {n}{2}}}
+  la similitud de la qual amb la ja obtinguda per a les sèries aritmètiques és palpable.
+
+
+=== Altres quadrats màgics ===
+També s'han construït quadrats màgics amb sèries de nombres primers consecutius, o amb les xifres decimals dels recíprocs de la sèrie aritmètica dels nombres naturals, etc.
+Finalment, cal assenyalar l'existència de disposicions màgiques n-dimensionals; així, amb la sèries 1 - n³ poden construir-se cubs màgics', i en general, amb la sèrie 1 - nr quadrats màgics r-dimensionals d'ordre n, amb les serves respectives variants multimàgiques. Tot i que la visualització d'aquests pot ser difícil o impossible, poden tractar-se còmodament mitjançant l'ús d'ordinadors.
+
+
+== Quadrats màgics esotèrics ==
+Un quadrat màgic esotèric, és un quadrat màgic amb unes condicions addicionals, suficientment restrictives com per existir un sol quadrat màgic esotèric per a cada ordre n (excepte rotacions i reflexions). Abans d'exposar aquestes condicions però, cal definir els següents conceptes:
+
+S'anomena composició (C) a la suma de tots els elements que componen un quadrat màgic. Si els seus elements són la sèrie consecutiva de l'1 a n², essent n el nombre de columnes i files del quadrat,
+  
+    
+      
+        C
+        =
+        
+          
+            
+              
+                n
+                
+                  2
+                
+              
+              (
+              
+                n
+                
+                  2
+                
+              
+              +
+              1
+              )
+            
+            2
+          
+        
+      
+    
+    {\displaystyle C={\frac {n^{2}(n^{2}+1)}{2}}}
+   (vegeu successió aritmètica per a la demostració de la fórmula).S'anomena Nombre base (Nb) al quocient entre la composició i el nombre de caselles que componen el quadrat. El nombre base doncs és la mitjana aritmètica de les xifres del quadrat:
+  
+    
+      
+        N
+        b
+        =
+        
+          
+            C
+            
+              n
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle Nb={\frac {C}{n^{2}}}}
+  Recordant que la constant màgica (Cm) en un quadrat on els elements són consecutius de l'1 a n² és:
+
+  
+    
+      
+        C
+        m
+        =
+        
+          
+            
+              n
+              (
+              
+                n
+                
+                  2
+                
+              
+              +
+              1
+              )
+            
+            2
+          
+        
+      
+    
+    {\displaystyle Cm={\frac {n(n^{2}+1)}{2}}}
+  s'obté la relació
+
+  
+    
+      
+        N
+        b
+        =
+        
+          
+            C
+            
+              n
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              C
+              m
+            
+            n
+          
+        
+      
+    
+    {\displaystyle Nb={\frac {C}{n^{2}}}={\frac {Cm}{n}}}
+  Sabut això, les condicions esmentades amb anterioritat i que defineixen els quadrats màgics esotèrics són les següents:
+
+La suma dels nombres per columnes, files i diagonals ha de ser la mateixa, la constant màgica (condició que han de complir tots els quadrats màgics).
+Els nombres emprats per a omplir les caselles són consecutius de l'1 a n², essent n el nombre de columnes i files del quadrat.La suma de les quatre xifres de les cantonades del quadrat ha de coincidir amb el nombre base multiplicat per 4. Aquest producte sol anomenar-se constant màgica de segon ordre o bé constant màgica-2, i se sol simbolitzar per Cm2.Així, es pot escriure aquesta condició amb r+s+t+u=4×Nb=Cm2', o bé r+s+t+u=Cm2=4×Cm/n. Operant també es pot escriure r+s+t+u=Cm2=Cm-(Nb×(n-4)).S'assenyalen, en els dibuixos, les caselles de cantonada per als casos de n=4 i n=3.
+
+Observeu que en el cas de n=4, Cm2 i Cm coincideixen, i per tant la suma de les cantonades d'un quadrat esotèric d'ordre 4 és també la constant màgica.Si n és senar, la suma de les quatre xifres en creu (les que estan en el mig de les files i columnes primera i última) ha de ser 4×Nb: Cm2= C +R +E +U . En cas que n sigui parell, cal que la suma de les vuit xifres en creu (les quatre parelles adjacents situades al mig de les files i columnes primeres i últimes) sigui 8×Nb:2×Cm2=C1 +C2 +R1 +R2 + E1 +E2 +U1 +U2.
+
+Aquest és el quadrat màgic esotèric d'ordre 7, on s'han remarcat les xifres de cantonada, 22 + 4 + 46 + 28 = 100, i la creu, 41 + 13 + 9 + 37 = 100. En el cas de n=7, resulta C=1225; Nb=25; Cm= 25×7=175; Cm2= 175- (25(7-4)=100.
+
+.
+Per als primers ordres n, aquí es recullen els nombres notables.
+
+Cal observar que el quadrat d'ordre 1 no té 4 cantonades i que per tant queda fora de ser un quadrat màgic esotèric. Per altra banda, el quadrat de n=2 no pot ser màgic (s'explica més amunt).
+
+
+=== Quadrats màgics esotèrics ordenats ===
+Es diu que un quadrat màgic esotèric està ordenat quan a més, es compleix unes certes condicions posicionals lleugerament diferents segons es tracti de quadrats d'ordre parell o senar:
+
+Ordre senar: Nb ocupa la casella central. La xifra major està just per sobre de la casella central i la inferior, a sota. La cantonada r està ocupada per la xifra Nb-(n/2-(1/2)) i l'oposada, la u, per Nb+(n/2-(1/2)). La cantonada s ha d'estar ocupada per la xifra n/2+(1/2) i la t, per 2×Nb- (la xifra de s) o, cosa que és el mateix, per la xifra major del quadrat màgic - (n/2-(1/2)).
+Ordre parell: La casella r és ocupada per la xifra n, mentre que la xifra 1 se situa en la casella s i l'última xifra, la t. La casella u ha de complir u=t+s+r. En ser n parell, no existeix casella central i Nb no és enter i per tant no ocupa cap casella.
+
+
+== Bibliografia complementària ==
+Andrews, William Symes: Magic Squares and Cubes. Nova York: Dover, 1960. ISBN 0486206580
+Fults, John Lee: Magic Squares. La Salle, Illinois: Open Court, 1974. ISBN 0875481973
+Pickover, Clifford: The Zen of Magic Squares, Circles, and Stars. Princeton, Nova Jersey: Princeton University Press, 2003. ISBN 0691115974
+
+
+== Enllaços externs ==
+Enciclopedia Libre
+Pàgina de Miguel Molina (10 de gener de 2004).
+Pàgina de Blai Figueras Álvarez (10 de gener de 2004).
+Pàgina de Leonhard Euler (traducció a l'anglès de De quadratis magicis)
+Un generador de quadrats màgics online
+Genera tots els quadrats màgics 4x4

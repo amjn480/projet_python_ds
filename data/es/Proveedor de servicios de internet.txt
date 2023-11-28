@@ -1,0 +1,77 @@
+El proveedor de servicios de internet  (ISP, por las siglas de Internet Service Provider) es la empresa que brinda conexión a Internet a sus clientes. Un ISP conecta a sus usuarios a Internet a través de diferentes tecnologías como ADSL, cablemódem, GSM, dial-up, fibra óptica, satélite, streaming, etc.
+
+
+== Historia ==
+Originalmente, para acceder a Internet se necesitaba una cuenta universitaria o de alguna agencia del gobierno, que necesariamente tenía que estar autorizada. Internet comenzó a aceptar tráfico comercial a principios de la década de 1990, pero era demasiado limitada y en una cantidad mínima en comparación con la actualidad. En esos tiempos existía un pequeño grupo de compañías, llamadas puntos de acceso, que proveían de acceso público pero que se saturaban una vez el tráfico incrementaba. Las mayores compañías de telecomunicaciones comenzaron a proveer de acceso privado. Las pequeñas compañías se beneficiaban del acceso a la red de las grandes compañías, pero luego, las grandes compañías empezaron a cobrar por este acceso. Todo esto alrededor de mediados de la década de 1990, antes de que Internet explotase.
+En 1995 el MIT y AT&T comenzaron a cobrar a los usuarios una renta mensual alrededor de los 20 $ USD. A los negocios se les aumentaba esta tarifa, ya que disponían de una conexión más rápida y fiable.
+Cuando Internet evolucionó repentinamente, los ISP fueron desafiados drásticamente a actualizar su infraestructura, tecnologías y a incrementar sus puntos de acceso. Las mayores compañías de comunicaciones empezaron a desarrollar subsidiarias que se enfocaran en hacer del Internet un medio más accesible. Aunque la tecnología se actualizó, la web tenía que lidiar con más y más congestionamiento.
+Los accesos se mejoraron, así que el uso de Internet creció exponencialmente, llevando a bajar los precios mensuales de los ISP, aunque variando por cada país. En países con pocos ISP, los cuales tenían un gran monopolio, se solía cobrar más que en lugares donde existe una situación de competencia real, la cual previene que las compañías suban sus precios demasiado.
+
+
+== Tipos de conexiones de los ISP ==
+Los ISP utilizan una gran cantidad de tecnologías para permitirle a cada usuario conectarse a sus redes.
+En general, las modalidades de conexión a Internet se clasifican de la siguiente manera:[1]​[2]​ 
+
+Acceso Telefónico (Dial-Up)
+Acceso por ADSL (Línea Digital de Suscriptor Asimétrica, Asymmetric Digital Subscriber Line)
+Acceso por Cablemódem (CATV: Community Antenna Television)
+Acceso por Red de Telefonía Móvil
+UMTS (Universal Mobile Telecommunications System)
+HSDPA (High Speed Downlink Packet Access)
+Acceso Inalámbrico (850; 900; 1800 y 1900 MHz; 2,4 GHz y 5,0 GHz)
+Wireless Personal Area Network (WPAN), red de área personal inalámbrica
+Bluetooth
+Wireless Local Area Network (WLAN), red de área local inalámbrica
+Wi-Fi
+Wireless Metropolitan Area Network (WMAN), red de área metropolitana inalámbrica
+WiMAX (Worldwide Interoperability for Microwave Access)
+LMDS (Local Multipoint Distribution Service)
+Wireless Wide Area Network (WWAN), red de área amplia inalámbrica
+UMTS
+GPRS
+EDGE
+CDMA2000
+GSMHSPA
+3G
+4G
+5G
+Acceso Satelital (DVB-S, DVB-S2, DVB-S2X: Digital Video Broadcast - Satellital)
+Acceso por Fibra Óptica (FTTH: Fiber to the Home)
+Acceso por Línea Eléctrica (BPL: Broadband Power Line)
+
+
+=== Conexiones a Internet para usuarios residenciales ===
+Las conexiones a Internet típicas para usuarios residenciales son:
+
+Banda estrecha
+Conexión por línea conmutada o dial-up
+Red Digital de Servicios Integrados (ISDN)
+Módem
+Banda ancha
+Línea de abonado digital (DSL), normalmente del tipo asimétrica o ADSL
+Banda Ancha Móvil
+Banda ancha inalámbrica (Wi-Fi)
+Cablemódem
+Fiber To The Home (FTTH)
+
+
+=== Conexiones a Internet para empresas medianas o grandes ===
+Las conexiones típicas para empresas medianas o grandes son:
+
+DSL
+SHDSL
+ADSLPRI
+ATM
+Internet por satélite
+Fibra óptica
+
+
+== Véase también ==
+DOCSIS
+Fibra óptica
+Híbrido de Fibra Coaxial
+Voz sobre Protocolo de Internet
+WiMAX
+
+
+== Referencias ==

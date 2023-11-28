@@ -1,0 +1,240 @@
+La química orgánica es la rama de la química que estudia una clase numerosa de moléculas, que, en su mayoría   contienen carbono formando enlaces covalentes: carbono-carbono o carbono-hidrógeno y otros heteroátomos, también conocidos como compuestos orgánicos.
+Debido a la omnipresencia del carbono en los compuestos que esta rama de la química estudia, esta disciplina también es llamada química del carbono.[1]​
+
+
+== Historia ==
+La química orgánica constituyó o se instituyó como disciplina en los años treinta. El desarrollo de nuevos métodos de análisis de las sustancias de origen animal y vegetal, basados en el empleo de disolventes, como el éter o el alcohol, permitió el aislamiento de un gran número de sustancias orgánicas que recibieron el nombre de "principios inmediatos".
+La aparición de la química orgánica se asocia a menudo al descubrimiento, en 1828, por el químico alemán Friedrich Wöhler, de que la sustancia inorgánica cianato de amonio podía convertirse en urea, una sustancia orgánica que se encuentra en la orina de muchos animales. Antes de este descubrimiento, los químicos creían que para sintetizar sustancias orgánicas, era necesaria la intervención de lo que llamaban ‘la fuerza vital’, es decir, los organismos vivos. El experimento de Wöhler[2]​ rompió la barrera entre sustancias orgánicas e inorgánicas. De esta manera, los químicos modernos consideran compuestos orgánicos a aquellos que contienen carbono e hidrógeno, y otros elementos (que pueden ser uno o más), siendo los más comunes: oxígeno, nitrógeno, azufre y los halógenos.
+En 1856, sir William Henry Perkin, mientras trataba de estudiar la quinina, accidentalmente fabricó el primer colorante orgánico ahora conocido como malva de Perkin.[3]​
+La diferencia entre la química orgánica y la química biológica,es que en la segunda las moléculas de ADN tienen una historia y, por ende, en su estructura nos hablan de su historia, del pasado en el que se han constituido, mientras que una molécula orgánica, creada hoy, es solo testigo de su presente, sin pasado y sin evolución histórica.[4]​
+
+
+== Cronología ==
+
+1675: Lémery clasifica los productos químicos naturales, según su origen en minerales, vegetales y animales1784: Antoine Lavoisier demuestra que todos los productos vegetales y animales están formados básicamente por carbono e hidrógeno y, en menor proporción, nitrógeno, oxígeno y azufre1807: Jöns Jacob Berzelius clasifica los productos químicos en:
+Orgánicos: los que proceden de organismos vivos.
+Inorgánicos: los que proceden de la materia inanimada.
+1816: Michel Eugène Chevreul prepara distintos jabones a partir de diferentes fuentes de ácidos grasos y diversas bases, produciendo así distintas sales de ácidos grasos (o jabones), que no resultaron ser más que productos orgánicos nuevos derivados de productos naturales (grasas animales y vegetales).1828: Friedrich Wöhler, a partir de sustancias inorgánicas y con técnicas normales de laboratorio, sintetizó la sustancia urea, la segunda sustancia orgánica obtenida artificialmente, luego del oxalato de amonio.
+
+1856: Sir William Perkin sintetiza el primer colorante orgánico por accidente.
+1865: August Kekulé propuso que los átomos de carbono que forman el benceno se unen formando cadenas cerradas o anillos.
+
+
+== Primeros compendios ==
+La tarea de presentar la química orgánica de manera sistemática y global se realizó mediante una publicación surgida en Alemania, fundada por el químico Friedrich Konrad Beilstein (1838-1906). Su Handbuch der organischen Chemie (Manual de la química orgánica) comenzó a publicarse en Hamburgo en 1880 y consistió en dos volúmenes que recogían información de unos quince mil compuestos orgánicos conocidos. Cuando la Deutsche chemische Gesellschaft (Sociedad Alemana de Química) trató de elaborar la cuarta reedición, en la segunda década del siglo XX, la cifra de compuestos orgánicos se había multiplicado por diez. Treinta y siete volúmenes fueron necesarios para la edición básica, que aparecieron entre 1916 y 1937. Un suplemento de 27 volúmenes se publicó en 1938, recogiendo información aparecida entre 1910 y 1919.
+En la actualidad, se está editando el Fünftes Ergänzungswerk (quinta serie complementaria), que recoge la documentación publicada entre 1960 y 1979. Para ofrecer con más prontitud sus últimos trabajos, el Beilstein Institut ha creado el servicio Beilstein On line, que funciona desde 1988. Recientemente, se ha comenzado a editar periódicamente un CD-ROM, Beilstein Current Facts in Chemistry, que selecciona la información química procedente de importantes revistas. Actualmente, la citada información está disponible a través de internet.
+
+
+== El alma de la química orgánica: el carbono ==
+La gran cantidad de compuestos orgánicos que existen tiene su explicación en las características del átomo de carbono, que tiene cuatro electrones en su capa de valencia: según la regla del octeto necesita ocho para completarla, por lo que forma cuatro enlaces (valencia = 4) con otros átomos. Esta especial configuración electrónica da lugar a una variedad de posibilidades de hibridación orbital del átomo de carbono (hibridación química).
+La molécula orgánica más sencilla que existe es el metano. En esta molécula, el carbono presenta hibridación sp3, con los átomos de hidrógeno formando un tetraedro.
+El carbono forma enlaces covalentes con facilidad para alcanzar una configuración estable, estos enlaces los forma con facilidad con otros carbonos, lo que permite formar frecuentemente cadenas abiertas (lineales o ramificadas) y cerradas (anillos).
+
+
+== Clasificación de compuestos orgánicos ==
+La clasificación de los compuestos orgánicos puede realizarse de diversas maneras: atendiendo a su origen (natural o sintético), a su estructura (p. ej.: alifático o aromático), a su funcionalidad (p. ej.: alcoholes o cetonas), o a su peso molecular (p. ej.: monómeros o polímeros).
+
+
+=== Clasificación según su origen ===
+La clasificación de los compuestos orgánicos según el origen es de dos tipos: naturales o sintéticos. A menudo, los de origen natural se entiende que son los presentes en los seres vivos, pero no siempre es así, ya que algunas moléculas orgánicas también se sintetizan ex-vivo, es decir en ambientes inertes, como por ejemplo el ácido fórmico en el cometa Halle-Bopp.
+
+
+=== Natural ===
+
+
+==== In-vivo ====
+Los compuestos orgánicos presentes en los seres vivos o "biosintetizados" constituyen una gran familia de compuestos orgánicos. Su estudio tiene interés en medicina, farmacia, perfumería, cocina y muchos otros campos más.
+
+
+===== Carbohidratos =====
+Los carbohidratos están compuestos fundamentalmente de carbono (C), oxígeno (O) e hidrógeno (H). Son a menudo llamados "azúcares", pero esta nomenclatura no es del todo correcta. Tienen una gran presencia en el reino vegetal (fructosa, celulosa, almidón, alginatos), pero también en el animal (glucógeno, glucosa).
+Se suelen clasificar según su grado de polimerización en:
+
+Monosacáridos (glucosa, fructosa, ribosa y desoxirribosa)
+Disacáridos (sacarosa, lactosa, maltosa)
+Trisacáridos (maltotriosa, rafinosa)
+Polisacáridos (alginatos, ácido algínico, celulosa, almidón, etc.)
+
+
+===== Lípidos =====
+Los lípidos son un conjunto de moléculas orgánicas, la mayoría biomoléculas, compuestas principalmente por carbono e hidrógeno y en menor medida oxígeno, aunque también pueden contener fósforo, azufre y nitrógeno. Tienen como característica principal el ser hidrófobas (insolubles en agua) y solubles en disolventes orgánicos como la bencina, el benceno y el cloroformo. En el uso coloquial, a los lípidos se les llama incorrectamente grasas, ya que las grasas son solo un tipo de lípidos procedentes de animales. Los lípidos cumplen funciones diversas en los organismos vivientes, entre ellas la de reserva energética (como los triglicéridos), la estructural (como los fosfolípidos de las bicapas) y la reguladora (como las hormonas esteroides).
+
+
+===== Proteínas =====
+Las proteínas son polipéptidos, es decir están formados por la polimerización de péptidos, y estos por la unión de aminoácidos. Pueden considerarse así "poliamidas naturales", ya que el enlace peptídico es análogo al enlace amida. Comprenden una familia muy importante de moléculas en los seres vivos, pero en especial en el reino animal. Por otra parte, son producto de la expresión de genes contenidos en el ADN. Algunos ejemplos de proteínas son el colágeno, las fibroínas, o la seda de araña.
+
+
+===== Ácidos nucleicos =====
+Los ácidos nucleicos son polímeros formados por la repetición de monómeros denominados nucleótidos, unidos mediante enlaces fosfodiéster. Se forman, así, largas cadenas; algunas moléculas de ácidos nucleicos llegan a alcanzar pesos moleculares gigantescos, con millones de nucleótidos encadenados. Están formados por la moléculas de carbono, hidrógeno, oxígeno, nitrógeno y fosfato. Los ácidos nucleicos almacenan la información genética de los organismos vivos y son los responsables de la transmisión hereditaria. Existen dos tipos básicos, el ADN y el ARN.
+
+
+===== Moléculas pequeñas =====
+Las moléculas pequeñas son compuestos orgánicos de peso molecular moderado (generalmente se consideran "pequeñas" aquellas con peso molecular menor a 1000 g/mol) y que aparecen en pequeñas cantidades en los seres vivos, pero no por ello su importancia es menor. A ellas pertenecen distintos grupos de hormonas como la testosterona, el estrógeno u otros grupos como los alcaloides. Las moléculas pequeñas tienen gran interés en la industria farmacéutica por su relevancia en el campo de la medicina.
+
+
+==== Ex-vivo ====
+Son compuestos orgánicos que han sido sintetizados sin la intervención de ningún ser vivo, en ambientes extracelulares y extravirales.
+
+
+===== Procesos geológicos =====
+El petróleo es una sustancia clasificada como mineral en la cual se presentan una gran cantidad de compuestos orgánicos. Muchos de ellos, como el benceno, son empleados por el hombre tal cual, pero muchos otros son tratados o derivados para conseguir una gran cantidad de compuestos orgánicos, como por ejemplo los monómeros para la síntesis de materiales poliméricos o plásticos.
+
+
+===== Procesos atmosféricos =====
+El sistema climático está constituido por la atmósfera, la hidrósfera, la biosfera, la geosfera y sus interacciones. Las variaciones en el equilibrio climático pueden generar diversos procesos como el calentamiento global, el efecto invernadero o la disminución de la capa de ozono.
+
+
+===== Procesos de síntesis planetaria =====
+En el año 2000 el ácido fórmico, un compuesto orgánico sencillo, también fue hallado en la cola del cometa Hale-Bopp.[5]​[6]​ Puesto que la síntesis orgánica de estas moléculas es inviable bajo las condiciones espaciales, este hallazgo parece sugerir que a la formación del sistema solar debió anteceder un periodo de calentamiento durante su colapso final.[6]​
+
+
+=== Sintético ===
+Desde la síntesis de Wöhler de la urea un altísimo número de compuestos orgánicos han sido sintetizados químicamente para beneficio humano. Estos incluyen fármacos, desodorantes, perfumes, detergentes, jabones, fibras textiles sintéticas, materiales plásticos, polímeros en general, o colorantes orgánicos.
+
+
+== Cadenas hidrocarbonadas sencillas ==
+
+
+=== Hidrocarburos ===
+El compuesto más simple es el metano, un átomo de carbono con cuatro de hidrógeno (valencia = 1), pero también puede darse la unión carbono-carbono, formando cadenas de distintos tipos, ya que pueden darse enlaces simples, dobles o triples. Cuando el resto de enlaces de estas cadenas son con hidrógeno, se habla de hidrocarburos, que pueden ser:
+
+Saturados: con enlaces covalentes simples, alcanos.
+Insaturados: con dobles enlaces covalentes (alquenos) o triples (alquinos).
+Hidrocarburos cíclicos: Hidrocarburos saturados con cadena cerrada, como el ciclohexano.
+Aromáticos: estructura cíclica.
+
+
+=== Radicales y ramificaciones de cadena ===
+Los radicales[7]​ son fragmentos de cadenas de carbonos que cuelgan de la cadena principal. Su nomenclatura se hace con la raíz correspondiente (en el caso de un carbono met-, dos carbonos et-, tres carbonos prop-, cuatro carbonos but-, cinco carbonos pent-, seis carbonos hex-, y así sucesivamente) y el sufijo -il. Además, se indica con un número, colocado delante, la posición que ocupan. El compuesto más simple que se puede hacer con radicales es el 2-metilbutano. En caso de que haya más de un radical, se nombrarán por orden alfabético de las raíces. Por ejemplo, el 2-etil, 5-metil, 8-butil, 10-docoseno.
+
+
+== Clasificación según los grupos funcionales ==
+Los compuestos orgánicos también pueden contener otros elementos, también otros grupos de átomos además del carbono e hidrógeno, llamados grupos funcionales. Un ejemplo es el grupo hidroxilo, que forma los alcoholes: un átomo de oxígeno enlazado a uno de hidrógeno (-OH), al que le queda una valencia libre. Asimismo también existen funciones alqueno (dobles enlaces), éteres, ésteres, aldehídos, cetonas, carboxílicos, carbamoilos,[8]​ azo, nitro o sulfóxido, entre otros.[9]​
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Oxigenados ===
+Son cadenas de carbonos con uno o varios átomos de oxígeno.
+Pueden ser:
+
+Alcoholes: Las propiedades físicas de un alcohol se basan principalmente en su estructura. El alcohol está compuesto por un alcano y agua. Contiene un grupo hidrofóbico (sin afinidad por el agua) del tipo de un alcano, y un grupo hidroxilo que es hidrófilo (con afinidad por el agua), similar al agua. De estas dos unidades estructurales, el grupo –OH da a los alcoholes sus propiedades físicas características, y el alquilo es el que las modifica, dependiendo de su tamaño y forma.El grupo –OH es muy polar y, lo que es más importante, es capaz de establecer puentes de hidrógeno: con sus moléculas compañeras o con otras moléculas neutras.
+Dependiendo de la cantidad de grupos -OH que forman parte del alcohol, el mismo puede ser clasificado como monohidroxilado (presencia de un hidroxilo) o polihidroxilado (dos o más grupos hidroxilos en la molécula).
+
+Aldehídos: Los aldehídos son compuestos orgánicos caracterizados por poseer el grupo funcional -CHO. Se denominan como los alcoholes correspondientes, cambiando la terminación -ol por -al: Es decir, el grupo carbonilo H-C=O está unido a un solo radical orgánico.Cetonas: Una cetona es un compuesto orgánico caracterizado por poseer un grupo funcional carbonilo unido a dos átomos de carbono, a diferencia de un aldehído, en donde el grupo carbonilo se encuentra unido al menos a un átomo de hidrógeno. Cuando el grupo funcional carbonilo es el de mayor relevancia en dicho compuesto orgánico, las cetonas se nombran agregando el sufijo -ona al hidrocarburo del cual provienen (hexano, hexanona; heptano, heptanona; etc). También se puede nombrar posponiendo cetona a los radicales a los cuales está unido (por ejemplo: metilfenil cetona). Cuando el grupo carbonilo no es el grupo prioritario, se utiliza el prefijo oxo- (ejemplo: 2-oxopropanal). El grupo funcional carbonilo consiste en un átomo de carbono unido con un doble enlace covalente a un átomo de oxígeno. El tener dos átomos de carbono unidos al grupo carbonilo, es lo que lo diferencia de los ácidos carboxílicos, aldehídos, ésteres. El doble enlace con el oxígeno, es lo que lo diferencia de los alcoholes y éteres. Las cetonas suelen ser menos reactivas que los aldehídos dado que los grupos alquílicos actúan como dadores de electrones por efecto inductivo.Ácidos carboxílicos: Los ácidos carboxílicos constituyen un grupo de compuestos que se caracterizan porque poseen un grupo funcional llamado grupo carboxilo o grupo carboxi (–COOH); se produce cuando coinciden sobre el mismo carbono un grupo hidroxilo (-OH) y carbonilo (C=O). Se puede representar como COOH o CO2H...
+Ésteres: Los ésteres presentan el grupo éster (-O-CO-) en su estructura. Algunos ejemplos de sustancias con este grupo incluyen el ácido acetil salicílico, componente de la aspirina, o algunos compuestos aromáticos como el acetato de isoamilo, con característico olor a plátano. Los aceites también son ésteres de ácidos grasos con glicerol.
+Éteres: Los éteres presentan el grupo éter(-O-) en su estructura. Suelen tener bajo punto de ebullición y son fácilmente descomponibles. Por ambos motivos, los éteres de baja masa molecular suelen ser peligrosos ya que sus vapores pueden ser explosivos.
+
+
+=== Nitrogenados ===
+Aminas: Las aminas son compuestos orgánicos caracterizados por la presencia del grupo amina (-N<). Las aminas pueden ser primarias (R-NH2), secundarias (R-NH-R") o terciarias (R-NR´-R"). Las aminas suelen dar compuestos ligeramente amarillentos y con olores que recuerdan a pescado u orina.
+Amidas: Las amidas son compuestos orgánicos caracterizados por la presencia del grupo amida (-NH-CO-) en su estructura. Las proteínas o polipéptidos son poliamidas naturales formadas por enlaces peptídicos entre distintos aminoácidos.
+Isocianatos: Los isocianatos tienen el grupo isocianato (-N=C=O). Este grupo es muy electrófilo, reaccionando fácilmente con el agua para descomponerse mediante la transposición de Hofmann dar una amina y anhídrico carbónico, con los hidroxilos para dar uretanos, y con las aminas primarias o secundarias para dar ureas.
+
+
+=== Cíclicos ===
+Son compuestos que contienen un ciclo saturado. Un ejemplo de estos son los norbornanos, que en realidad son compuestos bicíclicos, los terpenos, u hormonas como el estrógeno, progesterona, testosterona u otras biomoléculas como el colesterol.
+
+
+=== Aromáticos ===
+Los compuestos aromáticos tienen estructuras cíclicas insaturadas. El benceno es el claro ejemplo de un compuesto aromático, entre cuyos derivados están el tolueno, el fenol o el ácido benzoico. En general se define un compuesto aromático aquel que tiene anillos que cumplen la regla de Hückel, es decir que tienen 4n+2 electrones en orbitales π (n=0,1,2,...). A los compuestos orgánicos que tienen otro grupo distinto al carbono en sus cilos (normalmente N, O u S) se denominan compuestos aromáticos heterocíclicos. Así los compuestos aromáticos se suelen dividir en:
+
+Derivados del benceno: Policíclicos (antraceno, naftaleno, fenantreno, etc.), fenoles, aminas aromáticas, fulerenos, etc.
+Compuestos heterocíclicos: Piridina, furano, tiofeno, pirrol, porfirina, etc.
+
+
+== Isómeros ==
+Ya que el carbono puede enlazarse de diferentes maneras, una cadena puede tener diferentes configuraciones de enlace dando lugar a los llamados isómeros, moléculas tienen la misma fórmula química, pero distintas estructuras y propiedades.
+Existen distintos tipos de isomería: isomería de cadena, isomería de función, tautomería, estereoisomería, y estereoisomería configuracional.
+El ejemplo mostrado a la izquierda es un caso de isometría de cadena en la que el compuesto con fórmula C6H12 puede ser un ciclo (ciclohexano) o un alqueno lineal, el 1-hexeno. Un ejemplo de isomería de función sería el caso del propanal y la acetona, ambos con fórmula C3H6O.
+
+
+== Compuestos orgánicos ==
+
+Los compuestos orgánicos pueden dividirse de manera muy general en:
+
+Compuestos alifáticos
+Compuestos aromáticos
+Compuestos heterocíclicos
+Compuestos organometálicos
+Polímeros
+
+
+== Relación con la biología ==
+Una de las principales relaciones entre la química orgánica y la biología es el estudio de la síntesis y estructura de moléculas orgánicas de importancia en los procesos moleculares realizados por los organismos vivos, es decir en el metabolismo.[10]​ La bioquímica es el campo interdisciplinar científico que estudia los seres vivos, y ya que estos usan compuestos que contienen carbono, la química orgánica es imprescindible para comprender los procesos metabólicos.
+En términos biológicos la química orgánica es de gran importancia sobre todo en un contexto celular y esto lo podemos ejemplificar con moléculas como los carbohidratos, presentes desde la membrana plasmática así como en la estructura química del ADN, los lípidos quienes son la base principal de la membrana plasmática, las proteínas que ayudan a dar sostén a un organismo o sus funciones como enzimas y el ADN, molécula encargada de resguardar la información genética de los organismos vivos.[11]​[12]​[13]​
+
+
+== Véase también ==
+Bioquímica
+Biología
+Química
+Compuesto orgánico
+Nomenclatura química
+Nomenclatura química de los compuestos inorgánicos
+Nomenclatura química de los compuestos orgánicos
+Grupo funcional
+Química inorgánica
+Metabolismo
+ADN
+Enzimas
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Química orgánica.
+ Wikiquote alberga frases célebres de o sobre Química orgánica.
+Nomenclatura de química orgánica IUPAC.
+Portal Química orgánica (en)
+Portales Química orgánica (en)
+Introducción a la Química orgánica (pt)
+Freeware Químico en www.acdlabs.com
+Tabla de funciones orgánicas - Tabla de radicales

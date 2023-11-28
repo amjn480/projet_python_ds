@@ -1,0 +1,8 @@
+Die World Register of Marine Species (WoRMS) is ’n databasis met ’n gesaghebbende en omvattende lys name van mariene organismes.
+
+
+== Inhoud ==
+Die inhoud word deur wetenskaplike kenners van elke groep organismes geredigeer en onderhou. Hulle kontroleer die gehalte van die inligting, wat verkry word uit vaktydskrifte en ander databasisse. WoRMS gee geldige name vir alle mariene organismes, maar verskaf ook inligting oor sinonieme en ongeldige name. Die databasis word voortdurend bygewerk terwyl nuwe spesies ontdek en deur wetenskaplikes beskryf word. Die name en taksonomie van bestaande spesies word dikwels gekorrigeer of verander namate nuwe navorsing voortdurend gepubliseer word.
+
+
+== Verwysings ==

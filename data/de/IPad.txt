@@ -1,0 +1,240 @@
+iPad ist der Markenname einer Tabletcomputer-Reihe des US-amerikanischen Unternehmens Apple, die sich durch einen berührungsempfindlichen kapazitiven Bildschirm mit Multi-Touch-Gesten bedienen lässt. Die iPad-Produktlinie besteht aus dem ursprünglichen iPad, das mittlerweile das Einsteigermodell darstellt; dem kleineren iPad mini; dem leichteren und dünneren iPad Air; und dem Flaggschiff-Modell iPad Pro. 2019 wurde das bis dahin für iPads verwendete Betriebssystem iOS, das auch für iPhones und iPod touchs verwendet wird, durch das an Tablets angepasste iPadOS ersetzt. Der Name setzt sich aus dem für Apple-Produkte typischen kleinen „i“ und „Pad“ – englisch für Polster, Unterlage, Notizblock – zusammen.
+Bis September 2020 wurden über 500 Millionen iPads verkauft, was Apple zum Marktführer im Tabletcomputer-Bereich macht. Aufgrund seiner Popularität hat sich der Begriff „iPad“ beinahe zu einem Gattungsnamen für Tabletcomputer entwickelt.
+
+
+== Beschreibung und Technik ==
+Alle iPads sind Tabletcomputer mit Aluminiumgehäuse, die primär über einen berührungsempfindlichen Bildschirm gesteuert werden. Wie auch bei iPhones bis iPhone 5 und dem iPhone SE und iPod touch gibt es am oberen Gehäuserand einen Ein/Ausschalter, an der rechten Gehäuseseite sind zwei Tasten verbaut, um die Lautstärke zu steuern, bis einschließlich zum iPad Air gab es auch noch einen Sperrschalter, der entweder die Geräteorientation sperrt oder den Ton stummschaltet. Die Home-Taste ist mittig unterhalb des Bildschirms platziert und pausiert Anwendungsprogramme, beziehungsweise startet bei einem Doppelklick eine „App-Umschalter“ (englisch App switcher) genannte Übersicht über die laufenden und zuletzt benutzen Anwendungen. Neben einem Lautsprecher verfügen alle iPads über 3,5-mm-Headsetanschlüsse außer dem iPad Pro der 3. Generation von 2018. Mit Ausnahme des iPad der 1. Generation besitzen alle Geräte eine Front- und Rückkamera.Grundsätzlich gibt es in jeder iPad-Modellreihe ein Gerät nur mit WLAN und eins mit WLAN und Mobilfunkmodem. Dabei ist über die Mobilfunktechnik jedoch kein Telefonat führbar. Die Akkulaufzeit aller Geräte wird von Apple im WLAN-Betrieb mit zehn Stunden, im Mobilfunkbetrieb mit bis zu neun Stunden angegeben (Stand: 2015). Alle Geräte arbeiten mit einem eigens von Apple entwickelten SoC, als Betriebssystem kommt seit 2019 iPadOS zum Einsatz.
+
+
+== Geschichte ==
+Apple produzierte bis 1998 PDAs der Produktreihe Newton. Ab 2000 arbeitete das Unternehmen an einem neuen Tablet-Konzept, wobei die Entwicklungen zwischenzeitlich immer wieder eingestellt wurden. Aus diesem Projekt gingen 2007 das iPhone und 2010 das iPad hervor. Der Verkauf des ersten iPad begann am 3. April 2010 in den USA. In Deutschland und in der Schweiz kam das iPad am 28. Mai 2010 auf den Markt, in Österreich war es ab 23. Juli 2010 erhältlich. Das beim Verkaufsstart vorinstallierte Betriebssystem war das iOS 3.2.
+Als erste Stadt in den USA setzt seit 2011 die Stadt Auburn iPads in großem Umfang als Unterrichtsmittel an Grundschulen ein. Kritiker glauben jedoch, dass Kinder in diesem Alter ein iPad schlichtweg nicht benötigen.Am 17. Februar 2012 reichte das chinesische Unternehmen Proview Electronics in den USA eine Klage ein, mit der Apple die Namensrechte für das iPad in China streitig gemacht wurden. Am 23. Februar 2012 lehnte ein chinesisches Gericht die Forderung des Unternehmens ab, dem iPad-Verkauf in China Einhalt zu gebieten. Im Juli desselben Jahres legten Apple und Proview ihren Rechtsstreit endgültig bei, indem sich Apple zur Zahlung einer pauschalen Gebühr für die Nutzung der Marke „iPad“ bereit erklärte. Nachdem im Jahr 2009 lediglich 55.000 US-Dollar für die Marke entrichtet wurden, lizenzierte Apple die Marke von Proview nun für einen Betrag von 60 Millionen US-Dollar. Apple darf das iPad im Gegenzug seither dauerhaft und uneingeschränkt unter der bisherigen Bezeichnung in China verkaufen.
+Die Endmontage der einzelnen Hardwarekomponenten übernimmt das taiwanische Unternehmen Foxconn.
+
+
+=== iPad ===
+
+
+==== iPad (2010) ====
+Steve Jobs präsentierte das erste iPad am 27. Januar 2010 im Yerba Buena Center for the Arts in San Francisco auf einer Keynote vor Vertretern der internationalen Presse. Als SoC fungierte erstmals der Apple A4. Dieser enthält einen Cortex-A8-Prozessor und 256 MB Arbeitsspeicher. Der 24,6 cm (9,7 Zoll) große Touchscreen (IPS-Display) funktioniert wie beim iPhone kapazitiv und reagiert auf Multi-Touch-Gesten. Der Bildschirm ist hintergrundbeleuchtet; die Helligkeit kann sich über einen Umgebungslichtsensor automatisch an die umgebenden Lichtverhältnisse anpassen. Das Gerät hat einen Beschleunigungssensor auf Siliziumbasis, der Anwendungen steuern kann und den Bildschirminhalt an die Lage des Geräts anpasst. Apple gibt die Laufzeit des fest eingebauten Akkus mit bis zu zehn Stunden und die Standbyzeit mit mehreren Wochen an. Die Lebenszeit des Akkus soll fünf Jahre betragen.
+Der Präsentation waren monatelange Spekulationen in den Medien und Blogs vorausgegangen, unter anderem um den Namen für das Gerät – hier war meist iSlate (von engl. slate für „Schiefertafel“) erwartet worden.Der von Jobs auf Ende März 2010 datierte Verkaufsstart der Wi-Fi-Versionen in den USA wurde später auf den 3. April verschoben. Der erste Käufer weltweit war Richard Gutjahr aus Deutschland. Versionen für Wi-Fi und 3G (UMTS bzw. CDMA) erschienen in den USA Ende April 2010 und weltweit im Sommer 2010.
+
+
+==== iPad 2 (2011) ====
+
+Das „iPad 2“ stellte Steve Jobs am 2. März 2011 erneut im Novellus Theater vor. Als SoC dient der Apple-A5. Die Auflösung (1024 × 768 Pixel) und Displaygröße (9,7 Zoll) blieben im Vergleich zum Vorgängermodell gleich und entsprachen damit der des EVGA-Standards. Die Rückseite ist auch weiterhin aus Aluminium. Zur Ausstattung gehören jeweils eine Kamera auf der Vorder- und der Rückseite. Eine Variante verfügt zudem über ein Mobilfunkmodem; diese Geräte enthalten eine A-GPS-Funktion. Das Gerät war mit 16, 32 oder 64 GB Flash-Speicher und in den Farben Schwarz und Weiß erhältlich. Der Verkaufsstart war in den USA am 11. März 2011 und in Europa am 25. März 2011. Am 18. März 2014 wurde der Verkauf des iPad 2 eingestellt. An dessen Stelle rückte das iPad der 4. Generation, das ab diesem Zeitpunkt nur noch in der 16-GB-Variante verfügbar war.
+
+
+==== iPad (3. Generation, Frühjahr 2012) ====
+
+Die Vorstellung der dritten iPad-Generation, seinerzeit „das neue iPad“ genannt, fand am 7. März 2012 im Yerba Buena Center in San Francisco unter Leitung Tim Cooks statt. Das Gerät entspricht in den äußeren Abmessungen dem Vorgänger, ist aber mit 9,4 Millimetern 0,6 mm dicker. Es verfügt über eine 5-Megapixel-Kamera, die neben Fotos auch Videos mit 1080p und 30 Frames aufzeichnen kann. In Nordamerika ist beim iPad der 3. Generation LTE nutzbar, in Europa steht es nicht zur Verfügung. Diese Gerätegeneration besitzt zusätzlich zum Apple-A5X-SoC ein 264-ppi-Retina-Display mit einer Auflösung von 2048 × 1536 Pixeln. Weiterhin wurde eine Diktierfunktion für Texte integriert. Ab iOS 6 ist die Sprachsteuerung Siri nutzbar. Das iPad der 3. Generation war in den Farben Schwarz und Weiß, in drei Speicherkapazitäten mit 16, 32 oder 64 GB und entweder mit WLAN oder WLAN und Mobilfunknetz verfügbar. Der Verkauf begann in den Vereinigten Staaten, Deutschland, der Schweiz und sieben weiteren Ländern am 16. März 2012, eine Woche später folgten weitere Länder wie Österreich, Italien und Spanien. Am 26. Oktober 2012 startete Apple die Vorbestellungsmöglichkeit für das Nachfolgemodell, das das iPad der 3. Generation ersetzte.
+
+
+==== iPad (4. Generation, Herbst 2012) ====
+
+Das iPad der vierten Generation wurde am 23. Oktober 2012 im California Theatre in San José als „iPad mit Retina Display“ vorgestellt. Die Abmessungen entsprechen denen des iPad der 3. Generation, es besitzt aber einen Lightning-Anschluss. LTE stellt das iPad der 4. Generation auch im 1,8-GHz-Frequenzband zur Verfügung. Die Frontkamera-Auflösung wurde auf 1,2 Megapixel angehoben, die Kamera kann Videos in 720p und Fotos mit 1280 × 1024 Pixeln aufnehmen, die Rückkamera-Auflösung beträgt 5 Megapixel. Darüber hinaus besitzt das Gerät das Apple-A6X-SoC. Apple legte Ende Januar 2013 eine 128-GB-Variante nach. Der Verkauf wurde von Oktober 2013 bis März 2014 ausgesetzt, bevor er im Oktober 2014 endgültig eingestellt wurde.
+
+
+==== iPad (5. Generation, 2017) ====
+
+Das iPad (2017) der fünften Generation wurde am 21. März 2017 vorgestellt und konnte ab dem 24. März 2017 vorbestellt werden. Es ersetzte das iPad Air 2 und war somit das günstigste Modell. Die hauptsächliche Neuerung bestand im schnelleren Apple-A9-System-on-a-Chip, der schon in den iPhones 6s, 6s Plus und SE eingebaut war. Das 9,7 Zoll große Retina-Display löste mit den bekannten 2048 × 1536 Pixeln auf, was zu einer Pixeldichte von 264 ppi führte. Das Gerät unterstützt den WLAN-Standard 802.11ac (Wi-Fi 5) und Bluetooth 4.2. Verbaut sind zwei Kameras – eine 8-Megapixel-Hauptkamera auf der Rückseite, die in 1080p mit 30 fps oder 720p und 120 fps Videos aufnehmen kann, sowie eine 1,2-MP-Frontkamera. Es steht in den Farben Silber, Gold und Space Grau und den Speichergrößen 32 GB und 128 GB zur Verfügung. Die unverbindliche Preisempfehlung betrug 399 € / 387.95 CHF bzw. 499 € / 497.60 CHF je nach Größe des Speichers. Einen SIM-Kartenschacht, der 4G-Mobilfunkkonnektivität ermöglicht, lässt sich für zusätzlich je 160 € / 149.55 CHF hinzufügen.
+
+
+==== iPad (6. Generation, 2018) ====
+
+Am 27. März 2018 wurde auf einer Pressekonferenz mit dem Titel „Let’s take a field trip.“ das nächste Modell des günstigsten iPad vorgestellt. Es verfügt über einen schnelleren und effizienteren Apple-A10-Fusion-System-on-a-Chip und unterstützt wie das iPad Pro den Apple Pencil. Neben Silber und Space Grau ist es in einem neuen Goldton erhältlich, welcher an den des iPhone 8 angeglichen wurde und eine Mischung aus dem Gold und dem Roségold des iPad Pro 10,5″ ist. Die Speichergrößen betragen weiterhin 32 und 128 GB. Im Gegensatz zu den USA, wo die Preise unverändert blieben, wurde das iPad in Deutschland, Österreich und der Schweiz günstiger. So kostet es bei Apple je nach Speichergröße 349 € / 379 CHF bzw. 439 € / 489 CHF. Die Aufrüstung mit einem 4G-Modul kostet jetzt 130 € / 150 CHF. Dieses unterstützt nun LTE-A Cat6, was gegenüber dem Vorgänger doppelt so hohe Downloadgeschwindigkeiten (300 Mbps) ermöglicht.
+
+
+==== iPad (7. Generation, 2019) ====
+
+Am 10. September 2019 wurde auf der Apple-Keynote das neuste Modell des günstigsten iPad vorgestellt. Das Display wurde von 9,7″ auf 10,2″ vergrößert. Neu ist die Unterstützung von Apples Smart Keyboard über den Smart-Connector. Die Speichergrößen betragen weiterhin 32 und 128 GB. Der Arbeitsspeicher wurde von 2 GB auf 3 GB erweitert. Die Preise wurden gegenüber der 6. Generation leicht erhöht. Die beiden Speichervarianten kosten jetzt 379 € beziehungsweise 479 €, das 4G-Model kostet 140 € Aufpreis.
+
+
+==== iPad (8. Generation, 2020) ====
+
+Am 18. September 2020 wurde auf einer virtuellen Apple-Keynote das Nachfolgermodell des iPad 2019 vorgestellt. Neu ist die Verwendung eines A12-SoC anstelle eines A10. Ihm stehen weiterhin 3 GB RAM zur Verfügung. Auch die Speichergrößen von 32 und 128 GB und der Preis sind unverändert.
+
+
+==== iPad (9. Generation, 2021) ====
+
+Am 14. September 2021 wurde auf einer Apple-Keynote das Nachfolgemodell des iPad 2020 vorgestellt. Das ansonsten unveränderte Display unterstützt jetzt True Tone. Die Frontkamera ist nun dasselbe 12-Megapixel-Ultraweitwinkel-Modul mit Folgemodus wie im iPad Pro 2021, verglichen mit der einfacheren 1,2-Megapixel-Kamera des Vorgängers. Es hat einen A13-Bionic-SoC. Die Speichergrößen wurden auf 64 GB und 256 GB verdoppelt. Der Preis für die 64-GB-Speichervariante beträgt 379 €, womit der Einstiegspreis des Vorgängers trotz doppeltem Speicher beibehalten wurde. Die 256-GB-Variante kostet 549 € (verglichen mit 128 GB für 479 € beim Vorgänger). Das 4G-Modul kostet 140 € Aufpreis. Die goldene Variante entfällt, die silberne besitzt nun eine Front mit schwarzem Displayrahmen, wie es bei Space Grau auch der Fall ist. Am 19. Oktober 2022 hat Apple die Preise auf 429 € und 629 € je nach Speicher erhöht. Mobilfunkunterstützung kostet von da an 170 € Aufpreis.
+
+
+==== iPad (10. Generation, 2022) ====
+Am 18. Oktober 2022 wurde das iPad 10 zusammen mit neuen iPad Pros über eine Pressemitteilung vorgestellt. Das Design ähnelt dem iPad Air der 4. und 5. Generation, jedoch mit etwas größeren Rändern. Mit dieser Änderung einher geht der Wechsel zum Design mit flachen Kanten. Der 3,5-mm-Klinkenanschluss entfällt. Ebenfalls entfällt der Home Button, TouchID befindet sich jetzt im Anschaltknopf. Der Ladeanschluss wurde von Lightning zu USB-C gewechselt. Der Apple Pencil der ersten Generation ist weiterhin kompatibel. Aufgrund der verschiedenen Anschlüsse lässt er sich nicht mehr direkt am Gerät laden und verbinden. Stattdessen wird ein USB-C auf USB-C und ein USB-C-zu-Lightning-Adapter benötigt. Bei neu produzierten Apple Pencil der ersten Generation liegt dieser Adapter bei. Ansonsten muss der Adapter separat erworben werden. Alternativ wird ein neuer Logitech Crayon mit USB-C angeboten. Das Display ist nun 10,9 Zoll groß, alle anderen Eigenschaften wurden vom Vorgänger übernommen. Dadurch ist es weiterhin etwas dicker als die anderen iPads, der Unterschied ist jedoch nicht mehr so groß. Die Kamera auf der Rückseite wurde verbessert. Sie ragt nun heraus und ist nicht mehr flach mit dem Gehäuse. Die Frontkamera ist nun an der langen Seite angebracht. Als SoC wird der Apple A14 Bionic mit 4 GB Arbeitsspeicher verwendet. Die Farbe Spacegrau entfällt, Silber wird weiterhin angeboten, zusätzlich zu Blau, Pink und Gelb. Der Smart Connector befindet sich weiterhin an der langen Seite (gegenüber der Frontkamera), statt auf der Rückseite wie beim iPad Air und iPad Pro. Damit ist es nicht mit deren Zubehör wie dem Magic Keyboard kompatibel. Stattdessen bietet Apple eine andere Tastaturhülle an, die aus zwei Teilen besteht, das sogenannte Magic Keyboard Folio. Ein Teil wird an der Rückseite befestigt und bietet einen ausklappbaren Standfuß. Der andere Teil beinhaltet die Tastatur. Diese hat, im Gegensatz zum Magic Keyboard, Funktionstasten. Das Magic Keyboard Folio kostet bei Apple 299 €. Das iPad selbst kostet 579 € für 64 GB und 779 € für 256 GB. Die Variante mit Mobilfunkunterstützung kostet jeweils 200 € mehr.
+
+
+=== iPad Air ===
+
+
+==== iPad Air (2013) ====
+
+Am 22. Oktober 2013 wurde von Phil Schiller mit dem „iPad Air“ das fünfte Gerät der iPad-Reihe vorgestellt. Das Design hat sich dem Stil des iPad mini angepasst. Im Vergleich zum iPad der 4. Generation wurden die Abmessungen und das Gewicht reduziert. Neu waren auch das 64-Bit-Apple-A7-SoC und erweiterte LTE-Fähigkeiten, womit die Unterstützung der LTE-Netze von Vodafone, O2 und der Deutschen Telekom gewährleistet war. Zudem führte Apple die WLAN-Technologie MIMO ein. Außerdem verfügt es über ein Stereomikrofon. Die seit dem iPad 1 verbauten Mikrofone konnten nur Einkanaltonspuren aufzeichnen. Bei der Einführung am 1. November 2013 war das iPad Air in vier Speichergrößen verfügbar (16, 32, 64 und 128 GB). Nach der Einführung des Nachfolgers iPad Air 2 im Jahr 2014 verkaufte Apple das Vorgängermodell nur noch mit den Speichergrößen 16 und 32 GB. Es gibt insgesamt drei Varianten des iPad Air: WiFi, WiFi + Cellular (als CDMA-Variante für den nordamerikanischen Markt) und WiFi + Cellular (mit GSM-Modem und anderen unterstützten LTE-Bändern, unter anderem für Deutschland), die in 41 Ländern erhältlich sind.
+
+
+==== iPad Air 2 (2014) ====
+Das iPad Air 2 wurde am 16. Oktober 2014 vorgestellt. Neuerungen sind das mit 6,1 mm noch dünnere Gehäuse, das nun auch in der Farbe Gold erhältlich ist, das schnellere A8X-SoC, eine neue 8-Megapixel-Kamera mit Zeitlupenfunktion auf der Rückseite des Tablets, der schnellere WLAN-Standard 802.11ac sowie der Touch-ID-Sensor, den Apple bereits im iPhone 5s eingebaut hatte. Außerdem wurde erstmals bei einem iPad auf einen mechanischen Stummschalter an der Seite des Gerätes verzichtet. Wie auch das iPhone 6 besitzt das iPad Air 2 ein Barometer. Bei den Speichervarianten nahm Apple im Vergleich zum Vorgänger die 32-GB-Variante aus dem Programm, somit ist das iPad Air 2 nur in den Speichergrößen 16, 64 und 128 GB verfügbar. Damit einhergehend wurden auch die Preise der 64- und 128-GB-Varianten im Vergleich zum Vorgänger um 100 € gesenkt.Das iPad Air 2 war einen Tag nach der Keynote am 17. Oktober 2014 auf der Apple-Seite vorbestellbar. Seit Einführung der kleineren Variante des iPad Pro im März 2016 wurde die 128-GB-Variante aus dem Sortiment genommen und der Preis der 16- und 64-GB-Modelle um jeweils 50 € gesenkt. Im September 2016 wurden die 16- und 64-GB-Varianten durch 32- und 128-GB-Varianten ersetzt und die Preise leicht gesenkt. Die Preise lagen bei 429 € für 32 GB und 539 € für 128 GB. Der offizielle Verkauf des iPad Air 2 wurde am 21. März 2017 zugunsten des iPad 5 eingestellt.
+
+
+==== iPad Air (3. Generation, 2019) ====
+Die dritte Generation des iPad Air wurde am 18. März 2019 ohne große Vorstellung im Apple Store zum Verkauf angeboten. Das Air hat ein 10,5-Zoll-Display, wie man es vom iPad Pro (2. Generation) kennt, das nun auch True Tone und den P3-Farbraum unterstützt. Anders als bei den iPad Pros (3. Generation) ist nur ein klassischer Fingerabdrucksensor im Homebutton verbaut. Als Chip wird der Apple A12 Bionic wie bei den iPhones von 2018 eingesetzt, bei dem 3 GB Arbeitsspeicher zur Seite stehen. Neu unterstützt das iPad Air den Apple Pencil der ersten Generation. Dadurch, dass nun ein Smart Connector wie bei den iPad Pros verbaut wurde, kann zusätzlich das Smart Keyboard verwendet werden. Die Auflösung der Frontkamera wurde von 1,2 auf 7 Megapixel erhöht.
+
+
+==== iPad Air (4. Generation, 2020) ====
+Die vierte Generation des iPad Air wurde am 15. September 2020 auf dem „Apple September Event“ vorgestellt, es hat einen Bildschirm von 276,9 mm (10,9 in) und die gleiche Hauptkamera mit 12 Megapixel Auflösung, die auch im iPad Pro 2020 eingebaut ist. Das Gerät hat eine Frontkamera mit einer Auflösung von 7 Megapixeln, die vor allem bei wenig Licht bessere Bilder liefern soll. Touch ID ist in die obere Taste (Power Button) integriert. Weiter unterstützt das iPad der vierten Generation den „Apple Pencil“ der 2. Generation und ist in fünf unterschiedlichen Gehäusefarben erhältlich. Der Bildschirm mit einer Auflösung von 2360 × 1640 Pixeln unterstützt den Farbraum P3. Das SoC ist der Apple A14, der im 5-nm-Verfahren hergestellt wird. Das Gerät hat Stereolautsprecher und kann mit dem „Apple Magic Keyboard“ benutzt werden. Der Formfaktor wurde weiterhin dem der iPad Pros 2018 und 2020 angeglichen: Die Bildschirmränder sind schmaler als bisher und die Gehäusekanten sind nicht mehr abgerundet.
+
+
+==== iPad Air (5. Generation, 2022) ====
+
+Die fünfte Generation des iPad Air wurde am 8. März 2022 vorgestellt. Äußerlich ist es baugleich zu dem iPad Air der 4. Generation, verfügt jedoch über veränderte Farboptionen. Als SoC kommt der bereits im iPad Pro verwendete Apple M1 zum Einsatz. Er verfügt über eine 8-Kern-CPU und eine 8-Kern-GPU und kommt mit 8 Gigabyte Arbeitsspeicher. Der USB-C Anschluss ist mit 10 Gigabit pro Sekunde doppelt so schnell wie der des Vorgängermodells. Ebenfalls wurde die Frontkamera aktualisiert, sie verfügt nun über eine Auflösung von 12 Megapixeln und unterstützt Centerstage. Die Cellular Variante funkt nun auch über den Mobilfunkstandard 5G.
+
+
+=== iPad mini ===
+
+
+==== iPad mini (2012) ====
+Gemeinsam mit dem iPad der vierten Generation wurde am 23. Oktober 2012 eine „iPad mini“ genannte kleinere Version vorgestellt, die über ein 7,9-Zoll-Display mit 1024 × 768 Pixel verfügt. Als Prozessor (SoC) kommt der überarbeitete Apple A5 zum Einsatz. Die Rückkamera löst wie die des iPad (4. Gen.) mit 5 Megapixel auf und filmt in Full-HD; die Frontkamera hat 1,2 Megapixel und filmt in HD. Wie das iPhone 5 verfügt auch das iPad mini über die neue Lightning-Schnittstelle; bisherige externe Zusatzhardware ist somit nur mit Adaptern zu betreiben. Das Tablet verfügt in der „Cellular“-Variante zudem über ein LTE-Funkmodul im 1,8-GHz-Frequenzband, was in Deutschland nur von der Deutschen Telekom und der E-Plus-Gruppe angeboten wird. Die Abmessungen des iPad mini betragen 200 × 134,7 × 7,2 mm (H × B × T) bei einem Gewicht von rund 300 Gramm. Das iPad mini steht mit Speicherkapazitäten von 16, 32 und 64 GB und in den Farben Schwarz/Graphit sowie Weiß/Silber zur Verfügung. Der integrierte Lithium-Polymer-Akku mit 16,3 Wattstunden ermöglicht laut Apple bis zu zehn Stunden kontinuierliches Surfen im Web sowie Musik- oder Videowiedergabe.
+Das iPad mini konnte ab dem 26. Oktober 2012 online vorbestellt werden, die Cellular-Variante wurde ab Ende November 2012 ausgeliefert.
+Mit der Vorstellung des iPad mini 2 am 22. Oktober 2013 wurde das erste Modell leicht überarbeitet: Die Variante Schwarz/Graphit wurde durch Schwarz/Spacegrau ersetzt. Die Kombination Weiß/Silber wird weiterhin verkauft. Beide waren nur noch mit 16 GB und optionalen Mobilfunkmodem verfügbar. Der Preis des Modells mit „Cellular“ (also mit Mobilfunk) wurde von 459 € auf 409 € reduziert, der des iPad minis ohne Cellular sank von 329 € auf 289 €. Es wurde ab diesem Tag mit iOS 7 ausgeliefert, was auch bei der Verpackung deutlich wurde. Diese hatte nun ein iPad mini mit iOS 7 abgebildet.
+Als am 16. Oktober 2014 der nächste Nachfolger des iPad mini, das iPad mini 3, vorgestellt wurde, wurden die Preise der ersten Generation erneut angepasst. Beide Varianten wurden um 50 € im Preis reduziert. Daraus resultierten Preise von 239 € für die Konfiguration mit 16 GB und 359 € für die mit 16 GB und Cellular. Seitdem wurde es mit iOS 8 ausgeliefert.
+Nach fast drei Jahren wurde der Verkauf des iPad mini der ersten Generation am 19. Juni 2015 eingestellt. Die verschiedenen Varianten können aber noch generalüberholt auf der Seite des so genannten „Apple Refurbished Store“ erworben werden.
+
+
+==== iPad mini 2 (2013) ====
+Gemeinsam mit dem iPad Air wurde am 22. Oktober 2013 das iPad mini 2 vorgestellt. Es verfügt nun auch über ein „Retina Display“ mit einer Auflösung von 2048 × 1536 Pixeln. Neu sind auch das Apple-A7-SoC und erweiterte LTE-Fähigkeiten (wie beim iPad Air). Des Weiteren verfügt es nun über ein Stereomikrofon, außerdem ist das Apple-Logo auf der Gehäuserückseite nun nicht mehr poliert, sondern ein Einsatz aus Metall. Damit es die gleiche Akkulaufzeit wie der Vorgänger besitzt, wurde der Akku um rund 30 % vergrößert. Dadurch erhöhte sich seine Dicke von 7,2 auf 7,5 mm und sein Gewicht von 308 auf 331 g bzw. von 312 auf 341 g bei der Variante mit LTE. Sein WLAN-Modul ist nun auch MIMO-fähig. Es ist seit dem 12. November 2013 in den Farben Spacegrau und Silber, mit 16, 32, 64 oder 128 GB Speicherkapazität und mit WiFi bzw. Wifi + Cellular erhältlich.Vor der Präsentation des iPad mini 3 wurde es als „iPad mini mit Retina Display“ verkauft, seitdem schlicht als „iPad mini 2“.
+Am 21. März 2017 wurde der Verkauf des iPad mini 2 eingestellt.
+
+
+==== iPad mini 3 (2014) ====
+Das iPad mini 3 wurde am 16. Oktober 2014 auf der Apple Keynote vorgestellt. Es ähnelt sehr seinem Vorgängermodell, dem iPad mini 2 (mit Retina Display); die Hauptneuerungen sind der zusätzlich eingebaute Touch ID-Sensor und dass es neben den bisherigen Farben Silber und Spacegrau in der Farbe Gold verfügbar ist. Die Speicherausstattung mit 32 GB wurde wie beim iPad Air 2, iPhone 6 und iPhone 6 Plus entfernt und die darauffolgenden Speichergrößen bekamen die Preise der vorher darunterliegenden Varianten. Die neue Verpackung wurde im Stil des iPad Air 2 gestaltet und um die Kamera herum gibt es keinen eingravierten Ring mehr. In Amerika besitzt es Kompatibilität zur Apple SIM.
+
+
+==== iPad mini 4 (2015) ====
+Das iPad mini 4 wurde am 9. September 2015 vorgestellt. Im Vergleich zum Vorgänger veränderten sich die Abmessungen minimal: die Gerätedicke ist um 1,4 mm auf 6,1 mm geschrumpft, die Gerätehöhe ist um 3,2 mm auf 203,2 mm angewachsen und die Gerätebreite ist um 0,1 mm auf 134,8 mm angewachsen. Das Anwachsen der letzten zwei Werte bedeutet bei gleichbleibender Displaygröße größere Bildschirmränder. Das Gewicht des Geräts beläuft sich auf 294,84 Gramm. Laut Hersteller Apple wurde beim Display eine neue Fertigungstechnik angewandt, die durch das Vereinen von LCD, Digitizer und Glas in eine Einheit die Bildqualität verbessern, sowie Spiegelungen reduzieren soll. Als SoC dient dem iPad mini 4 der aus dem iPhone 6 bekannte Apple A8. Die rückseitige Kamera zeichnet Bilder mit einer Auflösung von acht Megapixeln auf, Videos werden in 1080p mit 30 fps aufgezeichnet, auch Zeitraffer- und Zeitlupeaufnahmemodi sind verfügbar; die vom iPhone bekannte 60-fps-Aufnahmemöglichkeit bietet Apple nicht im iPad mini 4 an. Bei den Sensoren kommen wie auch bei den Vorgängermodellen der Touch-ID-Sensor, ein Drei-Achsen-Kreiselinstrument, ein Beschleunigungssensor sowie ein Helligkeitssensor zum Einsatz. Zusätzlich dazu verbaut Apple nun auch ein Barometer. Apple verkaufte das iPad mini 4 zu Beginn mit 16, 64 und 128 GB NAND-Speicher. Mit dem iPad mini 4 gibt es erstmals ein iPad mini ohne mechanischen Stummschalter. Beim großen iPad entfiel dieser bereits mit dem iPad Air 2, das zusammen mit dem iPad mini 3 vorgestellt wurde.
+Ab dem 21. März 2017 war das iPad mini 4 nur noch mit 128 GB Speicher verfügbar. Dafür wurde der Preis dieser Variante gesenkt. Der Aufpreis für ein integriertes LTE-Modul wurde ebenfalls reduziert.
+
+
+==== iPad mini (5. Generation, 2019) ====
+Das iPad mini wurde am 18. März 2019 ohne große Vorstellung im Apple-Shop zum Verkauf angeboten. Wie beim iPad Air (3. Generation) wurde ein Apple-A12-Chip verbaut. Zudem lässt sich das iPad mit dem Apple Pencil der ersten Generation bedienen.
+
+
+==== iPad mini (6. Generation, 2021) ====
+Das iPad Mini wurde am 14. September 2021 auf einer Apple-Keynote vorgestellt. Sein Design wurde an das iPad Air 4 und die Pro-Modelle ab 2018 angeglichen. Das Display wurde, bei gleicher Breite und etwas niedrigerer Höhe des Gehäuses, von 7,9 Zoll auf 8,3 Zoll vergrößert. Der Home Button entfällt. Touch ID ist nun in der oberen Taste integriert. Durch den neuen Magnet-Connector an der rechten Seite unterstützt nun auch das iPad Mini den Apple Pencil der 2. Generation. Die Lautstärketasten sind aber durch den Apple Pencil an der oberen Kante positioniert. Der Lightning-Anschluss wurde durch USB-C ersetzt. Die Frontkamera ist nun das gleiche 12-Megapixel-Ultraweitwinkelmodul mit Folgemodus wie im iPad Pro 2021 und iPad der 9. Generation. Die rückseitige Kamera verwendet nun einen 12-Megapixel-Sensor und einen LED-Blitz, ein Feature das selbst das teurere iPad Air der 4. Generation nicht besitzt. Wie bei allen iPhone 13-Modellen wurde der neue Apple-A15-Bionic-Chip verbaut, verglichen mit dem A12 Bionic beim Vorgänger. Dadurch wird Smart HDR 3 bei beiden Kameras ermöglicht, welches laut Hersteller mehrere Bilder zusammenfügt, um helle und dunkle Bereiche gleichermaßen gut darzustellen. Bei der rückseitigen Kamera ist nun Videoaufnahme in 4K mit 60 fps möglich, statt 1080p mit 30 fps beim Vorgänger. Zeitlupenvideos können bei 1080p mit 120 fps oder 240 fps aufgenommen werden, beim Vorgänger waren es nur 720p bei 120 fps. Die frontseitige Kamera unterstützt 1080p-Videoaufnahme bei bis zu 60 fps statt 30 fps beim Vorgänger. Die Lautsprecher sind nun nicht mehr beide am unteren Ende angeordnet, sondern einer unten und einer oben die auch Stereo-Wiedergabe unterstützen. Statt Wi-Fi 5 mit bis zu 866 Mbit/s unterstützt dieses nun Wi-Fi 6 mit bis zu 1,2 Gbit/s. Neu ist außerdem das 5G Mobilfunknetz bei den Cellular-Varianten. Während die Gehäusefarbe Space Grau weiterhin erhältlich ist, wurden Silber und Gold durch die neuen Farben Rosé, Violett und Polarstern ersetzt. Die Speichergrößen von 64 GB und 256 GB sind gleich geblieben, die Preise wurden um jeweils 100 € auf 549 € und 719 € erhöht.
+
+
+=== iPad Pro ===
+
+
+==== iPad Pro (2015) ====
+
+Mit dem iPad Pro stellte Apple am 9. September 2015 erstmals ein iPad mit einer Bildschirmdiagonale von 12,9 Zoll (32,78 cm) und einer Bildschirmauflösung von 2732 × 2048 Pixel vor. Am 21. März 2016 folgte eine kleinere Variante mit 9,7 Zoll (24,64 cm). Es steht in den Farben Silber, Gold, Rosé-Gold und Space Grau zur Verfügung. Zudem kann zwischen Modellen mit 32, (nur mit WLAN) 128 und 256 GB (wahlweise mit WLAN oder mit WLAN und Mobilfunkmodem) gewählt werden. Das Gerät verfügt über vier Stereo-Lautsprecher, jeweils zwei an der Ober- und Unterseite, sowie einen Touch-ID-Sensor. Das Gewicht der WLAN-Variante beträgt 713 Gramm, die der Variante mit zusätzlichen Mobilfunkmodem 723 Gramm. Die Akkulaufzeit liegt laut Hersteller weiterhin auf dem Niveau der kleineren Geräte, ermöglicht also eine Nutzung von bis zu 10 Stunden beim Surfen im Web mit WLAN, Video- oder Musikwiedergabe bzw. bis zu 9 Stunden beim Surfen im Web über ein mobiles Datennetz.Das iPad Pro ist seit November 2015 in über 40 Ländern erhältlich, der Verkauf der 9,7″-Variante startete im März 2016. Als Notebookersatz mit Stift-Support (Apple Pencil) werden diese besonders für die Zielgruppe der Kreativen beworben.
+
+
+==== iPad Pro (2. Generation, 2017) ====
+
+Im Juni 2017 wurde die 2. Generation mit einigen Verbesserungen vorgestellt.
+Varianten mit 10,5″ und 12,9″ stehen nun mit 4 GB RAM und bis zu 512 GB Speicher zur Verfügung, während 64 GB nun bei den Einstiegskonfigurationen verbaut werden. Der neue A10X erhöht auch die Performancereserven erheblich, so dass diese Geräte sehr lange genutzt werden können. Die Displays erhielten als große Neuerung ProMotion (variable Bildschirmwiederholrate bis 120 Hz), eine Technologie die seither auch sukzessiv in andere Geräte Einzug hielt (iPhone 13 Pro/Max, Macbook Pro 14/16).
+
+
+==== iPad Pro (3. Generation, 2018) ====
+Am 30. Oktober 2018 wurde die 3. Generation des iPad Pro in New York City vorgestellt. In den Größen 11 Zoll und 12,9 Zoll erhältlich, ist es das erste Modell mit Gesichtserkennung und einem Apple-A12X-Prozessor. Die Gerätegeneration verfügt über schmale Displayränder. Die Auflösungen dieser Geräte liegen bei 2388 × 1668 Pixeln (11″) bzw. 2732 × 2048 (12,9″), was jeweils einer Pixeldichte von 264 ppi entspricht. Die Geräte verfügen über einen USB-C-Anschluss, welcher auch zum Laden anderer Geräte verwendet werden kann. Mit USB-C wird eine Übertragungsgeschwindigkeit von 5 Gbit/s ermöglicht, die unter anderem für Video-Datenübertragungen genutzt wird. Dafür entfiel der 3,5 mm Kopfhöreranschluss. 
+
+
+==== iPad Pro (4. Generation, 2020) ====
+Am 18. März 2020 wurde die vierte Generation auf der Apple-Website angekündigt. Es ist wie das Vorgängermodell in den Größen 11" und 12,9" erhältlich. Eine Neuerung gegenüber dem Vorgängermodell ist eine zusätzliche Ultraweitwinkel-Kamera, sodass nun zwei Kameras auf der Rückseite eingebaut sind und ein drittes Modul, der LiDAR-Scanner. Der LiDAR-Scanner ermöglicht eine räumliche Erfassung der Umgebung. Ebenso auf der Rückseite eingebaut ist ein neuer, hellerer „True-Tone“-Blitz mit mehreren LEDs unterschiedlicher Farbe. Ferner ist ein neues SoC mit der Bezeichnung A12Z eingebaut. Das Gerät besitzt nun in allen Speichervarianten 6 GB Arbeitsspeicher, statt nur in der teuersten mit 1 TB Flashspeicher. Entgegen erster Berichte enthält das Gerät nicht den Ultrabreitband-Chip U1. Eine externe drahtlose Tastatur mit Trackpad und hintergrundbeleuchteten Tasten, „Magic Keyboard“ genannt, ist separat erhältlich und auch mit den iPad-Pro-Modellen aus dem Jahr 2018 kompatibel, kam Ende April auf den Markt.
+
+
+==== iPad Pro (5. Generation, 2021) ====
+Am 20. April 2021 wurde die 5. Generation vorgestellt. Das iPad Pro wird in 2 Größen (11" und 12,9") angeboten. Als Prozessor ist der Apple M1 Chip verbaut. Der USB-C-Port wurde um Thunderbolt 4 inklusive USB 4 erweitert und damit erheblich beschleunigt. Hier sind damit auch Anwendungen mit 4K-Video und mehr möglich. Die Speichergröße beträgt nun bis zu 2 TB. Die 12,9" Version nutzt Mini-LED-Displaytechnologie. Die Frontkamera verfügt über ein weiteres Sichtfeld und unterstützt den Folgemodus.
+
+
+==== iPad Pro (6. Generation, 2022) ====
+Am 18. Oktober 2022 wurde die 6. Generation vorgestellt. Das iPad Pro wird in 2 Größen (11" und 12,9") angeboten. Als Prozessor ist der Apple M2 Chip verbaut.
+
+
+== Technische Daten ==
+
+
+=== iPad ===
+ 1. bis 4. Generation 
+
+ ab 5. Generation 
+
+
+=== iPad Air ===
+
+
+=== iPad mini ===
+
+
+=== iPad Pro ===
+
+
+== Bedienung ==
+Wie bei Tablets üblich, gibt es beim iPad kein Zeigegerät, das einen Mauszeiger über den Bildschirm bewegt. Die Bedienung erfolgt mit den Fingern des Nutzers, die dabei mit Multi-Touch-Gesten unterschiedliche Funktionen auslösen können. Alle Gesten des iPhones funktionieren auch beim iPad. Zusätzlich wurden weitere Gesten eingeführt. Beispielsweise lässt sich mittels einer Spreiz-Geste eine Vorschau eines Fotostapels öffnen. Außerdem ist es mit der Installation von iOS 5.0 auf dem iPad 2 sowie mit iOS 5.0.1 auf dem iPad 1 möglich, zusätzliche Multitouchgesten auszuführen. Diese wechseln zwischen Programmen und schieben Programme in den Hintergrund, ohne dass der Home-Button verwendet werden muss; sie werden mit vier bis fünf Fingern ausgeführt. Wie beim iPhone und iPod touch ist auch beim iPad die Bedienung mit einem herkömmlichen Stift, beispielsweise einem Stylus oder Kugelschreiber, aufgrund des kapazitiven Touchscreens nicht möglich. Einige Anbieter bieten spezielle Bedienstifte an, die Fingerberührungen simulieren. Diese sind hilfreich, wenn man beispielsweise Handschuhe trägt und so die Finger nicht auf dem Touchscreen verwenden kann. Außerdem bietet Apple seit September 2015 eine eigene Stiftlösung an. Seit März 2020 unterstützen iPads mit iPadOS 13.4 und neuer die Bedienung mit Maus und Trackpads.
+Eine virtuelle, an die Anforderungen des Programms angepasste Tastatur wird – wenn nötig – am jeweils unteren Bildschirmrand eingeblendet. Stattdessen kann eine externe Tastatur über Bluetooth oder ein Keyboard-Dock angeschlossen werden. Dafür bietet Apple ein Dock mit Tastatur an, die dem Layout der Apple-Bluetooth-Tastatur Aluminium von 2008 entspricht.
+Alle wichtigen Programme des Gerätes können sowohl in vertikaler als auch horizontaler Orientierung des Bildschirms bedient werden; der eingebaute Bewegungssensor erkennt die räumliche Lage und dreht das Bild entsprechend.
+
+
+== Software ==
+
+Seit Herbst 2019 wird bei allen iPad-Modellen Apples iPadOS als Betriebssystem verwendet.
+Zusätzlich zu den bereits integrierten Programmen (sogenannte „Apps“) können nur Apps aus dem App Store und Web Apps, also in HTML und JavaScript geschriebene Programme, installiert werden. Alle diese im App Store für iOS vorhandenen Programme können auf dem iPad verwendet werden. Apps, die nur für iPhone und iPod touch entwickelt wurden, können ebenfalls verwendet werden, dabei kann das Bild hochskaliert werden, um den Bildschirm besser auszunutzen. Von Apple selbst gibt es die einzelnen Office-Anwendungen der iWork-Familie als spezielle, an die Multi-Touch-Bedienung des iPad angepasste Versionen. Die iLife-Programme iMovie, GarageBand und iPhoto hat Apple ebenfalls in Versionen für die Touch-Bedienung des iPad umgesetzt. Die iBooks-App, mit der E-Books gekauft und angezeigt werden können, ist nicht im Lieferumfang enthalten, kann aber kostenlos aus dem App-Store heruntergeladen werden. Mit dem iBookstore versucht Apple, auch in den E-Book-Markt vorzudringen. Dafür hat Apple mit fünf amerikanischen Verlagen Verträge abgeschlossen.
+Auch als Wiedergabemedium für elektronische Zeitungen und Zeitschriften versucht Apple, das iPad zu etablieren – mit wachsendem Erfolg. Zahlreiche Zeitschriften und Zeitungen wurden als E-Book für das iPad verfügbar gemacht. Im Februar 2011 präsentierte Rupert Murdoch gemeinsam mit Apple The Daily, die weltweit erste exklusiv für das iPad entwickelte Tageszeitung. Auf der Präsentation des iPad 2 teilte Steve Jobs mit, dass von den rund 350.000 Apps des App Stores über 65.000 speziell für das iPad erstellt wurden. Am 11. Juni 2012 vermeldete Apple 225.000 speziell für das iPad erstellte Apps.Apples Entwicklungsumgebung Xcode unterstützt das iPad ab der Version 3.2.2. Xcode enthält ab dieser Version auch einen iPad-Simulator und das dazugehörige SDK. Für die Entwicklung wird ein Mac-Rechner mit Mac OS X ab Version 10.6.2 benötigt. Zum Testen der Programme auf dem iPad und um Software im App Store anbieten zu können, ist eine kostenpflichtige Mitgliedschaft am iOS Developer Program notwendig. Bei einer Mitgliedschaft im iPhone Developer University Program ist das Testen kostenfrei.
+Das Betriebssystem des iPad ist multitaskingfähig und kann dadurch sowohl mehrere Anwendungen parallel ausführen als auch zwischen verschiedenen laufenden Anwendungen wechseln. Bis iOS 4.2.1 stellte Apple diese Funktionalität jedoch nur einer geringen Anzahl eigener Anwendungen zur Verfügung. Im November 2010 wurde eine Funktionalität eingeführt, um zwischen mehreren laufenden Anwendungen zu wechseln. Durch eine spezielle Technik (teilweise werden inaktive Anwendungen gestoppt und laufen beim Einblenden oder Eintreffen von Benachrichtigungen weiter) wird der Akku geschont, und der Anwender hat trotzdem das Erlebnis von Multitasking.Wie auf dem iPhone, steht Adobe Flash auch auf dem iPad nicht zur Verfügung. Steve Jobs begründete den offensiven Verzicht auf Flash mit Programmierfehlern von Adobe, die Systemabstürze verursachen und außerdem die Akkulaufzeit verkürzen.Das iPad unterstützt DRM, um erworbene Medieninhalte und Anwendungen zu schützen. Daten können vom Computer aus nur über iTunes übertragen werden. Für die Aktivierung ist eine Verbindung mit iTunes oder ein Wi-Fi notwendig.
+Das iPad ist als persönliches Gerät konzipiert und bietet keine Möglichkeit zur Verwaltung unterschiedlicher Benutzerkonten; lediglich Einschränkungen können vorgenommen werden (Stichwort Jugendschutz). Weiter greifen alle Nutzer eines iPad auf gemeinsame Daten zu und teilen sich E-Mails, Kalender und weitere Informationen.
+Über WLAN werden außerdem folgende drahtlose Schnittstellen unterstützt, die teilweise auch für Zubehörhersteller lizenzierbar sind:
+
+AirPlay zum direkten Übertragen von Musik, Video oder Bildschirm an ein AirPlay-fähiges Endgerät wie beispielsweise Apple TV oder HiFi-Anlagen (seit iOS 4)
+AirPrint zum direkten Drucken an AirPrint-fähigen Druckern, ohne dazu einen Computer zu benötigen (seit iOS 4)
+Synchronisieren (seit iOS 5)
+AirDrop Zum Austausch von Inhalten mit anderen iOS-Geräten (seit iOS 7)Weil das iPhone und später auch das iPad restriktiv auf die Dienste und den App Store von Apple festgelegt sind, wodurch sich viele Benutzer regelrecht „im Gefängnis eingesperrt“ fühlen, hat sich der Begriff Jailbreak etabliert für Software, die das „Ausbrechen“ aus dieser Einschränkung ermöglicht.
+Apple beendete mit iOS 5.1.1 die Versorgung des ersten iPad mit aktuellen Versionen von iOS weniger als zwei Jahre nach der Produkteinführung. Dies führte dazu, dass einige Apps, die die aktuelle iOS-Version voraussetzten, nicht installiert werden konnten. Seit dem 17. September 2013 ist es möglich, ältere Versionen der Apps zu installieren.
+In iOS 5 sind inzwischen Sicherheitslücken bekannt, die unter anderem unberechtigten Systemzugriff ermöglichen.
+
+
+== Zubehör ==
+
+
+=== Smart Cover und Smart Case ===
+Apple bietet Schutzhüllen in zahlreichen Ausführungen an, die meist aus Polyurethan oder Leder gefertigt sind.
+Mit dem iPad 2 wurde das Smart Cover in mehreren Farben eingeführt. Diese Schutzabdeckung wird mit Magneten am Gerät gehalten. Beim Schließen des Covers wird das iPad in den Ruhezustand versetzt und beim Aufklappen wieder aktiviert. Das Cover lässt sich an der Rückseite zu einer Stütze zusammenklappen. Das Smart Case ist eine Weiterentwicklung davon. Es bietet die gleichen Funktionen und schützt zusätzlich die Rückseite des Geräts. Es wird aus Polyurethan gefertigt und in mehreren Farben angeboten.
+
+
+=== Adapter und Kabel ===
+Mit Hilfe von zwei Adaptern, die zusammen als Camera Connection Kit verkauft werden, können Digitalkameras über USB angeschlossen werden oder SD-Cards ausgelesen werden. Je nach Gerät können USB-Sticks über den Adapter oder bei den USB-C-iPads auch direkt angeschlossen werden. Außerdem gibt es das Camera Connection Kit auch für den Lightning-Anschluss der neueren Modelle. Dieses besteht aus getrennt zu erwerbenden Produkten, man kann also nicht mehr den USB- und den SD-Adapter gemeinsam kaufen. Separat erhältlich sind ein Digital AV Adapter (HDMI) und ein VGA-Adapter, mit denen das iPad an einen Monitor oder Beamer angeschlossen werden kann. Hierbei wird der komplette Bildschirminhalt 1:1 mit maximal 1080p übertragen. Für die Produkte mit Lightning-Anschluss gibt es darüber hinaus einen Adapter, der altes Zubehör für den 30-poligen Dock-Connector nutzbar macht.
+
+
+=== Apple Pencil ===
+Für das iPad Pro stellte Apple am 9. September 2015 den Apple Pencil vor, ein aktiver Eingabestift (auch Digitizer, aktiver Stylus), der zum Zeichnen, Schreiben und Malen genutzt werden kann. Der Stylus ist druckempfindlich und neigungswinkelabhängig. So ist zum Beispiel das Zeichnen von stärkeren Linien mit stärkerem Druck sowie von Schattierungen mit entsprechender Neigung des Stiftes möglich. Laut Hersteller bietet der Stift bei vollständig geladenem Akku eine Nutzungszeit von 12 Stunden. Eine Schnellladefunktion ermöglicht bei einer Ladezeit von 15 Sekunden eine erneute Nutzungszeit von 30 Minuten. Der Stift enthält 15 verschiedene Chips.
+
+
+=== Apple Pencil (2. Generation) ===
+Am 30. Oktober 2018 wurde die 2. Generation des Apple Pencil in New York vorgestellt. Der Pencil ist mit den iPad-Modellen 11" iPad Pro und 12,9" iPad Pro (3. Generation und 4. Generation) kompatibel. Der Pencil kann über Magnete am iPad befestigt und geladen werden. Zusätzlich kann er durch ein Doppeltippen am Stift ein Wechsel der aktiven Funktion erfolgen.
+
+
+== Verkaufszahlen ==
+Apple hat nach eigenen Angaben in den 28 Tagen nach dem Verkaufsstart des ersten iPad am 3. April 2010 eine Million Geräte verkauft. Zu diesem Zeitpunkt war es nur in den USA erhältlich. Binnen weniger als zwei Jahren sank der Marktanteil des iPad auf dem Markt für Tablets laut Strategy Analytics von im dritten Quartal 2011 weltweit 66,6 % auf 28 % im zweiten Quartal 2013.
+Von den im Jahr 2011 weltweit 40,5 Millionen verkauften iPads wurden allein auf dem US-Markt insgesamt 17,4 Millionen Stück verkauft, was 43 % der weltweiten Verkäufe entspricht.
+
+
+== Kritik ==
+Zum Erscheinen des ersten iPad wurden die Apps und die lange Akkulaufzeit positiv bewertet, während der geringe Lieferumfang, die fehlende Unterstützung für Adobe Flash, sowie der nicht vorhandene USB-Anschluss bemängelt wurden. Michael Spehr kritisierte in der Frankfurter Allgemeinen Zeitung, dass kein direkter Zugriff auf das Dateisystem möglich ist.David Pogue von der New York Times wies außerdem darauf hin, dass ein Laptop mehr Features zu einem günstigeren Preis bereitstelle.Da (ähnlich dem iPhone) der Akku fest verbaut ist und sich nicht austauschen lässt, muss das Gerät bei defektem oder schwächer werdendem Akku repariert werden.
+
+
+== Sonstiges ==
+Die Schweizerischen Bundesbahnen (SBB) und Apple verständigten sich im Oktober 2012 auf eine Nutzungsgebühr für das Design der Schweizer Bahnhofsuhr als App. Zuvor war Apple vorgeworfen worden, in der Uhren-App unter iOS 6 das Design dieser Bahnhofsuhr ohne Zustimmung übernommen zu haben. Im November 2012 schrieb der Tages-Anzeiger unter Berufung auf verschiedene Quellen, dass das Nutzungsentgelt offenbar rund 20 Millionen Schweizer Franken (2012 rund 16,5 Millionen Euro) betrage.Am 1. Januar 2016 wurden die Preise für alle Modelle in Deutschland um 8,32 € bzw. 8,33 € angehoben. Grund dafür war die von der Zentralstelle für private Überspielungsrechte erstmals auch für Smartphones und Tablets erhobene Pauschalabgabe nach § 54 Abs. 1 UrhG, welche von Apple direkt an die Kunden weitergegeben wurden.
+
+
+== Weblinks ==
+
+Offizielle Webseite
+Technische Daten des aktuellen iPad
+Informationen zu iPadOS-Updates
+Die Politik des iPad, Analyse in der FAZ vom 1. Februar 2010
+Ohne Bares nichts Wahres, Artikel von Ulrich Hottelet in Cicero, August 2010
+Christoph Dernbach, Ben Schwan: Das iPad wird zehn Jahre alt. In: Heise online. 26. Januar 2020.
+Literatur über das iPad im Katalog der Deutschen Nationalbibliothek
+
+
+== Einzelnachweise ==

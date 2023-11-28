@@ -1,0 +1,59 @@
+Wikidata es una base de conocimientos editada en colaboración y alojada por la Fundación Wikimedia. Tiene el objetivo de proporcionar una fuente común de datos que puedan ser utilizados por proyectos de Wikimedia como Wikipedia,[1]​[2]​ y por cualquier otra persona, bajo una licencia de dominio público. Esto es similar a la forma en que Wikimedia Commons proporciona almacenamiento para archivos multimedia y acceso a estos archivos para todos los proyectos de Wikimedia. Wikidata funciona y opera con el software Wikibase.[3]​
+
+
+== Conceptos ==
+Wikidata es una base de datos documental, enfocada en elementos. Cada elemento representa un término (o una página administrativa utilizada para mantener Wikipedia) y se identifica con un número único, con el prefijo Q (por ejemplo, el identificador para «Enciclopedia» es «Q5292»), conocido como "QID". Esto permite que la información básica requerida para identificar el término que cubre el elemento se traduzca sin favorecer ningún idioma.
+Un elemento puede tener una o más declaraciones. La información se agrega a los elementos mediante la creación de declaraciones, en forma de pares clave-valor y cada declaración consiste en una propiedad (la clave) y un valor vinculado a la propiedad.
+
+
+== Historia del desarrollo ==
+Wikidata fue lanzada el 29 de octubre de 2012 y fue el primer proyecto nuevo de la Fundación Wikimedia desde 2006.[1]​[4]​[5]​
+La creación del proyecto fue financiada por donaciones del Instituto Allen para la Inteligencia Artificial,[6]​ la Fundación Gordon y Betty Moore[7]​ y Google Inc., sumando en total 1,3 millones de euros.[8]​[9]​ El desarrollo inicial del proyecto está siendo supervisado por Wikimedia Deutschland, y se ha dividido en tres fases:[10]​
+
+Centralizar los enlaces interlingüísticos —enlaces entre artículos sobre el mismo tema en diferentes idiomas—.
+Proporcionar un lugar central para la información de las fichas de todas las Wikipedias.
+Crear y actualizar listas de artículos basados en datos de Wikidata.
+
+
+=== Fase 1 ===
+La primera fase se lanzó el 29 de octubre de 2012. Esto habilitó que se crearan elementos y que pudieran ser rellenados con información básica; una etiqueta (un nombre o título), un alias (un nombre alternativo a la etiqueta), una descripción y enlaces interlingüísticos para artículos de Wikipedia.
+El 14 de enero de 2013, la Wikipedia en húngaro fue la primera Wikipedia en utilizar los enlaces interlingüísticos de Wikidata.[11]​ Esta funcionalidad después fue extendida a la versión hebrea e italiana el 30 de enero[12]​ y a la versión inglesa el 11 de febrero.[12]​[13]​ El cambio afecta al resto de Wikipedias desde el 6 de marzo de 2013.[14]​
+
+
+=== Fase 2 ===
+Los primeros aspectos de la segunda fase comenzaron el 4 de febrero de 2013, introduciendo pares de claves y valores para entradas de Wikipedia.[13]​ Los valores se limitaron inicialmente a dos tipos de datos (elementos e imágenes en Wikimedia Commons), con más tipos de datos (como coordenadas y fechas) para seguir más adelante. El primer nuevo tipo, cadena, se implementó el 6 de marzo.[15]​
+El 27 de marzo de 2013, la segunda fase comenzó a funcionar en 11 Wikipedias,[16]​ luego el 22 de abril se incluyó a la Wikipedia en inglés[17]​ y el 24 de abril de 2013, se extendió a las demás Wikipedias, pudiendo así incluir datos desde Wikidata, en aquellas entradas de Wikipedia (sin importar el idioma) en cuyos correspondientes contenidos esa información se encontrara omitida.[18]​
+
+
+=== Fase 3 ===
+La fase 3 incluirá consultas en la base de datos y la creación de listas basadas en datos almacenados en Wikidata.[10]​ A partir de octubre de 2016, dos herramientas para consultar Wikidata (Wikidata:Lista de consultas) estaban disponibles: AutoList[19]​ y PetScan,[20]​ además de un punto final SPARQL público.[21]​
+
+
+== Controversias ==
+Existe la preocupación de que el proyecto esté siendo influenciado por compañías de cabildeo, profesionales de relaciones públicas y optimizadores de motores de búsqueda.[22]​
+A partir de diciembre de 2015, según las estadísticas de Wikimedia, la mitad de la información en Wikidata está sin fuente.[22]​ Otro 30 % está etiquetado como proveniente de Wikipedia.[22]​
+
+
+== Wikipedia Abstract y Wikifunctions ==
+La Wikipedia Abstract es una extensión conceptual de Wikidata cuyo objetivo es permitir que más personas compartan más conocimiento en más idiomas. En la Wikipedia Abstract, la gente puede crear y mantener artículos de Wikipedia de forma independiente del idioma. Una Wikipedia en un idioma particular puede traducir este artículo independiente del idioma a su idioma. El código hace la traducción.
+Wikifunctions es un nuevo proyecto de Wikimedia que permite a cualquiera crear y mantener código. Esto es útil de muchas maneras diferentes. Proporciona un catálogo de todo tipo de funciones que cualquiera puede escribir, mantener y utilizar. También proporciona código que traduce el artículo independiente del idioma de la Wikipedia Abstract al idioma de una Wikipedia. Esto permite a todo el mundo leer el artículo en su idioma. Las wikifunciones utilizarán el conocimiento sobre palabras y entidades de Wikidata.[23]​[24]​
+
+
+== Logo ==
+Las barras del logotipo contienen la palabra "WIKI" codificada en código morse.[25]​
+
+
+== Véase también ==
+BabelNet
+DBpedia
+Freebase
+Semantic MediaWiki
+Web semántica
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Sitio oficial de Wikidata
+ Wikinoticias tiene noticias relacionadas con Wikidata.

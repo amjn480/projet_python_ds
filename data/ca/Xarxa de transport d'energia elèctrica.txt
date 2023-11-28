@@ -1,0 +1,474 @@
+La xarxa de transport d'energia elèctrica és la part del sistema elèctric que realitza la transferència massiva d'energia elèctrica, de les centrals de producció a les subestacions elèctriques situades a prop dels centres de demanda. Això és independent del cablejat local entre les subestacions d'alta tensió i els clients, que és típicament conegut com a distribució d'energia elèctrica. Les línies de transmissió, quan són interconnectades entre elles, es converteixen en xarxes de transmissió. La xarxa combinada de transmissió i distribució és coneguda com la "xarxa elèctrica" (power grid a l'Amèrica del Nord), o simplement "la xarxa". En el Regne Unit, la xarxa és coneguda com a "xarxa nacional" (national grid en anglès).
+Una wide area synchronous grid (en català, superxarxa síncrona), també coneguda com a "Interconnection" a l'Amèrica del Nord, directament connecta un gran nombre de generadors proveint electricitat en corrent altern (CA) amb la mateixa freqüència relativa, a un gran nombre de consumidors. Per exemple, hi ha quatre grans interconnexions a l'Amèrica del Nord (la Western Interconnection, la Eastern Interconnection, la Quebec Interconnection i la xarxa Electric Reliability Council of Texas (ERCOT)), i una gran xarxa per gran part de l'Europa continental.
+Hi ha la mateixa freqüència relativa, però gairebé mai és la mateixa fase relativa, ja que com a intercanvi de corrent altern és una funció de la diferència de fase entre dos nodes de la xarxa, i la diferència de graus zero significa que no s'intercanvia energia; qualsevol diferència de fase fins a 90 graus és estable pel "criteri d'igualtat d'àrea"; qualsevol diferència de fase per sobre de 90 graus és absolutament inestable; els socis d'intercanvi són responsables de mantenir la freqüència tan a prop de la freqüència de xarxa com sigui pràctic, i les diferències de fase entre qualsevol dels dos nodes significativament menys de 90 graus; si se sobrepassen dels 90 graus, es realitza una separació del sistema, i roman separat fins que el problema s'ha corregit.
+Històricament, les línies de transmissió i distribució eren propietat de la mateixa empresa, però a partir de la dècada de 1990, molts països tenen liberalitzada la regulació del mercat elèctric de manera que han conduït a la separació de l'activitat de transmissió d'electricitat a partir de l'activitat de distribució.
+
+
+== Sistema ==
+La majoria de les línies de transmissió són de corrent altern (AC) trifàsic d'alt voltatge, encara que una sola fase AC s'utilitza de vegades en els sistemes d'electrificació ferroviàries. La tecnologia de corrent continu d'alta tensió (HVDC per les sigles en anglès) s'utilitza per a una major eficiència en distàncies molt llargues (típicament centenars de quilòmetres), en els cables de transmissió submarina (típicament més llargs que 50 km), i en l'intercanvi d'energia entre les xarxes que no estan sincronitzats mútuament. Els enllaços HVDC també s'utilitzen per estabilitzar i controlar els problemes en les xarxes de distribució d'energia grans en sobtades noves càrregues o caigudes de tensió en una part d'una xarxa que poden donar lloc a problemes de sincronització i fallades en cascada.
+
+L'electricitat es transmet a alta tensió (115 kV o superior) per reduir les pèrdues d'energia en la transmissió a llarga distància. L'energia es transmet generalment a través de línies elèctriques aèries. La transmissió d'energia soterrada té un cost significativament major instal·lació i majors limitacions operacionals, però els costos de manteniment són reduïts. La transmissió subterrània s'utilitza de vegades en zones urbanes o llocs ambientalment sensibles.
+La manca d'instal·lacions d'emmagatzematge d'energia elèctrica en els sistemes de transmissió (amb petites excepcions) condueix a una limitació clau dels sistemes: l'energia elèctrica ha de ser generada a la mateixa velocitat a la qual es consumeix. Es requereix un sofisticat sistema de control per assegurar que la generació elèctrica coincideix molt de prop la demanda. Si la demanda d'energia supera l'oferta, el desequilibri pot causar que les plantes de generació i equips de transmissió a desconnectar-se automàticament i/o apagar per protegir-se. En el pitjor dels casos, això pot donar lloc a una sèrie de parades en cascada i importants apagades elèctriques regionals, tal com va passar en les apagades del nord-est dels Estats Units en 1965, 1977, 2003, i grans apagades en altres regions dels Estats Units en 1996 i 2011. Les xarxes de transmissió elèctrica estan interconnectades en xarxes regionals, nacionals, i fins i tot continentals per reduir el risc d'una fallada d'aquest tipus proporcionant múltiples redundàncies, rutes alternatives perquè l'energia flueixi quan aquestes es presentin aturades. Les companyies de transmissió porten a terme moltes anàlisis per determinar la capacitat màxima de cada línia fiable (normalment inferior al seu límit físic o tèrmic) per assegurar que la capacitat de reserva està disponible per absorbir la demanda d'energia d'una fallada en una altra part de la xarxa.
+
+
+== Transmissió aèria ==
+
+Els conductors d'alt voltatge aeris no estan coberts per l'aïllament. El material conductor és gairebé sempre un aliatge de l'alumini, fet en diversos filaments i, possiblement reforçat amb fils d'acer. El coure va ser utilitzar de vegades per a la transmissió aèria, però l'alumini és més lleuger, té un rendiment marginalment reduït i costa molt menys. Els conductors aeris són subministrats per diverses companyies a tot el món. Els materials i formes de conductors millorats s'utilitzen regularment per permetre una major capacitat i modernitzar els circuits de transmissió. La mida de conductors van des de 12 mm² (#6 mida de cable americà) a 750 mm² (1.590.000 d'àrees circulars), amb diferents resistències i capacitat de corrent. Els filferros més gruixuts donarien lloc a un augment relativament petit en la capacitat a causa de l'efecte pel·licular, que causa la majoria del corrent fluir prop de la superfície del filferro. A causa d'aquesta limitació del corrent, múltiples cables paral·lels (anomenats conductors agrupats) són utilitzats quan es necessita una major capacitat. Els conductors agrupats també s'utilitzen amb tensions elevades per reduir la pèrdua d'energia causada per l'efecte corona.
+Avui en dia, les tensions a nivell de la transmissió es consideren generalment ser de 110 kV i superior. Els voltatges més baixos, com ara 66 kV i 33 kV, es consideren en general com a voltatges de subtransmissió, però s'utilitzen de tant en tant en les línies llargues amb càrregues lleugeres. Les tensions inferiors a 33 kV s'utilitzen en general per la distribució. Els voltatges superiors a 765 kV es consideren extra alta tensió (molt alta tensió/ultra alta tensió a Espanya) i requereixen diferents dissenys en comparació als equips utilitzats en els voltatges més baixos.
+Ja que els cables de transmissió aèries depenen de l'aire per a l'aïllament, el disseny d'aquestes línies requereix distàncies mínimes per a ser observades per mantenir la seguretat. Les condicions climàtiques adverses, com ara forts vents i baixes temperatures, poden donar lloc a talls d'energia. velocitats del vent al voltant de 43 km/h poden permetre que els conductors envaeixin les seves propietats operatives, el que resulta en un arc elèctric i la pèrdua de subministrament.
+El moviment oscil·latori de la línia física es pot denominar galop o aleteig depenent de la freqüència i l'amplitud d'oscil·lació.
+
+
+== Transmissió subterrània ==
+
+L'energia elèctrica també pot ser transmesa per cables elèctrics sota terra en lloc de línies elèctriques aèries. Els cables subterranis ocupen menys espai que les línies aèries, tenen menor visibilitat, i es veuen menys afectats pel mal temps. No obstant això, els costos de cable aïllats i excavació són molt més grans que la construcció aèria. Les fallades en les línies de transmissió enterrades prenen més temps per localitzar i reparar. Les línies subterrànies estan estrictament limitades per la seva capacitat tèrmica, el que permet menys sobrecàrrega o re-qualificació de línies aèries. Les línies de CA subterrànies llargues tenen una significativa capacitància, el que pot reduir la seva capacitat de proporcionar potència útil a càrregues més enllà de 80 km. Els cables de CC subterrànis llargs no tenen aquest problema i poden funcionar durant milers de quilòmetres.
+
+
+== Història ==
+
+La transmissió elèctrica Miesbach–Munic de 1882 fou la primera transmissió a llarga distància (57 quilòmetres) de corrent continu a alta tensió. En els primers dies de l'energia elèctrica comercial, la transmissió d'energia elèctrica en el mateix voltatge per la il·luminació i càrregues mecàniques limitades per la distància entre la planta de generació i els consumidors. El 1882, la generació era de corrent continu (CC en català o DC en anglès), que no es podia fàcilment augmentar la tensió per a la transmissió a llarga distància. Les diferents classes de càrregues (per exemple, la il·luminació, motors fixos i sistemes de tracció / ferrocarril) requerien diferents voltatges, i així utilitzaven diferents generadors i circuits.A causa d'aquesta especialització de les línies de transmissió i perquè era ineficaç per als circuits d'alta corrent de baixa tensió, els generadors necessaris havien d'estar a prop de les seves càrregues. Pel que sembla, en el moment, la indústria es convertiria en el que avui és conegut com a sistema de generació distribuïda amb un gran nombre de petits generadors situats prop de les seves càrregues.La transmissió d'energia elèctrica amb el corrent altern (CA en català o AC en anglès) es va fer possible després que Lucien Gaulard i John Dixon Gibbs van construir el que van anomenar el generador secundari, un transformador primitiu proveït d'una relació d'espires 1:1 i circuit magnètic obert, el 1881.
+La primera distància llarga (34 km) d'una línia CA va ser muntada el 1884 per la International Exhibition de Torí, Itàlia. Estava alimentada per un alternador Siemens & Halske de 2kV i 130Hz i va incloure diversos generadors secundaris de Gaulard amb els seus debanats primaris connectats en sèrie, que alimentaven els llums incandescents. El sistema va demostrar la viabilitat de la transmissió d'energia elèctrica de CA en llargues distàncies.La primera línia operativa en CA va ser posada en servei el 1885 a la via dei Cerchi, Roma, Itàlia, per a l'enllumenat públic. Estava alimentada per dos alternadors Siemens & Halske a 30 CV (22 kW), 2 kV a 120 Hz i utilitzava 200 transformadors de Gaulard reductors 2-kV/20-V proporcionats amb un circuit magnètic tancat, un per a cada làmpada. Uns mesos més tard va ser seguit pel primer sistema CA britànic, que va ser posat en servei en el Grosvenor Gallery, Londres. També contenia alternados Siemens i transformadors reductors de 2,4-kV/100-V, un per usuari, amb les primàries de derivació connectades.El 1886, a Great Barrington, Massachusetts, es va instal·lar un sistema de distribució de corrent altern d'1 kV, que oferia tan transformadors reductors com augmentadors i també recorria a la tecnologia europea. En una trobada de l'AIEE el 16 de maig de 1888, Nikola Tesla va lliurar una conferència titulada A New System of Alternating Current Motors and Transformers, que descriu l'equip que permet la generació i l'ús d'eficient del corrents alterns polifàsics. El transformador, i els motors d'inducció monofàsics i polifàsics de Tesla, van ser essencials per a un sistema de distribució de CA combinat tant per a la il·luminació com per la maquinària. La propietat dels drets de les patents de Tesla era un avantatge clau per la Westinghouse Company en oferir un sistema d'alimentació de corrent altern complet per la il·luminació i potència.
+Considerada com una de les innovacions elèctriques més influents, el sistema universal utilitzava transformadors per elevar la tensió dels generadors a les línies de transmissió d'alta tensió, i després rebaixar-la als circuits locals de distribució o els clients industrials. Per una elecció adequada de la utilitat de freqüència, es podia servir tant a la il·luminació com öes càrregues de motors. Els convertidors rotatius i posteriorment les vàlvules de vapor de mercuri i altres equips rectificadors han permès que el CC sigui proveït on fos necessari. Les estacions generadores i les càrregues que utilitzen diferents freqüències podrien estar interconnectades mitjançant convertidors rotatius. Mitjançant l'ús de plantes de generació comunes per a cada tipus de càrrega, es van aconseguir importants economies d'escala, requerint una inversió de capital global menor, el factor de càrrega a cada planta va ser augmentat permetent una major eficiència, un menor cost per al consumidor i l'augment en l'ús global de l'energia elèctrica.
+
+La primera transmissió de corrent altern trifàsica utilitzant alta tensió va tenir lloc el 1891 durant l'exposició internacional d'electricitat a Frankfurt. Una línia de transmissió de 15 kV, aproximadament de 175 km de llarg, connectava Lauffen, Baden-Württemberg i Frankfurt.Els voltatges utilitzats per a la transmissió d'energia elèctrica van augmentar al llarg del segle xx. El 1914, estaven en servei cinquanta-cinc sistemes de transmissió que operaven a més de 70 kV. El voltatge més alt utilitzat llavors va ser de 150 kV.
+En permetre que múltiples plantes generadores poguessin estar interconnectades en una àmplia zona, el cost de la producció d'electricitat es va reduir. Les plantes més eficients disponibles podrien utilitzar-se per alimentar les càrregues que variaven durant el dia. La fiabilitat s'havia millorat i el cost d'inversió de capital es va reduir, ja que la capacitat de generació podria ser compartida a través de molts més clients i una àrea geogràfica més àmplia. L'energia de fonts remotes i de baix cost, com ara l'energia hidroelèctrica o del carbó de les mines, podria ser explotada per reduir el cost de la producció d'energia.
+La ràpida industrialització al segle xx va fer que les línies i xarxes de transmissió elèctriques fou objecte d'infrastructura crítica en les nacions més industrialitzades. La interconnexió de les plantes de generació locals i les xarxes de distribució petites va ser impulsada en gran manera per les exigències de la Primera Guerra Mundial, amb grans plantes generadores elèctriques construïdes pels governs per proporcionar energia a les fàbriques de municions. Més tard, aquestes plantes generadores es connectarien per alimentar càrregues civils a través de la transmissió a llarga distància.
+
+
+== Transmissió d'energia a granel ==
+Els enginyers dissenyen xarxes de transmissió per transportar l'energia de la manera més eficient possible, mentre que al mateix temps es pren en compte factors econòmics, seguretat de xarxa i redundància. Aquestes xarxes usen components com les línies de potència, cables, fusibles, interruptors i transformadors. La xarxa de transmissió sol ser administrada sobre una base regional per a l'entitat com pot ser una organització de transmissió regional (de l'anglès regional transmission organization o RTO) o un operador del sistema de transmissió (de l'anglès transmission system operator o TSO).
+L'eficiència de la transmissió és millorada principalment pels dispositius que augmenten el voltatge, (i d'aquesta manera proporcionalment redueixen el corrent) en els conductors de la línia, permetent d'aquesta manera poder de ser transmesos amb pèrdues acceptables. El corrent que flueix a través de la reducció de la línia redueix les pèrdues de calor en els conductors. D'acord amb la llei de Joule, les pèrdues d'energia són directament proporcionals al quadrat del corrent. Per tant, la reducció del corrent per un factor de dos reduirà la pèrdua d'energia a la resistència del conductor per un factor de quatre per a qualsevol mida donada del conductor.
+La mida òptima d'un conductor per a una tensió i corrent donada pot ser estimada per la llei de Kelvin per la mida del conductor, que declara que la mida està al punt òptim quan el cost anual d'energia que es malgasta en la resistència és igual a les càrregues anuals de capital per proporcionar el conductor. En els moments de menors taxes d'interès, la llei de Kelvin indica que filferros més gruixuts són òptims; mentre que, quan els metalls són cars, els conductors més prims són els indicats: No obstant això, les línies elèctriques estan dissenyades per al seu ús a llarg termini, de manera que la llei de Kelvin ha de ser usada en conjunció amb les estimacions a llarg termini del preu del coure i d'alumini, així com les taxes d'interès per al capital.
+L'augment de la tensió s'aconsegueix en circuits de corrent altern mitjançant l'ús d'un transformador elevador. Els sistemes HVDC requereixen equips de conversió relativament costosos que poden ser econòmicament justificats per a projectes concrets, com ara cables submarins i transmissió punt a punt d'alta capacitat de llarga distància. L'HVDC és necessari per a la importació i exportació d'energia entre els sistemes de xarxes que no estan sincronitzats entre si.
+Una xarxa de transport és una xarxa de centrals elèctriques, línies de transmissió, i subestacions. L'energia es transmet generalment dins d'una xarxa amb corrent altern trifàsic. El CA monofàsic només s'utilitza per a la distribució als usuaris finals, ja que no és utilitzable per a grans motors d'inducció polifàsics. Al segle xix, es va utilitzar la transmissió de dues fases, però va requerir quatre filferros, o tres amb corrents desiguals. Els sistemes de fase d'ordre superior requereixen més de tres cables, però ofereixen poc o cap benefici.
+
+El preu de la capacitat d'una central d'energia elèctrica és alta, i la demanda elèctrica és variable, de manera que sovint és més barat importar una part de l'energia necessària que generar-la localment. A causa de les càrregues sovint es relacionen a nivell regional (per exemple el clima calent a la part sud-oest dels EUA pot fer que moltes persones fan servir aparells d'aire condicionat), l'energia elèctrica sovint prové de fonts distants. A causa dels beneficis econòmics de repartiment de càrrega entre les regions, les xarxes de transmissió d'àrea àmplia ara abasten països i fins i tot continents. La xarxa d'interconnexions entre els productors i consumidors d'energia hauria de permetre que l'energia flueixi, encara que alguns enllaços no funcionin.
+La part invariable (o lentament variable durant moltes hores) de la demanda elèctrica es coneix com la càrrega base i se serveix generalment per les grans instal·lacions (que són més eficients a causa de les economies d'escala) amb costos fixos per al combustible i el funcionament. Aquest tipus d'instal·lacions són nuclears, de carbó o hidroelèctriques, mentre que altres fonts d'energia com la termosolar concentrada i la geotèrmica tenen el potencial per proporcionar energia de càrrega base. Les fonts d'energies renovables, com l'energia solar fotovoltaica, eòlica, de les onades i de les marees, per la seva intermitència, no es consideren com a subministrament de "càrrega base" però tot i així es sumarà energia a la xarxa. La demanda d'energia restant o el 'pic', és subministrada per plantes d'energia d'hores punta, en general són més petites, més ràpides de respondre, i les fonts de major cost, com les plantes de cicle combinat o les de turbines de combustió alimentada amb gas natural.
+La transmissió a llarga distància de l'electricitat (milers de quilòmetres) és barat i eficient, amb costos de US$0,005–0,02/kWh (en comparació amb els costos anuals de mitjana de grans productors de US$0,01–0,025/kWh, tarifes a l'alça són de US$0,10/kWh, i múltiples de venda al detall per als proveïdors instantanis a moments imprevistos de màxima necessitat). Per tant els proveïdors distants poden ser més barats que les fonts locals (p. ex., Nova York compra sovint per sobre de 1000 MW de l'electricitat procedent del Canadà). Múltiples fonts locals (fins i tot si és més car i d'ús poc freqüent) poden fer que la xarxa de transport sigui més tolerant a errors i altres desastres a temps que poden desconnectar proveïdors distants.
+
+La transmissió a llarga distància permet que els recursos d'energia renovable remots puguin ser utilitzats per desplaçar el consum de combustibles fòssils. Les fonts hidràuliques i eòliques no es poden moure prop de les ciutats molt poblades, i els costos d'energia solar són els més baixos en àrees remotes on les necessitats locals d'energia són mínimes. Els costos de connexió únicament poden ser determinants ja sigui per una alternativa renovable especial resulti econòmicament rendible. Els costos poden ser prohibitius per a les línies de transmissió, però diverses propostes d'inversió massives en infraestructura d'alta capacitat, les superxarxes de transmissió de molt llarga distància podran ser amortitzades amb tarifes modestes.
+
+
+=== Entrada a la xarxa ===
+A les centrals elèctriques, l'energia es produïa a un voltatge relativament baix entre 2,3 i 30 kV, depenent de la mida de la unitat. El voltatge terminador del generador llavors és augmentat pel transformador de la central a un voltatge superior (115 a 765 kV AC, depenent del sistema de transmissió i país) per la transmissió a llargues distàncies. A l'Índia, per exemple, el voltatge de la xarxa és de 440kV.
+
+
+=== Pèrdues ===
+La transmissió d'energia elèctrica en alta tensió redueix la fracció de l'energia que es perd a la resistència, que varia depenent dels conductors específics, el corrent que flueix, i la longitud de la línia de transmissió. Per exemple, una línia de 765 kV de 160 km transportant 1000 MW de potència pot tenir pèrdues de 1,1% al 0,5%. Una línia de 345 kV transportant la mateixa càrrega a través de la mateixa distància té pèrdues del 4,2%. Per a una quantitat donada de potència, una tensió més alta redueix el corrent i per tant les pèrdues resistives en el conductor. Per exemple, l'augment de la tensió per un factor de 10 redueix el corrent per un factor corresponent de 10 i per tant la I² les pèrdues R són d'un factor de 100, proporcionats els mateixos conductors de mida en els dos casos. Fins i tot si la mida del conductor (àrea de secció transversal) es redueix 10 vegades perquè coincideixi amb el corrent inferior, el I² les pèrdues R es redueixen encara 10 vegades. La transmissió a llarga distància es realitza normalment amb les línies aèries en els voltatges de 115 a 1.200 kV. A voltatges d'alta tensió extrema, més de 2.000 kV entre el conductor i el terra, les pèrdues de l'efecte corona són tan grans que es poden compensar les pèrdues resistives més baixes en els conductors de línia. Les mesures per reduir les pèrdues de corona inclouen conductors que tenen diàmetres majors; sovint buits per estalviar pes, o feixos de dos o més conductors.
+Els factors que afecten la resistència, i per tant la pèrdua, dels conductors utilitzats en línies de transmissió i distribució es troben la temperatura, cablejat en espiral, i l'efecte pel·licular. La resistència d'un conductor augmenta amb la temperatura. Els canvis de temperatura en línies d'energia elèctrica poden tenir un efecte significatiu en les pèrdues d'energia en la línia. Els cables en espiral, que es refereix a l'augment de la resistència del conductor per causa de la forma dels conductors trenats en espiral sobre el centre, també contribueix a l'augment de la resistència del conductor. L'efecte pel·licular fa que la resistència efectiva d'un conductor augmenti a freqüències de corrent altern més altes.
+Les pèrdues de transmissió i distribució als EUA es van estimar en el 6,6% el 1997 i el 6,5% el 2007. Mitjançant l'ús de la transmissió subterrània de CC, aquestes pèrdues es poden tallar per la meitat. Els cables subterranis poden ser de major diàmetre, ja que no tenen la restricció del pes lleuger que tenen els conductors aeris. En general, les pèrdues es van estimar a partir de la discrepància entre l'energia produïda (com s'informa per les centrals elèctriques) i l'energia venuda als clients finals; la diferència entre el que es produeix i el que es consumeix constitueix les pèrdues de transmissió i distribució, suposant que no es produeix el robatori d'utilitat.
+A partir del 1980, la distància més llarga rendible per la transmissió de corrent continu va ser determinat en 7000 km. Amb el corrent altern màxim fins a 4000 km, però totes les línies de transmissió en ús avui en dia són substancialment més curtes que aquesta distància.En una línia de transmissió de corrent altern, la inductància i la capacitància dels conductors pot ser significatifa. Els corrents que flueixen únicament en la "reacció" a aquestes propietats del circuit, (que juntament amb la resistència defineix la impedància) constitueixen el corrent d'energia reactiva, que no transmet una energia 'real' a la càrrega. Aquests corrents reactives, però, són molt reals i causen pèrdues d'escalfament addicionals en el circuit de transmissió. La relació entre la potència "real" (transmesa a la càrrega) a la potència "aparent" (suma de "real" i "reactiva") és el factor de potència. A mesura que augmenta el corrent reactiu, la potència reactiva augmenta i el factor de potència disminueix. Per als sistemes de transmissió amb baix factor de potència, les pèrdues són majors que per als sistemes amb alt factor de potència. Els tècnics afegeixen bateries de condensadors, reactors i altres components (com ara transformadors de canvi de fase; compensadors estàtics VAR; i sistemes de transmissió de corrent altern flexibles, FACTS) en tot el sistema per compensar el flux de potència reactiva i reduir les pèrdues en la transmissió d'energia i estabilitzar els voltatges del sistema. Aquestes mesures es denominen col·lectivament 'suport reactiu'.
+
+
+=== Transposició ===
+El corrent que flueix a través de línies de transmissió indueix un camp magnètic que envolta les línies de cada fase i afecta la inductància dels conductors circumdants d'altres fases. La inductància mútua dels conductors és parcialment dependent de l'orientació física de les línies pel que fa entre elles. Les línies de transmissió d'energia trifàsiques s'encadenen de manera convencional amb fases separades en diferents nivells verticals. La inductància mútua vist per un conductor de la fase en el mitjà de les altres dues fases serà diferent de la inductància vist pels conductors a la part superior o inferior. A causa d'aquest fenomen, els conductors han de transposar periòdicament al llarg de la longitud de la línia de transmissió de manera que cada fase veu el mateix temps en cada posició relativa per equilibrar la inductància mútua vista per les tres fases. Per aconseguir això, la posició de la línia s'intercanvia en torres de transposició especialment dissenyades a intervals regulars al llarg de la longitud de la línia de transmissió en diversos esquemes de transposició.
+
+
+=== Subtransmissió ===
+La subtransmissió és part d'un sistema de transmissió d'energia elèctrica que funciona a voltatges relativament baixos. És poc econòmic per a connectar totes les subestacions de distribució a l'alta tensió de transmissió principal, ja que l'equip és més gran i més car. En general, només les grans subestacions es connecten amb aquesta alta tensió. Es redueix i s'envia a les subestacions més petites en ciutats i barris. Els circuits de subtransmissió són en general disposats en bucles de manera que un sol error en la línia no talla el servei a un gran nombre de clients durant més d'un breu període. Els bucles poden ser "normalment tancats", on la pèrdua d'un circuit no ha de donar lloc a cap interrupció, o "normalment obert", on subestacions poden canviar a una alimentació de reserva. Mentre que els circuits de subtransmissió es realitzen en general en les línies aèries, a les zones urbanes es pot usar cable enterrat. Les línies de subtransmissió de baixa tensió utilitzen estructures menys invasives i més simples; és molt més factible soterrar quan sigui necessari. Les línies de major voltatge requereixen més espai i en general són per sobre del terra, ja que subterrània és molt més car.
+No hi ha un límit fix entre subtransmissió i transmissió, o subtransmissió i distribució. Els intervals de tensió es solapen en certa manera. Els voltatges de 69 kV, 115 kV i 138 kV s'utilitzen sovint per la subtransmissió a l'Amèrica del Nord. A mesura que els sistemes d'energia van evolucionar, els voltatges usats anteriorment per a la transmissió es van utilitzar per la subtransmissió, i els voltatges de subtransmissió es van convertir en els voltatges de distribució. Igual que la transmissió, la subtransmissió mou relativament grans quantitats de potència i de distribució similars, la subtransmissió cobreix una superfície en comptes de punt a punt.
+
+
+=== Sortida de la xarxa de transmissió ===
+A les subestacions, els transformadors redueixen la tensió a un nivell inferior per la distribució als usuaris comercials i residencials. Aquesta distribució es porta a terme amb una combinació de subtransmissió (33 kV a 132 kV) i distribució (3,3 a 25 kV). Finalment, en el punt d'ús, l'energia es transforma en baixa tensió (depenent segons els requisits del país i dels clients—vegeu Endolls, voltatges i freqüències per país).
+
+
+== Model: La Matriu de Transmissió ==
+Sovint, només és important les característiques del terminal de la línia de transmissió, que són la tensió i el corrent en els extrems d'enviament i recepció. La línia de transmissió en si mateix pren com a model un "requadre negre" i una matriu de 2 per 2 de transmissió s'utilitza per modelar el seu comportament, de la següent manera:
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      S
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      S
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  A
+                
+                
+                  B
+                
+              
+              
+                
+                  C
+                
+                
+                  D
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      R
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      R
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}V_{S}\\I_{S}\end{bmatrix}}={\begin{bmatrix}A&B\\C&D\end{bmatrix}}{\begin{bmatrix}V_{R}\\I_{R}\end{bmatrix}}}
+  
+La línia se suposa que és una xarxa recíproca i simètrica, el que significa que la recepció i l'enviament d'etiquetes es poden commutar sense conseqüència. La matriu de transmissió T també té les següents propietats:
+
+det(T) = AD - BC = 1
+A = DEls paràmetres A, B, C, i D varien en funció de com el model desitjat s'encarrega de la resistència (R), inductància (L), capacitància (C), i admitància de derivació Y (paral·lela) de la línia. Els quatre models principals són l'aproximació de la línia curta, l'aproximació línia de mitja tensió, l'aproximació de la llarga línia (amb paràmetres distribuïts), i la línia sense pèrdues. En tots els models descrits, una lletra majúscula com R es refereix a la quantitat total registrada durant la línia i una lletra minúscula, com ara c es refereix a la quantitat per unitat de longitud.
+L'aproximació de la línia sense pèrdues, que és el model menys precís, s'utilitza sovint en línies curtes quan la inductància de la línia és molt més gran que la seva resistència. Per a aquesta aproximació, el voltatge i el corrent són idèntics en els extrems d'enviament i recepció.
+L'aproximació de línia curta normalment s'utilitza per a línies de menys de 50 milles de llarg. Per a una línia curta, només és considerada una impedància en sèrie Z, mentre que C i I són ignorades. El resultat final és que A = D = 1 per unitat, B = Z ohms, i C = 0.
+
+L'aproximació de la línia mitja s'utilitza per a les línies entre 50 i 150 milles de llarg. En aquest model, es consideren la impedància en sèrie i la admitància en derivació, amb la meitat de la admitància en derivació col·locada a cada extrem de la línia. Aquest circuit es refereix sovint com un circuit de "pi nominal" a causa de la forma que pren quan l'admissió es col·loca en ambdós costats del diagrama del circuit. L'anàlisi de la línia mitja porta al següent resultat:
+
+  
+    
+      
+        
+          
+            
+              
+                A
+              
+              
+                
+                =
+                D
+                =
+                1
+                +
+                
+                  
+                    
+                      X
+                      Y
+                    
+                    2
+                  
+                
+                 
+                
+                  per unit
+                
+              
+            
+            
+              
+                B
+              
+              
+                
+                =
+                Z
+                Ω
+              
+            
+            
+              
+                C
+              
+              
+                
+                =
+                Y
+                
+                  (
+                  
+                    1
+                    +
+                    
+                      
+                        
+                          Y
+                          Z
+                        
+                        4
+                      
+                    
+                  
+                  )
+                
+                S
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}A&=D=1+{\frac {XY}{2}}\ {\text{per unit}}\\B&=Z\Omega \\C&=Y\left(1+{\frac {YZ}{4}}\right)S\end{aligned}}}
+  El model de la línia llarga s'utilitza quan es necessita un major grau de precisió o quan la línia en qüestió és més de 150 milles de llarg. La resistència en sèrie i l'admitància en derivació es consideren com a paràmetres distribuïts, el que significa que cada diferència de longitud de la línia té una corresponent resistència diferencial i admitància de derivació. El següent resultat es pot aplicar en qualsevol punt al llarg de la línia de transmissió, on gamma es defineix com la constant de propagació.
+
+  
+    
+      
+        
+          
+            
+              
+                A
+              
+              
+                
+                =
+                D
+                =
+                cosh
+                ⁡
+                (
+                y
+                x
+                )
+                 
+                
+                  per unit
+                
+              
+            
+            
+              
+                B
+              
+              
+                
+                =
+                
+                  Z
+                  
+                    c
+                  
+                
+                sinh
+                ⁡
+                (
+                y
+                x
+                )
+                Ω
+              
+            
+            
+              
+                C
+              
+              
+                
+                =
+                
+                  
+                    1
+                    
+                      Z
+                      
+                        c
+                      
+                    
+                  
+                
+                sinh
+                ⁡
+                (
+                y
+                x
+                )
+                S
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}A&=D=\cosh(yx)\ {\text{per unit}}\\B&=Z_{c}\sinh(yx)\Omega \\C&={\frac {1}{Z_{c}}}\sinh(yx)S\end{aligned}}}
+  Per trobar el voltatge i el corrent al final de la línia llarga, x ha de ser substituït per L (la longitud de línia) en tots els paràmetres de la matriu de transmissió.
+
+
+== Corrent continu d'alta tensió ==
+
+El corrent continu d'alta tensió (en anglès High-voltage direct current o HVDC) s'utilitza per transmetre grans quantitats d'energia a llargues distàncies o per a les interconnexions entre xarxes asíncrones. Quan l'energia elèctrica es va anar transmetent en distàncies molt llargues, les pèrdues de potència en la transmissió de corrent AC eren apreciables i era menys costós utilitzar corrent continu en comptes de corrent altern. Per a una línia de transmissió molt llarga, aquestes pèrdues inferiors (i reduït cost de construcció d'una línia CC) poden compensar el cost addicional de les estacions de conversió requerides en cada extrem.
+El HVDC s'utilitza també per a cables submarins a causa que l'AC no es pot subministrar a distàncies de més d'aproximadament 30 km, a causa del fet que els cables produeixen massa potència reactiva. En aquests casos especials, s'utilitzen els cables d'alta tensió per al DC. Els sistemes submarins HVDC sovint s'utilitzen per connectar les xarxes elèctriques de les illes, per exemple, entre Gran Bretanya i l'Europa continental, entre Gran Bretanya i Irlanda, entre Tasmània i terra ferma en Austràlia, i entre les illes del nord i sud de Nova Zelanda. Hi ha connexions submarines fins a 600 km de longitud actualment en ús.Els enllaços HVDC es poden utilitzar per controlar els problemes a la xarxa amb el flux d'electricitat de corrent altern. La potència transmesa per una línia de CA augmenta com el l'angle de fase entre el voltatge de la font i de la destinació augmenta, però massa gran, un angle de fase permetrà als sistemes en cada extrem de la línia a caure fora de pas. Atès que el flux de potència en un enllaç de CC es controla independentment de les fases de les xarxes de CA a cada extrem de l'enllaç, no hi ha aquest límit d'angle de fase, i un enllaç de CC sempre és capaç de transferir la seva potència nominal completa. Per tant, un enllaç de CC estabilitza la xarxa de CA a cada extrem, ja que el flux de potència i l'angle de fase poden ser controlats de forma independent.
+Com a exemple, per ajustar el flux d'alimentació de CA en una línia hipotètica entre Seattle i Boston requeriria un ajust de la fase relativa de les dues xarxes elèctriques regionals. Aquest és un fet quotidià en sistemes de corrent altern, però que pot arribar a ser interromput quan els components del sistema CA fallen i situen càrregues inesperades en el sistema de xarxa de treball restant. Amb una línia HVDC en el seu lloc, aquesta forma d'interconnexió seria: (1) Convertir AC a Seattle el HVDC; (2) L'ús de HVDC per a les 3.000 milles de la transmissió a través del país; i (3) Convertir la HVDC a AC sincronitzat a nivell local a Boston, (i possiblement en altres ciutats que cooperen al llarg de la ruta de transmissió). Aquest sistema podria ser menys propens a fallar si diverses parts s'apaguen bruscament. Un exemple d'una llarga línia de transmissió de CC és la Pacific DC Intertie ubicada a l'oest dels Estats Units.
+
+
+== Capacitat ==
+La quantitat d'energia que pot ser enviada a través d'una línia de transmissió és limitada. Els orígens dels límits varien depenent de la longitud de la línia. Per a una línia curta, l'escalfament dels conductors a causa de les pèrdues de línia fixa un límit tèrmic. Si s'extreu massa corrent, els conductors poden cedir massa prop de terra, o els conductors i l'equip poden ser danyats pel sobreescalfament. Per a les línies de longitud intermèdia de l'ordre de 100 km, el límit s'estableix per la caiguda de tensió en la línia. Per a les línies de corrent altern més llargues, l'estabilitat del sistema estableix el límit a l'energia que pot ser transferida. Aproximadament, el flux d'energia a través d'una línia de corrent altern és proporcional al cosinus de l'angle de fase de la tensió i el corrent en la recepció i transmissió dels extrems. Aquest angle varia en funció de la càrrega i la generació del sistema. No és desitjable per l'angle d'acostar-se als 90 graus, a mesura que el flux de potència disminueix, les pèrdues resistives romanen. Molt aproximadament, el producte permissible de longitud de línia i de càrrega màxima és proporcional al quadrat de la tensió del sistema. Els condensadors en sèrie o transformadors de desplaçament de fase s'utilitzen en línies llargues per millorar l'estabilitat. Les línies de corrent continu d'alt voltatge estan restringides només pels límits de caiguda tèrmica i de voltatge, ja que l'angle de fase no és important per al seu funcionament.
+Fins ara, ha estat gairebé impossible preveure la distribució de temperatura al llarg de la ruta del cable, de manera que la càrrega màxima aplicable actual va ser normalment establerta com un compromís entre la comprensió de les condicions d'operació i la minimització del risc. La disponibilitat dels sistemes distributed temperature sensing (DTS) industrials que mesuren la temperatura en temps real al llarg del cable és un primer pas en el control de la capacitat del sistema de transmissió. Aquesta solució de supervisió es basa en l'ús de fibres òptiques passives com a sensors de temperatura, ja sigui integrat directament dins d'un cable d'alta tensió o muntat externament en l'aïllament del cable. Una solució per a línies aèries també està disponible. En aquest cas la fibra òptica s'integra en el nucli d'un cable de fase de Overhead transmission lines (OPPC). La solució integrated Dynamic Cable Rating (DCR) o també anomenat Real Time Thermal Rating (RTTR) permet no només per controlar contínuament la temperatura d'un circuit de cable d'alta tensió en temps real, sinó per utilitzar amb seguretat la capacitat de la xarxa existent al seu màxim. A més, s'ofereix la possibilitat que l'operador pugui predir el comportament del sistema de transmissió a grans canvis realitzats en les seves condicions de funcionament inicials.
+
+
+== Control ==
+Per garantir un funcionament segur i predictible dels components del sistema de transmissió són controlats amb generadors, interruptors, interruptors automàtics i càrregues. El voltatge, potència, freqüència, factor de càrrega, fiabilitat i capacitats de la xarxa de transport estan dissenyats per proporcionar un rendiment rendible per als clients.
+
+
+=== Equilibri de la càrrega ===
+El sistema de transmissió proporciona per a la càrrega base i la capacitat de càrrega màxima, amb marges de seguretat i tolerància a errors. Les hores de màxima càrrega varien segons la regió en gran part a causa de la combinació d'indústries. L'ús d'aire condicionat i calefacció domèstic sobre climes molt calents o molt freds tenen un efecte sobre la càrrega global. En general són més cars a la tarda a la part més calenta de l'any i a mitjan matí i mitjan tarda a la part més freda de l'any. Això fa que la potència dels requisits varien segons la temporada i l'hora del dia. Els dissenys dels sistemes de distribució sempre prenen la càrrega base i la càrrega pic en consideració.
+El sistema de transmissió en general no té una capacitat d'emmagatzematge en memòria intermèdia gran perquè coincideixi amb les càrregues amb la generació. Tot i que la producció ha de ser mantingut igualat a la càrrega, per evitar la sobrecàrrega de les fallades dels equips de generació.
+Es poden connectar múltiples fonts i càrregues al sistema de transmissió i han de ser controlades per proporcionar la transferència ordenada de la potència. En la generació d'energia centralitzada, només és necessari el control local de la generació, i que suposi la sincronització de les unitats de generació, per evitar que grans condicions de sobrecàrrega.
+En la generació d'energia distribuïda els generadors es distribueixen geogràficament i el procés per portar-los en línia i fora de línia han de ser controlats acuradament. Els senyals de control de càrrega o bé poden ser enviats en línies separades o en les línies d'energia pròpies. La tensió i la freqüència poden ser utilitzades com a mecanismes per equilibrar les càrregues de senyalització.
+En la senyalització de la tensió, la variació de la tensió s'utilitza per augmentar la generació. La potència afegida per qualsevol sistema augmenta a mesura que disminueix la tensió de xarxa. Aquesta disposició és estable en principi. La regulació basada en el voltatge és complexa per al seu ús en xarxes de malla, ja que haurien de ser reconfigurades cada vegada que s'agrega un nou generador de la malla dels components i punts d'ajust individuals.
+En la senyalització de freqüència, les unitats de generació coincideixen amb la freqüència del sistema de transmissió de potència. a control de velocitat de caiguda, si la freqüència disminueix, s'augmenta la potència. (La caiguda de la freqüència de la línia és una indicació que l'augment de la càrrega està causant els generadors per reduir la velocitat.)
+Els aerogeneradors, vehicle-to-grid i altres sistemes d'emmagatzematge i de generació distribuïda es poden connectar a la xarxa elèctrica, i interactuar amb ella per millorar el funcionament del sistema.
+
+
+=== Protecció contra errors ===
+En condicions de càrrega en excés, el sistema pot ser dissenyat per fallar amb gràcia en lloc de tots alhora. Els brownout ocorren quan la font d'alimentació cau per sota de la demanda. Les apagades ocorren quan el subministrament falla completament.
+Les desconnexions de càrrega han estat dissenyades per realitzar talls d'energia elèctrica intencionalment, que s'utilitza per distribuir l'energia insuficient quan la demanda d'electricitat supera l'oferta.
+
+
+== Comunicacions ==
+Els operadors de les línies de transmissió llargues requereixen comunicacions fiables per controlar la xarxa elèctrica i, la generació de freqüència, associades i les instal·lacions de distribució. Els relés de protecció a cada extrem de la línia han de comunicar el control del flux d'energia dins i fora de la secció de la línia protegida perquè les avaries dels conductors o l'equip pugui ser ràpidament desenergitzats i l'equilibri del sistema sigui restaurat. La protecció de la línia de transmissió contra curtcircuits i altres defectes és tan crítica que en general les telecomunicacions d'operadors no són prou fiables, i a les zones remotes l'operador pot no estar disponible. Els sistemes de comunicació associats amb un projecte de transmissió poden utilitzar:
+
+Microones
+Power line communication
+Fibra òpticaEn rares ocasions, i per a distàncies curtes, una solució és utilitzar filferros enfilats al llarg de la ruta de la línia de transmissió. Els operadors no solen tenir circuits arrendats, ja que la disponibilitat no està sota control de l'organització de transmissió d'energia elèctrica.
+Les línies de transmissió també es poden utilitzar per a transportar dades: d'això se'n diu power-line carrier, o PLC. Els senyals PLC es poden rebre fàcilment amb una ràdio per al rang d'ona llarga.
+La fibra òptica pot ser inclosa en els conductors trenats d'una línia de transmissió, en els cables apantallats aeris. Aquests cables es coneixen com a optical ground wire (OPGW). De vegades s'utilitza un cable independent, el cable all-dielectric self-supporting (ADSS), unit als braços creuats de les línies de transmissió.
+En algunes jurisdiccions, com ara Minnesota, prohibeixen a les companyies de transport d'energia de la venda d'ample de banda de comunicació superàvit o actuant com a operador de telecommunications. Quan la estructura reguladora permet, l'empresa pot vendre la capacitat en excés de la fibra fosca a un operador, proporcionant una altra font d'ingressos.
+
+
+== Reforma del mercat elèctric ==
+
+Alguns reguladors consideren la transmissió elèctrica a ser un monopoli natural i s'estan donant passos en molts països per regular per separat la transmissió (vegeu mercat elèctric).
+Espanya va ser el primer país a establir una organització regional de transmissió. En aquest país, les operacions de transmissió i les operacions de mercat són controlades per empreses independents. L'operador del sistema de transmissió és Red Eléctrica de España (REE) i l'operador del mercat majorista de l'electricitat és Operador del Mercado Ibérico de Energía – Polo Español, S.A. (OMEL). El sistema de transmissió d'Espanya està interconnectat amb els de França, Portugal i el Marroc.
+Als Estats Units i parts del Canadà, les empreses de transmissió elèctrica operen independentment de les empreses de generació i distribució.
+
+
+== Cost de la transmissió d'energia elèctrica ==
+El cost del transport de l'electricitat d'alta tensió (en comparació amb els costos de la distribució d'energia elèctrica) és comparativament baix, en comparació amb tots els altres costos derivats en la factura elèctrica d'un consumidor. Al Regne Unit, els costos de transmissió estan sobre els 0,2p/kWh en comparació amb un preu intern de lliurament del voltant de 10p/kWh.Una investigació va avaluar el nivell de despesa de capital en el mercat d'equips d'energia elèctrica T&D amb un valor de $128,9bn el 2011.
+
+
+== Transmissió mercantil ==
+La transmissió mercantil és un arranjament on un tercer construeix i opera les línies de transmissió elèctrica a través de l'àrea de franquícia d'una empresa no relacionada.
+Els projectes de transmissió comerciant que operen als Estats Units inclouen el Cross Sound Cable de Shoreham, Nova York a New Haven, Connecticut, Neptune RTS Transmission Line de Sayreville, N.J., a Newbridge, N.Y, i Path 15 a Califòrnia. Altres projectes estan en desenvolupament o s'han proposat als Estats Units, incloent el Lake Erie Connector, una línia de transmissió sota l'aigua proposat per ITC Holdings Corp., connectant Ontario per carregar les entitats que presten serveis en la regió de la PJM Interconnection.Només hi ha un interconnector no regulat a Austràlia: Basslink entre Tasmània i Victoria. Dos circuits intermedis implementats originalment com a interconnectors de mercat, Directlink i Murraylink, s'han convertit en interconnectors regulats. NEMMCO Arxivat 2008-07-18 a Wayback Machine.
+Un obstacle important per a l'adopció més àmplia de la transmissió mercantil és la dificultat per identificar qui es beneficia de la facilitat perquè els beneficiaris hagi de pagar impostos. A més, és difícil per a una línia de transmissió mercantil competir quan les línies de transmissió alternatives estan subvencionades per altres empreses de serveis públics.
+
+
+== Preocupacions de salut ==
+
+Alguns estudis amplis, incloent un extens estudi dels Estats Units, no han aconseguit trobar cap vincle entre viure prop de línies elèctriques i el desenvolupament de qualsevol malaltia o malalties, com el càncer. Un estudi de 1997 va descobrir que tant fa ser a prop d'una línia elèctrica o una sub-estació, no hi va haver augment en el risc de càncer o malaltia.L'evidència científica suggereix que el corrent principal de baixa potència, de baixa freqüència, la radiació electromagnètica associada als corrents de la llar i línies elèctriques d'alta transmissió no constitueixen un perill per a la salut a curt i llarg termini. Alguns estudis, però, han trobat correlacions estadístiques entre diverses malalties i viure o treballar a prop de línies elèctriques. No es van observar efectes adversos per a la salut que hagin estat fonamentades per a les persones que no viuen a prop de línies elèctriques.Hi ha efectes biològics establerts que es troben en exposició d'alt nivell aguda a camps magnètics molt per sobre de 100 µT (1 G). En un entorn residencial, hi ha "hi ha proves limitades d'experimentació de carcinogenicitat en humans i menys proves en animals", en particular, la leucèmia infantil, associat amb una mitjana d'exposició al camp magnètic de freqüència de xarxa per sobre de 0,3 µT (3 mG) a 0,4 µT (4 mG). Aquests nivells superen els camps magnètics de freqüència mitjana residencials a les llars, que són al voltant 0,07 µT (0,7 mG) a Europa i 0,11 µT (1.1 mG) a l'Amèrica del Nord.La intensitat de camp magnètic natural de la Terra varia al llarg de la superfície del planeta entre 0,035 mT - 0,07 mT (35 µT - 70 µT o 0,35 G - 0,7 G) mentre que la Norma Internacional per al límit d'exposició contínua es fixa en 40 mT (40.000 µT o 400 G) per al públic en general.Diversos mètodes de control de creixement d'arbres i herbicides són utilitzats en la transmissió de la línia en els seus recorreguts que poden tenir efectes en la salut.
+
+
+== Política del govern dels Estats Units ==
+Històricament, els governs locals han exercit autoritat sobre la xarxa i han desincentivat significativament a través d'accions per tal de beneficiar-se pròpiament. Les localitats amb electricitat barata tenen un desincentiu per animar a fer comerç interestatal en el comerç d'electricitat més fàcil, ja que altres regions són capaces de competir per l'energia local i pujar les taxes. Per exemple, alguns reguladors a Maine no desitgen fer front als problemes de congestió a causa que la congestió serveix per mantenir les taxes de Maine baixes. A més, grups locals poden bloquejar o alentir permetent l'augment de l'impacte visual, ambiental i generar problemes de salut. Als EUA, la generació està creixent quatre vegades més ràpid que la transmissió, però requereix grans millores en la transmissió de la coordinació de múltiples estats, amb la necessitat d'una multitud de permisos, i la cooperació entre una part significativa de les 500 companyies propietàries de la xarxa. Des d'una perspectiva política, el control de la xarxa s'ha balcanitzat, i fins i tot l'ex-secretari d'energia Bill Richardson s'hi refereix com una xarxa de tercer món. S'han fet esforços en la UE i els Estats Units per enfrontar el problema. L'interès de la seguretat nacional dels Estats Units en el creixement de manera significativa la capacitat de transmissió va impulsar l'aprovació de la Llei d'Energia de 2005 donant el Departament d'Energia l'autoritat d'aprovar la transmissió si els estats es neguen a actuar. No obstant això, poc després el Departament d'Energia va utilitzar el seu poder per designar dues National Interest Electric Transmission Corridors, 14 senadors van signar una carta en què el DOE estava sent massa agressiu.
+
+
+== Transmissió especial ==
+
+
+=== Xarxes per a ferrocarrils ===
+
+En alguns països on hi ha trens elèctrics o unitats elèctriques múltiples funcionen amb corrent altern de baixa freqüència, hi ha xarxes elèctriques de tracció monofase separades operades pels ferrocarrils. Els principals exemples són els països d'Europa (incloent Àustria, Alemanya i Suïssa) que utilitzen la tecnologia més antiga de CA sobre la base de 16 2/3 Hz (Noruega i Suècia també utilitzen aquesta freqüència però utilitzen la conversió de la xarxa pública de 50Hz; Suècia té una xarxa de tracció de 16 2/3 Hz però només per part del sistema de).
+
+
+=== Cables superconductors ===
+La superconductivitat d'alta temperatura (en anglès High-temperature superconductor o HTS) prometen revolucionar la distribució d'energia, proporcionant una transmissió sense pèrdues d'energia elèctrica. El desenvolupament dels superconductors amb temperatures de transició més altes que el punt d'ebullició del nitrogen líquid ha fet del concepte de les línies d'alimentació a través de superconductors comercialment factible, almenys per a aplicacions d'alta càrrega. S'ha estimat que els residus es redueix a la meitat amb l'ús d'aquest mètode, ja que l'equip de refrigeració necessari consumiria la meitat de l'energia estalviada per l'eliminació de la majoria de les pèrdues resistives. Algunes empreses, com Consolidated Edison i American Superconductor ja han començat la producció comercial d'aquests sistemes. En un sistema de futur hipotètic anomenat SuperGrid, el cost de refrigeració seria eliminat mitjançant l'acoblament a la línia de transmissió amb una canonada d'hidrogen líquid.
+Els cables superconductors són especialment adequats per a les zones d'alta densitat de càrrega, com ara el districte de negocis de les grans ciutats, on la compra d'una servitud per a cables que serien molt costosos.
+
+
+=== Retorn a terra d'un sol cable ===
+
+Single-wire earth return (SWER) o single wire ground return és una línia de transmissió d'un sol cable per a subministrar energia elèctrica monofàsica per a una xarxa elèctrica a les zones remotes a baix cost. S'utilitza principalment per a l'electrificació rural, sinó també troba ús per a càrregues aïllades més grans, com les bombes d'aigua. ElSingle wire earth return també s'utilitza per HVDC a través de cables d'energia submarins.
+
+
+=== Transmissió d'energia sense fil ===
+
+Ja al canvi de segle en el període vers 1900, tan Nikola Tesla com Hidetsugu Yagi van intentar idear sistemes per la transmissió sense fil d'energia a gran escala, sense èxit comercial. El novembre de 2009, LaserMotive va guanyar el NASA 2009 Power Beaming Challenge per alimentar un cable a un quilòmetre verticalment utilitzant un transmissor de làser terrestre. El sistema va produir fins a 1 kW de l'energia a l'extrem receptor. L'agost de 2010, la NASA va contractar empreses privades per perseguir el disseny de sistemes radiants d'energia làser per alimentar satèl·lits en òrbita terrestre baixa i per llançar coets per mitjà de feixos d'energia a través del làser.
+La transmissió d'energia sense fils s'ha estudiat per a la transmissió d'energia des de satèl·lits d'energia solar cap a la terra. Un conjunt de dispositius de microones d'alta potència o transmissors làser dirigiria el feix d'energia a una rectenna. En conjunt tracta desafiaments científics i econòmics que enfronta qualsevol projecte de satèl·lit d'energia solar.
+
+
+== Seguretat dels sistemes de control ==
+El Govern federal dels Estats Units admet que la xarxa elèctrica és susceptible a la guerra informàtica. El Departament de Seguretat Nacional dels Estats Units treballa amb la indústria per identificar les vulnerabilitats i ajudar a la indústria a millorar la seguretat dels sistemes de control de les xarxes, el govern federal també està treballant per garantir que la seguretat es basa en el fet que els EUA desenvolupa la propera generació de xarxes de 'intel·ligents'.
+
+
+== Rècords ==
+Major capacitat del sistema: 6,3 GW HVDC Itaipu (Brasil/Paraguai) (±600 kV DC)
+Transmissió de voltatge més alt (AC):
+planificat: 1,20 MV (Ultra Alta Tensió) a Wardha-Aurangabad line (Índia) - en construcció. Operarà inicialment en 400 kV.
+mundial: 1,15 MV (Ultra Alta Tensió) a la línia de Ekibastuz-Kokshetau (Kazakhstan)
+Transmissió de doble circuit més gran, Línia elèctrica de Kita-Iwaki (Japan).
+Torres més altes: Encreuament del riu Iang-Tsé (Xina) (alçada: 345 m)
+Línia d'alimentació més llarga: Inga-Shaba (República Democràtica del Congo) (longitud: 1700 km)
+Tram més llarg d'una línia elèctrica: 5376 m a Ameralik Span (Groenlàndia, Dinamarca)
+Cables submarins més llargs:
+NorNed, Mar del nord (Noruega/Països Baixos) – (longitud del cable submarí: 580 km)
+Basslink, Estret de Bass, (Austràlia) – (longitud del cable submarí: 290 km, longitud total: 370,1 km)
+Baltic Cable, Mar Bàltic (Alemanya/Suècia) – (longitud del cable submarí: 238 km, longitud del HVDC: 250 km, longitud total: 262 km)
+Cables soterrats més llargs:
+Murraylink, Riverland/Sunraysia (Austràlia) – (longitud de cable soterrat: 180 km)
+
+
+== Vegeu també ==
+Xarxa de distribució d'energia elèctrica
+Línia elèctrica aèria
+Mercat elèctric
+High-voltage direct current (HVDC)
+Sistema trifàsic
+
+
+== Referències ==
+Notes
+
+
+== Per a més informació ==
+Grigsby, L. L., et al. The Electric Power Engineering Handbook. USA: CRC Press. (2001). ISBN 0-8493-8578-4
+Hughes, Thomas P., Networks of Power: Electrification in Western Society 1880–1930, The Johns Hopkins University Press,Baltimore 1983 ISBN 0-8018-2873-2, an excellent overview of development during the first 50 years of commercial electric power
+Reilly, Helen. Connecting the Country – New Zealand's National Grid 1886–2007.  Wellington: Steele Roberts, 2008, p. 376 pages.. ISBN 978-1-877448-40-9. 
+Pansini, Anthony J, E.E., P.E. undergrounding electric lines. USA Hayden Book Co, 1978. ISBN 0-8104-0827-9
+Westinghouse Electric Corporation, "Electric power transmission patents; Tesla polyphase system". (Transmission of power; polyphase system; Tesla patents)
+The Physics of Everyday Stuff - Transmission Lines Arxivat 2021-04-05 a Wayback Machine.
+
+
+== Enllaços externs ==
+A Power Grid for the Hydrogen Economy: Overview/A Continental SuperGrid
+Global Energy Network Institute (GENI) – The GENI Initiative focuses on linking renewable energy resources around the world using international electricity transmission.
+Union for the Co-ordination of Transmission of Electricity (UCTE), the association of transmission system operators in continental Europe, running one of the two largest power transmission systems in the world
+A Simulation of the Power Grid – The Trustworthy Cyber Infrastructure for the Power Grid (TCIP) group at the University of Illinois at Urbana-Champaign has developed lessons and an applet which illustrate the transmission of electricity from generators to energy consumers, and allows the user to manipulate generation, consumption, and power flow.

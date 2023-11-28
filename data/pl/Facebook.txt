@@ -1,0 +1,116 @@
+Facebook (skr. fb) – serwis społecznościowy, w ramach którego zarejestrowani użytkownicy mogą tworzyć sieci i grupy, dzielić się wiadomościami i zdjęciami oraz korzystać z aplikacji, będący własnością Meta Platforms z siedzibą w Menlo Park. Serwis był notowany w rankingu Alexa na miejscu 7.
+Został uruchomiony 4 lutego 2004 na Uniwersytecie Harvarda i był początkowo przeznaczony przede wszystkim dla osób studiujących na tej uczelni. Jego głównym autorem jest Mark Zuckerberg (obecnie pełni on funkcję dyrektora generalnego).
+W październiku 2010 na ekrany kin wszedł film The Social Network ukazujący historię portalu Facebook (pierwotnie TheFacebook) i jego założycieli. W zakończeniu filmu podano szacunkową wartość portalu i wynosiła ona 25 miliardów dolarów.
+W czerwcu 2017 liczba użytkowników na całym świecie wynosiła prawie 2 miliardy, a dziennie aktywnych jest prawie 1,3 mld osób. Średni wiek użytkownika serwisu w 2012 roku wynosił 22 lata. Dane zgromadzone na Facebooku to ponad 980 petabajtów, co 24 godziny przybywa ponad 0,5 petabajta. Przeciętny użytkownik spędza na Facebooku około 21 minut dziennie.
+
+
+== Historia ==
+
+
+=== Utworzenie ===
+Zuckerberg, jako student Uniwersytetu Harvarda, w 2003 roku stworzył serwis stronę face mash służącą przeglądaniu zdjęć innych studentów tej uczelni. Następnie, w dniu 4 lutego 2004 stworzył wraz z grupą studentów serwis społecznościowy on-line TheFacebook, w ramach którego zarejestrowani użytkownicy mogli odszukiwać i kontynuować szkolne znajomości oraz dzielić się wiadomościami i zdjęciami. Utworzenie kodu źródłowego strony zajęło mu 2 tygodnie. Serwis bardzo szybko uzyskał ogromne zainteresowanie wśród studentów i osiągnął sukces na Harvardzie. Ponad ⅔ studentów zarejestrowało się na nowo powstałej stronie już w pierwszych 2 tygodniach jej funkcjonowania.
+Wówczas Zuckerberg zdecydował się rozszerzyć zasięg serwisu na inne szkoły. Rozpoczął współpracę ze swym współlokatorem Dustinem Moskovitzem. Kolejnymi uczelniami, które objęto zasięgiem serwisu, były Uniwersytet Stanforda, Yale i Columbia, a następnie pozostałe uczelnie z Ligi Bluszczowej oraz szkoły bostońskie.
+Latem, na początku działalności serwisu, Zuckerberg i Moskovitz rozszerzyli zasięg jego działalności na prawie 30 szkół.
+
+
+=== Kalifornia ===
+Latem 2004 Zuckerberg, Moskovitz, dziewczyna Zuckerberga Hilary Shinn oraz grupa ich znajomych przenieśli się do Palo Alto w Kalifornii. Wynajęli tam mały dom, który posłużył im za pierwsze biuro. Pod koniec lata Zuckerberg spotkał Petera Thiela, który zainwestował w powstające przedsiębiorstwo. Parę miesięcy później powstało biuro na University Avenue w centrum miasta. Obecnie firma ma swoją siedzibę w czterech budynkach, które tworzą, jak to Zuckerberg nazywa, „kampus miejski” w centrum Palo Alto.
+
+
+=== News Feed ===
+5 września 2006 w serwisie Facebook uruchomiono tzw. News Feed, czyli listę, na której widoczne było, co znajomi robili aktualnie na stronie serwisu. Spotkało się to z falą krytyki skierowaną na Zuckerberga. Twierdzono, że narzędzie to jest niepotrzebne – określono je jako narzędzie do cyberstalkingu (internetowego nękania, prześladowania, osaczania). Trzy dni później Zuckerberg odpowiedział na falę krytyki listem otwartym, w którym przeprosił użytkowników serwisu za swoje przedsięwzięcie.
+
+
+=== Wartość rynkowa ===
+24 października 2007 opublikowano w prasie informacje, że firma Microsoft kupiła część akcji Facebook. Było to 1,6% za kwotę 240 milionów dolarów amerykańskich. Szacunkowa wartość Facebooka wynosiła wtedy 15 mld USD.
+
+
+=== Polska wersja językowa ===
+Od maja 2008 działa polska wersja językowa serwisu, uruchomiona dzięki tłumaczeniom wykonanym przez użytkowników.
+
+
+=== Facebook Lite ===
+W kwietniu 2009 została oddana do użytku wersja „lite”. Była to uproszczona wersja serwisu, pozbawiona np. Facebook Chat, przeznaczona przede wszystkim dla ludzi posiadających słabsze komputery bądź łącza internetowe. Facebook Lite został wyłączony bez dodatkowych wyjaśnień w dniu 20 kwietnia 2010. Osoby pracujące przy projekcie skupione zostały wokół usługi Facebook Questions.
+
+
+== Aspekty techniczne ==
+Facebook został napisany w języku PHP, który następnie jest tłumaczony za pomocą autorskiego narzędzia – HipHop for PHP na C++, co ma się przekładać na zredukowanie o 50% obciążenia serwerów.
+
+
+== Funkcje ==
+Serwis przeszedł wiele zmian wizualnych, co nie zawsze spotykało się z aprobatą użytkowników; największy sprzeciw pojawił się po zmianach strony głównej – zamiast statycznej zawartości w formie wirtualnej wizytówki spotykanej w tego typu serwisach, pojawił się mikroblog wraz z powiadomieniami aplikacji. Facebook oferuje wewnętrzną platformę aplikacji internetowych, dzięki której każdy z użytkowników może napisać własny program i udostępniać go innym użytkownikom. Platforma ta umożliwia również zarabianie pieniędzy twórcom, poprzez oferowanie zawartości premium (np. dodatkowe przedmioty w grach, wirtualne pieniądze wykupowane za prawdziwą walutę); a także umożliwia komunikowanie się programów zewnętrznych, serwisów z Facebookiem – wiele serwisów internetowych (m.in. Digg, lifehacker.com, crunchgear.com) oferuje możliwość „podpięcia” konta z wykorzystaniem nazwy i hasła użytkownika Facebooka, co jest własną wersją rozproszonego uwierzytelnienia OpenID (funkcja nosi nazwę Facebook Connect). Serwis oferuje również wewnętrzny komunikator, który umożliwia komunikację poprzez programy zewnętrzne obsługujące protokół XMPP.
+W lutym 2014 portal wprowadził przy współpracy ze środowiskami LGBT większą liczbę możliwych do wybrania płci, z myślą o osobach transgender.
+
+
+=== Dodatkowe funkcje ===
+Facebook posiada także wiele typowych funkcji obecnych w innych serwisach społecznościowych, takich jak: albumy ze zdjęciami, blog, notes, książka adresowa, lista znajomych, grupy użytkowników, blokowanie użytkowników, poczta wewnętrzna.
+
+
+==== Oś czasu ====
+W grudniu 2011 wprowadzono Oś czasu, nowy rodzaj profilu, który pozwala na dodawanie „Wydarzeń z życia” (np. ukończenia szkoły, pierwszego spotkania z daną osobą, podróży czy złamanej kości itp.) oraz postów z ustawioną datą w przeszłości. Dodatkowo generowana jest mapa ze wszystkimi odwiedzonymi przez użytkownika miejscami.
+Facebook oferuje również każdemu użytkownikowi możliwość, aby adres www do jego profilu składał się z ciągu przypadkowych cyfr bądź wybranej przez siebie nazwy użytkownika.
+Facebook we współpracy z Cisco oferuje również specjalne modemy dla firm oraz przedsiębiorstw, które pozwolą ich klientom na darmowy dostęp do internetu w zamian za podstawowe dane demograficzne przekazywane firmie oferującej internet.
+
+
+==== Facebook Messenger ====
+13 listopada 2013 została wydana nowa wersja 3.0 aplikacji Facebook Messenger dla iOS i Androida. Nowa wersja pozwala korzystać z numeru telefonu do wysyłania wiadomości do wszystkich numerów bez konieczności bycia znajomymi na Facebooku. Podobną funkcję ma aplikacja WhatsApp, która została wykupiona za 16 mld dolarów przez Facebooka. W lipcu 2015 wprowadzono możliwość korzystania z aplikacji Facebook Messenger bez rejestracji w serwisie Facebook. Opcja założenia konta w aplikacji bez rejestracji w serwisie Facebook była dostępna do 2019 roku. Pod koniec 2019 r. Facebook zmodyfikował regulamin, zmieniając sposób korzystania z komunikatora i narzucając wymóg posiadania konta w serwisie Facebook przy zakładaniu nowego konta w komunikatorze. Zmiany wprowadzone pod koniec 2019 roku nie dotyczą jedynie tych użytkowników, którzy już posiadają swoje konta w komunikatorze.
+
+
+== Krytyka ==
+
+
+=== Wpływ na psychikę ===
+Rozwój funkcji serwisu i wzrost jego popularności spowodował, że niektórzy naukowcy zaczęli ostrzegać przed możliwością uzależnienia od Facebooka. Problem ten dotyczy przede wszystkim młodych ludzi, którzy spędzają na Facebooku kilka godzin dziennie. Według naukowców nie mogą oni poradzić sobie z rosnącym zaangażowaniem w to, co dzieje się aktualnie na Facebooku. Presja zalogowania się i sprawdzenia informacji dotyczących znajomych, obejrzenia ich najnowszych zdjęć oraz porównania wyników gier, czy testów jest tak silna, że zapominają oni o innych aspektach życia.
+Serwis jest też krytykowany za przyczynianie się do gorszych wyników w nauce (w porównaniu z uczniami, którzy go nie używają) oraz za kształtowanie osobowości narcystycznej.
+W 2012 Facebook organizował na próbie 700 tysięcy użytkowników eksperyment psychologiczny, mający na celu stwierdzić, czy da się manipulować uczuciami osób przez Internet, zaś informacja o kontrowersyjnym eksperymencie wyszła na jaw w 2014 roku.
+W październiku 2021 r. była pracownica Facebooka Frances Haugen powołując się na wewnętrzne dokumenty firmy, zeznała przed amerykańskim senatem oraz brytyjską komisją parlamentarną, iż algorytmy Facebooka są zaprojektowane w taki sposób aby promować kontrowersyjne treści, szerzyć nienawiść oraz radykalizować użytkowników. Podsycanie powstających w ten sposób konfliktów ma być korzystne dla firmy, ponieważ angażuje to użytkowników do dłuższego spędzania czasu w serwisie.
+
+
+=== Gromadzenie i wykorzystywanie danych użytkowników ===
+Pliki cookies ładowane przez serwis zapamiętują wszystkie strony, które mają powiązanie z Facebookiem. W związku z czym czasami część życia osób zarejestrowanych na Facebooku jest rejestrowana, nawet po wylogowaniu. Facebook śledzi także osoby, które nie posiadają nawet konta na portalu.
+W Stanach Zjednoczonych Facebook został skazany na wpłatę 10 milionów dolarów na cele charytatywne za wykorzystywanie wizerunku użytkowników wbrew ich woli i wiedzy.
+Zmieniono także interfejs centrum aplikacji, w wyniku czego trudniej jest jednoznacznie określić, jakie dane przekazujemy serwisowi oraz twórcy aplikacji podczas korzystania z danego programu lub gry.
+Serwis planuje także udostępnić reklamodawcom adresy e-mail oraz numery telefonów swoich użytkowników.
+Kontrowersje wzbudza także ilość danych, które Facebook zbiera na temat osób z niego korzystających. Znana jest sytuacja, gdy Max Schrems – austriacki student prawa – wysłał do siedziby serwisu oficjalny list z prośbą o udostępnienie mu danych, jakie zostały zgromadzone na jego temat, w czasie gdy posiadał konto na Facebooku. Prośba została rozpatrzona po myśli Schremsa i dostał on płytę CD ze wszystkimi informacjami na temat jego aktywności (np. posty na jego profilu, korespondencja ze znajomymi czy też linki które „polubił”). Niepokój Schremsa wzbudziło to, iż dane te były przechowywane na serwerach Facebooka, mimo że nie posiadał już w nim konta. Sprawą zainteresował się Irlandzki Komisarz Ochrony Danych Osobowych, który postanowił się przyjrzeć problemowi.
+Firma jest też posądzana o szpiegowanie użytkowników i wdrażanie nowych funkcji bez jakichkolwiek ostrzeżeń (czasami zdarza się, że są jednocześnie domyślnie włączone) i monitoring w zamian za dodatkowe możliwości.
+W 2019 roku Federalna Komisja Handlu nałożyła na serwis Facebook karę w wysokości 5 mld dolarów, za umożliwienie dostępu firmie Cambridge Analytica do danych 87 mln swoich użytkowników. Firma ta dla swoich klientów wykorzystywała pozyskane dane, do profilowania użytkowników względem ich preferencji politycznych i miała wpływać na ich decyzje polityczne. Afera wywołała międzynarodowy skandal, a nałożona na Facebook kara była najwyższą jaką kiedykolwiek zastosowano wobec firmy technologicznej w Stanach Zjednoczonych.
+
+
+=== Cenzura ===
+Względem Facebooka pojawiają się oskarżenia o stosowanie cenzury i polityczną stronniczość. Zwrócono uwagę, iż z serwisu często usuwane są treści o charakterze prawicowym i konserwatywnym. Przedstawiciele Facebooka argumentują jednak, iż odpowiadają za to algorytmy, a nie preferencje ideologiczne pracowników.  Pod adresem Facebooka stosowane są również oskarżenia o tolerowanie na portalu symboliki oraz treści związanych z komunizmem, przy jednoczesnym usuwaniu symboliki i treści związanych z nacjonalizmem.
+W kwietniu 2020 roku pod naciskiem rządu Wietnamu (grożącemu wyłączeniem serwerów firmy na terenie tego państwa), Facebook zgodził się cenzurować treści mające charakter antyrządowy (osoby zlokalizowane w Wietnamie mają mieć zablokowany dostęp do postów o takiej treści). W sierpniu 2020 roku rząd Tajlandii (grożąc poniesieniem konsekwencji karnych przez przedstawicieli Facebooka w tym kraju) wymógł na firmie zamknięcie grupy Royalist Marketplace (zrzeszającej ok. 1 mln członków), na której zamieszczane były treści krytyczne wobec tajskiej rodziny królewskiej. Przedstawiciele Facebooka zapowiedzieli powzięcie kroków prawnych przeciwko rządowi Tajlandii, ze względu na łamanie w ten sposób wolności słowa.
+Oskarżenia o cenzurę przybrały na sile po zablokowaniu na tym serwisie konta prezydenta Donalda Trumpa w związku z zamieszkami oraz wdarciem się jego zwolenników na kapitol 6 stycznia 2021 roku (zob. atak na Kapitol Stanów Zjednoczonych). Wg oświadczenia Marka Zuckerberga interwencja ta podyktowana była troską o deeskalację konfliktu i powstrzymanie przemocy, jednak wg wielu komentatorów działania takie są ograniczeniem wolności słowa oraz ukazują zaangażowanie serwisu w politykę.
+
+
+=== Praktyki monopolistyczne ===
+Facebook oskarżany jest o praktyki monopolistyczne, a od grudnia 2020 r. w Stanach Zjednoczonych prowadzone jest przeciwko niemu postępowanie w tej sprawie, zainicjowane przez Federalną Komisję Handlu. Z kolei w lutym 2021 roku, Facebook zablokował obywatelom Australii możliwość publikowania treści informacyjnych. Była to forma protestu wobec wprowadzenia przez tamtejsze władze opłaty od korporacji pobieranej z tytułu publikacji treści informacyjnych ze źródeł spoza mediów społecznościowych. 
+W czerwcu 2021 r. Federalny Sąd w Waszyngtonie odrzucił dwa pozwy zarzucające Facebookowi stosowanie praktyk monopolistycznych w związku z przejęciem aplikacji Whatsapp. W pierwszym pozwie, władze stanowe zarzuciły iż w wyniku pozyskania Whatsappa i Instagrama ograniczył ich interoperacyjność z innym aplikacjami. Sąd stwierdził, że pozew został wniesiony po wymaganym terminie pięciu lat (przejęcie Whatsappa miało miejsce w 2014 r.). Drugi pozew wniesiony przez Federalną Komisję Handlu (FTC), w którym agencja zarzuciła firmie Facebook, iż pozyskując Instagrama i Whatsappa wyeliminowała potencjalnie zagrażających jej konkurentów, dostał czas na uzupełnienie wniosku. 
+
+
+== Plagiaty ==
+19 lipca 2008 Facebook złożył wniosek do sądu w San José w Kalifornii o ukaranie studiVZ – niemieckojęzycznej platformy o podobnym charakterze, której zarzuca plagiat (kradzież własności intelektualnej). Porównywalnie w innym procesie zakończonym ich przegraną twórcy Facebooka zostali oskarżeni o to samo przez braci Camerona i Tylera Winklevossów, którym musieli wypłacić 65 mln dolarów odszkodowania.
+
+
+== Film o Facebooku ==
+W 2010 został nakręcony film obyczajowy The Social Network w reżyserii Davida Finchera opowiadający o powstaniu Facebooka wykonany na podstawie książki Bena Mezricha Miliarderzy z przypadku (ang. The Accidental Billionaires). Światowa premiera miała miejsce 24 września 2010. Film otrzymał wiele nagród, w tym trzy Oscary (za scenariusz adaptowany, montaż i muzykę) i cztery Złote Globy. Film nie przedstawia jednak prawdziwych scen z życia bohaterów ani nie ukazuje faktycznych relacji między nimi.
+
+
+== Facebook dla programistów ==
+Facebook dostarcza także API dla swojego portalu, dzięki czemu programiści mogą wykorzystywać funkcjonalności portalu w swoich aplikacjach. Dostępne są SDK dla wielu języków i platform:
+
+Android
+C#
+iPhone
+Java
+JavaScript
+PHP
+Python.Dodatkowo istnieje SDK dla języka C#, dzięki czemu możliwe jest pisanie aplikacji w tym języku dla różnych platform, które wspiera .NET Framework:
+Facebook C# SDK.
+Facebook udostępnia także LikeBoxy i inne pluginy, które można dodać do treści innych stron.
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+Strona główna Facebook

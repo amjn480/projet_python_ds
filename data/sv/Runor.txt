@@ -1,0 +1,146 @@
+Runor är skrivtecken som uppstod århundradena efter Kristi födelse och brukades av germaner. "Runraden" kallas futhark på grund av de sex första runornas ordningsföljd: ᚠᚢᚦᚬᚱᚴ (jämför alfabet). De äldsta runfynden härrör från det sena 100-talet e.Kr. Flera olika runrader användes för olika språk, och vissa runtecken införlivades även i varianter av det latinska alfabetet, vilket allteftersom (i Norden på 1000–1200-talet) ersatte runorna, även om spridda bruk av dessa länge levde kvar på sina håll – i Dalarna skrevs det exempelvis runor ända in på 1800-talet. Runorna fick också en renässans på 1600-talet genom Johannes Bureus som bland annat tryckte en lärobok med runor för skolbruk.
+Samtliga runinskrifter, såväl inom Norden – några också i Finland, nära den svenskspråkiga byn Vörå i Österbotten – som utanför, men än så länge med undantag för dalruneinskrifterna, samlas i Samnordisk runtextdatabas. Runfynd har gjorts från Sydeuropa ända upp till Lappland och Ryssland, men förekommer rikast inom Mälardalens runstenar. Ett par ytterst tveksamma fall har upptäckts i Nordamerika, däribland den uppmärksammade Kensingtonstenen. Runor finns främst bevarade som inskrifter på stenar, men också på ben och trä samt på runbleck som är små metallbleck av koppar, brons eller bly med inristade runor. 
+Runliknande skrivtecken har använts bland de uraliska folken, men med undantag för ungerska runor (székely rovásírás) brukar dessa inte kallas för eller klassas som runor.
+
+
+== Runornas ursprung ==
+Mycket litet är känt om runradens ursprung, men sannolikt är den inspirerad av något eller några av de klassiska alfabeten, såsom det grekiska, latinska eller etruskiska. De olika runtecknen stämmer i många fall överens med bokstäver i klassiska alfabet. Runorna tros ursprungligen ha utformats för att ristas i trä. En sak som tyder på det är att det inte finns några vågräta linjer i runtecknen; dessa skulle i så fall ha gått längs träets fibrer och blivit svårlästa.
+En sen hypotes av John Troeng är att åtminstone fem runors utseende eventuellt skulle kunna associerats med arameisk-semitiska nabateiska tecken, vilket då skulle förklaras med att runorna fördes upp till Skandinavien av före detta romerska trupper av blandat ursprung som bosatte sig intill vad som motsvarar dagens Danmark, och som upprättat handel vid sidan av att införa runorna.
+
+
+== Äldre runor (urgermanska runor) ==
+Äldsta varianten av runor innehåller 24 tecken och de äldsta fynden är från det senare 100-talet e.Kr. Denna runrad utbredde sig över hela det germanska språkområdet, men har speciella koncentrationer i Tyskland, Danmark och Sverige. Den gotländska Kylverstenen är det äldsta fyndet av en fullständig urgermansk futhark. Futharken är indelad i tre "ätter":
+
+Varje runas namn började med inledningsbokstaven utom femtonde och tjugoandra runorna (algiz och iŋwaz) vars ljud aldrig förekom i början av ord. Symboler som θ eller þ uttalades som i engelskans that eller thing och motsvaras av "d" eller "t" i nusvenska. Det finns över 300 bevarade inskrifter med denna futhark varav de äldsta är inskriptioner på små föremål som vapen och smycken.
+
+
+=== Gotiska runor ===
+
+Se även: Wulfila
+Gotiska runinskrifter använder en klassisk 24-stavig futhark. I den gotiska kulturkretsen ersattes den 24-staviga futharken med det Gotiska alfabetet (huvudsakligen baserad på grekiska alfabetet) direkt utan mellansteg. Vissa tecken i det gotiska alfabetet har dock ett utseende som direkt verkar ha inspirerats av runor, främst uraz av uruz och fe ur fehu.
+
+
+=== Anglofrisiska runor ===
+En utvidgad runskrift, anglofrisiska eller anglosaxiska runor, med 28 tecken (senare utvidgat till 33), brukades från 400-talet och spreds senare till England. Inskrifter med dessa runor finns mest i Storbritannien, och futharken återfinns bland annat på Themsensvärdet, Codex Vindobonensis 795 och Cotton MS Otho B (†).
+
+
+=== Markomanniska runor ===
+I De Inventione Litterarum, en text som enligt Benediktermunken Hrabanus Maurus baserar sig på källor från 700-800-talets karolingska rike, finns ett runalfabet bevarat som av hävd brukar kallas det markomanniska, även om det inte finns någon direkt koppling till markomannerna. Runalfabetet består till synes av en blandning av äldre germanska och anglosaxiska runor. Alfabetet brukar antas vara ett tidigt försök att hitta runor ekvivalenta till det latinska alfabetets bokstäver. 
+
+
+== Yngre runor (skandinaviska runor) ==
+Huvudartikel: FutharkDe yngre runorna är de "vanliga runorna" som användes under vikingatiden. De återfinns i Skandinavien och i områden från fornnordiska bosättningar från 800-talet fram till medeltiden. De består av en reducerad version av den 24-typiga futharken och innehåller 16 tecken. Detta innebär att många av runorna fick representera flera olika fonem. Att runraden blivit kortare och inte längre är på sätt och vis en paradox då de nordiska språken vid denna tid fått in många nya ljud som inte kunde skrivas med den gamla 24-staviga runraden. Det finns mycket få inskrifter från övergångstiden mellan äldre och yngre runraden vilket gör det svårt att säga hur övergången skett. Det finns två varianter av runorna, långkvistrunor (normalrunor) och kortkvistrunor.
+Långkvistrunor eller normalrunor (kallas ibland missvisande danska runor) brukades sannolikt från 800-talet och framåt i Danmark, senare även i Sverige. Inskrifter finns på bland annat Görlevstenen. Kortkvistrunor (ibland felaktigt kallade svensk-norska runor) brukades sannolikt under 800-talet i det som idag är Sverige och Norge. Inskrifter finns på bland annat Rökstenen som har världens längsta runinskrift.
+Långkvistrunorna är de vanligast förekommande på runstenar. De användes antagligen som en mer högtidlig form på exempelvis minnesmärken medan kortkvistrunor användes för att skriva vardagliga meddelanden som ristades i trä. Det finns nästan 3 000 inskrifter med yngre runraden i Sverige varav de flesta är från år 950–1100.
+
+
+== Medeltida runor ==
+Under medeltiden utvecklades en modifierad runrad med bland annat stungna runor. Denna runrad kallades för medeltida futhork, snarare än futhark, då den fjärde runan ᚮ nu gjorde ett o-ljud. Syftet med den nya runraden var att man skulle kunna återge alla relevanta fonetiska ljud som fanns i språket vid denna tid och att kunna återge de icke-fonetiska latinska tecknen c, q och z. Se även Codex Runicus.
+Utökningen av antalet runor i den medeltida futhorken skedde genom modifieringar och splittringar av runor. Exempelvis kunde konsonantrunorna ᚴ,  ᛒ och ᚠ stå för både k/g, b/p och f/v i den yngre futharken. I den medeltida futhorken å andra sidan, kunde dessa runor "stingas" genom att lägga till en prick: ᚵ, ᛔ och ᚡ. Detta indikerade att de stod för sina sekundära fonem, i detta fallet /g/, /p/ och /v/. Via samma princip skapades även konsonantrunorna ᛑ (/d/) och ᚧ (/ð/) - men även vokalrunorna ᚤ (/y/) och ᛂ (/e/).Vokalrunorna utökades också på ett annat sätt: exempelvis kunde runan ᛅ/ᛆ i yngre futharken (där ᛅ var långkvistvarianten, ᛆ kortkvistvarianten) stå för både /a/ och /æ/-fonem. I den medeltida futhorken splittras denna runa i två, och ᛆ används endast för /a/ medan ᛅ endast används för /æ/. Via liknande princip splittrades ᚬ /ą/ till ᚮ (/o/) och ᚯ (/ø/). Den överflödiga runan ᛦ /R/ (som gjorde ett r-ljud, som på grund av språkförändringar blivit identiskt med r-ljudet ᚱ representerade) skiftades om till att representera y-ljudet på grund av sitt namn Yr - detta var särskilt vanligt i Norge, medan ᚤ var vanligare för samma ljud i Sverige och Danmark.De medeltida runorna ställdes emellanåt i alfabetisk ordning, istället för den typiska futharkiska ordningen, troligen på grund av det latinska alfabetets växande inflytande i Norden.
+Som vardagsskrift dominerade runorna under hela 1200-talet och in på 1300-talet innan de började ersättas av de latinska bokstäverna. På många håll fortsatte de dock att vara i bruk längre än så: på Gotland levde de kvar in på 1400-talet, på Öland finns en inskrift från 1540-talet som antyder att runorna ännu var i fullt bruk bland allmogen där. Särskilt länge levde bruket av runor kvar i Dalarna, se Dalrunor.
+Under medeltiden användes runor även som kalenderfunktion på trästavar, se runstav.
+
+
+== Andra typer ==
+Dalrunor är en form av runor som användes i norra Dalarna från 1500-talet fram till 1900-talets början. Stavlösa runor, även kallade hälsingerunor, är en variant av runskrift där huvudstavarna är bortrationaliserade, varpå skriften består av streck och punkter med olika lutning, längd och höjdplacering.
+En begreppsruna är en runa som enskilt har en betydelse via dess namn. Ett exempel är på Stentoftenstenen i Blekinge där man kan läsa "Hådulf gav j", där j-runan står för jara, vilket betyder god tillväxt.
+En bindruna består av ett flertal runor som satts samman på en gemensam stav.
+Lönnrunor är ett sätt att skriva runor så att man kan gömma textens innehåll (ett slags chiffer) för att ibland göra det svårt att läsa men ibland även för dekorationens skull. Två exempel på lönnrunor är isrunor och korsarmsrunor.
+Manuskriptarunor, av latinets 'runica manuscripta', kallas runor som skrivits med penna på pergament eller papper. Ett känt exempel på en hel handskrift i manuskriptarunor är Codex Runicus, Skånelagen.
+
+
+== Runliknande tecken ==
+Ungerska runor är inte besläktade med de germanska, men kallas ändå runor på grund av likheten med de germanska. Av vad som är känt är majoriteten skrifter med ungerska runor förstörda av Stefan I av Ungern (975–1038), eftersom de ansågs hedniska, men skriftsystemet brukades ända in till 1850-talet i Transsylvanien. 
+Orchonskrift, som är runliknande tecken av turkiskt ursprung, kallas ibland lite missvisande för "orchonrunor".
+
+
+== Magisk innebörd ==
+Runorna har inte bara tjänat som ett praktiskt sätt att kommunicera och ge människor möjlighet att bevara minnen, utan de har också haft en magisk innebörd. Själva ordet "runa" betyder ursprungligen "hemlighet" och "magiskt tecken". Runorna delar dessa tre egenskaper med alla alfabet som de anses härstamma från. Den magiska användningen av det grekiska alfabetet är dock relaterad till att dess bokstäver också användes för att representera tal. Liknande förhållande återfinns i viss utsträckning även i det romerska alfabetet.I vissa av de orientaliska mysteriereligioner som med tiden vann insteg bland romarna och tävlade med kristendomen i popularitet, spelade bokstävernas mystik en stor roll. Om detta vittnar inskrifter både på religiösa monument och på amuletter. Senantikens hela tankevärld var fylld av talmystik och bokstavsmagi. Därför vore det inte underligt om de germanska folken vid sin beröring med den romerska kulturen mottog starka intryck av denna mystik. Möjligen kan de också ha påverkats av de keltiska prästernas, druidernas, hemliga vetande och magiska konster. Vad runorna beträffar tyder redan deras namn på deras förbindelse med gudarnas eller demonernas värld. I den vanliga yngre runraden hette exempelvis runan ᚦ Þurs: turs eller jätte, ᚫ ås: gud, ᚼ hagall: hagel, ᚾ nauð: nödtvång, oundvikligt öde, ᛅ ar: äring, årsväxt, ᛋ sol. ᛏ bar guden Tyrs namn och ᛣ: yr betydde idegran, ett träd som sedan urminnes tid varit heligt hos germanerna. Dess ved ansågs som det verksammaste medlet mot häxeri. Idegranen var för nordliga länder vad cypressen var för Södern: ett träd som symboliserade livet efter döden.Varje runa ansågs stå i förbindelse med någon övernaturlig makt, ond eller god, och kunde därför brukas antingen till att gagna en själv och ens vänner eller till att skada ens fiender. Med runornas hjälp trodde man sig också kunna utforska framtiden.
+
+
+== Redovisning av runinskrifter ==
+Vikingatida runinskrifter brukar redovisas i tre steg:
+
+Inskrift: Inskriften redovisas precis som den står, men varje tecken byts ut mot sin latinska motsvarighet vilket kallas translitterering. Inskriften återges med fet stil och man kan välja ett annat skiljetecken mellan ord än det ursprungliga.
+Uttal: Det förmodade uttalet anges med kursiv stil. För detta används kunskaper i fornnordiska och kännedom om runstavningsregler.
+Betydelse: En översättning till nutidsspråk anges inom citationstecken. Man brukar dock behålla den ursprungliga ordföljden.
+
+
+=== Exempel ===
+Exempel på redovisning av inskrift, uttal och betydelse från Gripsholmsstenen:
+
+þaiʀ furu : trikila : fiari : at : kuliþæiR foru drængila fiarri at gulli"De foro manligen fjärran efter guld"Det 16-typiga futharken translittereras vanligen fuþãrk : hnias : tbmlʀ, men þ skrivs ibland som th (med risk för att läsaren tror att det är de två runorna t och h) och ã skrivs även o.
+
+
+== Unicode ==
+I Unicode (den framväxande teckenkodningen för alla världens skriftspråk) är sammanlagt 81 teckenkoder allokerade: 75 är runor, tre skiljetecken och resterande tre tecken som användes i runstaven (skandinaviska kalendern). Tecknen spänner över området 16A0–16FF (hexadecimalt). I nyare operativsystem, såsom Windows 7 och senare, stöds runor sannolikt direkt. Om inte de nedanstående tecknen syns behövs en unicodefont som stödjer runor, exempelvis Junicode, Free Mono, Caslon Roman, Code2000 eller Segoe UI Symbol.
+
+*Gyllentalen är tre ytterligare runor för att representera talen 17–19, utöver 1–16 som representeras av de 16 bokstäverna i yngre runraden.
+
+Yngre runraden i runbokstavsordning
+
+
+== Armanenrunor och modern runmagi ==
+
+
+=== Armanenrunorna och ariosofin ===
+Den yngre futharken inspirerade till en nyutvecklad sorts runmagi i början av 1900-talet, via framförallt den österrikiske ockultisten Guido von List (1848–1919). von List hävdade att han fått en sann uppenbarelse rörande runornas hemlighet under en ögonoperation. Från 1902 och fram till sin död arbetade han på sina armanenrunor och sitt så kallade "Armanentum", det vill säga en grupp av förkristna nordiska visa män som arbetade med det som kom att kallas ariosofi, en kombination av runmystik och rasistisk ockultism. Enligt von List var också armanernas viktigaste symbol swastikan, hakkorset. Detta i kombination med von Lists fascination för antisemitism skapade grogrunden för de extremt högerorienterade ockulta grupperna Thulesällskapet och Germanen Orden. 
+Guido von Lists 18-typiga runrad är till större delen baserad på den yngre futharken, med vissa namn och ljudvärden tagna från den anglosaxiska futhorcen.  De två sista runorna, Eh och Gibor, som lagts till den yngre futharken, är tagna från de anglosaxiska Eoh och Gyfu. Bortsett från dessa runor, och en flyttad man-runa (från nummer 13 till 15), är runsekvensen identisk med den yngre futharken. Runformerna är dock ibland spegelvända:
+
+Fa (överensstämmer med yngre futharkens motsvarighet)
+Ur (överensstämmer med yngre futharkens motsvarighet)
+Thurs (överensstämmer med yngre futharkens motsvarighet)
+Os (en spegelvänd version av yngre futharkens Os)
+Rit (överensstämmer med yngre futharkens motsvarighet)
+Ka (överensstämmer med yngre futharkens motsvarighet)
+Hagal (överensstämmer med yngre futharkens motsvarighet)
+Nauth (överensstämmer med yngre futharkens motsvarighet)
+Is (överensstämmer med yngre futharkens motsvarighet)
+Ar (överensstämmer med yngre futharkens kortkvistmotsvarighet)
+Sig (överensstämmer med yngre futharkens motsvarighet)
+Tyr (överensstämmer med yngre futharkens motsvarighet)
+Bar (överensstämmer med yngre futharkens motsvarighet)
+Laf (överensstämmer med yngre futharkens motsvarighet)
+Man (överensstämmer med yngre futharkens motsvarighet)
+Yr (överensstämmer med yngre futharkens motsvarighet men med ljudvärdet "i")
+Eh (namnet är taget från den anglosaxiska futhorken, runformen liknar yngre futharkens Ar)
+Gibor (namnet liknar den anglosaxiska futhorkens Gyfu)
+
+
+=== Runyoga, runmagi och ockultism ===
+Armanenrunor inspirerade efterföljaren Siegfried Adolf Kummer till sina idéer kring ett slags "runyoga", presenterad i Heilige Runenmacht (1932). Det är Kummers idéer som ligger till grund för många nutida runmagikers användande av armenanrunor. Kummer förstärkte bland annat von Lists rasistiska idéer och skapade en gruppering kallad "Sammanslutningen av osynliga arier". Det är troligt att Adolf Hitler fått mycket av sin nazisymbolinspiration från de ockulta grupperingarna i Wien, framförallt den "Kosmiska kretsen" kring antisemiten och ockultisten Alfred Schuler, som i München lanserade svastikan för Hitler. Exempel på runor är sowil/sól-runan som omtolkades till en "sig-runa" (seger-runa), och som därmed blev symbol för "striden, segern och solens kraft". Den har använts av bland annat SS och Svensk socialistisk samling. På liknande sätt har iwaz-runan omtolkats till "vargfälla" och mannaz/man-runan till "livet" och till "motstånd".Guido von Lists ariosofi och armanenrunor överlevde Andra världskriget och har visat sig populära inom nynazistiska ockultistiska grupper, och även hos Adolf Schleipfers Armanenorden 1976 och Jürgen Riegers Artgemeinschaft. Vissa andra nutida teoretiker, som Savitri Devi, Miguel Serrano och Karl Wiligut rubriceras ibland som ariosofiker. Ett svenskt exempel på överlevande ariosofi med runmagi är boken Nordisk magi av Karl Gungner (pseudonym för Åke Bylund) där det bland annat talas om utomjordiska arier – tankar som är besläktade med von Lists efterföljare, den nazistiske tänkaren Jörg Lanz von Liebenfels böcker. 
+Armanenrunorna genomgick också en reningsprocess efter andra världskriget, som gjorde att de kunde användas även av icke-nazistiska ockultister och new age-grupperingar.  Framför allt var Karl Spiesberger engagerad med att reformera runsystemet och rensa det från rasistiska drag av typen von List och Kummer. Spiesberger placerade hela runsystemet i ett "pansofiskt" eller "ecklesiastisk" kontext för att rädda det. På senare tid har Karl Hans Welz, Stephen E. Flowers, Adolf Schleipfer, Larry E. Camp och Victor Ordell L. Kasen fortsatt arbetet med att försöka lösgöra armanenrunorna från varje konnotation till rasism, antisemitism och de tänkare som faktiskt uppfann armanenrunorna.
+När det gäller runmagi inom new age och ockulta kretsar i ett internationellt perspektiv utövar armanenrunorna och arvet efter von List fortfarande störst inflytande.[källa behövs]
+
+
+=== Bureus, Agrell och New Age ===
+En annan, mindre spridd, linje av modern runmagi kan sägas utgå från dels Johannes Bureus runologiska idéer på 1600-talet kring en så kallad "Adulruna" och runkabbala, samt Sigurd Agrells uthark-teori från 1930-talet. Då dessa idéer i grunden saknar beröringspunkter med antisemitism och Guido von List har de blivit allt mer populära i ockulta New Age-kretsar som till exempel den svenska grupperingen Dragon Rouge, där grundaren Thomas Karlsson gett ut böcker kring både Bureus och Agrells runidéer (även på engelska). Till denna linje av runmagi hör även författaren Atrid Grimssons (pseudonym för Jörgen Eriksson) Runmagi och shamanism (1990) som bland annat utgår från Agrells uthark-teori och blandar den med healing och modern shamanism.
+
+
+== Se även ==
+Runologi
+Runstav
+Runsten
+Samnordisk runtextdatabas
+
+
+== Referenser ==
+
+
+=== Noter ===
+
+
+== Vidare läsning ==
+Jansson, Sven B. F (1987). Runes in Sweden / translation: Peter Foote ; photo: Bengt A. Lundberg.. ([Ny, bearb. utg.]). Stockholm: Gidlund. Libris 8kjbwdkf6mkt4lcj. https://litteraturbanken.se/forfattare/JanssonSBF/titlar/RunesInSweden/info 
+Hugo Pipping (1933), Gömda bindrunor / Hugo Pipping., Skrifter utgivna av Svenska litteratursällskapet i Finland, Helsingfors, Wikidata Q113519054, ISSN 0039-6842, https://urn.fi/urn:NBN:fi-fd2019-00022112 
+
+
+== Externa länkar ==
+”Äldre skrivtecken”. Suecia antiqua et hodierna, första bandet. Kungliga biblioteket. https://suecia.kb.se/F/?func=find-c&ccl_term=wso+%3D+asaml&local_base=sah. 
+Brates, Erik (1928) Sveriges runinskrifter. Projekt Runeberg
+Görnasson, Johan (1750) Bautil, det är: alle Svea ok Götha rikens runstenar via Sveriges depåbibliotek
+Runskrift hos Riksantikvarieämbetet
+Looijenga, J.H. (1997). ”Runes around the North Sea and on the Continent AD 150–700”. Universitetet i Groningen. http://irs.ub.rug.nl/ppn/163895791. 
+C-uppsats om de tidigaste svenska runblecken (PDF-format)
+Almer, David (21 januari 2010) Överlevande dödsrunor, om runpoesi i Aorta nr. 20–21
+Hemsida för transkribering till runor

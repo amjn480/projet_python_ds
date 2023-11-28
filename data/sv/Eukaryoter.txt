@@ -1,0 +1,21 @@
+Eukaryoter (Eukaryota) är en av de tre domäner som organismer delas in i enligt modern systematik. En eukaryot är alla celler eller organismer med en definierad cellkärna. Den eukaryotiska cellen har ett tunt lager membran vilket kretsar kring cellkärnan och separerar den från cytoplasman. Cellkärnan innehåller organismens DNA (arvsmassa) organiserade i kromosomer.Eukaryoter omfattar traditionellt rikena djur, växter, svampar, samt protister, vilket i själva verket är en samlingskategori för eukaryoter som ej passar in i övriga riken. Eukaryoterna kontrasteras mot prokaryoterna (bakterier och arkéer), vilka saknar cellkärna och andra komplexa cellstrukturer. Virus är biologiska enheter som parasiterar på celler och faller utanför denna klassifikation.[källa behövs]Ordet är bildat av grekiskans εὖ (eu, ’god’, ’äkta’) och κάρυον (karyon, ’nöt’, ’kärna’) vilket syftar på cellkärnan.[källa behövs]
+
+
+== Ursprung ==
+De äldsta fossilen av eukaryoter är 1,8–1,9 miljarder år gamla och har hittats i Kina, och rimligtvis ligger eukaryoternas ursprung ytterligare något längre tillbaka i tiden, kanske så mycket som tre miljarder år sedan.
+
+Det finns flera olika hypoteser om exakt hur den eukaryota cellen först utvecklades.  Inslag av endosymbios, det vill säga att flera olika bakterier gick ihop till en gemensam cell, är ett framträdande inslag i de flesta hypoteser; se endosymbiontteorin. Vad gäller mitokondrier och kloroplaster är endosymbiosen välbelagd och det har i båda fallen gått att identifiera, vilken bakterie som inkorporerats (α-proteobakterier respektive cyanobakterier).  Vad gäller cellkärnan är osäkerheten stor och ingen hypotes är allmänt accepterad. Ett endosymbiotiskt ursprung för cellkärnan utgår från en prokaryot, vars cellmembran veckas inåt till dess att det omslutit arvsmassan och bildat kärnmembran och endoplasmatiskt nätverk. Andra prokaryota bakterier med effektiv energiproduktion och cyanobakterier med fotosyntes tränger in i cellen och drar med sig lite av cellmembranet, vilket förklarar att mitokondrien och kloroplasten har dubbla membran. Mitokondrien, ribosomen och andra organeller började fungera tillsammans. Både mitokondrien och kloroplasten har egen arvsmassa och kopieras självständigt.
+Eukaryoter utvecklade meios, sexuell reproduktion, för cirka 1,2 miljarder år sedan, och det var då evolutionstakten exploderade.[källa behövs]
+
+
+== Systematik ==
+Domänen eukaryoter (Eukaryota) har traditionellt indelats i fyra riken (med prokaryoterna i ett eget rike):
+
+Djur (Animalia)
+Svampar (Fungi) räknas numera till ett eget rike.
+Växter (Plantae); ormbunkar och mossor är kvar i växtriket tillsammans med blomväxter och barrträd.
+Protister (Protista)Denna indelning är dock föråldrad, och motsvarar inte de faktiska släktskapsförhållandena. Senare arbete, främst med dna-data, pekar snarare på en indelning i fem supergrupper även om alla detaljer mellan och inom grupperna inte är helt klarlagda:
+Därutöver har det föreslagits att eukaryoter kan klassificeras i två större grupper, Unikonta och Bikonta, som härstammar från organismer med en respektive två flageller.  I det här systemet är ophistokonter och amöbor (Amoebozoa) unikonter, och resten är bikonter.
+
+
+== Referenser ==

@@ -1,0 +1,101 @@
+Pioneer 11 (ook bekend as Pioneer G) is 'n onbemande ruimtetuig van  260 kg wat op 6 April 1973 deur NASA gelanseer is om die asteroïdegordel, die omgewing om Jupiter en Saturnus, sonwind en kosmiese strale te ondersoek. Die ruimtetuig is deel van die Pioneer-program. Dit was die eerste ruimtetuig wat Saturnus verken het en die tweede wat deur die asteroïdegordel gevlieg en Jupiter verken het.
+Hierna het Pioneer 11 slegs die tweede van vyf kunsmatige voorwerpe geword wat 'n voldoende spoed bereik het om uit die sonnestelsel te ontsnap. Die laaste amptelike roetinekommunikasie met die ruimtetuig was op 30 September 1995 en die laaste bruikbare ingenieursdata is op 24 November 1995 ontvang. Die rede hiervoor is dat die ruimtetuig kragbeperkings het en die afstand van die Aarde af net te groot geraak het.
+
+
+== Agtergrond van die sending ==
+
+
+=== Geskiedenis ===
+Die twee ruimtetuie Pioneer 11 en sy tweeling, Pioneer 10, se sendings is in Februarie 1969 goedgekeur. Hulle is die eerste ruimtetuie wat ontwerp is om die diepruimte te verken. Die sendingsdoelwitte is die gevolg van verskeie voorstelle en idees wat gedurende die 1960's bespreek is, en die eerste doelwitte is as volg uiteengesit:
+
+Verken die interplanetêre ruimte anderkant Mars se wentelbaan.
+Ondersoek die samestelling van die asteroïdegordel vanuit 'n wetenskaplike oogpunt en bepaal die gordel se moontlike risiko vir ander sendings na die buiteplanete.
+Verken die atmosfeer en omgewing van Jupiter.Ná verdere beplanning is nog meer doelwitte geïdentifiseer:
+
+Karteer die magneetveld van Saturnus en bepaal sy intensiteit, rigting en struktuur.
+Bepaal hoeveel elektrone en protone van verskillende energieë voorkom in die baan wat die ruimtetuig deur die Saturnus-stelsel volg
+Bepaal en karteer die interaksie van die Saturnusstelsel met sonwind.
+Meet die temperatuur van Saturnus se atmosfeer asook dié van Titaan, Saturnus se grootste maan.
+Ontleed en bepaal die struktuur van die boonste atmosfeer van Saturnus waar die molekules na verwagting elektries gelaai sal wees en 'n ionosfeer sal vorm.
+Ontleed en karteer die termiese struktuur van Saturnus se atmosfeer met behulp van infrarooiwaarneming en integreer dit met radio-okkultasiedata.
+Verkry tolskanderingsfoto's in twee kleure, asook polarimetrie-meetings van Saturnus in verbyvlug.
+Verken die ringstelsel en die atmosfeer van Saturnus met S-band-radio-okkultasie.
+Bepaal die massa van Saturnus en sy groter mane meer akkuraat deur die effek wat hul gravitasievelde op die ruimtetuig se beweging het waar te neem.
+Die tuig moes benewens die vlak van die ringe ondersoek instel na waar dit veilig deurkruis kan word deur die latere Voyager-program se ruimtetuie sonder om ernstige skade te ondergaan.Pioneer 11 is gebou deur Trw Inc. en bestuur deur die NASA Ames Research Center as deel van die Pioneer-program. 'n Bystandeenheid, Pioneer H, is ook gebou en word tans uitgestal in die "Milestones of Flight"-afdeling van die Nasionale Lug- en Ruimtemuseum in Washington, D.C.. Baie gedeeltes van die Pioneer 11-sending was kritiek vir die beplanning van die Voyager-program.
+
+
+=== Ruimtetuigontwerp ===
+Die ruimtetuig se romp is in die vorm van 'n seskant, 36 cm diep, waarvan die kantpanele 76 cm lank is. Die romp het die aandrywingsmiddel bevat wat nodig was om die ruimtetuig se oriëntasie asook agt van die twaalf wetenskaplike instrumente te bedryf. Die ruimtetuig weeg 260 kg.
+
+
+=== Posisiebeheer en aandrywing ===
+Oriëntasie en posisiebeheer van die ruimtetuig is verskaf deur ses 4,5 N-stuwers, aangedryf deur die monodryfmiddel hidrasien. Een paar stuwers het 'n konstante tolspoed van 4,8 rewolusies per minuut verseker; een paar het voorwaartse aandrywing voorsien en die ander paar posisiebeheer. Inligting vir oriëntasie is verkry deur die skandering van die aarde se posisie in sy wentelbaan, 'n sensor wat die ster Canopus monitor en twee sensors wat die son se posisie monitor.
+
+
+=== Kommunikasie ===
+Die ruimtetuig is toegerus met oortollige sendontvangerstelsels; die een is geheg aan die hoëwins-antenne en die ander aan die omnigerigte- en mediumwinsantenne. Elke sendontvanger se vermoë is 8 watt en ontvang data oor die S-band met die 2 110 MHz-frekwensie vanaf die Aarde en stuur data met die 2 292 MHz-frekwensie na die Aarde wat ter plaatse deur NASA se Diepruimtenetwerk gemonitor is. Net voor data deur die tuig versend is, het dit konvolusiekoderingstegnieke gebruik om foute in die ontvangde data op Aarde te korrigeer.
+
+
+=== Krag ===
+
+Daar is vier SNAP-19-radioisotoop-termo-elektriese generators aan boord wat die sondeerder van krag voorsien. Hulle is geheg aan twee driestaafbalke, elk drie meter lank en 120 grade uit mekaar.  Dit word beskou as 'n veilige afstand vanaf die sensitiewe wetenskaplike toerusting aan boord wat eksperimente moes uitvoer. Die gekombineerde krag tydens lansering was 155 W en dit het later afgeneem tot 140 W tydens die tog na Jupiter. Die ruimtetuig benodig 'n minimum van 100 W om al die stelsels aan te dryf.
+
+
+=== Rekenaar ===
+Die meeste van die verwerking vir die sending is op Aarde gedoen en dan na die ruimtetuig versend, waar dit in die tuig se geheue gestoor is: tot vyf instruksies van 'n moontlike 222 wat deur die beheerstelsel aangewend kon word. Daar was twee instruksiedekodeerders aan boord van die ruimtetuig asook 'n instruksieverspreidingseenheid en 'n eenvoudige verwerker om hierdie aktiwiteite te beheer. Met hierdie stelsel moes die sendingoperateurs instruksies lank voor die tyd voorberei voordat dit na die ruimtetuig versend is. Daar was 'n datastoorfasiliteit aan boord met 'n vermoë van 6 144 grepe waar data van die verskillende instrumente gestoor kon word. Die digitale telemetrie-eenheid het dan die gestoorde data voorberei voor dit in een van dertien formate na die Aarde gestuur is.
+
+
+=== Wetenskaplike instrumente ===
+Pioneer 11 het een meer instrument as Pioneer 10 aan boord gehad: 'n vloedhek-magnetometer.
+
+
+== Sendingprofiel ==
+
+
+=== Lansering en baan ===
+Die Pioneer 11-ruimtetuig is op 6 April 1973 om 02:11:00 UTC lanseer deur NASA vanaf die Amerikaanse Lugmag se Kaap Canaveral-ruimtestasie: lanseerplatform 36A aan boord van 'n Atlas-Centaur-vuurpyl met 'n Star 37E-aandrywingsmodule. Die tweelingtuig, Pioneer 10, is reeds 'n jaar vroeër, op 3 Maart 1972, lanseer.
+Pioneer 11 is lanseer in 'n baan wat direk op Jupiter gemik was sonder dat swaartekragslinger gebruik is. In Mei is die ruimtetuig se roete aangepas om verby Jupiter te vlieg op 'n noord-suidbaan wat 'n verbyvlug van Saturnus in 1979 moontlik sou maak. Hierdie aanpassing het sewentien pond aandrywingsmiddel gebruik, het 42 minute en 36 sekondes geneem en Pioneer se snelheid met 230 km/h vermeerder. Daar is ook twee aanpassings in die middel van die tog gedoen, naamlik op 11 April 1973 en 7 November 1974.
+
+
+=== Verbyvlug van Jupiter ===
+Pioneer 11 het in November en Desember 1974 verby Jupiter gevlieg. Op 2 Desember was dit die naaste aan Jupiter, en het dit 42 828 km bo die wolke verbygevlieg. Die ruimtetuig het detailbeelde van die Groot Rooi Vlek na die aarde gestuur, benewens die eerste beelde van die ontsaglike poolgebiede. Dit het ook die massa van Jupiter se maan Kallisto bereken. Deur die swaartekragslinger-tegniek by Jupiter in te span, is die baan van die ruimtetuig verander en die snelheid vermeerder om na Saturnus te gaan. Op 16 April 1975 is die meteoroïde-detektorinstrument afgeskakel.
+
+
+=== Verbyvlug van Saturnus ===
+Op 1 September 1979 het Pioneer 11 verby Saturnus gevlieg op 'n afstand van 21 000 km bo die wolke. Teen daardie tyd was Voyager 1 en Voyager 2 reeds verby Jupiter en ook op pad na Saturnus. Daar is besluit dat Pioneer 11 deur die ringe van Saturnus moes vlieg in dieselfde oriëntasie as wat die Voyager-ruimtetuie binnekort moes doen om die roete te toets. Indien daar fyn ringdeeltjies was wat die ruimtetuie kon beskadig, was dit beter volgens die sendingbeplanners om dit met Pioneer 11 te bepaal. Pioneer 11 het dus pionierswerk in die ware sin van die woord verrig. As die risiko te groot was, kon die Voyager-ruimtetuie verder weg van die ringe herlei word, maar dan sou hulle die geleentheid om Uranus en Neptunus te besoek, misloop.
+Pioneer 11 het 'n beeld geneem van een van Saturnus se kleiner mane, waarteen dit amper gebots het. Dit het verby die maan gevlieg op 'n afstand van 4 000 km. Die maan is voorlopig geïdentifiseer as Epimetheus, 'n maan wat net die vorige dag op die beelde van Pioneer 11 ontdek is, alhoewel 'n vermoede van die bestaan daarvan reeds deur waarnemings met aardteleskope verkry is. Ná die Voyager-ruimtetuie se verbyvlugte het dit aan die lig gekom dat daar twee min of meer ewe groot mane is. Epimetheus en Janus het naamlik dieselfde wentelbaan en daar was onsekerheid oor watter maan die ruimtetuig byna getref het. Pioneer 11 het op 1 September 1919 om 14:52 UTC op 'n afstand van 2 500 km verby Janus en om 16:20 op dieselfde dag op 'n afstand van 103 000 km verby Mimas gevlieg.
+Benewens Epimetheus, het die ruimtetuig se instrumente ook nog 'n ander klein en tot dusver onbekende maan ontdek en 'n addisionele ring. Saturnus se magnetosfeer en magneetvelde is gekarteer en daar is bevind dat Saturnus se groot maan, Titaan, te koud is vir enige lewe. Die ruimtetuig het ook foto's van Saturnus se ringe gestuur wat van die onderkant afgeneem is. Die ringe, wat normaalweg helder van die aarde af voorkom, het nou donker op die foto's vertoon, en die gapings tussen die ringe wat van die aarde af donker voorkom, het nou helder vertoon.
+
+
+=== Interstellêre sending ===
+Op 25 Februarie 1990 het Pioneer 11 die vierde mensgemaakte voorwerp geword wat verby die wentelbane van die planete gevlieg het.
+
+
+=== NASA beëindig die sending ===
+Teen 1995 kon Pioneer 11 nie meer krag aan al die detektors lewer nie en die besluit is geneem om hulle af te skakel. Op 29 September 1995 het NASA se Ames-navorsingsentrum – hulle was verantwoordelik om die projek te bestuur – 'n persverklaring uitgereik wat soos volg gelui het: "After nearly 22 years of exploration out to the farthest reaches of the Solar System, one of the most durable and productive space missions in history will come to a close."
+Die verklaring het aangedui dat NASA tot iewers in 1996 hul diepruimte-netwerkantennes sal gebruik om een of twee keer per maand met die ruimtetuig te probeer kontak maak, waana sy sender heeltemal stil sou raak. Die NASA-administrateur Daniel Goldin het Pioneer 11 so opgesom: "the little spacecraft that could, a venerable explorer that has taught us a great deal about the Solar System and, in the end, about our own innate drive to learn. Pioneer 11 is what NASA is all about – exploration beyond the frontier." Behalwe die persverklaring het NASA ook 'n historiese opgawe beskikbaar gestel van al die mylpale wat Pioneer 11 tydens die sending behaal het. NASA het roetine-kontaksessies met die ruimtetuig op 30 September 1995 beëindig, maar voortgegaan om kontak te maak vir twee uur elke twee tot vier weke. Die wetenskaplikes het op 24 November 1995 'n paar minute van goeie ingenieursdata van die ruimtetuig ontvang, maar toe finaal kontak verloor toe die aarde uit die antenne se gesigsveld verdwyn het. In 2002 het die sein te swak geword en kon dit nie meer opgevang word nie.
+
+
+== Huidige status ==
+Op 30 Januarie 2019 was Pioneer 11 altesaam 100,84 AE (1,5085×1010 km) vanaf die aarde en 100 AE (1,5×1010 km) vanaf die son terwyl dit teen 'n snelheid van 2,37 AE per jaar weg van die son beweeg. Tans beweeg dit in die rigting van die sterrebeeld Skild in sy huidige posisie regte klimming 18h 50 m deklinasie -8° 39.5' (J2000), wat (op die oog af) naby Messier 26 is. In 928 000 jaar sal dit binne 0,25 parsek van die K-tipe dwergster TYC 992-192-1 verbybeweeg.Pioneer 11 is intussen deur albei Voyagerruimtetuie, wat in 1977 gelanseer is, verbygesteek. Voyager 1 is tans die verste mensgemaakte voorwerp van die aarde af.
+
+
+== Pioneer-onreëlmatigheid ==
+'n Ontleding van die data ontvang oor die radio's van die Pioneer 10- en 11-ruimtetuie, op afstande van 20-70 AE vanaf die son, het aangedui dat die seine aan 'n klein onreëlmatige frekwensiedwaling onderhewig was weens die Doppler-effek. Die dwaling kan vertolk word as die gevolg van die konstante versnelling van die ruimtetuig van (8,74 ± 1,33) × 10-10 m/s2 direk na die son. Daar is eers vermoed die verskynsel is toe te skryf aan statistiese oorsake, maar dit kon nie bewys word nie. As gevolg hiervan het die belangstelling in hierdie Pioneer-onreëlmatigheid gegroei. Ná verdere ontleding van die sendingdata deur Slava Turyshev en sy kollegas het hulle vasgestel dat die bron van die onreëlmatigheid veroorsaak is deur asimmetriese termiese uitstraling en dat dit 'n resulterende termiese terugwenkrag het wat ingewerk het op die kant van die Pioneer-ruimtetuie wat weg van die son wys. In Julie 2012 het die groep navorsers hul resultate in die Physical Review Letters wetenskaplike joernaal gepubliseer.
+
+
+== Pioneer-plaat ==
+Albei Pioneer-ruimtetuie het 'n vergulde aluminiumplaat aan boord ingeval die tuie deur intelligente lewe van ander planetêre stelsels gevind word. Hulle wys die naakte figure van ’n man en vrou asook verskeie simbole wat inligting oor die oorsprong van die tuie verskaf.
+
+
+== Gedenking ==
+In 1991 is Pioneer 11 vereer op een van die tien Amerikaanse Posdiens se seëls wat die onbemande ruimtetuie gedenk wat die (toe nog) nege planete en die maan besoek het. Pioneer 11 het saam met Jupiter op die seël verskyn. Pluto was toe gelys as nog nie verken nie.
+
+
+== Galery ==
+
+
+== Nota ==
+
+
+== Verwysings ==

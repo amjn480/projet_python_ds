@@ -1,0 +1,59 @@
+Den här artikeln innehåller opinionsmätningar inför riksdagsvalet i Sverige 2026.
+
+
+== Trend ==
+Nedan visas utvecklingen av skillnaden mellan blocken. Siffrorna är från Poll of Polls sammanvägningar av flera opinionsundersökningar.
+
+
+== Sammanvägningar ==
+Summamätningarna nedan utgår från
+
+Poll of polls: Ipsos, Novus, Sifo, Demoskop, Sentio, Indikator (sedan juni 2023) och SCB, 40 dagar bakåt och vägning
+Svensk väljaropinion: Ipsos, Novus, Sifo. När mätningar skett över månadsskifte fördelas intervjuerna jämnt över intervjuperioden. 
+Mätningarnas mätning: Ipsos, Novus, Sifo, Demoskop och SCB. Vägning där nyare väger tyngre än äldre 
+
+
+== Opinionsundersökningar ==
+
+
+=== Verian (fd Kantar Sifo) ===
+”Vilket parti skulle du rösta på i riksdagsvalet om det vore val i dag?”'
+Från februari 2023 enbart intervjuer via webbpanel omfattande cirka 100 000) ett slumpmässigt urval väljs ut (innan dess både intervjuer och webbpanel). Vanligen 4 000 till 6 000 medverkande. (från juni färre kring 3000)
+
+
+=== Novus ===
+”Vilket parti skulle du rösta på i riksdagsvalet om det vore val i dag?”
+Insamling genom intervjuer via telefonsamtal, SMS och post. Vanligen 3 000–4 000 medverkande. 
+
+
+=== Ipsos ===
+”Om det var val till riksdagen idag, vilket parti skulle du då rösta på?” (Om respondenten inte svarar, ställs följdfrågan ”Vilket parti lutar det mest mot för dig?”.)Insamling genom intervjuer via telefonsamtal, intervjuer via sms-länk till en webbenkät samt digitala intervjuer med ett kvoturval från en slumpmässigt rekryterad webbpanel. Vanligen omkring 1 600 medverkande.
+Partiernas andel presenteras av IPSOS och DN i heltal, även om de internt har värden angivna med en decimal. Detta innebär att summa per block och diff, som av IPSOS/DN räkans ut utifrån värden med decimal, inte behöver vara summan av visade värden. Detaljsidan från Ipsos visar sedan skillnaden per parti gentemot föregående mätning med decimals noggrannhet, vilket det går att rekonstruera de värden med decimal som de har haft som bas
+
+
+=== Indikator ===
+Vilket parti skulle du rösta på om det var riksdagsval idag?
+Insamling genom postal enkät. Vanligen drygt 2 000 medverkande.
+
+
+=== Demoskop ===
+Vilket parti skulle du rösta på om det var riksdagsval idag?
+Insamling genom webbundersökning där urvalet är pre-stratifierat och vägt på ålder, kön, region och parti i föregående val. Vanligen drygt 2 000 medverkande.
+
+
+=== SCB ===
+Vilket parti skulle du rösta på om det var riksdagsval någon av de närmaste dagarna
+Svaren samlades in genom telefonintervjuer (både mobila och fasta telefoner) och via webbenkät.  Omkring 9 000 medverkande.
+
+
+=== Skop ===
+Vilket politiskt parti tycker du bäst om i rikspolitiken?
+Insamling genom urval av en webbpanel. Vanligen omkring 1 000 medverkande.
+
+
+=== Sentio ===
+Använder webbpanel med deltagare som självrekryterats. Metodiken anses vara bristfällig av valforskningsprogrammet hos Göteborgs universitet (Mätningarnas mätning) och de inkluderar därför inte Sentio i sina sammanvägningar. 
+Vanligen drygt 1 000 medverkande, vilket är en låg siffra jämfört med andra institut.
+
+
+== Referenser ==

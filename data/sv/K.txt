@@ -1,0 +1,45 @@
+K [kå] är den elfte bokstaven i det moderna latinska alfabetet.
+
+
+== Betydelser ==
+
+
+=== Versalt K ===
+Blekinge län
+grundämnet kalium
+en atoms innersta elektronskal
+Kelvin, temperaturenhet
+K (bok av Mario Puzo), en bok av Mario Puzo
+K (bok av Katarina Frostenson), en bok av Katarina Frostenson
+Nationalitetsbeteckning för motorfordon från Kambodja
+K (SAB), bibliotekssignum för historia
+Artistnamn för en medlem i musikgruppen Moi dix Mois
+Den statistiska kategorin Strikeout i baseboll.
+K; en anime som sändes 2012.
+
+
+=== Gement k ===
+Vågtal i ekvationer
+Boltzmanns konstant
+kilo, en måttprefixenhet som står för 1000
+tonlös velar klusil, en typ av konsonantljud
+Förkortningen för ok/okej i chattspråk
+
+
+== Historia och användning ==
+Bokstaven "K" härstammar från den grekiska bokstaven kappa, som i sin tur härstammar från den feniciska bokstaven "kap", vilken ursprungligen skulle föreställa en handflata. Bokstaven "K" föll dock snart ur bruk i latinet. K-ljudet skrevs sedan oftast med bokstaven C, och "Karthago" och "Kalendae" är de enda ord, som brukar stavas med K i latinsk text. Senare kom dock bokstaven "K" att återupplivas, så att den kunde beteckna k-ljud i de germanska språken. I bland annat svenska, norska, danska och tyska stavas i regel ord med k-ljud med bokstaven K, till skillnad från andra språk som normalt stavar ord med k-ljud med bokstaven C (i engelskan används dock K i ord med k-ljud framför mjuk vokal).
+I svenskan, där bokstaven K i vissa fall används för att beteckna ett tj-ljud, uttalas bokstaven K normalt endast "k" framför hård vokal (a, o, u och å) medan den (med ett fåtal undantag) uttalas "tj" framför mjuk vokal (e, i, y, ä och ö) och bokstaven J (i bokstavskombinationen "kj" som i kjol).
+
+
+== Datateknik ==
+I datorer lagras K samt förkomponerade bokstäver med K som bas och vissa andra varianter av K med följande kodpunkter:
+
+I ASCII-baserade kodningar lagras K med värdet 0x4B (hexadecimalt) och k med värdet 0x6B (hexadecimalt).
+I EBCDIC-baserade kodningar lagras K med värdet 0xD2 (hexadecimalt) och k med värdet 0x92 (hexadecimalt).
+Övriga varianter av K lagras med olika värden beroende på vilken kodning som används, om de alls kan representeras.
+
+
+== Referenser ==
+
+
+=== Noter ===

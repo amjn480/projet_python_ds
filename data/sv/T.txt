@@ -1,0 +1,36 @@
+T [te] är den tjugonde bokstaven i det moderna latinska alfabetet.
+
+
+== Betydelser ==
+
+
+=== Versalt T ===
+tesla, en måttenhet för magnetiskt flöde.
+storheten temperatur i fysikaliska formler.
+nationalitetsbeteckning för motorfordon från Thailand.
+tera, SI-prefix för faktorn 1012.
+länsbokstav för Örebro län.
+I Stockholm används ett versalt T för att markera en station i Stockholms tunnelbana. I Boston finns en liknande markering vid tunnelbanestationerna, men där står T:et för "transportation".
+Farkostteknikinriktningen på Kungliga Tekniska högskolan (KTH), Stockholm.
+Inom de svenska bibliotekens klassifikationssystem SAB är T signum för  matematik, se SAB:T.
+Namn på en specifik kroppsform på en elgitarr.
+Betecknar diesellok i det svenska litterasystemet för järnvägsfordon.
+
+
+=== Gement t ===
+storheten tid i fysikaliska formler.
+ton (massenhet motsvarande 1000 kilogram).
+Internationella fonetiska alfabetets symbol för tonlös alveolar klusil.
+spårvidden 1067 mm i svenska littera för järnvägsfordon.
+
+
+== Historia ==
+Till det latinska alfabetet kom bokstaven T från det grekiska alfabetets tau, som i sin tur härstammar från den feniciska bokstaven "taw", som ursprungligen föreställde ett kryss.
+
+
+== Datateknik ==
+I datorer lagras T samt förkomponerade bokstäver med T som bas och vissa andra varianter av T, plus törn, med följande kodpunkter:
+
+I ASCII-baserade kodningar lagras T med värdet 0x54 (hexadecimalt) och t med värdet 0x74 (hexadecimalt).
+I EBCDIC-baserade kodningar lagras T med värdet 0xE3 (hexadecimalt) och t med värdet 0xA3 (hexadecimalt).
+Övriga varianter av T lagras med olika värden beroende på vilken kodning som används, om de alls kan representeras.

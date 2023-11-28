@@ -1,0 +1,71 @@
+Il livello del mare in orografia indica l'altezza media della superficie terrestre rispetto a quella del mare; il termine può assumere significati specifici a seconda del contesto in cui lo si utilizza.
+
+
+== Descrizione ==
+Il livello del mare può inoltre essere utilizzato come zero altimetrico per la determinazione delle altitudini. Per convenzione l'altezza sul mare di un comune è misurata dal sagrato della chiesa più alta o dalla piazza principale del luogo o dalla sede del palazzo municipale. Delle tre eventualità citate, la più "certa" appare essere l'ubicazione della piazza.
+
+
+=== Classificazione ===
+Innanzitutto è necessario distinguere tra un livello del mare medio globale, ovvero ottenuto tramite una media delle misurazioni effettuate in una zona molto vasta (es. oceano Atlantico, mar Mediterraneo) o addirittura su tutta la superficie oceanica terrestre, e un livello del mare locale, riferito a una zona circoscritta (ad esempio il golfo di Napoli).
+Inoltre può variare anche il punto di riferimento delle misurazioni e dunque è necessario definire la differenza tra livello del mare relativo e livello del mare assoluto:
+
+Il livello del mare relativo (relative sea level, RSL) è una misura del livello del mare effettuata rispetto al fondale oceanico oppure, per le misurazioni locali, rispetto ad un punto di riferimento sulla terra ferma.
+Il livello del mare assoluto (o altezza della superficie marina, sea surface height, SSH) è ottenuto, invece, tramite una misura effettuata rispetto al centro di massa della Terra.Che sia relativo o assoluto, il livello del mare subisce delle variazioni, sia sul breve sia sul lungo periodo, che possono essere dovute a una grande varietà di processi.
+
+
+=== Misurazione ===
+L'unico metodo per ottenere una misura assoluta del livello del mare è l'altimetria satellitare.
+Nel sistema internazionale l'altitudine si misura in metri sul livello del mare (m s.l.m.; anche m s.l.m.m. da «sul livello marino medio» o m s.m. da «sul mare»).
+
+
+== Innalzamento del livello ==
+
+I principali fattori che possono causare un aumento medio del livello del mare sono l'espansione termica degli oceani, la fusione delle calotte glaciali e la variazione di salinità dovuta allo scambio di masse d'acqua tra gli oceani e le riserve d'acqua dolce del territorio. 
+Questi contributi sono comunemente attribuiti a un cambiamento climatico globale indotto in buona parte dalle immissioni antropiche di gas serra (riscaldamento globale).Il livello marino assoluto, inoltre, dipende indirettamente anche dalla deformazione della terra solida causata dalle variazioni del campo gravitazionale e del volume del bacino oceanico globale.
+
+
+=== Espansione termica ===
+I dati di temperatura media degli oceani raccolti negli ultimi 50 anni indicano che il contenuto di calore e la conseguente espansione termica degli oceani sono notevolmente aumentati a partire dal 1950. 
+Grazie all'avvento della Radar Altimetria da Satellite è stato possibile quantificare il contributo del riscaldamento degli oceani all'innalzamento del livello marino globale: nel periodo tra il 1993 e il 2010 questo contributo è stato valutato dell'ordine del 30%.
+
+
+=== Fusione dei ghiacci ===
+Un contributo importante alla variazione di livello marino globale è dato, inoltre, dalla progressiva fusione dei ghiacciai montani e della calotte glaciali di piccole dimensioni, particolarmente sensibili al riscaldamento globale che sta interessando il nostro pianeta negli ultimi decenni. Per il periodo 1993-2010, il contributo di ghiacciai e calotte polari all'aumento del livello del mare è stato valutato dell'ordine del 30%.
+
+
+=== Contributo antropico ===
+L'accelerazione subita dall'espansione termica degli oceani e dalla fusione dei ghiacciai e delle calotte glaciali negli ultimi decenni è legata alla massiccia immissione da parte degli esseri umani di gas serra nell'atmosfera, causa del riscaldamento. 
+La comunità scientifica è infatti ormai concorde nell'attribuire alle attività umane la causa del riscaldamento e dunque anche del recente innalzamento del livello del mare.
+
+
+=== Nuove ipotesi ===
+È stata proposta, dal gruppo di ricerca dell'Istituto Nazionale di Geofisica e Vulcanologia (I.N.G.V.) di Roma, una nuova ipotesi su una possibile relazione tra le variazioni secolari del campo magnetico terrestre e quelle del livello marino globale. Tale ipotesi si basa sulla presenza di una significativa correlazione tra gli andamenti del livello globale degli oceani e il totale dell'area coperta da un'anomalia del campo magnetico terrestre osservata nel Sud Atlantico (la South Atlantic Anomaly, o SAA) nei 3 secoli precedenti. La presenza di questa correlazione suggerisce l'esistenza di una possibile relazione causale tra le due quantità e, se quest'ultima fosse confermata, entrambe le variazioni potrebbero avere un'origine comune nella dinamica del nucleo fluido esterno della Terra.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Altitudine
+Coordinate geografiche
+Gas serra
+Geoide
+Ghiacciai
+Normalnull
+Nucleo terrestre
+Oceani
+Riscaldamento globale
+Superficie terrestre
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su livello del mare
+Wikibooks - Previsioni sul livello del mare tramite machine learning
+
+
+== Collegamenti esterni ==
+
+(EN) sea level / mean sea level, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Sea level rise - How much and how fast will sea level rise over the coming centuries? Past., su ice.tsu.ru. URL consultato il 29 febbraio 2012 (archiviato dall'url originale il 9 novembre 2012).
+ Sea level rise - How much and how fast will sea level rise over the coming centuries? Present, su ice.tsu.ru. URL consultato il 29 febbraio 2012 (archiviato dall'url originale il 9 novembre 2012).

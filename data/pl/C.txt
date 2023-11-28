@@ -1,0 +1,38 @@
+C (minuskuła: c) – trzecia litera alfabetu łacińskiego, czwarta litera alfabetu polskiego.
+
+
+== Historia ==
+Wywodzi się z greckiej litery gamma (Γ). W łacinie klasycznej pierwotnie służyła do oznaczania głosek [k] i [ɡ], a od III wieku p.n.e. jedynie [k] – do oznaczania głoski [ɡ] powstała litera G.
+Współcześnie używana jest do oznaczania głoski:
+
+w języku polskim – [ʦ], a przed i – [ʨ]
+w pozostałych językach słowiańskich, w językach bałtyckich i ugrofińskich oraz w języku albańskim – [ʦ]
+w językach zachodnioeuropejskich – zazwyczaj [k], a przed e lub i:
+w języku angielskim, francuskim i katalońskim – [s]
+w języku irlandzkim – [c]
+w języku walijskim – zawsze [k]
+w języku włoskim i rumuńskim – [ʧ]
+w języku hiszpańskim i galicyjskim – [θ]
+w językach tureckich – zazwyczaj [ʤ]
+w języku zhuang – [ʃ]
+
+
+== Używanie litery C ==
+
+
+== Grafemy i symbole oparte na C ==
+
+
+== Inne reprezentacje ==
+
+
+== Kodowanie ==
+1 W tym pochodne ASCII, takie jak DOS, Windows, ISO-8859 i Macintosh
+
+
+== Zobacz też ==
+Ć
+Ц (cyrylica), С (cyrylica)
+
+
+== Przypisy ==

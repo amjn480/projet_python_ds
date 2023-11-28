@@ -1,0 +1,245 @@
+Le quotient intellectuel, ou QI, est le résultat d'un test psychométrique qui entend fournir une indication quantitative standardisée de l'intelligence humaine.
+Le QI est mesuré par un psychologue pour des raisons qui peuvent être éducatives ou psychiatriques. Cependant, le QI, tout comme les notions associées de déficience mentale ou d'enfant à haut potentiel intellectuel, n'est pas un diagnostic. Le QI est généralement évalué dans le cadre plus complet d'un examen psychologique.
+Créé au début du XXe siècle pour dépister les élèves en difficulté et leur faire bénéficier d'un soutien, la notion d'un QI a fait l'objet de nombreuses critiques, méthodologiques et psychométriques, ou théoriques (discussions sur la nature de l'intelligence).
+
+
+== Calcul du quotient intellectuel ==
+
+
+=== QI classique ===
+
+Le calcul d'un quotient intellectuel est l'idée du psychologue allemand William Stern. En 1905 est publiée la première échelle mesurant l'intelligence, l'Échelle métrique de l'Intelligence d'Alfred Binet et Théodore Simon, ou test de Binet et Simon. Cette échelle donne lieu à la détermination d'un âge mental de l'enfant. L'âge mental correspond au groupe d'âge ayant réussi les mêmes tests que le participant. Ainsi un enfant de 10 ans montrant les mêmes résultats que la moyenne des enfants de 12 ans a « douze ans d'âge mental ».
+Le quotient intellectuel calculé par Stern (appelé aussi plus tard « QI classique ») est un quotient calculé en comparant l'âge réel (chronologique) de l'enfant à son âge mental. Le QI égale le rapport entre l'âge mental et l'âge chronologique, multiplié par 100. Ainsi dans l'exemple précédent, un enfant de 10 ans obtenant un âge mental de 12 ans obtient un QI de : (12 / 10) × 100 = 120.
+Conçu pour détecter et aider les enfants en difficulté, ce calcul n'est pas efficace pour évaluer un QI chez les adultes.
+
+
+=== QI standard ===
+Le QI par rang ou « QI standard » est calculé de manière différente. Il correspond au rang auquel se situe une personne relativement à une population représentée par une loi normale (courbe de Gauss). Les tests de David Wechsler ont été les premiers à utiliser ce type d'étalonnage. Les tests sont « étalonnés » lors de leur conception pour que les résultats suivent une courbe d'allure gaussienne (c'est la courbe d'entropie maximale, donc la moins arbitraire). L'étalonnage est régulièrement mis à jour. De fait, le QI mesure un écart à la moyenne dans la population adulte étudiée, à un moment donné, et non une référence à un résultat absolu.
+L'étalonnage fixe par construction la moyenne (ou espérance), l'écart type et la distribution a priori associée à ces contraintes ; dans la méthode bayésienne (c'est-à-dire la seule n'introduisant pas d'« information ajoutée »), celle-ci se trouve être la courbe de Gauss. C'est pour cette raison qu'on étalonne le test sur cette dernière. La moyenne est fixée par convention à 100, l'écart-type le plus souvent à 15 (il s'agit alors de QI standard). Certains tests postérieurs à ceux de Wechsler ont fixé des écarts-types à 16 ou à 24 (c'est le cas du test américain Culture Fair Intelligence Test de Raymond Cattell).
+
+La moyenne du QI standard est par construction fixée à 100. Si c'était la distribution elle-même qui était normale (ce qui n'est pas parfaitement le cas, la courbe réelle n'ayant pas de raison particulière d'être symétrique), 68 % de la population serait située à un écart-type de la moyenne, c'est-à-dire pour un écart-type de 15, entre 85 et 115 de QI ; et 95 % de la population est située entre deux écart-types, soit entre 70 et 130 (voir figure).
+
+
+=== Conditions de détermination du QI : l'examen psychologique ===
+
+Le QI doit être mesuré par un psychologue dûment qualifié. Sa mesure s'effectue dans le cadre d'un examen psychologique qui peut se dérouler sur plusieurs sessions (la mesure proprement dite devant se dérouler, autant que possible, en une seule séance). L'examen psychologique comprend un ou des entretiens psychologiques. Il appartient au psychologue de faire passer le test dans des conditions optimales pour la personne. Le psychologue doit suivre les instructions du manuel de l'échelle pour que les résultats puissent être valides.
+
+
+== Histoire ==
+
+
+=== Précurseurs ===
+La fin XIXe siècle assiste aux débuts de la psychologie scientifique. De nombreux chercheurs s’intéressent à la mesure de l’intelligence. Le plus avancé sur le sujet est l’Anglais Sir Francis Galton, un cousin de Charles Darwin, qui ne parviendra cependant pas à mettre en place un test utilisable. Galton, inventeur du terme eugénisme, publie son livre L’intelligence héréditaire, la raison de ses travaux étant de montrer qu'une partie au moins de celle-ci est héréditaire, et d’en tirer des conclusions pour l’amélioration de l’espèce humaine. En 1890, le terme de « mental test » est employé pour la première fois par l’Américain McKeen Cattell pour désigner une série d’épreuves destinées à mesurer les différences entre étudiants.
+La première échelle de l'intelligence est publiée en 1905. Les Français Alfred Binet et Théodore Simon, travaillant à la demande de l’État sur un moyen de détecter d’avance les élèves faibles scolairement, mettent au point le premier test utilisable, l'Échelle métrique de l'intelligence appelé aussi du nom de ses auteurs, le test de Binet et Simon,.
+
+
+=== Quotient intellectuel défini par Stern ===
+En 1912 à l’Université de Breslau, l'Allemand William Stern a l’idée de faire le rapport entre les résultats obtenus au Binet-Simon et l’âge réel. Il crée l'expression de « quotient intellectuel ».
+
+
+=== Quotient intellectuel défini par Wechsler ===
+Le calcul du QI tel que proposé par Stern pose plusieurs problèmes statistiques, le principal étant qu'il n'est pas applicable aux adultes.
+Quand, en 1939, le psychologue américain David Wechsler publie un nouveau test d'intelligence, il conserve la notion de quotient intellectuel, mais applique une mesure tout à fait différente non seulement à l'échelle entière mais également aux sous-tests de son échelle. Cette approche est conservée dans les batteries de tests publiées ultérieurement par Wechsler (Wechsler Adult Intelligence Scale et WISC).
+Ainsi, la notion de quotient est conservée par Wechsler bien que ses calculs pour aboutir à ce quotient ne reposent plus sur une division mathématique. C'est donc pour des raisons historiques, et non pour des raisons mathématiques, que le terme de quotient intellectuel est conservé par Wechsler et reste utilisé de nos jours.
+
+
+=== Remise en cause de la notion de QI général par Thurstone ===
+En 1939, l'Américain Louis Leon Thurstone remet en cause la thèse d'un facteur g de Spearman en soulevant sept facteurs principaux qui font partie d'une multitude de facteurs : facteur spatial (représentation des configurations), facteur perception (saisie de détails dans une configuration), facteur verbal (compréhension des données), facteur lexical (mobilisation du vocabulaire), facteur mémoire (faculté de mémorisation), facteur numérique (réalisation de calculs) et facteur raisonnement (définir et trouver des liens entre des éléments). En reprenant les analyses de Spearman, Thurstone conclut que ces sept facteurs sont orthogonaux, c'est-à-dire représentent autant de types d’intelligence et n'ont pas de lien entre eux. Le g de Spearman serait donc inexistant. Les conclusions de Thurstone sont que l’existence même de l'intelligence générale, comme entité mesurable, ne reposerait sur aucune base empirique réelle, ni ne pourrait être quantifiée de manière rigoureuse et logique (sauf évidemment dans le cas particulier de deux individus dont l'un surpasserait l'autre dans « tous » les types mentionnés)[réf. nécessaire].
+
+
+=== Facteur g et habiletés cognitives plus spécifiques ===
+La notion de facteur g mise en évidence par Spearman et la notion d'habiletés cognitives spécifiques mises en évidence par Thurstone ont été étudiées et élaborées par les nombreuses études qui ont suivi. Les moyens technologiques ont évolué et les tests d'intelligence se sont multipliés, permettant l'élaboration de modèles plus précis qui concilient les deux théories. La théorie de Cattell-Horn-Carroll est le modèle actuellement le plus reconnu et le plus étudié de l'approche psychométrique. Ce modèle suggère que le QI général représente le facteur g, mais que des habiletés cognitives spécifiques corrèlent et prédisent le QI à différents degrés.
+
+
+== Pouvoir prédictif ==
+Le QI mesuré par les tests psychométriques est le meilleur prédicteur statistique de la réussite ou de l'échec scolaire de l'enfant et de l'adolescent. Son pouvoir prédictif est modéré. Les corrélations entre le QI et la réussite scolaire ou académique sont de l'ordre de 0,50. Ce chiffre indique que le QI prédit (ou explique) 25 % de la variance des scores. D'autres facteurs entrent en jeu dans la réussite scolaire puis professionnelle, cependant ces facteurs sont variés. Chez l'enfant, la motivation, l'effort, le sentiment d'efficacité personnelle et d'autres facteurs non cognitifs[Lesquels ?] jouent également un rôle sur les performances scolaires et la réussite professionnelle ou sociale ultérieure. L'autodiscipline, la consistance, la fiabilité ont également un impact important sur les résultats professionnels et personnels chez l'adulte. Malgré son pouvoir prédictif modéré, le QI reste le meilleur prédicteur de la réussite scolaire ultérieure comparé aux autres facteurs.
+Le QI, ainsi que les outils analogues de mesure de g, sont également les meilleurs prédicteurs de la performance au travail et de la réussite socio-professionnelle.
+Un certain nombre d'études ont montré une relation négative entre le QI et la délinquance, ainsi qu'entre le QI et les comportements antisociaux et criminels.
+Le QI est corrélé positivement à une bonne santé.
+Le QI est corrélé négativement à la religiosité,. Cependant, les raisons de cette corrélation ne sont pas claires. L'analyse des résultats montre que les différences de QI ne sont pas sur g et doivent, par conséquent, être attribuées à des capacités spécialisées. Les auteurs d'une étude de 2019 suggèrent « prudemment » que les différences pourraient s'expliquer en termes de caractéristiques des troubles du spectre autistique chez les personnes ayant un QI élevé, parce que ces caractéristiques sont associées de façon négative à la religiosité.
+
+
+== Sociologie du QI ==
+Le QI moyen dans le monde se situe entre 84 et 88.
+
+
+=== Différences entre les générations ===
+
+L'effet Flynn est le nom attribué à l'accroissement lent et régulier du résultat moyen à des tests de type QI observé au cours du XXe siècle dans les pays industrialisés. Ce sont les tests les plus liés aux matières scolaires qui connaissent les plus faibles progressions. L'accroissement de la scolarité, et le niveau scolaire, jouent un rôle majeur dans l'augmentation des scores.
+La croissance des scores s'est stabilisée et des effets inverses ont été observés depuis le début des années 2000. Les causes en sont encore à l'étude et le phénomène ne se montre pas homogène. Une étude d'Aden et Shayer datée de 2005 et portant sur 25 000 enfants scolarisés en Grande-Bretagne suggère une régression du QI général et de certaines habiletés cognitives et scolaires chez des élèves britanniques entre 1975 et 2005. Il est possible que cette stagnation de l'effet Flynn date des années 1980.
+Or la tendance à une stagnation voire à une légère régression de l'effet Flynn en Occident a été observée dans d'autres pays. En 2004, Jon Martin de l'Université d'Oslo et ses collègues ont publié un article décrivant les résultats aux tests de QI des conscrits norvégiens entre 1950 et 2002 démontrant que l'amélioration des scores en intelligence générale s'est arrêtée après le milieu des années 1990 mais a régressé légèrement dans nombre d'autres tests,. Le Conservatoire national des arts et métiers s'est également fait écho d'un début d'inversion de l'effet Flynn en se basant sur des tests dans le canton de Vaud en Suisse en 1991 et 2002. Teasdale et Owen déclarent : « les analyses de tests d'intelligence de près de 500 000 jeunes hommes Danois entre 1959 et 2004 montrent que l'augmentation a connu son apogée fin des années 1990 et aurait légèrement régressé jusqu'à un niveau d’avant 1991 ». Ils estiment qu'« un facteur lié à cette récente chute pourrait être un déclin simultané du nombre d'étudiants en avance de 3 ans pour les 16-18 ans ».
+Cette baisse a depuis été observée dans plusieurs pays tels que la Finlande, l'Estonie, les Pays-Bas ou la France.
+
+
+=== Différences entre groupes ethniques et controverses sur les interprétations racialistes ===
+
+Historiquement, le QI a parfois été instrumentalisé pour étayer des propositions élitistes, eugénistes, racialistes. Dans plusieurs régions protestantes du monde durant le XXe siècle, des groupes entiers de personnes ont été soumis à un programme de stérilisation contrainte, à la suite de mauvais résultats au test de QI. Cela s'est vu au Canada consécutivement à la loi dite Sexual Sterilization Act of Alberta (en) (1928) (cf. le cas de Leilani Muir qui a poursuivi en justice et gagné le procès qu'elle a intenté contre la province d'Alberta). Ce phénomène n'a pas touché les pays catholiques, où toute atteinte au corps non justifiée par des raisons de santé est réprouvée.
+Le livre The Bell Curve de Richard J. Herrnstein et Charles Murray souligne et commente longuement les différences supposées de QI entre groupes ethniques aux États-Unis, en particulier les scores plus faibles des minorités noires par rapport à la majorité blanche, et leurs implications politiques. Ce livre a provoqué beaucoup de polémiques aux États-Unis après sa parution. Certains spécialistes ont avancé des explications qualifiées de racistes par d'autres spécialistes. L'Association américaine de psychologie et le Conseil national des affaires scientifiques américain ont commandé un rapport d'experts indépendants pour faire le point sur la question. Certains spécialistes défendent l'idée que ces différences seraient majoritairement génétiques (cf. Mainstream Science on Intelligence, tribune signée par un groupe de psychologues américains spécialistes de la question et défendant cette idée). Pour d'autres, les différences observées entre les groupes ethniques correspondent aux conséquences de milieux environnementaux défavorables aux minorités noires américaines. Le sujet reste sujet à débats : en 2013, 71 experts ont évalué les causes possibles des différences transnationales dans les capacités cognitives sur la base des QI psychométriques et des études d'évaluation des étudiants. Les gènes ont été classés comme la cause la plus importante (17 %), suivis de la qualité de l'éducation (11,44 %), de la santé (10,88 %) et de la quantité de l'éducation (10,20 %). La somme des deux facteurs d'éducation a donné la cote la plus élevée (21,64 %). Les experts qui pensaient que les gènes n'avaient aucune influence étaient une minorité : environ 90 % des experts pensaient que les gènes avaient au moins une certaine influence sur les différences transnationales dans les capacités cognitives.
+
+
+== Facteurs influençant le QI ==
+Les scores de QI sont influencés à la fois par des facteurs génétiques et des facteurs environnementaux,,,.
+
+
+=== Facteurs biologiques ===
+
+
+==== Système hormonal ====
+Le système thyroïdien de la mère durant la grossesse, puis de l'enfant et de l'adulte agit sur le cerveau, de même que la qualité du sommeil, qui dépend entre autres choses d'une hormone ; la mélatonine,. Des perturbateurs endocriniens pourraient donc affecter le QI, éventuellement en conjonction avec des polluants neurotoxiques.
+
+
+==== Puberté ====
+L'imagerie des zones cérébrales connues pour jouer un rôle dans l'intelligence verbale ou non verbale montre ou confirme la possibilité que les capacités intellectuelles d'un individu par rapport à ses pairs puissent significativement diminuer ou augmenter dans les années d'adolescence, sans qu'on sache encore dans quelle mesure jouent le contexte environnemental (polluants neurotoxiques, perturbateurs endocriniens…), d'évolution personnelle (période où intervient fréquemment un changement dans le mode d'alimentation, avec alcool, tabac éventuellement, ou un changement dans le mode d'apprentissage) ou social (psychologie de la motivation), réorganisation des priorités de l'individu (dont sexualité adolescente), éventuellement sous l'influence de l'entourage ou d'un modèle social autre.
+
+
+==== Corrélations entre QI et morphologie ou physiologie du cerveau ====
+Plusieurs études ont montré des corrélations modérées entre le volume du cerveau (en particulier la substance grise) et le QI. Cette relation a été de nombreuses fois répliquée et les corrélations observées sont modérées, d'environ 0,4 en moyenne,. Arthur Jensen cite une dizaine d'études indépendantes effectuées au Japon, en Europe et en Amérique qui ont toutes trouvé une corrélation positive entre la capacité crânienne et le quotient intellectuel (la moyenne des corrélations se situant à 0,4). J. Philippe Rushton fait un constat similaire.
+Cependant, les relations de cause à effet et les explications de ces corrélations restent incomprises et débattues par les spécialistes,. Le spécialiste Ian Deary conclut en 2001 que les explications sont manquantes. Les relations entre QI, morphologie du cerveau et physiologie sont complexes et ne sont pas encore éclaircies. Les avancées scientifiques dans ce domaine dépendent en grande partie des technologies d'imagerie cérébrale, et ce domaine technologique est en développement.
+Des mesures physiologiques sont également corrélées au QI sans que les relations de cause à conséquence soient éclaircies. Ces mesures sont :
+
+la rapidité, la complexité et la forme de certaines courbes d'activité cérébrale mesurée par potentiels évoqués auditifs ;
+les temps d'inspection visuels mesurés dans des tâches de mémoire visuelle iconique (corrélations moyennes de 0,4),, ;
+les temps de réaction sur des tâches simples (corrélations moyennes d'environ 0,2 ou légèrement plus).Les études sur les relations entre morphologie et réaction physiologiques cérébrales et le QI se sont multipliées dans des populations de tous âges, avec ou sans problèmes cognitifs. Les enjeux de ces recherches sont de mieux comprendre les relations observées.
+
+
+=== Facteurs génétiques ===
+
+
+==== Héritabilité du QI ====
+
+L'héritabilité du QI est un outil[Information douteuse] statistique à la pertinence contestée, mais qui est souvent utilisé et confondu avec un éventuel caractère héréditaire de l'intelligence.
+L'héritabilité des scores de QI ou d'autres mesures de l'intelligence (facteur g, réussite scolaire, etc.), toujours calculée pour une population donnée et uniquement valable pour celle-ci, est la mesure de leur part de variance attribuable aux différences génétiques entre les individus de la population. Quelle que soit la valeur de cette héritabilité, cela ne fixe aucune limite de principe à la malléabilité des scores de QI/intelligence dans une population. Cette héritabilité ne peut pas être calculée avec précision : elle doit être estimée, et il existe diverses méthodes pour le faire. Les scores de QI sont influencés à la fois par des facteurs génétiques et des facteurs environnementaux,,,.
+
+
+===== Estimation par les méthodes classiques d'étude d'apparentés et de jumeaux =====
+Des études sur les jumeaux homozygotes séparés à la naissance ont trouvé que les QI de ces jumeaux (ainsi que de nombreuses autres caractéristiques physiques et mentales) étaient fortement corrélés. Ces observations ont commencé à l'université du Minnesota, où une unité de recherche a été mise en place par Thomas Bouchard pour étudier une cohorte nationale de jumeaux et triplés élevés séparément dans des familles adoptives,. Dans une méta-analyse publiée en 1981, Bouchard et McGue rapportent des résultats portant sur 111 études de jumeaux. Leurs observations (étude MISTRA) indiquent que les corrélations entre les scores de jumeaux homozygotes élevés séparément sur des tests de mesure du QI sont étonnamment élevées (0,69 pour les échelles de Wechsler et 0,78 aux matrices de Raven ; les corrélations pour des jumeaux homozygotes élevés ensemble sont de, respectivement 0,88 et 0,76).
+Une autre méta-analyse indépendante a été publiée en 1997 dans le journal Nature. Elle porte sur 212 études. Des corrélations sont mises en évidence pour chacun des liens de parenté, et notamment la corrélation la plus forte est celle des « jumeaux élevés ensemble ». Devlin et al. interprètent ces corrélations comme une importance plus forte de la période prénatale que ce qui était considéré auparavant, et par conséquent une importance moindre du patrimoine génétique.
+Dickens et Flynn ont proposé une explication de ces résultats apparemment tout à fait contradictoire. Dickens a avancé que l'influence des facteurs génétiques ne signifie pas que l'environnement n'entre pas en compte dans l'équation. Il est possible que des différences d'origine biologique modifient précocement l'environnement de l'enfant, puis, plus tard, celui de l'adulte.
+Ian Deary indique que ces corrélations ne signifient pas que l'intelligence est d'abord d'origine génétique. Les corrélations observées ne portent que sur les différences entre les scores. Les résultats suggèrent qu'environ 50 % de ces différences sont expliquées par des variables sans doute génétiques et 50 % par des influences environnementales. Des études plus récentes montrent que ce ratio d'héritabilitié du QI varie fortement avec l'âge, passant de 20 % durant l'enfance à 80 % chez l'adulte,.
+Selon une étude menée en 2014, il n'y aurait que très peu d'influence du QI des parents adoptifs sur les capacités verbales des enfants. Certains types d’entraînements peuvent avoir un effet sur le score du QI mais n'ont qu'un effet limité sur l'intelligence générale,,.
+
+
+===== Estimation par des modèles incorporant les effets d'un grand nombre de SNP =====
+Depuis les années 2000 ont été développées des méthodes d'estimation de l'héritabilité basées sur les données génomiques de gros échantillons d'individus. Le principe général de la méthode qui a pour l'instant été le plus utilisée consiste à bâtir un modèle mathématique de l'effet statistique du génotype comme étant la combinaison des effets statistiques d'un sous-ensemble plus ou moins grand des polymorphismes mono-nucléotidiques (SNP). Le QI n'étant pas disponible sur ces gros échantillons, ce sont des indicateurs fortement corrélés au QI qui sont utilisés (typiquement le niveau d'études).
+Seule la prise en compte de plusieurs dizaines de milliers de SNP permet de reconstituer, via un modèle statistique ad hoc, une part de variance substantielle attribuable aux génotypes dans l'échantillon de population utilisé, c'est-à-dire une héritabilité dite génomique estimée approchant parfois 50 %. Toutefois, le cas échéant ces modèles souffrent d'overfitting, c'est-à-dire de sur-ajustement du modèle aux données. Dans ce cas, le modèle « explique » une grande part de variance par les SNP, mais seulement parce qu'il a incorporé un bruit aléatoire présent dans les données de l’échantillon qui a servi à le construire (une partie de cette héritabilité estimée est donc fictive). Pour limiter l'overfitting, il est recommandé d'opérer des validations croisées du modèle sur d'autres échantillons. La mise en œuvre de ces validations croisées dans les études humaines reste insuffisante et de fait, la part de variance expliquée par ces modèles chute souvent drastiquement lorsqu'ils sont appliqués à un autre échantillon.
+Ainsi, dans Hill et al. 2018 par exemple, les auteurs ont pu construire un modèle mathématique expliquant 25,44 % de la variance d'une mesure de l'intelligence dans l'échantillon initial, mais lorsque ce modèle a été appliqué à trois échantillons de réplication, seuls 3,64 % à 6,84 % de la variance de mesures de l'intelligence ont été prédits par le modèle.
+De même, le modèle bâti par Lee et al. 2018 sur la base d'un échantillon de 1,1 million de personnes d'ascendance génétique européenne, utilisant environ 250 000 SNP, n'a permis de rendre compte que de 12,7 % de la variance du nombre d'années d'études et 6,9 % de celle d'une mesure de performance cognitive dans une cohorte de réplication, et de respectivement 10,6 % et 9,7 % dans une autre. De plus, selon les auteurs, le modèle a perdu 85 % de son pouvoir prédictif lorsqu'il a été appliqué à un échantillon de personnes afro-américaines. Les auteurs soulignent en outre que l'effet propre des variants génétiques est probablement surestimé par le modèle en raison d'une « corrélation entre le niveau d'éducation et un environnement éducatif propice à la réussite scolaire ». En 2019, la part de variance prédite par ce modèle était la plus élevée jamais atteinte par ce type d'approche, tous traits cognitifs ou comportementaux confondus.
+
+
+===== Estimation par la méthode RDR (relatedness disequilibrium regression) =====
+La méthode RDR est une méthode récente également basée sur des données génomiques, visant à compenser certains défauts des méthodes basées sur une modélisation des effets statistiques des SNP. Elle estime l'héritabilité en examinant la façon dont la similarité phénotypique entre individus varie en fonction de leur proximité génétique, mesurée par la fraction du génome partagée par deux individus car héritée d'un ancêtre commun. Mise en œuvre pour la première fois en 2018 sur un échantillon de près de 55 000 Islandais, elle a abouti a des estimations d'héritabilité nettement plus faibles que celles produites par les méthodes existantes. En particulier, l'héritabilité du niveau d'études a été estimée dans cet échantillon à 17 %, contre respectivement 52 %, 29 % et 40 % avec trois autres méthodes et 43 % avec l'étude de jumeaux de référence.
+
+
+=== Facteurs environnementaux ===
+
+
+==== Influence des pesticides ====
+Les pesticides liés au Chlorpyrifos, très utilisés en Europe, diminueraient en moyenne de 2,5 points le quotient intellectuel de chaque enfant européen. La substance active est interdite dans l'Union Européenne depuis 2020.
+
+
+== Estimations fondées sur les données historiques ==
+En 1926, la psychologue Catharine Cox Miles, dans une recherche pour sa thèse doctorale dirigée par le psychométricien Lewis Terman, utilise les informations biographiques sur l’enfance de personnes célèbres pour estimer leur QI sur la base de leurs écrits et de données historiques (Voltaire : 170 ; John Stuart Mill : 190 ; Goethe : 210),. Sa méthode dite « historiométrique » est tout à fait différente et indirecte mais cherche néanmoins à se baser sur des principes scientifiques. La méthode historiométrique est discutée et ne fait pas consensus chez les psychologues.
+
+
+== Citations sur le QI ==
+Selon Bertrand Russell, J. B. Watson (voir béhaviorisme) « estime qu’il n’y a nul besoin de mesurer par des tests la qualité d’une personne, puisque selon la définition qu’il en donne cette qualité est très précisément indiquée par son revenu ». Russell s'empresse d'ajouter dans le même paragraphe qu'il ne partage pas cet avis.
+Selon Ilan M. Edelstein, « l'intelligence ne se résume pas à un chiffre. […] on ne peut pas classer l'intelligence des gens de façon linéaire, […] les tests de QI ne mesurent pas toutes les intelligences ni tous les secteurs de l'intelligence ».
+
+
+== Principales critiques du QI ==
+
+
+=== Manque de consensus sur la nature de l'intelligence ===
+Les scientifiques n'ont pas dégagé un consensus quant à la définition ou la nature de l'intelligence humaine. Cette absence de définition est commune lorsque des concepts ne sont pas encore tout à fait compris par les scientifiques qui les étudient. L'absence de définition consensuelle reflète le fait que la description de l’intelligence sur un plan scientifique reste un sujet d'étude et de débats, sur lequel de nombreuses questions importantes ne sont pas encore résolues.
+
+
+=== Biais culturels des tests d'intelligence ===
+Il n'existe pas de test d'intelligence purement aculturel, c'est-à-dire échappant à toute influence de la culture sur la performance au test. Historiquement, des psychologues ont développé plusieurs tests de performance pour tester des enfants sans langage ou des enfants immigrés ne parlant pas la langue de leur pays d'accueil. Les tests de connaissance faisant intervenir le langage ne peuvent s'affranchir de composantes culturelles comme l'étendue du vocabulaire. Les autres restent cependant corrélés à la culture. Ainsi, dans un pays donné, les sujets issus de minorités culturelles obtiennent des QI plus faibles que les étudiants de la population majoritaire. Ces différences, souvent observées, peuvent faire soupçonner un éventuel biais culturel des tests, y compris non verbaux.
+Plusieurs différences observées entre pays seraient attribuables à des effets culturels plutôt que cognitifs.
+Dans la tribune Mainstream Science on Intelligence, Linda Gottfredson et les cosignataires estiment que les tests d'intelligence ne sont pas biaisés culturellement, qu'ils prédisent avec précision le QI pour tous les Américains, indépendamment de leur race et de leur classe sociale.
+
+
+=== Part de variance inexpliquée ===
+Les psychologues (et en premier lieu David Wechsler, auteur des échelles d'intelligence les plus utilisées au monde) s'accordent sur le fait que les performances aux tests mesurant les QI contiennent une part de variance inexpliquée. Il est probable que des facteurs non cognitifs soient à l'origine d'une partie de cette part de variance.
+
+
+=== Controverses sur les scores extrêmes ===
+Il a été reproché aux scores de QI de perdre en précision sur les scores extrêmes. La principale raison réside dans la faiblesse de l’échantillon disponible à ce niveau[réf. nécessaire].
+
+
+== Records ==
+En 1956, Marilyn vos Savant aurait obtenu l'un des plus grands QI mesurés, mais les tests qu'elle a passés n'ont pas été surveillés selon la procédure normale.
+Le Sud-Coréen Kim Ung-yong établit un record du monde du QI le plus élevé avec un score de 210 et est répertorié dans le Livre Guinness des records of World Records.
+Terence Tao a un QI estimé à 230.
+
+
+== Société ==
+
+
+=== Seconde chance ===
+En 1961 en France, un jeune travailleur agricole nommé Jean Frêne se voit crédité aux trois jours de sélection militaire d'un QI exceptionnel. L'affaire remonte au ministère des Armées, qui lui accorde un sursis et une bourse : cinq ans plus tard, Jean Frêne décroche son diplôme d'ingénieur à l'Institut national des sciences appliquées de Lyon et embraye directement sur un doctorat. En 2004, il est professeur à l'université de Poitiers en chaire de tribologie. Jean Frêne y devient le troisième Français à obtenir la prestigieuse médaille d'or internationale de tribologie.
+
+
+=== Eugénisme ===
+En 1980, Robert Klark Graham, généticien eugéniste américain, crée une banque de sperme réservée aux hauts QI. L'entreprise est très critiquée dès sa mise en place. Elle conduit à la naissance de 218 enfants. Cependant, à sa mort en 1997, Graham n'a pas réussi à démontrer que les enfants nés de cette banque de sperme sont plus intelligents ou plus brillants, dans leurs études, que des enfants élevés dans un milieu comparable.
+
+
+=== Associations pour hauts QI ===
+Plusieurs associations internationales réservées aux hauts QI existent, dont les membres sont exclusivement des personnes ayant passé un test de QI et réussi ce test au-delà d'un score donné.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+ : document utilisé comme source pour la rédaction de cet article.
+
+(en) Ian Deary, Intelligence, a very short introduction, New York, Oxford University Press, 2001, 132 p. (ISBN 978-0-19-289321-5). 
+(en) Michael W. Eysenck, Psychology, a student handbook, Hove, UK, Psychology Press, 2000, 979 p. (ISBN 0-86377-474-1). 
+(en) James R. Flynn, Does your family make you smarter? Nature, Nurture and Human Autonomy, Arcueil/Cambridge, Cambridge University Press, 2016, 258 p. (ISBN 978-1-316-60446-5). 
+(en) Margaret Harris et Georges Butterworth, Developmental psychology, a student handbook, Hove and New York, Psychogy Press, Taylor & Francis, 2002, 371 p. (ISBN 978-1-84169-192-3, lire en ligne). 
+(en) Lewis Aiken, Psychological Testing and Assessment, Boston, Allyn and Bacon, 1979, Third éd., 356 p. (ISBN 0-205-06613-5).
+(en) Lewis R. Aiken, Assessment of Intellectual Functioning, Springer, 2004, second (reprint) éd. (1re éd. Plenum Press 1996), 412 p. (ISBN 978-0-306-48431-5, OCLC 611331775, LCCN 95026038, lire en ligne)
+(en) American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders : DSM-5TM, Arlington, VA, American Psychiatric Publishing, 2013, 5e éd., 947 p. (ISBN 978-0-89042-555-8, présentation en ligne)
+(en) Anne Anastasi et Susana Urbina, Psychological Testing, Upper Saddle River (NJ), Prentice Hall, 1997, 7e éd., 721 p. (ISBN 978-0-02-303085-7, présentation en ligne)
+(en) Alfred Binet et Th. Simon (trad. E. S. Kite), The development of intelligence in children : The Binet-Simon Scale, Baltimore, Williams & Wilkins, 1916 (lire en ligne)
+(en) Denny Borsboom, « The attack of the psychometricians », Psychometrika, vol. 71, no 3,‎ septembre 2006, p. 425–440 (PMID 19946599, PMCID 2779444, DOI 10.1007/s11336-006-1447-6, lire en ligne, consulté le 21 septembre 2014)
+(en) Nathan Brody, Randall W. Engle et Oliver Wilhelm, Handbook of Understanding and Measuring Intelligence, Thousand Oaks (CA), SAGE Publications, 2005, 542 p. (ISBN 978-0-7619-2887-4, présentation en ligne), « Chapter 26: To g or Not to g—That Is the Question », p. 489–281
+(en) Jonathan M. Campbell, Randy W. Kamphaus et Jonathan M. Campbell, Psychodiagnostic Assessment of Children : Dimensional and Categorical Approaches, Hoboken (NJ), Wiley, 2006 (ISBN 978-0-471-21219-5, présentation en ligne), « Chapter 3: Mental Retardation/Intellectual Disability ».
+(en) John B. Carroll, Richard W. Woodcock et John J. McArdle, Human Cognitive Abilities in Theory and Practice, Mahwah (NJ), Lawrence Erlbaum Associates, 1998, 339 p. (ISBN 978-0-8058-2717-0), « Human Cognitive Abilities: A Critique », p. 5–23
+(en) Catherine M. Cox, The Early Mental Traits of 300 Geniuses, Stanford (CA), Stanford University Press, 1926 (présentation en ligne)
+Stéphane Bentura, film documentaire Le QI, histoire d'une imposture, 2011, 59 minutes
+R. D. Bock, R. Gibbons, E. Muraki, Full information item factor analysis. Applied Psychological Measurement, 12, 261-280, 1988
+L. R. Fabrigar, D. T. Wegener, R. C. MacCallum, E. J. Strahan, Evaluating the use of exploratory factor analysis in psychological research. Psychological Methods, 4, 272–299, 1999
+Gottfredson, L. S. (1997). Mainstream science on intelligence: An editorial with 52 signatories, history, and bibliography. Intelligence, 24(1), 13–23.
+Stephen Jay Gould, La Mal-mesure de l’homme, éd. Odile Jacob, Paris, 1997
+Michel Huteau, Jacques Lautrey, Les Tests d’intelligence, éd. La Découverte, Paris, 1997
+Olivier Martin, La mesure de l'esprit. Origines et développements de la psychométrie 1900-1950, Paris, L'Harmattan, 1997.
+R. P. McDonald, Nonlinear factor analysis. Psychometric Monographs, No. 15. The Psychometric Society, 1967
+Jean Piaget, La Psychologie de l'intelligence Ed.: Armand Colin, 2006,  (ISBN 978-2-200-32214-4)
+W. Stout, A nonparametric approach for assessing latent trait unidimensionality. Psychometrika, 52, 79-98, 1987
+Louis Leon Thurstone, Primary mental abilities, Psychometric monographs 1, Chicago: University of Chicago press, 1938
+Michel Tort, Le Quotient intellectuel, éd. Maspéro, Paris, 1975
+
+
+=== Articles connexes ===
+Examen psychologique
+Intelligence animale
+Psychologie différentielle
+Intelligence émotionnelle
+Test psychométrique
+
+
+=== Liens externes ===
+
+« Qui doit utiliser les tests psychologiques : psychologue ou non psychologue ? », sur sfpsy.org (consulté le 19 février 2017)
+ Portail de la psychologie

@@ -1,0 +1,258 @@
+Der QR-Code (englisch Quick Response, „schnelle Antwort“, als Markenbegriff „QR Code“) ist ein zweidimensionaler Code, der von der japanischen Firma Denso Wave im Jahr 1994 entwickelt wurde. Aufgrund einer automatischen Fehlerkorrektur ist dieses Verfahren sehr robust und daher weit verbreitet. Weiterentwicklungen sind der Micro-QR-Code, der Secure-QR-Code (SQRC), der iQR-Code und der Frame-QR-Code.
+
+
+== Geschichte ==
+Der QR-Code wurde zur Markierung von Baugruppen und Komponenten für die Logistik in der Automobilproduktion des Toyota-Konzerns entwickelt. Das den QR-Code entwickelnde Unternehmen Denso kooperiert bereits seit seiner Ausgliederung aus dem Konzern 1949 als Zulieferer unter anderem für sämtliche elektrischen und elektronischen Baugruppen mit Toyota. Die Entwicklung des 2D-Codes übernahm die Tochterfirma Denso Wave, die auch Identifikationssysteme und Geräte zur mobilen Datenerfassung entwickelt. Entwickelt wurde der QR-Code ab 1992 von Masahiro Hara und seinen Teammitgliedern Takayuki Nagaya, Motoaki Watabe, Tadao Nojiri und Yuji Uchiyama.
+Masahiro Hara und sein Team gewannen 2014 den Publikumspreis des Europäischen Erfinderpreises des Europäischen Patentamtes in der Kategorie „Außereuropäische Staaten“.
+
+
+== Grundlagen ==
+Der QR-Code besteht aus einer quadratischen Matrix aus schwarzen und weißen Quadraten oder Punkten, Module genannt, die die kodierten Daten binär darstellen. Eine spezielle Markierung in drei der vier Ecken des Quadrats gibt die Orientierung vor. Die Daten im QR-Code sind durch einen fehlerkorrigierenden Code erweitert. Dadurch wird der Verlust von bis zu 30 % des Codes toleriert, d. h., er kann auch dann noch dekodiert werden.
+
+
+== Standards ==
+Es gibt mehrere Standards, welche die Kodierung von QR-Codes beschreiben.
+10. März 1995 – Europäisches Patent Nummer EP0672994
+Oktober 1997 – AIM (Association for Automatic Identification and Mobility) International
+Januar 1999 – JIS X 0510
+Juni 2000 – ISO/IEC 18004:2000 (zurückgezogen)Definiert QR-Code-Modell 1 und QR-Code-Modell 2
+November 2004 – Erweiterung des JIS X 0510 um Micro-QR-Code
+1. September 2006 – ISO/IEC 18004:2006Definiert QR-Code 2005, eine Erweiterung des QR-Code-Modells 2; spezifiziert nicht, wie QR-Code-Modell 1 gelesen werden kann, sondern baut auf QR-Code-Modell-1-Spezifikationen aufDer QR-Code ist in folgenden Ländern als nationaler Standard eingetragen:
+
+Abseits der offiziellen Standards hat NTT DoCoMo De-facto-Standards für die Kodierung von URLs, Kontaktinformationen und weiteren Datentypen definiert. Das Open-Source-Projekt „ZXing“ führt eine Liste mit QR-Code-Datentypen.
+
+
+== Aufbau ==
+Im Code enthalten sind die Versionsinformation (1) und das benutzte Datenformat (2). Der Datenteil (3) enthält die kodierten Daten und Informationen zur Fehlerkorrektur. Zur Feldbegrenzung enthält der QR-Code in nur drei seiner Ecken ein bestimmtes Muster (4.1). Über das fehlende Muster in der vierten Ecke erkennt das Lesegerät die Orientierung. Mit zunehmender Größe des Codes werden weitere Muster (4.2) hinzugefügt, um die Ausrichtung des Codes besser erkennbar zu machen. Zwischen den drei Hauptpositionsmarkierungen befindet sich eine Linie (4.3) aus einer Folge streng abwechselnder Bits, worüber sich die Matrix definiert. Ein Bit direkt oberhalb der Format-Information, das dark module (4.4), repräsentiert die dunkle Farbe des Codes. Wichtig ist ebenfalls der weiße Rand, die sog. Ruhezone (5), um den Code so von anderen Informationen zu trennen.
+
+
+== Versionsgrößen ==
+Der mit Version bezeichnete Wert kodiert die Anzahl der vorkommenden Modulspalten (und -zeilen, da quadratisch). Aus der Versionsnummer ergibt sich diese Anzahl mit der Formel (Versionsnummer - 1) * 4 + 21. Die kleinste Version 1 hat also 21 × 21 Module, und die größtmögliche Version 40 ist 177 × 177 Module (39 * 4 + 21 = 177) groß.
+
+
+== Kapazität und Fehlertoleranz ==
+Die Symbolelemente sind Quadrate, von denen sich mindestens 21×21 und maximal 177×177 Elemente im Symbol befinden. Die Randzone (Ruhezone) sollte mindestens vier Elemente breit sein. Größere Inhalte lassen sich auf bis zu 16 einzelne Codes aufteilen.
+Es existieren vier Fehlerkorrektur-Levels, die eine Rekonstruktion von 7 % (Level L) bis zu 30 % (Level H) beschädigter Daten zulassen. Dabei kommt die Fehlerkorrektur der Reed-Solomon-Codierung zum Einsatz. Diese Eigenschaft wird bei der Erstellung sogenannter „Design-Codes“ ausgenutzt (siehe Abschnitt: Design-QR-Code).
+
+Der maximale Informationsgehalt eines QR-Codes (177×177 Elemente, Fehlerkorrektur-Level „L“) beträgt 23.648 Bit (2.956 Byte). Damit lassen sich laut Hersteller 7089 Dezimalziffern, 4296 alphanumerische Zeichen oder 1817 Kanji-/Kana-Zeichen kodieren.Für Kanji- und Kana-Schriftzeichen (U+4E00 bis U+9FFF, U+3040 bis U+309F, U+30A0 bis U+30FF) existiert ein separates Kodierungsverfahren.
+Der Micro-QR-Code mit einer Größe zwischen 11×11 und 17×17 Elementen nimmt bis zu 35 Ziffern auf, bei einer Randbreite von mindestens zwei Elementen.
+
+
+== Lizenz ==
+Die Verwendung des QR-Codes ist lizenz- und kostenfrei. Die Spezifikationen wurden von Denso Wave offengelegt und sind über die Internationale Organisation für Normung in der Schweiz erhältlich. Der Name „QR Code“ ist in Japan, den Vereinigten Staaten von Amerika, Australien und Europa als eingetragenes Warenzeichen von Denso Wave Incorporated besonders geschützt. Ein entsprechender Hinweis sollte bei Verwendung angebracht werden.Der QR-Code ist als öffentlicher Standard etabliert. In Japan ist er sehr weit verbreitet, man findet ihn dort auf nahezu jedem Werbeplakat. Auch die japanische Regierung verwendet den QR-Code. So benutzt zum Beispiel die japanische Einwanderungsbehörde den QR-Code mit codierten Daten für das Visum, das bei der Einreise in den Reisepass eingeklebt wird.
+
+
+== Darstellung ==
+Der QR-Code kann mit allen gängigen Verfahren problemlos gedruckt werden. Wie beim Strichcode ist allerdings auch hier ein möglichst hoher Kontrast wichtig, idealerweise schwarz auf weiß. Abhängig von den Möglichkeiten des verwendeten Lesegerätes ist auch eine inverse Darstellung möglich. Es ist auch möglich, den Code farbig zu drucken. Allerdings muss darauf geachtet werden, dass der Code als Halbtonbild bzw. als Strichbild gesehen einen gleichmäßigen Kontrast aufweist. Vermehrt wird der QR-Code auch bei der Direktmarkierung auf Produkten angebracht. Sie werden zum Beispiel mit einem Laser direkt auf der Oberfläche des zu kennzeichnenden Materials eingebrannt. Diese QR-Codes können sehr klein sein und sind sehr haltbar.
+In der Darstellungsgröße ist dem QR-Code keine Grenze gesetzt, solange das Lesegerät das Bild formatfüllend und differenziert aufnehmen kann. Es wurden schon Plakatwände und ganze Häuserfassaden mit einem einzigen QR-Code versehen.
+
+
+== Lesen von Codes ==
+Das Lesen von QR-Codes besteht aus zwei Schritten:
+
+Erzeugen eines digitalen Bildes der QR-codierten Daten, z. B. mit Hilfe einer Digitalkamera.
+Umwandeln der im Bild enthaltenen codierten Daten in Textform (Dekodieren).
+
+
+=== Mobiltelefone ===
+Viele Mobiltelefone, PDAs und ähnliche Geräte haben eingebaute Kameras. Damit und mit geeigneter Software aus einem App-Store kann man QR-Codes dekodieren und gegebenenfalls interpretieren, z. B. automatisch auf eine Webseite springen. Der als Mobile-Tagging bezeichnete Prozess ist in Japan äußerst populär. Er verbreitet sich seit 2007 auch in Europa.
+Verbreitet ist die kodierte Abbildung einer Webadresse, verwendet in Zeitschriften, Informationsblättern oder großformatig auf Werbeplakaten. Der Vorteil dieser Methode ist, dass das mühsame Abtippen entfällt. Neben URLs enthalten QR-Codes in der Praxis beispielsweise Telefonnummern, Adressen, informierende Texte, Premium-SMS, vCards, WLAN-Zugangsdaten oder Geodaten.Der erste QR-Code in Deutschland wurde am 16. Oktober 2007 von Spex – Magazin für Popkultur auf der Titelseite veröffentlicht. Die Überschrift „Was sagt uns dieser Code?“ eröffnet einen Artikel, der sich mit dem Trend der 2D-Codes und deren Funktionsweise befasst. Der Autor bezeichnet den Code als Zeichen unserer Zeit, da der QR-Code sowohl von der Modebranche als auch der Musik- und Videoindustrie verwendet wird.Am 9. November 2007 führte Die Welt Kompakt als erste gedruckte Zeitung QR-Codes ein. Mittlerweile kann man den QR-Code in vielen anderen Zeitungen und Zeitschriften sehen.
+Mit dem Erscheinen von iOS 11 im Jahr 2017 fügte Apple eine native QR-Lesefunktion in die auf allen iPhones und iPads vorinstallierte Kamera-Applikation ein.
+
+
+=== Scanner ===
+„Scanner“ ist analog zu Strichcodelesern der gebräuchliche Begriff für die Lesegeräte. Branchenüblich ist auch der Begriff „Imager“, wenn es sich um ein 2D-Gerät handelt. Sie verfügen über eine Kamera und einen Decoder. Zusätzlich bieten viele Geräte eine Zielhilfe, häufig in Form eines lasergenerierten Musters, das das Lesefeld anzeigt.
+Spezielle Lesegeräte sind in der Lage, auch QR-Codes zu lesen, die im Direct-Marking-Verfahren mit einem Laser direkt auf das Material gebrannt wurden. Sie verfügen über eine hochauflösende Kamera und ein Makro-Objektiv sowie spezielle Algorithmen zum Eliminieren verfahrenstypischer Darstellungsfehler.
+
+
+=== Software ===
+Wenn ein digitales QR-Bild bereits vorliegt, dann benötigt man noch eine Software, die das Bild analysiert und in einen Text umwandelt (dekodiert). Dafür gibt es z. B. Online-QR-Code-Dekodierer.
+
+
+== Generieren von Codes ==
+Um einen QR-Code zu generieren, braucht man:
+
+den Text, der codiert werden soll
+den gewünschten Grad der FehlerkorrekturDer grobe Ablauf ist dann:
+
+Anhand der Länge des Textes und des Grades der Fehlerkorrektur bestimmt man, wie groß der QR-Code sein muss.
+Man beginnt mit einer weißen Fläche, auf der nach und nach alle Elemente des QR-Codes dargestellt werden.
+Die Erkennungsmuster, die nicht vom Text abhängen, werden zuerst auf die Fläche gebracht. Das sind die Positionsmuster, die Ausrichtungsmuster und die Synchronisationslinien.
+Aus dem Text wird eine Bitfolge generiert.
+Zur Text-Bitfolge wird eine weitere Bitfolge für die Fehlerkorrektur generiert.
+Die Text-Bitfolge wird zusammen mit der Fehlerkorrektur-Bitfolge dort in das Symbol gezeichnet, wo noch Platz ist. Das geschieht von rechts nach links in Schlangenlinien.
+Um zu erreichen, dass das Symbol ungefähr gleich viele schwarze und weiße Pixel enthält, und um Muster zu vermeiden, die das Einlesen erschweren, werden nacheinander acht verschiedene Masken über das Symbol gelegt. Die Maske, die das beste Ergebnis liefert, wird beibehalten.
+Zum Schluss wird die Kennnummer der verwendeten Maske in das Symbol gezeichnet.
+
+
+=== Einzelschritte: Umwandeln des Textes in eine Bitfolge ===
+Wegen der vielseitigen Anwendungsmöglichkeiten und der geringen Größe von QR-Codes wurde Wert darauf gelegt, dass der codierte Text nur wenig Platz benötigt. Abhängig davon, welche Zeichen im Text vorkommen, kann man den Text mit unterschiedlichen Zeichensätzen codieren:
+
+Wenn der Text nur aus Ziffern (0–9) besteht, verbraucht er am wenigsten Platz. In diesem Fall werden jeweils drei Ziffern zusammengefasst und als 10-Bit-Einheit gespeichert.
+Wenn der Text nur aus Ziffern (0–9), Großbuchstaben (A–Z) und neun weiteren Sonderzeichen (Leerzeichen, $, %, *, +, −, /, ., :) besteht, werden jeweils zwei Zeichen zusammengefasst und als 11-Bit-Einheit gespeichert.
+Wenn der Text nur aus Zeichen besteht, die in ISO-8859-1 vorkommen (das sind unter anderem Groß- und Kleinbuchstaben, Ziffern, viele Satzzeichen und kombinierte Buchstaben für den westeuropäischen Sprachraum), wird jedes Zeichen als 8-Bit-Einheit gespeichert.
+Wenn der Text nur aus Kanji besteht, wird jedes Zeichen als 13-Bit-Einheit gespeichert.
+In den restlichen Fällen wird es komplizierter; dann wird die ECI-Zeichencodierung verwendet.Nachdem der passende Zeichensatz bestimmt ist, werden die folgenden Informationen in die Bitfolge geschrieben:
+
+die Kennnummer des Zeichensatzes
+die Anzahl der Zeichen, die der Text hat
+der Text selbst
+die Ende-Kennung; sie ist immer 0000
+die resultierende Bitfolge in 8-Bit-Einheiten zerlegen; am Ende ggfs. mit Null-Bits auffüllen
+Auffüllen bis zur Datenkapazität der QR-Code-Version mit den Codewörtern 11101100 und 00010001 abwechselndBeispiel
+Um den Text „Märchenbuch“ zu codieren, wird zunächst der passende Zeichensatz ausgewählt. In diesem Fall ist das ISO-8859-1. Dieser Zeichensatz hat die Kennnummer 0100.
+Im zweiten Schritt wird gezählt, wie viele Zeichen der Text enthält. In diesem Fall sind das elf Zeichen. Bei kleinen QR-Codes wird diese Zahl mit 8 Bit codiert, also 0000 1011. Bei größeren QR-Codes würde die Zahl mit 16 Bit codiert werden.
+Anschließend werden die einzelnen Zeichen codiert. Im Falle der Codierung ISO-8859-1 schaut man in der Tabelle für den Zeichensatz nach, welche Nummer dieses Zeichen hat, und schreibt die Nummer ab. Für das „M“ ist das 0100 1101. Das „ä“ bekommt die Nummer 1110 0100, und so weiter.
+Den Abschluss bildet die Ende-Kennung. Sie ist immer 0000, außer wenn nicht mehr genug Platz ist. Dann wird sie abgekürzt.
+Da in diesem Beispiel die Bitfolge ein ganzzahliges Vielfaches von 8-Bit ist, muss nicht mit weiteren Null-Bits aufgefüllt werden.
+Anschließend werden im Wechsel weitere Füllbytes (1110 1100 und 0001 0001) angefügt, um auf die jeweilige Anzahl an Datenwörtern der gewählten Version und Fehlerkorrektur zu kommen.
+Insgesamt wird aus dem Text „Märchenbuch“ somit diese Bitfolge:
+
+0100
+0000 1011
+0100 1101 1110 0100 0111 0010 0110 0011 0110 1000 0110 0101 0110 1110 0110 0010 0111 0101 0110 0011 0110 1000
+0000
+1110 1100 0001 0001 1110 1100 0001 0001 1110 1100 0001 0001Aufteilen in 8-Bit-Einheiten und gegebenenfalls Füllcodes:
+
+01000000 10110100 11011110 01000111 00100110 00110110 10000110 01010110 11100110 00100111 01010110 00110110 10000000 11101100 00010001 11101100 00010001 11101100 00010001 …
+
+
+=== Online-QR-Code-Generator ===
+Eine schnelle und einfache Möglichkeit, sich einen QR-Code zu erstellen, ist ein Online-QR-Code-Generator. Ein Script wandelt Texte in einen Code um und erstellt die Grafik. Somit ist es praktisch jedem möglich, unkompliziert einen Code zu erstellen.
+Jedoch sollte man sich hierbei dessen bewusst sein, dass man potenziell private Daten, wie die WLAN SSID, Passwörter oder ähnliches mit der Website teilt, sofern man diese Daten über die Website in einen QR-Code umwandelt.
+QR-Codes können nicht nur als Pixelgrafik generiert werden, sondern auch aus dafür passenden Unicode-Teilelementen zusammengesetzt werden.
+
+
+=== Offline-QR-Code-Erzeugung ===
+Außer mit Spezialprogrammen und -Apps lässt sich QR-Code auch mittels des weit verbreiteten Officeprogramms LibreOffice Writer erzeugen:
+Text markieren > Einfügen > Objekt > QR-Code
+
+
+== Anwendungsbereiche ==
+Neben ihrer ursprünglichen Bestimmung, dem Einsatz in der Produktionslogistik, finden sich QR-Codes mittlerweile in zahlreichen weiteren Anwendungen wieder.
+
+
+=== Im öffentlichen Raum ===
+Im öffentlichen Raum dienen QR-Codes beispielsweise als Fahrplanauskunft und Navigationshilfe an Haltestellen des öffentlichen Nahverkehrs, als Hilfe für den Einkaufszettel, zur Markierung von Haustieren oder auch als mobile Visitenkarte.
+In Museen werden QR-Codes eingesetzt, um den Besuchern die Möglichkeit zu geben, über das Internet erreichbare Informationen über einzelne Ausstellungsobjekte oder Themenkomplexe aufzurufen. In Berlin wurden auf Pflastersteinen eingravierte QR-Codes am Denkmal für die ermordeten Juden Europas genutzt, um per App das für das Holocaust-Denkmal komponierte virtuelle Konzert anhören zu können.Beim Schnitzeljagd-Spiel Munzee dienen QR-Codes und GPS-Koordinaten (GPS-fähiges Smartphone vorausgesetzt) als „location-based-game“, um beim Scannen der QR-Codes Punkte auf dem Spielerkonto zu erhalten. Die QR-Codes werden auf der Spieleplattform generiert und in der physischen Welt verteilt.
+Rettungswagen der Johanniter wurden 2022 mit einem QR-Code ausgerüstet, der den Link auf „gaffen-toetet.de“ enthält. So sollen Gaffer auf ihr Fehlverhalten aufmerksam gemacht werden.
+
+
+=== In Medien ===
+Auch in der Werbung halten QR-Codes immer weiter Einzug, lassen sich so doch schnell zusätzliche Informationen, beispielsweise Produktvideos, oder Websites mit oder ohne Gewinnspielen aufrufen oder auch direkt zum App Store mit der Möglichkeit zum Herunterladen von Programmen verlinken.2012 erschien erstmals ein interaktiver Ersttagsbrief mit einer Briefmarkenserie „Marke individuell“ eines Leipziger Versandhändlers. Der auf dem Brief aufgedruckte QR-Code wird hier als Shop-Zugang verwendet.Auch bei sogenannten Screentransfers, die die Übertragung einer Internetseite im Webbrowser eines Gerätes auf ein anderes bezeichnet, helfen QR-Codes.
+
+
+=== Weitere Bereiche ===
+QR-Codes werden zur Digitalisierung des Zahlungsverkehrs eingesetzt. Der EPC-QR-Code speichert die Inhalte einer Überweisung gemäß dem europäischen SEPA-Standard und wird z. B. in der Schweizer QR-Rechnung verwendet. Digitale Zahlungssysteme wie Twint nutzen QR-Codes auf Kassendisplays, um den Kunden die rasche Zahlung per App zu ermöglichen. QR-Codes, die mit Spezialtinte auf Geldscheine oder andere Wertpapiere aufgedruckt werden, könnten deren Fälschungssicherheit erhöhen.Auch im Bereich der Lebensrettung sind erste Ansätze für den QR-Code-Einsatz erkennbar. So wird für PKW der QR-Code inzwischen zum Zugang zur Rettungskarte eingesetzt.QR-Codes können auch die Zugangsdaten für WLAN enthalten, die von Mobilgeräten direkt verarbeitet werden. Verschiedene WLAN-Router erzeugen diese Codes in ihrer Nutzeroberfläche, auch Online-Generatoren bieten spezielle Eingabefelder für diesen Zweck an.Seit der Coronapandemie 2020 haben sich QR-Codes auch in der Gastronomie durchgesetzt. So werden sie zum Beispiel zum Abrufen von digitalen Speisekarten, zum Bezahlen und Bestellen direkt vom Tisch aus verwendet.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Gefahren ==
+Weil der Inhalt eines QR-Codes nicht auf den ersten Blick ersichtlich ist, ist es möglich, in ihm einen Link zu verstecken, der den Betrachter nach dem Scannen auf eine schädliche Seite führt oder sogar ungewollt Funktionen seines Smartphones ausführt. Dies betrifft allerdings alle verbreiteten 2D-Codes, die zur Kodierung von Webadressen verwendet werden, und ist keine besondere Eigenart des QR-Codes.
+Eine über derlei Codes („Tags“) ausgeübte Attacke wird geläufig als „Atagging“ bezeichnet. Anfang September 2010 wurden Angriffe auf Mobiltelefone mit Android-Betriebssystem bekannt, bei denen über einen in einem QR-Code codierten Link auf eine Internetseite der ICQ-Client „Jimm“ heruntergeladen werden konnte. Die Software war mit dem Trojaner Trojan-SMS.AndroidOS.Jifake.f infiziert und schickte unaufgefordert mehrere kostenpflichtige SMS an einen russischen Premium-Dienst. Das Bundesamt für Sicherheit in der Informationstechnik warnte Anfang Januar 2013 vor überklebten QR-Codes auf Plakatwänden, die den Anwender auf unseriöse Webseiten führen könnten.Als Schutz vor Attacken wird bei vielen aktuellen Scannern der dekodierte QR-Code-Inhalt zunächst nur angezeigt, statt ihn sofort auszuführen, beispielsweise einem Link folgend eine Seite aufzurufen. Allerdings laden dennoch viele QR-Code-Scanner auch schon beim Anzeigen des Links die Seite vor dem Aufruf im Browser vorab, um z. B. kurze Zeit nach dem Scannen den Seitentitel vor dem eigentlichen Aufruf anzuzeigen oder die Anzeige zu beschleunigen, weshalb auch ohne direkten Seitenaufruf ein gewisses Gefahrenpotential besteht, sofern die Scan-Software beim Generieren der Vorschau angreifbar ist.
+Durch Manipulation der Kodierung für die genaue Anzahl der im QR-Code enthaltenen Zeichen besteht in der Theorie die Möglichkeit, einen Buffer-Underrun oder einen Buffer-Overflow in schlecht programmierter Dekodersoftware zu bewirken. Auch wären Angriffe per SQL-Injection denkbar, sofern die weiterverarbeitende Software über keine entsprechenden Schutzmechanismen verfügt.Eine potenzielle Gefährdung geht allenfalls von der verwendeten Anwendungssoftware aus, welche die gelesenen Daten weiterverarbeitet, jedoch nicht vom QR-Code selbst. Auch der Anwender, insbesondere von Mobiltelefonen, trägt in einem hohen Maß durch unbedarften Umgang mit in QR-Codes codierten URLs zum Risiko bei. Alle genannten Gefahren treffen in gleichem Maße auch für alle 2D-Codesysteme anderer Hersteller zu. Durch die Verwendung des Secure-QR-Codes können die meisten Gefahrenquellen in professionellen Anwendungen weitestgehend eliminiert werden.
+
+
+== Weiterentwicklungen ==
+
+
+=== Design-QR-Code ===
+QR-Codes können mit einem Schriftzug, Logo oder Bild und durch Farbveränderung individualisiert oder mit mehr Aufwand grafisch gestaltet werden. Durch geschicktes Vorgehen und Zweckentfremdung der Fehlerkorrektur bleibt die Funktion dabei erhalten. Solche QR-Codes werden häufig als Design-QR-Codes oder bei aufwändigerer Gestaltung als Custom-QR-Codes bezeichnet. Oft werden verfremdete QR-Codes auch als iQR-Code bezeichnet, was allerdings sachlich falsch ist, da der iQR-Code eine eigene weiterentwickelte Variante des QR-Codes darstellt.
+Design-QR-Codes sind keine offizielle Weiterentwicklung von Denso Wave.
+In den Anfängen beschränkte sich die Gestaltung häufig auf einen einfachen Austausch der Farben. Darüber hinaus kann zusätzlich ein Schriftzug oder ein Logo als kleine Pixelgrafik meist mittig auf den QR-Code gelegt oder direkt hineingearbeitet werden.
+
+Dabei wird ein Teil der Daten des Codes von der Grafik einfach überlagert. Die Redundanz der Fehlerkorrektur im Level „H“ ermöglicht dies auf einer Fläche von bis zu 30 % des gesamten Codes. Technisch gesehen ist der Datenteil eines Design-QR-Codes durch die überlagerte Grafik bereits so weit gestört, dass echte Lesefehler nicht mehr ausgeglichen werden können.
+Eine andere Möglichkeit ist, durch mathematische Verfahren eine Grafik in einen QR-Code einzurechnen, so dass der QR-Code fehlerfrei ist. Dazu wird der Hyperlink um einen scheinbar sinnlosen Anker ergänzt, der keine eigene Funktion hat.Durch die Verknüpfung dieser Verfahren können heute komplexe Custom-QR-Codes erzeugt werden, bei denen die Gestaltung im Vordergrund steht. So werden QR-Codes gezielt an bestehende Corporate Designs angepasst oder in Marketingkampagnen integriert. Beispiele sind Anzeigen, die von einem einzigen, aufwendig gestalteten Custom-QR-Code dominiert werden, oder Firmenlogos, die direkt als Custom-QR-Codes gestaltet sind. 2009 gestaltete Takashi Murakami einen solchen Corporate-QR-Code im Auftrag von Louis Vuitton.Das Überlagern mit Logos oder Illustrationen sowie eigene Designs und Verfremdungen sind rechtlich bedenklich, da Denso Wave auch hierfür eigene Patente hält. Denso Wave verzichtet zwar bei Standard-QR-Codes auf die Anwendung des Patentrechts, jedoch nicht bei veränderten QR-Codes.
+
+
+=== Micro-QR-Code ===
+Der Micro-QR-Code ist eine auf kleinste Abmessung optimierte Variante des QR-Code. Er wurde im Jahr 2000 von Denso Wave vorgestellt. Statt der bekannten drei Orientierungsmarkierungen des QR-Codes verfügt der Micro-QR-Code nur über eine in der linken oberen Ecke. Maximal 35 Ziffern bzw. 21 alphanumerische Zeichen können kodiert werden, allerdings wird hierfür weniger Raum benötigt.
+Die folgende Tabelle enthält Angaben über die maximale Kapazität für die jeweilige Version und entsprechendem Level der Fehlerkorrektur:
+
+Der Micro-QR-Code ist standardisiert als JIS X 0510 (November 2004).
+
+
+=== Secure-QR-Code ===
+Der Secure-QR-Code (SQRC) ist ein QR-Code mit erweiterter Funktion zum Verschlüsseln von Dateninhalten. Denso Wave stellte ihn 2005 vor. Verwendung findet der SQRC in Anwendungen, bei denen Dateninhalte oder Teile davon nicht durch Dritte eingesehen werden sollen. Dafür bietet der SQRC die Möglichkeit, den gesamten Inhalt oder wahlweise auch nur einen Teil der enthaltenen Daten zu verschlüsseln. Die öffentlichen (unverschlüsselten) Daten in einem SQRC können dann auch mit normalen QR-Code-Lesegeräten und Mobiltelefonen gelesen werden, während die verschlüsselten Informationen verborgen bleiben. Um die verschlüsselten Daten lesen zu können, bedarf es eines Lesegerätes, das Secure-QR-Codes dekodieren kann. Der passende Schlüssel muss im Lesegerät gespeichert sein.
+Die Verschlüsselung der Daten findet bereits bei der Generierung des SQRC statt. Die Entschlüsselung ist Teil des Dekoders im Lesegerät. Eine zusätzliche Verschlüsselungssoftware auf Anwendungsebene wird daher nicht benötigt. Zum Ver- und Entschlüsseln wird ein symmetrischer Schlüssel (Kennwort) mit einer Länge von 8 Bytes benötigt.
+
+
+=== iQR-Code ===
+Mit dem iQR-Code griff Denso Wave 2012 als Weiterentwicklung des normalen QR-Codes einige Vorteile des Micro-QR-Codes auf und übertrug im Ergebnis damit die Eigenschaften des normalen QR-Codes. Neu war damals, dass er nicht zwingend auf die quadratische Form festgelegt ist, sondern auch die eines Rechtecks annehmen kann. Dies erleichtert zum Beispiel das Lesen von zylindrischen Gegenständen und die Verwendung dort, wo ein klassischer Barcode durch einen 2D-Code abgelöst werden soll, aber kein Platz für ein Quadrat vorhanden ist. Auch für Anwendungen, die viele Daten auf kleinem Raum benötigen, bietet der iQR-Code eine Lösung.
+Die maximale Datenmenge wurde um mehr als einen Faktor 4,6 von 177×177 Elementen auf 422×422 Elemente erhöht. Damit lassen sich im größten Format (Version 61) mehr als 40.000 numerische Zeichen in einem einzigen Code unterbringen.
+Als Rechteck stehen 15 Formate von 5×19 Elemente bis 43×131 Elemente zur Verfügung. Im größten Format (Version R15) finden bis zu 1.202 numerische Zeichen Platz.
+Zusätzlich ist der iQR-Code um bis zu 30 % kleiner als ein Standard-QR-Code mit gleicher kodierter Datenmenge. Er ist auch nochmals kompakter als der Micro-QR-Code. Das kleinstmögliche Format (Version 1) hat 9×9 Elemente und bietet Platz für 6 Zeichen.
+Aufgrund der unterstützten Zeichen ist eine Kodierung des Inhaltes entsprechend ISO/IEC 15434 (Transfer Syntax) möglich. Dadurch ist die Verwendung vieler in Industrie und Handel gebräuchlicher Datenstrukturen möglich, beispielsweise UN/EDIFACT-Segmente, GS1-Application Identifier oder ANS MH10.8.2 Data Identifier entsprechend ISO/IEC 15418.
+Für eine erhöhte Fehlertoleranz wurde zusätzlich der Level „T“ geschaffen, der die Wiederherstellung von bis zu 60 % zerstörter Daten ermöglicht.
+Der Hersteller Denso Wave plante wie schon für den QR-Code die Offenlegung der Spezifikation und die freie Nutzung als Public Domain unter Respektierung des Warenzeichens. Außerdem wurde die Eintragung als ISO-Standard angestrebt.
+Im Internet werden personalisierte QR-Codes (sogenannte „Design-QR-Codes“, auch farbig und mit integrierten Logos) häufig als iQR-Code bezeichnet, was sachlich jedoch falsch ist.
+
+
+=== Frame QR ===
+Frame QR ist eine Weiterentwicklung des QR-Codes, die das Hinzufügen von eigenen Logos oder Designs bei gleichzeitiger Erhaltung der Redundanz ermöglicht. Die freizuhaltende Zeichenfläche wird bereits bei der Erstellung des Codes berücksichtigt und kann verschiedene Formen annehmen.
+Als Zeichenfläche stehen bereits einige Grundformen (unter anderem Quadrat, Kreis, Dreieck, Kreuz, Herz, Stern mit 5 oder 6 Zacken) zur Auswahl, welche durch Beeinflussung von Breite, Höhe und Drehwinkel variiert werden können. Es kann jedoch auch eine eigene Form als Zeichenfläche definiert werden.
+Zur Gestaltung können der Zeichenfläche, dem Zeichenflächenrahmen, den hellen und den dunklen Datenpunkten sowie den Orientierungsmarkern jeweils eigene Farben zugeordnet werden. Die üblicherweise quadratischen Matrixpunkte können auch die Form von kleinen Kreisen annehmen.
+Die Datenmatrix selbst wird um die Zeichenfläche herum gelegt und so dimensioniert, dass alle Daten im gewählten Redundanzlevel kodiert werden. Anders als bei den sogenannten Design-QR-Codes, welche diese Redundanz ausnutzen, gehen keine Daten verloren und die Redundanz bleibt in vollem Umfang erhalten. Als Redundanzlevel stehen gleichermaßen die bereits beim ursprünglichen QR-Code verwendeten Level L, M, Q und H zur Verfügung.
+Frame QR ist nicht kompatibel mit dem herkömmlichen QR-Code und kann daher nicht mit den üblichen Scannern oder Smartphone-Anwendungen gelesen werden. Denso Wave stellt hierfür jedoch eine eigene App für iOS und Android kostenlos zu Verfügung.
+
+
+== Der QR-Code in der Kunst ==
+Ab 2007 wurde der QR-Code auch in der zeitgenössischen Kunst ein Thema. Weil er als digitales Zeichen eine starke optische Wirkung vermittelt und den Nutzer mit dem Internet verbindet, inspiriert er Kreative zu Experimenten.
+Der Bremer Medienkünstler Michael Weisser startete 2007 seine Forschung über Ästhetik und Funktion des QR-Codes. 2013 entwickelte er QRs, die in Farbe und Form gestaltet zu Kunstwerken erklärt wurden und als 33-QR-Denkbänke den Campus der Fachhochschule Kiel gestalten.Ab 2009 verwendete der Designer Frank Haase in Hemer den QR-Code in Grafiken, Bildern und Objekten. Haase leitet den Betrachter über den farbigen Original-QR auf eigene Animationen im Internet.
+2009 setzte der Berliner Street-Art-Künstler Sweza den QR in Sprays ein. Er sprühte die Muster als Stencil an Hauswände. Über den Scan des QR gelangte der Nutzer an elektronische Songs des Künstlers.
+
+
+== Siehe auch ==
+EPC-QR-Code (auch „GiroCode“ genannt)
+Semacode
+Aztec-Code
+BeeTagg
+ShotCode
+DataMatrix-Code
+JAB-Code
+High Capacity Color Barcode
+QRpedia
+
+
+== Literatur ==
+Bernhard Lenk: „QR Code“, Fachbuchverlag Monika Lenk, Kirchheim 2012, ISBN 978-3-935551-10-6.
+Michael Weisser: „Der|QR|Code – Hintergründe und Visionen – Beschreibung, Geschichte, Technik, Nutzung, Gefahren, Grenzen, Visionen und Ästhetik der „schnellen Antwort“ im 21. Jahrhundert“. Die|QR|Edition, Murnau am Staffelsee 2015, ISBN 978-3-95765-027-6.
+
+
+== Weblinks ==
+
+Literatur von und über QR-Code im Katalog der Deutschen Nationalbibliothek
+Denso Wave, Website des Entwicklers des QR-Codes
+Basiswissen QR-Code, Übersichts-Website zu QR-Codes
+„QR Code Overview & Progress of QR Code Applications“ (PDF; 2,2 MB), Informationen zu Anwendungen mit QR-Codes, herausgegeben von GS1 in Japan
+Anleitung zur Erstellung von Encoder/Decoder, Informationen zum Verfahren (englisch)
+Barcodes online erstellen, Lineare und 2D Codes der verschiedensten Normen erstellenQR-Code-Generatoren
+
+Online-QR-Code-Generator mit freier API (erstellen und lesen/decodieren von QR-Codes)
+Online-QR-Code-Generator mit API für den privaten und gewerblichen Gebrauch, mit Auswahl der Fehlerkorrektur
+Online-QR-Code-Generator für die verschiedensten Anwendungsbereiche
+QR-Codes mit Geo-Information verknüpfen zu einem QR-Code kann ein Ort oder Adresse entweder über eine API oder auf der Webseite direkt angegeben werdenQR-Code-Dekodierer
+
+Online-QR-Code-Dekodierer
+
+
+== Einzelnachweise ==

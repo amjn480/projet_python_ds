@@ -1,0 +1,32 @@
+L [ell] är den tolfte bokstaven i det moderna latinska alfabetet.
+
+
+== Betydelser ==
+
+
+=== Versalt L ===
+Talet 50 med romerska siffror.
+Auktorsnamn för Linné, betecknande att en art beskrivits och namngivits av denne – "Blåbär (Vaccinium myrtillus L.)". Carl von Linné är den ende som internationellt betecknas med en enda bokstav på detta sätt.
+Nationalitetsbeteckning för motorfordon från Luxemburg.
+Inom bibliotekens klassifikationssystem SAB beteckning för biografi med genealogi, se SAB:L.
+Tidigare länsbokstav, för det förutvarande Kristianstads län.
+Den statistiska kategorin förlust i baseboll.
+Partiförkortning för Liberalerna.
+
+
+=== Gement l ===
+Förkortning för volymenheten liter.
+I IPA-alfabetet en alveolar lateral approximant.
+Förkortning av latinets liquidus som beskriver ett flytande ämne och som skrivs efter kemiska beteckningar. (ex. H₂O(l) )
+
+
+== Historia ==
+Bokstaven L motsvaras av den grekiska bokstaven lambda, som i sin tur härstammar från den feniciska bokstaven "lamedh", vilken ursprungligen föreställde en stav, som man drev fram boskap med, eller en herdestav.
+
+
+== Datateknik ==
+I datorer lagras L samt förkomponerade bokstäver med L som bas och vissa andra varianter av L med följande kodpunkter:
+
+I ASCII-baserade kodningar lagras L med värdet 0x4C (hexadecimalt), l med värdet 0x6C (hexadecimalt) och # med värdet 0x23 (hexadecimalt).
+I EBCDIC-baserade kodningar lagras L med värdet 0xD3 (hexadecimalt), l med värdet 0x93 (hexadecimalt) och # med värdet 0x7B (hexadecimalt).
+Övriga varianter av L lagras med olika värden beroende på vilken kodning som används, om de alls kan representeras.

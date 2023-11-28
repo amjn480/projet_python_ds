@@ -1,0 +1,65 @@
+Les zones horàries o fusos horaris són cadascuna de les vint-i-quatre àrees en les quals es divideix la Terra que segueixen la mateixa definició de temps. Antigament, la gent feia servir el temps solar aparent, guiant-se per la posició del Sol, amb aquest sistema l'hora variava amb la distància per exemple entre ciutats. Els fusos horaris van corregir en part aquest problema en posar els rellotges d'una regió al mateix temps solar mig. Les zones horàries generalment estan centrades en meridians amb una longitud que és un múltiple de 15 °, en tot cas tal com es pot veure en el següent mapa les formes de les zones horàries s'han vist força afectades per les fronteres polítiques.
+
+Totes les zones horàries es defineixen en relació al temps universal coordinat (UTC), que és el fus horari situat sobre el meridià de Greenwich, que passa per sobre Londres.
+Com que la Terra gira d'Oest a Est, en passar d'una zona horària a la següent en direcció Est, hauríem de sumar una hora. Si al contrari, es passa de l'Est a l'Oest, hem de restar una hora. El meridià 180°, conegut com a línia internacional de canvi de data, marca el canvi de dia.
+
+
+== Horari d'estiu ==
+
+L'horari d'estiu (també denominat DST, Daylight saving time) és l'horari que obeeix a la convenció per la qual s'avancen els rellotges respecte a l'hora teòrica de la zona horària corresponent; el motiu és el d'aprofitar més la llum diürna, especialment quan aquesta es redueix als matins. Dit d'una altra manera, és el temps local que un país adopta per una determinada part de l'any, que generalment es concreta en avançar en una hora l'horari estàndard oficial, o horari d'hivern.
+Les dates de començament i acabament del DST també varien però, generalment, a l'hemisferi nord comencen a les dues de la matinada del primer diumenge d'abril o l'últim de març, i finalitza a les dues de la matinada del darrer diumenge d'octubre. A l'hemisferi sud, les dates de començament i acabament són sis mesos més tard. Amb aquesta iniciativa, el temps oficial s'avança una hora a començaments de la primavera i es retarda de nou a la tardor de manera que les hores d'activitat s'acomoden millor a les hores de llum diürna.
+
+
+== Història ==
+El temps GMT (Greenwich Mean Time) o temps mitjà del meridià de Greenwich va ser establert el 1675 quan es va construir l'Observatori Reial de Greenwich per tal d'ajudar els mariners anglesos a determinar la longitud al mar. En aquell temps els rellotge local de cada ciutat es calibrava respecte al seu migdia local i per tant l'hora diferia lleugerament d'una ciutat a una altra. La primera zona horària del món va ser creada a Gran Bretanya per les companyies de ferrocarril l'1 de desembre del 1847, amb l'hora GMT que era mantinguda amb cronòmetres portàtils. El 23 d'agost del 1852 es van començar a transmetre els senyals horaris a través del telègraf des de l'Observatori de Greenwich. Vers el 1855 la major part dels rellotges públics de Gran Bretanya ja utilitzaven l'hora GMT tot i que no a esdevenir l'hora legal fins al 1880. Durant aquesta època alguns rellotges tenien dues minuteres, una per l'hora local i l'altra per la de Greenwich.El 2 de novembre del 1868, la llavors colònia britànica de Nova Zelanda va ser la primera a adoptar oficialment un temps estàndard per a tot el seu territori. En aquest cas l'hora es basava en el meridià 172° 30′ Est, el que significa 11 hores i 30 minuts per davant de l'hora GMT. Aquest estàndard va ser conegut com a  New Zealand Mean Time.
+La gestió de l'hora als ferrocarrils d'Amèrica de nord de mitjans del segle xix era una mica confusa. Cada ferrocarril utilitzava el seu propi temps estàndard, generalment basat en l'hora local de la seva seu central o la de l'estació terminal més important, i els horaris dels trens es publicaven utilitzant el temps de cada companyia. En els casos dels punts on diferents ferrocarrils es creuaven es disposava un rellotge diferent per a cada línia, i cadascun mostrava una hora diferent. Per exemple, a l'estació principal de Pittsburgh, Pennsilvània, van arribar mantenir sis hores diferents. No és difícil imaginar la confusió que això podia ocasionar entre els viatgers que feien un llarg viatge amb diversos canvis de tren.
+L'anarquia era similar arreu, a Barcelona una ordre de l'alcalde del 15 de desembre del 1891 va fixar com a hora oficial de la ciutat la que marcava el rellotge de la façana de la Reial Acadèmia de Ciències i Arts de Barcelona, a la Rambla, (als baixos hi ha el Teatre Poliorama). No seria fins al Reial Decret del 26 de juliol del 1900 que s'unificaria l'hora a l'estat adoptant l'hora GMT amb efectes des de l'1 de gener del 1901.La primera persona que va proposar un sistema mundial de zones horàries va ser el matemàtic italià Giuseppe Barilli, conegut amb el pseudònim de Quirico Filopanti, a la seva obra Miranda! publicada el 1858, però la seva idea no fou coneguda fins molt després de la seva la mort i no va influir en l'adopció dels fusos horaris durant el segle xix. Va proposar 24 zones horàries i també un temps universal per a ser utilitzat en l'astronomia i la telegrafia.El 1879 el canadenc Sandford Fleming va proposar un sistema mundial de zones horàries i va promocionar el seu sistema en diverses conferències internacionals, de manera que se li acredita la idea. El 1876 va fer una primera proposta d'un rellotge global les 24 hores, conceptualment situat al centre de la Terra i no vinculat a cap meridià. El 1879 va especificar que seu dia universal començaria a l'antimeridià del meridià de Greenwich (el meridià 180), i va admetre que les zones horàries d'una hora podien tenir un ús local limitat. L'octubre del 1884 va proposar el seu sistema a la Conferència Internacional del Meridià de Washington, però no va ser adoptat perquè la qüestió no era de la seva competència. Tanmateix la conferència va adoptar un dia universal de 24 hores que començava a la mitjanit de Greenwich, però va precisar que això no interferia amb la utilització de temps locals.
+El 1929 la majoria dels principals països havien adoptat les zones horàries. Avui en dia tots els estats utilitzen les zones horàries estàndards, però no tots apliquen el concepte tal com es va concebre originalment. Terranova i Labrador, l'Índia, l'Iran, l'Afganistan, Veneçuela, Myanmar, les Illes Marqueses i algunes parts d'Austràlia utilitzen una desviació de mitja hora com a l'hora oficial, i algunes zones com el Nepal o les Illes Chatham (Nova Zelanda) utilitzen una desviació d'un quart d'hora. A l'extrem contrari, alguns països com la Xina o l'Índia utilitzen una única zona horària tot i que l'extensió del seu territori supera a bastament els 15° de longitud.
+
+
+== Zones horàries i territoris compresos ==
+Els països indicats amb un * fan servir horari d'estiu, que consisteix a afegir una hora a l'estiu per aprofitar millor la llum solar. Els països de l'hemisferi nord afegeixen l'hora el març o abril, mentre que els que estan a l'hemisferi sud l'afegeixen l'octubre o novembre.
+
+
+=== Zones des d'UTC-12h fins UTC-9h 30min ===
+
+
+=== Zones des d'UTC-9h fins UTC-6h ===
+
+
+=== Zones des d'UTC-5h fins UTC-4h ===
+
+
+=== Zones des d'UTC-3h 30min fins UTC-1h ===
+
+
+=== Zones des d'UTC fins UTC+3h ===
+
+
+=== Zones des d'UTC+3h 30min fins UTC+5h ===
+
+
+=== Zones des d'UTC+5h 30min fins UTC+6h 30min ===
+
+
+=== Zones des d'TC+7h fins UTC+9h 30min ===
+Nota: La Xina té el mateix horari a tot el seu territori, i per tant, aquesta zona horària és excepcionalment ampla. A un dels extrems el sol arriba al seu màxim a les 15 h mentre que a l'altre extrem el màxim es produeix a les 11 h.
+
+
+=== Zones des d'UTC+10h fins UTC+11h 30min ===
+
+
+=== Zones des d'UTC+12h fins UTC+14h ===
+
+
+== Referències ==
+
+
+== Vegeu també ==
+Trastorn d'horari
+Hora Internet
+ISO 8601
+
+
+== Enllaços externs ==
+RFC 3339, document RFC que descriu la utilització del format d'hora als protocols d'internet.

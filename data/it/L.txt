@@ -1,0 +1,30 @@
+La L o l (chiamata elle in italiano) è la decima lettera dell'alfabeto italiano e la dodicesima dell'alfabeto latino moderno.
+[l] rappresenta anche una consonante laterale alveolare nell'alfabeto fonetico internazionale.
+
+
+== Storia ==
+La lettera L deriva dalla semitica Lamed, che rappresentava il valore fonetico [l], così come la lettera greca lambda Λ (maiuscola) o λ (minuscola), e come l'equivalente lettera etrusca e latina.
+
+
+== Informatica ==
+In Unicode la L maiuscola ha il codice U+004C mentre la l minuscola ha il codice U+006C.
+Il codice ASCII della L è 76, quello della l è 108; i corrispettivi valori binari sono: 01001100 e 01101100.
+Il codice EBCDIC per la L è 211, per la l è 147.
+I riferimenti numerici in HTML e XML sono "&#76;" e "&#108;", rispettivamente per la maiuscola e la minuscola.
+
+
+== Voci correlate ==
+Ł
+£
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni di o su L
+ Wikizionario contiene il lemma di dizionario «l»
+ Wikimedia Commons contiene immagini o altri file su L
+
+
+== Collegamenti esterni ==
+
+(EN) l, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

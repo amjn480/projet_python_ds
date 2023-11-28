@@ -1,0 +1,379 @@
+Le trouble déficit de l'attention avec ou sans hyperactivité (TDAH ; en anglais : attention deficit hyperactivity disorder, ADHD) est un trouble du neurodéveloppement caractérisé par trois types de symptômes pouvant se manifester seuls ou combinés : des difficultés d'attention et son contrôle, des symptômes d'hyperactivité et d'hyperkinésie et des problèmes de gestion de l'impulsivité. Le trouble est reconnu lorsque ces symptômes se manifestent de manière persistante, sur six mois ou plus, et de manière suffisamment importante pour poser un obstacle développemental ou perturber l'insertion sociale ou encore le travail scolaire. Le Manuel diagnostique et statistique des troubles mentaux 5e édition révisée (DSM-5), indique que le TDAH peut être comorbide à de multiples autres troubles, comme le trouble oppositionnel avec provocation (TOP) ou le trouble explosif intermittent (TEI) ainsi que de multiples troubles spécifiques des apprentissages, des troubles du sommeil, des troubles anxieux, des troubles de l'humeur.
+Ce trouble, marqué par une dérégulation de la dopamine, débute durant l'enfance et persiste à l'âge adulte dans au moins 15 % des cas selon les critères les plus stricts de définition et jusqu'à 65 % selon les anciens critères de rémission partielle du DSM-IV. La fréquence du TDAH dans la population serait d'environ 2,5 % chez les adultes et 5 % pour les enfants, spécifiquement en France selon la HAS, 3,5 % à 5,6 % des enfants en seraient atteints. Nonobstant le fait que la détection du trouble est plus complexe chez les filles et femmes de par les symptômes généralement de type inattentif, plus difficiles à détecter, que les symptômes de type hyperactif/impulsif, plus souvent exhibés par les garçons et les hommes, le TDAH se retrouve plus souvent chez les sujets masculins, dans une proportion de deux garçons atteints pour une fille, et 1,6 homme pour 1 femme.
+Les causes précises du TDAH ne sont pas connues, mais le consensus scientifique actuel est axé sur des prédispositions génétiques et leurs interactions avec l'environnement.
+La Haute Autorité de santé en France, comme la Société canadienne de pédiatrie, conseillent pour le traitement du TDAH chez les enfants de privilégier en premier lieu la prise en charge des symptômes via des thérapies non médicamenteuses, pour essayer d'en réduire l'effet sur la vie quotidienne. Il est ainsi recommandé de privilégier un encadrement psychologique ou neuropsychologique ; les instructions ne portant que sur la prise en charge des enfants, le discours est orienté sur les thérapies cognitivo-comportementales (TCC), les aménagements éducatifs et le soutien à l'enfant et aux parents. En second lieu seulement le traitement médicamenteux est envisagé,,.
+Les médicaments utilisés pour traiter le TDAH incluent des psychostimulants comme le méthylphénidate — qui est la seule molécule commercialisée en France, uniquement délivrée sous ordonnance hospitalière avant 2021, et qui depuis 2021, peut être prescrite initialement par n'importe quel neurologue, psychiatre, ou pédiatre de ville —, la lisdexamfétamine, ou encore l'adderall, ou peuvent être des médicaments non stimulants dont l'effet est moins immédiat, comme l'atomoxétine et la guanfacine, ou encore certains types d'antidépresseurs, notamment des antidépresseurs tricycliques.
+Le TDAH a été décrit en partie dès la fin du XVIIIe siècle mais encore en 1968 lors de la publication du DSM-II, le syndrome n'était décrit qu'en une ligne et qualifié de « réaction hyperkinétique de l'enfance ». Depuis, sa description a été complétée, avec l'apparition pour la première fois dans le DSM-V de la description des symptômes à l'âge adulte, et les prises en charge sont de mieux en mieux décrites par les organismes de santé des États ; en dépit de cela, le TDAH continue de faire l'objet de nombreuses controverses, sur le mauvais usage des médicaments prescrits, le surdiagnostic chez les enfants, le sous-diagnostic chez les adultes et les filles et femmes, les différences de prévalence, l'existence de la persistance à l'âge adulte, ou encore l'existence même du trouble.
+
+
+== Historique et classifications ==
+Les historiens de la psychiatrie font remonter les premières descriptions cliniques de ce qui n'était évidemment pas encore baptisé TDAH à 1798, lorsqu'Alexander Crichton décrit « un état morbide [caractérisé par une] incapacité à porter attention avec un degré de constance suffisante à un objet donné » dans un des rares ouvrages publiés à l'époque sur les maladies mentales. C'est dans un chapitre sur l'attention et les maladies du livre second qu'il décrit ce qu'est l'attention, et procède par la suite à la description du phénomène d'« inattention morbide » dû à une « sensibilité anormale des nerfs ».
+La première description de l'hyperactivité est parfois attribuée à Heinrich Hoffmann, un psychiatre et écrivain allemand, qui utilise le personnage de “Zappel-Philipp” (« Philippe qui gigote », 1844) dans l'un de ses contes illustrés pour enfants ; c'est l'histoire d'un enfant perpétuellement agité qui, sur fond de réprimandes de ses parents, finit par tomber à la renverse et emporter avec lui la nappe et tout le dîner. Un autre conte, ajouté au même recueil (« Struwwelpeter » en 1847) et intitulé « Die Geschichte von Hans Guck-in-die-Luft » (« L'histoire de Hans-tête-en-l'air »), a aussi été associé par plusieurs auteurs à des symptômes d'inattention propres au TDAH. Ces auteurs s'accordent sur le fait qu'au moins une histoire, celle de Zappel-Philipp, serait la première description du TDAH chez l'enfant, mais cela ne fait pas consensus ; par exemple E. Seidler y voit plutôt le récit d'un conflit intrafamilial classique entre un père et son fils turbulent.
+Des descriptions de plus en plus précises et en termes médicaux sont faites à la fin du XIXe siècle et à l'orée du XXe siècle. Victor Bigot introduit en 1877 le terme d'instable : « L'instable ne déraisonne pas; ses actes seuls sont souvent déraisonnables » ; il en fait « le premier degré des anomalies inférieures » où « l'intelligence n'est pas amoindrie comme dans la demi-imbécilité ». Désiré-Magloire Bourneville, un neurologue français, précise en 1887 la notion d’« instabilité mentale » et décrit en 1897 le cas d'enfants instables dont le comportement s'apparente clairement au trouble de déficit d'attention avec hyperactivité, qui pour lui s'apparentait à une forme de handicap mental. Emil Kraepelin en 1898, Jean Demoor (ru) en 1901 précèdent George Frederic Still (en) avec leurs descriptions de tempéraments instables et versatiles, de troubles de l'activité et de manque de discipline.
+George Still détaille en 1902 dans une conférence qu'il fait plus tard publier dans The Lancet, le cas d'enfants qui, bien que n'ayant pas de déficit intellectuel, présentent ce qu'il appelle un « défaut du contrôle moral », termes par lesquels il désigne dans son cours l'incapacité à contrôler son comportement. Il note aussi la disproportion entre garçons et filles puisque sur les vingt cas d'enfants étudiés, quinze sont des garçons et cinq des filles.
+Ce tableau nosologique sera repris dans le monde francophone par Bourneville et complété par les études de Georges Paul-Boncour (1866-1960) et de Jean Philippe, s'intéressant notamment aux effets de cette instabilité mentale sur les performances scolaires.
+À partir des années 1960, le terme apparaît dans les classifications,.
+La classification internationale des maladies (CIM-10) définit les troubles hyperkinétiques (code F90) comme des « troubles caractérisés par un début précoce (habituellement au cours des cinq premières années de la vie), un manque de persévérance dans les activités qui exigent une participation cognitive et une tendance à passer d'une activité à l'autre sans en finir aucune, associés à une activité globale désorganisée, incoordonnée et excessive ».
+Selon le Manuel diagnostique et statistique des troubles mentaux (DSM-5), le trouble déficit de l'attention/hyperactivité (TDAH) se caractérise par deux séries de manifestations : le déficit de l’attention d’un côté et l’hyperactivité-impulsivité de l’autre.
+Selon la classification française des troubles mentaux de l'enfant et de l'adolescent (CFTMEA), le trouble de l'attention sans hyperkinésie (code 6.13), classé parmi les troubles cognitifs et des acquisitions scolaires, dans le chapitre trouble du développement et des fonctions instrumentales, et l’hyperkinésie avec troubles de l'attention (code 7.00), classée parmi les troubles des conduites et des comportements, est caractérisée « sur le versant psychique ; [par] des difficultés à fixer l'attention, un manque de constance dans les activités qui exigent une participation cognitive, une tendance à une activité désorganisée, non coordonnée et excessive, et un certain degré d'impulsivité ; sur le plan moteur : [par] une hyperactivité ou une agitation motrice incessante ».
+
+
+== Diagnostic ==
+Comme d'autres troubles psychiques, le diagnostic de TDAH repose sur un ensemble de critères cliniques qui font consensus parmi les psychiatres, psychologues cliniciens et psychomotriciens car plus ou moins communs à l'ensemble des personnes qui souffrent de cette pathologie et suffisamment spécifiques pour distinguer ce trouble des autres maladies psychiatriques.
+
+
+=== Symptômes ===
+Une triade de symptômes : l'inattention, l'hyperactivité et l'impulsivité.
+Les symptômes observés doivent être persistants depuis au moins six mois et survenir dans différents contextes ou situations de vie. Ils doivent présenter un certain degré de sévérité par rapport à d'autres enfants du même âge et entraîner une situation de handicap pour l'enfant ou l'adulte concerné.
+Ces symptômes peuvent varier selon le contexte. Ils auront tendance à se majorer dans les situations qui exigent un effort intellectuel et/ou d'attention, dans les situations monotones ou non structurées ou encore en cas de fatigue. À l'inverse, ils diminueront en situation duelle, en situation nouvelle ou si une récompense est prévue ou en cas de renforcement fréquent des comportements appropriés.
+
+
+==== Déficit d'attention ====
+L'enfant inattentif peut sembler ne pas écouter quand on lui parle. Il a tendance à ne pas obéir aux consignes ou à être facilement distrait. Il a des difficultés à organiser ses travaux et ses activités. Il évite ou fait à contrecœur les tâches qui nécessitent un effort mental soutenu. Il perd souvent les objets nécessaires à son travail ou à ses activités.
+
+
+==== Hyperactivité-impulsivité ====
+L'enfant hyperactif-impulsif aime souvent courir ou sauter dans des situations où cela n’est pas approprié. Il a des difficultés à attendre son tour. Il se précipite pour répondre aux questions sans attendre qu’on ait terminé de les poser.
+L'hyperactivité est caractérisée par une grande excitation, le plus souvent physique. L'impulsivité, pour sa part, s'observe par la prise de décisions irréfléchies. Dans les deux cas, ces comportements sont dus à un manque d'inhibition.
+
+
+==== Mémoire de travail verbale ====
+Une méta-analyse a révélé que les enfants et les adolescents atteints de TDAH ont de moins bonnes performances en mémoire de travail verbale par rapport aux individus témoins. De plus, ces difficultés diminuent avec l'âge.
+
+
+==== Vision ====
+Le trouble du déficit de l'attention avec hyperactivité (TDAH) est associé à un risque accru de certains problèmes de vision tels que l'astigmatisme, l'hypermétropie, le strabisme et la réduction du point de convergence près. Cependant, aucune différence significative n'a été observée en ce qui concerne l'épaisseur de la couche de fibres nerveuses rétiniennes ou l'erreur de réfraction, ce qui suggère que le TDAH est lié à certains problèmes de vision, mais qu'il n'y a pas de différences au niveau des aspects structurels de l'œil.
+En outre, il a été constaté une augmentation du retard dans la mise au point sur des objets proches chez les personnes atteintes de TDAH. Cela signifie qu'ils peuvent rencontrer des difficultés à ajuster rapidement leur vision pour se focaliser sur des objets situés à une distance rapprochée. Ce retard peut entraîner une réduction de l'efficacité visuelle et affecter la capacité à voir clairement les détails des objets à proximité.
+De plus, une variabilité de la réponse accommodative a été observée chez les personnes atteintes de TDAH. Cela signifie que leur capacité à ajuster leur vision pour se focaliser sur des objets proches peut varier d'une occasion à l'autre, ce qui peut entraîner des difficultés à maintenir une mise au point stable. Cette variabilité peut se traduire par des fluctuations dans la netteté de la vision à différentes distances, ce qui peut avoir un impact sur la précision visuelle globale chez les personnes atteintes de TDAH.
+
+
+==== Perception du temps ====
+Les enfants et les adolescents atteints de TDAH ont une perception moins précise du temps et ont tendance à surestimer sa durée par rapport aux individus sans TDAH. Les différences de perception du temps entre les deux groupes ne sont pas significativement influencées par le type de tâches de temporisation ou la modalité des stimuli utilisés. Cependant, l'âge et le sexe ont été identifiés comme des facteurs modérateurs qui peuvent influencer les résultats.
+
+
+=== Diagnostic et évaluation ===
+Le diagnostic du TDAH est généralement porté par un médecin spécialiste à l'issue de différents entretiens cliniques et d'évaluations par différents intervenants.
+Les symptômes peuvent être évalués à l'aide de différents questionnaires qui permettent de recueillir et quantifier les symptômes. Les plus couramment utilisés sont le Conners, l'ADHD-Rating Scale et le SNAP-IV.
+La littérature sur le TDAH ne recommande pas d'outil en particulier, car ils sont souvent similaires, mais les articles soulignent la nécessité de passer en revue tous les symptômes, leur sévérité, l’envahissement, et le handicap ressenti, et d’obtenir un aperçu complet pour identifier les éventuelles comorbidités.
+Un certain nombre d'intervenants vont permettre de bien évaluer les difficultés, ainsi peuvent être pratiqués :
+
+le bilan orthophonique, s’il existe des troubles des apprentissages,
+le bilan psychomoteur, pour évaluer la motricité et compléter l'évaluation des difficultés générées par la présence du trouble
+le bilan ergothérapique, pour l'impact sur les activités de vie quotidienne,
+le bilan psychologique qui comprend les tests psychométriques d'intelligence, à interpréter avec précaution dans ce cadre,
+l’examen neuropsychologique, qui permet de pratiquer des tests d'attention et d'évaluer la mémoire et les fonctions exécutives,
+le bilan sensoriel : pour éliminer un éventuel déficit auditif pouvant entraîner un TDAH secondaire,
+un bilan visuel est aussi souvent demandé en parallèle.
+
+
+=== Diagnostic différentiel et comorbidités ===
+Les patients présentant un TDAH ont très souvent un trouble associé, leur présence est évaluée entre 65 et 89 % (Sobanski, 2006). Non traité, le TDAH peut amener de nombreuses complications psychologiques. Il faut éliminer tout autre problème susceptible de causer un trouble de l'attention :
+
+la maltraitance vis-à-vis de l'enfant ;
+des troubles familiaux ;
+un trouble de vision ou de l'audition ;
+une épilepsie ;
+une carence martiale.Les troubles associés les plus fréquents sont :
+
+les troubles des apprentissages dans 25 à 40 % des cas ;
+des difficultés d’apprentissage dans 70 % des cas ;
+des troubles de motricité sont très fréquents ;
+un trouble oppositionnel avec provocation dans 37 % des cas ;
+un trouble des conduites dans 26 % des cas ;
+des troubles du sommeil dans 25 à 50 % des cas,,. Les troubles du sommeil souvent identifiés sont : la somnolence diurne, le syndrome de retard de phase de sommeil, le sommeil fractionné, le syndrome des jambes sans repos et les troubles respiratoires du sommeil.
+des troubles de l'humeur dans 20 à 37 % des cas ; (trouble dépressif majeur 20 %, dysthymie 28 %, trouble bipolaire  7.95%)
+des troubles anxieux dans 15 à 31 % des cas ;
+l'abus de substance varie de 15 à 31 % en fonction de l'âge et des substances, les plus fréquents étant le tabac, l'alcool et le cannabis.On peut aussi citer le syndrome d'Asperger et le trouble obsessionnel compulsif (TOC),.
+
+
+=== Évolution ===
+Il est difficile de faire le diagnostic de TDAH avant l'âge scolaire.
+Les signes d'alerte sont fonction de l'âge de l'enfant :
+
+à 6 / 8 ans : incapacité à rester en place, à se tenir à une activité, difficultés à attendre son tour, très bavard, « touche à tout » ou en échec scolaire ;
+à 10 /12 ans : persistance de difficultés attentionnelles dans différents contextes, impulsivité invalidante sur le plan social.
+
+
+== Âge adulte ==
+
+
+=== Étiologie ===
+Le TDAH est un trouble dont l'étiologie, en particulier chez les adultes, est mal connue. 
+Une étude longitudinale publiée en 2015 dans The American Journal of Psychatry suggère que les adultes (38 ans dans l'étude) présentant un tableau clinique de TDAH ne souffriraient pas d'un trouble neurodéveloppemental apparu dans l'enfance. En effet, les enfants TDAH de leur étude ne sont pas, pour la plupart, devenus des adultes TDAH, et les adultes TDAH n'étaient pas, pour la plupart, des enfants TDAH : les deux populations ne se recoupaient pas. Il serait donc possible que, contrairement à la description faite du TDAH par le DSM-5, le TDAH chez l'adulte puisse constituer un trouble distinct du TDAH chez l'enfant, mais avec des symptômes similaires. L'article évalue, dans la population de son échantillon, à 0,03% le nombre d'adultes TDAH présentant tous les critères du DSM-V, c'est-à-dire le nombre requis de symptômes à la fois présents dans l'enfance et à l'âge adulte. Cela a conduit certains chercheurs à parler d'Adult On-set ADHD, ou TDAH apparaissant à l'âge adulte.
+Cependant, d'autres études ont montré qu'il s'agissait d'une exception. Dans la plupart des cas, les hyperactifs diagnostiqués à l'âge adulte présentait déjà des symptômes enfants, bien qu'ils étaient inférieur au seuil diagnostic.
+
+
+=== Évolution des symptômes entre l'enfance et l'âge adulte ===
+Il est communément admis que les symptômes persistent chez 50 % des cas à l'âge adulte, bien qu'une méta-analyse de 2006 ait montré que, selon les critères du DSM-IV, si l'on fixe un critère de persistance à la conservation de tous les symptômes, la persistance chute à 15 %. Néanmoins, selon les conclusions de cette même méta-analyse, dans 65 % des cas une partie des symptômes (DSM-IV) persistent Dans une autre étude américaine, le nombre d'enfants TDAH (DSM-III) présentant tous les symptômes du TDAH (DSM-V) à l'âge de 38 ans, n'est que de 5%.
+Certains considèrent que, pour un tiers, les symptômes disparaissent à l'âge adulte, qu'un tiers continue à avoir des symptômes mais parvient à les gérer, et que le dernier tiers n'y parvient pas. Cependant, le TDAH de l'adulte est un trouble très mal connu en France, alors qu'il est plus facilement accepté, au Canada, aux États-Unis ou au Royaume-Uni. Des campagnes d'information à l'initiative d'associations ont cependant lieu ponctuellement afin de sensibiliser la conscience du public et des professionnels, la plus significative étant la Semaine européenne sur les troubles de l'attention de la fin septembre 2009 qui permit de lancer la première étude épidémiologique en France sur le secteur pilote de Nice,.
+Les symptômes demeurent également le plus souvent et ne disparaissent que dans 30 % des cas.
+
+
+=== Comorbidité avec les troubles addictifs ===
+Un chevauchement important avec les troubles addictifs est observé, comme la dépendance au jeu vidéo ou à Internet, un surentraînement physique et une dépendance à la musique, abus et dépendances de substances légales (alcool, tabac, somnifères-benzodiazépines) ou illégales (cannabis, cocaïne, héroïne et opiacés). Certaines études montrent que le risque d'abus ou de dépendance à des substances est deux fois plus élevé. Ce même risque concernant la combinaison de drogues et d'alcool est quatre fois plus élevé. À l' âge adulte, on constate des comportements dits à risques (mise en danger de soi-même). On note  pour l'adulte des troubles anxio-dépressifs associés voire des dépressions nécessitants des hospitalisations. Plusieurs problèmes se posent aux adultes qui n'ont pas été diagnostiqués dans l'enfance, on note par exemple la non-considération par la France de cette pathologie non curative[Quoi ?] comme une affection longue durée (ALD) prise en charge par la sécurité sociale, donc pas de remboursement des frais médicaux. Le manque d'information, l'absence de formation, la non reconnaissance du TDAH adulte en France comme une ALD et le fait que le personnel médical se sente démuni face à cette pathologie n'aide en rien le dépistage , le diagnostic et la prise en charge des patients souffrants d'un TDAH. Selon des études récentes, on estime que seul un adulte sur six souffrant d'un TDAH est diagnostiqué en France et seulement un sur dix est pris en charge par un psychiatre, un neurologue ou psychologue clinicien pour ceux qui décident d'aller consulter.[réf. nécessaire]
+
+
+== TDAH chez les femmes et les jeunes filles ==
+Symptômes chez les jeunes filles
+Lorsque nous observons les symptômes présents chez les jeunes filles, nous remarquons moins les symptômes d’hyperactivité. Les symptômes généralement observés sont un manque d’attention en classe, de la difficulté à avoir des amis, l'incapacité de s'arrêter de parler, le fait d'être souvent distraite, d'avoir souvent l’air d’être perdue dans ses pensées, d'être capable de suivre les cours en classe mais pas de faire les devoirs et d'avoir tendance à faire plusieurs choses en même temps, etc.
+Symptômes chez les femmes
+Chez les femmes adultes les symptômes du TDAH se présentent comme la tendance à faire des erreurs d’inattention, à manquer d’attention à long terme, à avoir des difficultés avec l’organisation, une tendance à oublier, une tendance à se perdre dans ses pensées, difficulté à maintenir des amitiés. Devant travailler plus dur pour atteindre le même succès que les autres, etc.
+Lorsque nous observons les recherches sur le TDAH nous voyons que ces recherches sont largement concentrées sur les garçons et l’aspect hyperactif chez les garçons. Ceci a été apparent pendant plusieurs années et c’est seulement récemment que le monde de la psychologie cherche a observer le TDAH chez les filles et les femmes. Avec ces nouvelles recherches, il semble que le TDAH est significativement différent chez les sujets féminins comparé aux sujets masculins.
+Le comportement influencé par la société
+D’après les informations des recherches, il devient évident que les attentes pour les filles et femmes dans la société ont gravement affecté la présentation du TDAH chez les femmes. Pour commencer, nous voyons que la société ne s'attendait pas à ce que les femmes soient plus intellectuelles. Les filles atteintes de TDAH qui présentent ces symptômes n’étaient presque jamais repérées, comme dit dans l’article « les filles atteintes de TDAH sont plus susceptibles de présenter des symptômes d'inattention qui sont facilement ignorés par les enseignants, souvent mal compris et stigmatisés, compte tenu des attentes sociétales incongrues en matière de comportement féminin » (Hinshaw et al., 2021). En outre, elles ont tendance à faire ce qu’on appelle du “Masking” c’est-à-dire qu'elles créent une adaptation permettant de cacher les symptômes en cause de ce trouble comportemental afin d’être mieux acceptées dans la société. « Une autre possibilité est que les filles avec Le TDAH pourrait avoir de meilleures “capacités d'adaptation” que les garçons, et  de telles compétences pourraient compenser et “cacher” les symptômes du TDAH » (Klefsjö et al., 2021). Ceci veut dire que les filles cachent leurs symptômes afin de correspondre aux attentes de la société. À cause de cela on découvre que le TDAH s'accompagne souvent d'autres maladies mentales telles que l’anxiété et la dépression.
+Les faux diagnostics
+Dans le monde de la psychologie, il y a des processus pour diagnostiquer une personne avec le TDAH. En revanche, comme mentionné auparavant, les informations pour ce diagnostic sont fondées sur les recherches masculines, rendant l'identification d'un sujet féminin atteint de TDAH très difficile. Le TDAH partage beaucoup de ces symptômes avec d’autres troubles mentaux, comme la dépression, l’anxiété ou les troubles bipolaires. « Les participants ont été généralement diagnostiqués avec une gamme d'autres conditions (souvent l'anxiété et la dépression), mais n'ont pas été initialement diagnostiqués avec le TDAH… Le TDAH pourrait être exclu sans aucun test ou évaluation formelle » (Lynch et Davison, 2022). « Les filles atteintes de TDAH ont besoin d'un fardeau plus élevé d'autres problèmes comportementaux / émotionnels avant de répondre aux critères du trouble » (Mowlem et al., 2019). Tous ces facteurs nous indiquent la raison pour laquelle les garçons ont une plus grande chance d’être diagnostiqués avec un TDAH que les femmes.
+
+
+== Fréquence ==
+Les symptômes nuisent à l'adaptation et atteindraient alors 3 % à 5 % des enfants dans les pays occidentaux. Le nombre de diagnostics de TDAH est plus élevé en Amérique du Nord et en Australie qu'en Europe et dans le nord de l'Europe que dans le sud, sans qu'il soit établi clairement si cette différence est plutôt liée aux populations elles-mêmes ou à la façon de diagnostiquer (différences culturelles). En ce qui concerne la normalité : par exemple, un garçon turbulent sera plus considéré comme normal dans les pays du sud que dans ceux du nord de l'Europe. Par ailleurs, l'Europe est en général plus réticente à la médicalisation que les États-Unis.
+Il existe une très grande variation des chiffres de prévalence de ce syndrome selon les pays ou l'époque étudiée, variant de moins de 1 % (Hong-Kong) à 25 % (États-Unis). L'explication de ces disparités n'est pas claire : critères d'évaluation différents ou facteurs culturels. Cette prévalence semble parfois être corrélée à la politique marketing du principal traitement (le méthylphénidate).
+
+
+== Mécanismes ==
+Les causes exactes du trouble du déficit de l'attention (avec ou sans hyperactivité) ne sont pas déterminées, mais des recherches ont porté sur les facteurs neurobiologiques où les causes génétiques liées à ce trouble sont considérées comme importantes pour expliquer son apparition.
+Cet état psychique se manifesterait, sur le plan neurobiologique, par un déficit de dopamine, un neurotransmetteur.
+L'origine neurobiologique du TDAH est cependant controversée : quelques recherches visent à mettre en relief l'incohérence de certaines études liant cette problématique à un trouble neurobiologique,.
+L'exposition de l'embryon à certains polluants toxiques est aussi évoquée ; par exemple, d'après une étude épidémiologique publiée en 2020, basée sur le suivi d'une cohorte de 2851 paires mère-nouveau-né dont le sang de cordon a été testé (analysé) lors des premier, deuxième et troisième trimestres de grossesse, en cas d'exposition prénatale au thallium (un polluant émergeant et de plus en plus présent dans la biosphère depuis le début du XXe siècle) au second trimestre de grossesse, le risque de TDAH augmente significativement chez les jeunes enfants observés à l'âge de 36 mois. Et les auteurs notent que ce risque est plus marqué chez les garçons (qui au stade embryonnaire semblent donc nettement plus sensibles à la neurotoxicité de ce métal que les filles).
+La recherche en épigénétique se porte actuellement sur l'identification des mécanismes qui permettraient d'expliciter les interactions entre les facteurs génétiques et environnementaux.
+
+
+== Causes et facteurs de risque ==
+
+
+=== Perturbations de l'axe intestin-cerveau ===
+L’interaction entre le tractus gastro-intestinal et les fonctions cérébrales est récemment devenue un sujet d’intérêt croissant pour la recherche en psychiatrie. Ces interactions multidirectionnelles ont lieu dans ce que l’on appelle l’axe intestin-cerveau ou plus précisément l’axe microbiote-intestin-cerveau. Le tractus gastro-intestinal est le plus grand organe immunitaire du corps humain et la plus grande surface de contact avec l'environnement externe, contribuant ainsi à la psychopathologie à médiation immunitaire. Dans la littérature récente, il est de plus en plus évident qu’une augmentation de la perméabilité intestinale induit une activation immunitaire qui joue un rôle majeur dans la physiopathologie de divers troubles psychiatriques. Par exemple, une activation immunitaire liée à des lipopolysaccharides (LPS) bactériens dérivés de l'intestin ou à divers antigènes alimentaires et exorphines a été rapportée dans les cas de dépression majeure, de schizophrénie, de trouble bipolaire, d'alcoolisme et d'autisme.
+Le système nerveux central et le tractus gastro-intestinal communiquent via l'axe intestin-cerveau. Cette communication est bidirectionnelle et implique des mécanismes neuronaux, endocriniens et immunologiques. Le microbiote intestinal est à l'origine d'un certain nombre de substances neuroactives et immunocompétentes qui modèlent la structure et la fonction des régions du cerveau impliquées dans le contrôle des émotions, de la cognition et de l'activité physique. La plupart des maladies gastro-intestinales sont associées à une transmission altérée dans l'axe intestin-cerveau. Des altérations du microbiote intestinal ont été associées à des troubles de l'humeur et à la dépression. De plus, la santé mentale est fréquemment affectée par les maladies gastro-intestinales (voir article: Microbiote intestinal et santé mentale).
+Une dysbiose intestinale produit de grandes quantités de lipopolysaccharide (LPS) qui induisent une activation immunitaire et notamment une neuro-inflammation. Il a été démontré que cette activation immunitaire induite par les lipopolysaccharides altère l'attention. Une étude portant sur 60 enfants TDAH et 60 enfants témoins a montré que le taux sérique moyen d'IL-6 était de 22,35 (intervalle de confiance à 95 % [IC], 17,68-26,99) chez les patients atteints de TDAH et de 5,44 (IC à 95 %, de 4,81 à 6,06) chez les témoins, traduisant un état inflammatoire.
+Dans le TDAH des altérations de l'axe intestin-cerveau ont été démontrées et des modifications de la fonction intestinale ont été mises en évidence. La zonuline augmente lorsque la perméabilité intestinale est altérée. Il a été démontré qu'une augmentation des taux sériques de la zonuline était associée à une hyper-perméabilité intestinale et à une déficience sociale chez les enfants atteints de troubles du spectre autistique. Chez des enfants atteints de TDAH, des niveaux élevés de zonuline sont associés à une augmentation des symptômes d'hyperactivité et à une altération du fonctionnement social.
+
+
+=== Grossesse et alcool ===
+La consommation de boissons alcoolisées lors de la grossesse peut affecter la construction du cerveau et être à l'origine de troubles du comportement. De nombreux diagnostics de TDAH sont posés sans que l'on établisse si la personne a été exposée à l'alcool in utéro. Une étude de 2016 estime que plus de 90 % des TDAH en Angleterre sont en réalité des TSAF — Troubles du spectre de l'alcoolisation fœtale non diagnostiqués.
+
+
+=== Aspects neurobiologiques ===
+Le magnésium, qui est notamment impliqué dans l'excitabilité nerveuse et la réaction au stress, serait en déficit dans la quasi-totalité (95 %) des cas de TDAH, selon les données disponibles,cité dans .
+
+
+=== Dépression post-partum (DPP) ===
+La dépression post-partum (DPP) chez les mères est associée à un risque accru de trouble déficitaire de l'attention avec hyperactivité (TDAH) chez les enfants.
+
+
+=== Facteurs génétiques ===
+La prévalence du TDAH chez les apparentés d’un individu TDAH est plus forte que dans la population générale. Cette agrégation familiale va dans le sens d’une origine génétique du TDAH.
+Le TDAH a un aspect héréditaire, impliquant notamment le rôle des transporteurs de dopamine. Les gènes affectés comprennent les récepteurs dopaminergiques D4, la dopamine bêta-hydroxylase, la monoamine oxydase A, la catécholamine-méthyl transférase, le transporteur de sérotonine (SLC6A4), le récepteur 5-hydroxytryptamine 2A (5-HT2A), le récepteur 5-hydroxytryptamine 1B (5-HT1B), l'allèle 10-répétition du gène DAT1, l'allèle 7-répétition du gène DRD4, et le gène dopamine beta hydroxylase (DBH TaqI).
+
+Toutefois, cette dimension héréditaire n'est en aucun cas un dysfonctionnement génétique : il s'agit d'un état neurologique naturellement présent, qui aurait même favorisé la survie des ancêtres chasseurs-cueilleurs nomades. Il aurait été progressivement éliminé de la population une fois celle-ci sédentarisée. L'aspect génétique du TDAH serait donc un état originel de l'humanité et le non-TDAH le résultat d'une adaptation récente, évolution encore moins répandue parmi les populations (semi-)nomades[citation nécessaire]. Dans certaines populations nomades ou très récemment sédentarisées, notamment en Afrique et parmi les Amérindiens, l'allèle 7-répétition du gène DRD4 est beaucoup plus répandu et peut atteindre plus de la moitié de la population[citation nécessaire].
+
+
+=== Facteurs environnementaux ===
+Des polluants ingérés via le biberonnage, les aliments, les poussières inhalées, etc. peuvent contribuer à une hyperactivité et à des difficultés de concentration chez l'enfant ;
+Le lait maternel aurait au contraire un effet protecteur contre le TDAH, lié à la composition du lait (selon une étude de 1992, des prématurés nourris plusieurs semaines avec du lait maternel fourni par intubation intranasale (c'est-à-dire sans contact direct avec la mère), présentaient à l’âge de 8 ans un quotient intellectuel de 8 points plus élevé qu'un autre groupe nourri toujours par voie intranasale mais avec du lait maternisé.Une étude, en 2013, a abouti aux mêmes conclusions après avoir éliminé les autres facteurs connus de risque de TDAH ;
+Le plomb (cf. article plus détaillé sur le saturnisme) induit des effets de type TDAH avec des effets observables dès 1,6 µg/dl de sang, soit très en dessous du seuil de 10 µg/dL retenu pour l’exposition in utero, ce qui « confirme le besoin de revoir à la baisse le niveau tolérable pour les enfants et de lancer des interventions afin de réduire le saturnisme et l’exposition au plomb. »
+Le mercure, ou surtout le méthylmercure (sa forme la plus bioassimilable) est aussi parfois en cause. Ainsi, les enfants Inuits se sont montrés plus enclins aux TDAH que la moyenne. Une analyse du sang de cordon de 279 enfants Inuits du Nunavik a montré que les embryons et fœtus dans cette région sont exposés in utero ou via le lait maternel à un taux excessif de mercure. Un suivi épidémiologique de ces enfants a montré chez eux un triplement du risque de troubles de déficit de l’attention avec hyperactivité (TDAH). L’hypothèse explicative la plus plausible, serait une perturbation du système dopaminergique induite par le mercure. Dans ces cas, la quantité de mercure dans le sang de cordon dépassait souvent le seuil critique de 11,4 microgrammes (µg), alors que ce seuil est rarement dépassé chez les humains du Canada ou des États-Unis ;
+Des additifs alimentaires (colorants et conservateurs dont le benzoate de sodium), absorbés via l'alimentation sont suspectés de pouvoir causer ou aggraver ces troubles ; les colorants sont très utilisés dans l'alimentation des enfants. Consommés avec du benzoate de sodium, certains exacerbent les comportements hyperactifs d'enfants (diagnostiqués ou non pour un TDAH),. Un dissensus existe aux États-Unis entre l'EPA et des experts indépendants sur la nécessité ou non de préciser ce risque sur l'étiquetage ;
+Des pesticides organophosphorés semblent également responsables de nombreux cas. Une étude américaine s'est fondée sur 1 139 enfants des États-Unis, âgés de 8 à 15 ans, suivis dans le cadre d'une étude épidémiologique nationale (National Health and Nutrition Examination Survey) et dont 119 répondaient aux critères de définition du syndrome. Elle a conclu que les enfants exposés à des concentrations importantes de pesticides organophosphorés via les fruits et légumes souffrent plus souvent de troubles de déficit de l'attention/hyperactivité (TDAH). Une relation dose-effet semble exister, les enfants ayant les taux urinaires les plus élevés des principaux métabolites organophosphatés (phosphates dialkylés et spécialement l'alkylphosphate de diméthyle dit DMAP). Pour le métabolite le plus souvent trouvé (thiophosphate de diméthyle), les enfants dont l'urine en contenait plus que la médiane des concentrations détectables présentaient deux fois plus de risque de souffrir de TDAH que ceux qui en présentaient des doses indétectables. Les auteurs rappellent qu'environ 40 molécules différentes d'organophosphates sont homologuées par l'EPA et qu'environ 33 000 tonnes de pesticides ont été répandues en 2001 dans ce pays ;
+La fluoration de l'eau du robinet est aussi pour partie en cause selon une étude publiée par la revue Environmental Health en 2015. Cette étude est à la fois basée sur des données épidémiologiques et sur des tests faits sur le rat de laboratoire ; elle a conclu que pour l'exposition prénatale et post-natale, et même après ajustement pour le statut socioéconomique de l'enfant, « chaque augmentation de 1 % de la prévalence de la fluoration artificielle en 1992 (sans distinction du type de fluoration) a été associée à environ 67 000 à 131 000 diagnostics de TDAH supplémentaires de 2003 à 2011 ». Les auteurs invitent à une étude plus approfondie de la relation entre l'exposition au fluorure et le TDAH notamment dans les pays concernés par ce traitement (Canada, Australie, Nouvelle-Zélande, Chili, Irlande et Royaume-Uni, où plus de la moitié de la population est directement exposée), d'autant qu'une baisse de QI a aussi été associée à la fluorose chronique. Des symptômes très proches sont observés chez le rat, même s'il a été "exposé" in utero.Ces différents facteurs pourraient en outre combiner leurs effets, au travers de synergies encore mal comprises de la neurobiologie. Les corrélations statistiques issues d'observations épidémiologiques ne permettent pas d'affirmer avec certitude l'existence d'un lien de causalité, d'autres facteurs non identifiés pouvant souvent intervenir pour expliquer les liens observés.
+Des polluants organiques persistants, peuvent perturber la grossesse et/ou l'accouchement et le développement, de même que le contexte familial et le statut socioéconomique,.
+Plusieurs études ont aussi associé un haut risque de trouble de l'attention au temps passé devant la télévision ou à des jeux vidéo ou des réseaux sociaux, chez l'enfant, mais aussi chez l'adolescent, voire chez le jeune adulte. Cependant, il serait possible que le déficit en dopamine soit la raison pour laquelle les individus ayant un TDAH soient plus portés vers les jeux vidéo stimulants que la moyenne. Le TDAH serait la cause, plutôt que l'effet.
+Les individus à risque peuvent inclure les enfants ayant fait l'expérience d'un violent traumatisme à la tête, les personnes ayant eu une méningite d’origine bactérienne. Lors de la naissance, les enfants nés prématurément et ceux qui ont manqué d’oxygène au moment de la naissance peuvent également présenter un facteur de risque important.
+
+
+== Prise en charge chez l’enfant ==
+Les médicaments représentent un aspect de la prise en charge du TDAH mais n’en constituent pas la totalité. Les spécialistes et les associations de patients promeuvent des prises en charge multimodales qui peuvent associer une prise en charge psychologique, éducative, pédagogique et, selon les cas, ré-éducative avec un traitement médicamenteux.
+
+
+=== Psychothérapie, aide éducative et autres méthodes non médicamenteuses ===
+La guidance parentale :Elle est adaptée à l’enfant mais aussi à son environnement, à la nature de son trouble et à la présence éventuelle de comorbidités. Elle a pour objectif de réduire les symptômes cliniques, de prendre en charge ou de prévenir le retentissement scolaire, familial et relationnel. Elle passe par des techniques d’éducation éprouvées : l'enfant hyperactif ayant des problèmes d'attention, il lui faut des structures claires pour favoriser ses apprentissages : lui confier une seule tâche à la fois. Si la tâche – ou le jeu – est complexe, la décomposer en étapes.
+
+L’aide éducative :Elle permet un travail de guidance familiale en informant sur le trouble et son impact fonctionnel et débouche sur des propositions de stratégies thérapeutiques. L'aménagement de l’environnement d’un enfant hyperactif dans sa classe est aussi un défi pour l’enseignant. Cela nécessite certaines adaptations de l’enseignement et de la structure scolaire[réf. nécessaire].
+
+Les groupes de parents :Ils permettent de partager les expériences et d'entraîner une ou plusieurs familles à se confronter aux situations difficiles[réf. nécessaire].
+
+Relaxation et méditation :Il existe des possibilités complémentaires d'améliorer sa propre capacité d'attention, entre autres, par des approches cognitives et comportementales comme la sophrologie pédagogique qui utilise la relaxation dans cette optique[source insuffisante]. Plusieurs chercheurs ont effectué des recherches en utilisant la méditation : les résultats semblent prometteurs dans le traitement du stress parfois associé au TDAH mais pas sur les symptômes principaux du trouble.
+
+La rééducation psychomotrice auprès d'un psychomotricien D.E.
+Psychothérapie cognitivo-comportementale :La psychothérapie cognitivo-comportementale cherchera à atténuer les symptômes afin d’améliorer la qualité de vie de l’enfant et de son entourage.
+
+Remédiation cognitive :Depuis quelques années, on propose à certains patients une prise en charge en remédiation cognitive, notamment celles ciblant la mémoire de travail. Cette rééducation se fait le plus souvent à l'aide d'un logiciel : COGMED qui a fait la preuve de son efficacité.
+
+La prise en charge par un ergothérapeute pour prendre en compte l'ensemble des difficultés dans les activités de vie quotidienne.
+Le coaching qui aide l'enfant à acquérir des méthodes pour mieux s'organiser, et gérer son temps et ses émotions[réf. nécessaire].
+
+
+=== Aménagements raisonnables en classe pour aider les enfants atteints de TDAH ===
+Les personnes atteintes de TDAH éprouvent souvent des difficultés dans leur scolarité. Afin de contrer ces problèmes, il est possible de mettre en place des aménagements pour aider ces enfants et leur donner les mêmes chances de réussite que les autres élèves.
+
+
+==== Aménagements par le biais d'outils numériques ====
+Il existe de nos jours de nombreux supports numériques facilitant les apprentissages et destinés aux apprenants comme aux enseignants/parents. Certains outils numériques sont spécifiquement créés dans le but d'aider les enfants présentant des troubles de l'apprentissage, notamment le TDAH. Voici deux activités pédagogiques à mettre en place en primaire qui ont recours à des outils numériques.
+
+
+===== Le tableau blanc interactif =====
+Un tableau blanc interactif est un dispositif qui permet la présentation d’informations multimédias en classe. Certaines études (Türel, 2011, Jang & Tsai, 2012, cité par Papanastasiou & Drigas, 2014) ont mis en avant l’efficacité de ce support d’apprentissage en ce qui concerne l’attention, la satisfaction et les performances des utilisateurs. De ce fait, ce moyen numérique est intéressant pour aider les élèves atteints de TDAH car il permet une meilleure gestion de l’attention en stimulant leurs sens grâce à leurs interfaces multimodales.
+Idée de scénario pédagogique : Utilisation du TBI avec des élèves de premier cycle atteint de TDAH pour l’acquisition de compétences en lecture.
+Compétence travaillée (socle de compétences de la Fédération Wallonie-Bruxelles) : Reconnaître un nombre diversifié de documents en identifiant la structure narrative.
+Objectif du scénario : Étant donné une histoire, l’élève sera capable de repérer les personnages principaux, le temps et les lieux de celle-ci à l’aide du document.
+Déroulement : Dans un premier temps, l’enseignant projette un texte sur le TBI et le lit avec les élèves. Ensuite, il surligne d’une couleur différente chaque élément du schéma narratif et les explique. Ce référentiel ainsi constitué est ensuite épinglé dans un coin du tableau.
+Ensuite, l’enseignant projette une série de textes au tableau, les mots de ceux-ci ayant la particularité de pouvoir être sélectionnés et placés dans différents “conteneurs” afin de les classer (personnages, lieux et temps). L’enseignant invite ensuite les élèves à venir au tableau afin de réaliser l’exercice. S’il éprouve une difficulté, l’apprenant peut à tout moment consulter le référentiel.
+Afin d’entretenir la compétence et pour occuper les élèves qui attendent leur tour, l’enseignant distribue plusieurs textes sur feuilles de papier et adapte les consignes à ce support. Les élèves doivent découper les mots et les classer dans les différents ensembles vus précédemment.
+Évaluation : L’enseignant appelle tour à tour les élèves devant le TBI afin de réaliser une série de cinq exercices. La compétence sera maîtrisée si l’élève réussit 80 % des exercices.
+Note supplémentaire : Ce scénario est valable pour tous les élèves. Néanmoins, en cas de TDAH, l'enseignant devra privilégier les interactions et évaluations utilisant le TBI.
+
+
+===== La tablette numérique =====
+Lorsque l’enseignant est confronté à des élèves atteints de TDAH, la tablette tactile se révèle être un outil pertinent. Des études (Flower, 2014, Cumming & Draper Rodriguez, 2013, Haydon et al., 2012, cité Lewandowski, Wood & Miller, 2016) ont démontré que son usage améliore les comportements liés aux tâches et les performances académiques des élèves TDAH.
+Idée de scénario pédagogique : utilisation de l’application La magie des maths avec des élèves de premier cycle atteints de TDAH pour l’acquisition de compétences en mathématique.
+Axe : calculer.
+Compétences travaillées (socle de compétences de la Fédération Wallonie-Bruxelles) : utiliser la soustraction comme la réciproque de l’addition et la division comme la réciproque de la multiplication & vérifier le résultat d’une opération.
+Objectif du scénario : l’élève sera capable d’utiliser les principes de soustraction et d'addition correctement et de vérifier le résultat obtenu lors de l’opération.
+Déroulement : l’enseignant commence la séance par une démonstration de l’application. Il explique au élèves les deux parties de l’application. D’un côté, le bac à sable, qui permet une manipulation directe des nombres et des opérations, de l’autre, les exercices qui permettent de réaliser une série d’opérations prédéfinies.
+L’enseignant inscrit ensuite au tableau une série d’opérations et demande aux élèves de les réaliser dans la partie bac à sable afin qu’ils se familiarisent avec l’application.
+Évaluation : les élèves sont invités à réaliser cinq opérations dans la partie exercices. La compétence sera maîtrisée si l’élève réussit 80 % des épreuves.
+
+
+=== Interventions basées sur la pleine conscience ===
+Une méta-analyse a révélé que les interventions basées sur la pleine conscience (MBIs) ont des effets importants sur l'inattention et l'hyperactivité/impulsivité par rapport à un groupe témoin.
+
+
+=== Réalité virtuelle ===
+Les interventions basées sur la réalité virtuelle immersive se sont avérées très efficaces pour améliorer le fonctionnement cognitif global, l'attention et la mémoire chez les enfants atteints de TDAH.
+
+
+=== Traitement médicamenteux ===
+Il repose généralement sur des psychostimulants ou autres qui stimulent le système nerveux central et améliorent la capacité d'attention, permettant ainsi la diminution significative des autres symptômes, notamment hyperkinétiques. Différentes molécules stimulantes sont commercialisées à travers le monde visant cette indication thérapeutique, le sulfate de dextroamphetamine, la lisdexamfétamine, la methamphetamine, le dexmethylphénidate (à action immédiate ou prolongée ou en patch Adhansia, Purdue). Les médicaments non stimulants sont l'atomoxetine, la clonidine à action prolongée et la guanfacine à action prolongée.
+
+
+==== Le chlorhydrate de méthylphénidate ====
+Le chlorhydrate de méthylphénidate est l'une des molécules les plus employées dans cette indication. C'est un inhibiteur de la recapture de la dopamine et de la noradrénaline. Ces deux neurotransmetteurs interviennent dans les mécanismes attentionnels et cognitifs,. Sa métabolisation par l'organisme s'effectue rapidement. Le traitement n'est réellement actif que pendant quelques heures après la prise, quelle que soit la dose. Il est délivré sous forme à libération immédiate ou prolongée. En tant que dérivé des pipéridines, il figure, en France, dans la liste des médicaments classés stupéfiants mais ne semble pas induire de dépendance chez le sujet traité et semble diminuer les risques futurs d'addiction chez les enfants traités pour le TDAH. Des cas de retard de croissance ont été évoqués, mais des enquêtes effectuées en 1996 ont mis en évidence leur caractère idiopathique chez certains enfants hyperactifs, sans relation avec le traitement.
+
+
+==== L'atomoxétine ====
+L'atomoxétine est un inhibiteur spécifique de la recapture de la noradrénaline (non psychostimulant). Il a obtenu l'autorisation de mise sur le marché (AMM) en France mais n'y est pas commercialisé, car il n'a pas obtenu de remboursement par la sécurité sociale.
+
+
+==== Conditions de prescription ====
+En Europe, et plus particulièrement en France, la prescription se fait par un pédopsychiatre ou un neuropédiatre en milieu hospitalier, qui est seul habilité à poser le diagnostic et à délivrer l'ordonnance initiale de méthylphénidate. La Haute Autorité de santé demande que la prescription initiale du chlorhydrate de méthylphénidate ne soit effectuée qu'en seconde intention, c'est-à-dire après avoir fait appel à des « mesures psychologiques, éducatives et sociales ». Cette prescription hospitalière a une durée de validité de 1 an mais est soumise à renouvellement par un médecin traitant tous les 28 jours. L'examen médical est complété par des examens psychomoteurs et neuropsychologiques permettant de mettre en évidence les particularités des fonctions attentionnelles et exécutives notamment. En Suisse, le diagnostic et l'ordonnance peuvent être faits par un médecin libéral, à condition qu'il ait lui-même examiné le patient. L'ordonnance a une durée de validité d'un mois, pour un traitement pouvant durer 1 mois ou, dans certaines circonstances, 3 mois. En Amérique du Nord, des psychologues et/ou des psychoéducateurs peuvent effectuer un travail d'évaluation, mais non de diagnostic, cette dernière partie étant réservée à un médecin.
+
+
+=== Activité physique ===
+Il a été démontré que l'exercice physique peut efficacement améliorer l'attention, les compétences motrices et les fonctions exécutives chez les enfants atteints de trouble déficitaire de l'attention avec hyperactivité (TDAH), et ce, sans effets secondaires indésirables comparativement à la thérapie médicamenteuse. Cependant, il convient de souligner que l'activité physique ne semble pas avoir un impact significatif sur les symptômes d'hyperactivité, la dépression, les problèmes sociaux ou le comportement agressif chez ces enfants.
+
+
+=== Associations de patients ===
+Plusieurs associations ont été fondées pour aider les individus atteints de TDAH. En Europe, elles incluent ADHD Europe, ASPEDAH (Association du Trouble du Déficit d’Attention avec ou sans Hyperactivité) Suisse, TDAH France (association française pour aider les familles, adultes et enfants concernés par le TDAH), et TDAH Belgique (association belge qui aide, informe et soutient toutes les personnes concernées par le TDAH).
+En Amérique du Nord, notamment au Québec, elles incluent Ressources TDAH au Québec et, à l'international, Ressources TDAH au Québec, AttentionDeficit-Info, AQETA (Association québécoise des troubles d'apprentissage), PANDA (Parents aptes à négocier avec le déficit de l'attention), CADDRA (Canadian ADHD Resource Alliance) et TDAH association québécoise.
+
+
+=== Par pays ===
+
+
+==== France ====
+La Haute Autorité de santé a, en mars 2015, défini des recommandations pour le dépistage précoce et l'intervention du médecin de premier recours en faveur de la reconnaissance du trouble déficit de l’attention avec ou sans hyperactivité (TDAH), trouble qui touche à un degré variable de 3,5 % à 5,6 % des enfants en France. Les causes du trouble sont essentiellement neurobiologiques, mais des facteurs de protection ou de vulnérabilité liés aux traumatismes et à l'éducation sont à prendre en compte. Le traitement médicamenteux est très efficace mais, chez l'enfant plus jeune, c'est la stratégie éducative qui doit être privilégiée, l'information des parents, la collaboration avec les enseignants, l'information de l'enfant lui-même sur son trouble et la manière dont il peut le gérer. En 2021, plusieurs associations ont créé la journée nationale de sensibilisation du Trouble du déficit de l’attention avec ou sans Hyperactivité (TDAH) qui se déroule le 12 juin, afin d'informer, sensibiliser, et de faire connaître ce trouble.
+
+
+==== Canada ====
+L’Institut national de santé publique du Québec (INSPQ), en mars 2019, souligne une proportion croissante d’enfants canadiens chez qui le diagnostic du TDAH est posé. Cette prévalence diagnostiquée annuelle du TDAH chez les enfants de 17 ans et moins était plus élevée au Québec (3,9 % en 2011-2012) que dans les autres provinces du Canada. Cette augmentation du diagnostic du TDAH chez les enfants s’accompagne avec la hausse de l’usage des médicaments spécifiques au TDAH sur le territoire canadien. En 2017, l’Institut national d’excellence en santé et en services sociaux (INESSS) a établi le portrait canadien de cette prévalence médicale chez les 0 à 25 ans entre le 1er avril 2014 et le 31 mars 2015. Le Québec se distingue du reste du pays avec le taux le plus élevé (6,44 %) alors que le taux de l’ensemble du pays se situe à 3,26 % (et à 2,39 % lorsque les données du Québec ne sont pas incluses dans la moyenne).
+En décembre 2020, l’Assemblée nationale du Québec à confié à la Commission de la santé et des services sociaux un mandat d’initiative sur l’augmentation préoccupante de la consommation de psychostimulants chez les enfants et les jeunes en lien avec le trouble déficit de l’attention avec ou sans hyperactivité (TDAH). Les recommandations émises par la Commission consistent à s’ouvrir aux approches multidisciplinaires et collaboratives dans le traitement du TDAH et des troubles apparentés, améliorer l’accès aux services psychosociaux et l’amélioration du suivi du diagnostic.
+
+
+== Controverses ==
+Le trouble déficit de l'attention avec ou sans hyperactivité est controversé à plusieurs niveaux : d'une part l'existence du trouble lui-même, dont la nature comportementale est remise en cause ; d'autre part le traitement des enfants diagnostiqués à base de méthylphénidate, une piperidine dont les effets pharmacologiques sont proches de ceux des amphétamines,,,,,. Le TDAH suscite ainsi régulièrement la polémique,.
+En 2017, les psychanalystes Gorana Bulat-Manenti et Gérard Pommier déclarent dans le Huffington Post que « ce diagnostic n'est reconnu par aucune des classifications françaises des problèmes de l’enfance », et « a été inventé sur mesure après la découverte de la Ritaline » car il « permet d'ouvrir un marché lucratif à l'industrie pharmaceutique » ; ce à quoi répond le chercheur du CNRS Franck Ramus, en qualifiant l'article de « chef d’œuvre de désinformation et de construction d’une vérité alternative ».
+
+
+=== Surdiagnostic ===
+Des psychiatres et chercheurs en sciences humaines considèrent que le TDAH est au minimum surdiagnostiqué ; voire totalement inventé sous la pression de l'industrie pharmaceutique qui a dépensé des sommes considérables pour promouvoir ce diagnostic et surtout pour vendre ses produits,. Pour Jean-Claude St-Onge, écrivain et sociologue canadien, « plus de la moitié des diagnostics sont attribués sans que les enfants présentent des symptômes qui nuisent significativement à leur fonctionnement. (…) Plusieurs enfants présentent des symptômes (TDAH) parce qu'ils manquent de sommeil, ont des problèmes développementaux tels que la dyslexie (…) ou parce qu'ils vivent des situations familiales difficiles ».
+
+
+=== Sur la molécule de méthylphénidate (Ritaline) ===
+Une étude portant sur douze enfants, publiée en 2005, a ravivé ces inquiétudes en laissant penser à la possibilité d'effets cancérogènes. Cette étude, portant sur un échantillon très faible, n'a pas pu être répliquée et aucune étude postérieure n'a pu confirmer ces inquiétudes,,,,.
+Plusieurs études ont mis en évidence certaines limites des traitements psychostimulants, en faisant apparaître que, selon les études à court terme, ces traitements réduisent les symptômes du TDAH,, alors qu'à moyen et long terme, ces traitements ne préviendraient pas l'apparition de comportements anti-sociaux, toxicomaniaques et un échec scolaire significatif,,,. A contrario, selon une méta-analyse, le traitement ne favorise pas les comportements toxicomaniaques futurs[source insuffisante] et qu'au contraire il les prévient d'autant plus chez les sujets souffrant de TDAH dont la prise en charge est précoce[source insuffisante].
+
+
+=== Effet du cannabis sur les troubles cognitifs ===
+L'étude de sujets de discussion sur internet a relevé la présence de nombreuses fils de discussion concernant l'utilisation de cannabis pour soigner ou diminuer l'influence du TDAH. L'analyse de 268 sujets a montré que sur l'ensemble des réponses 25 % soutenaient l'idée que le cannabis serait bénéfique dans le traitement du TDAH ; comparativement peu de réponses y opposaient une opinion contradictoire. Les recherches ne montrent pourtant pas de bénéfice clair à l'usage de cannabis et de dérivés cannabinoïdes pour le traitement du TDAH.
+Outre les études ayant montré que le cannabis affecte durablement les capacités cognitives, la mémoire, l'attention et la concentration,,,,,, il est possible que l'apport de dopamine provoqué par la consommation de cannabis, provoque une accoutumance plus facile chez les TDAH, soit habitue les récepteurs et finissent par amoindrir l'effet de la dopamine chez les personnes atteintes de TDAH. La prévalence importante des personnes TDAH dans la population des patients victimes d'accoutumance et d'addiction au cannabis montre par ailleurs que bien que le cannabis puisse potentiellement amener un soulagement temporaire des symptômes, la population TDAH reste à risque et le bénéfice/risque n'est clairement pas avéré.
+
+
+=== Surprescriptions… entre information et désinformation ===
+
+L’argument date (valeur septembre 2023) n’existe pas dans le modèle appelé
+Des alertes régulières sont faites sur la propension psychiatrique de certains pays ou autres professionnels de santé, à prescrire trop rapidement des solutions médicamenteuses, sans autre thérapie ni examen supplémentaire. Le manque de moyens alloués à la santé mentale, surtout pour les enfants, est pointé du doigt et mis en cause à cette tendance déraisonnable.
+Cependant, de manière équilibrée par rapport à ce postulat de The Guardian, journal d'opinion, le Lancet parle de disparité dans la prescription à travers le monde.
+Cela est notamment dû à une grande hétérogénéité de la prise de conscience sur la réalité de ce handicap invisibilisé par les travailleurs sociaux comme le souligne les rapports du le Défenseur des Droits, au sujet du déni de la protection de l'enfance en France, depuis 2015 et d'année en année, jusque tout récemment encore en 2022.
+Pour être dans une information vérifiable et équilibrée, nous devons nous poser la question de la consommation excessive de Ritaline. En effet, si la consommation semble excessive au globale, pour beaucoup cela provient de l'usage d'une population cocaïnomane qui se détourne de leur primo addiction au produit de la coca pour un usage de substitution par le méthylphénidate. Cet usage reste frauduleux et viendrait permettre, la croyance, le dénigrement d'une vraie analyse bénéfices versus risques au profit de l'information partiale et partielle présentée ici dans le premier paragraphe de cette section. Cela peut être considérée comme une propagande qu'on pourrait voire comme révisionniste sur une prétendue drogue de l'obéissance. La prescription, pour les indications réelles et non fantasmées, dans une analyse bénéfices versus risques au profit des enfants ayant la particularité TDAH, est strictement contrôlée et soumise à délivrance contrôlée par une pharmacie déclarée par le patient et le médecin psychiatre, avec formulaire CERFA de prescription contrôlée. Cela n'empêche pas une toute petite minorité de praticiens médecins et pharmaciens de manquer à leurs obligations médicolégales, à leurs risques et périls, potentiellement grave sur les plans disciplinaire ou judiciaire.
+Un protocole de recherche, de surveillance cardiaque est généralement ordonné pour les enfants. Cela écarte les enfants qui révèleraient des troubles cardiaques non identifiés avant le diagnostique TDAH.
+Pour être encore plus exhaustif dans une analyse sereine, réaliste et non angélique, il est aussi à noter que la version anglaise de cet article, comme nombre d'autres versions dans encore d'autres langues, ne présente aucune hypothèse d'une surprescription auprès des enfants ou adultes reconnus dans leur trouble réel et sérieux du TDAH.
+
+
+== Neurobiologie ==
+Il a été observé une suractivation du cortex préfrontal dorsal médial (DMF) et une sous-activation du cortex cingulaire postérieur (CCP) chez les individus atteints de trouble déficitaire de l'attention avec hyperactivité (TDAH) par rapport aux individus témoins. Ces différences dans l'activité cérébrale suggèrent une altération neurobiologique spécifique associée au TDAH.
+
+
+=== Biomarqueur ===
+Une étude a identifié neuf sites de méthylation de l'ADN à la naissance qui sont prédictifs des symptômes ultérieurs du TDAH, notamment ERC2 et CREB5. Cependant, aucun site de méthylation de l'ADN à l'âge scolaire n'était significativement associé au TDAH.
+Une méta-analyse a révélé que les enfants atteints de TDAH présentent des niveaux de cortisol basal et matinal réduits par rapport aux jeunes sans TDAH, suggérant ainsi l'implication de l'hypoactivité de l'axe hypothalamo-hypophyso-surrénalien (HPA) dans le développement du TDAH. De plus, une autre constatation importante est que les jeunes atteints de TDAH affichent des niveaux inférieurs de facteur de nécrose tumorale alpha (TNF-α) par rapport à leurs pairs sans TDAH.
+Des liens ont été établis entre le Trouble du Déficit de l'Attention avec Hyperactivité (TDAH) et des niveaux réduits de ferritine sérique, indiquant une carence en fer chez les enfants atteints de TDAH. De plus, on observe des niveaux accrus de manganèse et des niveaux réduits de zinc chez ces enfants. Ces associations entre les niveaux de ces éléments et le TDAH suggèrent l'implication de ces facteurs dans la pathologie du TDAH.
+
+
+== Notes et références ==
+
+
+== Annexes ==
+
+
+=== Bibliographie ===
+ : document utilisé comme source pour la rédaction de cet article.
+
+(en) American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders (DSM-5), American Psychiatric Pub, 22 mai 2015 (ISBN 9780890425572, DSM-V sur Google Livres)
+(en) Klaus W. Lange, Susanne Reichl, Katharina M. Lange, Lara Tucha et Oliver Tucha, « The history of attention deficit hyperactivity disorder », ADHD Attention Deficit and Hyperactivity Disorders, Springer, vol. 2, no 4,‎ 30 novembre 2010, p. 241-255 (PMID 21258430, PMCID PMC3000907, DOI 10.1007/s12402-010-0045-8, lire en ligne, consulté le 22 juin 2019)
+Gabriel Wahl, Les enfants hyperactifs (TDAH), Paris, Presses Universitaires de France, coll. « Que sais-je » (no 3845), janvier 2019 (1re éd. 2009), 128 p. (ISBN 978-2-13-081559-4, lire en ligne)
+
+
+=== Autres ouvrages ===
+Dr Lecendreux, Dr Konofal et Monique Touzin (préf. Pr MC Mouren), L'hyperactivité : TDAH, Paris, Solar, 2007, 383 p. (ISBN 978-2-263-04341-3)
+American Psychiatric Association (trad. de l'anglais par Julien-Daniel Guelfi), Mini DSM-IV-TR : critères diagnostiques, Paris, Elsevier-Masson, 2008, 365 p. (ISBN 978-2-294-08937-4)
+Dr Xavier Schlögel, Anne-Geneviève de Longueville et Pascale De Coster, Le TDA/H à l'école, Bruxelles, Plantyn, 2006 (ISBN 978-2-8010-5450-5)
+Corraze, J. et Albaret,J.M., L'enfant agité et distrait, Paris, Expansion Scientifique Française, 1996, 211 p. (ISBN 2-7046-1512-8)
+Dr M.C. Saiag, Dr S. Bioulac et Pr M. Bouvard, Comment aider mon enfant hyperactif ?, Paris, Odile Jacob, 2007, 176 p. (ISBN 978-2-7381-1969-8, lire en ligne)
+Vantalon, V. (Ed.) (2005), L’hyperactivité de l’enfant. Paris: John Libbey Eurotext.
+Wahl Gabriel, Madelin-Mitjavile Claude, Comprendre et prévenir les échecs scolaires, Éditions Odile Jacob, 2007, Paris.
+Dr Revol, O., Même pas grave L'échec scolaire ça se soigne, JC Lattès, 2006 (ISBN 978-2-7096-2728-3)
+Gérard Neyrand (dir.), Faut-il avoir peur de nos enfants ? : politiques sécuritaires et enfance, Paris, la Découverte, coll. « Sur le vif », 2006 (ISBN 978-2-7071-5009-7)
+Wahl Gabriel, L'Hyperactivité, Que sais-je ?, Presses universitaires de France, 2009.
+Wahl Gabriel, Les adultes hyperactifs, comprendre le TDAH, Odile Jacob, 2016
+Dr Annick Vincent, Mon cerveau a besoin de lunettes : vivre avec l'hyperactivite : livre pour l'enfant, Le Gardeur, Québec, Impact! éditions, 2007 (ISBN 978-2-923520-35-3)
+Dr Annick Vincent, Mon cerveau a encore besoin de lunettes : le TDAH chez l'adulte, Le Gardeur, Québec, Impact! éditions, 2007, 4e éd. (ISBN 978-2-923520-36-0)
+Thomas E. Brown, Attention Deficit Disorder. The unfocused Mind in children and adult, Yale University Press, New York, 2005.
+Francine Lussier, 100 idées pour mieux gérer les troubles de l'attention, Paris, Tom Pousse, 2010, 171 p. (ISBN 978-2-35345-042-8)
+Rita Sferrazza, TDAH Trouble Déficitaire de l'Attention, avec ou sans Hyperactivité, coll. Temps d'Arrêt, 2015, yapaka.be
+Thomas, R., Sanders, S., Doust, J., Beller, E., & Glasziou, P. (2015). Prevalence of Attention-Deficit/Hyperactivity Disorder : A Systematic Review and Meta-analysis. Pediatrics, 135(4), e994‑e1001. https://doi.org/10.1542/peds.2014-3482
+Massé, L., Verret, C., Nadeau, M.-F. & Lagacé-Leblanc, J (2019). Quelles stratégies peuvent être adoptées par les parents pour favoriser la réussite scolaire de leur enfant ayant un TDAH ? Foucade, 19(2), 87-90. Consulté sur https://www.researchgate.net/publication/333802818_Quelles_strategies_peuvent_etre_adoptees_par_les_parents_pour_favoriser_la_reussite_scolaire_de_leur_enfant_ayant_un_TDAH
+Hart Barnett, J. E. (2017). Helping Students with ADHD in the Age of Digital Distraction. Physical Disabilities:  Education and Related Services, 36(2), 1‑7. https://doi.org/10.14434/pders.v36i2.23913
+Arbour, N. (2016). TDAH et fonctions d’aide technologiques. Consulté sur https://www.taalecole.ca/tdah-fonctions-daide/
+Ibrahim, M., Prasad, P. W. C., Alsadoon, A., & Pham, L. (2016). Synchronous virtual classroom for student with ADHD disorder. 2016 13th International Joint Conference on Computer Science and Software Engineering (JCSSE), 1‑6. https://doi.org/10.1109/jcsse.2016.7748860
+the Lewandowski, L. J., Wood, W., & Miller, L. A. (2016). Technological Applications for Individuals with Learning Disabilities and ADHD. In Computer-Assisted and Web-Based Innovations in Psychology, Special Education, and Health (p. 61-93). Elsevier. https://doi.org/10.1016/B978-0-12-802075-3.00003-6
+Diener, Y. (2011), On agite un enfant - L'État, les psychotropes et les psychothérapeutes, Paris, La Fabrique éditions.
+
+
+=== Articles connexes ===
+
+Hyperkinésie
+Sémiophonie
+Trouble envahissant du développement
+Trouble bipolaire
+Syndrome
+Double exceptionnalité
+
+
+=== Liens externes ===
+Document [PDF] de l'UFAPEC Bruxelles : Motivation et estime de soi chez l’adolescent qui a des troubles de l’attention (TDA/H), analyse UFAPEC, juin 2013 par A. Floor sur www.ufapec.be, UFAPEC 2013 no 08.13, relu le 26 juillet 2013.
+Livre (pdf et epub) du Ministère de la Fédération Wallonie-Bruxelles : TDAH Trouble déficitaire de l'attention, avec ou sans hyperactivité, Rita Sferrazza, collection "Temps d'Arrêt" (yapaka.be) novembre 2015 sur http://www.yapaka.be/
+(en) "The history of attention deficit hyperactivity disorder", Lange, K.W., Reichl, S., Lange, K.M. et al. ADHD Atten Def Hyp Disord (2010) 2: 241.
+Mathieu Vidard, « Les enfants hyperactifs (TDAH) », sur France Inter, 16 janvier 2019.
+
+Ressources relatives à la santé : Classification internationale des soins primaires Diseases Ontology DiseasesDB Héritage mendélien chez l'humain Héritage mendélien chez l'humain ICD-10 Version:2016 Medical Subject Headings MedlinePlus NCI Thesaurus PatientLikeMe Store medisinske leksikon 
+
+ Portail de la médecine   Portail de la pharmacie   Portail des neurosciences   Portail de la psychologie

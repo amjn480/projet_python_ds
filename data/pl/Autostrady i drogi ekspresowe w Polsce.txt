@@ -1,0 +1,466 @@
+Autostrady i drogi ekspresowe w Polsce – część polskiej sieci dróg krajowych obejmująca najważniejsze drogi krajowe, obsługujące trasy międzynarodowe i międzyregionalne.
+Według planów obowiązujących od września 2019 roku planowana sieć dróg szybkiego ruchu będzie docelowo liczyć około 8177 km, w tym ok. 2100 km autostrad i ok. 6077 km dróg ekspresowych. Według danych z raportu przygotowanego przez Światowe Forum Ekonomiczne w 2020 roku jakość dróg klasyfikuje Polskę na 20. miejscu spośród 27 państw członkowskich Unii Europejskiej i 57. na świecie. Z kolei Światowy Ranking Konkurencyjności (The World Competitiveness Yearbook) za 2022 r. przygotowany przez Międzynarodowy Instytut Rozwoju Zarządzania (IMD), klasyfikuje Polskę na 26. miejscu w Europie (w rankingu uwzględniono 30 państw z Europy) i 43. miejscu na świecie.
+
+
+== Definicje ustawowe ==
+
+Już w latach 60. XX wieku w polskich aktach prawnych zaczęły pojawiać się zagadnienia dotyczące autostrady, którą uznawano za drogę specjalnie zaprojektowaną i zbudowaną dla ruchu samochodowego i oznaczoną określonym znakiem drogowym. Oznakowane w ten sposób drogi charakteryzowały się ograniczeniami dostępu oraz specyficznymi zasadami.
+Obecnie w polskim prawodawstwie definicje legalne pojęcia „autostrada” i „droga ekspresowa” zawarte są w dwóch aktach prawnych:
+1. Ustawa z dnia 21 marca 1985 r. o drogach publicznych (Dz.U. z 2022 r. poz. 1693, z późn. zm.) – w art. 3 pkt 2 i art. 4 pkt 10, pkt 11 – określa je w następujący sposób:
+
+autostrada – droga publiczna o ograniczonej dostępności, przeznaczona wyłącznie do ruchu pojazdów samochodowych, wyposażona przynajmniej w dwie trwale rozdzielone jednokierunkowe jezdnie, posiadająca wielopoziomowe skrzyżowania ze wszystkimi przecinającymi ją drogami transportu lądowego i wodnego. Wyposażona jest w urządzenia obsługi podróżnych, pojazdów i przesyłek, przeznaczone wyłącznie dla użytkowników autostrady;
+droga ekspresowa – droga publiczna o ograniczonej dostępności, przeznaczona wyłącznie do ruchu pojazdów samochodowych, wyposażona w jedną lub dwie jezdnie, posiadająca wielopoziomowe skrzyżowania z przecinającymi ją innymi drogami transportu lądowego i wodnego, z dopuszczeniem wyjątkowo jednopoziomowych skrzyżowań z drogami publicznymi. Wyposażona jest w urządzenia obsługi podróżnych, pojazdów i przesyłek, przeznaczone wyłącznie dla użytkowników drogi;2. Ustawa z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz.U. z 2022 r. poz. 988, z późn. zm.) – w art. 2 pkt 3, pkt 4 – definiuje je w następujący sposób:
+
+autostrada – autostradę w rozumieniu art. 4 pkt 11 ustawy z dnia 21 marca 1985 r. o drogach publicznych, oznaczoną odpowiednimi znakami drogowymi, przeznaczoną tylko do ruchu pojazdów samochodowych, z wyłączeniem czterokołowca, które na równej, poziomej jezdni mogą rozwinąć prędkość wynoszącą co najmniej 40 km/h, w tym również w razie ciągnięcia przyczep
+droga ekspresowa – drogę dwu- lub jednojezdniową, oznaczoną odpowiednimi znakami drogowymi, na której skrzyżowania występują wyjątkowo, przeznaczoną tylko do ruchu pojazdów samochodowych, z wyłączeniem czterokołowca.
+
+
+== Parametry techniczne ==
+
+
+=== Podstawa prawna ===
+ Parametry dróg określa Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 2 marca 1999 w sprawie warunków technicznych, jakim powinny odpowiadać drogi publiczne i ich usytuowanie. Autostrada różni się od drogi ekspresowej głównie tym, że droga ekspresowa: może być jednojezdniowa, ma więcej węzłów, czasami ma skrzyżowania, w terenie zabudowy może być zaprojektowana dla niższej prędkości projektowej niż autostrada, ma węższe pasy ruchu, może mieć węższe pasy awaryjne i pobocza. Droga ekspresowa ma mniejszy minimalny pas drogowy niż autostrada – 40 m zamiast 60 m. Stosowanie zjazdów jest zabronione na obu rodzajach dróg.
+
+
+=== Parametry autostrady ===
+Autostrada wyjątkowo może mieć węzły drogowe z drogami głównymi, węzłami powinna łączyć się z drogami głównymi przyspieszonymi, drogami ekspresowymi i autostradami. Odstępy między węzłami nie powinny być mniejsze niż 15 km, a w granicach lub sąsiedztwie dużego miasta lub zespołu miast nie mniejsze niż 5 km. W wyjątkowych sytuacjach, jeżeli potrzeby funkcjonalno-ruchowe takie odstępy uzasadniają, dopuszcza się pojedyncze odstępy między węzłami nie mniejsze niż 5 km i 3 km w granicach lub sąsiedztwie dużego miasta lub zespołu miast. Autostrada powinna posiadać urządzenia łączności alarmowej. Pozostałe parametry autostrad są zależne od prędkości projektowej.
+
+tylko w granicach lub sąsiedztwie dużego miasta
+
+
+=== Parametry drogi ekspresowej ===
+Droga ekspresowa wyjątkowo może mieć skrzyżowania na prawe skręty z drogami zbiorczymi, powinna mieć węzły lub skrzyżowania z drogami głównymi i węzły z drogami wyższych klas. Odstępy między węzłami poza terenem zabudowy nie powinny być mniejsze niż 5 km, a na terenie zabudowy w granicach lub sąsiedztwie dużego oraz średniego miasta nie mniejsze niż 3 km. W wyjątkowych sytuacjach, jeżeli potrzeby funkcjonalno-ruchowe to uzasadniają, dopuszcza się pojedyncze odstępy między węzłami nie mniejsze niż 3 km poza terenem zabudowy i 1,5 km na terenie zabudowy. Ronda na drodze ekspresowej są dopuszczone tylko na jej końcach. Stosowanie zjazdów na drodze ekspresowej jest zabronione.
+Prędkość projektowa drogi ekspresowej powinna wynosić 120 (tylko dwujezdniowe), 100 lub 80 km/h poza terenem zabudowy oraz 80, 70 lub 60 km/h na terenie zabudowy (w tym ostatnim przypadku tylko silnie zurbanizowanym). Szerokość pasa awaryjnego powinna wynosić 2,5 m. Pozostałe parametry dróg ekspresowych są zależne od prędkości projektowej.
+
+tylko drogi dwujezdniowe
+droga jednojezdniowa
+
+
+== Prawne warunki korzystania ==
+
+
+=== Oznaczenia ===
+
+Autostrady w Polsce oznacza się znakiem białego wiaduktu nad dwiema białymi jezdniami na niebieskim tle. Numerowane są znakiem o czerwonym tle, z białym numerem zawsze poprzedzonym literą A oraz miniaturką znaku D-9 stosowaną wyłącznie w przypadku drogowskazów wskazujących kierunek dojazdu do autostrady. Drogowskazy na autostradach mają niebieskie tło.
+Drogi ekspresowe w Polsce oznacza się znakiem białego samochodu zwróconego frontem do kierowcy, na niebieskim tle. Numerowane są znakiem o czerwonym tle, z białym numerem zawsze poprzedzonym literą S oraz miniaturką znaku D-7 stosowaną wyłącznie w przypadku drogowskazów wskazujących kierunek dojazdu do drogi ekspresowej. Drogowskazy na drogach ekspresowych mają zielone tło.
+
+
+=== Numeracja ===
+Numeracja autostrad i dróg ekspresowych jest spójna z numeracją sieci dróg krajowych. Autostrady budowane są równolegle do dróg krajowych i po oddaniu do użycia przejmują ich numery (przed numerem dodawana jest litera A). Stara droga otrzymuje na ogół nowy numer, większy o 90 od dotychczasowego. Drogi ekspresowe budowane są w większości sytuacji mniej więcej po śladzie istniejących wcześniej dróg krajowych i przejmują numer zastępowanej drogi krajowej (poprzedzony literą S), natomiast na odcinkach, gdzie dawna droga krajowa nie pokrywa się z nowym przebiegiem drogi ekspresowej, staje się ona gminną lub po ew. decyzji władz województwa – drogą wojewódzką i otrzymuje odpowiednie nowe oznaczenie.
+
+Autostrady i drogi ekspresowe mogą posiadać jednocześnie oznaczenia tras europejskich, niezależne od numeracji krajowej (np. cała autostrada A2 jest częścią drogi E30). W takich wypadkach na tablicach drogowych uwidocznione są oba numery.
+
+
+=== Dopuszczalna prędkość ===
+Tabela podaje przewidziane przez Prawo o ruchu drogowym limity prędkości na polskich autostradach i drogach ekspresowych.
+
+Wraz z początkiem roku 2011 podwyższono dopuszczalne prędkości dla samochodów osobowych (ze 130 km/h do 140 km/h na autostradach oraz ze 110 km/h do 120 km/h na drogach ekspresowych dwujezdniowych).
+
+
+=== Inne ograniczenia ===
+Prawo o ruchu drogowym na autostradzie i drodze ekspresowej zabrania zawracania, zatrzymywania się lub postoju pojazdu (z wyjątkiem miejsc do tego wyznaczonych) oraz cofania. W odróżnieniu od autostrady, na drodze ekspresowej dozwolone jest holowanie. Zgodnie z Prawem o ruchu drogowym autostrada przeznaczona jest dla ruchu pojazdów samochodowych, które na równej, poziomej jezdni mogą rozwinąć prędkość co najmniej 40 km/h, w tym również w razie ciągnięcia przyczep (art. 2 pkt 3).
+
+
+=== Opłaty ===
+
+
+==== Zasady płatności ====
+
+Korzystanie z dróg ekspresowych jest zwolnione z opłat dla pojazdów lekkich, a autostrady A1, A2 i A4 zaplanowano jako płatne. Wpływy z opłat za przejazd odcinkami zarządzanymi przez GDDKiA zasilają Krajowy Fundusz Drogowy.
+Na autostradach wybudowanych w ramach partnerstwa publiczno-prywatnego obowiązują dwa systemy rozliczeń:
+
+System opłat rzeczywistych, gdzie wynagrodzeniem koncesjonariusza są wpływy z opłat dokonywanych na bramkach. Wysokość opłat ustala koncesjonariusz (zgodnie z ograniczeniami zawartymi w umowie koncesyjnej). W takim systemie funkcjonują odcinki A2 (Nowy Tomyśl – Konin) oraz A4 (Kraków – Katowice).
+System opłat za dostępność, gdzie wynagrodzeniem koncesjonariusza jest wypłacana ze środków publicznych przez cały czas trwania koncesji „opłata za dostępność”. Wysokość opłat za przejazd ustala minister ds. transportu a wpływy zasilają Krajowy Fundusz Drogowy. W takim systemie funkcjonują odcinki A2 (Nowy Tomyśl – Świecko) oraz A1 (Toruń – Pruszcz Gdański). Dokładana wysokość „opłat za dostępność” nie została ujawniona, ale w 2013 szacowana była na 1,3 mld zł rocznie w sumie dla obu tych odcinków.Opłaty są pobierane w dwóch systemach: otwartym i zamkniętym.
+
+
+==== System otwarty ====
+Popularniejszym spośród funkcjonujących u koncesjonariuszy jest system otwarty, w którym opłata za przejazd pobierana jest wyłącznie w umieszczonych w poprzek głównych jezdni autostrady punktach poboru opłat (PPO), w których dokonuje się płatności zróżnicowanej w zależności od typu pojazdu. Wdrożenie takiego systemu jest relatywnie tanie, jednakże obniża płynność ruchu na trasie, bowiem w celu wniesienia opłaty konieczne jest zatrzymanie pojazdu na każdym PPO (przykładowo na wielkopolskim odcinku A2 co około 50 km).
+W tym systemie pobierane są opłaty przez:
+
+Autostrada Eksploatacja SA na autostradzie A2 na odcinku Poznań-Krzesiny – Konin (Modła) (85,2 km)
+Decyzjami o ustaleniu lokalizacji oraz warunkami przetargowymi koncesjonariusz został zobowiązany do zapewnienia wykonania docelowego systemu pobierania opłat jako systemu zamkniętego, w którym stacje poboru opłat (SPO) są zlokalizowane na wszystkich węzłach autostrady. Zgodnie z zapisami umowy koncesyjnej, realizacja zamkniętego systemu poboru opłat miałaby nastąpić po osiągnięciu wymaganego poziomu natężenia ruchu. Pobór opłat obowiązuje od 20 grudnia 2002 (Września – Konin) oraz 27 listopada 2003 (Krzesiny – Września).
+Stalexport Autostrada Małopolska SA na autostradzie A4 na odcinku Mysłowice-Brzęczkowice – Balice I (61 km) od 3 kwietnia 2000 (pierwszy odcinek płatnej autostrady w historii polskiego drogownictwa)
+
+
+==== System zamknięty ====
+Innym sposobem poboru myta autostradowego jest tzw. system zamknięty, w którym na drogach dojazdowych do i z każdego węzła autostrady (na tzw. łącznicach) budowane są stacje poboru opłat (SPO) oraz punkty poboru opłat (PPO) na jezdniach głównych autostrady, na końcach odcinka koncesyjnego. W tych miejscach kierowca wjeżdżający na autostradę otrzymuje bilet, za który płaci we właściwym SPO lub PPO, opuszczając autostradę. Opłata jest zróżnicowana w zależności od rodzaju pojazdu oraz pokonanego dystansu. System ten wymaga znacznie większych nakładów, ze względu na konieczność wybudowania SPO na każdym węźle. Rozwiązanie takie jest znacznie wygodniejsze dla użytkowników, gdyż nie tamuje ruchu na głównych jezdniach drogi, co zdecydowanie wpływa na utrzymanie dużej płynności ruchu (a co za tym idzie – skrócenie czasu przejazdu i obniżenie zużycia paliwa) oraz poprawę bezpieczeństwa, natomiast może powodować zakłócenia w ruchu na węzłach.
+W tym systemie pobierane są opłaty na odcinkach:
+
+Autostrada A1 na odcinku Pruszcz Gdański – Toruń Płd. (150 km)
+Pobór opłat obowiązuje od 20 lutego 2008 (Pruszcz Gdański d. Rusocin – Swarożyn), 6 stycznia 2009 (Swarożyn – Nowe Marzy) oraz 11 lutego 2012 (Nowe Marzy – Toruń Płd. d. Czerniewice).
+Autostrada A2 na odcinku Rzepin – Komorniki (133 km), od 20 maja 2012Do 1 grudnia 2021, w tym systemie pobierane były również opłaty na odcinkach A2 Konin – Stryków (103 km), od 1 lipca 2011, oraz A4 Bielany Wrocławskie – Gliwice-Sośnica (166 km), od 1 czerwca 2012.
+
+
+==== Autostrady bezpłatne ====
+Jest lub pozostanie bezpłatny przejazd:
+
+autostradą A6 na całej długości,
+autostradą A8 na całej długości,
+autostradą A18 na całej długości,
+odcinkami autostrady A1:
+Toruń Płd. – Tuszyn,
+Częstochowa Płn. – Gorzyczki (granica z Czechami)
+odcinkami autostrady A2:
+Poznań Zach. – Poznań Wsch. (26,07 km) stanowiącym południową obwodnicę Poznania,
+Sługocin – Żdżary (ok. 19 km) ze względu na odległość między PPO na styku dwóch różnych systemów poboru opłat,
+Łódź – Warszawa
+Warszawa – Ryczołek (34,85 km)
+odcinkami autostrady A4:
+Jędrzychowice (granica z Niemcami) – Wrocław Bielany (153 km)
+między poszczególnymi SPO na obszarze Gliwic,
+Gliwice Sośnica – Katowice Murckowska,
+Kraków-Balice – Korczowa (granica z Ukrainą)
+
+
+==== System opłat viaTOLL ====
+Od 1 lipca 2011 pojazdy przekraczające dopuszczalną masę całkowitą (dmc) 3,5 tony oraz autobusy muszą posiadać urządzenie systemu viaTOLL. Na wybranych odcinkach dróg zainstalowano czytniki elektroniczne, które w sposób bezprzewodowy połączą się z urządzeniem oraz naliczą opłatę za przejazd. Urządzenie można doładować na wybranych stacjach benzynowych oraz w przystosowanych do tego punktach. Kary za przejazd po płatnym odcinku bez urządzenia są następujące:
+1500 zł (w przypadku pojazdu o dmc powyżej 12 ton)
+750 zł (w przypadku pojazdu o dmc od 3,5 ton do 12 ton).System viaTOLL miał być wygaszony najpóźniej do 30 września 2021, zastąpi go nowy system e-TOLL.
+
+
+==== System opłat e-TOLL ====
+24 czerwca 2021 uruchomiono nowy system do poboru opłaty elektronicznej - e-TOLL, oparty na technologii pozycjonowania satelitarnego. Ma on zastąpić funkcjonujący w oparciu o bramownice system viaTOLL i zmniejszyć koszty po stronie administracji drogowej. Obowiązek korzystania z systemu nałożony jest na użytkowników pojazdów o dopuszczalnej masie całkowitej przekraczającej 3,5 tony oraz autobusów.
+
+
+==== Elektroniczny system poboru opłat ====
+W 2014 roku Ministerstwo Infrastruktury i Rozwoju podało plany wprowadzenia elektronicznego systemu poboru opłat. Nowe rozwiązania dotyczą płatnych autostrad, na których występują problemy przy istniejącym manualnym systemie poboru opłat. W czasie wielkiego natężenia ruchu drogowego, który szczególnie powstaje w okresie wakacyjnym, tworzą się olbrzymie zatory drogowe, które czasem sięgają nawet 10 km. Kierowcy są zmuszeni oczekiwać do 2 godzin przed punktami poboru opłat, aby wnieść opłatę. Dlatego też Generalna Dyrekcja Dróg Krajowych i Autostrad zerwała przetargi na wybudowanie nowych bramek na autostradzie A4.
+W ratowaniu sytuacji nie pomogło wydzielenie dodatkowych stanowisk poboru opłat dla aut posiadających system ViaAuto na autostradach A2 i A4 – według wielu ekspertów było to zabranie jednego stanowiska dla kierowców płacących tradycyjnie.
+W czasie wakacyjnych korków zostało wprowadzonych wiele prostych rozwiązań, między innymi pomoc „lotnych” inkasentów, którzy bezpośrednio podają bilety kierowcom, zmniejszając zatory drogowe, czy też wytyczenie przez policję objazdów. Następnie decyzją Rady Ministrów, w sierpniowe weekendy do końca wakacji w roku 2014 na odcinku autostrady A1 zarządzanym przez GTC miały zostać całkowicie zniesione opłaty na wszystkich punktach poboru opłat. Darmowy przejazd obowiązywać miał od piątku od godziny 16 do niedzieli do godziny 24.
+Nowy system miał być wprowadzony do 2016–2017 roku. Według różnych koncepcji miałby on na celu całkowitą likwidację punktów poboru opłat lub ich przebudowę, w której nad każdym stanowiskiem bramkowym zamontowany byłby nadajnik viaTOLL. Każde auto musiałoby zawierać urządzenie viaAUTO, takie, jakie posiadają pojazdy ciężarowe. Biorąc pod uwagę fakt, że nie każdy kierowca jeździ regularnie po autostradach, istniałaby możliwość wcześniejszego zarejestrowania się na specjalnej stronie internetowej, a system miałby rozpoznać pojazd, skanując jego tablice rejestracyjne. Koncepcja musiałaby pozyskać uznanie prywatnych koncesjonariuszy.
+
+System automatyczny VideoTollW lipcu 2019 r. uruchomiony został system automatycznego poboru opłat na autostradzie A1 (odcinek Toruń – Gdańsk) i na autostradzie A4 (odcinek Katowice – Kraków). System opiera się na videotollingu (odczycie tablic rejestracyjnych pojazdu). Żeby móc skorzystać z automatycznych płatności, należy pobrać aplikację dostępną na urządzenia z systemem operacyjnym iOS lub Android, uzupełnić dane pojazdu (markę, model, kraj aktualnej rejestracji, numer rejestracyjny, kategorię pojazdu) oraz podpiąć kartę płatniczą, z której ma zostać pobrana opłata za przejazd.
+
+
+==== System opłat w swobodnym ruchu ====
+1 grudnia 2021 roku na fragmentach autostrad:
+
+Autostrada A2 Konin Wschód – Stryków,
+Autostrada A4 Bielany Wrocławskie – Gliwice Sośnicadotychczasowy system poboru opłat został zastąpiony nowym, opartym o zasadę swobodnego ruchu (ang. free-flow). Oznaczało to zakończenie dalszej eksploatacji istniejących miejsc poboru opłat na głównych jezdniach oraz łącznicach węzłów. Oprócz już istniejącego systemu viaTOLL kierowcy mogą opłacić przejazd za pomocą elektronicznego biletu obowiązującego w danym czasie i na określonym odcinku oraz za pomocą danych geolokalizacyjnych – rozwiązanie to wymaga instalacji specjalnego urządzenia w pojeździe lub posiadania aplikacji mobilnej. System ten został zniesiony 1 lipca 2023 roku. Obecnie odcinki te są bezpłatne dla pojazdów o masie poniżej 3,5 tony; dla cięższych pojazdów nadal obowiązuje opłata w ramach e-TOLL.
+
+
+== Program budowy w III RP ==
+
+
+=== Opracowanie i zmiany programu ===
+Program budowy sieci autostrad i dróg ekspresowych w Polsce, opracowany pod koniec lat 90. XX wieku, mimo wielu modyfikacji jest na bieżąco realizowany. Zmiany wprowadzone do pierwotnej wersji programu dotyczyły terminów ukończenia poszczególnych odcinków i zmian klasy drogi (np. droga ekspresowa S3 początkowo była planowana jako autostrada A3). Sieć autostrad i dróg ekspresowych rozbudowywana jest szybciej między innymi ze względu na duże zainteresowanie problemem, dotacje z europejskiego Funduszu Spójności, a także dotacje Unii Europejskiej. Dodatkowym impulsem mobilizującym instytucje rządowe do przyspieszenia prac w tym kierunku stało się przyznanie organizacji Euro 2012 Polsce i Ukrainie.
+Rozporządzeniem Rady Ministrów z dn. 15 maja 2004 określono sieć autostrad i dróg ekspresowych w Polsce o łącznej długości ok. 7200 km (w tym ok. 2000 km autostrad). Rozporządzenie Rady Ministrów z dn. 13 lutego 2007 uzupełniło wykaz autostrad i dróg ekspresowych o drogi S2 i S79.
+24 sierpnia 2009 roku Ministerstwo Infrastruktury opublikowało projekt, a 20 października Rada Ministrów przyjęła Rozporządzenie zmieniające rozporządzenie w sprawie sieci autostrad i dróg ekspresowych, które wprowadzało następujące zmiany:
+
+utworzenie nowej drogi ekspresowej S61 o przebiegu Ostrów Mazowiecka – Łomża – Stawiski – Szczuczyn – Ełk – Raczki – Suwałki – Budzisko – granica państwa (Kowno),
+skrócenie drogi ekspresowej S8 do Białegostoku – Choroszczy (rezygnacja z odcinka Białystok – Suwałki, odcinek Suwałki – Budzisko włączony w drogę S61),
+modyfikację przebiegu drogi ekspresowej S19 w okolicach Białegostoku, omijając od północy Puszczę Knyszyńską po przebiegu Choroszcz – Knyszyn – Korycin – Sokółka.8 września 2015 uchwałą Rady Ministrów został zatwierdzony Program Budowy Dróg Krajowych (PBDK) na lata 2014–2023 (z perspektywą do 2025), który przewiduje realizację ok. 3900 km autostrad i dróg ekspresowych.
+30 września 2015 na stronach RCL został opublikowany Projekt rozporządzenia Rady Ministrów, a 13 października Rada Ministrów przyjęła Rozporządzenie zmieniające rozporządzenie w sprawie sieci autostrad i dróg ekspresowych. W wyniku wprowadzonych zmian docelowa długość sieci autostrad pozostała bez zmian (ok. 2000 km), a długość dróg ekspresowych wzrosła do ok. 5500 km. Rozporządzenie opublikowano 29 października 2015, weszło w życie 13 listopada 2015. W rozporządzeniu tym w planowanej sieci dróg wprowadzono następujące zmiany:
+
+przedłużenie przebiegu drogi ekspresowej S5 do Ostródy (odcinek Grudziądz – Ostróda),
+przedłużenie przebiegu drogi ekspresowej S6 do Kołbaskowa (odcinek Kołbaskowo – Police – Goleniów – tzw. obwodnica zachodnia Szczecina),
+dodanie do drogi ekspresowej S8 odcinka A8 (Wrocław) – Kobierzyce (usankcjonowanie stanu faktycznego),
+przedłużenie przebiegu drogi ekspresowej S7 do Gdyni (odcinek Gdańsk – Gdynia),
+zmiana przebiegu drogi ekspresowej S10 – zamiast odcinka Toruń – Płońsk dodano Toruń – Płock – Nowy Dwór Mazowiecki – Wołomin,
+dodanie nowej drogi ekspresowej S16 na trasie S51 (Olsztyn) – S61 (Ełk),
+dodanie nowej drogi ekspresowej S86 (usankcjonowanie stanu faktycznego).19 maja 2016 na stronach KPRM oraz MIB została opublikowana informacja o przyjęciu przez Radę Ministrów kolejnych zmian do rozporządzenia w sprawie sieci autostrad i dróg ekspresowych. 23 maja 2016 projekt rozporządzenia został opublikowany na stronach RCL, a 19 maja Rada Ministrów przyjęła Rozporządzenie zmieniające rozporządzenie w sprawie sieci autostrad i dróg ekspresowych. Rozporządzenie opublikowano 4 czerwca 2016. Termin wejścia w życie określono na 60 dni od dnia ogłoszenia. W wyniku wprowadzonych zmian docelowa długość sieci autostrad pozostała bez zmian (ok. 2000 km), a długość dróg ekspresowych wzrosła do ok. 5650 km. W rozporządzeniu tym w planowanej sieci dróg wprowadzono następujące zmiany:
+
+przedłużenie przebiegu drogi ekspresowej S16 na odcinku S61 (Ełk) – S19 (Knyszyn),
+nowa droga ekspresowa S52 na odcinkach:
+Bielsko-Biała (S69) – Głogoczów (S7),
+A4 – S7 (północna obwodnica Krakowa).
+ujednolicenie nazewnictwa ciągów komunikacyjnych: przebieg drogi ekspresowej S1 oraz przebieg drogi ekspresowej S52 na odcinku (granica) Cieszyn – Bielsko-Biała.25 września 2019 w Dzienniku Ustaw została opublikowana zmiana rozporządzenia o sieci autostrad i dróg ekspresowych w Polsce. W wyniku wprowadzonych zmian docelowa długość sieci autostrad wzrosła z ok. 2000 km do ok. 2100 km, a długość sieci dróg ekspresowych z ok. 5650 km do ok. 5880 km. Wprowadzono następujące zmiany:
+
+przedłużenie przebiegu drogi ekspresowej S5 na odcinku Wrocław – Sobótka – Świdnica – Bolków (S3),
+przedłużenie przebiegu drogi ekspresowej S8 na odcinku Wrocław – Kobierzyce – Łagiewniki – Kłodzko,
+dodanie autostrady A50 na odcinku A2 (Centralny Port Komunikacyjny) – Mszczonów – Góra Kalwaria – A2 (Mińsk Mazowiecki)
+dodanie drogi ekspresowej S50 na odcinku A2 (Centralny Port Komunikacyjny) – Sochaczew – Wyszogród – S10 (Naruszewo) – Serock – S8 (Radzymin) – A2 (Mińsk Mazowiecki).
+
+
+=== Ocena i porównanie ===
+Europejski Trybunał Obrachunkowy w 2013 opublikował porównanie procedur i kosztów budowy 24 odcinków dróg w państwach otrzymujących najwięcej funduszy Unii przeznaczonych na budowę dróg: w Polsce, Grecji, Hiszpanii i Niemczech. Wybudowanie 1000 m² jezdni (bez planowania, nadzoru, obiektów inżynieryjnych typu mosty, tunele) było najdroższe w Polsce (164 tys. €), a najtańsze w Niemczech (87 tys. €). Wybudowanie drogi nowym śladem było przeciętnie 2 razy droższe niż modernizacja istniejącej drogi z powodu kosztów wywłaszczeń i prac ziemnych. W przypadku S7 Białobrzegi – Jedlińsk budowa kilometra starym śladem była droższa niż budowa S8 Radzymin – Wyszków nowym śladem z powodu konieczności wybudowania dróg zbiorczych dla ludności mieszkającej przy S7. W Niemczech drogi są budowane znacznie krótszymi odcinkami, 1,5–5 km.
+Najdroższe bariery bezpieczeństwa były w Polsce (35 €/m), a najtańsze w Grecji (20 €/m). Budowa m² jezdni na moście w Polsce była druga najtańsza, mimo najdroższego betonu mostowego (228 €/m³), który najtańszy był w Hiszpanii (130 €/m³). Tylko w Polsce wyjątkowo pozwala się na modyfikacje podpisanego kontraktu zwiększające jego cenę – koszty budowy po podpisaniu kontraktu wzrosły w Polsce o 1%, średnia czterech państw to 23%, głównie z powodu znalezisk archeologicznych, błędów planowania, czy wzrostu cen materiałów. W Polsce budowy były najbardziej terminowe, oddawano je ze średnim opóźnieniem 3 miesięcy (16% czasu budowy) przy średniej 9 miesięcy (41%).
+
+
+=== Zaawansowanie budowy ===
+Poniższa tabela zawiera zestawienie oraz stan realizacji planowanych autostrad i dróg ekspresowych w Polsce zgodnie z rządowym „wykazem autostrad i dróg ekspresowych w Rzeczypospolitej Polskiej” będącym załącznikiem do rozporządzeń Rady Ministrów. W rubryce Długość całkowita, wartości poprzedzone symbolem ≈ są przybliżone i mają charakter jedynie orientacyjny (nieustalony jest ostateczny przebieg tych dróg, tym samym nieznana dokładna ich długość). Dane w pozostałych rubrykach według stanu na 16 listopada 2023 r.
+Wszelkie zmiany w poniższej tabeli dokonywane są na podstawie artykułów na Wikipedii o poszczególnych autostradach oraz drogach ekspresowych (z kolei informacje we wspomnianych artykułach tworzone są na podstawie wiarygodnych źródeł.)
+
+
+== Historia budowy ==
+
+
+=== Dwudziestolecie międzywojenne XX w. ===
+W dwudziestoleciu międzywojennym XX w. zaczęto w Polsce planować drogi przeznaczone dla szybkiego ruchu samochodowego na dalsze odległości, tzw. autostrady. Po raz pierwszy uwagę zwrócono na to na I Polskim Kongresie Inżynierów we Lwowie we wrześniu 1937. W tych planach profesor M. W. Nestorowicz na IV Kongresie Drogowym w styczniu 1938 roku wymienił następujące drogi (plany te ukazały się też w czasopiśmie „Drogowiec” nr 9 z 5 marca 1939):
+
+
+==== Drogi samochodowe pierwszej kolejności ====
+Warszawa – Łódź – 100 km
+Warszawa – Poznań, granica państwa (Berlin) – 350 km
+Okrężna naokoło Warszawy – 130 km
+Okrężna naokoło Poznania – 80 km
+Gdynia – Bydgoszcz – Łódź – Katowice – 500 km
+Okrężna naokoło Łodzi – 90 km
+Bytów – Granica obszaru Gdańska – 50 km
+Katowice – Kraków – Lwów – 375 km
+Warszawa – Lublin – Lwów – Śniatyń, granica państwa (Bukareszt) – 550 km
+Puławy – Sandomierz – Przemyśl – 175 kmRazem – 2400 km
+
+
+==== Drogi samochodowe drugiej kolejności ====
+Piotrków Trybunalski – Kielce – Sandomierz – 180 km
+Warszawa – Kielce – Kraków – 180 km
+Łódź – Kalisz, granica państwa (Wrocław) – 130 km
+Warszawa – Grodno – Wilno – granica państwa (Dźwińsk) – 575 km
+Grodno – Nowogródek – granica państwa (Mińsk-Moskwa) – 190 km
+Bydgoszcz – Poznań – Częstochowa – 350 km
+Katowice – Cieszyn – (Brno) – 60 km
+Ostrołęka – granica państwa (Królewiec) – 50 km
+Grodno – granica państwa – (Kowno) – 40 km
+Grodno – Brześć – Krasnystaw – 300 km
+Warszawa – Brześć – 170 kmRazem – 2295 km
+Ogólna długość dróg I i II kolejności – 4695 km
+Realizacja tego planu miała trwać 30 lat (do 1969). Przez wielu jednak plan był krytykowany i uważany za nierentowny z powodu niskiego poziomu motoryzacji w Polsce (1 samochód przypadał na 1000 mieszkańców). Jednak wiosną 1939 roku, wobec rosnącego zagrożenia wojennego, Biuro Planowania przy gabinecie ministra skarbu ogłosiło plan rozbudowy komunikacji kolejowej i drogowej, w którym przewidywano budowę autostrad kosztem 130 mln zł; tych autostrad miało powstać ok. 400 km. Władze polityczno-wojskowe kraju uważały, że jako pierwsza powinna powstać autostrada Gdynia – Warszawa – Sandomierz – Lwów – granica z Rumunią.
+W latach 1936–1939 zbudowano 28 km betonowej autostrady między miejscowościami Warlubie i Osiek (później droga wojewódzka nr 214), droga miała dotrzeć do Gdyni z ominięciem Gdańska. Jej autorem był projektant włoskich autostrad, Piero Puricelli. Docelowo miała ona wejść w skład autostrady nr 5 (według projektu Nestorowicza).
+
+
+=== 1939–1945 ===
+Podczas II wojny światowej problem budowy autostrad podniesiony został przez polskie władze emigracyjne w Londynie. W przygotowanym przez Ministerstwo Przemysłu, Handlu i Żeglugi wieloletnim planie gospodarczym dla powojennej Polski, przewidziano stworzenie sieci autostrad łączących główne ośrodki kraju. W pierwszej fazie planu, obejmującej 15 lat, realizowane miały być odcinki autostrad przechodzące przez obszary o gęstym zaludnieniu, łączące podstawowe ośrodki gospodarcze lub kulturalne (Warszawa–Łódź–Bydgoszcz–Toruń, Gdańsk–Gdynia, Śląsk–Kraków i Lwów–Borysław). Docelowo przewidywano utworzenie układu trójkątnego, który polegał na funkcjonowaniu sieci autostrad łączących ośrodki regionalne oddalone od siebie o ok. 75 km.
+Jednocześnie na terenie okupowanej II RP trwała budowa berlinki, w trakcie której powstały nasypy w rejonie Kościerzyny.
+
+
+=== Po 1945 ===
+
+
+==== Sytuacja ====
+Po II wojnie światowej uległy zmianie granice Polski. Na Ziemiach Odzyskanych Polska odziedziczyła po III Rzeszy niedokończone (na wielu odcinkach wybudowana jedna jezdnia) i częściowo zniszczone działaniami wojennymi autostrady:
+
+Tak zwana „Berlinka” (≈106 km) – na odcinku Kołbaskowo – Łęczyca (później A6 i DW142), oraz na odcinku Elbląg – Grzechotki (później S22),
+Śląska (≈270 km) – na odcinku Olszyna – Brzeg (≈220 km) oraz Ujazd – Gliwice – Zabrze (≈40 km) (później A18/A4, odcinek koło Gliwic jest oznaczony jako droga nr 88).Większość mostów autostradowych nad rzekami została zniszczona w czasie wojny. Bezpośrednio po wojnie jedynie część z nich została odbudowana. Most nad Iną został odbudowany w 1972, zaś mosty nad Pasłęką, Młynówką i Omazą na drodze Elbląg – Grzechotki zostały odbudowane w latach 1996–2003.
+Poza istniejącymi autostradami istniały przerwane w różnych stadiach budowy drogi na trasach:
+
+Łęczyca – Chojnice,
+Zgorzelec – Bolesławiec,
+Brzeg – Ujazd,
+Świecko – Luboń k. Poznania.Poza odbudową mostów wszystkie te konstrukcje (ukończone i nieukończone) dotrwały w praktycznie niezmienionym stanie do połowy lat 90. XX wieku. W latach 70. wydłużono jedynie Berlinkę o odcinek Łęczyca – Lisowo, prowadząc jedną asfaltową jezdnię po śladzie autostrady, korzystając z gotowych nasypów i wiaduktów.
+
+
+==== Plany ====
+W owym czasie powstały również ambitne plany budowy sieci autostrad na terenie całej Polski. W magazynie „Drogownictwo” z 1946 roku (nr 1) inż. Eugeniusz Buszma zaproponował następującą sieć:
+
+Wschód – Zachód (Słubice – Warszawa – Białystok) – 680 km
+Północ – Południe (Gdynia – Warszawa – Bałkany) – 650 km
+Śląsk – Bałtyk I (Gdańsk – Łódź – Katowice) – 460 km
+Pomorska (Gdańsk – Szczecin) – 280 km
+Śląska (Wrocław – Katowice – Kraków) – 190 km
+Mazurska (Królewiec – Elbląg – Malbork) – 20 km
+Śląsk – Bałtyk II (Bydgoszcz – Wrocław) – 260 km
+Łódź – Wrocław – Praga – 310 km
+Katowice – (Wiedeń) – 60 km
+Poznań – Szczecin – 200 km
+Radom – Lublin – (Lwów) – 220 kmRazem ich długość wynosiła 3330 km. Po dodaniu odcinków poniemieckich łączna sieć miała wynieść 3700 km. Jednak planów nie zrealizowano, tłumacząc to niskim poziomem motoryzacji kraju – w 1957 roku Komisja Planowania przy Radzie Ministrów uzasadniała to faktem, iż na 1 km drogi twardej przypadały 3 pojazdy, podczas gdy dla Europy Zachodniej wskaźnik ten wynosił średnio 10-20, toteż uważano, że przepustowość drogowa jest dla Polski wystarczająca.
+
+
+=== Lata 60. – 90. ===
+
+
+==== Lata 60. ====
+Dopiero na początku lat 60. wskutek wzrostu ruchu samochodowego zdecydowano o konieczności rozpoczęcia budowy autostrad. 24 czerwca 1963 roku Rada Motoryzacyjna przy Radzie Ministrów zaprezentowała plan, którego autorem był również Eugeniusz Buszma, jej przewodniczący. Zawierał on te same odcinki co plan z 1946 roku, a także dodatkowo odcinki Warszawa – Kraków – Zakopane, Kraków – Przemyśl, Warszawa – Bydgoszcz – Koszalin, Poznań – Koszalin, Warszawa – Lublin i Warszawa – Terespol. Łączna długość miała wynosić 4300 km, z czego do 1980 r. miało powstać 700 km, a do 2000 r. 2000–3000 km autostrad. Analogiczne plany sporządziła Pracownia Sieci Drogowej Centralnego Biura Projektów i Studiów Dróg, Mostów i Lotnisk (CBPiSDMiL) pod kierunkiem Eugeniusza Tarasiewicza, uwzględniając nowsze hipotezy rozwoju motoryzacji i prognozy ruchu samochodowego. Znowelizowany kierunkowy układ dróg szybkiego ruchu, opracowany w 1969 roku, zawierał kierunkowy projekt sieci autostrad do 2000 roku o łącznej długości 2930 km i obejmował trasy:
+
+(Moskwa) – Terespol – Warszawa – Łódź – Poznań – (Berlin),
+(Lwów) – Rzeszów – Kraków – Katowice – Wrocław – (Berlin) z odgałęzieniem,
+Bolesławiec – Zgorzelec – (Drezno),
+Warszawa – Łódź – Katowice – (Wiedeń),
+Łódź – Toruń – Gdańsk z podłączeniem Warszawy,
+Warszawa – Radom – Kielce – Kraków,
+Łódź – Wrocław – (Praga),
+Wrocław – Poznań – Bydgoszcz.Przewidywał także realizację w przyszłości autostrad: Poznań – Szczecin (Berlin) – Szczecin – Koszalin – Gdańsk, Warszawa – Lublin i Warszawa – Białystok – (Wilno).
+Jako pierwszy odcinek zdecydowano zbudować GOP – Kraków, dla którego w 1966 r. CZDP sporządził studium wykonalności, budowę zaplanowano na lata 1974–1977. Przystąpiono również do budowy dwujezdniowych wylotów z wielkich miast, które w przyszłości miały połączyć ich centra z autostradami i magistralami, m.in. wyloty z Warszawy do Poznania, z Katowic do Warszawy i z Bydgoszczy do Torunia.
+Równocześnie w latach 1960. przebudowano łącznie 26 tys. km dróg, głównie o charakterze lokalnym.
+
+
+==== Lata 70. ====
+W latach 70. zaczęły się pierwsze poważne prace nad rozbudową sieci autostrad. W 1972 zaplanowano:
+
+budowę drogi Gliwice – Kraków (później A4),
+dokończenie budowy (dobudowa drugiej jezdni) Wrocław – Gliwice (później A4),
+budowę drogi Warszawa – Katowice (tzw. gierkówka, później S8/A1).W 1976 plany rozszerzono o odcinki:
+
+Tarnów – Kraków (później A4)
+wschodnia obwodnica GOP (później S1)
+Bielsko-Biała – Cieszyn (później S52)
+Warszawa – Poznań (tzw. olimpijka, później A2),
+Łódź – Piotrków Trybunalski (później A1).W latach 1973–1977 przy współpracy ONZ zrealizowano program „Rozwój sieci drogowej”, zbudowano 35 tys. km nowych i zmodernizowano 87 tys. km starych dróg.
+
+
+==== Lata 80. ====
+W 1985 plan zakładał istnienie już dwóch kategorii dróg samochodowych: autostrad i dróg ekspresowych. Jako autostrady zostały wyznaczone drogi na trasie dzisiejszych autostrad A1, A2 i A4. Realizacja tych planów postępowała jednak powoli. W latach 1978–1991 udało się oddać fragmenty A4: Jaworzno (Byczyna) – Kraków (Balice) (ok. 36 km), A2: Września – Konin (Modła) (ok. 48 km) oraz A1: Tuszyn – Piotrków Trybunalski (ok. 18 km). W kolejnych latach powstawały jedynie bardzo krótkie odcinki na przedłużeniu istniejących tras oraz przy granicy w pobliżu nowo otwieranych lub rozbudowywanych przejść granicznych.
+
+
+==== Lata 90. ====
+W latach 90. zaczęto ponownie zmieniać plany sieci autostrad i dróg ekspresowych. W 1993 do rangi autostrad podniesiono planowane drogi:
+
+Szczecin – Gorzów Wlkp. – Zielona Góra – Legnica – Bolków – Lubawka (A3),
+Olszyna – Krzywa (A18, wówczas oznakowana A12),
+Łódź – Wrocław – Bolków (wówczas A8),
+Kołbaskowo – Szczecin (A6).W latach 1999–2003/2004 istniała także autostrada A41, poprowadzona od Balic do węzła Kraków Radzikowskiego z ówczesną drogą krajową nr 914 w Modlniczce.
+
+
+=== 2000–2005 ===
+
+
+==== 2000–2003 ====
+W 2001 z rządowego planu budowy autostrad usunięto autostradę A3 – zastąpiono ją drogą ekspresową S3, zaś autostrada A8 została zredukowana do autostradowej obwodnicy Wrocławia oraz drogi ekspresowej S8 na odcinku Wrocław – Warszawa – Białystok. Do rozporządzenia określającego przebieg dróg dodano również nową drogę ekspresową S47 Rabka-Zdrój – Zakopane, która ostatecznie w 2003 roku została usunięta z rządowych planów. W rozporządzeniu z 2014 roku wydłużono dodatkowo drogę S11, która we wcześniejszych planach miała przebiegać z Kołobrzegu do Poznania. Po zmianach, drogę przedłużono na Górny Śląsk, do połączenia z autostradą A1.
+
+
+==== 2004 ====
+W 2004 oddano do użytku ok. 103,3 km dróg, ponadto podpisano kontrakty na budowę ponad 68 km autostrad.
+
+
+==== 2005 ====
+W 2005 oddano do użytku ponad 115 km autostrad i dróg ekspresowych, oraz podpisano kontrakty na budowę ponad 120 km.
+
+
+=== 2006–2010 ===
+
+
+==== 2006 ====
+W 2006 oddano do użytku ok. 182,7 km autostrad i dróg ekspresowych, oraz podpisano kontrakty na budowę ok. 219,7 km.
+
+
+==== 2007 ====
+W 2007 oddano do użytku 40,5 km autostrad i dróg ekspresowych, oraz podpisano kontrakty na budowę ponad 111,5 km. Spośród tych umów zerwano jedną (dotyczyła budowy 18-kilometrowego odcinka autostrady A1).
+
+
+==== 2008 ====
+W 2008 oddano do użytku ok. 210 km autostrad i dróg ekspresowych, oraz podpisano kontrakty na budowę ponad 310 km.
+
+
+==== 2009 ====
+W 2009 oddano do użytku ponad 147 km autostrad i dróg ekspresowych, oraz podpisano kontrakty na budowę ok. 642 km. Spośród tych umów zerwano jedną (dotyczyła budowy 91-kilometrowego odcinka autostrady A2).
+
+
+==== 2010 ====
+W 2010 oddano do użytku ok. 138 km autostrad i dróg ekspresowych, oraz podpisano kontrakty na budowę ponad 435 km. Spośród tych umów zerwano dziewięć (dotyczyły odcinków o łącznej długości 250 km).
+
+
+=== 2011–2015 ===
+
+
+==== 2011 ====
+W 2011 oddano do użytku 313 km autostrad i dróg ekspresowych, oraz podpisano kontrakty na budowę ok. 228 km.
+
+
+==== 2012 ====
+W 2012 oddano do użytku ok. 640 km autostrad i dróg ekspresowych, oraz podpisano kontrakty na budowę 86,7 km. Spośród tych umów zerwano jedną (dotyczyła budowy 8-kilometrowego odcinka drogi S61).
+
+
+==== 2013 ====
+W 2013 oddano do użytku ok. 298 km autostrad i dróg ekspresowych, oraz podpisano kontrakty na budowę ok. 128 km.
+
+
+==== 2014 ====
+W 2014 oddano do użytku ok. 280 km autostrad i dróg ekspresowych, oraz podpisano kontrakty na budowę ok. 424 km.
+
+
+==== 2015 ====
+W 2015 oddano do użytku 33,5 km dróg ekspresowych, oraz podpisano kontrakty na budowę prawie 700 km autostrad i dróg ekspresowych.
+
+
+=== 2016–2020 ===
+
+
+==== 2016 ====
+W 2016 oddano do użytku ok. 123 km autostrad i dróg ekspresowych, oraz podpisano kontrakty na budowę ok. 234 km.
+
+
+==== 2017 ====
+W 2017 oddano do użytku ok. 294 km dróg szybkiego ruchu, oraz podpisano kontrakty na budowę ok. 265 km autostrad i dróg ekspresowych.
+
+
+==== 2018 ====
+W 2018 oddano do użytku ok. 342 km dróg szybkiego ruchu, oraz podpisano kontrakty na budowę ok. 446 km autostrad i dróg ekspresowych.
+
+
+==== 2019 ====
+W 2019 oddano do użytku ok. 430,3 km dróg szybkiego ruchu, oraz podpisano kontrakty na budowę ok. 95,7 km autostrad i dróg ekspresowych.
+
+
+==== 2020 ====
+W 2020 roku oddano do użytku ok. 140,2 km dróg szybkiego ruchu, oraz podpisano kontrakty na budowę ok. 274,2 km autostrad i dróg ekspresowych.
+
+
+=== 2021–2025 ===
+
+
+==== 2021 ====
+W 2021 roku oddano do użytku ok. 263,1 km dróg szybkiego ruchu, oraz podpisano kontrakty na budowę ok. 391,6 km autostrad i dróg ekspresowych.
+
+
+==== 2022 ====
+W 2022 roku oddano do użytku ok. 350,4 km dróg szybkiego ruchu, oraz podpisano kontrakty na budowę ok. 306,1 km autostrad i dróg ekspresowych.
+
+
+==== 2023 ====
+W 2023 roku oddano do użytku ok. 267,6 km dróg szybkiego ruchu, oraz podpisano kontrakty na budowę ok. 149,4 km autostrad i dróg ekspresowych. 
+
+
+==== 2024 ====
+Według kontraktowych terminów trwających inwestycji, w 2024 roku planuje się oddać do użytku ok. 220,3 km autostrad i dróg ekspresowych.
+
+
+==== 2025 ====
+Według kontraktowych terminów trwających inwestycji, w 2025 roku planuje się oddać do użytku ok. 454,3 km autostrad i dróg ekspresowych.
+
+
+=== 2026–2030 ===
+
+
+==== 2026 ====
+Według kontraktowych terminów trwających inwestycji, w 2026 roku planuje się oddać do użytku ok. 220,4 km autostrad i dróg ekspresowych.
+
+
+==== 2027 ====
+Według kontraktowych terminów trwających inwestycji, w 2027 roku planuje się oddać do użytku ok. 175,5 km autostrad i dróg ekspresowych.
+
+
+== Długość autostrad i dróg ekspresowych ==
+Łączna długość autostrad i dróg ekspresowych w granicach dzisiejszej Polski (pod koniec roku):
+
+źródło, jeżeli przy danym roczniku nie zaznaczono inaczej
+
+
+== Węzły autostradowe ==
+
+
+=== Węzły między autostradami ===
+
+
+=== Węzły między autostradami i drogami ekspresowymi ===
+
+
+=== Węzły między drogami ekspresowymi ===
+
+
+== Zobacz też ==
+Trasy europejskie w Polsce
+klasy i kategorie dróg publicznych w Polsce
+Generalna Dyrekcja Dróg Krajowych i Autostrad
+Krajowy Fundusz Drogowy
+Rada ds. Autostrad
+
+
+== Uwagi ==
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Janusz Kaliński Autostrady w Polsce, czyli drogi przez mękę, Księży Młyn Dom Wydawniczy, Łódź 2011, ISBN 978-83-7729-116-0.
+
+
+== Linki zewnętrzne ==
+Generalna Dyrekcja Dróg Krajowych i Autostrad. gov.pl. [dostęp 2021-12-10]. (pol.).
+Sprawdź przygotowanie dróg krajowych, Stan na dzień 31.12.2021 r., GDDKiA [dostęp 2022-02-02] .
+Moloch, esce, latajacy-dywan, Kemo: Mapa stanu budowy autostrad i dróg ekspresowych w Polsce. SISKOM. [dostęp 2021-12-10]. (pol.).
+Igor Selmaj: Mapa stanu budowy autostrad, dróg ekspresowych i innych dróg krajowych w Polsce (Forum SkyscraperCity). [dostęp 2022-12-07]. (pol.).
+Autostrady i drogi ekspresowe w Polsce. wrut.pl. [dostęp 2021-12-10]. (pol.).
+Budowniczowie polskich autostrad. WP finanse, 2013-11-15. [dostęp 2021-12-10]. (pol.).
+Historia budowy autostrad i dróg ekspresowych na dzień 01.01.2017 [Adobe Flash] [dostęp 2021-12-10] [zarchiwizowane 2013-09-29] .brak strony (książka)
+[Statystyka] i historia budowy autostrad i dróg ekspresowych, SkyscraperCity [zarchiwizowane 2020-02-04] .
+e-TOLL na stacjach i w aplikacjach PKN ORLEN. e-TOLL. [dostęp 2021-12-10]. (pol.). – lista stacji PKN Orlen sprzedających papierowe bilety autostradowe

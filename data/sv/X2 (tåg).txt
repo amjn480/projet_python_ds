@@ -1,0 +1,145 @@
+X2 är littera för en drivenhet eller en typ av tågsätt (se nedan) som byggdes mellan 1989 och 1998 och som ägs av SJ. X2 utgör den tekniska basen i SJ:s snabbtågskoncept X 2000 och gjorde detsamma tidigare i Linx koncept Linxtåg.
+X2-projektet startade 1969 som ett samarbete mellan Kalmar Verkstad (KVAB), Statens Järnvägar och Asea. Testerna påbörjades på 1970-talet.X2 har en största tillåten hastighet på 200 km/h, men har vid provkörning kommit upp i 276 km/h (Tåget hade då dubbla drivenheter, normalt räcker inte effekten för den hastigheten), vilket fram till 2006 var svenskt rekord.Den 4 september 1990 hade X2 trafikpremiär mellan Stockholm och Göteborg.
+
+
+== Historia ==
+I Sverige modifierades under slutet av 1960-talet ett elektriskt motorvagnståg för lokaltrafik (typ X1) och fick lutningsbar vagnkorg som vilade på en ny generation Asea-boggier med tryckluftsstyrd korglutning. Något senare modifierades ett äldre 3-vagnars motorvagnståg (typ X5) för höghastighetsprov. Det fick beteckningen X15 och utrustades med hydrauliskt styrd korglutning (snabbare reaktion på styrsignal). Erfarenheter från X15 användes då X2 utvecklades. Mot slutet av provperioden med X15 kopplades en X2 prototypvagn (kallad X15-4) in i tågsättet. Under augusti 1986 beställdes de första X2-tågsätten av SJ från de svenska tillverkarna Kalmar Verkstad (KVAB/Statsföretag) och Asea.
+För tillverkningen utvecklades en för Sverige ny produktionsteknik för både svetsteknik och struktur i korgarna. Resultatet blev en vagnskorg som är styv men som också och har stor förmåga att absorbera kollisionsenergi samt kräver mindre underhåll då den drabbas av korrosion i mindre utsträckning.X2 kom att stå som mall för kommande tåg, som C20 till SL, Bombardier Regina och X31 samt dåvarande X32 (numera ombyggd till X31), Flytoget till Norge, tåg till Bukarest Metro, med flera.
+Vid månadsskiftet mars-april 1998 upphörde tillverkningen av X2-tåg.
+
+
+== Egenskaper ==
+Tåget konstruerades och byggdes i Kalmar med en för Sverige ny, revolutionerande teknik där vagnskorgarna ("karosserna") var byggda i korrugerat, rostfritt stål. För detta utvecklades en för Sverige ny metod för både svetsteknik och struktur i korgarna. Resultatet blev en helt underhållsfri vagnskorg. Vidare frångicks buffertar, och all kraft distribuerades genom centralkoppel.
+Tack vare sina "mjuka" (radialstyrda) boggier och korglutning kan X2 köra upp till 9 % fortare än vanliga tåg i kurvor (enligt Transportstyrelsen 2017, under perioden 1987–2017 klarade det hela 15 % högre hastighet i kurvorna, enligt SJ/Banverket). Korglutningen, som endast är till för passagerarnas komfort, innebär att vagnskorgarna kan luta med – eller luta inåt i en kurva. "Mjuka boggier" innebär att hjulaxlarna kan röra sig något i tågets längdriktning vid gång genom kurvor, och därmed minska hjul- och spårslitage.
+Varje 5-vagnars tåg kostade cirka 130 miljoner svenska kronor (prisnivå 2006), det vill säga cirka 26 miljoner kr per vagn (motsv Rc-tåg cirka 9 mkr per vagn). Tåget konstruerades och byggdes till största delen i Kalmar men den elektriska drivutrustningen tillverkades och monterades i Västerås. Tåget byggdes med en för Sverige ny teknik, där vagnskorgarna var byggda i korrugerad, rostfri plåt som till stora delar punktsvetsades samman. Vagnskorgar delvis byggda i rostfritt stål var i sig inte nytt (Budd Company i USA började tillverka vagnar i rostfritt stål på 1930-talet, senare licensierat till Frankrike och Portugal). Det har också funnits rostfria vagnar i vissa andra länder, men då med en annan och äldre struktur, som inte var lika stark som X2.[källa behövs]X2 är främst avsedd för att trafikera gamla järnvägar i fjärrtågstrafik utan stora investeringar i infrastrukturen som t.ex. rätning av kurvor. Ursprungligen bestod X2-tågen av sex eller sju delar som inte var avsedda att växlas separat, utan var skruvade tillsammans: en manövervagn, tre eller fyra mellanvagnar, en restaurangvagn, och en drivenhet, senare levererades även fyra- och femvagnars tåg utan restaurangvagn (X2-2 och X2-1) som kallades för X200. Idag är X2-tågen, under sitt varumärke X 2000 (dec 2011 - jan 2015: SJ 2000), det vanligaste tåget på de stora linjerna i Sverige.
+X2-tåg är avsedda för att köras mellan större städer med få uppehåll.
+
+
+== X2 på export ==
+I X2:s barndom visades andra länder intresse för det svenska snabbtåget. ABB lånade ut tågsätt till andra järnvägsbolag för utvärdering, bland annat till Amtrak i USA. Tåget provades även i Tyskland, Norge, Kina och Australien.
+Trots sitt unika koncept var försäljningsframgångarna mycket små, och förutom till Statens Järnvägar (SJ innan 2001) (som i sin tur upplät ett antal tåg för trafik mellan Norge och Sverige via bolaget Linx under 2000-talets början), har endast ett tåg sålts, till Kina. Det anses att Kina köpte detta enda tåg för att lära sig tekniken bakom snabbtåg.
+Under våren 2012 köpte SJ åter detta enda X2-tåg som hade exporterats, X2 2088. Bakgrunden till att denna affär genomfördes var dels X2-olyckan (X2 2043) i Kimstad hösten 2010 och dels olyckan i Malmö, där en X2 (2014) körde in i en stoppbock. Olyckorna medförde att vagnsbrist uppstod och en lösning för att införskaffa fler mellanvagnar var att köpa X2 2088 från Kina.
+X2 2088 var egentligen det 44:e tågsättet i serien som byggdes, men då siffran 4 är ett otursnummer i Kina, döptes fordonet om till 2088.
+Lutningstekniken har använts av ASEA, och dess efterföljare Adtranz, i andra tåg, till exempel Norske tog typ 73.
+Under 1990-talet visade flera länders järnvägsförvaltningar intresse för det svenska snabbtåget X2, då det enligt marknadsföringen krävdes förhållandevis små investeringar i bananläggningen. ABB och SJ lånade ut tågsätt till flera järnvägsförvaltningar för utvärdering, bland andra till Amtrak (USA), DB (Tyskland), NSB (Norge) och Kina. X2 (utan drivenhet) provades även i Australien.
+Såväl Slovenien, Storbritannien, Norge, Italien, Finland och Schweiz och Tyskland har valt fjärrtåg med lutningsbara vagnkorgar alla olika varianter av Pendolino som tillverkades av Alstom i Italien efter brittisk licens (APT, Advanced passenger train). Norska NSB köpte sina lutande tåg, kallade Signatur och Agenda, av dåvarande Adtranz, sedermera Bombardier Transportation, vagnskorgarna till tågen byggdes av Kalmar Verkstad, det vill säga samma tillverkare som för X2. Slutmontage skedde i Adtranz anläggning i Strømmen utanför Oslo.
+Det norska tåget Typ 73 "Signatur" har drivning på sex av tågets totalt 16 axlar, medan X2 har drivning på endast fyra av tågets 28 axlar.
+Flera länder beställde sina snabbtåg modell Pendolino av Alstoms italienska bolag, Tyskland, Storbritannien, Finland, Spanien, Slovenien, Tjeckien, Schweiz, Ryssland och Italien. Finland motiverade det med att Pendolino var billigare och tekniskt mer utvecklat än X2. Dessvärre hade just i början de 18 Pendolino-tågen vissa problem med tillförlitligheten på lutningssystem och koppel, och tågen blev stående.[källa behövs] Dessa problem är emellertid avhjälpta sedan länge och ryska järnvägar beställde 2007 fyra stycken Pendolinotåg för linjen Helsingfors−Sankt Petersburg.
+
+
+== X2K ==
+För att kunna trafikera Danmark byggdes ett antal X2:or om med dubbla strömsystem och dubbla system för hyttsignalering. Dessa fick underlitteran K. Däremot behöver tåg som ska till Oslo inte anpassas tekniskt eftersom Norge och Sverige har samma system för detta.
+
+
+== Jämförelse mellan X2-varianter och experimenttåg ==
+
+
+== Tågkonfiguration ==
+
+
+=== Översikt X 2000-familjen ===
+Numera (2018) förekommer endast sexvagnars tågsätt i två olika konfigurationer i ordinarie trafik. 
+(tågen sorterade efter längd)
+
+
+=== Teknik ===
+På det svenska järnvägsnätet utgjorde X2 ett stort steg jämfört med tidigare fjärrtåg, som till stor del var från 1960-talet. Jämfört med tidigare generationer svenska fjärrtåg förbättrade X2 prestanda och komfort främst inom följande områden:
+
+Största tillåtna hastighet höjdes från 160 till 200 km/h (+25 %)
+Den maximala kurvhastigheten höjdes (normalt +15%), med dagens normer endast 9 %
+Luftkonditionering (AC) blev standard
+Den in- och utvändiga bullernivån dämpades
+Tågets yttre utformning konstruerades med hänsyn till god aerodynamik, lägre luftmotstånd.
+Byggdes med mer underhållsfria vagnskorgar i rostfritt stål som inte behövde lackeras
+
+
+=== Mjuka boggier ===
+Under 1970-talet experimenterade man i Västtyskland (tillverkaren Wegmann) med en ny generation vagnboggier med såväl mjuk boggiram (WTR) som radiellt inställbara hjulaxlar, vilket minskade slitaget. Under 1982 satte den norska statsjärnvägen (NSB) en ny generation Wegmann- vagnboggier i trafik med radiellt inställbara hjulaxlar. Även X2-tågen utrustades senare med denna teknik (trafikstart 1990).
+Även svenska Asea utvecklade en ny generation motor- och löpboggier. De gamla, bullriga blockbromsarna slopades helt hos X 2000-löpboggierna (dock ej motorboggierna), samtidigt som den högre hastigheten krävde en ny generation skiv- och magnetskenbromsar (den senare används dock bara vid nödfall).
+Vid samma hastighet uppstår mindre krafter mellan spår och hjulpar. Därför kunde X2 köra upp till 15 procent snabbare enligt SJ:s normer november 1987 (kategori B respektive S) men numera är skillnaden endast 9 % (spårvänliga boggier från Schweiz i snabbtåget X74, kategori C). 
+Drivmotorerna (2 stycken à 815 kW per boggi) är monterade inne i motorboggierna och transformatorn är placerad i drivenhetens underrede. Drivenheten ger maximalt 3 260 kW (4 350 hk) kontinuerlig effekt.
+
+
+=== Korglutning ===
+Den stora fördelen med X2-tågen jämfört med andra svenska fjärrtåg är att tågen kan passera kurvor med en högre hastighet. Enligt nya normer från SJ, daterade 1987, tilläts X2000 (kategori S) att köra teoretiskt 15 % snabbare i kurvorna än kategori B. Numera dock skillnaden reducerad till endast 9 % enligt beslut från Transportstyrelsen (mars 2017). Nackdelen är att hjulskivorna pressas hårdare mot den yttre rälen i en kurva, vilket orsakar större sidokrafter men även ökat slitage.
+Korglutningen är endast avsedd att öka komforten. Korglutning innebär att tåget bankar (lutar) inåt i en kurva. Om korglutningen inte fungerar kan passagerare märka att packning, mat på stolsbordet och annat förflyttar sig i sidled, detta trots att hastigheten ofta sänks när korglutningen är ur funktion i en eller flera vagnar. Vid allvarligare fel i korglutningen samt dess system och som heller inte kan hanteras av något reservsystem, stänger systemet av sig och påverkad vagn fortsätter olutad.
+Samtliga passagerarvagnar hos ett X2-tåg är försedda med korglutning men däremot inte loket. Vagnskorgen kan som mest luta 6,5 grader. Loket, som drar eller trycker på, har inget passagerarutrymme och heller inget system för korglutning. Loken, samt manövervagnen, ger istället mätvärden till systemen i passagerarvagnarna. 
+
+Under 20 km/h är korgens rörelse hydrauliskt låst. Ingen korglutning sker.
+Under 80 km/h ligger systemet som styr korglutningen i "vänteläge". Även här sker ingen korglutning.
+Över 80 km/h aktiveras korglutningen och regleras aktivt.Med en lutning på ungefär 6,5 grader känner endast passagerarna 30 % av sidokrafterna om man jämför med ett olutat tåg vid samma hastighet.
+
+
+=== Hastighetsrekord ===
+X2 har en största tillåten hastighet på 200 km/h men är växlad för 210 km/h. Tågens normala tekniska toppfart är 210 km/h men den största tillåtna hastigheten i trafik är 200 km/h. Denna gräns har dock överskridits otaliga gånger vid olika provkörningar, samt med liten marginal i reguljär trafik eftersom ATC tillåter 4 km/h extra och 9 km/h extra som undantag. Vid demonstrationskörning i USA uppnåddes 251 km/h med drivenhet 2013 och fem vagnar. Rekordet för X2 sattes vid ett hastighetsprov den 21 juli 1993 vid provkörningar mellan Varberg och Falkenberg med X2 drivenhet 2016, tre mellanvagnar och X2 drivenhet 2017 (alltså dubbla drivenheter vilket annars aldrig används) uppnåddes hastigheten 276 km/h. Vid detta prov hade man dessutom installerat en anpassad version av ATC-2. X2 har alltid haft speciellt ATC-program vid provkörningar med överhastighet.
+Detta svenska rekord slogs 13 år senare, 2006, av Gröna tåget. Det snabbaste järnvägsfordonet i Sverige är dock operatören Hector Rails[när?] Taurus-lok från tillverkaren Siemens.
+
+
+==== Framtida höjning av hastighet ====
+När X2 tillverkades hade SJ planer på att höja tågets hastighet till över 200 km/h när infrastrukturen tillät det. En utredning gjordes av tillverkaren under 2005 om möjligheterna att modifiera vissa X2-tåg för sth 220 eller 250 km/h. Det var möjligt för 220 km/h [1], men då skulle nya drivmotorer med högre effekt behöva installeras. När ett tågsätt lånades ut till USA kördes det dock i reguljär trafik med hastigheten 217 km/h i cirka 5 månader under 1993 utan några andra ändringar än att vissa parametrar ändrades i styrdatorn.
+
+
+== Tågsätten och deras enheter ==
+Ursprungligen bestod X2-tågen av sex eller sju sammankopplade fordon: en manövervagn, tre eller fyra mellanvagnar, en restaurangvagn, och en drivenhet. Senare levererades även fyra- och femvagnarståg utan restaurangvagn (X2-2 och X2-1). Numera (2018) så förekommer i normal trafik endast tåg med sju sammankopplade fordon: Drivenhet, 1 klass-vagn (vagn 1), antingen 1 klass-vagn (vagn 2) eller 2 klass-vagn (vagn 3), 2 klass-vagn (vagn 4), 2 klass- och bistrovagn (vagn 5), 2 klass-vagn (vagn 6) och 2 klass-manövervagn (vagn 7).2023 är X2-tågen, under sitt varumärke X 2000, SJ:s vanligaste persontåg i fjärrtrafik.
+Oftast används litteran X2 syftande på ett helt tågsätt, men när fordonen i ett X2-sätt betraktas var för sig är det endast drivenheten som har litteran X2, medan vagnarna har andra littera. Även om drivenheten saknar platser för passagerare (istället innehåller det ett stort maskinrum med hög bullernivå så utrymme saknas) så är det inget lok. Uppbyggnaden är istället en motorvagn som saknar sittplatser, ungefär som Rc- loket. Dock konstruerades drivenheten med ett litet expressgodsutrymme. I tågsätten som är godkända för trafik i Danmark (littera X2K) är utrymmet för expressgods mindre då den danska ATC-utrustningen tar upp delar av platsen.[källa behövs]På Bombardier Transportations webbplats marknadsfördes konstruktionen under namnet X 2000, det vill säga samma namn som SJ:s snabbtågskoncept.
+
+
+== X 2-2/X 2-1 (X200) ==
+En avkortad tågtyp baserad på X2, med den inofficiella beteckningen X 2-2/X 2-1 byggdes av Kalmar Verkstad. Tågets populärnamn var X200. X2-2/2-1 användes som InterRegio-tåg, och sattes i trafik på Kust till kust-banan, Svealandsbanan och på linjen Västerås–Eskilstuna–Norrköping–Linköping–Mjölby–Hallsberg–Örebro i mitten på 1990-talet. Tågtypen var närmast identisk med X2 och tågets tekniska prestanda var samma som för X2. Skillnaden var ett avkortat tågsätt samt att det bestod av en drivenhet, två eller tre mellanvagnar och en manövervagn, alltså tre eller fyra vagnar för passagerare mot normalt sex eller sju för X2. På X2-2/2-1 fanns det heller ingen bistrovagn. Ett utvändigt kännetecken för X 2-2/X 2-1 var den röda dekorlinje som löpte utmed tågsidan strax under fönsterraden, motsvarande dekorlinje var blå på X2. Inredningen var något enklare, då heltäckningsmattorna från X2 ersatts med plastmatta, de vadderade väggpartierna med blått tyg med vit hårdplast, och färgen på stolsklädseln var i röd ton. Manövervagnen innehöll första klass medan mellanvagnarna innehöll andra klass. Mellan slutet av 1990-talet och början på 2000-talet ökade behovet av X2-tåg på huvudlinjerna och samtliga X 2-2/X 2-1 byggdes därför om till vanliga X2-sätt.
+
+
+== Problem ==
+Under vinterhalvåret 2007/2008 drabbades X2-drivenheterna av onormalt mycket problem.[källa behövs] Orsaken visade sig vara ett styrfel som plötsligt dök upp i drivsystemet och som bland annat ledde till att drivenheterna enbart kunde gå med halv effekt. Detta i sin tur orsakade haverier med stopp som följd, och punktligheten för X 2000-tågen försämrades drastiskt under den perioden. Under vintern hade SJ tätt samarbete med Euromaint, Bombardier, Banverket och expertis från Kungliga Tekniska högskolan och Chalmers tekniska högskola för att gå till botten med problemen. En mängd fordonsfel av olika karaktär har lett till att tåg har fått ställas in eller ibland evakueras ute på linjerna. Problemen med styrfel löstes dock av Elektronikkonsult och samtliga driv åtgärdades 2010.
+
+
+== Olyckor ==
+X 2000 tågen har varit relativt förskonade från allvarligare olyckor genom åren. Urspårningar och bränder har skett men X2-tågen har klarat sig bra tack vare sin stabila grundkonstruktion som gör att den i största möjliga mån håller sig kvar på spåret.
+Den 12 september 2010 inträffade en olycka där ett X2-tåg på väg mot Malmö kolliderade med en spårgående traktorgrävare vid Kimstad station på Södra stambanan i Östergötland. Vid tidpunkten för kollisionen skedde ett banarbete på sträckan. Traktorgrävaren befann sig av hittills okänd anledning inom det trafikerade spårets närområde och vid kollisionen for traktorgrävarens bakre kran in i det passerande X2-tåget. En person omkom och 18 skadades, varav tre allvarligt. Drabbad X2-drivenhet var X2K 2043 som är den senast, för Sveriges del, levererade X2-enheten. Enheten och övriga tågsättet fick omfattande skador men både drivenheten 2043, mellanvagnarna samt manövervagnen reparerades - även om det tog några år.
+Ytterligare en olycka inträffade den 1 januari 2011 på Malmö centralstation, då ett tågsätt skulle köras fram till stationen för att senare avgå mot Stockholm. Under rangering fick tåget av oklar anledning för hög hastighet, så att tåget körde in i stoppbocken i änden på stationsspåret. Tåget fick stora skador; drivenheten totalförstördes och efterföljande vagn trycktes upp ovanpå drivenheten och förstördes även den. Tåget var dock tomt när olyckan inträffade och växlaren ombord (lokföraren stod på perrongen) skadades endast lindrigt. Skadad drivenhet var nr 2014. Den slopades under 2012 och plockades på användbara reservdelar för att sedan skrotas tillsammans med förstaklassvagnen UA2 2819 som befann sig närmast drivenheten vid olyckan.Ännu en incident med ett X2 inträffade på Sundsvall C den 29 december 2010 då drivenheten X2 2017 eldhärjades. Förarhytten blev helt utbränd invändigt. Anledningen visade sig vara en kokplatta som fattade eld. Drivenhet 2017 sattes åter i trafik efter olyckan.
+Brand utbröt i drivenheten X2 2026 på tåg 431 från Stockholm mot Göteborg den 19 februari 2016 utanför Skövde. Efter utredning av skadornas omfattning beslöt man under år 2018 att skrota drivenhet 2026.
+
+
+== Tekniska vagndata ==
+Totalt har 229 stycken X2-vagnar beställts under leveransperioden. Vagnskorgen är i samtliga fall utförd i rostfri korrugerad plåt, en teknik som har varit vanlig länge i bland annat Frankrike, Portugal och USA. Vagnarna har en tämligen konventionell vikt (47 ton per vagn) medan manövervagnen väger 55 ton.
+Samtliga passagerarutrymmen har klimatanläggning, det vill säga luften kan såväl värmas som kylas.
+Sittkomforten i andra klass följer den nya västeuropeiska trenden med trång vagnsinredning (stolavstånd endast 92 cm) och så kallad medsittning (stolarna placerade "på rad" istället för mot varandra) i salonger. Under senare år[när?] har även vagnarna i andra klass fått heltäckningsmatta, ett materialval som dämpar bullervolymen.
+Rullstolsburna resenärer kan med hjälp av tågets rullstolslift komma ombord då nivåskillnaden mellan plattform och vagngolv är cirka en halvmeter hög.
+Vagnkorgarna tillverkades av Kalmar Verkstad (nedlagd 2005) , medan boggierna tillverkades av Adtranz boggiverkstad i Helsingborg (nedlagd 1997).
+
+
+== Renovering/upprustning ==
+År 2014 tecknade SJ och ABB ett avtal om teknisk uppgradering av samtliga X2-tåg. 
+Vid uppgraderingen kommer gammal drivteknik, styrsystem och strömriktare bytas ut mot nya, mer energieffektiva komponenter som också ger bättre driftsäkerhet. Med denna upprustning av hela X2-flottan beräknas tågens livslängd förlängas 20-25 år.
+År 2016 tecknade SJ och Swedtrac ett avtal om en upprustning av interiören som omfattar bland annat helt ny inredning, stolar och bistro. 15% fler sittplatser kommer finnas ombord efter upprustningen. 
+ Swedtrac köptes 2018 av Stadler Rail.
+Maj 2023 rullar sju stycken totalrenoverade tågsätt (littera X2C) samt ett uppgraderat tågsätt (littera X2U) i daglig trafik.
+
+
+== X2C ==
+X2C är typbeteckningen för de nyrenoverade X2. SJ kallar dessa nyrenoverade tågsätt för "nya X 2000".
+Det var 2013 som SJ bestämde sig för att modernisera X 2000 och planen var att de första tågsätten skulle vara klara 2016, men provkörningarna började inte förrän 2017. Samma år sa SJ att de första tågsätten skulle sättas in i trafik 2018, men premiärtåget avgick 16 november 2021 på sträckan Stockholm – Göteborg. Första tåget med betalande resenärer gick Göteborg – Stockholm dagen därpå.
+
+
+=== Egenskaper ===
+X2C och X2U har även fått vattenkylning till skillnad från X2, detta gör att drivenheten är mycket tystare.
+
+
+=== Sträckor ===
+Dessa nya tågsätt kör endast på två sträckor (maj 2023):
+
+Stockholm – Göteborg
+Stockholm – Malmö
+
+
+=== Anpassningar ===
+De nya X2C tågsätten ska vara bättre anpassade för personer som sitter i rullstol, blinda och synnedsatta. I varenda tågsätt finns det en vagn som är rullstolsanpassad som har två rullstolsplatser och rullstolsanpassad toalett. Sätena är numrerade med brailleskrift som ska göra det lättar för synnedsatta och blinda att hitta till rätt säte. Tåget har nya digitala skyltar för reseinformationen som ska vara lättare att läsa av. I vagnarna finns det också ett piktogram som ska göra det lättare att orientera sig.
+
+
+== Tabell över vagndata ==
+
+
+== Referenser ==
+
+
+== Externa länkar ==
+X2 på Jarnvag.net

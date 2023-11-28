@@ -1,0 +1,90 @@
+Web-Archivierung bezeichnet das Sammeln und dauerhafte Ablegen von Netzpublikationen mit dem Zweck, in der Zukunft Öffentlichkeit und Wissenschaft einen Blick in die Vergangenheit bieten zu können. Ergebnis des Vorgangs ist ein Web-Archiv.
+Die größte internationale Einrichtung zur Web-Archivierung ist das Internet Archive in San Francisco (USA), das sich als Archiv des gesamten World Wide Web versteht. Staatliche Archive und Bibliotheken in vielen Ländern unternehmen Anstrengungen zur Sicherung der Netzüberlieferung in ihrem Bereich.
+Die deutschen Archivgesetze definierten ab 1987 die Archivierung digitaler Unterlagen als Pflichtaufgabe der staatlichen Archive, die Umsetzung dieses Auftrags läuft aber erst an. Im Jahr 2006 wurde das DNBG (Gesetz zur deutschen Nationalbibliothek) verabschiedet, das den Auftrag der Deutschen Nationalbibliothek auf die Archivierung von Websites ausdehnt. Auch die Bundesländer planen, ihre Pflichtexemplar-Gesetze in diesem Sinne zu ändern, oder haben die Änderung bereits vollzogen.
+
+
+== Archivierungsziele ==
+Web-Archivierung verfolgt das Ziel, einen definierten Ausschnitt der im Internet vorhandenen Web-Präsenzen in systematischer Form abzubilden. Hierfür sind eine übergreifende Sammlungspolitik, ein Auswahlverfahren und die Häufigkeit der Archivierung vorab zu klären.
+Eine archivierte Website sollte mit allen multimedialen Funktionen (HTML-Code, Stylesheets, JavaScript, Bilder und Video) auf Dauer erhalten werden. Der späteren Beschreibung, Nutzung und Erhaltung dienen Metadaten wie Provenienz, Übernahmezeitpunkt, MIME-Type und Umfang der Daten. Die Metadaten sichern Authentizität und Integrität der digitalen Archivalien.
+Nach der Übernahme sind technische und juristische Vorkehrungen zu treffen, um eine ständige öffentliche Zugänglichkeit zu garantieren und eine nachträgliche Veränderung der Archivalien zu verhindern.
+
+
+== Begrifflichkeiten ==
+Original Resource
+Eine originale Quelle, die aktuell im Internet vorhanden ist oder vorhanden sein sollte und für die ein Zugriff auf einen früheren Zustand benötigt wird.
+Memento
+Ein Memento einer originalen Quelle ist eine Ressource, die den originalen Zustand einer Quelle zu einem definierten Zeitpunkt kapselt.
+TimeGate
+Ein TimeGate ist eine Ressource, die auf Basis eines vorgegebenen Datums und einer Zeitangabe jenes Memento findet, welches dieser zeitlichen Vorgabe am besten entspricht.
+TimeMap
+Eine TimeMap ist eine Ressource, welche eine Liste aller Mementos ausgibt, die für die originale Quelle je angelegt wurden.
+
+
+== Auswahlverfahren ==
+Unspezifisch
+Bei diesem Auswahlverfahren wird eine ganze Domain nach und nach in ein Archiv geschrieben. Das Verfahren funktioniert wegen des großen Speicherbedarfs nur bei kleineren Domains (netarkivet.dk).
+Auswahlliste
+Eine Liste von Institutionen wird vorab festgelegt. Die Stabilität der mit den Institutionen verbundenen URLs ist regelmäßig zu prüfen.
+Nutzung von Zugriffsstatistiken
+In Zukunft ist ein „intelligentes“ Harvesting (deutsch „Ernten“) denkbar, das aufgrund von Zugriffszählungen diejenigen Teile des Web (oder einer Auswahl) archiviert, die besonders hohe Zugriffsraten aufweisen.
+
+
+== Übernahmemethoden ==
+
+
+=== Remote harvesting ===
+Die üblichste Archivierungsmethode ist die Nutzung eines Webcrawlers. Ein Web-Crawler ruft die Inhalte einer Website wie ein menschlicher Nutzer ab und schreibt die Ergebnisse in ein Archivobjekt. Genauer betrachtet bedeutet das ein rekursives Durchsuchen von Webseiten anhand der darauf gefundenen Links, ausgehend von einem gewissen Startbereich, der entweder eine Webseite oder auch eine Liste an Webseiten, die durchsucht werden sollen, sein kann. Aufgrund mengenmäßiger Limitationen, etwa wegen Dauer oder Speicherplatz, sind diverse Einschränkungen (Abbruchbedingungen) hinsichtlich Tiefe, Domain und der zu archivierenden Dateiarten möglich.
+Bei größeren Projekten kommt hierbei der Bewertung von Webseiten zur URL-Reihung eine besondere Bedeutung zu. Im Verlauf eines Crawl-Vorganges können sich unter Umständen sehr viele Webadressen ansammeln, die dann entweder in einer Liste nach dem FIFO-Verfahren oder als Prioritätswarteschlange abgearbeitet werden. Für letzteren Fall kann man sich die Webseiten dabei in einer Heap-Struktur vorstellen. Jede Webseite an sich bildet einen eigenen Heap und jeder darin gefundene Link zu einer weiteren Webseite bildet wiederum einen Unterheap, der ein Element im Heap der vorhergehenden Webseite darstellt. Das hat auch den Vorteil, dass im Fall einer überlaufenden URL-Liste zuerst diejenigen mit der niedrigsten Priorität durch neue Einträge ersetzt werden.
+Die Ausgangsstruktur auf dem Server lässt sich allerdings im Archiv nur selten exakt nachbauen. Um bereits im Vorfeld einer Spiegelung eventuell auftretende technische Probleme ausschließen zu können, bietet es sich an, vorab eine Analyse der Webseite durchzuführen. Dies verdoppelt zwar in den meisten Fällen den Datenverkehr, verkürzt aber die aufzuwendende Arbeitszeit im Fehlerfall erheblich.Beispiele für Webcrawler sind:
+
+Heritrix
+HTTrack
+Offline Explorer
+
+
+=== Archivierung des Hidden Web ===
+Das Hidden Web oder Deep Web bezieht sich auf Datenbanken, die oft die eigentlichen Inhalte einer Website repräsentieren und nur auf Anfrage eines Nutzers ausgegeben werden. Auch dadurch ändert sich das Web ständig und es erscheint, als würde dieses eine unendliche Größe besitzen. Zur Übernahme dieser Datenbanken ist eine Schnittstelle erforderlich, die meist auf XML beruht. Für einen solchen Zugang sind die Tools DeepArc (Bibliothèque nationale de France) und Xinq (National Library of Australia) entwickelt worden.
+
+
+=== Transactional archiving ===
+Dieses Verfahren dient der Archivierung der Ergebnisse eines Nutzungsprozesses von Websites. Es ist für Einrichtungen von Bedeutung, die aus rechtlichen Gründen einen Nachweis über ihre Nutzung zu führen haben. Voraussetzung ist die Installation eines Zusatzprogramms auf dem Webserver.
+
+
+== Webarchivierung in Deutschland ==
+Auf Bundesebene hat die Deutsche Nationalbibliothek (DNB) seit 2006 den gesetzlichen Auftrag zur Webarchivierung. Seit 2012 werden Webseiten thematisch und bei bestimmten Ereignissen archiviert, also selektiv und nicht vollumfänglich. Die DNB arbeitet dabei mit einem externen Dienstleister zusammen. Außerdem wurden 2014 bisher einmalig alle DE-Domains gecrawled. Der Zugriff auf das Webarchiv erfolgt hauptsächlich in den Lesesälen.Neben der Webarchivierung der DNB gibt es in verschiedenen Bundesländern Initiativen:
+
+Baden-Württemberg: Das Baden-Württembergische Online-Archiv (BOA) sammelte bis 2019 digitale Publikationen und ausgewählte Webseiten. Seit 2020 benutzt das Landesarchiv Baden-Württemberg das DIMAG-Modul DIWI, für die bibliothekarischen Aufgaben hat das Bibliotheksservice-Zentrum den Dienst Archive-It des Internet Archive beauftragt.
+Bayern: Die Bayerische Staatsbibliothek sammelt seit 2010 ausgewählte Webseiten.
+Rheinland-Pfalz: Die Rheinische Landesbibliothek sammelt seit 2003 im Projekt edoweb ausgewählte Webseiten.Außerdem gibt es in Deutschland weitere Webarchivierungsinitiativen beispielsweise von parteinahen Stiftungen, vom SWR, von der Deutschen Post oder vom Biotechnologie-/Pharmaunternehmen Abbvie.
+
+
+== Siehe auch ==
+Compliant Transaction Recording
+Content-Lifecycle
+Elektronische Archivierung
+Langzeitarchivierung
+Open Archives Initiative
+Web ARChive
+
+
+== Umsetzungen ==
+Die „Wayback Machine“ des Internet Archives
+Archive.is
+DIMAG
+WebCite
+Google-Cache (Die letzte Version einer Web-Adresse in der für Google-Server optimierten Variante wird für einige Wochen bereit gestellt)
+
+
+== Weblinks ==
+Time Travel (Metasuche in ca. 25 Internet-Archiven)
+Gyo/Megalodon (Japanische Metasuche in Internet-Archiven)
+International Internet Preservation Consortium (IIPC) – Internationales Konsortium mit der Aufgabe, Informationen und Wissen aus dem Internet für künftige Generationen zu übernehmen, zu erhalten und zugänglich zu machen
+International Web Archiving Workshop (IWAW) – Jährlich stattfindender Workshop zur Web-Archivierung
+Digital Collections and Programs. Library of Congress.
+Web Archiving. Library of Congress.
+Web archiving bibliography. tuwien.ac.at; Literaturliste zur Web-Archivierung.
+Web archiving discussion list. cru.fr; Diskutiert technische, organisatorische und rechtliche Fragen der Web-Archivierung.
+Literatur von Michael L. Nelson – wissenschaftliche Artikel auf dblp.uni-trier.de
+
+
+== Einzelnachweise ==

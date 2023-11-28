@@ -1,0 +1,8 @@
+MusicBrainz is 'n projek wat daarop gemik is om 'n oop musiek databasis te skep wat soortgelyk is aan die freedb-projek. MusicBrainz is gestig in reaksie op die beperkings op die Compact Disc Database (CDDB), 'n databasis vir sagteware programme om inligting oor klank-CD's (CD's) op die internet te soek. MusicBrainz het sy doelwitte uitgebrei om buite 'n kompakte-skyf metadata stoorkamer te wees (dit is inligting oor die kunstenaars, kunstenaars, liedjieskrywers, ens.),  om 'n gestruktureerde oop aanlyn databasis vir musiek te word.MusicBrainz vang inligting oor kunstenaars, hul opgeneemde werke en die verhoudings tussen hulle. Opname inskrywings op 'n minimum van die album titel, enkelsnit titels, en die lengte van elke snit. Hierdie inskrywings word gehandhaaf deur vrywillige redakteurs wat gemeenskapskryfstylriglyne volg. Werke kan ook inligting stoor oor die vrylating en land, die CD-ID, dekkingskuns, akoestiese vingerafdruk, vrye vorm annotasie teks en ander metadata. In 2018 bevat MusicBrainz inligting oor ongeveer 1,4 miljoen kunstenaars, 2 miljoen uitgawes en 19 miljoen opnames.
+
+
+== Verwysings ==
+
+
+== Eksterne skakels ==
+MusicBrainz – Amptelike webwerf

@@ -1,0 +1,63 @@
+E beziehungsweise e (gesprochen: [ʔeː]) ist der fünfte Buchstabe des klassischen und modernen lateinischen Alphabets. Wohl in allen mitteleuropäischen Sprachen steht er für einen Vokallaut – zur Aussprache im Deutschen siehe unten. Der Buchstabe E hat in deutschen Texten eine durchschnittliche Häufigkeit von 17,39 %. Damit ist er der häufigste Buchstabe in deutschen Texten sowie in diversen europäischen Sprachen.
+
+Das Fingeralphabet für Gehörlose bzw. Schwerhörige stellt den Buchstaben E dar, indem der abgewinkelte Daumen vor der Handfläche liegt und die restlichen Finger den Daumen mit den Fingerspitzen berühren.
+
+
+== Herkunft ==
+In der protosinaitischen Schrift stellte das E einen – möglicherweise stehenden – Menschen dar. Im phönizischen Alphabet wurde dieses Symbol stark abstrahiert und erhielt den Namen He. Bei den Phöniziern hatte der Buchstabe den Lautwert ​[⁠h⁠]​.
+Die Griechen übernahmen das He als Epsilon. Bei der Übernahme änderten sie allerdings den Lautwert, da die vokalreiche griechische Sprache, nur mit Zeichen für Konsonanten geschrieben, zu viele Mehrdeutigkeiten ergeben hätte. Die Griechen benutzten den Buchstaben, um ​[⁠e⁠]​ zu schreiben. Anfangs noch nach links orientiert, wurde der Buchstabe mit dem Wechsel der Schreibrichtung auf links nach rechts gespiegelt.
+Die Etrusker übernahmen das frühgriechische Epsilon, ohne es zu modifizieren, und verwendeten es ebenfalls, um ​[⁠e⁠]​ zu schreiben. Der Buchstabe wurde von den Römern übernommen, allerdings später an das griechische Aussehen angepasst.
+
+
+== Aussprache im Deutschen ==
+Ungerundeter halbgeschlossener Vorderzungenvokal [eː]: „Eber“, „Leben“ (ausgesprochen als langes „e“)
+Ungerundeter halboffener Vorderzungenvokal ​[⁠ɛ⁠]​: „Ernst“, „Bett“ (ausgesprochen als kurzes „ä“)
+Schwa ​[⁠ə⁠]​: „bitte“, „begreifen“ (unbetontes, kurzes „e“)Daneben in der Lautabfolge er, besonders im Auslaut:
+
+Fast offener Zentralvokal ​[⁠ɐ⁠]​: „Wasser“, „Becher“
+
+
+=== Dehnungs-E ===
+
+Wie bei a und o kann die Verdoppelung des „e“ eine lange Aussprache bezeichnen ([eː]): „See“, „Reede“. In bestimmten Fällen kann sie aber auch getrennte Aussprache fordern: „die Seen“ [zeːən], „Orchidee“ [-deːə] (oder [-deː], der Plural aber stets „Orchideen“ [-deːən].)
+Ein „e“ hinter einem „i“ wird im Deutschen meist zur Kennzeichnung des langen Vokals [iː] verwendet: „Knie“, „Vieh“. In einigen Fällen wird es getrennt (zweisilbig) gesprochen, zum Beispiel in den Pluralformen „die Knie“ [kniːə] (auch [kniː]), „Industrien“ [-iːən]. Hier ist beim Aufeinandertreffen von Dehnungs-e und Plural-e in der Schreibung eines davon getilgt worden. In „schrien“, „spien“ und so weiter wird das „e“ je nach Sprachregion nicht oder nur schwach artikuliert. Im Innern von Fremdwörtern wird „i“ und „e“ in der Regel getrennt gesprochen, vor allem an Silben- und Morphemgrenzen wie bei „Orient“, „Pietät“, „industriell“ und so weiter. Unterschiedlich ist die Aussprache im Auslaut von Fremdwörtern: „Aktie“ [-iə], aber „Partie“ [-iː].
+In Norddeutschland und Westfalen kommt das Dehnungs-e in Eigennamen auch nach anderen Vokalen vor: „Itzehoe“ [-oː], „Soest“ [zoːst], „De Beukelaer“ [-aɐ], „Kotzebue“ [-uː].
+
+
+== Diphthonge mit „e“ ==
+
+Im Mittelhochdeutschen repräsentierte „ie“ einen fallender Diphthong, der, besonders im südlichen Teil des deutschen Sprachraums, heute noch im Dialekt vorhanden ist: „lieb“ [liəb], „riechen“ [riəçən].
+
+
+=== „ei“ ===
+Die Abfolge von „e“ und „i“ (in Eigennamen auch „y“) gilt in der Regel als fallender Diphthong: „weit“, „Reifen“, „Frau Meyer“ [-aɪ-]. Verläuft allerdings eine Silben- bzw. Morphemgrenze dazwischen, werden die Vokale getrennt gesprochen: „beinhalten“, „Reinkarnation“, „kreieren“ [-eˈi-].
+
+
+=== „eu“ ===
+Ein „e“ vor einem „u“ bezeichnet in der Regel den Diphthong ([ɔʏ]): „neun“, „Rheuma“. Auch hier gibt es die Getrenntsprechung an der Silbengrenze: „ausge-ufert“, „Muse-um“.
+
+
+== Das „e“ in Umlauten: ae, oe, ue ==
+
+Ursprünglich war der Umlaut in zwei Buchstaben geschrieben worden: Ae/ae, Oe/oe (später auch als Ligatur: Æ/æ, Œ/œ) und Ue/ue. In späteren alten Schreib- wie Druckschriften (Fraktur) wurde das kleine e auch über den Vokal gesetzt (Aͤ/aͤ, Oͤ/oͤ und Uͤ/uͤ). Die Umlautpunkte über den Vokalen, wie sie heute verwendet werden (Ä/ä, Ö/ö und Ü/ü), gehen auf dieses kleine e zurück, das in der Kurrentschrift als zwei senkrechte Striche geschrieben wird.
+Heute wird ein e hinter einem a, o oder u für die Umlautbuchstaben ä, ö und ü verwendet, wenn zum Beispiel auf der Tastatur oder im Zeichensatz keine Buchstaben für Umlaute vorhanden sind, sowie in Kreuzworträtseln und anderen Buchstabenspielen.
+Auch in Eigennamen haben diese Buchstabenverbindungen meist den Lautwert ​[⁠ɛ⁠]​, ​[⁠ø⁠]​ bzw. ​[⁠y⁠]​.
+
+Die Ligaturen haben in Unicode durchwegs eigene Zeichen, oft je nach Sprache an diversen Codepoints.
+Das alte deutsche hochgestellte «  ͤ» kann mit U+0364 COMBINING LATIN SMALL LETTER E (Kombinierender lateinischer Kleinbuchstabe e, im Unicodeblock Kombinierende diakritische Zeichen –  &#x0364;  u. a., dem jeweiligen Buchstaben nachgestellt) gesetzt werden.
+
+
+== Zitat ==
+
+
+== Siehe auch ==
+ Die verschiedenen Bedeutungen dieses Zeichens finden sich unter E (Begriffsklärung).
+
+
+== Weblinks ==
+
+http://www.wam.umd.edu/~rfradkin/alphapage.html
+Funkalphabet
+
+
+== Einzelnachweise ==

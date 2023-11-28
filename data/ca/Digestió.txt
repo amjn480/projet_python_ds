@@ -1,0 +1,216 @@
+La digestió o païment és el procés biològic de transformació i degradació química dels aliments en nutrients, és a dir substàncies amb molècules més simples i petites que poden ser absorbides i incorporades al metabolisme. La digestió és un procés que ocorre tant en els organismes pluricel·lulars com en els unicel·lulars, com en l'àmbit subcel·lular. L'aparell digestiu té un paper clau en la digestió de molts organismes pluricel·lulars.
+La digestió és un procés propi dels heteròtrofs, ja que, per definició, aquests organismes depenen exclusivament de fonts de carboni orgànic per a desenvolupar la proliferació, manteniment i funcionament. L'aliment s'empra per a generar i reparar teixits i obtenir energia. Per contra, els organismes autòtrofs, entre els quals els fotosintètics i els quimioautòtrofs, capten respectivament energia lumínica o química que usen per a fixar carboni inorgànic en compostos orgànics.
+En cada pas de la conversió energètica d'un nivell a un altre hi ha una pèrdua de matèria i energia utilitzable associada al manteniment de teixits i també a la degradació de l'aliment en partícules més petites, que després es reconstituiran en molècules tissulars més complexes. També és el procés que els aliments, en passar per l'aparell digestiu, són transformats en nutrients i minerals que necessita el cos.
+La digestió gàstrica, que comprèn les dues accions següents: 
+
+Una acció química, produïda pels sucs gàstrics secretats per les parets internes de l'estómac. Els sucs gàstrics contenen, entre altres substàncies, àcid clorhídric, que actua químicament sobre els aliments.
+Una acció mecànica, que consisteix en moviments peristàltics de les parets de l'estómac, que mouen els aliments i els mesclen amb els sucs gàstrics.
+
+
+== Procés digestiu ==
+La digestió en els animals i algunes plantes, passa a nivells multicel·lular, cel·lular i subcel·lular. Aquest procés s'esdevé en el tub digestiu, tracte gastrointestinal o canal alimentari, que forma part del sistema digestiu. El sistema digestiu presenta formes molt diverses. Existeix una distinció fonamental entre la digestió interna i externa. La digestió externa va ser la primera a evolucionar, i en depenen la majoria dels fongs.El sistema digestiu, com un tot, és un tub amb un sol sentit, amb òrgans accessoris com el fetge, la vesícula biliar i el pàncrees, que assisteixen en el procés químic involucrat en la digestió. El procés d'ingestió, normalment involucra alguna mena de processament mecànic o químic; normalment està constituïda per processos mecànics, que s'encarreguen de reduir la grandària dels fragments d'aliment, i en una acció química que és la responsable de reduir encara més la mida de les partícules i preparar-les per a l'absorció. La digestió és un procés que consta de diverses etapes que s'esdevenen en l'anomenat sistema digestiu, després de la ingestió de la matèria primera, que gairebé sempre són altres organismes.
+La digestió està dividida en quatre processos separats:
+
+Ingestió. Serveix per a col·locar el menjar a la boca i preparar-los per a entrar al cos.
+Digestió mecànica i química. Per mitjà de la masticació s'esquincen i aixafen els aliments i posteriorment es produeix una acció mecànica i química a l'estómac; l'addició de substàncies químiques (àcids, bilis, enzims i aigua) per a degradar les molècules més complexes en estructures més simples.
+Absorció. És el moviment de distribució dels nutrients del sistema digestiu fins als capil·lars del sistema circulatori i limfàtic per un procés d'osmosi, de transport actiu i difusió.
+Excreció. És l'acte de remoció de materials no ingerits del tracte digestiu a través de la defecació.Un procés subjacent és el moviment muscular a través del sistema: l'acció d'empassar i els moviments peristàltics.
+Els enzims que contenen els sucs digestius converteixen els aliments, excepte la fibra vegetal, en una dissolució de molècules simples, que s'absorbeixen en la mucosa de l'intestí prim.
+La paret de l'intestí és plegada i té vellositats, formades per cèl·lules amb microvellositats. Aquestes adaptacions fan que n'augmenti molt la superfície d'absorció.
+
+
+=== Digestió i absorció de proteïnes ===
+Els aminoàcids són els precursors biosintètics de les proteïnes, les quals fan moltes funcions importants en els organismes.
+La majoria dels aminoàcids ingerits en la dieta, ocorren en forma de proteïnes (en aliments com llet, carn, ous...). Però els aminoàcids només es poden incorporar a les rutes metabòliques de forma lliure, i per aquest motiu les proteïnes i pèptids han de ser hidrolitzades. Per això són degradades per enzims proteolítics a l'aparell digestiu, fins a arribar a aminoàcids que són absorbits a l'intestí i passaran a la sang per a incorporar-se al conjunt dels aminoàcids del cos.
+
+
+==== Digestió de les proteïnes a l'estómac ====
+La digestió comença en l'estómac. Quan hi arriben les proteïnes s'estimula la segregació de gastrina, que al seu torn estimula la formació d'HCl. Gràcies a aquest pH àcid, les proteïnes globulars es desnaturalitzen, cosa que facilita la hidròlisi.
+
+El procés comença per l'acció de la pepsina, un enzim digestiu secretat a l'estómac per les cèl·lules de la mucosa gàstrica. Aquest enzim es forma a partir del seu precursor, el pepsinogen. Quan l'HCl actua sobre el pepsinogen, aquest perd aminoàcids i es transforma en la pepsina que actua com a proteasa. La pepsina hidrolitza lligams químics en què intervenen aminoàcids aromàtics, comença a trencar les proteïnes i dona com a producte pèptids de mida variable i alguns aminoàcids lliures.
+
+
+==== Digestió de les proteïnes a l'intestí ====
+A mesura que els continguts àcids de l'estómac arriben al budell prim es dispara la síntesi de l'hormona secretina a la sang. Aquesta estimula el pàncrees perquè segregui hidrogencarbonat a l'intestí prim per a neutralitzar-ne el pH (pH=7).
+La digestió continua a l'interior del budell per l'acció de proteases pancreàtiques: tripsina, quimotripsina, elastasa i carboxipeptidasa (que tenen una activitat òptima en un pH acostat a 7). Tots aquests enzims s'originen a partir de la proteòlisi parcial dels seus precursors. La tripsina s'origina a partir del tripsinogen activat per l'enteroquinasa (que trenca un hexapèptid de l'amino-terminal). La tripsina que es forma activarà la resta de proteases pancreàtiques i alhora el mateix tripsinogen. L'acció d'aquests enzims proteolítics provoca la formació d'oligopèptids (2-6 aminoàcids) i aminoàcids lliures.
+Al final de la digestió s'obtenen pèptids de dos o tres aminoàcids i aminoàcids lliures. Aquests seran absorbits pels enteròcits (cèl·lules epitelials de l'intestí prim) on també es completarà la hidròlisi dels pèptids. En els enteròcits hi ha peptidases com l'enteroquinasa, endopeptidasa, aminopeptidasa i d'altres que permeten aquesta hidròlisi.
+
+
+==== Absorció d'aminoàcids ====
+El procés d'absorció dels aminoàcids lliures s'esdevé per un mecanisme de transport actiu (implica una despesa d'energia), que existeix a les microvellositats de l'intestí prim. Aquests transportadors permeten l'entrada de quatre grups d'aminoàcids: els neutres, que poden ser aromàtics o alifàtics, bàsics, àcids, i un per altres aminoàcids.
+Per altra banda l'organisme també pot absorbir dipèptids, tripèptids i tetrapèptids, que és un mecanisme que pot ser més ràpid que l'absorció individual d'aminoàcids. A més a més s'han detectat tetrapeptidases en les microvellositats que hidrolitzen els tetrapèptids, les qual originen tripèptids i aminoàcids lliures. I també hi ha tripeptidases i dipeptidases en la membrana i en el citoplasma de les cèl·lules de la mucosa intestinal.
+Seguidament els aminoàcids passen a la sang del sistema porta i són transportats fins al fetge. Allà, molts aminoàcids quedaran dipositats algun temps, però acaba a les cèl·lules per a fer les seves funcions. En situacions extremes, però, els aminoàcids poden ser emprats també com a font d'energia.
+
+
+==== Alteracions en els processos digestius ====
+Poden existir problemes en la digestió i absorció dels aminoàcids: 
+
+La pancreatitis és una inflamació del pàncrees que impedeix que aquest alliberi la quantitat adequada d'enzims. Per tant, el cos no pot digerir correctament alguns nutrients com les proteïnes.
+Alguns individus poden tenir inhibidors de proteases. En nadons pot ser beneficiós, ja que pot interessar d'absorbir les proteïnes senceres, però en adults és perjudicial.
+Alguns dels aminoàcids són essencials (no som capaços de sintetitzar i cal ingerir-los) com la lisina, valina, leucina i metionina. El dèficit d'algun aminoàcid essencial en la ingesta de proteïnes provoca la malaltia de kwashiorkor.
+Totes les alteracions anteriors poden causar malabsorció, és a dir que s'absorbeixen deficientment molts nutrients. Pot ser provocada per l'alteració del contingut intestinal (falta d'enzims), alteracions en la paret intestinal o en els moviments intestinals. Aquesta deficiència provoca pèrdua de pes, retard del creixement, hipertròfia...
+
+
+== Digestió en els vertebrats ==
+
+En els vertebrats, la digestió comença amb la ingestió o l'entrada d'aliment per la boca i continua en l'aparell digestiu. En els vertebrats, aquestes accions mecàniques són les següents:
+
+Masticació. La fan les dents i és imprescindible sobretot en la digestió de les verdures, llegums i fruites crues (totes sense excepció, ja que aquests aliments estan envoltats per membranes de cel·lulosa no digeribles, que cal esbotzar).
+Deglució. Mecanisme complex que consta d'una etapa voluntària que inicia l'acte de la deglució; una etapa faríngia involuntària, que constitueix el pas de l'aliment a l'esòfag, i una etapa esofàgica, que correspon el descens del bolus fins a l'estómac per mitjà d'ones peristàltiques.
+Funció de l'esfínter gastroesofàgic. Impedeix que els aliments retornin de l'estómac cap a l'esòfag i malmetin la mucosa esofàgica.
+Motilitat del còlon. Les funcions del còlon consisteixen en l'absorció d'aigua i els electròlits a partir del quim –que s'esdevé en la primera meitat del còlon–, i l'emmagatzematge de matèries fecals fins al moment de l'expulsió, en la segona meitat del trajecte. Aquestes funcions no demanen moviments intensos, per la qual cosa les contraccions del còlon solen ser suaus i lentes. No obstant això, encara compleixen les dues funcions fonamentals de la motilitat intestinal: la mescla i la propulsió. Amb els moviments de barreja, totes les matèries fecals resulten trinxades i mogudes i entren en contacte amb la paret del còlon a través de la qual s'absorbeix la major part del líquid. Els moviments de propulsió obliguen al contingut del còlon a emigrar en massa cap al recte; quan una certa quantitat d'excrements penetra en aquest darrer segment, sorgeix la necessitat d'evacuar.
+
+
+== Digestió en els éssers humans ==
+
+
+=== Fases de la digestió en els humans ===
+La digestió comença a la boca on els aliments es comencen a triturar per les dents. Les glàndules salivals alliberen saliva, que conté aigua i enzims, com l'amilasa o la lipasa lingual, que inicien la descomposició de les macromolècules. La masticació i la presència de la saliva acaba amb la formació de la bolla o bolus, que passa a través de l'esòfag fins a l'estómac. A l'estómac es barreja el bolus amb els àcids i enzims digestius per descompondre's químicament. Després de l'estómac l'aliment descompost passa a l'intestí prim on es barreja amb secrecions com la bilis i enzims com la maltasa, lactasa i sucrasa i on s'absorbeixen la majoria dels nutrients. La resta passa a l'intestí gros on les restes són excretades en forma de femta. El quim passa per l'intestí prim, on es produeix el 95% de l'absorció de nutrients; després a través de l'intestí gros i són eliminats durant la defecació.
+Fase cefàlica: aquesta fase té lloc abans que els aliments entrin a l'estómac i involucra la preparació de l'organisme per al consum i la digestió. La vista i el pensament, estimulen l'escorça cerebral. Els estímuls al gust i a l'olor són enviats a l'hipotàlem i la medul·la espinal. Després d'això, són enviades a través del nervi vague.
+Fase gàstrica: aquesta fase presa de 3 a 4 hores. És estimulada per la distensió de l'estómac i el pH àcid. La distensió activa els reflexos llargs i mientèrics. Això activa l'alliberament d'acetilcolina que estimula l'alliberament de més sucs gàstrics. Quan les proteïnes entren a l'estómac, uneixen ions hidrogen, la qual cosa augmenta el pH de l'estómac. Això dispara les cèl·lules G perquè alliberin gastrina, la qual per la seva banda estimula les cèl·lules parietals perquè secretin ió clorur e H+ (que al seu torn actua com a àcid clorhídric (HCl). La producció de HCl també és desencadenada per l'acetilcolina i la histamina.
+Fase intestinal: aquesta fase té dues parts, la excitatòria i la inhibitòria. Els aliments parcialment digerits, omplen el duodè. Això desencadena l'alliberament de gastrina intestinal. El reflex enterogàstric inhibeix el nucli vague, activant les fibres simpàtiques causant que l'esfínter pilòric s'estrenyi per prevenir l'entrada de més menjar i inhibint el reflex de la gana.
+
+
+=== Fenòmens químics ===
+Produeixen la transformació dels aliments formats per molècules complexes en molècules més senzilles que són fàcilment absorbibles per l'intestí. Així els hidrats de carboni es converteixen en monosacàrids com la glucosa, els greixos es trenquen en àcids grassos i glicerina, i les proteïnes es transformen en aminoàcids. Les reaccions químiques més importants en la digestió són les d'hidròlisi, afavorides per enzims que contenen els sucs digestius.
+
+La digestió comença a la boca on els aliments es masteguen i es barregen amb la saliva que conté enzims que inicien el procés químic de la digestió, formant el bolus alimentari.
+El menjar és comprimida i dirigida des de la boca cap a l'esòfag mitjançant la deglució, i de l'esòfag a l'estómac, on els aliments són barrejats amb àcid clorhídric que els descompon, sobretot, a les proteïnes desnaturalitzant. El bolus alimentari es transforma en quim.
+A causa dels canvis d'acidesa (pH) en els diferents trams del tub digestiu, s'activen o inactiven diferents enzims que descomponen els aliments.
+En l'intestí prim el Quim, gràcies a la bilis secretada pel fetge, afavoreix l'emulsió dels greixos i gràcies a les lipases de la secreció pancreàtica es produeix la seva degradació a àcids grassos i glicerina. A més el suc pancreàtic conté proteases i amilases que actuen sobre proteïnes i glúcids. La majoria dels nutrients s'absorbeixen a l'intestí prim. Tota aquesta barreja constitueix ara el quilo.
+El final de la digestió és l'acumulació del quilo en l'intestí gros on s'absorbeix l'aigua per a la posterior defecació dels excrements.
+
+
+=== Cavitat oral ===
+En els humans, la digestió comença a la boca, on els aliments són mastegats. La saliva és secretada a la boca, en grans quantitats (0,5-1,5 litres al dia) per tres parells de glàndules salivals (paròtida, submaxilar i sublingual) i és barrejada per la llengua, amb el menjar mastegat.
+Hi ha dos tipus de secrecions líquides a la boca: una és una secreció aquosa, prima i el seu propòsit és humitejar el menjar. L'altra és una secreció mucosa, espessa, que conté els enzims ptialina o amilasa salival que hidrolitza parcialment el midó i el lisozim que té acció desinfectant sobre determinats bacteris, actua com a lubrificant i causa que les partícules d'aliment es mantinguin enganxades les unes a les altres formant un bolus.
+La saliva serveix per netejar la cavitat oral i humitejar l'aliment i més conté enzims digestius tals com l'amilasa salival, la qual ajuda en la degradació química dels polisacàrids, tals com el midó, en disacàrids com la maltosa. També conté mucinosa, una glicoproteïna la qual ajuda a estovar els aliments en el bolus.
+En el moment d'empassar, es transporta el menjar mastegat fins a l'esòfag, passant a través de l'orofaringe i la hipofaringe. El mecanisme per empassar és coordinat pel centre d'empassat a la medul·la espinal. El reflex inicial és iniciat per receptors de tacte a la faringe quan el bolus d'aliments és empès fins a la part de darrere de la boca.
+
+
+=== Esòfag ===
+
+L'esòfag, un tub muscular prim, d'uns 20 centímetres de llarg. Comença a la faringe, passa a través del tòrax i el diafragma i acaba en el càrdies de l'estómac. La paret de l'esòfag, posseeix dues capes de múscul llis, les quals formen una capa contínua des de l'esòfag fins al recte i es contreuen lentament per llargs períodes. La capa interna de músculs aquesta arreglada de forma circular en una sèrie d'anells descendents, mentre que la capa externa està arreglada longitudinalment. Al començament de l'esòfag, hi ha una pestanya de teixit anomenada epiglotis, que es tanca pel procés d'empassat per a evitar que el menjar entri a la tràquea. El menjar mastegat, és empès a través de l'esòfag fins a l'estómac, per les contraccions peristàltiques d'aquests músculs.
+
+
+=== Estómac ===
+
+El menjar arriba a l'estómac, després de passar a través de l'esòfag i superar l'esfínter anomenat càrdies. A l'estómac, el menjar és degradada addicionalment i minuciosament barrejada amb l'àcid gàstric i enzims digestius que degraden les proteïnes en la seva gran mesura pepsina. L'àcid per si mateix, no degrada les molècules d'aliment, més aviat l'àcid proporciona un pH òptim per a la reacció de l'enzim pepsina. Les cèl·lules parietals de l'estómac, també secreten una glicoproteïna anomenada factor intrínsec, el qual permet l'absorció de vitamina B12. Altres molècules petites, com ara l'alcohol són absorbides a l'estómac passant a través de la membrana i entrant al sistema circulatori directament. Un tall transvers del canal alimentari, revela quatre capes diferents i ben desenvolupades, anomenades serosa, capa muscular, submucosa i mucosa.
+
+Serosa: és la capa més externa, formada per una prima capa de cèl·lules simples, anomenada cèl·lules mesotelials.
+Capa muscular: està ben desenvolupada per agitar el menjar. Té una capa externa longitudinal, una mitjana llisa i una interna obliqua.
+Submucosa: té teixit connectiu contenint vasos limfàtics, vasos sanguinis i nervis.
+Mucosa: conté grans plecs plens amb teixit connectiu. Les glàndules gàstriques estan en làmina pròpia. Les glàndules gàstriques poden ser simples o tubulars ramificades i secreten àcid clorhídric, moc, pepsinogen i renina.
+
+
+=== Intestí prim ===
+
+Després d'haver estat processats en l'estómac, els aliments passen a l'intestí prim a través de l'esfínter pilòric. La major part de la digestió i absorció ocorre aquí quan el quim entra al duodè. Aquí és barrejat addicionalment amb tres líquids diferents:
+
+Bilis, la qual emulsionants els greixos per permetre la seva absorció, neutralitza el quim i és usada per a excretar productes de rebuig com ara la bilirubina i els àcids biliars. No obstant això no és un enzim.
+Suc pancreàtic, fabricat pel pàncrees exocrí.
+Enzims intestinals de la mucosa alcalina. Aquests inclouen: maltasa, lactasa, sacarasa, per processar els sucres, tripsina i quimiotripsina també són agregades en l'intestí prim.L'absorció de la majoria dels nutrients es realitza en l'intestí prim. Quan el nivell d'acidesa canvia en l'intestí, s'activen més enzims són per trencar l'estructura molecular dels diversos nutrients de manera que es puguin absorbir en els sistemes circulatori i limfàtic. Els nutrients passen a través de la paret de l'intestí prim, la qual conté petites estructures semblants a dits anomenades vellositats intestinals, cadascuna de les quals està coberta per estructures encara més petites, semblants a cabells, anomenades microvellositats (a nivell cel·lular). Aquestes ondulacions augmenten la superfície d'exposició dels budells amb el medi extern afavorint l'intercanvi de substàncies. La sang que ha absorbit els nutrients, és portada a través de la vena porta hepàtica fins al fetge, per a la seva filtració, remoció de toxines i processament dels nutrients.
+L'intestí prim i la resta del tracte digestiu realitza el peristaltisme per transportar els aliments des de l'estómac fins al recte i permetre al menjar ser barrejada amb els sucs digestius i ser absorbida. Els músculs circulars i longitudinals són músculs antagonistes, quan un es contreu l'altre es relaxa. Quan els músculs circulars es contrauen, el lumen es fa més estret i llarg i el menjar és espremut i empès cap endavant. Quan els músculs longitudinals es contrauen, els músculs circulars es relaxen i l'intestí es dilata i es torna més ampli i curt per permetre que els aliments entrin. A l'estómac hi ha una altra fase, anomenada mucus. Després que els aliments han passat a través de l'intestí prim, el menjar entra a l'intestí gros.
+
+
+=== Intestí gros ===
+
+L'intestí gros és la penúltima porció del tub digestiu, formada pel cec, el còlon, el recte i el canal anal. L'intestí prim s'uneix a l'intestí gruixut a l'abdomen inferior dret a través de la vàlvula ileocecal.
+L'intestí gruixut és un tub muscular d'un metre i mig de llarg. L'intestí gros mesura uns 1,5 metres de llarg, amb tres parts: el cec, en la unió amb l'intestí prim, el còlon i el recte. El còlon humà es divideix en quatre seccions: el còlon ascendent, el còlon transvers, el còlon descendent i el còlon sigmoide. L'intestí gruixut, absorbeix aigua del bolus i emmagatzema els excrements fins que aquests puguin ser defecats. Els productes alimentaris que no poden anar a través de les vellositats, com ara la cel·lulosa (fibra alimentària), són barrejats amb altres productes de rebuig de l'organisme i constitueixen la femta. La primera part de l'intestí gruixut es diu cec. L'intestí gros continua absorbint aigua i nutrients minerals dels aliments i serveix com a àrea d'emmagatzematge dels excrements.
+L'intestí gros procedeix embriològicament de la part de la nansa intestinal primitiva que pateix menor nombre de flexures. En completar l'intestí un gir positiu de 270 ° (contrari a les agulles del rellotge) entorn de l'eix de l'artèria mesentèrica superior, el començament de l'intestí gruixut es troba a la fossa ilíaca dreta. Tenint en compte que existeix un punt fix (la claveguera primitiva que posteriorment originarà l'anus), el recorregut que fa l'intestí primitiu dibuixa perfectament el futur marc còlic de l'adult. El marc còlic enquadra les nanses ieiunals i ileals, que tenen situació inframesocòlica.
+Després d'unes 32 hores des de la ingesta, l'aliment arriba a l'intestí gros on ja no és processat en aquesta última etapa de la digestió. L'intestí gros es limita a absorbir les vitamines que són alliberades pels bacteris que habiten en el còlon i l'aigua. També compacta els excrements, i emmagatzema la matèria fecal en el recte fins que és expulsada a través de l'anus.
+
+
+== Digestió de nutrients ==
+
+
+=== Carbohidrats ===
+Els carbohidrats són formats en plantes en creixement i són trobats en grans, vegetals de fulles i altres plantes comestibles. Estan formats per polihidroxialdèhids o polihidroxiacetones. Les plantes formen cadenes de carbohidrats, durant el seu creixement atrapant carboni de l'atmosfera, inicialment diòxid de carboni (CO₂). Aquest carboni és emmagatzemat dins de la planta, juntament amb aigua, per formar un midó complex que conté una combinació de carboni-hidrogen-oxigen en una proporció fixa d'1:2:1 respectivament. Les plantes amb un alt contingut de sucre i el sucre de taula representa una estructura menys complexa i són anomenats disacàrids o dues molècules de sucre enllaçades. Una vegada que la digestió de qualsevol d'aquestes formes de carbohidrats està completa, el resultat és una estructura de sucre simple, un monosacàrid. Aquests monosacàrids, poden ser absorbits cap a la sang i usats per les cèl·lules per produir el compost d'energia adenosina trifosfat (ATP).
+El sistema digestiu, comença durant el procés de degradació dels polisacàrids a la boca a través de la introducció de l'amilasa, un enzim digestiu en la saliva. L'alt contingut àcid de l'estómac, inhibeix l'activitat de l'enzim, de manera que la digestió dels carbohidrats se suspèn a l'estómac. En anar buidant a l'intestí prim, el potencial d'hidrogen (pH) canvia dramàticament des d'un àcid fort fins a un contingut alcalí. El pàncrees secreta hidrogencarbonat per neutralitzar l'àcid provinent de l'estómac i el mucus secretat en el teixit recobrint l'intestí, és alcalí, la qual cosa promou l'activitat digestiva dels enzims. L'amilasa està present en l'intestí prim i treballa amb altres enzims per a completar la degradació dels carbohidrats fins monosacàrids els quals són absorbits cap als capil·lars al voltant de les vellositats.
+
+
+=== Greixos ===
+La presència de greixos en l'intestí prim, produeix hormones les quals estimulen l'alliberament de lipasa pel pàncrees i bilis de la vesícula biliar. La lipasa, degrada el greix en monoglicèrids i àcids grassos. La bilis emulsiona els àcids grassos de manera que puguin ser fàcilment absorbits. Els àcids grassos de cadena curta i mitjana, són absorbits directament dins de la sang via els capil·lars de l'intestí prim i viatgen a través de la vena porta tal com ho fan altres nutrients. No obstant això, els àcids grassos de cadena llarga, són massa llargs per ser alliberats directament dins dels petits capil·lars intestinals. En comptes d'això, ells són absorbits dins de les parets de les vellositats de l'intestí i reemsamblats una altra vegada com triacilglicèrids.
+Els triacilglicèrids són recoberts amb colesterol i proteïnes dins d'un component anomenat quilomicrons. Dins de la vellositat, el quilomicrons entra als capil·lars limfàtics, els quals es fusionen en un vas limfàtic major. Són transportats via el sistema limfàtic i el conducte toràcic fins a una localització prop del cor (on les artèries i les venes són més grans). El conducte toràcic buida els quilomicrons en el torrent sanguini via la vena subclàvia esquerra. En aquest punt, els quilomicrons poden transportar els triacilglicèrids fins on els necessitin.
+
+
+== Regulació de la digestió ==
+
+
+=== Reguladors hormonals ===
+Una característica fascinant de l'aparell digestiu és que conté els seus propis reguladors. Les principals hormones que controlen les funcions de l'aparell digestiu es produeixen i alliberen a partir de cèl·lules de la mucosa de l'estómac i l'intestí prim. Aquestes hormones passen a la sang que rega l'aparell digestiu, van fins al cor, circulen per les artèries i tornen a l'aparell digestiu, on estimulen la producció dels sucs digestius i provoquen el moviment dels òrgans. Les hormones que controlen la digestió són la gastrina, la secretina i la colecistocinina.
+
+La gastrina fa que l'estómac produeixi àcid clorhídric que dissol i digereix alguns aliments. És necessària també per al creixement normal de la mucosa de l'estómac, l'intestí prim i el còlon. Està en l'estómac i estimula les glàndules gàstriques per secretar pepsinogen (una forma inactiva de pepsina) i àcid clorhídric. La secreció de gastrina és estimulada per l'arribada del menjar a l'estómac. La secreció és inhibida pel pH baix.
+La secretina fa que el pàncrees secrete un suc digestiu ric en hidrogencarbonat. Estimula l'estómac perquè produeixi pepsina, un enzim que digereix les proteïnes, i al fetge perquè produeixi bilis.
+La colecistocinina fa que el pàncrees creixi i produeixi els enzims del suc pancreàtic, i fa que la vesícula biliar es buidi. És al duodè i aquesta hormona és secretada en resposta al greix del quim.
+pèptid inhibidor gàstric (GIP): està en el duodè i disminueix l'agitació a l'estómac per alentir el buidament gàstric. Una altra funció és la inducció de la secreció d'insulina.
+Pèptid inhibidor vasoactiu.Els nutrients en la sang, són transportats fins al fetge via el circuit porta hepàtic, on la digestió final dels hiposincràtics és duta a terme. El fetge, duta a terme la digestió dels carbohidrats en resposta a les hormones insulina i glucagó. A mesura que els nivells de sucre en la sang s'eleven després de la digestió d'un àpat, el pàncrees secreta insulina, fent que el fetge transformi la glucosa en glucogen, el qual és emmagatzemat en el fetge, teixit adipós i múscul, prevenint la hiperglucèmia. Unes poques hores després del menjar, la glucosa sanguínia caurà causa de l'activitat muscular, llavors el pàncrees secretarà glucagó el qual fa que el glicogen sigui convertit en glucosa per prevenir la hipoglucèmia.
+Nota: noms acabats en el sufix «-osa» usualment indiquen un sucre, tal com la lactosa. Els noms dels enzims usualment s'inicien amb el del substrat que degraden. Per exemple: la maltosa, un disacàrid, és degradat per l'enzim maltasa (pel procés d'hidròlisi), resultant en dues molècules de glucosa, un monosacàrid.
+
+
+=== Reguladors nerviosos ===
+Dues classes de nervis ajuden a controlar el treball de l'aparell digestiu, els nervis extrínsecs i els nervis intrínsecs.
+
+Els nervis extrínsecs (de fora) arriben als òrgans digestius des del cervell o des de la medul·la espinal i provoquen l'alliberament de dues substàncies químiques: l'acetilcolina i l'adrenalina. L'acetilcolina fa que els músculs dels òrgans digestius es contreguin amb més força i empenyin millor els aliments i líquids a través del tracte digestiu. També fa que l'estómac i el pàncrees produeixin més sucs. L'adrenalina relaxa el múscul de l'estómac i dels intestins i disminueix el flux de sang que arriba a aquests òrgans.Els nervis intrínsecs (de dins), que formen una xarxa densa incrustada a les parets de l'esòfag, l'estómac, l'intestí prim i el còlon, són encara més importants. L'acció d'aquests nervis es desencadena quan les parets dels òrgans buits s'estiren amb la presència dels aliments. Alliberen moltes substàncies diferents que acceleren o retarden el moviment dels aliments i la producció de sucs en els òrgans digestius.
+
+
+== Hidròlisi digestiva ==
+Utilitzar un aliment per als propòsits esmentats requereix que un animal ho digereixi. La digestió és un procés químic complex en el qual enzims especials, catalitzen la degradació de grans molècules, en altres més simples que són prou petites per travessar fàcilment les membranes de les cèl·lules i incorporar-se als teixits.
+Tots els processos de digestió impliquen hidròlisi: utilització d'aigua per trencar els enllaços, de manera que l'H + s'uneix a un dels residus i l'OH-a l'altre.
+L'energia alliberada durant la hidròlisi en el tub digestiu només pot ser utilitzada com calor. Per aquesta raó no s'hidrolitzen els enllaços més energètics (sentit adaptatiu) així, durant la digestió només s'allibera una petita part de l'energia continguda en la molècula.
+La major part de l'energia està continguda en els residus individuals des dels quals, posteriorment és alliberada. El material digerit passa del tub digestiu al torrent sanguini oa la limfa pel procés d'absorció. L'assimilació es produeix després, quan de la sang es passa als teixits.
+
+
+== Requeriments nutritius ==
+Els nutrients són substàncies que serveixen com a font d'energia metabòlica i de matèries primeres per al creixement, reparació i gènesi de teixits corporals.
+Els animals tenen necessitats nutricionals concretes molt diferents depenent de l'espècie i en una mateixa espècie varien segons la composició genètica, talla, composició corporal, activitat, sexe i estat sexual (femella embarassada o no). Perquè un animal estigui en un estat nutricional equilibrat ha de tenir o obtenir:
+
+Suficient energia perquè funcionin tots els processos corporals.
+Suficient proteïna per mantenir un balanç de N positiu (és a dir evitar les pèrdues de proteïnes corporals)
+Prou aigua i minerals per a compensar les pèrdues o incorporació.
+Les vitamines essencials que no sintetitza el seu propi cos.El balanç energètic requereix que l'entrada d'energia sigui igual a l'energia requerida per a la manutenció i reparació dels teixits, i per al treball metabòlic, més la producció de calor corporal si correspon.
+La digestió és la reducció de l'aliment a molècules petites, capaços d'incorporar-se al metabolisme cel·lular. Això procés el realitzen les anomenades enzims digestius. La digestió pot ser extracel·lular o intracel·lular, segons es realitzi fora o dins de les cèl·lules. La digestió extracel pot ser al seu torn interna o externa, segons que l'aliment estigui dins de l'organisme, en l'anomenat aparell digestiu, o fora d'ell, com succeeix, per exemple, en les aranyes, que aboquen els seus enzims digestius sobre les seves preses per després poder ingerir mitjançant succió.
+
+
+== pH en la digestió ==
+La digestió és un procés complex, el qual és controlat per diversos factors. El pH té un paper crucial en el funcionament normal del tracte digestiu. A la boca, faringe i esòfag, el pH és típicament, de 6-8, àcid molt feble. La saliva controla el pH en aquesta regió, del tracte digestiu. L'amilasa salival, està continguda en la saliva i inicia la degradació dels carbohidrats fins monosacàrids. La majoria dels enzims digestius són sensibles al pH i no funcionaran en un ambient amb baix pH, com el de l'estómac. El pH baix (per sota de 5), indica un àcid fort, mentre que un pH alt (major que 8), indica una base forta, però la concentració de l'àcid i la base, també tenen un paper.
+El pH en l'estómac és molt àcid i inhibeix la degradació dels carbohidrats mentre hi són. El contingut àcid fort de l'estómac, proveeix dos beneficis, ambdós ajudant a la degradació de les proteïnes, per a una degradació addicional en l'intestí prim, així com, proporcionant immunitat no específica, retardant o eliminant diversos patògens.
+En l'intestí prim, el duodè proveeix el balanç cítric del pH per a activar els enzims digestius.
+El fetge secreta bilis al duodè per neutralitzar les condicions acídiques de l'estómac. També el conducte pancreàtic, es buida al duodè, agregant hidrogencarbonat per neutralitzar el quim àcid, creant un ambient neutre. El teixit mucosal de l'intestí prim, és alcalí, creant un pH d'uns 8,5 permetent d'aquesta manera l'absorció en un ambient alcalí suau.
+
+
+== Regulació de la digestió ==
+
+
+=== Reguladors hormonals ===
+Gastrina
+Secretina
+Colecistocinina (CCK)
+Pèptid inhibidor gàstric (GIP)
+
+
+=== Reguladors nerviosos ===
+Dues classes de nervis ajuden a controlar el treball de l'aparell digestiu, els nervis extrínsecs i els nervis intrínsecs.
+Els nervis extrínsecs (de fora) arriben als òrgans digestius des del cervell o des de la medul·la espinal i provoquen l'alliberament de dues substàncies químiques: l'acetilcolina i l'adrenalina. L'acetilcolina fa que els músculs dels òrgans digestius es contreguin amb més força i empenyin millor els aliments i líquids a través del tracte digestiu. També fa que l'estómac i el pàncrees produeixin més sucs. L'adrenalina relaxa el múscul de l'estómac i dels intestins i disminueix el flux de sang que arriba a aquests òrgans.
+Els nervis intrínsecs (de dins), que formen una xarxa densa incrustada en les parets de l'esòfag, l'estómac, l'intestí prim i el còlon, són encara més importants. L'acció d'aquests nervis es desencadena quan les parets dels òrgans buits s'estiren amb la presència dels aliments. Alliberen moltes substàncies diferents que acceleren o retarden el moviment dels aliments i la producció de sucs en els òrgans digestius.
+
+
+== Vegeu també ==
+Circulació enterohepàtica.
+Digestió anaeròbica.
+
+
+== Referències ==
+
+
+== Bibliografia ==
+Müller-Esterl, Werner. Bioquímica : fundamentos para medicina y ciencias de la vida / Werner Müller-Esterl; con la colaboración de Ulrich Brandt .. [et al.] Barcelona: Reverté, cop. 2008.
+Stryer, Lubert. Bioquímica : cuarta edición Publicació Barcelona [etc.]: Reverté, cop. 1995 Edició 4a ed.
+J.M. González de Buitrago Arriero ... [et al.] Bioquímica clínica. Publicació Madrid [etc.]: McGraw-Hill/Interamericana de España, DL 1998.
+Brody T. Nutritional Biochemistry. (2a ed), Academic Press, San Diego, 1999.
+Cheshire A. Lo Esencial en Aparato Digestivo. Ed Harcourt-Brace, 1998.
+
+
+== Enllaços externs ==
+Human Physiology - Digestion Arxivat 2011-10-31 a Wayback Machine.
+NIH guide to digestive system Arxivat 2006-08-10 a Wayback Machine.

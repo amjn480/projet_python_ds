@@ -1,0 +1,164 @@
+Quarks (kwɔrks, kwɑːks oder kwɑrks) sind Elementarteilchen und fundamentale Bestandteile der Materie. Quarks verbinden sich zu zusammengesetzten Teilchen, die Hadronen genannt werden. Hierzu gehören die Protonen und Neutronen, die Bestandteile der Atomkerne. Aufgrund eines Phänomens, das als Confinement bekannt ist, werden Quarks nie isoliert gefunden, sondern nur gebunden in Hadronen oder in Quark-Gluon-Plasmen.
+Quarks sind die einzigen Elementarteilchen im Standardmodell der Teilchenphysik, die allen vier fundamentalen Wechselwirkungen (starke Wechselwirkung, Elektromagnetismus, schwache Wechselwirkung, Gravitation) unterliegen, sowie die einzigen Teilchen, deren elektrische Ladungen keine ganzzahligen Vielfachen der Elementarladung sind.
+Es gibt sechs Arten von Quarks, die als „Flavours“ bezeichnet werden: up, down, charm, strange, top und bottom. Protonen und Neutronen sind aus Up- und Down-Quarks zusammengesetzt, den Quarks mit der mit Abstand geringsten Masse. Die schwereren Quarks treten nur in sehr kurzlebigen Hadronen auf, die bei hochenergetischen Kollisionen (z. B. mit kosmischer Strahlung und in Teilchenbeschleunigern) entstehen und durch die Schwache Wechselwirkung zerfallen. Zu jedem Quark-Flavour gibt es das entsprechende Antiteilchen (Antiquark), dessen elektrische Ladung und andere Quantenzahlen entgegengesetzte Vorzeichen haben.
+
+
+== Eigenschaften ==
+
+
+=== Flavours ===
+Die Quarks treten in sechs „Flavours“ (englisch Geschmacksrichtung, amerik. Englisch flavor) auf, genannt up (u), down (d), strange (s), charm (c), bottom (b) und top (t). Diese Flavours werden durch die Quantenzahlen Isospin (I), Strangeness (S), Charm (C), Bottomness (B′) und Topness (T)  beschrieben.
+Die Flavours unterscheiden sich bezüglich der Masse, der elektrischen Ladung und der schwachen Wechselwirkung; andere Eigenschaften, wie Spin und Farbladung, haben alle Flavours gleichermaßen. Die sechs Flavours werden in drei „Generationen“ gruppiert. Alle Suchen nach einer vierten Generation von Quarks und anderen elementaren Fermionen sind gescheitert, und es gibt starke indirekte Hinweise darauf, dass nicht mehr als drei Generationen existieren.
+Antiteilchen von Quarks werden Antiquarks genannt und durch einen Querstrich über dem Symbol für das entsprechende Quark bezeichnet, z. B. u für ein up-Antiquark. Wie bei der Antimaterie im Allgemeinen haben Antiquarks die gleiche Masse, mittlere Lebensdauer und Spin wie ihre jeweiligen Quarks, aber die elektrische Ladung und andere Ladungen haben das entgegengesetzte Vorzeichen.
+
+
+=== Masse ===
+Die sechs Flavours (Sorten) von Quarks haben sehr unterschiedliche Massen. Die Masse von Up- und Down-Quark beträgt nur wenige MeV/c2; das Top-Quark als mit großem Abstand schwerstes Quark hat eine Masse von 173 GeV/c2. Die drei Quarks mit der geringsten Masse (d, u, s) werden summarisch als „leichte Quarks“ bezeichnet.
+
+
+=== Spin ===
+Der Spin ist eine intrinsische Eigenschaft von Elementarteilchen, und seine Richtung ist ein wichtiger Freiheitsgrad. Er wird manchmal als die Rotation eines Objekts um seine eigene Achse visualisiert (daher der Name „Spin“), obwohl diese Vorstellung auf subatomaren Skalen etwas irreführend ist, da Elementarteilchen als punktförmig angesehen werden. Quarks haben den Spin ½ ℏ (wobei ℏ die reduzierte Planck-Konstante ist). Sie sind also Fermionen (Teilchen mit halbzahligem Spin).
+
+
+=== Parität ===
+Als Fermionen haben Quark und Antiquark entgegengesetzte intrinsische Parität. Da Quarks nur als qq-Paare erzeugt und vernichtet werden können, ist die Wahl des Vorzeichens beliebig. Konventionsgemäß schreibt man Quarks positive und Antiquarks negative Parität zu.
+
+
+=== Farbladung ===
+Quarks besitzen eine so genannte „Farbladung“. Dadurch unterliegen die Quarks, wie weiter unten erläutert, der starken Wechselwirkung. Eine weitere Konsequenz ist, dass Quarks nie isoliert auftreten können (Confinement).
+
+
+=== Elektrische Ladung ===
+Quarks haben gebrochene elektrische Ladungswerte. Up-, Charm- und Top-Quarks haben eine Ladung von +2⁄3 e, während Down-, Strange- und Bottom-Quarks eine Ladung von −1⁄3 e haben. Die Antiquarks haben jeweils die entgegengesetzte Ladung zu ihren entsprechenden Quarks, also −2⁄3 e bzw. +1⁄3 e. Quarks kombinieren sich aber immer so zu Hadronen, dass die Gesamtladung ganzzahlig ist: Die Kombination von drei Quarks (Baryonen), drei Antiquarks (Antibaryonen) oder einem Quark und einem Antiquark (Mesonen) führt immer zu ganzzahligen Ladungen. Die Hadronen-Bestandteile der Atomkerne, Neutronen und Protonen, haben zum Beispiel die Ladungen 0 e bzw. +1 e; das Neutron besteht aus zwei Down-Quarks und einem Up-Quark, das Proton aus zwei Up-Quarks und einem Down-Quark.
+
+
+=== Baryonenzahl ===
+Im Gegensatz zu Mesonen können Baryonen nicht beliebig erzeugt oder vernichtet werden, sondern nur entweder in ein anderes Baryon umgewandelt werden oder paarweise als Baryon und Antibaryon entstehen oder annihilieren. Dieses Verhalten wird mit einer Quantenzahl, der Baryonenzahl B beschrieben, die man den Baryonen (B = +1) und Antibaryonen (B = −1) zuordnet und die stets erhalten bleibt. Daraus lässt sich direkt ein analoger Erhaltungssatz für Quarks und Antiquarks ableiten, denen man entsprechend die Baryonenzahl +1⁄3 und −1⁄3 zuordnet. Eine Nichterhaltung der Baryonenzahl (z. B. durch Umwandlung eines Quarks in Nicht-Quarks) wird in theoretischen Erweiterungen des Standardmodells diskutiert, hat aber bislang keine experimentelle Grundlage.
+
+
+=== Größe ===
+In der Quantenchromodynamik (QCD) werden Quarks als punktförmige Entitäten betrachtet, mit einer Größe von Null. Bislang konnten keine Hinweise für eine von Null abweichende Größe gefunden werden. Experimentelle Befunde liefern eine obere Grenze von 10−19 m, was dem 10−4-Fachen der Größe eines Protons entspricht.
+Quarks sind nach heutigem Wissensstand elementar. Es gibt zwar Überlegungen, dass Quarks und Leptonen aus „noch elementareren“ Bausteinen, so genannten Präonen zusammengesetzt sein könnten – analog zu den Atomen und zu den Hadronen, die ursprünglich auch als elementar galten. Dies ist aber reine Spekulation; es gibt keinerlei experimentelle Hinweise auf eine Substruktur.
+
+
+== Einordnung im Standardmodell ==
+Das Standardmodell ist der theoretische Rahmen, der alle bekannten Elementarteilchen beschreibt. Dieses Modell enthält neben den sechs Flavours von Quarks auch die Leptonen. Zwischen Leptonen und Quarks bestehen auffällige Parallelen: Beide sind Spin-½-Teilchen, unterliegen damit als Fermionen dem Pauli-Ausschlussprinzip, das besagt, dass keine zwei identischen Fermionen gleichzeitig den gleichen Quantenzustand einnehmen können. Beide kann man in drei Generationen einteilen, die jeweils aus zwei Leptonen bzw. zwei Quarks bestehen, die sich in der elektrischen Ladung um 1 e unterscheiden. Die Summe der Ladungen aller Teilchen einer Generation ist Null, zum Beispiel in der 1. Generation: Elektron, Elektron-Neutrino, jeweils drei Farbzustände von Up- und Down-Quark: −1 + 0 + 3·(⅔–⅓) = 0. Auch bezüglich der schwachen Wechselwirkung verhalten sich Leptonen und Quarks analog.
+Gewöhnliche Materie besteht aus Quarks der ersten Generation (up und down) sowie Elektronen. Schwerere Quarks können nur in hochenergetischen Kollisionen (z. B. mit kosmischer Strahlung) entstehen und zerfallen schnell. Man nimmt an, dass sie in den ersten Sekundenbruchteilen nach dem Urknall vorhanden waren, als sich das Universum in einer extrem heißen und dichten Phase befand. Untersuchungen von schwereren Quarks werden unter künstlich geschaffenen Bedingungen, z. B. in Teilchenbeschleunigern, durchgeführt.
+Mit Farbladung, elektrischer Ladung, Flavour und Masse sind Quarks die einzigen bekannten Elementarteilchen, die an allen vier fundamentalen Wechselwirkungen der heutigen Physik beteiligt sind: starke Wechselwirkung, Elektromagnetismus, schwache Wechselwirkung und Gravitation.
+
+
+== Starke Wechselwirkung ==
+
+
+=== Farbladung ===
+
+Quarks besitzen eine Eigenschaft, die Farbladung genannt wird. Es gibt drei Arten von Farbladungen, die willkürlich als „blau“, „grün“ und „rot“ bezeichnet werden. Jede von ihnen wird durch eine Antifarbe ergänzt – „antiblau“, „antigrün“ und „antirot“. Jedes Quark trägt eine Farbe, während jedes Antiquark eine Antifarbe trägt. Teilchen mit Farbladung unterliegen einer Kraft, die als „starke Wechselwirkung“ bezeichnet wird. Die Theorie, die diese Wechselwirkung beschreibt, wird Quantenchromodynamik (QCD) genannt.
+Eine Farbladung und ihre Antifarbe (z. B grün und antigrün) heben sich zu einem ungeladenen („weißen“) Zustand auf. Dies ist analog zur elektromagnetischen Wechselwirkung, bei der eine positive und eine negative Ladung insgesamt zu einem ungeladenen System führen. Eine Kombination aus den drei Farben oder aus den drei Antifarben ist ebenfalls „weiß“. Dies erinnert an das additive Farbmodell in der Grundlagenoptik und war der Grund für die Bezeichnung „Farbladung“.
+
+
+=== Bildung von Hadronen ===
+Aus Quarks zusammengesetzte Teilchen werden Hadronen genannt. Man unterscheidet dabei zwischen Mesonen (Hadronen mit ganzzahligem Spin) und Baryonen (Hadronen mit halbzahligem Spin). Es ist eine empirische (und mittlerweile theoretisch gut untermauerte) Tatsache, dass nur farbneutrale („weiße“) Teilchen isoliert existieren können. Dies sind Quark-Antiquark-Kombinationen (qq – Mesonen), Kombinationen aus drei Quarks (qqq – Baryonen) oder drei Antiquarks (qqq – Antibaryonen), nicht aber einzelne Quarks. Dieses Phänomen nennt man „Confinement“ (siehe Abschnitt unten). Ein Nebeneffekt dieser Einschränkung ist, dass Hadronen immer ganzzahlige elektrische Ladungen tragen.
+Es ist eine dreistellige Anzahl von Hadronen bekannt (siehe Liste der Baryonen und Liste der Mesonen), die sich durch unterschiedliche Valenzquarks und unterschiedliche Quantenzahlen (Bahndrehimpuls, Spinrichtung, radiale Anregung …) erklären lassen. Die mit Abstand wichtigsten Baryonen sind das Proton und das Neutron, die Bausteine des Atomkerns. Im frühen 21. Jahrhundert wurden „exotische Hadronen“ mit anderer Zusammensetzung entdeckt: Tetraquarks (qqqq) und Pentaquarks (qqqqq). Auch diese sind farbneutral.
+
+
+=== Kopplung durch Gluonen ===
+Wie von der Quantenchromodynamik beschrieben, wird die starke Wechselwirkung durch Gluonen vermittelt, masselose Vektor-Eichbosonen, die an die Farbladung der Quarks koppeln. Im Standardrahmen der Teilchenwechselwirkung (Teil einer allgemeineren Formulierung, die als Störungstheorie bekannt ist) werden Gluonen ständig zwischen Quarks durch einen virtuellen Emissions- und Absorptionsprozess ausgetauscht.
+
+
+=== Confinement und Asymptotische Freiheit ===
+
+Gluonen tragen Farbladung und sind daher selbst in der Lage, andere Gluonen zu emittieren und zu absorbieren. Dadurch unterscheidet sich die Kraft zwischen Farbladungen fundamental von der Kraft zwischen elektrischen Ladungen: Sie nimmt mit wachsendem Abstand zu und nähert sich einer Konstanten. Ein Quark als einzelnes Teilchen ganz herauszulösen würde unendlich viel Energie erfordern. Dieses Phänomen ist als Confinement (Einschließung) bekannt: Quarks treten niemals isoliert auf. Umgekehrt wird die chromodynamische Bindungskraft zwischen Quarks um so schwächer, je näher sie sich kommen. Man nennt dies asymptotische Freiheit.
+Wird ein Quark in einer hochenergetischen Kollision erzeugt oder aus einem Hadron herausgeschlagen, wird die Feldenergie mit wachsendem Abstand schließlich so groß, dass Paare von Quarks und Antiquarks erzeugt werden. Diese Paare verbinden sich mit den zu trennenden Quarks, wodurch neue Hadronen entstehen. Dieser Prozess wird Hadronisierung genannt.
+
+
+=== Valenzquarks und Seequarks ===
+Im Quantenfeld der Gluonen, das die Kräfte zwischen den Quarks innerhalb eines Hadrons vermittelt, werden beständig virtuelle Quark-Antiquark-Paare erzeugt und vernichtet, die man Seequarks nennt. In Abgrenzung dazu bezeichnet man die zwei bzw. drei reellen Quarks, aus denen Mesonen und Baryonen aufgebaut sind und die deren Quantenzahlen bestimmen, als Valenzquarks. Der Einfluss der Seequarks lässt sich durch Messung der Strukturfunktionen mittels tief inelastischer Streuung bestimmen. Bei Zufuhr von Energie können Seequarks zu reellen baryonischen oder mesonischen Teilchen hadronisieren.
+
+
+=== Konstituentenquarks und Stromquarks ===
+
+In Hadronen, die aus leichten Quarks zusammengesetzt sind, stammt ein großer Teil der Masse nicht von den Valenzquarks, sondern von den Gluonen und Seequarks des Kraftfelds (Äquivalenz von Masse und Energie). Ein Proton hat zum Beispiel eine Masse von etwa 938 MeV/c2, zu der die Masse seiner drei Valenzquarks (zwei u und ein d) nur etwa 9 MeV/c2 beiträgt.
+Aus diesem Grund verhalten sich die Valenzquarks wie Teilchen deutlich höherer Masse. Man bezeichnet diese schwereren „effektiven“ Valenzquarks als Konstituentenquarks. Nur in Experimenten mit sehr hohen Energien und sehr hohen Impulsüberträgen ist die Ortsauflösung so groß, dass die Valenzquarks aufgrund der asymptotischen Freiheit als freie Teilchen erscheinen. Diese „nackten“ Quarks nennt man Stromquarks. Die Masse der u- und d-Konstituentenquarks liegt in der Größenordnung von 350 MeV/c2. Für die schweren Flavours c und b hingegen ist der Unterschied zwischen Strom- und Konstituentenquarkmasse vergleichsweise gering; t-Quarks bilden keine gebundenen Zustände. Die in der Tabelle angegebenen Massen sind die der Stromquarks.
+
+
+=== Quark-Gluon-Plasma ===
+
+Unter hinreichend extremen Bedingungen könnten Quarks aus gebundenen Zuständen „dekonfiniert“ werden und sich als thermalisierte „freie“ Anregungen im größeren Medium ausbreiten. Im Zuge der asymptotischen Freiheit wird die starke Wechselwirkung bei steigenden Temperaturen schwächer. Schließlich würde der Confinement in einem extrem heißen Plasma aus frei beweglichen Quarks und Gluonen effektiv verloren gehen. Diese theoretische Phase der Materie wird als Quark-Gluon-Plasma bezeichnet.
+Bei ausreichend hohen Baryonendichten und relativ niedrigen Temperaturen – möglicherweise vergleichbar mit denen in Neutronensternen – wird erwartet, dass die Quarkmaterie zu einer Fermi-Flüssigkeit aus schwach wechselwirkenden Quarks entartet. Diese Flüssigkeit wäre durch eine Kondensation von farbigen Quark-Cooper-Paaren gekennzeichnet, wodurch die lokale SU(3)c-Symmetrie gebrochen würde. Da Quark-Cooper-Paare Farbladung beherbergen, wäre eine solche Phase der Quark-Materie farblich supraleitend, d. h. Farbladung könnte sie widerstandslos durchdringen.
+
+
+== Schwache Wechselwirkung ==
+Ein Quark eines Flavours kann sich durch die schwache Wechselwirkung – und nur durch diese – in ein Quark eines anderen Flavours umwandeln. Eine solche Umwandlung ist nur möglich, wenn sie mit einem Wechsel der elektrischen Ladung verbunden ist. Dies wird durch den Austausch eines virtuellen W-Bosons beschrieben. Die Umwandlung von einem Quark in einen anderen Flavour mit gleicher Ladung (flavour changing neutral current) ist in führender Ordnung ausgeschlossen.Solche Umwandlungen treten bei der Umwandlung („Zerfall“) von Hadronen auf, wenn dabei eine Flavour-Quantenzahl nicht erhalten bleibt. Ein Beispiel ist der Zerfall Λ0 → p + π−. Die beteiligten Hadronen haben die Quarkzusammensetzung Λ0 = dus, p = duu und π− = du. Man kann diesen Prozess so deuten, dass sich ein s-Quark und ein u-Quark umwandelt und über ein virtuelles W−-Boson zusätzlich ein du-Paar erzeugt wird. Da solch eine Umwandlung nur über die schwache Wechselwirkung möglich ist, verläuft sie vergleichsweise langsam. Das Λ0 hat eine Lebensdauer von 2.6e-10 s; das ähnlich schwere Δ0 (udd) hingegen, das über die starke Wechselwirkung ebenfalls in ein Proton und ein Pion zerfällt, hat eine Lebensdauer von nur 3e-23 s.
+Während der Prozess der Flavour-Transformation für alle Quarks gleich ist, hat jedes Quark eine Vorliebe, sich in das Quark seiner eigenen Generation zu verwandeln. Die relativen Tendenzen aller Flavour-Transformationen werden durch eine 3×3-Matrix beschrieben, die Cabibbo-Kobayashi-Maskawa-Matrix (CKM-Matrix).
+Das Top-Quark mit seiner enormen Masse hat die einzigartige Eigenschaft, dass es in ein reelles W-Boson und ein anderes Quark (zu 96 ± 3 % ein b-Quark) zerfallen kann. Daher geschieht diese Umwandlung extrem schnell (in der Größenordnung 10−25 s), und die Bildung von Hadronen mit t-Quark ist nicht möglich.
+
+
+== Geschichte ==
+
+
+=== Modell mit drei Quarks: u, d, s ===
+Das Quark-Modell wurde 1964 unabhängig voneinander von den Physikern Murray Gell-Mann und George Zweig vorgeschlagen. Zu dieser Zeit gab es im „Teilchenzoo“ neben anderen Teilchen eine Vielzahl von Hadronen. Gell-Mann und Zweig postulierten, dass sie keine Elementarteilchen seien, sondern aus Kombinationen von Quarks und Antiquarks bestünden. Ihr Modell sah drei Flavours von Quarks vor, up, down und strange, denen sie Eigenschaften wie Spin und elektrische Ladung zuschrieben. Der Vorschlag kam kurz nach Gell-Manns Formulierung eines Teilchen-Klassifizierungssystems aus dem Jahr 1961, das als Achtfacher Weg bekannt ist – oder, technisch ausgedrückt, als SU(3)-Flavour-Symmetrie, die die Struktur rationalisiert. Der Physiker Juval Ne’eman hatte im selben Jahr unabhängig ein dem Achtfachen Weg ähnliches Schema entwickelt. Ein früher Versuch der Teilchenorganisation war im Sakata-Modell vorhanden. Auch der Schweizer Physiker André Petermann postulierte 1963 die Existenz der Quarks. Sein Manuskript wurde aber erst 1965 veröffentlicht und sein Beitrag geriet in Vergessenheit.Die anfängliche Reaktion der Physikgemeinde auf diesen Vorschlag war gemischt. Es gab insbesondere Streit darüber, ob das Quark eine physikalische Entität oder eine bloße Abstraktion war, die verwendet wurde, um Konzepte zu erklären, die zu der Zeit nicht vollständig verstanden wurden.
+
+
+=== Substruktur von Proton und Neutron ===
+Anzeichen auf eine komplexe Struktur von Proton und Neutron hatte es schon vor der Entwicklung der Quarktheorie gegeben: Streuexperimente ergaben einen Formfaktor, der auf eine räumliche Ausdehnung hinwies, und das magnetische Moment ergab einen Landé-Faktor, der deutlich von dem Wert g = 2 für punktförmige Teilchen abwich. 1968 zeigten Experimente mit tief inelastischer Streuung am Stanford Linear Accelerator Center (SLAC), dass das Proton viel kleinere, punktförmige Objekte enthielt und daher kein Elementarteilchen war. Die Physiker zögerten damals, diese Objekte eindeutig mit Quarks zu identifizieren und nannten sie stattdessen „Partonen“ – ein Begriff, der von Richard Feynman geprägt wurde. Die am SLAC beobachteten Objekte wurden später als Up- und Down-Quarks identifiziert, als die anderen Flavours entdeckt wurden. Dennoch blieb „Parton“ als Sammelbegriff für die Bestandteile der Hadronen (Quarks, Antiquarks und Gluonen) in Gebrauch. In der Folge konnte man durch die Analyse der Strukturfunktionen nachweisen, dass die Teilchen Spin 1⁄2 und drittelzahlige elektrische Ladungen hatten.
+Die Existenz des Strange-Quarks wurde indirekt durch die Streuexperimente am SLAC bestätigt: Es war nicht nur ein notwendiger Bestandteil des Drei-Quark-Modells von Gell-Mann und Zweig, sondern lieferte auch eine Erklärung für das Kaon, das 1947 in der kosmischen Strahlung entdeckt wurde, und die Hyperonen.
+
+
+=== Charm-Quark ===
+In weniger als einem Jahr nach seiner Veröffentlichung wurden Erweiterungen des Gell-Mann-Zweig-Modells vorgeschlagen. Sheldon Lee Glashow und James Bjorken sagten die Existenz eines vierten Flavour des Quarks voraus, den sie Charm nannten. Der Zusatz wurde vorgeschlagen, weil er eine bessere Beschreibung der schwachen Wechselwirkung erlaubte, die Anzahl der bekannten Quarks mit der Anzahl der bekannten Leptonen ausglich und eine Massenformel implizierte, die die Massen der bekannten Mesonen korrekt reproduzierte.
+In einer Arbeit aus dem Jahr 1970 präsentierten Glashow, John Iliopoulos und Luciano Maiani den sogenannten GIM-Mechanismus, um die experimentelle Nichtbeobachtung von flavour-ändernden Neutralströmen zu erklären. Dieses theoretische Modell setzte die Existenz des noch unentdeckten Charm-Quarks voraus.
+Charm-Quarks wurden im November 1974 („November-Revolution“) fast gleichzeitig von zwei Teams erzeugt – eines am SLAC unter Burton Richter und eines am Brookhaven National Laboratory unter Samuel Ting. Die Charm-Quarks wurden mit Charm-Antiquarks in Mesonen gebunden beobachtet. Die beiden Parteien hatten dem entdeckten Meson zwei verschiedene Symbole zugewiesen, J und ψ; so wurde es formell bekannt als J/ψ-Meson. Die Entdeckung überzeugte die Physikergemeinschaft endgültig von der Gültigkeit des Quarkmodells.
+
+
+=== Bottom-Quark ===
+In den folgenden Jahren erschienen eine Reihe von Vorschlägen zur Erweiterung des Quarkmodells auf sechs Quarks. Makoto Kobayashi und Toshihide Maskawa stellten 1973 fest, dass die experimentelle Beobachtung der CP-Verletzung erklärt werden könnte, wenn es ein drittes Quarkpaar gäbe. Die Arbeit von Haim Harari aus dem Jahr 1975 war die erste, die die Begriffe „top“ und „bottom“ für die zusätzlichen Quarks prägte.
+1977 wurde das Bottom-Quark von einem Team am Fermilab unter der Leitung von Leon Lederman beobachtet. Dies war zugleich ein starker Hinweis auf die Existenz des Top-Quarks: Ohne das Top-Quark wäre das Bottom-Quark ohne Partner gewesen.
+
+
+=== Top-Quark ===
+
+Theoretische Analysen anderer Experimente lieferten in den folgenden Jahren immer genauere Voraussagen für die Masse des Top-Quarks. Es wurde deutlich, dass sie weit höher sein musste, als die Masse der anderen Quarks. 1995 wurde das Top-Quark von den Teams CDF und DØ am Fermilab schließlich nachgewiesen. Seine Masse war fast so groß wie die eines Goldatoms.
+
+
+== Etymologie ==
+Eine Zeit lang war Gell-Mann unschlüssig über eine tatsächliche Schreibweise für den Begriff, den er prägen wollte, bis er in James Joyce’ Buch Finnegans Wake (erschienen 1939) das Wort Quark fand:
+
+– Three quarks for Muster Mark!
+Sure he hasn’t got much of a bark
+And sure any he has it's all beside the mark.Das Wort heißt im Englischen krächzen und der Satz handelt von einem Vogelchor, der den König Marke aus der Tristan-Sage verspottet. Ins Reich der Legende gehört hingegen die im deutschen Sprachraum gleichwohl verbreitete Geschichte, Joyce hätte das Wort Quark ursprünglich auf einer Reise durch Deutschland gehört und übernommen. Gell-Mann ging in seinem 1994 erschienenen Buch The Quark and the Jaguar näher auf den Namen und die Aussprache des Quarks ein:
+
+In 1963, when I assigned the name “quark” to the fundamental constituents of the nucleon, I had the sound first, without the spelling, which could have been “kwork”. Then, in one of my occasional perusals of Finnegans Wake, by James Joyce, I came across the word “quark” in the phrase “Three quarks for Muster Mark”. Since “quark” (meaning, for one thing, the cry of the gull) was clearly intended to rhyme with “Mark”, as well as “bark” and other such words, I had to find an excuse to pronounce it as “kwork”. But the book represents the dream of a publican named Humphrey Chimpden Earwicker. Words in the text are typically drawn from several sources at once, like the “portmanteau” words in Through the Looking-Glass. From time to time, phrases occur in the book that are partially determined by calls for drinks at the bar. I argued, therefore, that perhaps one of the multiple sources of the cry “Three quarks for Muster Mark” might be “Three quarts for Mister Mark”, in which case the pronunciation “kwork” would not be totally unjustified. In any case, the number three fitted perfectly the way quarks occur in nature.Zweig bevorzugte den Namen „Ass“ für das von ihm theoretisierte Teilchen, aber die Terminologie von Gell-Mann setzte sich durch, nachdem das Quarkmodell allgemein akzeptiert worden war.
+Die Quark-Flavours erhielten ihre Namen aus mehreren Gründen. Die Up- und Down-Quarks sind nach den Up- und Down-Komponenten des Isospins benannt, die sie tragen. Die Strange-Quarks erhielten ihren Namen, weil sie als Komponenten der „seltsamen Teilchen“ entdeckt wurden, die in der kosmischen Strahlung entdeckt wurden, Jahre bevor das Quark-Modell vorgeschlagen wurde; diese Teilchen wurden als „seltsam“ angesehen, weil sie eine ungewöhnlich lange Lebensdauer hatten. Glashow, der das charmed quark zusammen mit Bjorken vorschlug, wird mit den Worten zitiert: „Wir nannten unser Konstrukt das ‚charmed quark‘, denn wir waren fasziniert und erfreut über die Symmetrie, die es in die subnukleare Welt brachte“. Die von Harari geprägten Namen „bottom“ und „top“ wurden gewählt, weil sie „logische Partner für up- und down-Quarks“ sind. Alternative Namen für bottom- und top-Quarks sind „beauty“ bzw. „truth“, aber diese Namen sind weitgehend aus dem Gebrauch gefallen. Während „truth“ sich nie durchgesetzt hat, werden Beschleunigerkomplexe, die sich der massiven Produktion von bottom-Quarks widmen, manchmal „beauty factories“ genannt.
+
+
+== Siehe auch ==
+Quarkonium
+Quarkstern
+
+
+== Literatur ==
+Harald Fritzsch: Quarks – Urstoff unserer Welt. Piper, München 2006, ISBN 3-492-24624-9.
+Hans G. Dosch: Jenseits der Nanowelt – Leptonen, Quarks und Eichbosonen. Springer, Berlin 2005, ISBN 3-540-22889-6.
+Maurice Jacob: The quark structure of matter. World Scientific, Singapore 1992, ISBN 981-02-0962-2.
+David Blaschke: Heavy quark physics. Springer, Berlin 2004, ISBN 3-540-21921-8.
+S.W. Lovesey: Theory of Neutron Scattering from Condensed Matter. Oxford University Press, 1986, ISBN 0-19-852029-8.
+Donald H. Perkins: Introduction to High Energy Physics. Addison-Wesley, Reading, Massachusetts 1982, ISBN 0-201-05757-3.
+John S. Rigden: Rabi, Scientist and Citizen. Basic Books, New York 1987, ISBN 0-465-06792-1.
+Sergei Vonsovsky: Magnetism of Elementary Particles. Mir Publishers, Moscow 1975.
+
+
+== Weblinks ==
+
+1969 Physik-Nobelpreis-Vortrag von Murray Gell-Mann
+1976 Physik-Nobelpreis-Vortrag von Burton Richter
+1976 Physik-Nobelpreis-Vortrag von Samuel C.C. Ting
+2008 Physik-Nobelpreis-Vortrag von Makoto Kobayashi
+2008 Physik-Nobelpreis-Vortrag von Toshihide Maskawa
+The Top Quark And The Higgs Particle von T.A. Heppenheimer – Eine Beschreibung des CERN-Experiments zur Zählung der Quarkfamilien.
+
+
+== Anmerkungen ==
+
+
+== Einzelnachweise ==

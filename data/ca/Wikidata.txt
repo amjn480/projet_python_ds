@@ -1,0 +1,29 @@
+Wikidata  és una base de dades editada de manera col·laborativa, part de la Fundació Wikimedia, amb l'objectiu de proporcionar una font comuna per a certs tipus de dades, com dates de naixement, que poden ser usats per projectes Wikimedia com Viquipèdia. Això és similar a la manera com Wikimedia Commons proporciona emmagatzematge per a fitxers multimèdia i accés a aquests fitxers en tots els projectes Wikimedia.
+A nivell tècnic, la implementació depèn de Wikibase, un conjunt d'extensions creades específicament per al projecte i instal·lades sobre un wiki tipus MediaWiki com la mateixa Viquipèdia.
+
+
+== Història del desenvolupament ==
+Wikidata va ser llançada el 30 d'octubre de 2012 i va ser el primer projecte nou de la Fundació Wikimedia des de 2006.La creació del projecte va ser finançada per donacions de l'Institut per a la Intel·ligència Artificial Allen, la Fundació Gordon i Betty Moore i Google Inc, sumant en total 1,3 milions d'euros. El desenvolupament inicial del projecte està sent supervisat per Wikimedia Deutschland i s'ha dividit en tres fases:
+
+Centralitzar els enllaços interlingüïstics - enllaços entre articles sobre el mateix tema en diferents idiomes
+Proporcionar un lloc central per a la informació de les infotaules de totes les Viquipèdies.
+Crear i actualitzar llistes d'articles basats en dades de WikidataLa primera fase va tenir lloc el 30 d'octubre de 2012. Això va permetre que es creessin elements i que puguin ser omplerts amb informació bàsica, una etiqueta (un nom o títol), un àlies (un nom alternatiu a l'etiqueta), una descripció i enllaços interlingüïstics per articles de Viquipèdia. Cada element té un identificador únic precedit de la lletra Q, per exemple Q7163 és l'element per política. Això permet que l'etiqueta, l'àlies i la descripció puguin ser traduïdes sense afavorir a cap idioma en particular.
+El 14 de gener de 2013, la Viquipèdia en hongarès va ser la primera Viquipèdia a utilitzar els enllaços interlingüïstics de Wikidata. Aquesta funcionalitat després va ser estesa a la versió hebrea i italiana el 30 de gener i la versió anglesa l'11 de febrer.Els primers aspectes de la segona fase van ser posats en marxa el 4 de febrer de 2013, introduint el que serien afirmacions, parells de claus i valors per entrades de Viquipèdia. Inicialment els valors estaven limitats a dos tipus de dades, elements i imatges de Wikimedia Commons. Progressivament es van anar afegint altres tipus de dades, com ara coordenades i dates.Des del 24 d'abril de 2013 totes les versions lingüístiques de la Viquipèdia van poder començar a utilitzar Wikidata.El 7 de setembre de 2015 la Fundació Wikimedia va anunciar el Wikidata Query Service, un servei de consulta de les dades que es troben a Wikidata que es basa en el llenguatge SPARQL. Existeixen també altres interfícies de consulta de dades, a vegades específiques d'alguns àmbits, com ara Scholia, centrada en l'acadèmia.
+
+
+== Curiositats ==
+Les barres del logotip representen la paraula «wiki» en codi Morse.
+
+
+== Referències ==
+
+
+== Vegeu també ==
+DBpedia
+Semantic MediaWiki
+
+
+== Enllaços externs ==
+Wikidata
+Wikidata Query Service
+Tutorial SPARQL en català

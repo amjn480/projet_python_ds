@@ -1,0 +1,22 @@
+X [eks] är den tjugofjärde bokstaven i det moderna latinska alfabetet. I svenskan uttalas den i regel som ks, men som s då den står initialt i ett ord.
+
+
+== Historia ==
+Till det latinska alfabetet kom bokstaven "X" från den grekiska bokstaven "chi". Den bokstaven står dock i modern grekiska för en av två tonlösa frikativor: [x] som i tyska ach eller [ç] som i tyska ich, i stället för ett x-ljud, som i stället skrivs med bokstaven "xi". Bokstaven "xi" härstammar från den feniciska bokstaven "samekh" med osäker betydelse, kanske "fisk", och även "chi" hade en motsvarighet i det feniciska alfabetet, dock inte i de senare semitiska alfabeten.
+
+
+== Datateknik ==
+I datorer lagras X samt förkomponerade bokstäver med X som bas och vissa andra varianter av X, plus bokstäver för klickljud, med följande kodpunkter:
+
+
+== Se även ==
+Kryss
+Dimension X
+Planet X
+X-kromosom
+X Windows
+Romerska siffran X
+XX
+XXX
+XXXX
+χ och x ach-ljud

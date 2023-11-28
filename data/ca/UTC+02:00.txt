@@ -1,0 +1,118 @@
+UTC+02:00 és una zona horària d'UTC amb 2 hores més tard que l'UTC. El seu codi DTG és B-Bravo.
+
+
+== Zones horàries ==
+Eastern European Time (EET) (en català: Hora d'Europa Oriental)
+South Africa Standard Time (SAST)
+Central Africa Time (CAT)
+Egypt Standard Time
+Israel Standard TimeHoraris d'estiu
+
+Central European Summer Time o Central European Daylight Time (CEST/CEDT) (en català: Hora d'Europa Central d'Estiu)
+West Africa Summer Time (WAST)
+
+
+== Franges ==
+
+
+=== Temps estàndard (l'any sencer) ===
+ Bielorússia
+ Líban
+ Israel
+Cisjordània
+Franja de Gaza
+
+
+==== Central Africa Time ====
+ Botswana
+ Burundi
+ R.D. del Congo (meitat oriental)
+Kasai Occidental
+Kasai Oriental
+Katanga
+Maniema
+Kivu Nord
+Kivu Sud
+Orientale
+ Egipte
+ Lesotho
+ Líbia
+ Ruanda
+ Malawi
+ Moçambic
+ Namíbia
+ Sud-àfrica
+ Eswatini
+ Zimbàbue
+ Zàmbia
+
+
+=== Temps estàndard (hivern a l'hemisferi nord) ===
+Aquestes zones utilitzen el UTC+02:00 a l'hivern i el UTC+03:00 a l'estiu.
+
+
+==== Eastern European Time ====
+ Bulgària
+ Estònia
+ Finlàndia
+ Grècia
+ Letònia
+ Lituània
+ Moldàvia
+ Romania
+ Ucraïna
+ Xipre
+
+
+=== Temps d'estiu (estiu a l'hemisferi nord) ===
+Aquestes zones utilitzen el UTC+01:00 a l'hivern i el UTC+02:00 a l'estiu.
+
+
+==== Central European Summer Time ====
+ Albània
+ Alemanya
+ Andorra
+ Àustria
+ Bèlgica
+ Bòsnia i Hercegovina
+ Croàcia
+ Dinamarca
+ Eslovàquia
+ Eslovènia
+ Espanya (excepte Illes Canàries)
+ França
+Territori metropolità
+ Hongria
+ Itàlia
+ Liechtenstein
+ Luxemburg
+ Macau
+ Mònaco
+ Montenegro
+ Noruega
+Territori metropolità
+Svalbard
+Jan Mayen
+ Països Baixos
+ Polònia
+ Txèquia
+ San Marino
+ Sèrbia
+ Suècia
+ Suïssa
+ Regne Unit
+Gibraltar
+ Ciutat del Vaticà
+
+
+== Geografia ==
+UTC+02 és la zona horària nàutica que comprèn l'alta mar entre 22,5°E i 37,5°E de longitud. En el temps solar aquest fus horari és el corresponent el meridià 30° est.
+Anecdòticament, el punt fronterer entre Finlàndia, Noruega i Rússia és l'únic lloc d'Europa en què tres zones horàries es troben (UTC+1, UTC+2 i UTC+3).
+
+
+== Història ==
+Regne Unit i Irlanda (UTC+1 del 1940 al 1945 a l'hivern (UTC+2 a l'estiu)).
+Kaliningrad (Rússia) seguia al Kaliningrad Time (USZ1) idèntica que Hora d'Europa Oriental, UTC+2 a l'hivern i UTC+3 a l'estiu, però al 27 de març del 2011 és l'últim vegada que es canviava a UTC+2 a UTC+3. S'elimina l'horari d'estiu i tot l'any usarà UTC+3.
+
+
+== Referències ==

@@ -1,0 +1,496 @@
+El quars és un mineral molt comú, el més abundant que es pot trobar a la superfície terrestre. És un compost químic de silici i oxigen (diòxid de silici o sílice) amb fórmula SiO₂. Segons la classificació de Nickel-Strunz pertany a la classe dels òxids, mentre que a la classificació de Dana, és considerat un tectosilicat. El quars és un mineral que pot presentar diferents colors depenent molt de les impureses i d'alguns defectes en l'estructura cristal·lina (centres de color).
+Es creu que el seu nom prové de l'alt alemany twarc. La seva duresa és de 7 en l'escala de Mohs i presenta una densitat de 2,65 g/cm³. El quars sovint presenta macles i l'exfoliació és molt rarament visible. El quars és conegut per les seves propietats piezomètriques i abrasives, propietats que han fet del quars un mineral àmpliament utilitzat durant la història però sobretot els darrers anys. El quars és un dels minerals amb més varietats; aquestes varietats es poden dividir en varietats macrocristal·lines (cristalls visibles a ull nu) i varietats microcristal·lines (cristalls no visibles a ull nu). De les varietats macrocristal·lines, els espècimens més coneguts són el cristall de roca, el quars fumat, el quars rosa, l'ametista, la citrina, el quars blau, el jacint de Compostel·la i l'ull de tigre. De les varietats microcristal·lines destaquen la calcedònia, l'àgata (una subvarietat de calcedònia), l'ònix, el jaspi i l'aventurina.
+
+
+== Etimologia ==
+L'origen de la paraula quars no és obvi. La hipòtesi més estesa diu que deriva de la paraula alemanya quarz i de la seva predecessora en l'alt alemany twarc, que probablement es va originar de l'eslau. Els grecs l'anomenaven krystallos (en grec: κρύσταλλος), i Sèneca, Plini el Vell o Paracels donaven per bona la idea que el quars era aigua gelada comprimida i convertida en roca; de fet, l'arrel grega κρύοσ significa fred, mentre que στέλλειυ significa contraure's o solidificar-se. El primer document imprès que utilitza la paraula quertz va ser publicat anònimament l'any 1505, i va ser atribuït a un físic de la ciutat de Freiberg, Alemanya anomenat Ulrich Rühlein von Kalbe. Georgius Agricola utilitzava per a referir-se al quars els termes quertze, crystallum, silicum, silex i silice. L'any 1941 es va proposar un origen etimològic per a la paraula quars. Segons aquesta proposta, els miners de Saxònia anomenaven les vetes grans gänge i a les més petites querklüfte; el nom erz o ertz s'utilitzava per a denominar les menes. És possible que la unió de querklüfte i ertz donés origen al terme querkluftertz.
+
+
+== Classificació ==
+Segons la classificació de Nickel-Strunz el quars forma part del grup 4.DA.05 (4 per a òxids; D per a "Metall:Oxigen = 1:2"; A per "amb cations petits: família de la sílice" i 05 per la posició que ocupa el quars dins del grup), per tant es pot dir que segons aquesta classificació el quars és un òxid amb cations petits (família de la sílice) que presenta una relació entre metall i oxigen d'1 a 2. Comparteix el grup 4.DA amb altres minerals com: l'òpal, la tridimita, la cristobalita, la moganita, la melanoflogita, la lechatelierita, la coesita, la stishovita i la seifertita. Segons la classificació de Dana el quars forma part del grup 75.1.3.1 (75 per als tectosilicats; 1 per al sílice en coordinació tetraèdrica i 3.1 per la posició del quars dins del grup), per tant segons Dana el quars és un tectosilicat amb silici tetraèdric.
+
+
+== Diagnòstic ==
+
+
+=== De visu ===
+El quars és un mineral fàcilment identificable de visu, tot i que la gran quantitat de varietats i el gran nombre de colors que pot presentar poden comportar algun problema a l'hora de diferenciar-lo d'alguns altres minerals. El quars pot presentar una gran quantitat de colors (rosa, vermell, groc, taronja, verd, blau...) o pot ser incolor. El quars es diferencia de la resta de minerals perquè mai presenta alteració ni exfoliació; la seva duresa és de 7 en l'escala de Mohs (ratlla el vidre i l'acer) i sovint presenta macles. Si es troba formant cristalls idiomòrfics, sovint presenta hàbit prismàtic de base hexagonal; els prismes són acabats en una o dues piràmides (una per cantó).
+
+
+=== Amb microscopi ===
+Llum transmesaQuan s'observa el quars en un microscopi òptic amb llum transmesa, es pot fer de dues maneres diferents: amb llum normal i amb llum polaritzada creuada. Si s'observa amb llum normal el quars apareix incolor (deixa passar la llum); i amb un índex de refracció n = 1,54. Depenent del tipus de roca que analitzem amb el microscopi, els grans de quars presentaran diferent aspecte (idiomòrfics, al·lotriomorfs...). El quars sol presentar un relleu baix en comparació amb els altres minerals. Es poden observar les fractures concoidals però mai l'exfoliació ni les macles. Quan s'observa amb llum polaritzada creuada, el quars presenta colors d'interferència (aquests varien segons el gruix de la làmina). Aquests colors solen ser tons grisos (gris de primer ordre) i blancs (blanc de primer ordre), tot i que també poden ser ocres o pastel. Presenta habitualment una extinció recta (cada 90 graus), tot i que a vegades pot presentar extinció ondulant; en aquest cas, es pot observar com un mateix cristall de quars s'extingeix per zones, és a dir, que primer s'extingeix una zona i després una altra (ho podeu comprovar en el GIF que trobareu en aquesta secció). L'extinció ondulant sovint és indicativa que el mineral ha sofert certa deformació. El quars presenta una birefringència baixa i un caràcter òptic uniaxial positiu (+). Es pot confondre amb altres minerals com la cordierita o els feldespats. De la cordierita es diferencia perquè el quars mai presenta alteració, i la seva superfície és neta, mentre que la de la cordierita no; dels feldespats es diferencia perquè aquests últims, al contrari que el quars, solen presentar zonació, macles i alteracions.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Morfologia ==
+
+
+=== Formes bàsiques ===
+Els cristalls de quars ben formats (idiomòrfics) poden presentar formes diferents segons variïn les seves condicions de formació. Les morfologies sovint poden donar nom a algunes varietats; en aquest apartat s'expliquen algunes de les formes més freqüents i característiques del quars així com el perquè d'aquestes. Per a entendre les formes més complexes del quars és necessari comprendre primer les més bàsiques, ja que a partir de la combinació d'aquestes es formen les altres. Les figures bàsiques a partir de les quals es desenvolupa la morfologia del quars sónː els romboedres positiu i negatiu, el prisma hexagonal, el pinacoide basal, la bipiràmide trigonal, el trapezoedre positiu i el romboedre escarpat (vegeu la taula). Aquestes figures bàsiques es combinen per a donar lloc a la morfologia del cristall, tot formant les cares d'aquest.Els romboedres (tant negatiu com positiu) són presents en la pràctica totalitat dels cristalls de quars; les cares que conformen són anomenades cara r (positiu) i cara z (negatiu). La geometria d'ambdues formes és idèntica, les dues presenten morfologia cúbica, però els angles de les cantonades dels paral·lelepípedes són 85,2° i 94,8° i no pas 90°. Una simple combinació de les dues formes, la positiva i la negativa, genera una figura molt similar a una pirita o galena maclada, tot i que aquesta combinació no genera macles, i en el quars no se n'observen amb aquesta forma. La intersecció dels dos romboedres correspon al volum que aquests dos ocupen, i per tant, si eliminem qualsevol volum que només pertany a un romboedre (que no es troba compartit amb l'altre) observarem una bipiràmide hexagonal.Els cristalls de quars acostumen a desenvolupar-se una mica més ràpid en les cares z que en les cares r. Amb aquesta afirmació caldria pensar que les cares z són més extenses que les r, però és totalment a la inversa. El creixement esdevé perpendicular a les cares, motiu pel qual si una de les cares creix més ràpidament la seva superfície es redueix. Les cares r solen ser més grosses i fins i tot, a vegades, les cares z són absents. La intersecció entre les formes r i z no és sempre una bipiràmide hexagonal però si que sempre presenta simetria trigonal.
+
+En el cas del prisma hexagonal (m), es troba present en la majoria de cristalls de quars que creixen lliurement. Degut al seu patró de creixement característic, els cristalls de quars que es formen en geodes o druses volcàniques sovint no presenten hàbits formats amb prisma hexagonal (no presenten cares m). El prisma hexagonal és una forma que consisteix bàsicament en les parets del prisma, anomenades cares m. Aquestes cares són paral·leles a les parets de la cel·la unitat. Les cares m sovint presenten una estriació horitzontal (perpendicular a l'eix c); aquestes estries conformen una característica important del quars, tot i que no sempre són presents. Les estries no són exclusives del quars, sinó que són presents en molts altres minerals com la pirita o la turmalina. Hi ha certa controvèrsia sobre l'origen d'aquestes estries. Mentre alguns científics defensen que són degudes a alteracions ambientals durant la formació dels cristalls, altres defensen que són degudes a canvis de ritme de creixement de les cares.El pinacoide basal és una forma freqüent en molt minerals, la seva cara corresponent (cara c) és molt rara en el quars. La seva presència sovint s'associa a processos corrosius.La bipiràmide trigonal és una forma remarcable, ja que és una forma constituïda per triangles, tot i que en els cristalls es troba present tot formant rombes perfectes; s'anomena cara s. No és tant freqüent com les cares r, z o m i en alguns ambients de formació mai es manifesta. No s'acostuma a trobar en ametista, quars ferruginós, rosa o lletós. A vegades la cara s només s'observa com una línia prima, com passa amb els diamants d'Herkimer (vegeu l'apartat varietats en aquest mateix article).El trapezoedre és una figura complicada d'entendre a simple vista. Es troba formada per sis quadrangles iguals. El trapezoedre positiu és el que reflecteix les propietats de simetria del quars. La presència d'aquesta forma fa que el quars es trobi dins la classe de cristalls amb simetria trigonal-trapezoèdrica, amb el símbol de Hermann-Maugin 3 2. Les cares que genera es coneixen com a cares x. Les cares x són les millors cares dels cristalls per a poder saber amb certesa si el cristall presenta maclat, és dextre o senestre.El romboedre escarpat és similar als romboedres r i z, però aquest presenta una elongació en l'eix c. Els romboedres escarpats que s'orienten com els romboedres r s'anomenen positius, i els que s'orienten com z s'anomenen negatius. Normalment a les cares que formen no se'ls hi assigna una lletra, a vegades s'anomenen com M o Ψ (psi).
+
+
+=== Hàbit ===
+De la combinació de les diferents formes bàsiques es forma un cristall de quars que presentarà diferents cares com a producte d'aquesta combinació. Depenent de les formes bàsiques que es combinin i de les cares que siguin presents en el cristall, es poden generar diferents hàbits amb diferents simetries. L'hàbit del cristall sol reflectir les condicions de formació d'aquest. Tot i que s'han realitzat diversos estudis al respecte, encara no se sap amb certesa la relació entre l'hàbit dels cristalls i les condicions de formació.
+L'hàbit més freqüent és l'hàbit prismàtic. En aquest cas, els cristalls presenten les cares r i z ben desenvolupades, així com el prisma hexagonal.
+A més a més de l'hàbit prismàtic existeix l'anomenat hàbit trigonal; aquest presenta una simetria rotacional triple. El típic hàbit trigonal es caracteritza per la manca de desenvolupament de les cares z. Per altra banda, l'hàbit hexagonal o pseudohexagonal (pseudo perquè el quars no cristal·litza en el sistema hexagonal) no presenta diferències entre les cares r i z, també presenten un desenvolupament del prisma hexagonal. Aquestes cares m poden estar poc representades, passant a formar així hàbits tipus Cumberland, on les cares m poden arribar a ser-hi absents.
+Aquests hàbits són els més freqüents, però també hi ha de més rars descrits en algunes localitats concretesː l'hàbit de Dauphiné (anomenat per Dauphiné, l'antiga denominació dels Alps a l'altura de Grenoble) presenta les dues cares romboèdriques altament desenvolupades. Aquest hàbit no s'ha de confondre amb les macles de Dauphiné.
+L'hàbit de Tessin es caracteritza per presentar un prisma hexagonal més prim a la punta del cristall i que es va eixamplant conforme ens acostem a la base. El quars que presenta aquest hàbit sol formar-se a temperatures d'uns 500°C, a partir de fluids rics en diòxid de carboni.
+L'hàbit cúbic o pseudocúbic (també dit würfelquarz) presenta un desenvolupament de les cares r i z però absència de cares m. Tot i que un cristall amb aquest hàbit pot semblar cúbic, els seus angles no són rectes (85,2° i 94,8°), per això se sol anomenar pseudocúbic.
+
+
+=== Maclat ===
+La presència de macles és molt freqüent en quars, tot i que sovint poden ser poc visibles i difícils de reconèixer. En el cas del quars les macles més freqûents són des que segueixen la llei de Dauphiné, del Brasil o del Japó. Entre aquestes es poden diferenciar dos grans tipus: les macles amb els eixos cristal·logràfics principals paral·lels i les macles amb els eixos cristal·logràfics principals inclinats.
+
+
+==== Macles amb els eixos cristal·logràfics principals paral·lels ====
+s més freqüents. La majoria dels cristalls, fins i tot si morfològicament no presenten maclat, contenen com a mínim petits dominis de macla. Els dos tipus de maclat poden coexistir en un sol cristall.
+
+Macles amb llei de Dauphiné         Les macles amb llei de Dauphiné, també anomenada llei suïssa o alpina, poden ser interpretats com una fusió de dos cristalls amb la mateixa lateralitat que giren uns 60º al voltant de l'eix c entre si. Són macles de penetració compostes de dominis de macla amb límits irregulars. La mida i la forma dels dominis de macla pot variar, i les proporcions els dominis e macla en un mateix cristall no cal que siguin iguals. El grau d'intercreixement dels dominis pot augmentar durant el creixement, partint de sectors aproximadament triangulars a la base fins a patrons irregulars complexos a la punta del cristall. Els dominis de macla s'observen rarament en cristalls naturals i sovint han de visualitzar-se atacant químicament la superfície o en làmina prima. Els estudis electromicroscòpics revelen que a petita escala els dominis de macla semblen polígons complexos amb límits rectes.Les macles de Dauphiné poden ser reconegudes a vegades per la posició i la disposició de les cares cristal·lines, en particular per les cares x. Com que les cares romboèdriques són compostes de cares r i z, no mostren diferència de mida comuna entre cares i els cristalls assoleixen un hàbit pseudohexagonal.
+Rarament els cristalls amb macles de Dauphiné als quals els manca un tipus de cara romboèdrica (ja sigui r o z) mostren angles reentrants a les puntes que els fa semblar caps de trepant. Les macles de Dauphiné en quars també s'anomenen macles elèctriques, ja que aquest tipus de maclat redueix o elimina la piezoelecricitat típica dels cristalls quars no maclats, mentre que l'òptica no es veu afectada.
+Macles amb llei del BrasilLes macles que segueixen la llei del Brasil, també anomenada llei òptica poden interpretar-se com una fusió d'un cristall amb lateralitat dreta i esquerra. Són macles de penetració compostes per dominis amb lateralitat dreta i esquerra. Els límits de les macles són normalment línies rectes que resulten en un patró característic fet de línies rectes i triangles.  De la mateixa manera que passa amb les macles de Dauphiné, els dominis de maclat no són visibles habitualment i s'han d'observar amb un previ atac químic sobre la superfície del cristall. Els patrons de superfície sobre les cares cristal·lines són poligonals amb contorns rectes, sovint triangulars.
+Força ametistes formen macles polisintètiques segons la llei del Brasil: algunes parts dels cristalls d'ametista, particularment les zones sota les cares romboèdriques es componen de capes alternes de quars amb lateralitat dreta i esquerra. El calibre de capes individuals és, normalment, inferior a 1 mm. L'estructura en capes pot ser visible de manera similar a un patró d'empremta dactilar en les cares romboèdriques.
+Les macles del Brasil sovint s'anomenen macles òptiques ja que aquest maclat sol reduir o fins i tot eliminar l'activitat òptica típica dels cristalls de quars. Les macles del Brasil també redueixen o eliminen la piezoelectricitat del quars.
+Llei combinadaLa llei combinada, també anomenada llei de Liebisch,  llei de Dauphiné-Brasil o llei de Leydolt, no sol observar-se en cristalls de quars, tot i que sí que hi ha indicis microscòpics. Alguns autors no consideren aquesta llei com una llei real de maclat.
+
+
+==== Macles amb els eixos cristal·logràfics principals inclinats ====
+De les macles amb els eixos cristal·logràfics principals inclinats, només el maclat del Japó és freqüent i es troba ben estudiat, mentre que per a la resta a vegades només s'han descrit en un sol espècimen i la llei de maclat és qüestionable.
+
+Llei del JapóLes macles que segueixen la llei del Japó, també anomenada llei de Weiss i llei de La Gardette, són les úniques macles comunes del quars amb els eixos c inclinats. La llei va ser descrita per Weiss en cristalls procedents de La Gardette (França); més tard es va popularitzar el nom de llei del Japó per la gran quantitat d'espècimens que s'hi van trobar. Els eixos c de dos cristalls coincideixen en un angle de 84º33’, amb dues de les cares m d'ambdós cristalls sent paral·leles entre si. Les unions de macles a vegades es veuen irregulars a la superfície del cristall malgrat ser perfectament rectes en el seu interior i formen un pla prim que va des de la base del cristall fins a la indentació en forma d'Y entre les branques. La causa del maclat encara no és coneguda. La majoria de macles del Japó es presenten aixafades i sovint són més grosses que els cristalls sense torsió que les acompanyen.
+
+
+== Estructura cristal·lina ==
+El quars cristal·litza en el sistema trigonal. Els típics cristalls idomòrfics que forma solen presentar prismes de base hexagonal acabats per ambdós extrems amb piràmides de base hexagonal. En la naturalesa, el quars cristal·litza sovint tot formant macles o intercreixements amb altres cristalls de quars adjacents o altres minerals.
+El quars-α cristal·litza en el sistema trigonal, en els grups espacials P3121 i P3221. El quars-β cristal·litza en el sistema hexagonal, en els grups espacials P6222 i P6422.Com qualsevol altre cristall, un cristall de quars és un cos sòlid, amb una estructura interna homogènia i regular. Aquesta estructura es troba construïda per la repetició periòdica d'uns elements bàsics (s'ha d'entendre en aquest context el terme element com a element subjacent i no com a element químic). Aquests elements bàsics poden ser àtoms, molècules, ions, o grups d'aquests elements. Els elements geomètrics que són repetits periòdicament s'anomenen motius. L'element estructural bàsic en el quars no és la molècula de SiO₂, sinó que ho és el tetraedre SiO₄.
+Cada grup de tetraedres de SiO₄ es troba connectat per dos grups veïns que es troben per sobre i per sota del grup de tetraedres inicials, d'aquesta manera, el motiu es repeteix verticalment i forma columnes (cadenes). Aquestes cadenes de tetraedres de SiO₄ recorren el cristall paral·lelament a l'eix c; així doncs, un cristall de quars pot ésser considerat com un feix d'aquestes cadenes. Els àtoms de silici que es troben al mig dels tetraedres ocupen llocs en plans horitzontals. Les cadenes de tetraedres presenten una curvatura al voltant de l'eix i conformen una espècie d'hèlix. Fer un gir complet al voltant de l'eix comporta tres passos més un, on aquest últim pas (el quart) presenta la mateixa posició angular que el primer pas (triple hèlix).Una característica distintiva de l'estructura cristal·lina del quars és la presència de canals que es distribueixen al llarg de l'eix c. Aquests canals són importants perquè presenten suficient amplada per a albergar a petits cations. L'estructura que formen els tetraedres és un anell amb el centre hexagonal.Resumint, es pot considerar que el quars:
+És un mineral que cristal·litza en el sistema trigonal.
+Presenta una simetria rotacional triple al voltant de l'eix c.
+Presenta una simetria rotacional doble al voltant de l'eix a.
+No presenta simetria en cap cas per plans de reflexió.Difracció de raigs XQuan se sotmet el quars a difracció de raigs X s'obtenen fins a set pics de diferents intensitats:
+
+
+=== Cel·la Unitat ===
+En qualsevol cristall (no només els cristalls de quars) les molècules i els àtoms es distribueixen en xarxes regulars. La morfologia del cristall es basa principalment en aquest enreixat que està format per una repetició periòdica dels motius. Generalment és molt complicat trobar la relació entre la geometria dels motius i la del cristall. És per això que en cristal·lografia se sol emprar un altre mètode: a partir de la cel·la unitat. La cel·la unitat és la fracció espacial més petita d'un cristall que presenta totes les propietats de simetria d'aquest. En el cas del quars, les dimensions de la cel·la unitat són de 4,9133 Å per a l'eix a i 5,4053 Å per a l'eix c (amb un ratio c : a = 1,10013 : 1). Quan es donen els valors de les dimensions de la cel·la unitat, també és habitual donar el valor de Z; Z és el nombre d'unitats de fórmula que es troben a la cel·la unitat. En el cas del quars, la Z = 3; és a dir, que dins de la cel·la hi ha tres unitats de fórmula (Si₃O₆ (3·SiO₂)).
+
+
+== Propietats ==
+
+
+=== Color ===
+El quars pot presentar una àmplia gamma de colors. Habitualment apareix amb coloracions marrons, negres, incolores, verdes, liles, blanques, grogues o taronges. Aquests colors els obté majoritàriament pels canvis en la seva composició química. El color lila (con en el cas de l'ametista), s'obté al substituir-se l'O₂ per Fe4+, pel procés conegut com a intercanvi de càrregues, degut a la irradiació. El color blau es dona com a conseqüència d'inclusions sòlides blaves de dumortierita o turmalina. El color verd (com en el cas de la prasiolita), és sovint una conseqüència de la presència de Fe2+; mentre que el color verd tipus aventurina és una conseqüència directa d'inclusions sòlides de fucsita (una mica rica en crom). El color groc verdós es produeix per la presència de centres de color. Els colors grocs i taronges (com en el cas del citrí) es donen per intercanvi de càrregues entre O₂ i Fe3+ i per la presència de centres de color relacionats amb la presència d'Al3+. El color gris (com en el quars fumat) apareix per l'existència de centres de color relacionats amb la presència d'Al3+. Els espècimens roses (quars rosa) presenten aquesta coloració com a conseqüència d'un intercanvi de càrregues de Ti4+ substitucional i Ti3+ intersticial; també hi intervenen àtoms d'alumini i fòsfor. El color rosa també pot ésser conseqüència d'inclusions sòlides de dumortierita. El color blanc (quars lletós) és produït per inclusions més grans que les longituds d'ona de la llum visible.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Propietats químiques ===
+El quars és un compost químic format per una part de silici i dues parts d'oxigen, és a dir, format per diòxid de silici (SiO₂). La seva composició química va ser descoberta pel químic suec Jöns Jakob Berzelius l'any 1823. El diòxid de silici s'anomena també de manera freqüent "sílice". El quars presenta una densitat relativament lleugera (2,328 g/cm³).
+
+Reaccions químiquesA temperatura ambient, el quars és un mineral inert, és a dir, no reacciona amb la gran majoria de compostos que l'envolten. A temperatures moderadament elevades, el quars segueix sent un mineral estable. És per aquesta raó que els vidres de quars són àmpliament utilitzats per a estris de laboratori (provetes, tubs d'assaig…). La raó per aquesta estabilitat i baixa reactivitat és el fort enllaç químic entre l'oxigen i el silici, però també la seva estructura macromolecular.
+El quars sol presentar resistència als atacs àcids; a exepció de l'àcid fluorhídric (HF), el qual descompon el quars en tetrafluorur de silici (SiF₄) i àcid hidrofluorsilícic ((H₃O)₂SiF₆) tot seguint la següent reacció: SiO₂ + 6HF → H₂SiF₆ + 2H₂O. El quars també és atacat per substàncies alcalines (com ara l'hidròxid de potassi; KOH). El quars es dissol lentament en aigües alcalines a elevades temperatura, mentre que la sílice amorfa ho fa a temperatura ambient: SiO₂ + 2KOH → K₂SiO₃ + H₂O. El quars també es dissol en Na₂CO₃ o K₂CO₃ per a formar silicats: SiO₂ + K₂CO₃ → K₂SiO₃ + CO₂.
+A elevades temperatures i en diversos ambients geològics, el quars actua com un àcid i reacciona amb molt minerals alcalins. Un exemple típic és la formació de la wol·lastonita (Ca₃Si₃O9) a partir del quars i la calcita en ambients geològics de metamorfisme de contacte a temperatures de més de 600°C: 3SiO₂ + 3CaCO₃ → Ca₃Si₃O9 + 3CO2.
+SolubilitatLa solubilitat de la sílice en aigua és altament dependent de la temperatura, la pressió i la superfície. A la següent taula es presenten els valors de solubilitat per a condicions de temperatura i pressió atmosfèrica:
+
+A temperatura ambient el quars és pràcticament insoluble en aigua. L'aigua de l'aixeta es troba normalment saturada en sílice dissolta, i és per això que el procés de dissolució és molt lent. Tot i això, la dissolució de la sílice en el sòcol i els sòls té un important rol en climes humits. Al voltant dels 100°C i altes pressions, la solubilitat del quars augmenta ràpidament. A 300 °C la solubilitat adquireix valors entre 700 i 1200 mg/l (depenent de la pressió). El quars es dissol en aigua tot formant àcid ortosilícic (H₄SiO₄): SiO₂ + 2H₂O → H₄SiO₄
+
+
+=== Propietats mecàniques ===
+És un mineral de gran duresa, 7 a l'escala de Mohs per a espècimens macrocristal·lins i entre 6,5 i 7 per a masses criptocristal·lines, capaç de ratllar l'acer. És un polimorf de la coesita, la cristobalita, la moganita, la seifertita, la stishovita i la tridimita, i isoestructural amb la berlinita. Presenta una fractura concoidal amb certa tendència a trencar-se en plans romboèdrics. La seva tenacitat és fràgil. La duresa de Vickers és d'aproximadament 1182 kg/mm² per a espècimens macrocristal·lins. El seu pes específic és de 2,6481 g/cm³. El punt de fusió del quars es troba a 1705°C i bull a partir dels 2477 °C.
+
+
+=== Propietats òptiques ===
+El quars cristal·litza en el sistema hexagonal (trigonal) a partir de magma àcid. Aquesta forma natural de diòxid de silici es troba en una impressionant gamma de varietats i colors. El quars és incolor si es troba pur (sense impureses de cap mena); en el cas de presentar impureses, aquestes determinaran el color del quars. Presenta una ratlla blanca sempre que no hi hagi cap impuresa que faci variar aquesta propietat (per exemple, en el jaspi vermell, la ratlla és de color salmó). La seva lluïssor és vítria en cristalls grans, mentre que en masses criptocristal·lines és cerosa o terrosa; en cas de polir la massa criptocristal·lina, la lluïssor és vítria. Sobre les superfícies de fractura, la lluïssor a vegades pot ser greixosa o cerosa. Presenta una gran transparència quan no presenta impureses; si en presenta pot presentar diferents graus de diafanitat (des de totalment transparent a opaca). Quan és transparent, no només ho és per la llum visible, sinó que també ho és per la radiació ultraviolada d'ona llarga. En cap cas presenta fluorescència sota llum ultraviolada. Presenta uns índex de refracció de no=1,54422 i ne=1,55332 i una dispersió de 0,0091. La birefringència és de +0.00910, tot i que disminueix per a masses criptocristal·lines. No presenta pleocroisme en estat pur, tot i que el quars fumat, l'ametista i algunes varietats de citrí poden presentar un dicroïsme dèbil.
+
+
+=== Propietats piezoelèctriques ===
+El quars és un material macromolecular que està constituït per una xarxa de tetraedres de SiO₄; en un enllaç Si-O, els electrons presenten una afinitat major per l'oxigen, degut a la seva electronegativitat més elevada (enllaç polar). Per tant l'oxigen es troba negativament carregat mentre que el silici es troba carregat positivament (cal tenir en compte que el cristall en si presenta equilibri de càrregues). Quan el quars se sotmet a un esforç mecànic, es produeix una separació de càrregues elèctriques (un desplaçament elèctric). Els àtoms de silici carregats positivament són allunyats de la seva posició central i l'estructura sencera es torna elèctricament polaritzada; si es reverteix el sentit de les forces, el silici torna al seu lloc central, i es produeix una polarització inversa. En aquest cas, tots els tetraedres de SiO₄ es polaritzen de la mateixa manera. El voltatge produït en cada tetraedre és molt petit, però en el cas d'un cristall de quars, el nombre de tetraedres és molt elevat, i per tant el voltatge que en resulta de la suma de tots és rellevant. De manera recíproca, el quars reacciona mecànicament quan se sotmet a un cert voltatge.
+Aquest efecte el converteix en un element de gran utilitat per a gran varietat de transductors, des d'encenedors fins a altaveus o micròfons. Aquesta reciprocitat permet usar-lo per construir altaveus per freqüències sonores altes, és a dir, si apliquem un camp elèctric variable, mitjançant un corrent elèctric altern sobre les cares oposades d'un cristall de quars, aquest vibra amb la mateixa freqüència del corrent. Aquest mateix principi és aprofitat per construir rellotges de quars.
+
+
+=== Ressonància ===
+Una altra característica interessant d'un cristall de quars és que pot presentar un comportament ressonant. De la mateixa manera que un pèndol o un gronxador oscil·la a una freqüència pròpia, si després de donar-li impuls, se li deixa moure's lliurement, un cristall de quars sotmès a un estímul elèctric pot continuar vibrant a una certa freqüència (depenent de la mateixa naturalesa del cristall) fins a perdre aquest impuls inicial. Si es manté l'estímul de manera periòdica i sincronitzada, tindrem un senyal a una freqüència extraordinàriament precisa... en el que podria considerar-se la contrapartida electrònica d'un rellotge de pèndol. Aquesta aplicació és comuna en tota mena de sistemes electrònics com a rellotges, microprocessadors, oscil·ladors, etc.
+
+
+=== Termoluminescència ===
+La termoluminescència és la capacitat d'emetre llum quan és escalfat. Els raigs còsmics procedents de l'espai produeixen canvis en l'estructura cristal·lina del quars que s'acumulen amb el temps. Quan s'escalfa el quars, l'estructura torna a la normalitat, emetent llum. Com més temps ha estat radiat, més llum emet el quars. En mesurar les longituds d'ona, i comparar-les amb elements ja datats, es pot obtenir el temps que ha estat exposat a la intempèrie. La tècnica arqueològica de datar quars se li denomina datació amb termoluminescència.
+
+
+=== Triboluminiscència ===
+La triboluminiscència és la capacitat d'un material d'emetre llum quan és sotmès a deformació o fractura, ja sigui per via mecànica o tèrmica. El quars, com molts altres minerals presenta aquesta propietat; en aquest cas concret, presenta triboluminiscència quan és deformat o fracturat mecànicament.
+
+
+=== Propietats abrasives ===
+S'utilitza com abrasiu degut a la seva duresa elevada; es comercialitza sota el nom de sorra silícia, i es considera l'abrasiu més usat pel seu baix preu. S'empra en la fabricació de paper de vidre, discos o blocs, i, principalment, en sistemes d'abrasió per mitjà d'un raig de sorra a pressió.
+
+
+== Minerals relacionats ==
+Els minerals relacionats amb el quars per la seva estructura o composició química semblant són:
+
+
+== Formació i el quars com a formador de roques ==
+El quars es pot formar en diversos contexts i ambients geològics, sovint la seva aparença reflecteix les condicions sota les quals s'ha format. Algunes zones de la superfície terrestre es troben literalment cobertes per quars,com ara alguns deserts formats per sorres principalment quarsítiques; el quars, junt amb la calcita i la dolomita és un dels pocs minerals que forma roques gairebé formades exclusivament per ell. L'escorça terrestre presenta un 12% de quars, la majoria del qual es troba a l'escorça continental, generalment constituïda de roques plutòniques. El mantell i el nucli terrestre presenten absència de quars.
+
+
+=== Roques ígnies ===
+
+
+==== Plutòniques ====
+El quars és un constituent essencial de les roques ígnies plutòniques àcides (amb més d'un 66% de sílice) i intermèdies (entre un 53 i un 66% de sílice). El quars es troba en roques plutòniques formant normalment cristalls que solen omplir les vacants entre la resta de cristalls; generalment associat a feldespats (tant potàssics com sòdics), i en menor mesura a miques (biotita i moscovita generalment) i amfíbols (principalment hornblenda). Les roques plutòniques àcides i intermèdies, com totes les roques plutòniques, es formen a partir de la cristal·lització d'un magma a conseqüència del refredament a grans profunditats. Segons la sèrie de Bowen el quars és dels últims minerals en cristal·litzar, i per això s'adapta a l'espai que li deixen la resta de minerals que cristal·litzen abans que ell.
+A continuació s'enumeren les roques plutòniques amb presència de quars; entre parèntesis s'hi troba el percentatge de quars que pot contenir cada roca:
+
+
+==== Volcàniques ====
+El quars és un constituent important de moltes roques ígnies volcàniques àcides (amb més d'un 66% de sílice) i intermèdies (entre un 53 i un 66% de sílice). El quars es troba de diferent manera segons la textura que presenti la roca; aquesta textura ve donada generalment per la velocitat de refredament del magma. En el cas que la roca presenti una textura afanítica, els cristalls de quars no seran visibles a ull nu (cristalls microscòpics o criptocristal·lins). En el cas que la textura sigui fanerítica el quars es trobarà com a cristall observable a ull nu (fanerocristalls). En el cas de presentar una textura porfírica, el quars es trobarà com a mineral microcristal·lí inclòs a la matriu que envolta els cristalls més grossos (fenocristalls) i idiomòrfics. A continuació s'enumeren les roques volcàniques amb presència de quars; entre parèntesis s'hi troba el percentatge de quars que pot contenir cada roca:
+
+
+==== Hipabissals ====
+Les roques hipabissals es formen a partir d'un magma que cristal·litza a poca profunditat sense sortir a la superfície. Per tant, les roques hipabissals presentaran el mateix contingut de quars que presentin els seus anàlegs plutònics i volcànics.
+
+
+=== Roques sedimentàries ===
+
+
+==== Roques detrítiques ====
+Per definició, una roca detrítica és una roca formada a partir de fragments d'altres roques; per tant qualsevol roca d'origen detrític pot contenir quars en diferents quantitats. Depenent del tipus de roca el quars es podrà trobar de diferents maneres. En el cas de les roques de mides de gra grolleres com en el cas dels conglomerats o les bretxes, el quars es pot presentar com a còdol o clast amb mides superiors als 2 mm (en el cas de les bretxes de formes anguloses i en el cas dels conglomerats amb formes arrodonides); també es pot presentar a la matriu d'aquestes roques, en cristalls individuals de totes mides, generalment sense hàbits cristal·lins a conseqüència de l'erosió. En molts casos aquests còdols són retreballaments d'altres roques sedimentàries com ara gresos que també contenen quars.
+En el cas de les roques detrítiques de gra mitjà, com ara els gresos, el quars es troba en partícules que oscil·len entre els 1/16 i 2 mm; els gresos poden estar formats per diferents minerals a més a més del quars, quan el gres es troba format per més d'un 90% de quars se'l pot anomenar quarsita (no confondre amb la roca metamòrfica que duu el mateix nom). Finalment en el cas de les roques de gra fi com les lutites, el quars es troba en forma de partícules fines (amb mides inferiors als 1/16 mm). A continuació s'enumeren les roques sedimentàries detrítiques amb presència de quars; les quantitats de quars en cada roca depenen de la seva tipologia:
+
+
+===== Sediments detrítics no consolidats =====
+El quars també es pot trobar en sediments detrítics no consolidats; aquest tipus de sediments es formen a conseqüència de l'erosió de les roques preexistents a la superfície de la Terra; un cop consolidats, aquests sediments es transformen en roques detrítiques. En aquest cas el quars es pot trobar en dipòsits de graves, còdols, lutites i sorres.
+
+
+=== Roques metamòrfiques ===
+El paper que juga el quars a les roques metamòrfiques és complex. Les roques metamòrfiques són roques formades a partir d'un metamorfisme (un augment de pressió o temperatura, o ambdós) que afecta a roques preexistents. Aquestes roques preexistents poden ser tant roques sedimentàries, roques volcàniques o roques metamòrfiques que ja han estat metamorfitzades anteriorment. El contingut de quars d'una roca metamòrfica ve determinat pel contingut en quars de la roca preexistent, però no sempre és el mateix. Els processos metamòrfics poden fer variar el contingut de quars; un exemple és la reacció que es dona a 450°C, on el quars reacciona amb la calcita per a formar wol·lastonita, una reacció típica en skarns, roques metamòrfiques formades a partir d'un metamorfisme de contacte entre un cos intrusiu i un cos carbonatat: 3SiO₂ (quars) + 3CaCO₃ (calcita) → Ca₃Si₃O9 (wol·lastonita) + 3CO₂ (diòxid de carboni)
+
+
+=== Formació per hidrotermalisme ===
+El quars es presenta en vetes hidrotermals, com gangues juntament amb els minerals de mena. Es poden trobar grans cristalls de quars en pegmatites. Es poden arribar a trobar cristalls ben formats que poden arribar a diversos metres de longitud i pesar centenars de quilos. Les cristal·lizacions en una cavitat s'anomenen geodes, i si es troba sobre una superfície plana o convexa s'anomena drusa.
+
+
+== Dipòsits, jaciments i localització ==
+El quars és un dels minerals més freqüents de l'escorça terrestre; aproximadament el 12% del material de l'escorça és quars. Això implica que el nombre de localitats on s'ha descrit el quars augmenti molt en nombre. Segons algunes bases de dades el quars ha estat descrit en 64.440 localitats diferents. Degut a la impossibilitat de plasmar totes les localitats en aquest article, a continuació s'enumeren els jaciments més rellevants dels territoris de parla catalana i del conjunt del món.
+
+
+=== El quars als territoris de parla catalana ===
+Es poden trobar cristalls de quars arreu de la geografia dels països de parla catalana.
+
+L'AlguerA l'Alguer s'ha descrit quars en diferents mines del seu terme municipal. En les mines Calabona i a Punta de Libezzu s'han descrit espècimens de quars cristal·lí; mentre que a L'Esperança s'hi ha descrit calcedònia.
+AndorraLa geologia d'Andorra és rica en roques metamòrfiques paleozoiques i prepaleozoiques (Precambrià). El quars és present en moltes d'aquestes roques com ara els gneis de l'Ospitalet (Vall de Ransol i d'Incles) i els gneis blancs.També hi ha quarsites, gresos i conglomerats (Cambro-ordovicià) amb presència de quars. El quars també apareix a les quarsites de la Formació de Cava i a la quarsita de Bar. L'acció dels rius que erosionen les roques presents a les cotes més elevades, fa que també es pugui trobar quars en materials al·luvials quaternaris. Tot i això, a Andorra només s'ha descrit la presència de quars en un complex miner, associat a siderita i limonita; concretament a la mina Ransol.
+CatalunyaA Catalunya hi destaquen les pegmatites i els granits alterats que es troben a la pedrera Mas Cebé, coneguda popularment com a "Massabé" (Sils), a la pedrera de Can Súria (Maçanet de la Selva), i a les obres de l'AVE Barcelona-França que es van fer fins al 2008 a Riudarenes; totes tres poblacions a la comarca de La Selva (Girona). A Mas Server (Girona) s'hi troba tant quars lletós com ametista. També es troben jaciments a la zona de Llavorsí, o al massís del Montseny, on sol aparèixer la varietat ametista; concretament a les mines de St. Marçal (Viladrau). Finalment es pot destacar el jaspi de Montjuïc, Barcelona, ja explotat per ibers i romans. A Catalunya el quars també és conegut com a pedra foguera, perquè pot produir espurnes de foc en ser colpejada amb altres objectes. Generalment, la majoria d'informació descrita i publicada que ens arriba sobre el quars a Catalunya és sobre mines o pedreres; això és degut al fet que la majoria d'estudis es realitzen amb objectius econòmics, i, per tant es realitzen en el llocs susceptibles d'explotació. A continuació s'enumeren les mines i pedreres més rellevants on s'ha descrit la presència de quars a Catalunya. Aquest llistat és només orientatiu, i en cap cas descriu la totalitat de mines on s'ha descrit el quars, sinó les més rellevants.
+
+Per altra banda, el quars també s'ha descrit en altres indrets que no formen part de cap complex miner, com ara espais naturals, camins o afloraments. A continuació s'hi troba un llistat no exhaustiu d'aquestes localitats:
+
+Franja de PonentA la Franja de Ponent el quars es pot trobar en materials al·luvials transportats pels rius, i en alguns punts de muntanya. Tot i això, no existeixen cites que facin una descripció detallada del quars a la zona.
+
+Illes BalearsTant a Mallorca, Menorca, Eivissa i Formentera, presenten una predominància de roques carbonatades o de caràcter argilós; aquesta tipologia de roques arriben a ocupar més del 98 per cent de la superfície d'algunes de les illes, deixant el percentatge restant a les quarsoarenites, algunes roques volcàniques i les lutites vermelles. És en aquestes últimes litologies on es troba una major concentració de quars, sobretot en les quarsoarenites. El fet que no existeixin gaires roques riques en quars que aflorin a les diferents illes, condiciona que les localitats o punts on s'hagi descrit quars sigui majoritàriament explotacions mineres o coves. D'aquest tipus de dipòsits, destaquen els filons de quars associats a mineralització de coure de Sa Mitjalluna, a l'Illa d'en Colom (Menorca), que van ser explotades durant el calcolític. A Mallorca també s'ha descrit quars a la cova de les Rates Pinyades i a la cova Guitarreta.
+País ValenciàAl País Valencià cal destacar els cristalls idiomòrfics de quars fumat que es troben a les proximitats de Nàquera. També són rellevants els jacints de Compostel·la que es troben en diverses formacions geològiques del Triàsic valencià junt amb altres tipologies de quars com ara el quars fumat o el cristall de roca. Bons exemples de localitats on apareixen jacints de Compostel·la són: El Pinós i Orxeta (Alacant); el Mont Preubas (Castelló) i Montroi, Requena, l'Olleria, Torís i Xestalgar (València). A Altura (Castelló) s'hi troba quars blau. A continuació s'enumeren les mines i pedreres més rellevants on s'ha descrit la presència de quars al País Valencià. Aquest llistat és només orientatiu, i en cap cas descriu la totalitat de mines on s'ha descrit el quars, sinó les més rellevants.
+
+Per altra banda, el quars també s'ha descrit en altres indrets que no formen part de cap complex miner, com ara espais naturals, camins, afloraments o talls en carreteres. A continuació s'hi troba un llistat no exhaustiu d'aquestes localitats:
+
+Parçans occitans integrats administrativament en algun territori de parla catalana: Fenolleda i Vall d'AranA la Vall d'Aran s'han descrit espècimens de quars a la mina Solitària i la mina Victòria (Arres); les mines Sa Plan (Bausen); la mina Margalida (Bòssost); la pedrera d'Eriasa (Les); les mines Forcall, Montoliu i Reparadora (Naut Aran) i les mines Liat (Vielha e Mijaran). A la Fenolleda s'ha descrit el quars a Sant Pau de Fenollet.
+
+
+=== El quars a la resta del món ===
+A la resta del món hi ha certes localitats que destaquen principalment per la seva rellevància en el món de la gemmologia; algunes d'aquestes localitats són:
+Maquar, a la Província de Ghazni (Afganistan), coneguda per les ametistes que s'hi troben. També les mines de Anahi, Ayoreita i Pobre, a la Província de Sandoval i el Rincón del Tigre, al Departament de Santa Cruz (Bolívia); en aquest cas també es tracta d'exemplars d'ametista. Brasil és conegut pels seus exemplars de geodes d'ametista i també exemplars de quars rosa. A Brejinho das Ametistas (Bahia), com el seu nom indica, s'hi troben ametistes, així com a Ametista do Sul, Planalto, Erechim, Palmeira das Missões, Bela Vista, Salto do Jacuí (Rio Grande do Sul) i la mina Cacharai (Rondonia). Les varietats amb més renom de quars rosa es troben a la mina Sapucaia (Minas Gerais); mentre que el citrí es troba a la pegmatita de Seridozinho (Paraíba) i a la mina Sapo (Minas Gerais). Al Sud-est Asiàtic hi ha mines importants a Birmània (citrí, crisoprasi, quars fumat, ametista i cristall de roca) i Cambodja (ametista). Al Canadà destaquen la mina de gemmes (Gem Mine) i la mina d'ametista de Thunder Bay (ambdues a Ontàrio), rellevants pels seus exemplars d'ametista. A la República Txeca destaquen els exemplars de jaspi de Doubravice a Bohèmia. A l'Índia destaquen les ametistes i els quars iris de Madhya Pradesh. A Kenya s'hi troben les ametistes de la mina Baobab (província Oriental). A Madagascar, la majoria d'exemplars es troben en pegmatites; es troben espècimens rellevants d'ametista, quars rosa, citrí, quars fumat i jaspi a les províncies de Toamasina, Mahajanga, Fianarantsoa, Antsiranana i Antananarivo. A Mèxic hi destaquen les ametistes de la mina Amatitlán (Guerrero) i al Marroc el jaspi d'Aouli (província de Khénifra). Moçambic destaca pels seus exemplars de quars rosa localitzats a la mina Morrua i la pegmatita de Nacuissupa (província de Zambezia). Namíbia també destaca per les ametistes, que es troben a la mina Platveld, a la regió d'Orongo. Dels Països Baixos, se'n poden destacar els exemplars de jaspi del riu IJssel (Gelderland), mentre que a Nigèria hi destaquen les ametistes de Jalingo, a l'estat de Taraba. Al Perú hi ha força jaciments de varietats de la calcedònia (crisocol·la, àgata i jaspi): departaments de Pasco, Lima, La Libertad, Ica, Junín, Huánuco, Huancavelica i Arequipa; mentre que al departament d'Ancash s'hi troba ametista. A Polònia s'hi troben exemplars de crisoprasi (a Silèsia) i a Portugal exemplars de jaspi a la mina Balança (Beja). A Rússia s'han descrit ametistes a la regió de l'est de Sibèria, a la regió del Llunyà Oest, a la regió del Nord i als Urals; en aquesta última localitat també s'hi ha descrit jaspi. A Corea s'hi ha descrit ametista a Eonyang (Corea del Sud). A Sri Lanka destaquen les ametistes i la calcedònia de la província de Sabaragamuwa. Del Regne Unit, es pot destacar l'àgata i el quars fumat descrits a Escòcia; mentre que d'Uruguai es poden destacar les geodes d'ametista de Santa Ana (Departament d'Artigas). Finalment, als Estats Units s'hi troben importants jaciments de xilòpal (Petrified Forest, Arizona) i mina Plantació Maragda (Nevada)); d'ametista (Arizona i Geòrgia) i d'altres varietats de calcedònia (Califòrnia, Minnesota, Montana, Carolina del Nord i Utah). També se n'ha trobat quars a l'Antàrtida.
+Galeria de localitzacions
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Quars en meteorits ===
+El quars és un mineral menor o rar en qualsevol tipus de meteorit i no se n'ha trobat en els tipus més comuns. No hi ha cap mena de meteorit en què el quars es pugui observar de manera evident sense l'ajuda d'un microscopi petrogràfic i una secció petrogràfica prima; si es pot veure el quars a simple vista, la roca no és un meteorit. Rubin només el menciona en condrites enstatita, eucrites i shergottites basàltiques, tots ells tipus de meteorits rars: menys de l'1% de tots els meteorits coneguts són condrites enstatita, i menys d'un 1% són eucrites. Les condrites enstatita i les eucrites contenen petites quantitats (un petit percentatge, com a màxim) de sílice lliure (tridimita, cristobalita i quars), i a les shergottites és un mineral accessori (<1% del volum). Algunes acondrites contenen restes de polimorfs de sílice, tridimita i cristobalita.Alguns dels meteorits trobats a la Terra on el quars ha estat identificat són el meteorit Grant i el St. Mark's. A la zona d'allunatge de l'Apollo 15, l'any 1971, es va descobrir el meteorit Hadley Rille (el segon meteorit en ser descobert en un cos del sistema solar diferent a la Terra) el qual també contenia quars.
+
+
+== Varietats ==
+Les varietats més conegudes de quars inclouen la citrina, el quars rosa, l'ametista, el quars fumat, la calcedònia, l'àgata o el jaspi.
+La distinció més important entre els diferents tipus de quars la tenim entre les varietats macrocristal·lines (cristalls visibles a simple vista) i les varietats microcristal·lines o criptocristal·lina (agregats de cristalls visibles només amb l'ús del microscopi electrònic). Les varietats criptocristal·lines acostumen a ser translúcides o opaques en la seva majoria, mentre que les varietats més transparents tendeixen a ser les macrocristal·lines.
+
+
+=== Varietats macrocristal·lines ===
+Cristall de rocaEl quars en estat pur i sense impureses es denomina cristall de roca o "quars hialí". És totalment incolor, ja que no té impureses o inclusions que afectin la seva transparència, i és transparent o translúcid. El seu índex de refracció dicroica és extremadament baix amb una doble refringència orientada per un eix únic, el que ho fa un excel·lent conductor i canalitzador d'ones lumíniques. Es troba en regions muntanyoses i zones al·luvials de tot el món. S'aprofita la seva estabilitat molecular per controlar l'exactitud de circuits electrònics a causa del seu comportament ressonant. Els còdols brasilers són una subvarietat del cristall de roca. El nom es refereix al quars del Brasil en forma de còdol que s'utilitza per a fer esferes ornamentals.
+Quars fumatEl quars fumat és un tipus grisós de quars, generalment translúcid. Es poden trobar quarsos fumats amb tonalitats des de la transparència gairebé completa fins a un vidre de color marró-gris que és gairebé opac. La varietat de quars fumat que és de color completament negre rep el nom, a Espanya, de quars morió.
+AmetistaL'ametista és una forma de quars que va des d'un color porpra fosc a violeta claret. S'utilitza sovint en joieria. El nom prové del grec ἀ a-("no") i methustos μέθυστος ("intoxicat"), una referència a la creença que la pedra protegia al seu amo d'embriaguesa. Els antics grecs i romans usaven recipients d'ametista per a beure creient que això evitaria la intoxicació alcohòlica. L'ametista cremada i el cabell d'ametista són dues varietats de quars ametista. La primera (de l'anglès: Burnt Amethist) és una varietat d'ametista que degut a un escalfament presenta una coloració taronja, groga o fins i tot marró, que molts cops és confosa erròniament amb el quars citrí. La segona és una varietat caracteritzada per la formació de cristalls aciculars.
+CitrinaLa citrina, o quars citrí, és una varietat de quars el color del qual varia des de groc pàl·lid fins al marró. El nom es deriva del llatí citrina que significa "groc" i que també és l'origen de la paraula "llimona". El citrí natural són rars, té impureses fèrriques i rares vegades es troba en forma natural. La majoria dels citrins que es troben a les botigues són en realitat ametistes o quars fumats tractats a grans temperatures per canviar-los el color. Brasil és el principal productor de citrí, i la major part de la seva producció ve de l'estat de Rio Grande do Sul De vegades, el quars citrí i l'ametista es troben junts en el mateix vidre, reben llavors el nom d'ametrina.
+Quars rosaEl quars rosa és un tipus de quars amb una tonalitat que va des del rosa pàl·lid fins al rosa fosc, gairebé vermell. El color és generalment causat per les quantitats de titani, de ferro o manganès que es pot trobar en el material massiu. Alguns quars rosa conté agulles de rútil microscòpiques. Recents estudis de raigs X de difracció suggereixen que el color es deu a primes fibres microscòpiques de dumortierita possiblement dins del quars massiu. Rarament es troba en forma de cristall, i quan això passa es creu que el color és causat per traces de fosfat o d'alumini. Els primers cristalls van ser trobats en una pegmatita a prop de Rumford, (Maine, Estats Units), però la majoria dels vidres al mercat provenen de Mines Gerais, al Brasil.
+Altres varietats segons el seu colorEl jacint de Compostel·la, també anomenat quars hematoide, és una varietat de quars de color vermell i opac, format a partir de la formació d'argiles i guixos del Keuper (Triàsic superior). La majoria dels autors coincideixen que el nom prodeceix de la costum dels peregrins a portar-lo al camí de Sant Jaume, uns els recollien durant el trajecte i altres els duien des de les seves localitats d'origen. Aquesta varietat de quars es troba molt estesa en el Triàsic del País Valencià i al Triàsic del sud de Catalunya, així com a la resta del Triàsic d'Europa; també es pot trobar en roques sedimentàries més modernes degut a l'erosió i posterior deposició dels materials del Keuper. El seu color vermell és degut a inclusions sòlides d'hematites.L'ametrina és una varietat de quars fruit de la combinació de les paraules ametista i citrina, ja que aquesta varietat presenta una alternança de colors, amb sectors on predomina el lila i sectors amb predominància del taronja o groc. Les seccions de diferents colors solen tallar-se perpendicularment en l'eix c del cristall, com si fos un molí. Els sectors de color lila estan situats sota les cares romboèdriques positives (r), mentre que els taronges es troben a les negatives (z). Mentre que les seccions liles estan formades per ametista, les taronges no estan formades per citrí, ja que la coloració la reben per inclusions de compostos de ferro, i per tant es podria dir que estan formades per quars ferruginós.El quars blau és una varietat macrocristal·lina del quars. Pot ser opac o translúcid, i es caracteritza per ser de color blau. Aquest color és generat per les inclusions sòlides d'alguns minerals fibrosos com ara la magnesioriebeckita i la crocidolita. El terme quars blau també pot ser utilitzat per algunes quarsites massives amb inclusions de minerals blaus.El quars prasi, també anomenat prasiolita, prasi o quars verd, és una forma verda de quars. És una varietat rara a la natura, i es troba en pocs jaciments arreu del món. La majoria de peces s'utilitzen en la confecció de joies. Es troben al mercat quars verds que en realitat són ametistes tractades amb calor per fer canviar el seu color. El quars prasi que envolta malaquita es coneix com a prasio-malaquita. És molt semblant al prasi i a la calcedònia plasma. No s'ha de confondre amb la prasolita, una varietat del grup de la clorita. En alguns casos el prasi pot ser dicròmica: blau-verd o verd oliva/verd.El quars lletós és una varietat de quars opac (o semitransparent) i de color blanc.El quars ferruginós és una varietat de quars de color vermell, marró o groc amb inclusions de limonita o hematites, normalment massiu i opac.L'ull de tigre és una pedra preciosa amb chatoyància. És una roca metamòrfica d'un color daurat a vermell-marró, amb una lluentor sedosa. Una varietat d'incompleta silicificació blava s'anomena "ull de falcó". És una barreja de limonita, quars i riebeckita.El quars brau (de l'anglès, Bull Quartz) és una varietat de quars massiva que presenta un aspecte lletós de color blanc que pot arribar a tonalitats grises.La cotterita és una varietat de quars, anomenada així en honor de la seva descobridora: Miss Cotter. Aquesta varietat presenta una lluïssor nacrada-metàl·lica que se sobreposa als cristalls de quars preexistents. Va ser descrita originalment al Bosc de Roca, Irlanda.El quars iridescent és una varietat de quars cristal·lí. La principal característica d'aquesta varietat són les iridiscències de colors que presenta principalment a les cares romboèdriques. Aquesta varietat es dona en cristalls incolors normalment, que se solen trobar en porositat en basalts o altres roques. Alguns sinònims són: anandalita, quars aurora, quars iris o quars arc de Sant Martí.El quars lític és una varietat de quars cristal·lí de color rosa/lila, de translúcid a opac. Sol contenir inclusions sòlides de minerals rics en liti com ara lepidolita.
+Altres varietats segons la seva formaEl quars Herkimer (o diamant d'Herkirmer) és una varietat de quars cristal·lí, molt translúcid, sense inclusions, amb el prisma acabat en pinacle pels dos extrems (biterminat). La seva lluïssor és molt elevada. Es troba a Herkimer, Nova York, i és una varietat molt apreciada pels col·leccionistes.L'apricotina és una varietat de quars. El seu nom prové de l'anglès apricot, que en català significa albercoc a conseqüència de la seva morfologia i color. Els espècimens són nòduls de quars de color albercoc (groc-vermellós). Va ser descrit originalment a Sunset Beach, Nova Jersey, Estats Units.L'espelma d'Arkansas és una varietat de quars que es caracteritza per presentar agrupacions de cristalls de quars que semblen espelmes. Els cristalls individuals presenten una relació alçada-amplada de set a u.El quars Babel és una varietat de quars anomenada així per la seva similitud amb la torre de Babel. La morfologia és deguda a la interrupció del seu creixement en alguns punts per altres minerals posteriorment dissolts. Va ser descrita originalment a Bere Alston, Devon, Regne Unit.El quars cactus és una varietat de quars on els cristalls es troben incrustats per una segona generació de cristalls més petits que creixen en les cares prismàtiques dels cristalls més grans. La segona generació dels cristalls no segueix l'orientació cristal·logràfica dels cristalls de la primera generació. En anglès, aquesta varietat també s'anomena com a spirit quartz (quars esperit) o pineapple quartz (quars pinya).El quars cobert (de l'anglès, capped quartz) és una varietat de quars separable en diferents porcions que solen encaixar entre si. Això és causat per fines capes d'argila entre les porcions que es formen entre diferents estadis de creixement mineral.La dragonita és una varietat de quars que es caracteritza per a presentar quars en nòduls arrodonits que han perdut la seva lluïssor. Se sol trobar en graves. Hi ha llegendes que parlen sobre com aquests nòduls queien del cap dels dracs mentre volaven.El quars fil (de lalemany, Fadenquarz), és una varietat de quars. Se sol formar en fissures que s'amplien amplament i constant; quan la fractura s'obre massa, els cristalls de quars es trenquen. En una solució aquosa rica en sílice, aquesta ruptura dels cristalls es repara ràpidament, formant un nou cristall que s'adjunta a la paret oposada de la fractura. Mentre la fractura continua estenent-se, el cicle de formació-trencament dels cristalls segueix. Aquesta varietat se sol formar en fisures provocades per extensió en diferents ambients, normalment en fissures de tipus alpí. En alguns casos es poden observar intercreixements de tipus cortina entre els cristalls.El fensterquarz (literalment de l'alemany, quars finestra) és una varietat de quars amb creixement esquelètics i cares romboèdriques que recorden al marc d'una finestra.El gwindel (de l'alemany, girat o retorçat) és una varietat de quars caracteritzada per cristalls de quars que creixen i es giren lleugerament al voltant d'un sol un eix. Això dona lloc a cristalls tabulars que es troben recargolats. Els gwindels es troben en fissures de tipus alpí i sempre van acompanyats de quars amb hàbit normal. Sovint es troben fumats, mentre que són menys freqüents els gwindels subvarietat cristall de roca. El procés pel qual es retorcen els cristalls és degut a un alt nombre de dislocacions en l'estructura típica de creixements lents.L'haytorita és una varietat de quars cristal·lí. Inicialment, el nom haytorita, es donava a pseudomorfs de quars de datolita trobats a la mina Haytor (Cornualla). Posteriorment, el nom es va estendre a altres tipus de pseudomorfs de quars, incloent-hi la calcita, la siderita i la dolomita.El quars eriçó (de l'anglès, hedgehog stone) és una varietat de quars caracteritzada per presentar inclusions sòlides aciculars de goetita.El quars macromosaic (també conegut com a quars Friedlaender) és una varietat de quars on els cristalls presenten punts de sutura a les cares. Malgrat la seva estructura interna de mosaic, en secció polida, el quars apareixerà perfectament clar i homogeni. Si una secció transversal d'un cristall s'observa entre dos polaritzadors creuats, l'estructura interna del vidre es fa visible. El quars macromosaic és típic de les pegmatites i de fissures alpines. Els cristalls normalment mostren un hàbit prismàtic, així com formes intermèdies, i una gran varietat de formes cristal·logràfiques accessòries. Aquesta varietat és freqüent que presenti macles, i es presenta en les varietats cristall de roca, quars fumat, quars citrí, però mai en ametistes.El quars d'oli (de l'anglès, Oil Quartz) és una varietat del Tirol, Àustria que conté taques grogues a les esquerdes.El quars pseudocúbic és una varietat de quars amb aparença pseudocúbica. Els cristalls presenten una morfologia en forma de cub amb els vèrtexs escapçats.El quars rutilat és una varietat de quars que presenta inclusions sòlides de rútil en hàbit acicular.
+El quars en ceptre és una varietat de quars que té forma de ceptre; aquesta forma es dona per al creixement de dues generacions de quars, on la segona és la més llarga i sembla que sostingui la primera, que sol ser més curta i ampla. En el cas que sigui al revés, és a dir, que la generació més curta i ampla és la que sosté la més llarga s'anomena quars en ceptre invertit.El Schwimmstein és una varietat de quars terrosa, d'hàbit nodular. El seu pes específic és inferior a 1,00, i per tant, flota en aigua.El quars d'impacte (de l'anglès Shocked Quartz)) és una varietat de quars formada a altes pressions però temperatures limitades. Durant l'estadi d'alta pressió, l'estructura del quars es deforma al llarg dels plans cristal·lins. Aquests plans, que amb un microscopi s'observen com a línies, s'anomenen PDF (de l'anglès planar deformation features [en català: trets de deformació planar]) o làmines de xoc. Aquesta varietat se sol trobar en cràters d'impacte; i sovint es troba associada a polimorfs de sílice d'alta pressió, com la coesita i la stishovita.El quars estrella és una varietat de quars. S'anomena així per la forma que presenten els agregats de cristalls radials.El quars de Suttroper, quars de Warstein o diamant de Suttroper, és una varietat de quars d'hàbit prismàtic acabat amb piràmide pels dos extrems. El nom prové dels exemplars de quars lletós descrits a Suttrop, Westfàlia, Alemanya. Se sol utilitzar el plural a l'hora de referir-se a aquesta varietat (quarsos de Suttroper), ja que Suttrop no és l'única localitat on s'han descrit.
+"Diamants"Algunes varietats es coneixen amb el nom de diamants, tot i no ser veritablement diamants, sinó quars, probablement per a fer referència a la morfologia o a la lluïssor adamantina d'algunes varietats.
+Es coneixen els diamants de Bristol (amb una lluïssor elevada que es troben al districte de Bristol), els diamants de Cape May (trobats a Cape May (Nova Jersey); còdols de quars arrodonits per l'erosió de l'aigua), els diamants de Clear Lake (anomenats així pel seu lloc de procedència, el llac Clare, a Califòrnia), els diamants de Marmaroscher (caracteritzats per l'hàbit prismàtic dels cristalls, doblement acabats, normalment trobats en roques sedimentàries. Aquesta varietat a sol presentar inclusions d'hidrocarburs. S'anomenen així pel comtat hongarès del segle xix, el comtat de Marmarosch (actuals Romania i Ucraïna), els diamants de Mutzschen (procedents de Mutzschen, un poble de Saxònia), els diamants de Schaumburger (incolors, o lleugerament fumats, prismàtics, que es troben a prop del mont Rumbeck, Baixa Saxònia, Alemanya. El nom deriva del castell de Schaumburg que es troba a prop del lloc on va ser descrita la varietat), el diamant de Vallum, i els diamants d'Öhrli (normalment trobats en roques sedimentàries, i originalment descrit a Öhrli, Alpstein, Suïssa).
+Galeria de varietats macrocristal·lines
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Varietats criptocristal·lines ===
+CalcedòniaLa calcedònia és una forma criptocristal·lina de quars composta per intercreixements molt fins de quars i moganita. Tots dos són minerals de sílice, però es diferencien en el fet que el quars té una estructura cristal·lina trigonal, mentre que la moganita és monoclínica. La varietat més coneguda de calcedònia és l'àgata.
+Altres varietats menys conegudes de calcedònia són la pedra d'Amarillo (anomenada així per la seva localitat tipus a Texas, Estats Units), l'amberina (de color groc o groc verdós que es troba al Death Valley, a Califòrnia, Estats Units), l'azurcalcedònia (de color blau degut a l'acció de la crisocol·la, procedent d'Arizona, Estats Units), la beekita (pseudomorfitza corall o closques de mol·luscs; procedent de Devon, Regne Unit), la binghamita (amb inclusions de fibres de goetita i/o hematites disposades paral·lelament. És similar a l'ull de tigre. Procedent de Minnesota, Estats Units), la pedra de sang (de color verd fosc o blau verdós amb petits punts vermells que semblen sang), la calcedònia blava (de color blau), la buhrstone (utilitzada per fer rodes de molí), la cornalina o carneola (vermellosa, que s'utilitza comunament com una pedra semi-preciosa, acolorida per les impureses d'òxid de ferro. El color pot variar molt, des taronja pàl·lid fins a una intensa coloració gairebé negre), la calcedònia cròmica (d'un color verd intens com a conseqüència dels components de crom. La calcedònia cròmica s'ha trobat en col·leccions romanes de gemmes; aquestes calcedònies probablement vindrien dels dipòsits de crom de l'actual Turquia. Els espècimens actuals provenen de Zimbàbue, sota el nom mtorolita i de Bolívia sota el nom chiquitanita), la cubosilicita (pseudomòrfica de fluorita, que es troba en forma de petits cubs blaus), la damsonita (de color lila, clar o fosc, procedent de Califòrnia, Estats Units), la diackethyst (nom local per a les esferes de calcedònia translúcides de color vi o ametista; procedents d'Escòcia), l'herbeckita (impregnada amb ferro hidratat; procedents de Bohèmia, República Txeca), la myrickita (nom local per a la calcedònia grisa amb punts vermells de cinabri; procedents de Califòrnia, Estats Units), la pietersita (amb fibres d'amfíbols amb diferents graus d'alteració. De color blau gris, marró i groc. Les fibres causen un efecte similar al de l'ull de tigre), el plasma (varietat microgranular i microfibrosa que presenta diferents tonalitats de verd com a conseqüència de les partícules disseminades d'alguns silicats com la celadonita o la clorita, entre altres), el crisopras o crisoprasi (translúcida, de color verd degut a les quantitats petites de níquel que conté, la quarsina (fibrosa, normalment intercreix amb altres tipus més comuns de calcedònia fibrosa. Va ser anomenada l'any 1892 per Auguste Michel-Lévy i Ernest Charles Philippe Auguste Munier-Chalmas per la seva semblança amb el quars), el sard (de color marró. Segons Plini el Vell fou anomenada així per Sardis, a Lídia, on fou descoberta inicialment. És possible que el nom provingui del persa sered que significa vermell groguenc), i la seftonita (de color verd molsa, translúcida).
+ÀgataLes àgates es caracteritzen per la seva gran finor del gra i la brillantor del color. Tot i que les àgates es poden trobar en diversos tipus de roca, estan clàssicament associades amb roques volcàniques i poden ser també comunes en algunes roques metamòrfiques.Es coneixen una gran varietat d'àgates, com per exemple l'abakusz-kö, l'àgata-jaspi (una varietat que presenta jaspi amb vetes de calcedònia), el corall agateïtzat (que consisteix en un reemplaçament del corall per àgata o calcedònia), l'àgata blava (presenta bandat i un color blau pàlid), l'àgata de Botswana (procedent de Botswana, amb un bandejat molt marcat format per línies fines i paral·leles entre elles. Els colors varien entre rosats i blanc), l'àgata bretxificada(consistent en una matriu de fragments d'àgata produïts pel trencament d'aquesta, cimentats posteriorment de manera natural), l'àgata nuvolosa (normalment de color gris, amb inclusions esborronades; sovint sembla que hi hagués boira dins del mineral), l'àgata boja (caracteritzada per presentar un bandat multicolor amb diferents plegaments), l'àgata enhydro (formada per nòduls parcialment omplerts d'aigua), l'ull d'àgata (presenta un patró d'anell concèntric que recorda a un ull), l'àgata de foc (amb inclusions d'altres minerals com ara la goetita o d'associacions minerals com ara la limonita; aquestes inclusions generen un efecte iridescent que recorda al foc), l'àgata fortificació (amb uns contactes angulosos que recorden les muralles d'una fortificació o d'un castell), l'àgata fòssil (àgata com a reemplaçament de material fòssil), l'àgata cacholong, Kalmuck o també ovoides de Haema (vermellosa, en ovoides), l'àgata iris o àgata de santmartí (una àgata iridescent que quan es talla en làmines i s'observa en llum transmesa exhibeix tots els colors de l'espectre visible), l'àgata de Laguna (amb àmplia variació de colors procedent d'Ojo Laguna, Chihuahua, Mèxic), l'àgata de Lake Superior (es creu que és una de les àgates més antigues del món, amb més d'un milió d'anys; es troba al nord dels Estats Units. L'original és procedent de la regió del Llac Superior, i generalment presenta uns colors deslluïts), l'àgata paisatge (de l'anglès, landscape agate, és una àgata amb inclusions que produeixen l'efecte com si fos un paisatge), l'àgata mexican lace (àgata ondulada procedent de Mèxic), la pedra de Mocha (amb inclusions de pirolusita, descrita originalment a Mocha, a l'Aràbia Saudita), l'àgata de molsa o àgata arbre (amb inclusions sòlides d'alguns minerals com ara la clorita o l'hornblenda. Generalment és transparent, blanca o amb tints verds), l'àgata de Nipomo (amb inclusions de marcassita, que va ser descrita inicialment a Nipomo, Califòrnia, Estats Units), l'àgata de sang de colom (de color vermell sang amb tonalitats blanques; procedent de Utah, Estats Units), l'àgata plomall (presenta al seu interior estructures en forma de plomall; en alguns casos colorades. Pot assemblarse a l'àgata de molsa), l'àgata cinta (bandejada), l'àgata de pell de serp' (amb un relleu a la superfície que recorda a la pell d'una serp), o la youngita (varietat d'àgata o jaspi que es troba envoltada per cristalls de quars disposats en drusa. Descrita a prop de Guernsey (Wyoming), en calcàries).També és molt conegut l'ònix, una varietat d'àgata bandejada. La gamma de colors que presenta l'ònix va des d'una transparència pràcticament total fins a gairebé tots els colors (excepte alguns matisos, com el morat o blau). Comunament, els espècimens d'ònix contenen bandes de negre i/o blanc. Les seves bandes són paral·leles entre si, al contrari de les bandes que sovint es poden veure a les àgates força més caòtiques. El sardònix és una varietat d'àgata molt similar, amb bandes vermelles, marrons, negres i blanques.
+JaspiEl jaspi és una varietat opaca i impura de sílice, generalment de color vermell, groc, marró o verd (i blau en rares ocasions). Aquest mineral es trenca en una superfície llisa, i s'utilitza tradicionalment per a l'ornamentació o com una pedra preciosa. El jaspi és bàsicament sílex que deu el seu color vermell a inclusions de ferro.
+Algunes varietats són el jaspi bola (format per bandes concèntriques de color vermell i groc. El nom també és utilitzat per a descriure masses esfèriques de jaspi), la basanita (de color negre; s'utilitza per a estimar la puresa de les aleacions d'or. No s'ha de confondre amb el mineral bassanita ni amb la roca basanita), la bayata (nom local per a la varietat ferruginosa de color marró. Descrita originalment a la província d'Oriente, Cuba), el crisojaspi (rep el color verd de la crisocol·la), la creolita (amb bandes de color vermell i blanc), la dallasita (de color verd o negre. Procedent de Vancouver, Canadà), la darlingita (tipus pedra de lídia. Procedent de Victòria, Austràlia), el jaspi egipci (de color marró alternat amb ratlles negres, el que es troba a Egipte, o ratlees vermelles, el que ha estat descrit a Baden-Württemberg), la irnimita (multicolor, associada amb menes de manganès a l'est de Sibèria. El seu color és produït pels òxids de manganès, sovint braunita, amfíbols alcalins de color blau, hidròxids de ferro marrons i fragments de quars pur de color blanc. El seu nom prové de la seva localitat tipus, on s'ajunten els rius Ir i Nimi, al Krai de Khabarovskii, Rússia), la kinradita (orbicular, procedent de San Francisco, Estats Units), la pastelita (amb colors tipus pastel), la quetzalitztli (de color verd maragda per les inclusions de moscovita cròmica. Procedent de Guatemala), i la wilkita (de color groc, lila, rosa i/o verd. Procedent d'Idaho, Estats Units).
+VenturinaLa venturina o aventurina, és una forma de quars de color verd que es caracteritza per la seva transparència i la presència d'inclusions de minerals laminars com ara mica, fucsita i hematites que li donen un efecte brillant o lluent. S'acostuma a fer servir com a gemma.
+Galeria de varietats monocristal·lines de quars
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Usos ==
+El quars és un dels minerals més emprats que hi ha; la seva utilitat recau en les seves propietats físiques i químiques: té una duresa de 7 en l'escala de Mohs, la qual cosa el fa durable i resistent a l'abrasió; és químicament inert, cosa que el fa útil en l'elaboració de material de laboratori o com a material per a fabricar recipients per a líquids reactius. També presenta propietats piezoelèctriques que el fan un mineral valuós en la indústria electrònica. El seu color, lluïssor i diafanitat el fan un mineral apreciat en el món de la gemmologia i la joieria.
+Una de les aplicacions més conegudes del quars és en el món de la joieria, on les varietats de quars de diferents colors han estat utilitzats per a la fabricació de joies durant molts anys.
+El quars també s'empra per a la construcció. Tot i que la major part del quars utilitzat actualment és emprat per formar ciment, el quars també és utilitzat com a material formador de vidre. Grans quantitats de quarsita sedimentària i sorres quarsítiques s'exploten per a l'obtenció de quars relativament pur ; aquestes quarsites i sorres són utilitzades en la indústria del vidre; també és emprat per a fabricar ceràmica i estris de laboratori (provetes, tubs d'assaig, plaques de petri…). El vidre de quars té unes interessants propietats com ara un coeficient d'expansió tèrmica molt baix, transparència en llum ultraviolada, també és químicament inert i amb ell es poden crear estris d'un gruix fi però resistents. Degut a la seva resistència als compostos químics (inert) i a la calor, s'utilitza com a material de construcció en les fundicions; amb una temperatura de fusió més elevada que la majoria dels metalls que s'utilitzen en els motlles de fosa, com ara maons refractaris, que poden estar fabricats a partir de sorra quarsítica. El quars també s'utilitza com a fundent en la fosa de metalls. Com ja s'ha citat anteriorment, el quars és un mineral clau per a la fabricació de ceràmica, i per tant és present en productes tals com ara vaixelles, sanitaris, ornaments, rajoles i maons. En aquest context també és important en la fabricació de totxanes refractàries per a alts forns, degut a la reva resistència a elevades temperatures i fabricació de coles.
+Com ja s'ha mencionat abans, el quars és utilitzat en la fabricació de vidre. En aquest procés, el quars és el material principal sigui qui sigui el tipus de vidre a fabricar. Com a derivats del vidre o objectes construïts a partir d'aquest s'hi troba una àmplia gamma de productes com ara a ampolles o gerres, finestres, miralls, parabrises, vaixelles (gots o plats), bombetes, fluorescents, pantalles de televisió i ordinador, vidres òptics (ulleres, microscopis, telescopis...) i fibra de vidre.
+Degut a les seves propietats piezoelèctriques, una de les aplicacions més conegudes del quars és el se ús com a oscil·lador en circuits elèctrics de rellotges i ordinadors i també com a membrana en dispositius d'ultrasons. El quars és també la principal font (o "mena") de silici que es coneix; aquest silici sovint s'usa integrat en microxips per a ordinadors o dispositius electrònics.
+En la indústria petroliera el quars s'utilitza principalment en alguns processos d'explotació d'hidrocarburs com ara el fracking. En aquest procés, les partícules de quars de determinades mides i formes arrodonides són bombejades cap als estrats que contenen l'hidrocarbur succeptible de ser explotat; aquestes partícules milloren la permeabilitat de la roca i permeten extreure el petroli d'una manera més ràpida i barata.
+El quars també s'utilitza en una àmplia gamma d'esports, generalment en la construcció o adaptació de pistes, camps o superfícies on es duen a terme els esports en qüestió. Uns exemples d'aquest tipus d'aplicació són les superfícies on es practica l'equitació, que generalment són formades per quars, ja que aquest permet una millor subjecció del cavall en cas de pluja. També s'utilitza com a mètode de drenatge en camps de futbol, hoquei, rugbi o golf. El quars juga també un paper important en l'agricultura i la ramaderia, on s'utilitza tant en granges, en jardineria comercial, horticultura i enginyeria forestal com a condicionador de sòls, fertilitzant o additiu en menjar d'animals.
+El quars també és el principal mitjà de filtració i depuració d'aigües. Mitjançant partícules fines s'utilitza per filtrar les aigües i extreure'n les partícules sòlides.
+El quars també ha estat destinat al llarg de la història o actualment a resoldre problemes quotidians; per exemple, segle xii el quars fumat s'utilitzava per a la fabricació d'ulleres de Sol a la Xina.
+Els aborígens australians el veneraven com a component de la seva substància mística maban. Un altre ús rellevant del quars es dona en el món de l'esoterisme. Degut a la seva elevada duresa en l'escala de Mohs, el quars s'utilitza també com a abrasiu; la pols de quars o de sílice s'empra per a serrar (serres amb pols de quars) i per a polir.El quars també és un material fonamental per a la indústria química i la indústria metal·lúrgica. En el primer cas s'utilitza per a produir una àmplia gamma de compostos químics relacionats amb el silici (silicat de sodi, gel de sílice, tetraclorur de sílice i silici pur. El silici pur s'utilitza per a la producció de xips de silici, en nucli de la informàtica actual. Molts compostos de silici són utilitzats com a detergents, productes farmacèutics o cosmètics. En el segon cas, el quars s'utilitza com a matèria primera per a la producció de silici metàl·lic o ferrosilici. El primer s'usa en la producció d'aliatges basats en alumini, coure i níquel; mentre que el segon és un ingredient en la producció de ferro i acer.
+
+
+== Notes ==
+
+
+== Referències ==
+
+
+== Enllaços externs ==
+Gilbert Hart Nomenclature of Silica, American Mineralogist, Volume 12, pages 383–395, 1927 (anglès)
+Terminology used to describe the characteristics of Quartz Crystals when used as oscillators (anglès)

@@ -1,0 +1,478 @@
+Google LLC es una empresa de tecnología multinacional estadounidense que se centra en inteligencia artificial, publicidad en línea, tecnología de motores de búsqueda, computación en la nube, software, computación cuántica, comercio electrónico y electrónica de consumo.  Se la ha referido como "la empresa más poderosa del mundo"[cita requerida] y como una de las marcas más valiosas del mundo debido a su dominio del mercado, recopilación de datos y ventajas tecnológicas en el campo de la inteligencia artificial. Junto a Amazon, Apple, Meta Platforms y Microsoft, la empresa matriz de Google, Alphabet, es una de las cinco grandes empresas tecnológicas.[cita requerida]Su producto principal es el motor de búsqueda de contenido en internet del mismo nombre, aunque ofrece también otros productos y servicios, como su servicio de almacenamiento en la nube Google Drive, el correo electrónico Gmail, sus servicios de mapas Google Maps, Google Street View y Google Earth y el sitio web de vídeos YouTube, entre otros.
+Por otra parte, lidera el desarrollo del sistema operativo y servicios de operación de aplicaciones basado en Linux: Android, orientado a teléfonos inteligentes, tabletas, televisores y automóviles y de gafas de realidad aumentada, las Google Glass. Su eslogan es «Do the Right Thing» («Haz lo correcto»).[1]​
+Con miles de servidores y centros de datos presentes en todo el mundo, Google es capaz de procesar más de 1000 millones de peticiones de búsqueda[2]​ diarias y su motor de búsqueda es el sitio web más visitado a nivel mundial, tal como se evidencia en el ranking web internacional.[3]​
+La empresa ha sido criticada por colaborar con determinados países en la censura de internet con el afán de expandirse comercialmente en ellos y por la infracción reiterada de derechos de autor.[4]​ También es objeto de críticas por presunta ingeniería fiscal en diferentes países y por ser una de las empresas que colaboran con las agencias de inteligencia en la versión 13.7.4_f6cafdb_230413, sacada a la luz en 2013.
+
+
+== Historia ==
+Larry Page y Sergey Brin comenzaron Google como un proyecto universitario en enero de 1996 cuando ambos eran estudiantes de posgrado en ciencias de la computación en la Universidad de Stanford. El nombre original del buscador era BackRub, pero en 1997 los fundadores deciden cambiar el nombre a Google inspirados por el término matemático «gúgol» que se refiere al número 10 elevado a la potencia de 100, en referencia a su objetivo de organizar la enorme cantidad de información en la Web.[5]​ Ambos fundaron, el 4 de septiembre de 1998, la compañía Google LLC,[6]​ que estrenó en internet su motor de búsqueda el 27 de septiembre siguiente (considerada la fecha de aniversario). Contaban con un armario lleno de servidores (unos 80 procesadores) y dos routers HP.[7]​ Este motor de búsqueda superó al otro más popular de la época, AltaVista, que se había creado en 1995. En el 2000 Google presentó AdWords, su sistema de publicidad en línea, y la llamada Barra Google.[8]​[9]​
+En febrero de 2001, Google compró el servicio de debate usenet Deja News y lo transforma en Google Grupos. En marzo del mismo año se nombra a Eric Schmidt como presidente de la junta directiva. En julio de 2001 lanza su servicio de búsqueda de imágenes. En febrero de 2002 lanza Google Search Appliance. En mayo lanza Google Labs que cerró 9 años más tarde. En septiembre se lanza Google Noticias. En diciembre del mismo año se lanza el servicio de búsqueda de productos llamado Froogle, ahora denominado Google Products. En febrero de 2003 Google adquiere Pyra Labs y con ello el servicio de creación de blogs Blogger. En abril se presenta Google Grants, un servicio de publicidad gratuito para organizaciones sin ánimo de lucro. En diciembre de ese año se lanza Google Print, posteriormente Google Libros.
+En enero de 2004 lanza la red social orkut. En marzo se lanza Google Local que más tarde se integró con Google Maps. En abril Google presentó Gmail, su servicio de correo electrónico con 1 Gb de almacenamiento.[10]​ El 19 de agosto Google Inc. salió a la bolsa de valores bajo el símbolo de "NASDAQ:GOOG", con una oferta inicial de 25,7 millones de acciones y con un rango de precios de 85 a 95 dólares. En octubre de ese año lanzan Google Desktop, que cerró en 2011. También lanzó el llamado Google Académico. El 18 de agosto de ese mismo año Google salió a bolsa en WallStreet. En 2004 compró la empresa Keyhole.
+Un año después, en 2005, sacaron a la luz Google Maps y Google Earth. Ese mismo año Google compró Android Inc. Vint Cerf, considerado uno de los padres de Internet, fue contratado por Google en 2005. También lanzó Google Code y se desarrolló el primer Summer of Code. En agosto presenta Google Talk. En octubre Google lanza su lector de feeds RSS Google Reader. En noviembre se presenta Google Analytics y en diciembre Google Transit.
+En 2006 lanza Picasa. En marzo adquiere Writely para más tarde lanzar Google Docs y presenta ese mismo mes Google Finance. En abril se presenta Google Calendar y en agosto Google Apps, servicio orientado a empresas. En octubre de 2006, Google adquirió por 1650 millones de dólares la página de vídeos YouTube.[11]​ Ese mismo mes adquiere JotSpot que más tarde se convirtió en Google Sites.
+Un año después, en 2007, Google lanzó el sistema operativo abierto para móviles Android y creó la Open Handset Alliance. En abril de 2007, Google compró DoubleClick,[12]​ una empresa especializado en publicidad en Internet, por 3100 millones de dólares. Este mismo mes, Google se convirtió en la marca más valiosa del mundo, alcanzando la suma de 66 000 millones de dólares, superando a empresas emblemáticas como Microsoft, General Electric y Coca-Cola. En junio lanza Google Gears, que más se abandonó debido a que lo que ofrecía se incorporó más tarde en HTML5. En julio de 2007, Google compró Panoramio, un sitio web dedicado a exhibir las fotografías que los propios usuarios crean y geoposicionan; algunas de ellas se suben al sitio para que puedan verse a través del software Google Earth, cuyo objetivo es permitir a los usuarios aprender más sobre una zona específica del mapa al observar las fotografías que otros usuarios han tomado ahí. En noviembre presenta OpenSocial.
+En febrero de 2008 se lanza Google Sites. El 2 de septiembre de 2008 Google presenta su propio navegador web Google Chrome y el proyecto de código abierto Chromium. En diciembre se lanza Google Friend Connect. En febrero se lanza Google Latitude. En marzo se presenta Google Voice. En septiembre de 2009 adquiere reCAPTCHA. En noviembre presenta el proyecto de sistema operativo de código abierto Chromium OS. En diciembre presenta Google Public DNS.
+En enero de 2010 Google presenta su primer teléfono móvil, el Nexus One, que funciona con Android. En febrero Google hace oficial su intención de desplegar una red de internet a alta velocidad. Ese mismo mes adquiere Aardvark. En marzo adquiere Picnik. En mayo lanza Google TV. En octubre presenta su proyecto de vehículos autónomos. En diciembre presenta su segundo teléfono, el Nexus S, fabricado por Samsung.
+En enero de 2011 se nombra CEO a Larry Page. En mayo se presentan los Chromebooks. En junio se presenta la nueva red social de Google llamada Google+. En agosto de 2011 Google adquiere Motorola Mobility por 8800 millones de euros (12 500 millones de dólares).[13]​ Google presenta su tercer teléfono inteligente, el Galaxy Nexus, fabricado por Samsung y que funciona con la cuarta versión de Android.
+En abril de 2012 Google presenta el Project Glass, un proyecto para crear unas gafas de realidad aumentada. En la Google I/O 2012 se anunció que la versión para desarrolladores de Google Glass estaría disponible en 2013 mientras que la versión para consumidores estaría lista en 2014. En ese mismo evento se anunció Android 4.1 y la primera tableta de Google, la Nexus 7, fabricada por Asus. El 27 de septiembre de 2013, en conmemoración de 15 años en servicio, Google presentó en su página de inicio un doodle en forma de juego que consistía en romper una piñata.[14]​[15]​
+En mayo de 2012 Google invirtió 35 millones de dólares en Machinima, una empresa dedicada al entretenimiento en línea. Fue la primera vez que Google ha respaldado abiertamente a una empresa de contenido al adquirir una participación accionaria.[16]​[17]​ 
+En junio de 2013 Google adquirió Waze por 966 millones de dólares.[18]​ Si bien Waze siguió siendo una entidad independiente, sus características sociales, como su plataforma de ubicación de colaboración colectiva, supuestamente eran integraciones valiosas entre Waze y Google Maps, el propio servicio de mapas de Google.[19]​ Google anunció el lanzamiento de una nueva empresa, llamada Calico, el 19 de septiembre de 2013, dirigida por el presidente de Apple, Arthur Levinson. En la declaración pública oficial, Page explicó que la empresa de "salud y bienestar" se centraría en "el desafío del envejecimiento y las enfermedades asociadas".[20]​
+En febrero de 2014 Google compra SlickLogin, una compañía compuesta por grandes desarrolladores expertos en seguridad, que han creado un innovador sistema de identificación a través del sonido para los teléfonos inteligentes.[21]​ El 10 de junio de 2014 Google anuncia la adquisición de Skybox Imaging por 500 millones de dólares (370 millones de euros) para «proveer imágenes satélite al servicio de mapas en línea».[22]​
+
+
+=== Como subsidiaria de Alphabet ===
+El 10 de agosto de 2015 Google se convierte en la principal subsidiaria de Alphabet, compañía creada para la mejor administración de todos los productos y servicios de Google, que funcionará principalmente para la investigación y el desarrollo de nuevos productos y tecnologías, al igual que la implementación de nuevos servicios, como Google Fiber. Desde entonces Sundar Pichai es el director ejecutivo de Google.
+El 8 de agosto de 2017 Google despidió al empleado James Damore después de que distribuyó un memorando a toda la empresa que argumentó que el sesgo y la "cámara de eco ideológica de Google" nublaban su pensamiento sobre la diversidad y la inclusión y que también son factores biológicos, no solo discriminación que hacen que la mujer promedio esté menos interesada que los hombres en puestos técnicos. Pichai acusó a Damore de violar la política de la empresa al "promover estereotipos de género dañinos en nuestro lugar de trabajo" y fue despedido el mismo día.[19]​ El columnista del New York Times David Brooks argumentó que Pichai había manejado mal el caso y pidió su renuncia.[18]​
+A comienzos de 2019 Google obtuvo por parte del Banco Central Irlandés la autorización para operar como entidad de pago, con aplicabilidad en Irlanda y en el resto de la Unión Europea.[23]​
+
+
+== Productos ==
+
+
+=== Cuenta de Google ===
+
+Una cuenta de Google es una cuenta de usuario que permite acceder a servicios propiedad de Google tales como Blogger, YouTube y Google Groups. Al crear una cuenta de Google se crea automáticamente una cuenta de correo electrónico de Gmail.
+
+
+=== Buscador de Google ===
+
+El buscador de Google o buscador web de Google (en inglés Google Search) es un motor de búsqueda en la web propiedad y el principal producto de Google, es el motor de búsqueda más utilizado en la Web, recibe cientos de millones de consultas cada día a través de sus diferentes servicios. El objetivo principal del buscador de Google es buscar texto en las páginas web, ahora se pueden encontrar todo tipo de información multimedia. fue desarrollado originalmente por Larry Page y Sergey Brin en 1997.
+
+
+=== Google Maps ===
+Google Maps es el servicio que permite visualizar el mundo a través de imágenes vía satélite, imágenes de mapas o combinar estas dos. Gracias al buscador, puede localizar lugares de todo el mundo y visualizarlos de forma efectiva.
+Las imágenes de satélite comparten la base de datos de Google Earth, lo que significa que son las mismas imágenes que veremos en dicho programa y con la misma resolución.
+Los mapas solo están disponibles en ciertos lugares, lo que significa que la función híbrida de mapa y satélite solo está disponible en los lugares en donde estén disponibles las dos características.
+
+
+=== YouTube ===
+
+YouTube es propiedad de Google, desde su compra el 14 de octubre de 2006[24]​ por 1650 millones de dólares. En este sitio web, los usuarios pueden subir y ver vídeos de todo tipo. En EE. UU. YouTube USA cambió de logotipo el 29 de agosto de 2017, cambio que en Latinoamérica se completó el 3 de septiembre de ese mismo año. Existen aplicaciones derivadas de esta como YouTube Kids y YouTube Music.
+
+
+=== Google Play ===
+
+Google Play, también llamado Play Store (antes Android Market) es una tienda en línea de dispositivos electrónicos y accesorios (según la región), aplicaciones Android, música, películas y libros mantenida por Google.
+
+
+=== Google Noticias ===
+
+Google Noticias (en inglés Google News) es un servicio automatizado de recopilación de noticias. El sitio de web de Google News fue introducido en su versión beta en abril de 2002. Existen diferentes versiones del sitio en más de 20 idiomas, junto con obtener las noticias de 700 fuentes gratuitas y de pago.
+La actualización de cada tema es de 15 minutos, haciendo que cada vez que se reingrese al sitio, aparezca una nueva noticia dentro de sus destacados.
+La promoción de este sitio consta de ser un sitio neutral en sus noticias recopiladas, debido a que no existe la intervención humana, con lo cual existe un punto de vista neutral en cada noticia mostrada. En España se llama el nombre en inglés, Google News.
+
+
+=== Gmail ===
+
+El 31 de marzo de 2004 Google lanza su servicio (en fase beta) Gmail que se destacó entre los servicios de correo más populares del momento por proporcionar 1 gigabyte de capacidad (cifra que aumenta constantemente a razón aproximada de 36 bytes por segundo hasta llegar a los 15 GB[25]​ actuales). Durante bastante tiempo, para poder acceder a una cuenta Gmail era necesario recibir una invitación de otro usuario de Gmail. A principios de febrero de 2007,[26]​ los registros en Gmail fueron completamente liberados, y en la actualidad es posible registrarse sin invitaciones.
+Este servicio de mensajería destacó, entre otras cosas, por utilizar un sistema de búsqueda de mensajes simple y avanzado al mismo tiempo, similar al del buscador web al cual debe su eslogan «No organices, busca». Además ofrece otras características adicionales como las etiquetas, filtros avanzados, posibilidad de múltiples cuentas para correo saliente, chat integrado, etc. que lo hacen muy atractivo.
+Actualmente se encuentra disponible en 39 idiomas.[27]​
+
+
+=== Google Drive ===
+
+Google Drive es un servicio de alojamiento de archivos. Fue introducido por Google el 24 de abril de 2012. Google Drive es un reemplazo de Google Docs que ha cambiado su dirección de enlace de docs.google.com por drive.google.com entre otras cualidades. Cada usuario cuenta con 15 gigabytes de espacio gratuito para almacenar sus archivos, ampliables mediante pago. Es accesible por su página web desde ordenadores y dispone de aplicaciones para iOS,[28]​ y Android que permiten editar documentos y hojas de cálculo.
+
+
+=== Blogger ===
+
+Blogger es un servicio creado por Pyra Labs y adquirido por Google en 2003, que permite crear y publicar una bitácora en línea. Para publicar contenidos, el usuario no tiene que escribir ningún código o instalar programas de servidor o de scripting.
+
+
+=== Google Docs ===
+
+Google Docs es un sitio web donde los usuarios pueden descubrir, subir y compartir documentos de Office o de Google en su página de perfil de Microsoft o Facebook, de manera similar al de una red social corporativa. El sitio web incluye:
+
+Google Docs
+Google Sheets
+Google Slides
+Google Drawings
+Google Forms
+Google Sites
+Google Keep
+
+
+=== Google Calendar ===
+
+Google Calendar es una agenda que permite tener diferentes calendarios diferenciados por colores. Permite compartir los calendarios privados con otros usuarios pudiendo darles diferentes niveles de permisos. Dispone de la posibilidad de incorporar calendarios públicos realizados por otros usuarios, tales como guía de programación de televisión, agenda de tu club favorito de fútbol, santoral, etc. El calendario se puede configurar para que envíe un recordatorio antes que pase un evento a la cuenta de correo electrónico del usuario con un archivo para importar la tarea a la agenda de Microsoft Outlook, incluso puede enviar un aviso SMS si se vive en una zona habilitada para ello. Hasta la fecha, está en versión beta pero es funcional.[cita requerida]
+En octubre de 2017 introduce una nueva interfaz desarrollada con Material Design.[29]​
+
+
+=== Google+ ===
+
+Google+ (pronunciado y a veces escrito Google Plus, a veces abreviado como G+, en algunos países de lengua hispana pronunciado Google Más) fue un servicio de red social operado por Google LLC. El servicio, lanzado el 28 de junio de 2011, está basado en HTML5. Los usuarios tienen que ser mayores de 13 años de edad para crear sus propias cuentas. Google+ ya era la décima red social más popular del mundo con aproximadamente 343 millones de usuarios activos.[30]​ En el primer trimestre de 2019 se produjo 
+el cierre de esta red social, manteniendo solo algunos servicios.
+
+
+=== Traductor de Google ===
+
+Google Translate o Traductor de Google es una herramienta web que permite traducir textos entre un gran número de idiomas. Si el dispositivo cuenta con micrófono, la aplicación permite el uso de reconocimiento de voz como fuente de la traducción. El resultado se puede leer en el alfabeto del idioma fuente o en el traducido. También se puede escuchar la traducción sintetizada en dispositivos que dispongan de altavoz.
+
+
+=== Google Fotos ===
+
+Google Fotos es una aplicación informática de intercambio de fotografía y de vídeo y servicio de almacenamiento de Google.
+
+
+=== Google Shopping ===
+
+Google Shopping (anteriormente conocido como Froogle) es un sitio web que integra un motor de comparación de precios, inscrito para Google LLC. Su interfaz proporciona un formulario HTML en el que el usuario puede escribir el producto a consultar, y recibe una lista de los vendedores que lo ofrecen, así como la información de su precio.
+
+
+=== Google Libros ===
+
+Google Libros (en inglés Google Books; antes conocido como Google Book Search y Google Print) es un servicio de Google que busca el texto completo de los libros que Google escanea, convierte el texto por medio de reconocimiento óptico de caracteres y los almacena en su base de datos en línea. El servicio era conocido como Google Print cuando fue introducido en la Feria del Libro de Fráncfort en octubre de 2004. También permite leer libros electrónicos (e-books).
+
+
+=== Contactos de Google ===
+
+Contactos de Google (en inglés, Google Contacts) es la herramienta de administración de contactos de Google que se encuentra disponible en su servicio gratis de correo Gmail, como servicio independiente, y como parte de la serie integrada de aplicaciones web de Google para empresas Google Apps.
+
+
+=== Hangouts ===
+
+Hangouts fue un servicio multiplataforma de mensajería instantánea desarrollado por Google. El 24 de agosto de 2005, Google lanzó la versión beta de su servicio de mensajería instantánea Google Talk, basado en el protocolo XMPP. Con el lanzamiento de Google+, Google lanza un servicio de videochat denominado Hangouts. El 15 de mayo de 2013, en el evento Google I/O, Vic Gundotra anuncio el nuevo Hangouts, que unificarían todos los servicios de mensajería de Google, sustituyendo a Google Talk, Google+ Messenger y Google+ Hangouts. Ese mismo día se lanzó para las diferentes plataformas como Android (reemplazando la aplicación de Google Talk), iOS y Web (a través de Chrome y Google+). El 1 de noviembre de 2022 se dio por descontinuada la aplicación.
+
+
+=== Gboard ===
+
+Gboard es un teclado virtual desarrollada por Google para Android e iOS. Se lanzó por primera vez para iOS en mayo del 2016, más tarde se lanzó para Android en diciembre del 2016, que se estrenó como una actualización importante de la aplicación de Google Keyboard ya establecida en Android. Se reemplaza a varios servicios de teclados de Google en Android cómo: Google Cantonese Input, Google Zhuyin Input, pero hay algunos que siguen activos pero no reciben actualizaciones: Google Korean Input, Google Handwriting Input, Google Japanese Input, Google Pinyin Input y Google Indic Keyboard.
+
+
+=== Google One ===
+Google One es un servicio de suscripción desarrollado por Google que ofrece almacenamiento en la nube ampliado y está destinado al mercado de consumo. Cada cuenta de Google comienza con 15 gigabytes de almacenamiento gratuito que se comparte entre Google Drive, Gmail y Google Fotos. Los planes de pago de Google One ofrecen almacenamiento en la nube desde 100 gigabytes hasta un máximo de 30 terabytes.
+
+
+=== Mensajes de Google ===
+
+Mensajes de Google (en inglés, Google Messages) es la aplicación de mensajería instantánea, SMS y RCS desarrollado por Google para Android. También existe una versión web.
+
+
+=== Google Now ===
+
+Google Now fue el primer asistente virtual desarrollado por Google para Android, fue lanzado el 9 de julio de 2012. Fue reemplazado por el Asistente de Google en 2016.
+
+
+=== Asistente de Google ===
+
+El Asistente de Google es el asistente virtual desarrollado por Google para Android actual. Desarrollado con inteligencia artificial, puede participar en conversaciones bidireccionales.
+
+
+=== Files ===
+
+Files, antes Files Go, es la aplicación de gestión de archivos desarrollada por Google. También tiene funciones para el consumo de medios, limpieza de almacenamiento y la transferencia de archivos sin conexión. Existe una versión personalizada que fue lanzada exclusivamente para China en 2018.
+
+
+=== Google Allo ===
+
+Google Allo fue una aplicación de mensajería que estuvo disponible tanto en Android como en iOS. Fue lanzada en 2016, pero en 2018 Google anunció que Allo cerraría en 2019, en favor de Google Chat. Fue cerrada el 19 de marzo de 2019.
+
+
+=== Google Chat ===
+
+Google Chat, antes Hangouts Chat, es una aplicación de Google de mensajería; reemplazó a Google Hangouts y Google Allo. Fue lanzada el 9 de marzo de 2017.
+
+
+=== Google Duo ===
+
+Google Duo fue una aplicación móvil de chat de vídeo para Android y iOS. Fue fusionada junto a Google Meet y fue eliminada de Google Play el 9 de septiembre de 2022 y de App Store el 16 de septiembre de 2022.
+
+
+=== Lens ===
+
+Google Lens es una aplicación de Google lanzada el 4 de octubre de 2017. Actualmente se encuentra disponible en 7 idiomas. Está diseñada para mostrar información relevante mediante análisis visual.
+
+
+=== Google Play Juegos ===
+
+Google Juegos (en inglés, Google Play Games) es un servicio de juegos online que cuenta con perfiles de jugador, guardados en la nube, logros y tablas de clasificación públicas y sociales.
+Fue lanzada en julio de 2013. Para Microsoft Windows se lanzó en 2022.
+
+
+=== Google Play Kiosco ===
+
+Google Kiosco (en inglés, Google Play Newsstand) fue un agregador de noticias y servicio digital de Google. Fue originalmente lanzado en junio de 2012 como Google Play Magazines.
+En noviembre de 2013, se cambió de nombre, pasando a ser Google Play Kiosco. Fue reemplazado junto con Google News & Weather por Google Noticias. El 5 de noviembre de 2018 fue eliminada de la Google Play Store. En enero de 2020 las revistas ya no estaban disponibles en Google Noticias, lo que puso fin a los rastros de esta.
+
+
+=== Google Play Música ===
+
+Google Play Music, o en español Play Música, fue un servicio de almacenamiento y sincronización de música. Fue lanzado el 16 de noviembre de 2011. En agosto de 2020 anunció que se cerraría por completo en septiembre para ser reemplazado por YouTube Music y Google Podcasts. En diciembre de 2020 se dio por descontinuada la aplicación.
+
+
+=== Google Podcasts ===
+
+Google Podcasts es una aplicación de podcasts lanzada en 2018. Para iOS fue presentada en marzo de 2020. 
+
+
+=== Google Meet ===
+
+Google Meet es una aplicación de videotelefonía lanzada en 2017. Es una de las dos aplicaciones que constituyen a la nueva versión de Hangouts, siendo la otra Google Chat.
+
+
+=== Web ===
+
+
+==== Google Chrome ====
+
+Es el software navegador de la empresa Google. Es el navegador más utilizado en Internet, con una cuota de mercado del 31.88% a finales de julio de 2012. Está disponible gratuitamente bajo condiciones de servicio específicas.[31]​
+
+
+==== Barra Google ====
+
+Barra Google (en inglés Google Toolbar) es una barra de herramientas de búsqueda en Internet que solo está disponible para Internet Explorer y Firefox (hasta la versión 4.0).
+
+
+==== Marcadores de Google ====
+
+Marcadores de Google es un servicio gratuito para guardar marcadores de Internet. El servicio permite al usuario poseedor de una cuenta de Google guardar sus sitios web favoritos para leerlos más tarde, así como organizarlos mediante etiquetas y notas.
+
+
+==== Google Bard ====
+El 6 de febrero de 2023, Sundai Pinchal anunció la integración de un nuevo servicio basado en el modelo de lenguage IA LaMDA llamado Google Bard en la Búsqueda de Google.[32]​
+
+
+=== Empresa ===
+
+
+==== Google AdWords ====
+
+Google AdWords de Alphabet es una herramienta rápida y fácil de utilizar que permite adquirir anuncios de coste por clic (CPC) o coste por impresión (CPM) correctamente orientados, independientemente de cuál sea su presupuesto. Los anuncios de AdWords se publican junto con los resultados de las búsquedas realizadas en Google, así como en los sitios de búsqueda y de contenido de la creciente red de Google.
+
+
+==== Google Workspace ====
+
+Google Workspace (antes G Suite y Google Apps) es un servicio de Google que proporciona varios productos de Google con un nombre de dominio personalizado por el cliente.
+
+
+==== AdSense ====
+
+Servicio para administradores de páginas web y empresas de publicidad vía Internet.
+Este servicio se caracteriza por ser un marco HTML en el que se muestra texto con el aspecto de una búsqueda de Google, en el aparecen los enlaces de los anunciantes, y los webmasters reciben un pago por cada clic que se haga en los enlaces de AdSense de su web. Actualmente hay que llevar cuidado con el formato elegido y la disposición de los anuncios en su web, ya que si se usan formatos grandes, con muchos anuncios, se corre el riesgo de ser cancelada la cuenta de AdSense, de manera unilateral de acuerdo al contrato suscrito en el momento del registro, si algún usuario hiciera un clic en cada anuncio de la página en la que se muestran de manera reiterada.
+Google, empresa líder en publicidad en línea, se caracteriza por perseguir con mucho ahínco el fraude en los clics de AdSense en especial aquellos que lo intentan a través de un PPF.
+
+
+=== Medios ===
+
+
+==== Google Imágenes ====
+
+Google Imágenes (inglés: Google Images) es una especialización del buscador principal para imágenes, que fue implementado en el año 2001. Contiene en su interfaz distintas herramientas de búsqueda, que sirven para filtrar los resultados de las imágenes.
+
+
+==== Google Vídeos ====
+
+Google Vídeos (inglés: Google Videos) es una especialización del buscador principal para vídeos. Contiene en su interfaz distintas herramientas de búsqueda, que sirven para filtrar los resultados de los vídeos.
+
+
+==== Picasa ====
+
+Picasa fue un organizador y visor de imágenes (la aplicación sigue funcionando pero ya no tiene soporte por parte de Google[33]​) además de una herramienta para editar fotografías digitales. Adicionalmente, Picasa poseía un sitio web integrado para compartir fotos. Estaba disponible para Mac, Linux y Windows. Fue descontinuado en 2016 para centrarse más en Google Fotos.
+
+
+=== Geo ===
+
+
+==== Google Earth ====
+
+Google Earth es un programa informático similar a un Sistema de Información Geográfica (SIG), creado por la empresa Keyhole Inc., que permite visualizar imágenes del planeta, combinando imágenes de satélite, mapas y el motor de búsqueda de Google que permite ver imágenes a escala de un lugar específico del planeta, tal como edificios, casas y cualquier construcción en 3D.
+
+
+==== Panoramio ====
+
+Panoramio fue una mashup dedicada a exhibir las fotografías de lugares o paisajes que los propios usuarios crean y georreferencian. Fue cerrado el 4 de noviembre de 2016.
+
+
+=== Búsqueda especializada ===
+
+
+==== Google Académico ====
+
+Google Académico (inglés: Google Scholar) es un buscador de Google enfocado en el mundo académico que se especializa en literatura científica-académica.
+
+
+==== Tendencias de búsqueda de Google ====
+
+Del inglés Google Trends, es una herramienta de Google Labs que muestra los términos de búsqueda más populares del pasado reciente.
+
+
+=== Hogar y oficina ===
+
+
+==== Google Sites ====
+
+Google Sites es una aplicación en línea gratuita ofrecida por la empresa estadounidense Google. Esta aplicación permite crear un sitio web o una intranet de una forma tan sencilla como editar un documento.
+
+
+==== Google Keep ====
+
+Google Keep es una aplicación desarrollada por Google LLC que permite organizar la información personal a través del archivo de notas.
+
+
+=== Social ===
+
+
+==== Grupos de Google ====
+
+Google Grupos es una interfaz web al veterano sistema de foros clasificados jerárquicamente llamado Usenet. También es un archivo de todos los envíos realizados a esta red, sobre el que se pueden hacer búsquedas usando el motor de Google.
+
+
+=== Innovación ===
+
+
+==== Google Code ====
+
+Google Code fue un sitio de Google para desarrolladores interesados en el desarrollo open source. El sitio contiene códigos fuente abiertos, una lista de sus servicios de apoyo público y API. Sin embargo el proyecto ha sido cerrado desde 2016 de acuerdo con la información disponible en el sitio web.[34]​
+
+
+==== Google Colab ====
+Es una plataforma web que tiene como objetivo realizar investigaciones en ciencia de datos e Inteligencia artificial. Permite ejecutar código en Python. El entorno de trabajo se denomina cuadernos de Jupiter y no es estático, sino recursivo. Algunas de las ventajas son las siguientes:[35]​
+
+No requiere configuración
+Acceso gratuito a GPU
+Uso de TensorFlow
+Desarrollar redes neuronales
+Experimentar TPUS
+
+
+=== Derivados de YouTube ===
+
+
+==== YouTube Music ====
+
+YouTube Music es una aplicación de retransmisión de música. Permite escuchar vídeos musicales y música, insertando publicidades. Para YouTube Music Premium permite reproducir sin anuncios, escuchar música con la pantalla apagada y descargar música para reproducir sin conexión.
+
+
+==== YouTube Kids ====
+
+YouTube Kids es la versión orientada a los niños de YouTube. Contiene selecciones de contenido, características de controles parentales y filtrar vídeos no apropiados para ciertas audiencias.
+Fue lanzado en 2015. En la aplicación está dividida en cuatro categorías: recomendado, música, shows y educación.
+
+
+==== YouTube Premium ====
+
+YouTube Premium (antes YouTube Red hasta 2018 y Music Key desde 2014 hasta 2015) es un servicio de suscripción de pago. Sus características incluyen:
+
+Reproducción de vídeos sin anuncios.
+Guardar/descargar vídeos para verlos sin conexión.
+Reproducción en segundo plano.
+Contenido exclusivo original para suscriptores.
+
+
+==== YouTube TV ====
+
+YouTube TV es un servicio de televisión en streaming que ofrece televisión en directo, vídeo bajo demanda y DVR en la nube de más de 85 cadenas de televisión, incluidas las tres grandes cadenas de televisión, FOX Network y PBS en la mayoría de los mercados. Sólo está disponible en Estados Unidos.
+
+
+==== YouTube Gaming ====
+YouTube Gaming fue un servicio gratuito, similar a YouTube, el sitio web ofrecía vídeos, críticas, análisis y streaming de juegos para consolas y computadoras. El servicio se encontraba disponible para todo el mundo. YouTube Gaming poseía un menú totalmente diferente al del clásico YouTube, el cual estaba en el Material Desing utilizado por Google. Google anunció el cierre de YouTube Gaming el 30 de mayo del 2019. 
+La empresa integró los servicios y características de YouTube Gaming en la plataforma tradicional. YouTube Gaming estaba, sin duda, lejos de las expectativas de la empresa al abordar el mercado del streaming de videojuegos. La plataforma nunca funcionó como se esperaba. La razón del cierre se debe a que nunca se tuvo el impacto esperado, principalmente porque se buscaba competir directamente con Twitch, el servicio de streaming de videojuegos por antonomasia para los creadores de contenido. 
+Lo anterior significa que tanto el portal como la aplicación dejaron de estar disponibles en 2019; en su lugar, se abrió una sección especial dentro del YouTube tradicional para interactivos, donde se aplicó casi las mismas reglas que funcionaban en YouTube Gaming. 
+Además, se agregaron nuevas iniciativas, como el promocionar contenido de calidad; esto es por usuarios pocos conocidos o que apenas van iniciando; pero que cuentan con vídeos con una propuesta interesante. Ryan Wyatt, responsable de la plataforma, declaró que se cometió un error al momento de hacer opciones separadas; pues eso ocasionó una confusión en los usuarios, principalmente porque no había un sesgo de contenido en realidad; los fanáticos de interactivos seguían recurriendo al YouTube tradicional para ver vídeos relacionados con su afición; tanto así que muchos ni siquiera se enteraron de la existencia de Gaming.
+
+
+==== YouTube Shorts ====
+
+YouTube Shorts es un servicio para subir videos verticales y con una duración máxima de 1 minuto (60 segundos). En el anuncio de la plataforma se mencionó que el primer video de la historia de YouTube era un vídeo corto, haciendo referencia a Me at the zoo, con una duración de 18 segundos. La idea original de esa implementación era hacer una alternativa a la popular red social TikTok. Fue lanzada en 2020.
+
+
+== Sistemas operativos ==
+
+
+=== Android ===
+
+Android es un sistema operativo basado en el núcleo Linux. Fue diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes o tabletas; y también para relojes inteligentes, televisores y automóviles.
+
+
+=== Chrome OS ===
+
+Chrome OS es un proyecto llevado a cabo por la compañía Google para desarrollar un sistema operativo basado en web.
+
+
+== Dispositivos ==
+
+
+=== Nexus ===
+
+Google posee una gama de dispositivos denominada Nexus. El primer dispositivos Nexus fue el teléfono inteligente Nexus One fabricado por HTC, seguido de dos teléfonos inteligentes fabricados por Samsung, el Nexus S y el Galaxy Nexus. En 2012, presentó la primera tableta Nexus, la Nexus 7, fabricada por Asus. En octubre de ese mismo año se presentan el teléfono inteligente Nexus 4 y la tableta Nexus 10. En 2013 fue presentada la segunda generación de Nexus 7, y el 31 de octubre el nuevo Nexus 5. En 2014 fue presentada la primera tableta con procesador de 64 bits, Nexus 9, acompañada del primer phablet de la gama Nexus (Nexus 6), ambos con la nueva versión del sistema operativo Android 5.0 Lollipop. En 2015 fueron presentados los dos últimos dispositivos de la serie Nexus, el Nexus 5X y el Nexus 6P, con la versión 6.0 de Android. Actualmente, el soporte de estos dos últimos se prolonga hasta octubre del 2017. Fueron reemplazados por la serie Google Pixel.
+
+
+=== Chromebook ===
+
+Chromebook es un ordenador personal que trabaja con el sistema operativo Chrome OS. Los dispositivos son de una clase distinta de la computadora personal, comprendido entre el cliente en nube puro y los portátiles tradicionales. Son fabricados tanto por empresas como Samsung, como por la propia Google (el Chromebook Pixel).
+
+
+=== Chromecast ===
+
+Chromecast es un dispositivo de streaming multimedia que trabaja con el sistema operativo Chrome OS.
+
+
+=== Google Pixel ===
+
+Google Pixel es una serie de teléfonos inteligentes que comenzó con el Pixel y Pixel XL en el año 2016, y continuó con Pixel 2 en 2017. La línea de smartphones es la renovación de los anteriores Nexus, cambiando el nombre a Pixel, con un diseño y un software desarrollado por Google, pero ensamblado por la marca HTC, que a diferencia de los anteriores dispositivos Nexus estos no tienen en el exterior el nombre de la marca que los ha ensamblado, dado que como se ha dicho anteriormente el diseño fue desarrollado por Google.
+
+
+=== Pixel Watch ===
+El Pixel Watch es un reloj inteligente, introducido por Google en el 2022, que trabaja con teléfonos inteligentes con sistema operativo Android.[36]​
+
+
+== Google como plataforma universal ==
+
+Google al igual que Facebook, Amazon y Apple le apuesta a convertirse en la plataforma universal de internet.[37]​ Parte de esta estrategia consiste en tener los siguientes aspectos:
+
+Plataforma de pago
+Plataforma de Single SignOn
+Cobertura logística
+Masa crítica de clientes
+Masa crítica de productos y servicios
+Marketing/publicidad
+Supermercado.En el HRIndex (un índice que compara cada plataforma contra el ideal) Google saca 50/100, Amazon 51/100, Apple 39/100 y Facebook 27/100.[38]​
+
+
+== Google Summer of Code ==
+
+
+== Infraestructura ==
+
+
+== Googleplex ==
+
+
+== Críticas y controversias ==
+El dominio de Google en el mercado ha dado lugar a una destacada cobertura de los medios de comunicación, incluidas las críticas a la empresa por cuestiones como la evasión fiscal agresiva,[40]​  neutralidad de la búsqueda,[41]​ los derechos de autor, la censura de los resultados y el contenido de las búsquedas  y la privacidad.[42]​[43]​ Otras críticas incluyen el supuesto uso indebido y la manipulación de los resultados de la búsqueda, su uso de la propiedad intelectual de otros, la preocupación de que su recopilación de datos pueda violar la privacidad de las personas y el consumo de energía de sus servidores, así como preocupaciones sobre cuestiones comerciales tradicionales como el monopolio, la restricción del comercio, las prácticas anticompetitivas y la infracción de patentes.
+Google se adhirió anteriormente a las políticas de censura de Internet de China,[44]​  aplicadas mediante filtros conocidos coloquialmente como "El Gran Cortafuegos de China", pero ya no lo hace. Como resultado, se bloquea el acceso a todos los servicios de Google, excepto a Google Maps chino, dentro de China continental sin la ayuda de VPN, servidores proxy u otras tecnologías similares. The Intercept informó en agosto de 2018 que Google está desarrollando para la República Popular China una versión censurada de su motor de búsqueda (conocido como Dragonfly) "que incluirá en la lista negra sitios web y términos de búsqueda sobre derechos humanos, democracia, religión y protestas pacíficas".[45]​[46]​ Sin embargo, el proyecto se había retenido debido a problemas de privacidad.[47]​
+Tras los informes de los medios sobre PRISM, el programa de vigilancia electrónica masiva de la NSA, en junio de 2013, se identificaron como participantes a varias empresas de tecnología, incluida Google.[48]​ Según filtraciones de dicho programa, Google se incorporó al programa PRISM en 2009.[49]​
+Google ha trabajado con el Departamento de Defensa de los Estados Unidos en el software de drones a través del "Proyecto Maven" de 2017 que podría usarse para mejorar la precisión de los ataques con drones.[50]​ Miles de empleados de Google, incluidos ingenieros superiores, firmaron una carta instando al director ejecutivo de Google, Sundar Pichai, a poner fin a un controvertido contrato con el Pentágono.[51]​  En respuesta a la reacción, Google finalmente decidió no renovar su contrato con el Departamento de Defensa, que expirará en 2019.[52]​
+Shona Ghosh, periodista de Business Insider, señaló que ha crecido un creciente movimiento de resistencia digital contra Google. Un centro importante para los críticos de Google con el fin de organizarse y abstenerse de usar productos de Google es la página de Reddit para el subreddit /r/degoogle.[53]​
+En julio de 2018, el gerente de programas de Mozilla, Chris Peterson, acusó a Google de ralentizar intencionalmente el rendimiento de YouTube en Firefox.[54]​
+En abril de 2019, el exejecutivo de Mozilla, Jonathan Nightingale, acusó a Google de sabotear intencional y sistemáticamente el navegador Firefox durante la última década para impulsar la adopción de Chrome.[55]​
+En noviembre de 2019, la Oficina de Derechos Civiles del Departamento de Salud y Servicios Humanos comenzó una investigación sobre el Proyecto Nightingale, para evaluar si la "recopilación masiva de registros médicos de las personas" cumplía con la HIPAA.  Según The Wall Street Journal, Google inició el proyecto en secreto, en 2018, con la empresa de atención médica Ascension, con sede en San Luis (Misuri).[56]​[57]​
+
+
+=== Acusaciones de monopolio ===
+En julio de 2020, Google, junto con otros gigantes tecnológicos Apple, Reed Hastings, Samsung, Microsoft, Twitter, Amazon y Facebook, fueron acusados de mantener un poder dañino y estrategias anticompetitivas para aplastar a los competidores potenciales en el mercado.  Los directores ejecutivos de las respectivas empresas comparecieron en una teleconferencia ante los legisladores del Congreso de los Estados Unidos.[58]​
+
+
+== Incidencias ==
+A lo largo de su historia la compañía, en su conjunto, ha presentado una serie de incidencias,[59]​ de las cuales las más importantes han sido las siguientes:
+
+El 18 de julio de 2018 la Comisión Europea impuso una multa de 4 340 millones de euros debido a prácticas ilegales relacionadas con dispositivos móviles Android para de esta manera fortalecer el dominio del motor de búsqueda de Google.[60]​[61]​ Tras el recurso presentado ante el Tribunal General de la Unión Europea, este organismo redujo dicha multa en algo más de 200 millones de euros, quedando la misma en 4.125 millones de euros.[62]​
+A principios de septiembre de 2018 los responsables del motor de búsqueda fueron duramente criticados tras negarse a enviar a testificar a su consejero delegado, Larry Page, ante el Comité de Inteligencia del Senado por cuestiones sobre privacidad y seguridad de los usuarios. Sin embargo, el 20 de septiembre[63]​ y a través de una carta publicada en el New York Times, Google reconocía que seguía permitiendo a terceros acceder y compartir datos de cuentas de Gmail. "Los desarrolladores (de software) pueden compartir datos con terceros siempre y cuando sean transparentes con los usuarios sobre cómo están usándolos", decía la misiva.
+El 19 de marzo de 2019, Google anunció que ingresaría al mercado de los videojuegos, lanzando una plataforma de juegos en la nube llamada Stadia.[64]​
+El 3 de junio de 2019, el Departamento de Justicia de los Estados Unidos informó que investigaría a Google por violaciones a las leyes antimonopolio. Esto llevó a la presentación de una demanda antimonopolio en octubre de 2020, alegando que la empresa había abusado de una posición de monopolio en los mercados de búsqueda y publicidad de búsqueda.[65]​
+El 25 de julio de 2019, la aspirante a presidente Tulsi Gabbard demandó a Google por bloquear sus anuncios después del debate presidencial cuando se convirtió en uno de los elementos más buscados en el motor de búsqueda.[66]​
+En diciembre de 2019, se informó que el exdirector de operaciones de PayPal, Bill Ready, se convertiría en el nuevo director de comercio de Google. La función de Ready no estará directamente relacionada con Google Pay.
+Después de las audiencias del Congreso en julio de 2020 y un informe del subcomité antimonopolio de la Cámara de Representantes publicado a principios de octubre, el Departamento de Justicia de los Estados Unidos presentó una demanda antimonopolio contra Google el 20 de octubre de 2020, afirmando que ha mantuvo ilegalmente su posición de monopolio en búsquedas y publicidad basada en búsquedas.[67]​[68]​
+En abril de 2020, debido a la pandemia de COVID-19, Google anunció varias medidas de reducción de costos. Tales medidas incluyeron ralentizar la contratación para el resto de 2020, excepto en un pequeño número de áreas estratégicas, recalibrar el enfoque y el ritmo de las inversiones en áreas como centros de datos y máquinas, y marketing y viajes esenciales no comerciales.[69]​
+También en 2020, ocurrieron tres cortes en todo el mundo que interrumpieron los servicios de Google: uno en agosto que afectó a Google Drive entre otros, otro en noviembre afectó a YouTube y un tercero en diciembre afectó a todo el paquete de aplicaciones de Google. Los tres cortes se resolvieron en unas horas.[70]​[71]​[72]​
+
+
+== Véase también ==
+ Portal:Internet. Contenido relacionado con Internet.
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikinoticias tiene noticias relacionadas con Google.

@@ -1,0 +1,125 @@
+La v (en mayúscula V, nombre uve, plural uves)[1]​ es la vigesimotercera letra y la decimoctava consonante del alfabeto español, y la vigesimosegunda letra del alfabeto latino básico. Como cifra en la numeración romana representa al número cinco. En español y en los dialectos septentrionales de catalán y portugués la V se pronuncia de forma idéntica a la B,[2]​ pero en la mayoría de otras lenguas europeas el sonido de ambas letras es diferenciado. 
+Otros nombres utilizados para esta letra son: uve, ve baja, ve pequeña, ve corta[3]​ o ve chica y, menos frecuente  uve pequeña.[4]​ La Ortografía (2010) propone uve como nombre único para esta letra.[1]​
+En lengua española representa un fonema consonántico bilabial y sonoro.[2]​ 
+
+
+== Nombre ==
+Los romanos en la antigüedad clásica pronunciaban el nombre de esta letra sencillamente como «uu». Tras la creación de la letra U, la V recibe el nuevo nombre de «ve». Puesto que este nombre para los hispanohablantes suena igual que «be» hay dos estrategias: la primera es llamarla «uve», usado en España y con cierto uso en América, la segunda es utilizar una variedad de dobletes de contraste entre B y V, que incluyen «ve chica», «ve baja», «ve corta» o «ve pequeña». Sobre la distinción entre estos pares, la Ortografía de la lengua española dice:[4]​
+
+ 
+
+En esta Ortografía acordada entre las distintas academias se recomienda usar el nombre «uve» para evitar confusiones. La RAE explica esta decisión así:[1]​
+
+ 
+
+
+== Historia ==
+Se corresponde a la letra V del alfabeto latino o romano moderno. La letra u latina proviene de la ípsilon griega, que también es el origen de la Y. La ípsilon a su vez procede del wau fenicio. La v se empleó en la Alta Edad Media, en posición inicial, cada vez con más frecuencia. Antonio de Nebrija defendió en 1492 la necesidad de distinguir en la escritura la vocal u de la consonante v, que solo se consolidó a partir del siglo XVI.
+En la edición de 1949 del Diccionario de la Real Academia Española podemos ver por primera vez el nombre de uve = u (que desempeña el oficio de) ve, aunque esa denominación no ha arraigado en toda Hispanoamérica. También se usó la grafía uvé con acento agudo. La denominación más recomendable es uve para permitir la distinción.
+Evolución probable del grafema:
+
+
+=== Evolución del valor fonético de la grafía «V» ===
+A efectos de esta grafía, importa considerar que el latín contaba con el fonema consonántico /b/ (oclusivo sonoro bilabial) y con el fonema vocálico /u/; el primero, se escribía con B y el segundo con V. Este fonema vocálico poseía alófono no silábico [w] caracterizado como aproximante labiovelar. Tras producirse determinados cambios fónicos del tipo HOIC > HVIC, la anterior situación dejó de ser predecible, por lo que ese alófono se fonologizó y consonantizó en forma de /β/ (fricativo bilabial sonoro, que sería el correlato sonoro del fonema /ɸ/).
+Estos cambios provocaron que, en posición intervocálica, este nuevo fonema se confundiese con la evolución de /b/ intervocálica, un alófono oclusivo bilabial sonoro. Consecuentemente, en latín vulgar son frecuentes las alternancias gráficas de B/V en formas como VIVA/VIBA o SIVI/SIBI. 
+Por lo que respecta a la posición inicial de palabra, y sobre todo si la palabra anterior terminaba en vocal, también se daban confusiones, aunque en menor medida. 
+En la Edad Media, los fonemas /b/ y /β/ existían de forma perfectamente diferenciada en situación intervocálica y, menos claramente, en inicial. Según algunos estudiosos, como Alarcos Llorach, esa distinción se mantendría hasta el siglo XV, aunque en opinión de otros habría desaparecido antes.
+En principio, la ortografía medieval no distingue los resultados de B y V latinas en situación intervocálica, por lo que ambas se suelen escribir como V. En posición postconsonántica, el fonema /β/ se grafía como U hasta el siglo XIV y luego alterna con V: encontramos, así, selva y selua. 
+En su evolución en determinados territorios, en el periodo que va del siglo VI al X, la V (/β/) se hizo labiodental, /v/, tal y como hoy se pronuncia en francés, italiano, portugués, rumano y en los dialectos del catalán: balear y valenciano. 
+Hay muchas dudas sobre la naturaleza de la pronunciación de la V en castellano medieval hacia esos siglos, pues no hay pruebas concluyentes al respecto y además parece claro que hacia el siglo XI esa pronunciación ya era otra vez /β/. 
+Mientras que para Menéndez Pidal la hipótesis es descartable, para otros autores esta V sería labiodental, como sucede en casi todas las lenguas neolatinas. Dámaso Alonso, por ejemplo, afirma que en el norte peninsular esa pronunciación labiodental no se dio por influjo del vasco y del sustrato en general, pero reconoce que sí se dio en el sur. 
+Un hecho que podría demostrar que el castellano antiguo tenía un fonema /v/ labiodental es la situación de los dialectos de las lenguas vecinas, catalán y portugués, donde la distinción /v/-/b/ convive con su confusión, igual que en castellano. Tanto en portugués como en catalán hay dialectos que confunden B/V, mientras que los dialectos distinguidores tienen todos /v/ labiodental. Podemos constatar también que esos dialectos que confunden las grafías históricas B y V partían de una distinción previa donde una /b/ bilabial se oponía a una /v/ labiodental. Como el portugués y el catalán ocupan las áreas laterales de la península ibérica, podemos pensar que la existencia de la labiodental debía tener una extensión mucho mayor que la actual en territorio peninsular. Otro hecho que apoya la existencia de /v/ en castellano antiguo es la supervivencia de esa articulación en algunos dialectos del judeoespañol (en Bucarest, por ejemplo) que conservan muchos rasgos del español hablado en España en el siglo XV. 
+¿Por qué se perdió la distinción de las grafías B/V en español? Si suponemos que en español antiguo hubo una oposición del tipo /v/ labiodental opuesta a /b/ bilabial, podemos pensar que la confusión se produjo del mismo modo que actualmente ocurre en catalán. De ser cierta esta teoría, el betacismo (articulación de /v/ como /b/) se produce en español por la conjunción de dos hechos fonéticos comunes a algunos dialectos catalanes y portugueses: una /v/ labiodental sin fricción audible, como la W del neerlandés, y una /b/ articulada aproximante o fricativa en contexto intervocálico (como la «b» o «v» actual en «pavo» o «sabor»). Como la distancia auditiva entre unas /v/ y /b/ aproximantes es muy estrecha, cuando confluyen los dos procesos mencionados el fonema /v/ desaparece absorbido por el fonema /b/. Es probable que el castellano antiguo, el portugués septentrional, el gallego y el occitano meridional compartieran ese mismo proceso que condujo a la eliminación temprana de la /v/ labiodental. 
+Según los estudios realizados, casi todo el español habría perdido la distinción entre las grafías B y V en torno al siglo XV. La pérdida de esta distinción creó una gran confusión acerca del uso de estas dos grafías, de modo que en el Diccionario de Autoridades de 1746 se modificaron las reglas para el uso ortográfico de la B y de la V, en función de criterios etimológicos. Siguiendo los nuevos criterios ortográficos, la «v» del imperfecto de indicativo pasó a «b», como era en latín. Como ejemplos de la nueva ortografía encontramos que «cantava» pasó a «cantaba» y  «cavallo» se cambió por «caballo» (comparar con portugués cantava, cavalo y catalán cantava, cavall).
+A pesar de su desaparición sonora labiodental en la mayoría de América latina, debido al aislamiento geográfico de Chile este sonido se mantuvo, teniendo zonas que hasta el día de hoy hacen la diferenciación fonética entre B y V labiodental (sobre todo en la zona centro sur, en O'Higgins, Maule y Ñuble).
+Desde 1754, con la publicación de su Ortographía, la Real Academia Española dejó de aconsejar que la «v» se pronunciara como un sonido labiodental, de modo que actualmente ninguna autoridad normativa del español recomienda la distinción sonora de «B» y «V».
+
+
+== Uso ==
+
+
+=== Gráfico ===
+La «V» mayúscula representa: 
+
+En la numeración romana, al valor decimal de 5.
+Este a su vez representa, en música, a la dominante.
+Al elemento químico Vanadio.
+A la unidad usada en Física, el Voltio.
+Al aminoácido, la valina.La «v» minúscula representa:
+
+En el Alfabeto Fonético Internacional, al sonido fricativo labiodental sonoro.
+En física: a la magnitud de carácter vectorial, la velocidad.
+
+
+=== Fonético ===
+
+
+==== En español ====
+Como ya se mencionó, actualmente en el español normativo no existe la distinción sonora entre B y V, pues esta distinción se ha perdido, pronunciándose ambas como un sonido oclusivo bilabial sonoro, representado por /b/, o un sonido fricativo bilabial sonoro, simbolizado /β/. A pesar de ello, algunos hablantes de español, especialmente en América, Región Valenciana y Baleares, producen a veces una /v/ labiodental. Hallamos también el sonido /v/ en hablantes con conocimientos de lenguas extranjeras, concretamente, de inglés, francés o portugués.
+
+
+==== En otros idiomas ====
+En la mayoría de los lenguajes que usan el alfabeto latino, la letra «v» representa una fricativa labiodental sonora (/v/), tal como sucede en el inglés. 
+En valenciano, se hace una diferenciación entre la [b] y la [v], siendo la primera bilabial oclusiva sonora y la segunda labiodental fricativa sonora 
+En alemán y neerlandés puede sonar como /v/ o /f/.
+En las lenguas indígenas de América de Norte América, principalmente en las lenguas iroquesas, la «v» representa una vocal central nazalizada, /ə̃/. 
+En japonés, la «v» se escribe en katakana como ヴ; sin embargo, este carácter no es muy usado, y solo se usa en palabras extranjeras (principalmente del inglés).
+En el pinyin chino, no se usa la 'V', pues el sonido /v/ no existe en mandarín, solo el sonido /f/. Aun así, la letra «v» es usada por la mayoría de los métodos de ingreso de data para poder ingresar el grafo «ü», del que carecen la mayoría de los teclados.
+En  irlandés, la «v» es usada en minúscula en la mayoría de los casos, como en veidhlín, que viene del inglés violin («violín»). Sin embargo, el sonido /v/ aparece naturalmente en este idioma cuando el sonido /b/ sufre una lenición o «ablandamiento», representado en la ortografía irlandés por «bh», de modo que bhí se pronuncia /vʲiː/, y an bhean («la mujer») se pronuncia /ən̪ˠ ˈvʲan̪ˠ/.
+En el siglo XIX, la «v» era a veces usada para transcribir el chasquido palatal ahora representado por /ǂ/.
+
+
+== Reglas para su uso ortográfico ==
+Se escriben con «v»:[5]​
+
+Las palabras que comienzan por div, eva, prev, priv y prov, ejemplo divino, divorcio, evaluar, evacuar, prevaler, prever, privar, privilegio, provisión, provocar.
+Los prefijos:
+vice («hace las veces de», «inferior» o «en lugar de»), cuando va unido al nombre de un cargo, jerarquía, incluida la palabra viceversa: vicecónsul, vicegobernador, vicerrector.
+villa («casa de campo», «recreo», «población pequeña»): villancico, villano, villa. La palabra billar no procede de la unión del prefijo villa con otra partícula.Las sílabas en las que va precedida de:
+La sílabas ad, di y ol, excepto dibujo y sus compuestos y derivados (dibujar, dibujante...). Ejemplos: adversidad, diversión, olvido, adverbio, divagar, pólvora.
+Las letras b o n: obvio, subversivo, inverosímil, inversión.Las palabras terminadas en:
+avo/ava, evo/eva, ivo/iva y ave, eve, ive, las cuales son siempre tónicas, excepto: arriba, estribo, lavabo, rabo, árabe, sílaba y sus compuestos y derivados. Ejemplos: grave, breve, proclive, bravo, longevo, activo.
+Conservan la «v», las palabras formadas por estas que terminan en mente: suavemente, levemente, nuevamente, positivamente.
+ívora, ívoro, vira y viro, excepto víbora: piscívora, omnívoro, Elvira, triunviro.Las formas del indefinido del pretérito perfecto simple y las formas del subjuntivo del pretérito imperfecto y del futuro imperfecto (últimas que están en desuso) de los verbos andar, estar y tener, y sus compuestos (desandar, retener, sostener, contener, detener, obtener, mantener, entretener...). Ejemplo:En las formas del presente del indicativo, subjuntivo e imperativo del verbo ir:Todas las formas de los verbos terminados en ervar, ivar, olver y over: conservar, motivar, envolver, llover.Todos los compuestos y derivados de voces que llevan v: prever, posavaso, inverosímil, revisar.
+
+
+== Códificación en computación ==
+nota: También para codificaciones basadas en ASCII, incluyendo DOS, Windows, ISO-8859 y las familias de codificaciones de Macintosh.
+
+
+== Letras y caracteres relacionados ==
+ו: El antiguo glifo hebreo Vav o Waw.
+Υ υ : La letra del alfabeto griego Ípsilon.
+У у : letra cirílica descendiente de Ípsilon.
+Y y : La letra del alfabeto latino básico Ye, que, al igual que «v», desciende de Ípsilon.
+U u : La letra latina U, descendiente de la «v».
+W w : La letra latina W, también descendiente de V.
+Ѵ ѵ: La letra del alfabeto eslavo eclesiástico Izhitsa, proveniente del alfabeto cirílico.
+Ν ν : La letra del alfabeto griego Ni, que en minúscula se parece a la «v».
+
+
+== Representaciones alternativas ==
+En alfabeto fonético aeronáutico se le asigna la palabra Victor.
+En código Morse es:  •••- 
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre V.
+ Wikcionario  tiene definiciones y otra información sobre v.
+Diccionarios digitales: letra VSobre la pronunciación de la letra vSobre uves y bes, por Rosario González Galicia, 2001.
+Con /b/ de vaca. Mil años de antirromance de una letra con el romance castellano. Sobre la historia y el futuro de la pronunciación bilabial de la uve, por Domingo Martínez Castilla, 2002.

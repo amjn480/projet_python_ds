@@ -1,0 +1,181 @@
+Per rapporto d'aspetto (fattore di forma più comune) o aspect ratio (in inglese) si indica il rapporto tra la larghezza e l'altezza di un'immagine o in generale di un rettangolo. 
+La traduzione più appropriata è con termine “proporzioni”, che, nel settore audiovisivo, si riferisce alle proporzioni di uno schermo o del sensore di immagini presente all'interno di foto o video camere.
+
+
+== Definizione ==
+La notazione matematica delle proporzioni è più spesso indicata sotto forma di frazione tra interi o decimali, tipo «x:y» o «x/y», dove «x» è la larghezza e «y» l'altezza. Un paio di esempi più conosciuti, possono essere, «3:2» e «16:9». Tuttavia, la stessa proporzione può essere anche indicata con il risultato, arrotondato, della divisione, rispettivamente agli esempi, «1,5» e «1,78»; oppure, riferita anche all'unità, come «1,5:1» e «1,78:1».
+In ambito cinematografico, in congiunzione al pixel aspect ratio e allo storage aspect ratio, il rapporto d'aspetto definisce il formato dell'immagine nell'ambito del suo intero ciclo di vita: dalla creazione, alla memorizzazione ed infine alla visualizzazione.
+Sono in uso numerosi rapporti d'aspetto, a seconda del campo di utilizzo delle immagini: cinema, televisione, computer grafica e fotografia hanno proporzioni tipiche.
+Il cinema è il settore dove la varietà è stata più numerosa, a seconda del periodo storico; ma i rapporti più comunemente usati fino ad oggi, possono essere il «1,33:1», il «1,85:1» e il «2,39:1» più alcune varianti panoramiche e anamorfiche.In campo televisivo, il formato più comune fino al nuovo millennio è stato il «4:3» (o «1,33:1»), di impiego pressoché universale per la televisione a definizione standard, poi ridefinito in «16:9» («1,78:1») e utilizzato nella televisione digitale ad alta definizione a livello internazionale (altri rapporti sono più rari).
+In fotografia digitale, le più comuni proporzioni native dei sensori, sono «3:2» e «4:3» (rarissima «16:9»), mentre si sono ormai abbandonati gli altri rapporti, come il «5:4», il «7:5» ed il formato quadrato «1:1», molto utilizzati con la fotografia chimica, fin dalla sua nascita. Tuttavia, rimangono come opzione di scelta, dal selettore di molte fotocamere, i ritagli del fotogramma originale, nei rapporti «1:1» e «16:9» (durante lo scatto).
+
+
+=== Limitazioni pratiche ===
+Nei formati cinematografici, le dimensioni fisiche della pellicola (8, 16, 35, 70 mm) sono l'unico limite alla larghezza dell'immagine. Per la ripresa, sarebbe disponibile tutta l'area compresa tra le due bande di perforazioni laterali, ma dev'essere considerato anche lo spazio occupato dalla traccia ottica dell'audio.
+Lo standard universale, stabilito da William Kennedy Laurie Dickson e Thomas Edison nel 1892, è di quattro perforazioni di altezza per ogni fotogramma, dove la larghezza della pellicola 35 mm ha un'area compresa tra le perforazioni di 24,9 mm × 18,7 mm. Con lo spazio per la traccia audio e l'altezza ridotta del fotogramma, per mantenere la larghezza maggiore, il formato cosiddetto Academy fu standardizzato quindi di 22 mm × 16 mm, con un proporzioni di 1,37:1.
+
+
+=== Terminologia cinematografica ===
+
+L'industria cinematografica assegna un valore di 1 all'altezza del fotogramma ed indica le proporzioni in relazione a questo valore (es: 1,85:1). Di conseguenza, le proporzioni sono riferite essenzialmente a quelle osservate dallo spettatore, nonostante il fotogramma di ripresa possa essere registrato con immagini anamorfiche. Nelle produzioni cinematografiche moderne, le proporzioni più usate sono di 1,85:1 e 2,40:1, mentre precedentemente era usato il rapporto 1,33:1 e 1,66:1 che aveva una certa diffusione soprattutto in Europa.
+Molti formati panoramici sono noti con una denominazione propria, tipo: CinemaScope, Todd-AO, o VistaVision; quest'ultimo merita una nota particolare per via del trascinamento della pellicola in senso orizzontale, con fotogrammi di otto perforazioni ed un rapporto di registrazione di 1,58:1, più simile al comune formato fotografico 24x36 (1,5:1 - meglio conosciuto come 3:2). Il film I dieci comandamenti e molti film di Alfred Hitchcock sono stati girati con questo procedimento.
+
+
+== La visione umana ==
+La visione monoculare è quella che essenzialmente utilizza un singolo occhio (o ne rappresenta la zona di copertura), mentre la visione binoculare è la visione che utilizza entrambi gli occhi contemporaneamente e che è anche la zona maggiormente utilizzata dall'essere umano.
+Anche se volendo si possono idealmente individuare delle proporzioni differenti fra di loro a seconda che ci si riferisca alla visione monoculare, alla visione binoculare o al campo visivo combinato, queste caratteristiche dipendono essenzialmente dalla morfologia del viso e quindi i valori del campo si differenziano anche di molto, tra individuo e individuo. In più, per la normale visione di apparecchi TV, schermi PC o cinematografici, fotografie, ecc, viene possibilmente ed istintivamente utilizzata soltanto la visione binoculare e a quella in genere ci si riferisce per valutare l'osservazione di opere delle arti visive o per progettare le strumentazioni che utilizzano la visione umana (binocoli, microscopi, ecc).
+
+
+=== Visione monoculare ===
+Rispetto al punto centrale che viene fissato, i limiti esterni della vista periferica del singolo occhio, possono essere descritti in termini dei quattro angoli rappresentati dalle quattro direzioni cardinali. Questi angoli sono mediamente 60° superiore, 60° nasale (interno, verso il naso), 70°–75° inferiore e 100°–110º temporale (esterno, verso la tempia) per una copertura Monoculare media di 160° orizzontali e di 130° verticali nel punto maggiore.
+
+
+=== Visione binoculare ===
+È la porzione di spazio centrale su cui entrambi gli occhi agiscono contemporaneamente, coprendo un campo visivo che si estende mediamente per circa 95° orizzontali e per circa 80° verticali, ma che dipende molto dalla morfologia del viso, per cui è possibile avere dei valori che possono oscillare tra 80° e 110° orizzontali.
+È la zona funzionale utilizzata normalmente per la maggior parte del tempo, durante l'osservazione attenta (lettura, visione TV, ecc) ed è mediamente approssimabile ad una finestra di forma ellittica con "proporzioni" tra circa 1,2:1 e 1,35:1. Questo però non vuol dire che la visione binoculare abbia precise proporzioni, in quanto è proprio l'area circoscritta ad essere utilizzata come zona di osservazione e semmai all'interno di quest'area possono essere visualizzate qualsiasi proporzione quadrangolare esistente, dal formato quadrato 1:1 a quello panoramico 2,40:1 (cinematografico).
+L'acutezza visiva della visione binoculare (che è poi la risoluzione ottica della nostra vista) è normalmente maggiore rispetto alla sola visione monoculare e può arrivare anche ad un valore più che doppio, all'incirca fino ad un massimo del 240%.
+
+
+=== Campo visivo combinato ===
+È il campo visivo totale di entrambi gli occhi combinati. Rispetto al campo visivo binoculare si aggiungono orizzontalmente ulteriori 60°-70° coperti solo da un occhio per volta. Raggiunge 130º–135° verticali e 200°–220° orizzontali.È approssimabile ad una finestra dalla forma dei tipici occhiali da sole "a goccia", quindi con un incavo inferiore centrale per via della visuale nascosta dal naso e grossomodo idealizzabile con proporzioni circa tra 1,5:1 e 1,7:1.
+
+
+== Standard televisivi ==
+
+
+=== Il 4:3 ===
+
+Fino all'avvento dei televisori digitali, al plasma, LCD, Led, ecc. il rapporto 4:3 (1,33) è stato impiegato fin dalle origini in televisione e nei monitor per computer CRT. Deriva dal formato adottato per la pellicola cinematografica dopo l'avvento del cinema sonoro, e standardizzato dalla AMPAS nel 1927. Il 4:3 è universalmente riconosciuto come il rapporto d'aspetto dello Standard Definition Television (SDTV). 
+Con la sempre maggiore diffusione degli apparecchi televisivi, a partire dagli anni cinquanta, vengono tuttavia definiti una serie di formati panoramici adottati dall'industria cinematografica allo scopo di aumentare la spettacolarità delle immagini.
+Il quattro terzi viene talvolta espresso come «12:9» per un raffronto diretto con il formato 16:9. Nel caso di un segnale 4:3 visualizzato su un televisore 16:9, la resa corretta delle dimensioni comporta l'aggiunta di bande laterali nere, un effetto chiamato pillarbox.
+
+
+=== Il 14:9 ===
+Il rapporto 14:9 (1,56) è un compromesso di transizione per creare immagini rese in modo accettabile sia su schermi in 4:3 che in 16:9, progettato dalla BBC dopo una serie di test su telespettatori. Veniva utilizzato da emittenti inglesi, irlandesi e australiane ed era piuttosto diffuso nella produzione pubblicitaria. È importante precisare che il 14:9 non esisteva come formato di ripresa, che in ambito televisivo è sempre fatta in 4:3 o 16:9, ma come formato di visualizzazione (o formato sorgente se ottenuto con la post-produzione).
+L'uso più comune era su materiale in 16:9. Durante le riprese, le varie inquadrature venivano concepite in modo da non avere materiale importante troppo vicino ai bordi. Rispetto a riprese in 16:9, l'area visibile dopo la conversione sarà comunque maggiore rispetto al 4:3.
+Questo formato di schermo permetteva un minore impatto della funzione taglio o bande nere rispetto ad uno schermo 16:9, infatti durante la trasmissione in 4:3, i bordi dell'immagine vengono ritagliati o vengono aggiunte bande nere sopra o sotto l'immagine, questo permette di conservare una maggiore area visibile. Se la trasmissione è in 16:9, l'immagine può si essere ritagliata in modo standard o applicate delle bande nere, ma in alcuni casi (dipende sia dalla sorgente che dal ricevitore, oltre che dalle impostazioni dello stesso) degli appositi segnali (flag) indicano al ricevitore che è possibile convertire l'immagine in 14:9 modificando le porzioni da tagliare ai due lati o se bisogna applicare delle bande nere.
+
+
+=== Il 16:9 ===
+
+Il rapporto 16:9 è alla base dell'alta definizione (HDTV), ma è oramai di diffusione sempre maggiore anche nella televisione standard (SDTV). I televisori e gli schermi 16:9 sono anche definiti «widescreen» («schermo largo»).
+Uno schermo 16:9 con uguale altezza di un 4:3, corrisponde ad un formato più largo;
+globalmente rispetto a quest'ultimo ha il 133% della sua superficie visiva, acquisita negli spazi aggiuntivi delle periferie laterali.
+Le due immagini sopra offrono una comparazione tra i formati 4:3 e 16:9. In questo caso l'immagine in 16:9 trae beneficio dalla maggiore area a disposizione. Si notino in particolare gli oggetti a sinistra del lampione e le sedie con i tavoli a destra, non visualizzati nella versione 4:3.
+Le due immagini sono mostrate in modo che le rispettive altezze siano equivalenti. Comparare due formati sulla base delle dimensioni orizzontali o verticali dello schermo può dare una falsa impressione di superiorità di uno rispetto all'altro, poiché viceversa, comparando un'immagine 16:9 e una 4:3 mantenendo costante la larghezza, l'immagine in 4:3 appare avere un campo visivo di area maggiore.
+In conclusione, il risultato della comparazione dipende dalla risoluzione e proporzione nativa delle immagini utilizzate per il raffronto.
+
+
+==== Compatibilità con i vari sistemi widescreen ====
+Mentre nel cinema è molto semplice cambiare proporzioni (è sufficiente adeguare i mascherini di cineprese e proiettori), i formati panoramici pongono tuttavia alcuni problemi nel processo di telecinema.
+Si tratta, essenzialmente, di aggiungere bande nere sopra e sotto l'immagine (letterbox), di ritagliare i bordi dell'immagine, eventualmente decentrandola (pan and scan) oppure, nel caso di film in CinemaScope, di deanamorfizzare l'immagine di un valore un po' inferiore a quello nominale, accettando una certa distorsione. Eventualmente, questi tre metodi possono anche essere combinati tra loro.
+Il 16:9 permette una maggiore compatibilità con le immagini cinematografiche nei rapporti 1,66:1 (European Flat), 1,85:1 (Academy Flat) e 2,35:1/2,40:1 (CinemaScope/anamorfico Panavision). A differenza di come verrebbe trasmesso su schermo 4:3, le bande nere risultanti dalla visione nei formati cinematografici sono più piccole e meno fastidiose. Ad esempio, in un televisore 16:9 un'immagine in formato 2,35:1 occuperebbe soltanto, di bande nere, il 25% circa, contro il 44% su un TV 4:3.
+Esigenze produttive e di marketing avevano portato, tra il 2007 ed il 2009, all'adozione di una tecnica di ripresa nota in gergo, in Italia, come finto 16:9 o anche 16:9 bandato. Questa tecnica consisteva nella generazione di un segnale standard 4:3 che conteneva un segnale di tipo letterbox. Visivamente, il formato era 16:9 ma in realtà una certa parte delle linee di scansione disponibili venivano sacrificate durante la ripresa. Le bande nere sopra e sotto l'immagine erano usate per inserire informazioni visive, come richiami pubblicitari, loghi e grafiche animate.
+Anche con le attuali trasmissioni in standard 16:9 è possibile fare ciò (soprattutto in ambito pubblicitario), riprendendo in tale formato e aggiungendo, in post produzione, due bande nere sopra e sotto, dove inserire loghi, informazioni, ecc.
+Questo procedimento viene chiamato finto 21:9, riferito alla somiglianza dello spessore delle bande nere create in post produzione con quello delle bande nere che si creerebbero su una tv 16:9 in caso di visualizzazione nel formato Cinemascope.
+
+
+==== Svantaggi del formato 16:9 ====
+L'esistenza di più proporzioni crea lavoro aggiuntivo alla produzione audiovisiva, e non sempre con risultati adeguati. È piuttosto frequente che un film in formato panoramico sia visualizzato in maniera alterata (tagliato o espanso oltremisura). Il 4:3 bandato, in particolare, è molto problematico nella resa su monitor in 16:9, perché se viene convertito come letterbox, il risultato mostrerà sia le bande nere sopra e sotto, sia quelle laterali, con un risultato noto in gergo come inscatolamento, cioè con l'immagine visibile all'interno di un rettangolo nero più ampio.
+Sia le trasmissioni PAL che NTSC prevedono l'uso di un segnale inserito sull'intervallo di ritorno verticale e chiamato Active Format Description (AFD) che permette a monitor e televisori (e anche ai convertitori usati nella catena video) di determinare le proporzioni del segnale in ingresso e determinare se necessiti di conversione. I televisori domestici sono in grado di adeguare la visualizzazione alla trasmissione ricevuta (Si veda la specifica ITU-R BT.1119-1 - Wide-Screen signalling for broadcasting). Anche il segnale trasportato da cavi SCART usa una linea di stato per identificare il materiale in 16:9.
+
+In ogni caso, chi si occupa di riprese televisive deve sempre considerare le diverse forme di visualizzazione del materiale prodotto. È prassi comune mantenere tutte le informazioni necessarie di azione e di informazione (come scritte e titoli grafici) all'interno dell'area centrale che viene mantenuta anche in caso di taglio dei bordi laterali (safe area).
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Aspetti della produzione televisiva ==
+
+
+=== Telecamere ===
+Nell'ambito della produzione televisiva, le telecamere di classe professionale, da diversi anni da questa parte, sono normalmente in grado di riprendere in entrambi i formati, anche se ovviamente i sensori e le ottiche sono ottimizzate per il formato 16:9. Qualche limitazione esiste per le telecamere di generazione più vecchia che non montano sensori 16:9.
+Le telecamere in alta definizione dispongono sempre di un'uscita sottoconvertita su cui è disponibile il segnale a definizione standard, il quale è selezionabile sia in 16:9 anamorfico che in 4:3 con taglio dei bordi, oppure letterbox.
+
+
+=== Cineprese ===
+La pellicola Super 16 mm era usata frequentemente nelle produzioni destinate alla televisione. Il Super 16 mm richiede pellicola monoperforata e usa tutta l'area disponibile al di fuori della perforazione. Per via del basso costo e della qualità delle riprese, era un sistema vantaggioso per eseguire riprese destinate a produzioni di alto livello a un costo inferiore alle apparecchiature televisive, tenendo conto che il negativo non viene stampato ma telecinemato.
+Il bordo non perforato della pellicola, normalmente destinato alla traccia audio che qui non è prevista, permette di ottenere un proporzioni di 1,66:1, molto simile al 16:9 (1,78:1). La qualità delle riprese è sufficiente anche per una stampa in 35 mm destinata alla proiezione cinematografica.
+
+
+=== Telecinema ===
+Il formato video all'uscita da un telecinema è selezionabile secondo le esigenze di produzione. In modalità Pan & Scan, è anche possibile scegliere di volta in volta quale parte dei bordi sacrificare.
+
+
+=== Mixer video ===
+Tutti i mixer video in produzione posso operare indifferentemente con qualsiasi proporzioni desiderato, posto che questo sia identico per tutti i segnali in ingresso e in uscita.
+I mixer video più sofisticati sono in grado di operare automaticamente conversioni di formato e di gestire segnali sia in 4:3 che in 16:9, programmando in anticipo il tipo di conversione richiesta.
+
+
+=== Trasporto e visualizzazione del segnale ===
+L'interfaccia SDI permette il trasporto di segnali di entrambi i formati.
+In effetti, nella versione più diffusa, a 270 Mbit/s, non c'è alcuna differenza pratica tra un segnale in 4:3 e uno in 16:9, a parte le proporzioni dei pixel. Mixer video, matrici e videoregistratori/video server sono quindi in grado di gestire agevolmente entrambe le proporzioni senza problemi. Naturalmente, è da considerare il fatto che i segnali non vengono convertiti ma instradati così come sono, per cui una serie di clip in uscita da un videoserver dovrà comprendere solo immagini di un solo formato per evitare problemi di visualizzazione.
+In particolare, come mostrato nelle immagini seguenti, un'immagine nativa in 16:9 può essere visualizzata su monitor convenzionali in 4:3 sia in modalità anamorfica che letterbox. Nel primo caso l'immagine appare deformata verticalmente, nel secondo le proporzioni sono corrette ma una parte del monitor non viene utilizzata.
+La modalità letterbox non va confusa con il finto 16:9 (vedi sotto) che è invece un segnale in 4:3: nel primo caso, infatti, si utilizza semplicemente una porzione minore del monitor senza intervenire sul segnale.
+I multiviewer in uso negli studi sono configurabili per visualizzare agevolmente segnali di entrambi i formati.
+Dal momento che l'effetto pillarbox dovuto alla conversione di un segnale 4:3 in 16:9 è molto fastidioso alla vista, molte emittenti, fra cui principalmente Sky Sport, riempiono le bande laterali con motivi grafici, in modo da utilizzare comunque tutta la larghezza dello schermo a disposizione.
+
+
+== Proporzioni in fotografia ==
+Un formato comune in fotografia è il 3:2 (o 1,5:1) del formato 24×36 su pellicola 35 mm. Questo rapporto è usato anche dalla maggior parte delle reflex digitali.
+Un altro formato molto comune è il 4:3, utilizzato dagli apparecchi conformi al sistema Quattro Terzi della Olympus e da quasi la totalità delle fotocamere digitali compatte, benché quelle più sofisticate possano produrre immagini con formati più panoramici.
+Il sistema APS prevede tre diversi formati:
+
+APS-C ("classic") - 1,5:1
+APS-H ("High definition") - 1,81:1
+APS-P ("Panoramic") - 3:1Le macchine a medio e grande formato offrono una certa varietà di formati, di solito indicati con le dimensioni del negativo in centimetri: 6×6, 6×7, 6×9 e 9×12 sono tra i più comunemente usati.
+
+
+== Formati e loro applicazioni ==
+
+
+== Note ==
+
+
+== Voci correlate ==
+Pixel aspect ratio (PAR)
+Storage aspect ratio (SAR)
+Video
+Formati cinematografici
+Video anamorfico
+Widescreen
+Letterbox
+Fullscreen
+Pan and scan
+Open matte
+Mascherino
+Risoluzioni standard
+HDTV
+Formato carta
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file sul rapporto d'aspetto
+
+
+== Collegamenti esterni ==
+(EN)  Aspect Ratios - Dal sito Widescreen.org
+ Valutazione finale del piano d'azione 16/9 - Riepilogo generale (PDF) (PDF), su ec.europa.eu.
+Lista canali 16:9 trasmessi via satellite - Dal sito King of Sat
+Lista canali HDTV trasmessi via satellite - Dal sito King of Sat

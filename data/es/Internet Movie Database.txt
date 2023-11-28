@@ -1,0 +1,83 @@
+Internet Movie Database (IMDb, en español: Base de datos de películas en Internet) es una base de datos en línea que en un principio almacena información relacionada con películas, y con el tiempo se transforma en la base de datos más grande del mundo donde se encuentran programas de televisión, eventos en vivo y difundidos en televisión o en la web, entrega de premios, especiales y videojuegos. Se encuentra el personal de equipo de producción (incluyendo directores y productores), actores, series y programas de televisión, videojuegos, actores de doblaje y personajes ficticios que aparecen en los medios de entretenimiento visual. Recibe más de 100 millones de usuarios únicos al mes y cuenta con una versión móvil.[3]​ IMDb fue inaugurada el 17 de octubre de 1990,[2]​ y en 1998 fue adquirida por Amazon.com.[4]​
+
+
+== IMDbPro ==
+Desde 2002 IMDb tiene una página «hermana» llamada IMDbPro, más completa, la cual requiere una suscripción de pago. Orientada a un público profesional, muestra información de contacto de personas y empresas ligadas a la industria cinematográfica canadiense-estadounidense, así como información de casting.[5]​
+
+
+== Historia ==
+Los antecedentes de IMDb se remontan a 1989, cuando un aficionado publicó una discusión en un grupo de noticias en usenet sobre actrices atractivas.[6]​ A partir de ese momento, otros usuarios de la lista comenzaron a recopilar actores y actrices con las películas en las que habían intervenido. La base de datos original fue construida a partir de las listas de créditos que Col Needham y otros dos lectores, Dave Knight y Andy Krieg, habían comenzado a publicar en el grupo. Needham publicó en septiembre de 1991 la primera herramienta simple (una serie de shell scripts de Unix) que permitía la consulta de las listas existentes en ese momento: la lista de directores, la de actores, la de actrices y la de actores fallecidos. La fusión de las cuatro la base de datos resultante se convertiría finalmente en la IMDb.[6]​
+
+
+=== Publicación del sitio web ===
+En 1992, la base de datos se había expandido para incluir categorías adicionales de cineastas, curiosidades, biografías y resúmenes argumentales. 
+En 1993 se publicó la interfaz para consultas utilizando correo electrónico creada por Alan Jay.[6]​ En 1994, la interfaz de correo electrónico se revisó para aceptar el envío de toda información, lo cual significaba que la gente ya no tendría que enviar sus actualizaciones a contenedores de listas específicos. Sin embargo, se mantuvo la estructura en la que la información recibida sobre una película era dividida entre múltiples administradores de sección. 
+Paralelamente, en el mismo año de 1993, se publicó la base de datos en la World Wide Web con el nombre de Cardiff Internet Movie Database.[7]​ Rob Hartill fue el autor original de la interfaz de la web que residía en los servidores del Departamento de Ciencias de la Computación de la Universidad de Cardiff (Reino Unido). Desde sus inicios el sitio web ha sido desarrollado en Perl y el sistema de base de datos es un desarrollo propio.[8]​ 
+Durante los años siguientes IMDb se gestionó como un esfuerzo colectivo de un grupo de voluntarios mientras se agregaban nuevas listas, se completaban contenidos incorporando características internacionales como la lista de nombres alternativos y se sucedían mejoras y reescrituras del software.[6]​
+
+
+=== Constitución como empresa ===
+En 1996, IMDb se constituyó como empresa en el Reino Unido, con el nombre de The Internet Movie Database Ltd.[9]​ El fundador, Col Needham, se convirtió en el propietario primario así como en su imagen principal. IMDb se convirtió en un servicio patrocinado y financiado con publicidad. El debut empresarial se acompañó de nuevas secciones y una reescritura y optimización del sitio web.[6]​
+
+
+=== Adquisición por Amazon.com ===
+En 1998, Jeff Bezos, el fundador y propietario de Amazon.com, llegó a un acuerdo con Col Needham y otros accionistas principales para comprar el 100% de las acciones de IMDb y adjuntarlo a Amazon.com como una empresa filial.[10]​ Esto dio a IMDb la capacidad para pagar salarios a los accionistas por su trabajo, mientras Amazon.com sería capaz de usar el IMDb como un recurso de anuncios para vender DVD y cintas de vídeo.
+IMDb continuó expandiendo su funcionalidad. El 15 de enero de 2002, añadió un servicio de suscripción conocido como IMDbPro, dirigido a los profesionales del entretenimiento. IMDbPro fue anunciado y lanzado en el Festival de Cine de Sundance en 2002.[5]​ Proporciona una variedad de servicios incluyendo detalles sobre la producción de la película, taquilla, así como un directorio de la empresa.
+Como un incentivo adicional para los usuarios, a partir de 2003, si son identificados entre los "100 mejores contribuidores" en términos de cantidades de presentaciones de datos sólidos, reciben acceso gratuito a IMDbPro para el siguiente año; para 2006, esto fue aumentado a los 150 mejores contribuidores, y para 2010, a los 250 mejores.[11]​ En noviembre de 2008, IMDb lanzó su primera versión oficial en un idioma extranjero, con IMDb.de (en alemán).[12]​ Adicionalmente en 2008, IMDb adquirió otras dos compañías: Withoutabox[13]​ y Box Office Mojo.[14]​
+El 17 de octubre de 2010, IMDb lanzó un vídeo original en celebración de su 20° aniversario.[15]​ A partir de mayo de 2011, el sitio ha sido filtrado en China durante más de un año, aunque muchos internautas lo abordan a través de un servidor proxy o red privada virtual.
+A principios de junio de 2019 se confirmó el lanzamiento de la plataforma de streaming IMDb.[16]​[17]​
+
+
+== IMDb Top 250 ==
+«The IMDb Top 250» es un listado de las 250 películas con mejor promedio de calificaciones, basado en votos de los usuarios registrados del sitio web. Solamente son tomados en consideración los largometrajes que tengan más de 25 000 calificaciones de usuarios; no se incluyen por tanto cortometrajes, telefilmes y documentales.[18]​
+
+
+== Búsqueda avanzada ==
+Esta función permite realizar una búsqueda avanzada dentro de la base de datos. Hay cuatro maneras de realizar esta búsqueda. La primera de todas es realizar una búsqueda sobre películas, series o videojuegos mediante el título en cuestión. La segunda opción es realizar una búsqueda de personas por sus respectivos nombres. La tercera opción de búsqueda consiste en buscar títulos mediante la colaboración de dos personas, bien pueden ser dos actores, actor y director, etc. Esta búsqueda se puede realizar introduciendo el nombre de ambas personas en el buscador o bien introduciendo dos títulos (p.e. el nombre de una película) en los que aparezcan las mismas personas. La cuarta opción de búsqueda consiste en realizar una búsqueda según un tema o tópico, dentro de esta opción hay dos maneras más concretas de realizar dicha búsqueda. La primera opción permite encontrar títulos mediante el argumento, las citas, su banda sonora, las versiones que se han hecho del mismo título, etc. La segunda opción permite encontrar personas mediante su biografía, citas o curiosidades.[19]​
+Tatuaje
+
+
+== Calendario de estreno ==
+Este apartado de la página web permite al usuario hacer una búsqueda por meses de las series y películas que se estrenarán o volverán a la pantalla dicho mes. El calendario permite hacer una búsqueda de títulos según el género de estos, si son películas o series, su cualificación, la fecha de estreno o palabras clave. Esta función también permite al usuario escoger el orden en el que aparecerán los títulos en el listado según la popularidad de estos, el orden alfabético, la cualificación obtenida por IMDb, el número de votos, la fecha de estreno, la duración o la fecha en la que fueron añadidos al listado.[20]​
+
+
+== Buscador de celebridades ==
+Esta función permite realizar una búsqueda de celebridades entre más de 5 147 701 nombres. En este apartado viene ya un listado predeterminado de celebridades ordenado por popularidad, pero dicho listado puede ser ordenado al gusto del usuario por orden ascendente o descendente o bien por orden alfabético. También permite realizar una búsqueda por el nombre de la celebridad o su fecha de nacimiento o muerte.[21]​
+
+
+== Zona de colaboradores ==
+IMDb pone especial interés en que los usuarios de la página añadan nuevo contenido a esta. La grande y constante participación de los usuarios de esta página web es una de las razones por las que esta base de datos contiene tanta información. Asimismo esta función permite al usuario de la página registrarse como colaborador para poder así añadir y modificar contenido de la web. Registrarse como colaborador es totalmente gratuito.[22]​
+
+
+== Sección "conexiones" ==
+Una de las secciones más útiles para la investigación y los estudios audiovisuales es esta sección "oculta" llamada conexiones. Este apartado puede encontrarse desplazando la ficha de la película hasta llegar a una de las últimas secciones llamada "Did you know?", donde se encuentra el citado apartado.
+Son muchas las ocasiones en que en una película se hace un homenaje a otra o menciones a actores, repetición de diálogos o parodias. De este modo, en este apartado de conexiones se pueden ver estas referencias dentro de la película. [23]​
+
+
+== Aplicación móvil ==
+Desde que llegó la aplicación para móviles de IMDb mucha gente considera que la aplicación supera a la página web de escritorio tanto por su interfaz como por la velocidad de búsqueda y la comodidad que supone poder tener toda esta información en el bolsillo cuando se necesite. [24]​Esta aplicación puede encontrarse tanto para sistemas operativos de Android o IOS y según la información publicada por IMDb, la aplicación ha sido descargada por más de 150 millones de personas alrededor del mundo. [25]​
+
+
+== Visualización instantánea ==
+El 15 de septiembre de 2008, se añadió una característica que permite una visualización instantánea de más de 6.000 películas y programas de televisión de CBS, Sony y una serie de cineastas independientes, con acceso directo desde sus perfiles. A causa de las restricciones de licencia, esta función solo está disponible para los espectadores en Estados Unidos.
+
+
+== Véase también ==
+Adult Film Database (AFDb)
+FilmAffinity
+Internet Adult Film Database (IAFD)
+Internet Broadway Database
+Rotten Tomatoes
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+IMDb (en inglés)
+Listado 250 mejores películas de Internet Movie Database
+IMDb Pro (en inglés), solo para suscriptores que paguen una cuota
+Versión móvil de IMDb (en inglés)
+
+Internet Movie Database en X (antes Twitter)
+Breve historia del proyecto desde 1989 hasta junio de 1998

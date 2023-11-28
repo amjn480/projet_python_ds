@@ -1,0 +1,1764 @@
+Ein Quantenprozessor bzw. Quantencomputer ist ein Prozessor, der die Gesetze der Quantenmechanik nutzt. Im Unterschied zum klassischen Computer arbeitet er nicht auf der Basis makroskopischer Zustände elektronischer Schaltkreise, sondern quantenmechanischer Zustände geeigneter Systeme. Damit ist es möglich, im Laufe der Rechnung Superpositionszustände und Quantenverschränkung zu erzeugen, die beide für die Informationsverarbeitung in Quantencomputern entscheidend sind.
+Quantenalgorithmen könnten die Berechnungszeit für viele mathematische und physikalische Problemstellungen deutlich verringern. Beispielsweise zeigen theoretische Studien, dass Quantenalgorithmen bestimmte Probleme der Informatik, z. B. die Suche in extrem großen Datenbanken (siehe Grover-Algorithmus) und die Faktorisierung großer Zahlen (siehe Shor-Algorithmus) effizienter lösen können als klassische Algorithmen.
+Geprägt wurde der Begriff auf der ersten Conference on the Physics of Computation am MIT im Mai 1981 durch die Vorträge der Physiker Paul Benioff und Richard Feynman über quantum computing. Benioff präsentierte seine Arbeit, die zeigte, dass Computer unter den Gesetzen der Quantenmechanik arbeiten können. Feynmans Vortrag stellte erstmals ein Grundmodell für einen Quantencomputer vor.Der Quantencomputer blieb lange ein überwiegend theoretisches Konzept. Es gab verschiedene Vorschläge, wie ein Quantencomputer realisiert werden könnte, in kleinem Maßstab wurden einige dieser Konzepte im Labor erprobt und Quantencomputer mit wenigen Qubits realisiert. Der Rekord lag im November 2021 bei 127 Qubits für den Prozessor und ein Jahr später bei 433 Qubits. Neben der Anzahl der Qubits ist aber auch zum Beispiel eine geringe Fehlerquote beim Rechnen und Auslesen wichtig und wie lange die Zustände in den Qubits fehlerfrei aufrechterhalten werden können.
+Seit 2018 investieren viele Regierungen und Forschungsorganisationen sowie große Computer- und Technologiefirmen weltweit in die Entwicklung von Quantencomputern, die von vielen als eine der entstehenden Schlüsseltechnologien des 21. Jahrhunderts angesehen werden.
+
+
+== Mögliche Anwendungsgebiete ==
+Dort, wo klassische Supercomputer an der Komplexität bestimmter Aufgaben scheitern, könnten Quantencomputer eine Lösung sein. Neben einer Reihe konkreter Algorithmen, für die Quantenalgorithmen eine nachweisbar vorteilhaftere Komplexität haben als die besten bekannten klassischen Algorithmen (und die in Bereichen wie Kryptoanalyse oder der Simulation von Quantensystemen nützlich sind), gibt es mehrere breite Anwendungsbereiche, in denen Quantencomputer neue Arten von Algorithmen ermöglichen, von denen man sich ohne komplexitätstheoretische Argumente Vorteile verspricht und die Gegenstand aktueller Forschung sind wie:
+
+Optimierungsaufgaben (zum Beispiel aus den Bereichen Finanzwirtschaft und Logistik sowie energetische Optimierungen);
+Simulationen (beispielsweise um neue chemische Stoffe für Biotechnologie oder Medikamente zu finden oder neue Werkstoffe für Akkumulatoren);
+maschinelle Lernverfahren (als quantenmaschinelles Lernen für verschiedenste Aufgabengebiete wie Mustererkennung);Neben Komplexitätsvorteilen kann die Verwendung von Quantencomputern auch Vorteile in der Abhör- und Manipulationssicherheit von Rechnungen bieten, die mit klassischen Computern auch theoretisch nicht erreichbar sind. Hierzu gehören die Generierung von echten Zufallszahlen oder kryptographische Anwendungen wie blind quantum computation, die es erlaubt, Rechnungen auf einem entfernten Quantencomputer (Server) so durchführen zu lassen, dass der Serverbetreiber nichts über die Rechnung und ihr Ergebnis erfahren kann und sich auch verifizieren lässt, dass die gewünschte Rechnung durchgeführt wurde.
+
+
+== Technologie ==
+
+
+=== Qubits ===
+
+In einem klassischen Computer werden sämtliche Informationen in Bits dargestellt. Physikalisch wird ein Bit dadurch realisiert, dass ein elektrisches Potential entweder oberhalb eines bestimmten Pegels liegt oder unterhalb.
+Auch in einem Quantencomputer wird Information in der Regel binär dargestellt. Dazu bedient man sich eines physikalischen Systems mit zwei orthogonalen Basiszuständen eines zweidimensionalen komplexen Raums, wie er in der Quantenmechanik auftritt. In der Dirac-Notation wird der eine Basiszustand durch den quantenmechanischen Zustandsvektor 
+  
+    
+      
+        
+          |
+        
+        0
+        ⟩
+      
+    
+    {\displaystyle |0\rangle }
+   repräsentiert, der andere durch den Zustandsvektor 
+  
+    
+      
+        
+          |
+        
+        1
+        ⟩
+      
+    
+    {\displaystyle |1\rangle }
+  . Bei diesen quantenmechanischen Zwei-Niveau-Systemen kann es sich z. B. um den Spinvektor eines Elektrons handeln, der entweder nach „oben“ oder nach „unten“ zeigt. Andere Implementierungen nutzen das Energieniveau in Atomen oder Molekülen oder die Flussrichtung eines Stroms in einem ringförmigen Supraleiter. Oft werden nur zwei Zustände aus einem größeren Hilbertraum des physikalischen Systems ausgewählt, zum Beispiel die zwei niedrigsten Energieeigenzustände eines eingefangenen Ions. Ein solches quantenmechanisches Zweizustandssystem wird Qubit (Quanten-Bit) genannt.
+Eine Eigenschaft quantenmechanischer Zustandsvektoren ist, dass diese eine Überlagerung anderer Zustände sein können. Dies wird auch Superposition genannt. Im konkreten Fall bedeutet dies, dass ein Qubit nicht entweder 
+  
+    
+      
+        
+          |
+        
+        0
+        ⟩
+      
+    
+    {\displaystyle |0\rangle }
+   oder 
+  
+    
+      
+        
+          |
+        
+        1
+        ⟩
+      
+    
+    {\displaystyle |1\rangle }
+   sein muss, wie dies für die Bits des klassischen Computers der Fall ist. Vielmehr ergibt sich der Zustand eines Qubits in dem oben erwähnten zweidimensionalen komplexen Raum mit:
+
+Eine Superposition  
+  
+    
+      
+        |
+        Ψ
+        ⟩
+      
+    
+    {\displaystyle \vert \Psi \rangle }
+   ist dann allgemein eine komplexe Linearkombination aus diesen orthonormalen Basisvektoren mit:
+
+  
+    
+      
+        |
+        Ψ
+        ⟩
+        =
+        
+          c
+          
+            0
+          
+        
+        |
+        0
+        ⟩
+        +
+        
+          c
+          
+            1
+          
+        
+        |
+        1
+        ⟩
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    c
+                    
+                      0
+                    
+                  
+                
+              
+              
+                
+                  
+                    c
+                    
+                      1
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        ;
+        
+        
+          |
+        
+        
+          c
+          
+            0
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        +
+        
+          |
+        
+        
+          c
+          
+            1
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        =
+        1
+        ;
+        
+        
+          c
+          
+            0
+          
+        
+        ,
+        
+          c
+          
+            1
+          
+        
+        ∈
+        
+          C
+        
+      
+    
+    {\displaystyle \vert \Psi \rangle =c_{0}\vert 0\rangle +c_{1}\vert 1\rangle ={\begin{pmatrix}c_{0}\\c_{1}\end{pmatrix}};\quad |c_{0}|^{2}+|c_{1}|^{2}=1;\quad c_{0},c_{1}\in \mathbb {C} }
+  ,wobei wie in der kohärenten Optik beliebige Überlagerungszustände zugelassen sind. Der Unterschied zwischen klassischem und quantenmechanischem Computing ist also analog dem zwischen inkohärenter bzw. kohärenter Optik (im ersten Fall werden Intensitäten addiert, im zweiten direkt die Feldamplituden, wie etwa in der Holographie).
+Zur Normierung fordert man 
+  
+    
+      
+        
+          |
+        
+        
+          c
+          
+            0
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        +
+        
+          |
+        
+        
+          c
+          
+            1
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle |c_{0}|^{2}+|c_{1}|^{2}=1}
+  . Ohne Beschränkung der Allgemeinheit kann 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+   reell und nichtnegativ gewählt werden. Das Qubit liest man in der Regel aus, indem man eine in der Basis 
+  
+    
+      
+        {
+        
+          |
+        
+        0
+        ⟩
+        ,
+        
+          |
+        
+        1
+        ⟩
+        }
+      
+    
+    {\displaystyle \{|0\rangle ,|1\rangle \}}
+   diagonale und nicht entartete Observable misst, also z. B. 
+  
+    
+      
+        A
+        =
+        
+          |
+        
+        1
+        ⟩
+        ⟨
+        1
+        
+          |
+        
+      
+    
+    {\displaystyle A=|1\rangle \langle 1|}
+  . Die Wahrscheinlichkeit dafür, als Resultat dieser Messung am Zustand 
+  
+    
+      
+        |
+        Ψ
+        ⟩
+      
+    
+    {\displaystyle \vert \Psi \rangle }
+   den Wert 0 zu erhalten, beträgt 
+  
+    
+      
+        P
+        (
+        0
+        )
+        =
+        
+          |
+        
+        ⟨
+        0
+        |
+        Ψ
+        ⟩
+        
+          
+            |
+          
+          
+            2
+          
+        
+        =
+        
+          |
+        
+        
+          c
+          
+            0
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle P(0)=|\langle 0\vert \Psi \rangle |^{2}=|c_{0}|^{2}}
+   und die für das Resultat 1 entsprechend 
+  
+    
+      
+        P
+        (
+        1
+        )
+        =
+        
+          |
+        
+        
+          c
+          
+            1
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        =
+        1
+        −
+        P
+        (
+        0
+        )
+      
+    
+    {\displaystyle P(1)=|c_{1}|^{2}=1-P(0)}
+  .
+Dieses probabilistische Verhalten darf nicht so interpretiert werden, dass sich das Qubit mit einer bestimmten Wahrscheinlichkeit im Zustand 
+  
+    
+      
+        |
+        0
+        ⟩
+      
+    
+    {\displaystyle \vert 0\rangle }
+   und mit einer anderen Wahrscheinlichkeit im Zustand 
+  
+    
+      
+        
+          |
+          1
+          ⟩
+        
+      
+    
+    {\displaystyle \left\vert 1\right\rangle }
+   befindet, während andere Zustände nicht zugelassen sind. Ein solches ausschließendes Verhalten könnte man auch mit einem klassischen Computer erzielen, der einen Zufallsgenerator verwendet, um beim Auftreten von überlagerten Zuständen zu entscheiden, ob er mit 0 oder 1 weiterrechnet. In der statistischen Physik, die im Gegensatz zur Quantenmechanik inkohärent ist, wird solches ausschließendes Verhalten betrachtet. Für die Quantenrechnung ist hingegen die kohärente Überlagerung der verschiedenen Basiszustände, die relative Phase zwischen den verschiedenen Komponenten der Überlagerung und im Verlauf der Rechnung die Interferenz zwischen ihnen von entscheidender Bedeutung.
+
+
+=== Quantenregister, Verschränkung ===
+Wie beim klassischen Computer fasst man mehrere Qubits zu Quantenregistern zusammen. Der Zustand eines N-Qubit-Registers ist dann gemäß den Gesetzen der Vielteilchen-Quantenmechanik ein Zustand aus einem 
+  
+    
+      
+        
+          2
+          
+            N
+          
+        
+      
+    
+    {\displaystyle 2^{N}}
+  -dimensionalen Hilbertraum, dem Tensorprodukt der Zustandsräume der einzelnen Qubits. Eine mögliche Basis dieses Vektorraums ist die Produktbasis über der Basis 
+  
+    
+      
+        |
+        0
+        ⟩
+        ,
+        |
+        1
+        ⟩
+      
+    
+    {\displaystyle \vert 0\rangle ,\vert 1\rangle }
+  . Für ein Register aus zwei Qubits erhielte man demnach die Basis 
+  
+    
+      
+        |
+        00
+        ⟩
+        ,
+        |
+        01
+        ⟩
+        ,
+        |
+        10
+        ⟩
+        ,
+        |
+        11
+        ⟩
+      
+    
+    {\displaystyle \vert 00\rangle ,\vert 01\rangle ,\vert 10\rangle ,\vert 11\rangle }
+  . Der Zustand des Registers kann also eine beliebige Superposition dieser Basiszustände sein, hat also die Form
+
+  
+    
+      
+        Ψ
+        :=
+        
+          ∑
+          
+            
+              i
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              i
+              
+                N
+              
+            
+          
+        
+        
+          c
+          
+            
+              i
+              
+                1
+              
+            
+            …
+            
+              i
+              
+                N
+              
+            
+          
+        
+        
+        |
+        
+          i
+          
+            1
+          
+        
+        
+          i
+          
+            2
+          
+        
+        …
+        
+          i
+          
+            N
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \Psi :=\sum _{i_{1},\dots ,i_{N}}c_{i_{1}\dots i_{N}}\,\vert i_{1}i_{2}\dots i_{N}\rangle }
+  ,mit beliebigen komplexen Zahlen 
+  
+    
+      
+        
+          c
+          
+            
+              i
+              
+                1
+              
+            
+            …
+            
+              i
+              
+                N
+              
+            
+          
+        
+      
+    
+    {\displaystyle c_{i_{1}\dots i_{N}}}
+   und 
+  
+    
+      
+        
+          i
+          
+            1
+          
+        
+        ,
+        
+          i
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          i
+          
+            N
+          
+        
+        ∈
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle i_{1},i_{2},\dotsc ,i_{N}\in \{0,1\}}
+  , während bei klassischen Computern nur die Basiszustände selbst vorkommen.
+Die Zustände eines Quantenregisters lassen sich nicht immer aus den Zuständen unabhängiger Qubits zusammensetzen: Beispielsweise kann der Zustand
+
+  
+    
+      
+        Ψ
+        :=
+        
+          
+            1
+            
+              2
+            
+          
+        
+        
+          (
+          
+            |
+            01
+            ⟩
+            +
+            |
+            10
+            ⟩
+          
+          )
+        
+      
+    
+    {\displaystyle \Psi :={\frac {1}{\sqrt {2}}}\left(\vert 01\rangle +\vert 10\rangle \right)}
+  nicht in ein Produkt aus einem Zustand für das erste und einem Zustand für das zweite Qubit zerlegt werden. Man nennt einen derartigen Zustand daher auch verschränkt (in der englischsprachigen Literatur spricht man von entanglement). Das Gleiche gilt für den von 
+  
+    
+      
+        Ψ
+      
+    
+    {\displaystyle \Psi }
+   verschiedenen Zustand
+
+  
+    
+      
+        
+          Ψ
+          
+            ′
+          
+        
+        :=
+        
+          
+            1
+            
+              2
+            
+          
+        
+        
+          (
+          
+            |
+            01
+            ⟩
+            −
+            |
+            10
+            ⟩
+          
+          )
+        
+      
+    
+    {\displaystyle \Psi ^{\prime }:={\frac {1}{\sqrt {2}}}\left(\vert 01\rangle -\vert 10\rangle \right)}
+  .Diese Verschränkung ist ein Grund, warum Quantencomputer effizienter als klassische Computer sein können, d. h., dass sie prinzipiell bestimmte Probleme schneller als klassische Computer lösen können: Um den Zustand eines klassischen 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  -Bit-Registers darzustellen, benötigt man 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   Bits an Information. Der Zustand des Quanten-Registers ist aber ein Vektor aus einem 
+  
+    
+      
+        
+          2
+          
+            N
+          
+        
+      
+    
+    {\displaystyle 2^{N}}
+  -dimensionalen Vektorraum, so dass zu dessen Darstellung 
+  
+    
+      
+        
+          2
+          
+            N
+          
+        
+      
+    
+    {\displaystyle 2^{N}}
+   komplexwertige Koeffizienten benötigt werden. Bei großem 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   ist die Zahl 
+  
+    
+      
+        
+          2
+          
+            N
+          
+        
+      
+    
+    {\displaystyle 2^{N}}
+   viel größer als 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   selbst.
+Das Superpositionsprinzip wird oft so dargestellt, dass ein Quantencomputer in einem Quantenregister aus 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   Qubits gleichzeitig alle 
+  
+    
+      
+        
+          2
+          
+            N
+          
+        
+      
+    
+    {\displaystyle 2^{N}}
+   Zahlen von 0 bis 
+  
+    
+      
+        
+          
+            2
+            
+              N
+            
+          
+        
+        −
+        1
+      
+    
+    {\displaystyle {2^{N}}-1}
+   speichern könnte. Diese Vorstellung ist irreführend. Da eine am Register vorgenommene Messung stets genau einen der Basiszustände auswählt, lässt sich unter Anwendung des sogenannten Holevo-Theorems zeigen, dass der maximale zugängliche Informationsgehalt eines 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  -Qubit-Registers wie der eines klassischen 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  -Bit-Registers genau 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   Bit beträgt.Es ist dennoch korrekt, dass das Superpositionsprinzip eine Parallelität in den Rechnungen erlaubt, die über das hinausgeht, was in einem klassischen Parallelrechner passiert. Der zentrale Unterschied zum klassischen Parallelrechner ist, dass die durch das Superpositionsprinzip ermöglichte Parallelität nur durch Interferenz ausgenutzt werden kann. Für manche Probleme kann mit Quantenalgorithmen eine im Vergleich zu klassischen Verfahren stark reduzierte Laufzeit erzielt werden.
+
+
+=== Quantengatter ===
+
+Beim klassischen Computer werden durch Logikgatter (englisch Gates) elementare Operationen auf den Bits durchgeführt. Mehrere Gatter werden zu einem Schaltnetz verbunden, das dann komplexe Operationen wie das Addieren zweier Binärzahlen durchführen kann. Die Gatter werden durch physikalische Bauelemente wie Transistoren realisiert und die Information als elektrisches Signal durch diese Bauelemente geleitet.
+Berechnungen auf einem Quantencomputer laufen grundsätzlich anders ab: Ein Quantengatter (englisch Quantum Gate) ist kein technischer Baustein, sondern stellt eine elementare physikalische Manipulation eines oder mehrerer Qubits dar. Wie genau so eine Manipulation aussieht, hängt von der tatsächlichen physikalischen Natur des Qubits ab. So lässt sich der Spin eines Elektrons durch eingestrahlte Magnetfelder beeinflussen, der Anregungszustand eines Atoms durch Laserpulse. Obwohl also ein Quantengatter kein elektronischer Baustein, sondern eine im Verlauf der Zeit auf das Quantenregister angewendete Aktion ist, beschreibt man Quantenalgorithmen mit Hilfe von Schaltplänen, vgl. hierzu den Artikel Liste der Quantengatter.
+Formal ist ein Quantengatter eine unitäre Operation 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+  , die auf den Zustand des Quanten-Registers wirkt:
+
+  
+    
+      
+        Ψ
+        ↦
+        U
+        ⋅
+        Ψ
+        .
+      
+    
+    {\displaystyle \Psi \mapsto U\cdot \Psi .}
+  Ein Quantengatter kann daher als unitäre Matrix geschrieben werden. Ein Gatter, welches den Zustand eines Qubits umdreht (negiert), würde im Falle eines zweidimensionalen Zustandsraums der folgenden Matrix entsprechen:
+
+  
+    
+      
+        U
+        =
+        
+          
+            (
+            
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+              
+                
+                  1
+                
+                
+                  0
+                
+              
+            
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle U={\begin{pmatrix}0&1\\1&0\end{pmatrix}}.}
+  Mathematisch kann man die Negation damit als Matrixmultiplikation auf den Zustand eines Qubits verstehen, bei dem wie in der klassischen Logik der Zustand 
+  
+    
+      
+        
+          |
+        
+        0
+        ⟩
+      
+    
+    {\textstyle |0\rangle }
+   auf 
+  
+    
+      
+        
+          |
+        
+        1
+        ⟩
+      
+    
+    {\textstyle |1\rangle }
+   und umgekehrt 
+  
+    
+      
+        
+          |
+        
+        1
+        ⟩
+      
+    
+    {\displaystyle |1\rangle }
+   auf 
+  
+    
+      
+        
+          |
+        
+        0
+        ⟩
+      
+    
+    {\textstyle |0\rangle }
+   abgebildet wird.
+Auf einen allgemeinen Zustand angewendet vertauscht die Negation die komplexen darstellenden Koeffizienten der orthonormalen Basisvektoren 
+  
+    
+      
+        
+          |
+        
+        0
+        ⟩
+      
+    
+    {\textstyle |0\rangle }
+   und 
+  
+    
+      
+        
+          |
+        
+        1
+        ⟩
+      
+    
+    {\textstyle |1\rangle }
+  , d. h. mit
+
+liefert die Negation  
+  
+    
+      
+        U
+        ⋅
+        
+          |
+        
+        ψ
+        ⟩
+        =
+        U
+        ⋅
+        
+          
+            (
+            
+              
+                
+                  α
+                
+              
+              
+                
+                  β
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  β
+                
+              
+              
+                
+                  α
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle U\cdot |\psi \rangle =U\cdot {\begin{pmatrix}\alpha \\\beta \end{pmatrix}}={\begin{pmatrix}\beta \\\alpha \end{pmatrix}}}
+  .
+Im folgenden Beispiel wird die Negation auf das zweite Qubit angewendet, wobei das erste Qubit unverändert bleibt. Für die darstellende Matrix der Operation wird eine 
+  
+    
+      
+        4
+        ×
+        4
+      
+    
+    {\displaystyle 4\times 4}
+   Matrix benötigt. Zerlegt man die 
+  
+    
+      
+        4
+        ×
+        4
+      
+    
+    {\displaystyle 4\times 4}
+   Matrix in 4 
+  
+    
+      
+        2
+        ×
+        2
+      
+    
+    {\displaystyle 2\times 2}
+  -Matrizen findet man in der oberen linken 
+  
+    
+      
+        2
+        ×
+        2
+      
+    
+    {\displaystyle 2\times 2}
+  -Matrix die Einheitsmatrix und in der unteren rechten 
+  
+    
+      
+        2
+        ×
+        2
+      
+    
+    {\displaystyle 2\times 2}
+  -Matrix findet man die Negationmatrix 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   für ein Qubit. Insgesamt erhält man die Negationsmatrix für das zweite Qubit CNOT-Gatter:
+
+Ein Satz orthonormaler Basisvektoren eines 2-Qubit-Quantumspeichersystems ist:
+
+Auf diese Quantenzustände werden unitäre 
+  
+    
+      
+        4
+        ×
+        4
+      
+    
+    {\displaystyle 4\times 4}
+   Matrizen angewendet in einem Quantengatter. Die unitäre Matrix wird hier auf ein Zwei-Qubitzustände (als Spezialfall von Mehr-Qubitzustände) angewendet, um den Zustand zu modifizieren, z. B. das in 
+  
+    
+      
+        
+          
+            C
+          
+          
+            4
+          
+        
+      
+    
+    {\displaystyle \mathbb {C} ^{4}}
+   definierte CNOT-Gatter, mit der Zwei-Qubit-Zustandstabelle
+
+  
+    
+      
+        |
+        00
+        ⟩
+        →
+        |
+        00
+        ⟩
+      
+    
+    {\displaystyle \vert 00\rangle \to \vert 00\rangle }
+  ,
+
+  
+    
+      
+        |
+        01
+        ⟩
+        →
+        |
+        01
+        ⟩
+      
+    
+    {\displaystyle \vert 01\rangle \to \vert 01\rangle }
+  ,
+
+  
+    
+      
+        |
+        10
+        ⟩
+        →
+        |
+        11
+        ⟩
+      
+    
+    {\displaystyle \vert 10\rangle \to \vert 11\rangle }
+   und
+
+  
+    
+      
+        |
+        11
+        ⟩
+        →
+        |
+        10
+        ⟩
+      
+    
+    {\displaystyle \vert 11\rangle \to \vert 10\rangle }
+  . Dabei wird die Negation auf das zweite Qubit angewendet.
+
+  
+    
+      
+        CNOT
+        ⁡
+        
+          |
+        
+        00
+        ⟩
+        =
+        
+          |
+        
+        00
+        ⟩
+      
+    
+    {\textstyle \operatorname {CNOT} |00\rangle =|00\rangle }
+  , 
+  
+    
+      
+        CNOT
+        ⁡
+        
+          |
+        
+        01
+        ⟩
+        =
+        
+          |
+        
+        01
+        ⟩
+      
+    
+    {\textstyle \operatorname {CNOT} |01\rangle =|01\rangle }
+  , 
+  
+    
+      
+        CNOT
+        ⁡
+        
+          |
+        
+        10
+        ⟩
+        =
+        
+          |
+        
+        11
+        ⟩
+      
+    
+    {\textstyle \operatorname {CNOT} |10\rangle =|11\rangle }
+   und 
+  
+    
+      
+        CNOT
+        ⁡
+        
+          |
+        
+        11
+        ⟩
+        =
+        
+          |
+        
+        10
+        ⟩
+      
+    
+    {\textstyle \operatorname {CNOT} |11\rangle =|10\rangle }
+  
+Das Ergebnis lässt sich zusätzlich bezüglich Stellenindizes 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   und 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   symmetrisieren bzw. antisymmetrisieren, etwa nach dem Schema
+
+  
+    
+      
+        
+          |
+        
+        a
+        b
+        ⟩
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          [
+          
+            
+              (
+              
+                |
+                a
+                b
+                ⟩
+                +
+                |
+                b
+                a
+                ⟩
+              
+              )
+            
+            +
+            
+              (
+              
+                |
+                a
+                b
+                ⟩
+                −
+                |
+                b
+                a
+                ⟩
+              
+              )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle |ab\rangle ={\frac {1}{2}}\left[\left(\vert ab\rangle +\vert ba\rangle \right)+\left(\vert ab\rangle -\vert ba\rangle \right)\right]}
+  ,wodurch verschränkte Zustände entstehen.
+Ein Quantenschaltkreis besteht aus mehreren Quantengattern, die in fester zeitlicher Abfolge auf das Quantenregister angewendet werden. Beispiele hierfür sind die Quanten-Fouriertransformation oder der Shor-Algorithmus. Mathematisch ist ein Quantenschaltkreis auch eine unitäre Transformation, deren Matrix das Produkt der Matrizen der einzelnen Quantengatter ist.
+
+
+=== Einweg-Quantencomputer ===
+Ein weiterer Ansatz zur Implementierung eines Quantencomputers ist der sogenannte Einweg-Quantencomputer (one-way quantum computer, Hans J. Briegel, Robert Raußendorf 2001). Dieser unterscheidet sich vom Schaltkreismodell dadurch, dass zuerst ein universeller (also vom Problem unabhängiger) verschränkter Quantenzustand generiert wird (beispielsweise ein sogenannter Clusterzustand), und die eigentliche Rechnung durch gezielte Messungen an diesem Zustand durchgeführt wird. Dabei bestimmen die Ergebnisse früherer Messungen, welche weiteren Messungen durchgeführt werden.
+Anders als im Schaltkreismodell wird hier der verschränkte Quantenzustand nur als Ressource benutzt. Bei der eigentlichen Rechnung werden nur einzelne Qubits des verwendeten Zustands gemessen und klassische Rechnungen durchgeführt. Insbesondere werden dabei keine Mehr-Qubit-Operationen durchgeführt (die Herstellung des Zustands benötigt solche natürlich). Dennoch lässt sich zeigen, dass der Einweg-Quantencomputer genauso leistungsfähig ist wie ein auf dem Schaltkreismodell beruhender Quantencomputer.
+
+
+=== Adiabatische Quantencomputer ===
+Ein weiterer Ansatz für Quantencomputer beruht auf einem anderen Konzept: Gemäß den Gesetzen der Quantenmechanik bleibt ein quantenmechanisches System, das sich im Grundzustand (Zustand minimaler Energie) eines zeitunabhängigen Systems befindet, auch bei Veränderungen des Systems im Grundzustand, wenn die Veränderung nur hinreichend langsam (also adiabatisch) passiert. Die Idee des adiabatischen Quantencomputers ist es, ein System zu konstruieren, das einen zu dieser Zeit noch unbekannten Grundzustand hat, der der Lösung eines bestimmten Problems entspricht, und ein anderes, dessen Grundzustand leicht experimentell zu präparieren ist. Anschließend wird das leicht zu präparierende System in das System überführt, an dessen Grundzustand man interessiert ist, und dessen Zustand dann gemessen. Wenn der Übergang langsam genug erfolgt ist, hat man so die Lösung des Problems.
+Die Firma D-Wave Systems hat 2007 bekannt gegeben, einen kommerziell verwendbaren Quantencomputer entwickelt zu haben, der auf diesem Prinzip beruht. Am 26. Mai 2011 verkaufte die Firma D-Wave Systems den Quantencomputer D-Wave One an die Lockheed Martin Corporation. Ihre Ergebnisse sind allerdings noch umstritten. Laut IBM ist eine kommerzielle Nutzung bisher kaum möglich. 2015 stellte D-Wave Systems ihre verbesserte und aufwärts skalierbare Version D-Wave-2X der Öffentlichkeit vor. Der adiabatische Quantencomputer, der speziell für die Lösung von Optimierungsproblemen entwickelt wurde, soll bei einigen Problemen bis zu 15-mal so schnell sein wie herkömmliche klassische Spezialcomputer für die jeweiligen Probleme (beim D-Wave One war das noch nicht so). Nach Angaben von D-Wave benutzt er supraleitende Technologie und über 1.000 Qubits (genannt 1000+ Qubits, ausgelegt auf 1.152 Qubits), bei einer Arbeitstemperatur von 15 mK. Die Qubits werden hier durch je eine supraleitende Schleife realisiert, in der die Information über die Flussrichtung codiert ist. Ein Exemplar wurde an Google und die NASA verkauft, die schon 2013 einen D-Wave-Computer der ersten Generation mit 512 Qubits erwarben. Google benutzt ihn, um die Vorteile von Quantum-Annealing-Algorithmen auszuloten, das heißt Quantenversionen von Simulated Annealing.
+
+
+=== Physikalische Realisierung ===
+Das bisher beschriebene Konzept ist zunächst sehr abstrakt, aber allgemein gültig. Will man einen konkret nutzbaren Quantencomputer bauen, muss man die natürlichen physikalischen Einschränkungen beachten, die im Folgenden beschrieben werden.
+
+
+==== Relaxation ====
+Überlässt man das System sich selbst, neigt es dazu, mit der Umgebung ein thermisches Gleichgewicht auszubilden. Im einfachsten Fall geschieht dies über Energieaustausch mit der Umgebung, der mit Zustandsänderung der Qubits einhergeht. Dies führt dazu, dass ein Qubit aus dem Zustand 
+  
+    
+      
+        |
+        1
+        ⟩
+      
+    
+    {\displaystyle \vert 1\rangle }
+   nach einer gewissen Zeit mit einer bestimmten Wahrscheinlichkeit in den Zustand 
+  
+    
+      
+        |
+        0
+        ⟩
+      
+    
+    {\displaystyle \vert 0\rangle }
+   gesprungen ist und umgekehrt. Diesen Prozess nennt man Relaxation. Als Relaxationszeit 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+      
+    
+    {\displaystyle T_{1}}
+   bezeichnet man die charakteristische Zeit, in welcher sich das System (meist exponentiell) seinem stationären Zustand nähert.
+
+
+==== Dekohärenz ====
+Mit Dekohärenz ist der Verlust der Superpositionseigenschaften eines Quantenzustands gemeint. Durch den Einfluss der Umgebung entwickelt sich aus einem beliebigen Superpositionszustand 
+  
+    
+      
+        
+          {
+          
+            
+              c
+              
+                0
+              
+            
+            |
+            0
+            ⟩
+            +
+            
+              c
+              
+                1
+              
+            
+            |
+            1
+            ⟩
+          
+          }
+        
+      
+    
+    {\displaystyle \left\lbrace c_{0}\vert 0\rangle +c_{1}\vert 1\rangle \right\rbrace }
+   (wobei 
+  
+    
+      
+        
+          
+            c
+            
+              i
+            
+          
+          ∈
+          
+            C
+          
+          ,
+           
+          
+            ∑
+            
+              i
+            
+          
+          
+            |
+          
+          
+            c
+            
+              i
+            
+          
+          
+            
+              |
+            
+            
+              2
+            
+          
+          =
+          1
+        
+      
+    
+    {\displaystyle \textstyle c_{i}\in \mathbb {C} ,\ \sum _{i}|c_{i}|^{2}=1}
+  ) entweder der Zustand 
+  
+    
+      
+        |
+        0
+        ⟩
+      
+    
+    {\displaystyle \vert 0\rangle }
+   oder der Zustand 
+  
+    
+      
+        |
+        1
+        ⟩
+      
+    
+    {\displaystyle \vert 1\rangle }
+   (mit entsprechenden Wahrscheinlichkeiten, die zum Beispiel durch 
+  
+    
+      
+        
+          |
+        
+        
+          c
+          
+            i
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle |c_{i}|^{2}}
+   gegeben sein können, während gemischte Terme (z. B. 
+  
+    
+      
+        ∼
+        
+          c
+          
+            0
+          
+          
+            ∗
+          
+        
+        
+          c
+          
+            1
+          
+        
+        
+      
+    
+    {\displaystyle \sim c_{0}^{*}c_{1}\,}
+  ) nicht auftreten (Zustandsreduktion; inkohärente vs. kohärente Superposition; Thermalisierung, wie in der statistischen Physik)). Dann verhält sich das Qubit nur noch wie ein klassisches Bit. Die Dekohärenzzeit 
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{2}}
+   ist in der Regel ebenfalls exponential verteilt und typischerweise kleiner als die Relaxationszeit. Während die Relaxation auch für klassische Computer ein Problem bedeutet (so könnten sich Magnete auf der Festplatte spontan umpolen), ist die Dekohärenz ein rein quantenmechanisches Phänomen.
+Die Verlässlichkeit von Quantencomputern kann durch die sogenannte Quantenfehlerkorrektur erhöht werden.
+
+
+== Berechenbarkeits- und Komplexitätstheorie ==
+Da formal festgelegt ist, wie ein Quantencomputer arbeitet, können die aus der theoretischen Informatik bekannten Begriffe wie Berechenbarkeit oder Komplexitätsklasse auch auf einen Quantencomputer übertragen werden. Dabei zeigt sich, dass die Menge der lösbaren (berechenbaren) Probleme für einen Quantencomputer nicht größer ist als für einen klassischen Computer. Das heißt, die Church-Turing-These gilt auch für Quantencomputer. Allerdings gibt es starke Indizien dafür, dass sich einige Probleme mit einem Quantencomputer sehr viel (exponentiell) schneller lösen lassen. Der Quantencomputer stellt also ein mögliches Gegenbeispiel zur erweiterten Church-Turing-These dar.
+
+
+=== Berechenbarkeit ===
+Ein klassischer Computer kann einen Quantencomputer simulieren, da die Wirkung der Gatter auf dem Quantenregister einer Matrix-Vektor-Multiplikation entspricht. Der klassische Computer muss nun einfach all diese Multiplikationen ausführen, um den Anfangs- in den Endzustand des Registers zu überführen. Die Konsequenz dieser Simulierbarkeit ist, dass alle Probleme, die auf einem Quantencomputer gelöst werden können, auch auf einem klassischen Computer gelöst werden können. Umgekehrt bedeutet dies, dass Probleme wie das Halteproblem auch auf Quantencomputern nicht gelöst werden können. Das heißt, auch der Quantencomputer ist kein Gegenbeispiel zur Church-Turing-These.
+Umgekehrt kann ein Quantencomputer auch einen klassischen Computer simulieren.
+David Deutsch entwickelte 1985 ein formales Modell für einen Rechner, der in der Lage sein soll, beliebige physikalische Systeme effizient zu simulieren. Sein Modell ist das quantenmechanische Analogon zur klassischen Turing-Maschine, die Quanten-Turing-Maschine (QTM).Dazu muss man zunächst wissen, dass jeder logische Schaltkreis allein aus NAND-Gattern gebildet werden kann. Mit dem Toffoli-Gatter kann man bei geeigneter Beschaltung der drei Eingänge nun ein Quantengatter erhalten, das sich auf Qubits in der Basis der klassischen Bits 
+  
+    
+      
+        |
+        0
+        ⟩
+        ,
+        |
+        1
+        ⟩
+      
+    
+    {\displaystyle \vert 0\rangle ,\vert 1\rangle }
+   wie ein NAND-Gatter verhält. Außerdem lässt sich das Toffoli-Gate dazu verwenden, ein Eingangsbit zu verdoppeln. Aufgrund des No-Cloning-Theorems ist dies allerdings nur für die Zustände 
+  
+    
+      
+        |
+        0
+        ⟩
+        ,
+        |
+        1
+        ⟩
+      
+    
+    {\displaystyle \vert 0\rangle ,\vert 1\rangle }
+   möglich. Diese Verdopplung (auch Fan-Out genannt) ist deshalb nötig, weil es bei einem klassischen Schaltkreis möglich ist, ein Bit auf zwei Leitungen zu verteilen.
+
+
+=== Komplexität ===
+Im Rahmen der Komplexitätstheorie ordnet man algorithmische Probleme sogenannten Komplexitätsklassen zu. Die bekanntesten und wichtigsten Vertreter sind die Klassen P und NP. Dabei bezeichnet P diejenigen Probleme, deren Lösung deterministisch in zur Eingabelänge polynomieller Laufzeit berechnet werden kann. In NP liegen die Probleme, zu denen es Lösungsalgorithmen gibt, die nicht-deterministisch polynomiell sind. Der Nicht-Determinismus erlaubt, gleichzeitig verschiedene Möglichkeiten abzutesten. Da unsere aktuellen Rechner deterministisch laufen, muss der Nicht-Determinismus durch Hintereinanderausführung der verschiedenen Möglichkeiten simuliert werden, wodurch die Polynomialität der Lösungsstrategie verloren gehen kann.
+Für Quantencomputer definiert man die Komplexitätsklasse BQP (bounded-error quantum polynomial time, eingeführt 1993 durch Umesh Vazirani und Ethan Bernstein). Diese enthält diejenigen Probleme, deren Laufzeit polynomiell von der Eingabelänge abhängt und deren Fehlerwahrscheinlichkeit unter 
+  
+    
+      
+        
+          
+            
+              1
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{3}}}
+   liegt. Es lässt sich zeigen, dass die Simulation eines Quantencomputers und damit auch BQP in der Komplexitätsklasse PSPACE liegt. Ferner gilt P 
+  
+    
+      
+        ⊆
+      
+    
+    {\displaystyle \subseteq }
+   BQP, da ein Quantencomputer auch klassische Computer mit höchstens polynomiellem Zeitverlust simulieren kann.
+Man geht davon aus, dass es keinen Simulationsalgorithmus gibt, der einen Quantencomputer mit polynomiellem Zeitverlust simuliert, das heißt, dass die erweiterte Church-Turing-These nicht gilt. Bewiesen ist das allerdings nicht. Auch wie BQP zur wichtigen Klasse NP in Beziehung steht, ist noch unklar. Man weiß nicht, ob ein Quantencomputer ein NP-vollständiges Problem effizient lösen kann oder nicht. Könnte man nachweisen, dass BQP eine echte Teilmenge von NP ist, wäre damit auch das P-NP-Problem gelöst: Dann gälte nämlich P 
+  
+    
+      
+        ≠
+      
+    
+    {\displaystyle \neq }
+   NP. Andererseits würde aus dem Nachweis, dass NP echte Teilmenge von BQP ist, folgen, dass P echte Teilmenge von PSPACE ist. Sowohl das P-NP-Problem als auch die Frage P 
+  
+    
+      
+        ≠
+      
+    
+    {\displaystyle \neq }
+   PSPACE sind wichtige ungelöste Fragen der theoretischen Informatik.
+Wenn die Frage der Einordnung in Komplexitätsklassen sich für klassische Computer und Quantencomputer als zu schwierig erweisen, ist es in der Informatik üblich zunächst Berechnungsmodelle mit Orakeln zu betrachten, das heißt Zusatzinformationen auf eine Anzahl von Fragen (und je nach benötigter Anzahl kann man die Probleme „Orakel-separieren“). So bewiesen Vazirani und Bernstein in der Arbeit, in der sie BQP einführten, dass in Modellen mit Orakeln BQP größer als das klassische Gegenstück BPP ist (wobei sie den „Bernstein-Vazirani-Algorithmus“ und das zugehörige Problem benutzten). Das zeigte auch schon Daniel Simon 1994 in einem anderen Problem (Simon's Problem, ein Spezialfall des Problems verborgener Untergruppen im abelschen Fall, das als Inspiration für den Shor-Algorithmus diente), er konnte sogar zeigen, dass der Quantenalgorithmus das Problem bezüglich der benutzten Orakel exponentiell effizienter löst als ein klassischer Computer. Um die Frage zu klären wie die entsprechende Einordnung bezüglich Effizienz und Schnelligkeit aussieht, ist man des Weiteren daran interessiert, wie sich die Quantencomputer-Komplexitätsklasse BQP zur PH im klassischen Fall verhält. Scott Aaronson schlug 2010 vor, dazu das sogenannte Forrelation-Problem zu untersuchen und zeigte in einer „relationalen“ Version dieses Problems, dass dieses im Orakel-Modell in BQP aber nicht in PH liegt. 2018 zeigten dann Ran Raz und Avishay Tal dass das ursprüngliche Problem im Orakel-Modell in BQP, aber nicht in PH ist. Gegeben seien zwei Zufallszahlengeneratoren. Das Forrelation-Problem besteht darin, aus den erzeugten Zufallszahlenfolgen herauszufinden, ob die beiden Zufallszahlgeneratoren unabhängig sind oder die Folgen doch in verborgener Weise verbunden sind, genauer ob die eine die Fouriertransformation der anderen ist. Raz und Tal bewiesen, dass Quantencomputer sehr viel weniger Hinweise (Orakel) für die Lösung benötigen als klassische Computer (beide Klassen sind Orakel-separiert). Ein Quantencomputer benötigt sogar nur ein Orakel, in PH gibt es auch mit unendlich vielen Orakeln keinen Algorithmus, der das Problem löst. Das Beispiel zeigt, dass es selbst im Fall, dass P=NP gilt, Probleme gibt, die Quantencomputer effizient lösen können, klassische Rechner aber nicht. Ein klassischer Computer kann eine solche Antwort jedoch nicht einmal bestätigen. Nach diesem Ergebnis ist der Quantencomputer tatsächlich etwas grundsätzlich Neues.Bei anderen Problemen wie dem Faktorisierungsproblem ganzer Zahlen wird zwar vermutet, dass Quantencomputer prinzipiell schneller sind (Quantencomputer lösen es polynomialzeitlich mit dem Shor-Algorithmus), es lässt sich aber bisher nicht beweisen, da unbekannt ist, ob das Problem in der Komplexitätsklasse P liegt.
+Ein anderes Problem, von dem erwartet worden war, dass es effizient von Quantencomputern gelöst werden kann, nicht aber von klassischen Computern, ist das Empfehlungsproblem (Recommendation Problem), das sogar breite praktische Anwendung hat. Betrachtet wird zum Beispiel das für Online-Dienste wichtige Problem, aus dem Abruf von Diensten oder Waren durch Nutzer Voraussagen über deren Vorlieben zu machen, was sich formalisieren lässt als Auffüllen einer Matrix, die zum Beispiel Waren den Nutzern zuordnet. 2016 gaben Iordanis Kerenidis und Anupam Prakash einen Quantenalgorithmus, der exponentiell schneller war als jeder damals bekannte klassische Algorithmus. 2018 gab die Studentin Ewin Tang allerdings einen klassischen Algorithmus in Anlehnung an den Quantenalgorithmus an, der genauso schnell war und schreckte mit ihrer Bachelor-Arbeit die komplette Forschergemeinde auf.
+
+
+== Architektur für Quantencomputer ==
+Alle bisher demonstrierten Quantencomputer bestehen nur aus wenigen Qubits und waren hinsichtlich Dekohärenz- und Fehlerraten sowie der verwendeten Architektur zunächst nicht skalierbar. Unter Architektur versteht man in diesem Kontext das Konzept zur skalierbaren Anordnung einer sehr großen Zahl von Qubits. Zudem muss sichergestellt werden, dass die Fehlerrate pro Gatter klein ist (unterhalb der Schwelle für fehlertolerantes Rechnen) und zwar unabhängig von der Zahl der Qubits des Quantencomputers und von der räumlichen Entfernung der beteiligten Qubits im Quantenregister.
+Dazu wurde von David DiVincenzo ein Katalog von fünf Kriterien, die ein skalierbarer, fehlertoleranter Quantencomputer erfüllen muss, erstellt. Die DiVincenzo-Kriterien sind
+Er besteht aus einem skalierbaren System gut charakterisierter Qubits.
+Alle Qubits können in einen wohldefinierten Anfangszustand gebracht werden (z. B. 
+  
+    
+      
+        
+          |
+        
+        00
+        …
+        0
+        ⟩
+      
+    
+    {\displaystyle |00\dots 0\rangle }
+  ).
+Ein universelles Set elementarer Quantengatter kann ausgeführt werden.
+Einzelne Qubits (zumindest eines) können ausgelesen (gemessen) werden.
+Die relevante Dekohärenzzeit ist viel länger als die Zeit, die benötigt wird, ein elementares Quantengatter zu realisieren, sodass mit geeignetem fehlerkorrigierendem Code die Fehlerrate pro Gatter unter der Schwelle für fehlertolerantes Quantenrechnen liegt.Die größten Anforderungen ergeben sich aus dem ersten und dem letzten Punkt. Die Schwelle für fehlertolerantes Rechnen liegt je nach verwendetem Code und verwendeter Geometrie des Quantenregisters bei einer Fehlerwahrscheinlichkeit von 
+  
+    
+      
+        
+          10
+          
+            −
+            4
+          
+        
+      
+    
+    {\displaystyle 10^{-4}}
+   bis 
+  
+    
+      
+        
+          10
+          
+            −
+            2
+          
+        
+      
+    
+    {\displaystyle 10^{-2}}
+   (oder noch kleineren Werten) pro Gatter. Bisher ist kein universelles Set von Gattern mit dieser Genauigkeit realisiert worden.
+Oft werden die oben genannten Kriterien um zwei weitere ergänzt, die sich auf die Vernetzung innerhalb von Quantencomputern beziehen:
+
+Eine Quanten-Schnittstelle (englisch quantum interface) zwischen stationären und mobilen Qubits
+Mobile Qubits können zwischen verschiedenen Orten verlässlich ausgetauscht werden.Die Suche nach einer skalierbaren Architektur für einen fehlertoleranten Quantencomputer ist Gegenstand aktueller Forschung. Die Fragestellung ist, wie man erreichen kann, dass Quantengatter auf verschiedenen Qubits parallel (gleichzeitig) ausgeführt werden können, auch wenn die Wechselwirkung zwischen den physikalischen Qubits lokal ist, d. h. nicht jedes Qubit mit jedem anderen in direkter Wechselwirkung steht. Je nach verwendetem Konzept (Gatter-Netzwerk, Einweg-Quantencomputer, adiabatischer Quantencomputer, …) und der gewählten Implementierung (gefangene Ionen, supraleitende Schaltkreise, …) gibt es hierzu verschiedene Vorschläge, die bislang allenfalls für kleine Prototypen demonstriert wurden. Zu den konkretesten und weitest fortgeschrittenen Vorschlägen gehören die folgenden:
+
+Quantencomputer in mikrostrukturierter Ionenfalle: Qubits werden durch den internen Zustand einzelner gefangener Ionen realisiert. In einer mikrostrukturierten Falle werden die Ionen kontrolliert zwischen Speicher- und Wechselwirkungsregionen hin- und herbewegt. Anstatt die miteinander zu koppelnden Ionen in eine gemeinsame Wechselwirkungsregion zu bewegen, könnten auch langreichweitige Wechselwirkungen zwischen ihnen benutzt werden. In Experimenten an der Universität Innsbruck wurde demonstriert, dass zum Beispiel die elektrische Dipolwechselwirkung| zwischen kleinen Gruppen von oszillierenden Ionen (die als Antenne wirken) zur Kopplung von Ionen, die mehr als 50 Mikrometer voneinander entfernt sind, verwendet werden kann.
+Supraleitende Qubits in einem zweidimensionalen Netzwerk von supraleitenden Streifenleitungsresonatoren (stripline resonators).
+Quantencomputer auf Basis von Stickstoff-Fehlstellen-Zentren (NV-Zentren) in Diamant: Als Qubits fungieren Kernspins von Stickstoff-Atomen in einem zweidimensionalen Gitter von NV-Zentren; Auslese und Kopplung erfolgen über den elektronischen Spin des NV-Zentrums, wobei die Kopplung durch die magnetische Dipolwechselwirkung erreicht wird; inhomogene Magnetfelder ermöglichen die individuelle Adressierung und parallele Operation auf vielen Qubits. Solche Systeme bieten den Vorteil, dass sie auch bei Raumtemperatur funktionieren und ihr Einsatz auch in Flugzeugen oder Satelliten denkbar wäre.
+Quantencomputer auf Basis Optischer Gitter neutraler kalter Atome.
+Quantencomputer mit Elektronenspins in Quantenpunkten von Halbleitern.In neuerer Zeit gibt es Forschungsprojekte mit dem Ziel, rf-SQUIDS als Qubits für Quantencomputer einzusetzen.
+
+
+=== Komponenten ===
+Die Quanten-Hardware hat drei Hauptkomponenten.
+
+
+==== Quanten-Datenebene ====
+Die Quanten-Datenebene ist das Kernelement des Quantencomputers und umfasst die physikalischen Qubits und die Strukturen, die zu ihrer Fixierung erforderlich sind. Sie umfasst im Wesentlichen die Quantenregister.
+
+
+==== Steuer- und Messebene ====
+Die Steuer- und Messebene konvertiert digitale Signale in analoge oder Wellensteuersignale. Diese analogen Signale führen die Operationen an den Qubits in der Quanten-Datenebene durch.
+
+
+==== Steuerprozessor-Ebene und Host-Prozessor ====
+Die Steuerungsprozessor-Ebene implementiert den Quantenalgorithmus oder die Abfolge von Vorgängen. Der Host-Prozessor interagiert mit der Quantensoftware und liefert ein digitales Signal oder eine klassische Bitfolge an die Steuer- und Messebene.
+
+
+== Forschungsgeschichte ==
+Das Prinzip eines Quantencomputers konnte bereits in den 1990er Jahren realisiert werden. 1995 machten J. I. Cirac und Peter Zoller erstmals den Vorschlag zur Realisierung eines Quantencomputers mittels Ionen in Paul-Fallen und dessen Machbarkeit kurze Zeit später experimentell am Innsbrucker Institut für Quanteninformationsverarbeitung gezeigt werden konnte. Schon im gleichen Jahr entwickelte Peter Shor erstmalig mit dem Shor-Code eine prinzipielle Methode zur Quantenfehlerkorrektur, ohne die zurverlässige Quantenrechnungen auf den im Vergleich zu konventenionellen Computern extrem fehleranfälligen Quantencomputern (Fehlerwahrscheinlichkeit von 
+  
+    
+      
+        
+          10
+          
+            −
+            4
+          
+        
+      
+    
+    {\displaystyle 10^{-4}}
+  ) bis heute nicht denkbar sind.
+1998 begannen Chuang, Gershenfeld und Kubinec einen bescheidenen 2-Bit-Quantencomputer aus Chloroform-Molekülen auf der Basis von Kernspinresonanz zu bauen, den sie mit den Grover-Algorithmus testeten.
+Die erste segmentierte Ionenfalle wurde im Jahr 2001 am National Institute of Standards and Technology in Boulder, USA in Betrieb genommen und bestand aus fünf Segmenten. Der Shor-Algorithmus wurde im Jahr 2001 mit einem auf Kernspinresonanz beruhenden System am IBM Almaden Research Center und 7 Qubits demonstriert, um die Zahl 15 in ihre Primfaktoren 3 und 5 zu zerlegen. Ebenso konnte im Jahre 2003 ein auf in Ionenfallen gespeicherten Teilchen basierender Quantencomputer den Deutsch-Jozsa-Algorithmus durchführen.Im November 2005 gelang es Rainer Blatt am Institut für Experimentalphysik der Universität Innsbruck erstmals, ein Quantenregister mit 8 verschränkten Qubits zu erzeugen. Die Verschränkung aller acht Qubits musste durch 650.000 Messungen nachgewiesen werden und dauerte 10 Stunden.Im März 2011 haben die Innsbrucker Wissenschaftler die Zahl der Qubits noch einmal beinahe verdoppelt. In einer Ionenfalle hielten sie 14 Calciumatome gefangen, welche sie mit Laserlicht manipulierten.An der Yale University kühlte ein Forscherteam um Leo DiCarlo ein Zwei-Qubit-Register auf einem 7 mm langen und 2 mm breiten, von einem mehrfach gekrümmten Kanal durchzogenen Quantenprozessor auf eine Temperatur von 13 mK ab und erzeugte damit einen 2-Qubit-Register-Quantencomputer. Der supraleitende Chip spielte nach einer Veröffentlichung von Nature 2009 zum ersten Mal Quantenalgorithmen durch.Einer Forschergruppe am National Institute of Standards and Technology (NIST) in Boulder, USA, ist es 2011 gelungen, Ionen mittels Mikrowellen zu verschränken. Die NIST-Forschergruppe hat gezeigt, dass man solche Operationen nicht nur mit einem komplexen, raumfüllenden Lasersystem realisieren kann, sondern auch mit miniaturisierter Mikrowellenelektronik. Um die Verschränkung zu erzeugen, integrierten die Physiker die Mikrowellenquelle in die Elektroden einer sogenannten Chipfalle, einer mikroskopischen chipartigen Struktur zur Speicherung und Manipulation der Ionen in einer Vakuumzelle. Mit ihrem Experiment haben die Forscher gezeigt, dass die Verschränkung der Ionen mit Mikrowellen in 76 % aller Fälle funktioniert. Die bereits seit mehreren Jahren in der Forschung verwendeten laserbasierten Quantenlogikgatter sind mit einer Quote von 99,3 % derzeit noch besser als die Gatter auf Basis von Mikrowellen. Das neue Verfahren hat den Vorteil, dass es nur ungefähr ein Zehntel des Platzes eines Laser-Experiments beansprucht.Am 2. Januar 2014 meldete die Washington Post unter Berufung auf Dokumente des Whistleblowers Edward Snowden, dass die National Security Agency (NSA) der USA an der Entwicklung eines „kryptologisch nützlichen“ Quantencomputers arbeitet. Obwohl die Technik bisher (Stand 2019) noch keine Sicherheitsbedrohung darstellt, wird an Post-Quanten-Kryptographie gearbeitet; es wurden bereits vielversprechende Verschlüsselungsverfahren entwickelt (etwa CRYSTALS-Kyber, das von der US-Sicherheitsbehörde NIST schon als Standard empfohlen wurde).IBM ermöglicht seit 2015 den Online-Zugriff auf einen supraleiterbasierten Quantenprozessor. Zunächst standen 5 Qubits zur Verfügung, seit November 2017 sind es 20. Die Website umfasst einen Editor, mit dem Programme für den Quantencomputer geschrieben werden können, sowie ein SDK und interaktive Anleitungen. Bis November 2017 wurden über 35 wissenschaftliche Publikationen veröffentlicht, die den IBM-Computer Q Experience verwendet haben. Über die Cloud bietet IBM auch Zugriff auf die 50-Qubit-Maschine in ihrem Labor an. Der Quantenzustand dieses Systems wird für 90 Mikrosekunden gehalten, was Ende 2017 ein Rekord war. Bei der Technik für effiziente Simulation von Quantencomputern auf klassischen Hochleistungsrechnern kündigte IBM 2017 an, die 49-Qubit-Grenze erreicht zu haben.Außer bei IBM entwickeln viele große Computerfirmen sogenannte Quantencomputer bzw. deren Technologie, so Google, Microsoft, Intel und Startups wie Rigetti in San Francisco. Google stellte 2018 seinen neuen Quantenprozessor Bristlecone mit 72 Qubits (skaliert von vorher 9 Qubits) und niedriger Fehlerrate für logische Operationen und Auslesen vor. Er basiert auch auf Supraleitern und dient hauptsächlich der Erforschung der Technologie und dem Nachweis von Quantum Supremacy (Quantenüberlegenheit, John Preskill 2012), also der These, wonach der Quantencomputer einem klassischen Supercomputer überlegen ist. Google schätzt, dass zur Demonstration von Quantum Supremacy mindestens 49 Qubits, eine Schaltkreistiefe von über 40 und eine Fehlerrate unter einem halben Prozent erforderlich sind. Die Anzahl der Qubits alleine ist nicht entscheidend, sondern zum Beispiel auch die Fehlerrate und die Tiefe des Schaltkreises, das heißt die Anzahl der Gatter (logischen Operationen), die in den Qubits implementiert werden können, bevor die Kohärenz aufgrund zu hoher Fehlerrate zerstört wird. Vor Bristlecone erreichte Google eine Fehlerrate von rund ein Prozent für Auslesen und für die logischen Operationen 0,1 Prozent für Gatter eines einzelnen Qubits und 0,6 Prozent für Zwei-Qubit-Gatter. Ein kommerziell nutzbarer Quantencomputer liegt nach Google bei rund einer Million Qubits.
+Microsoft konzentrierte sich 2018 auf theoretische Arbeiten über die Fehlerkorrektur mit Hilfe topologischer Quantencomputer (ein Konzept, das Alexei Jurjewitsch Kitajew 1997 auf der Basis von Anyonen einführte) unter Leitung des Mathematikers Michael Freedman und entwickelte einen Simulator, mit dem Quantencomputer auf klassischen Computern simuliert werden können, und Software für Quantencomputer. Sie haben ein eigenes Quantencomputerlabor (Station Q) in Santa Barbara. Neben den Anyonen dienen bei topologischen Quantencomputern topologische Zustände von Quasi-Teilchen wie Majorana-Fermionen als Informationsträger, also als Quantenbits.Google-Forscher berichteten in einem am 23. Oktober 2019 in der Fachzeitschrift Nature publizierten Artikel, Googles Quantenprozessor Sycamore habe für eine komplexe Berechnung etwa 200 Sekunden gebraucht, für die der modernste Supercomputer Summit etwa 10.000 Jahre bräuchte. Der Sycamore-Chip hat 53 Qubits. Konkurrent IBM bezweifelte die Google-Ergebnisse und damit die Quantenüberlegenheit. Googles Rechnung enthalte einen Fehler. Die Aufgabe könne laut IBM von klassischen Systemen in 2 1⁄2 Tagen gelöst werden.Im Dezember 2020 kündigte eine Gruppe chinesischer Wissenschaftler um Anton Zeilingers ehemaligen Studenten Jian-Wei Pan an, den Nachweis der Quantenüberlegenheit beim Problem des sogenannten Gaussian Boson Sampling nach einem Vorschlag von Scott Aaronson und Alex Arkhipov von 2011 mit einem optischen Quantencomputer experimentell erbracht zu haben. Der Nachweis ist allerdings im Gegensatz zu dem Quantencomputer der Google-Gruppe auf dieses spezielle Problem zugeschnitten. Das von der chinesischen Gruppe im Vergleich dazu angegebene schlechte Abschneiden klassischer Computer (Rechenzeit 2,5 Milliarden Jahre im Vergleich zu den 200 Sekunden, die der Quantencomputer benötigte) wurde von Wissenschaftlern bei Google bezweifelt.
+Das Team um den Experimentalphysiker Zeilinger von der Universität Wien und der Österreichischen Akademie der Wissenschaften (ÖAW) und sein chinesischer Kollege Jian-Wei Pan realisierten 2021 einen praktikablen Fehlerkorrektur-Mechanismus für optische Quantencomputer experimentell, die Forscher sprachen von einem „Durchbruch“.Ein entscheidendes Problem von Quantenrechner-Schaltkreisen ist die hohe Fehlerrate. Es sind deshalb mehrere physikalische Qubits nötig, um ein logisch nutzbares Qubit zu erhalten. 2021 zeigte das Quantencomputer-Team von Google (Julian Kelly u. a.) mit ihrem Sycamore Prozessor (54 physische Qubits), dass die Fehlerrate exponentiell mit der Anzahl physischer Qubits fällt. Die physikalische Fehlerrate lag im Bereich von 
+  
+    
+      
+        
+          10
+          
+            −
+            3
+          
+        
+      
+    
+    {\displaystyle 10^{-3}}
+  , bei der Erhöhung der Anzahl der physischen Qubits in einem logischen Qubit von 5 auf 21 konnte mit den verwendeten fehlerkorrigierenden Codes (Stabilisier-Codes) eine Gesamtfehlerunterdrückung um einen Faktor 
+  
+    
+      
+        100
+      
+    
+    {\displaystyle 100}
+   erreicht werden, wobei die Fehlerkorrektur über 50 Runden stabil blieb. Das Team gab zwar einen prinzipiellen Nachweis mit solchen Fehlerkorrekturen zu skalierbaren Quantencomputern zu kommen, für brauchbare Quantencomputer sind aber nach Schätzungen des Google-Teams rund 1000 physische Qubits in einer logischen Qubit-Einheit nötig.Im August 2022 wurde von einer Arbeitsgruppe um Pan Zhang bekanntgegeben, dass der Großrechner Summit des Oak Ridge National Laboratory das Problem, das Google seinem Quantencomputer Sycamore gestellt hatte, jetzt ebenfalls gelöst habe. Er benötigte dafür unter Einsatz von 512 Grafikprozessoren nur 15 Stunden (prognostiziert waren 10.000 Jahre). Zhang schätzte, dass die Rechenzeit bis auf „einige Dutzend Sekunden“ herabgedrückt werden könnte.
+Trotzdem ist es nur ein Etappensieg für den Supercomputer. Der Rechenvorgang von Summit war nämlich nur die Simulation eines Quantencomputers auf einem konventionellen Computer. Außerdem wurde zugunsten einer kürzeren Rechenzeit eine gewisse Fehlerquote (zuletzt 0,37 %) gleich mit einkalkuliert, da auch Quantencomputer naturgemäß keine exakten Ergebnisse liefert (Fehler hier 0,2 %). Weiterhin benötigte Sycamore weit weniger Rechenschritte und eine geringere Rechenkapazität als Summit. Und wenn das Ergebnis von Sycamore etwas genauer gewesen wäre, hätte Summit mit seiner Simulation nicht mithalten können.Mit Hilfe der Gitterchirurgie haben die Physiker um Thomas Monz und Rainer Blatt bereits 2020 gemeinsam mit den theoretischen Physikern Hendrik Poulsen Nautrup und Hans J. Briegel vom Institut für Theoretische Physik der Universität Innsbruck und Nicolai Friis vom Institut für Quantenoptik und Quanteninformation (IQOQI) der Österreichischen Akademie der Wissenschaften in Wien die Erzeugung von Verschränkung zwischen zwei kodierten Qubits nachgewiesen, die erste experimentelle Realisierung von nicht-klassischen Korrelationen zwischen topologisch kodierten Qubits.Die Gitterchirurgie gilt als eine der Schlüsseltechniken für den Betrieb von zukünftigen fehlertoleranten Quantencomputern. Die Forscher wiesen erstmals die Teleportation von Quantenzuständen zwischen zwei kodierten Qubits nach.Im Januar 2022 wurde im Forschungszentrum Jülich ein Quantenannealer mit mehr als 5.000 Qubits in Betrieb genommen.
+
+
+== Kritik ==
+Im Mai 2023 stellte der Physiker Wissenschaftsjournalist Michael Brooks in der Fachzeitschrift Nature die Frage: „Quantencomputer: Wozu sind sie gut?“. In dem Artikel zitiert er Winfried K. Hensinger, der fünf Quantencomputer betreibt, mit den Worten: „Sie sind alle schrecklich. Sie können nichts Nützliches tun.“ Der zum Zeitpunkt der Veröffentlichung an der Anzahl der Qubits weltweit größte Quantencomputer, Osprey von IBM, hat 433 Qubits. Selbst mit 2 Millionen Qubits könnten einige Berechnungen in der Quantenchemie ein Jahrhundert dauern, wie ein Preprint zeige. Um die aktuell modernste Kryptografie (2048 Bit RSA) in acht Stunden zu entschlüsseln wären 20 Millionen Qubits erforderlich. Insgesamt sei es noch ein weiter und langer Weg, um mit Quantencomputern über das hinauszugehen, was mit klassischen Computern möglich ist. Auch der Start-up-Szene und ihren Investoren sei klar, dass „es noch viele Jahre dauern wird, bis der Zahltag kommt“. Der kurzfristige Hype sei aber ein bisschen hoch.
+Im Jahr 2021 zeigte eine Untersuchung, dass klassische (sogar exakte) Algorithmen dem D-Wave 2000Q Quantencomputer (mit 2000 Qbits) überlegen sind, selbst bei Problemen, die genau auf die Architektur des Quantencomputers zugeschnitten sind und ließ Zweifel an der Überlegenheit aufkommen.
+
+
+== Literatur ==
+D. Bruß: Quanteninformation Fischer Taschenbuch Verlag, Frankfurt am Main 2015, ISBN 978-3-596-30422-6. Google Book
+M. Homeister: Quantum Computing verstehen: Grundlagen, Anwendungen, Perspektiven Springer/Vieweg, Wiesbaden 2022, sechste Auflage, ISBN 978-3-658-36433-5. Online (2. Auflage 2008)
+B. Lenze: Mathematik und Quantum Computing Logos Verlag, Berlin 2020, zweite Auflage, ISBN 978-3-8325-4716-5.
+R. J. Lipton, K. W. Regan: Quantum Algorithms via Linear Algebra: A Primer MIT Press, Cambridge MA 2014, ISBN 978-0-262-02839-4.
+C. J. Meier: Eine kurze Geschichte des Quantencomputers. Verlag Heinz Heise, Hannover 2015, ISBN 978-3-944099-06-4.
+Ashley Montanaro: Quantum Algorithms. npj Quantum Information, Band 2, 2016, S. 15023, Arxiv Online
+M. A. Nielsen, I. L. Chuang: Quantum Computation and Quantum Information. Cambridge University Press, Cambridge MA 2010, ISBN 978-1-107-00217-3 (wordpress.com [PDF]). 
+W. Scherer: Mathematik der Quanteninformatik. Springer-Verlag, Berlin-Heidelberg 2016, ISBN 978-3-662-49079-2.
+Joachim Stolze, Dieter Suter: Quantum Computing: A Short Course from Theory to Experiment. Wiley-VCH, Weinheim 2004, ISBN 3-527-40787-1 (eingeschränkte Vorschau in der Google-Buchsuche). 
+Einsteins unverhofftes Erbe. Quanteninformationstechnologie (Memento vom 5. Januar 2018 im Internet Archive), Broschüre des Bundesministeriums für Bildung und Forschung, 2005.
+B. Baumann: Quantencomputer – Ein erster Einblick fast ohne Mathematik, 2022, ResearchGate
+
+
+== Weblinks ==
+
+Quantum Computing. In: Edward N. Zalta (Hrsg.): Stanford Encyclopedia of Philosophy.Vorlage:SEP/Wartung/Parameter 1 und Parameter 2 und nicht Parameter 3
+Quantencomputer Eine Serie mit 6 Videos zur Quanteninformatik von Edmund Weitz
+Quantum Technology Roadmap, EU, 2018
+Burkhard Lenze: Mathematik und Quantum Computing Ergänzungsmaterial zum gleichnamigen Buch
+Burkhard Lenze:Quantum Computing Videos Ergänzung zum gleichnamigen Buch
+Federal Office for Information Security (BSI): Status of quantum computer development / Entwicklungsstand Quantencomputer Bonn aktualisiert 2020
+Roland Wengenmayr: Quantencomputer: Superrechner für Spezialanwendungen. Zeit Online 2. Juli 2012
+MIT Technology Review Quantum Computing Mai 2000
+Jens Marre: Quantencomputer programmieren mit IBMs Qiskit In: quantencomputer-info veröffentlicht am 10. März 2020
+
+
+== Einzelnachweise ==
+
+
+== Anmerkungen ==

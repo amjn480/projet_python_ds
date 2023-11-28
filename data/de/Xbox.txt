@@ -1,0 +1,81 @@
+Die Xbox ist eine von Microsoft entwickelte Spielkonsole, die größtenteils auf leicht modifizierten PC-Komponenten basiert. Der Erfolg der Spielkonsole sorgte für die Etablierung der gleichnamigen Marke Xbox. Die Xbox wurde zuerst am 15. November 2001 in den USA, dann am 22. Februar 2002 in Japan und am 14. März 2002 in Europa veröffentlicht. Die Start-Titel waren u. a. Halo: Kampf um die Zukunft, Amped: Freestyle Snowboarding, Dead or Alive 3, Project Gotham Racing und Oddworld: Munch’s Oddysee.
+Die Xbox war bekannt für die durch PCs gewohnte Größe und Gewicht und war die erste Konsole mit einer eingebauten Festplatte. Ihr Nachfolger war Ende 2005 die Xbox 360.
+
+
+== Geschichte ==
+Die Erfolge von Sony, Nintendo und Sega ermutigten Microsoft Ende der 1990er Jahre, selbst eine Spielkonsole auf den Markt zu bringen. Die Xbox gehört zur selben Konsolengeneration wie die PlayStation 2, der Nintendo GameCube oder die Dreamcast.
+Bei der Dreamcast konnte man mit dem von Microsoft bereitgestelltem Windows CE erste Erfahrungen sammeln, weitere Erfahrungen hatte Microsoft mit der Windows-Spiele-Schnittstelle DirectX einbringen können. So war es nur ein kleiner Schritt, eine auf PC-Bauteilen basierende Konsole mit eigenem Betriebssystem auf Grundlage der Windows-NT-Architektur zu entwickeln.
+Der Name „Xbox“ wurde aus dem Namen der Schnittstelle „DirectX“ und dem internen Arbeitstitel „Box“ zusammengesetzt. Die Bezeichnung war eigentlich nur als interne Bezeichnung vorgesehen, wurde aber dann der offizielle Name.In Deutschland wurde die Xbox beim Verkaufsstart im März 2002 für 479 € angeboten, nicht einmal sechs Wochen später wurde der Preis auf 299 € gesenkt, etwas später dann auf 249 €. Im August 2004 kostete die Xbox schließlich 149 €, was dem Preis der PlayStation 2 des Konkurrenten Sony entsprach. Zum Produktions- und Auslieferungsende im November 2006 wurde die Xbox in Deutschland in vielen Geschäften für 99 € verkauft. Gleichzeitig stellten viele Spielehersteller die Produktion von Spielen für die Xbox ein und entwickelten nur noch für die Nachfolgekonsole Xbox 360.
+Bis Ende 2005 wurden weltweit ca. 21,9 Mio. Xbox-Geräte verkauft, davon aber nur ca. 1,8 Mio. in der gesamten Asien-Pazifik-Region. Wie hoch die Verkäufe der Xbox nach der Veröffentlichung des Nachfolgers Xbox 360 waren, wurde von Microsoft aus Marketinggründen nie bekanntgegeben.
+Am 2. März 2009 hat Microsoft die Unterstützung für die Xbox eingestellt (Garantieansprüche).Das letzte in Europa veröffentlichte Spiel war Xiaolin Showdown und in den USA Madden NFL 09.
+
+
+=== Aufbau ===
+Der Aufbau der Xbox unterscheidet sich kaum von dem eines gewöhnlichen PC.
+
+Die Hardwaredaten im Einzelnen:
+
+Gesamtsystemleistung: 13,0 Gigaflops
+CPU: Intel (Coppermine-Kern) mit 733 MHz und 133 MHz-Front Side Bus. Leistungsangabe von Microsoft: 1,466 Gigaflops.
+Grafik: In den Chipsatz integrierter Geforce-3-GPU „NV2A“ von Nvidia mit 233 MHz und einer maximalen Auflösung von 1920×1080 Bildpunkten, zwei Render- und vier Textureinheiten sowie ein Pixel- und zwei Vertex-Shader
+Hauptspeicher: 64 MB DDR-RAM mit 200 MHz.
+Cache-Bandbreite von 6,4 GB pro Sekunde. Nutzt die Twinbank-Memory-Architektur von Nvidia.
+Mit 200 MHz getaktete Southbridge.
+DVD: Modifizierte Laufwerke der Marken Samsung, Hitachi/LG, Phillips und Thomson
+Audio: In den Chipsatz integrierter Audio-Chip mit Dolby Digital-5.1-Kodierer, 256 Stimmen, maximal 64 3D-Stimmen
+Schnittstellen: AV-Ausgang, Ethernet-10/100-Mbit/s-Port, vier Controller-Anschlüsse
+3,5-Zoll-Festplatte von Western Digital (8 GB) oder Seagate (10 GB)Die Xbox ist mit 26 cm × 32 cm × 10 cm für eine Spielekonsole vergleichsweise groß und schwer (3,4 kg), da das Netzteil in der Konsole eingebaut ist.
+Der zum Verkaufsstart in Europa und Amerika dem Gerät beiliegende Controller war sehr groß und somit für kleinere Hände nicht sonderlich geeignet. Aufgrund dessen nahm Microsoft den für Japan entwickelten und ab Veröffentlichung erhältlichen kleineren Controller, den „Xbox-Controller S“, auch außerhalb Japans in das Angebot auf. Schließlich wurde dieser auch als offizieller Controller in den Lieferumfang der Xbox für andere Länder übernommen.
+Die Spiele Enter the Matrix oder Atari Anthology für die Xbox wurden mit HDTV-Unterstützung, also mit einer Auflösung von 1080i und 5.1-Sound entwickelt. Insgesamt gibt es nur wenige Spiele die höhere Auflösungen (720p oder 1080i) unterstützen. In Deutschland wird die HDTV-Ausgabe – wie in allen Ländern mit dem TV-Standard PAL – nicht unterstützt. Die HDTV-Ausgabe ist somit auf NTSC-Konsolen beschränkt. Der Ton wird in Echtzeit vom Audiochip in Dolby Digital kodiert.
+
+
+=== Zusatzhardware ===
+Um die Wiedergabe von DVDs zu ermöglichen, brachte Microsoft ein Set bestehend aus einer Fernbedienung, für die bequemere Steuerung, und einem IR-Empfänger heraus, der direkt in den Controllerport der Xbox eingesteckt wird.
+Xbox-Controller besitzen außerdem zwei Erweiterungsschächte auf der Oberseite des Controllers. Dort kann man Speicherkarten sowie andere Erweiterungen wie etwa Headsets oder USB-Adapter einstecken.
+
+
+=== Hardware von Drittherstellern ===
+Hersteller wie Bigben Interactive oder MadCatz entwickelten kurz nach Veröffentlichung der Xbox eigene Variationen von Zubehör. Dazu gehören Controller, Lenkräder oder Erweiterungen für den Controller.
+
+
+== Gehäusevarianten der Xbox ==
+Die erste Generation der XBOX erschien regulär in schwarz. Es gab darüber hinaus aber Sondereditionen unter anderem die recht häufige grüne wie auch viele andere Variationen. Für diese wurden auch die Controller in den jeweiligen Farben der Sondereditionen hergestellt.
+
+
+== Xbox-Linux ==
+
+Mit speziell angepassten Linux-Distributionen (z. B. Gentoox oder Xebian) wird aus modifizierten Spielekonsolen ein nahezu vollwertiger Computer, der mit Tastatur und Maus wie ein Computer bedient werden kann und durch die Netzwerkkarte internetfähig ist. Da die vier Controller-Anschlussbuchsen das USB-Protokoll zur Kommunikation benutzen, können über ein Adapterkabel normale USB-Geräte, wie Maus und Tastatur, an diesen Ports betrieben werden.
+
+
+== Modifikationen ==
+Seit Erscheinen der Xbox ist eine überaus große Community entstanden, die sich mit der Modifikation der Xbox sowohl in Funktion als auch im Aussehen beschäftigt. So kann der Funktionsumfang des Gerätes deutlich erweitert werden. Das geschieht entweder durch den Einsatz eines Modchips oder durch Verwendung einer Softmod, beide Varianten ermöglichen es, unsignierten Programmcode zu laden und auszuführen. So kann der Anwender auf eine große Palette von Anwendungen nutzen, wie zum Beispiel Emulatoren, Mediaplayer, Dateimanager, Webbrowser, inoffiziellen Portierungen von bekannten Spielen bis hin zu alternativen Oberflächen. Auch angepasste Linux-Distributionen können auf einer veränderten Xbox gestartet werden. Fast alle Applikationen werden mit dem Xbox Development Kit (XDK) umgesetzt.
+
+
+=== Multimedia ===
+Eine modifizierte Xbox kann unlizenzierte Programme ausführen und so mittels Xbox Media Center als Multimedia-Gerät genutzt werden. Das Media Center befähigt die Xbox, unter anderem vielfältige Dateiformate abzuspielen, dazu zählen unter anderem DivX, Xvid, Windows Media Video, QuickTime, H.264 und MPEG. Über den Netzwerkanschluss sind weiterführende Fähigkeiten, wie das Abspielen von YouTube-Videos oder anderen Streamingangeboten, möglich.
+Zudem lassen sich auf diese Weise DVDs und Musikdateien abspielen und Bilder auf dem Fernseher darstellen. Diese Möglichkeiten können wahlweise über die lokale Festplatte, über das lokale Netzwerk oder auch per Stream aus dem Internet benutzt werden.
+
+
+=== Case Modding ===
+Das bei PC-Nutzern beliebte Case Modding (Verändern der Gehäuse durch Lichtquellen, Lackierungen, o. Ä.) fand auch unter den Xbox-Besitzern sehr schnell Anhänger. Im Netz kursieren Anleitungen, wie man seine Xbox auf die unterschiedlichsten Arten modifizieren kann, angefangen bei Portbeleuchtungen, bei denen kleine LEDs in die Controllerports eingesetzt und verlötet werden, bis hin zu aufwendigen Gehäusearbeiten.
+Einige Modchips ermöglichen außerdem den Anschluss eines externen Displays für Temperaturen, Abspielvorgänge oder andere Informationen. So lässt sich die äußere Erscheinung der Xbox der von handelsüblichen CD/DVD-Playern angleichen.
+
+
+== Spiele-Situation ==
+
+Mit dem Erscheinen der Xbox 360 stellten viele Hersteller die Entwicklung von Portierungen und Spielen für die Xbox ein, so dass seit dem Jahr 2006 nur noch wenige neue Titel für die Xbox erschienen sind. Microsoft selbst hatte mit der Vorbereitung der Veröffentlichung der Xbox 360 sich auf diese konzentriert und Veröffentlichungen für die Xbox Drittanbietern überlassen.
+Electronic Arts war eine der letzten Firmen, die Spiele für die Xbox produzierten. So wurden einzelne Sportspiele (FIFA, NHL, NBA) auch für die ältere Xbox umgesetzt und veröffentlicht. Eines der letzten Spiele für die Xbox war Madden NFL 09 und erschien im August 2008.
+
+
+== Ende der Online-Unterstützung ==
+Am 15. April 2010 stellte Microsoft die Unterstützung der Xbox ein. Mit dem Ende des Xbox Live Service werden weder Spiele noch Hardware der ersten Gerätegeneration weiterunterstützt. Das gilt ebenfalls für die Spiele, die über die Xbox 360 gestartet werden können.Käufer des Spiels Halo 2 erhielten als Ausgleich eine dreimonatige Goldmitgliedschaft bei Xbox Live, die Möglichkeit zur Teilnahme am Betatest von Halo: Reach sowie 400 MS-Punkte.Es gibt eine Reihe von Versuchen, die Xbox wieder mehrspielerfähig zu machen. Eine bekannte Möglichkeit ist die Weiterleitung der LAN-Fähigkeit über XLink Kai.
+
+
+== Weblinks ==
+
+Offizielle Website der Xbox (englisch) (Memento vom 15. August 2005 im Internet Archive)
+Linux auf der Xbox (Memento vom 1. März 2009 im Internet Archive)
+GamePro: Die Xbox wird 15 - Alles Gute, schwarzer Klotz!
+
+
+== Einzelnachweise ==

@@ -1,0 +1,76 @@
+A sowie a (gesprochen: [ʔaː]) ist der erste Buchstabe des klassischen und modernen lateinischen Alphabets. Er entspricht dem Alpha im griechischen und dem Buchstaben А im kyrillischen Alphabet. Er steht für unterschiedlich ausgesprochene Vokallaute. 
+Der Buchstabe A hat in deutschen Texten eine durchschnittliche Häufigkeit von 6,51 % und ist somit der sechsthäufigste Buchstabe in deutschen Texten hinter dem R und vor dem T. Im Morsealphabet werden A und a mit •– dargestellt. Von Fremdwörtern und Namen abgesehen, ist das A der einzige Buchstabe in der deutschen Sprache, der zweifach am Anfang eines Wortes stehen kann, etwa im Wort Aal.
+
+
+== Herkunft ==
+Die aus der protosinaitischen Schrift stammende Urform des Buchstabens ist wahrscheinlich der Kopf eines Ochsen. Die Phönizier gaben diesem Buchstaben den Namen Aleph (Ochse). Im phönizischen Alphabet im 9. Jahrhundert v. Chr. war das Schriftzeichen bereits stark stilisiert, die Hörner des Ochsen wurden durch zwei Striche nach rechts angedeutet. Der Lautwert des Aleph bei den Phöniziern war der Knacklaut ​[⁠ʔ⁠]​. Bereits bei den Phöniziern hatte Aleph die erste Stelle im Alphabet inne, was im hebräischen Alphabet übernommen wurde, als Aleph (א), außerdem besteht eine Verwandtschaft mit dem ersten Buchstaben des arabischen Alphabets, dem Alif (ﺍ).
+
+Als die Griechen das phönizische Alphabet übernahmen, drehten sie das Zeichen um 90° und machten daraus das Alpha. Dabei hatten sie keinen Bedarf an dem stimmlosen glottalen Plosiv der Aussprache, der bei den Phöniziern vorhanden war, und da das Griechische reich an Vokalen war, verwendeten sie das Zeichen für den Lautwert ​[⁠a⁠]​. Bei den ältesten griechischen Schriftstücken aus dem 8. Jahrhundert v. Chr. wurde der Buchstabe dabei noch liegend verwendet, die um 90° gedrehte Version, die in späteren Schriftstücken auftauchte, setzte sich durch.
+Die Etrusker übernahmen das frühgriechische Alpha und ließen es größtenteils unverändert. Lediglich zur besseren Schreibung (von rechts nach links) versahen sie das Zeichen mit einem Abschwung nach links. Als die Römer das lateinische Alphabet schufen, verwendeten sie das A aus dem etruskischen Alphabet, der Lautwert ist ebenfalls seit den Griechen beibehalten worden. Dieses Alphabet wird bis heute für eine Vielzahl von Schriftsprachen genutzt, darunter für die meisten der europäischen Sprachen, wovon es Eingang in das kyrillische Alphabet fand.
+
+
+== Darstellung ==
+Das Grundaussehen der Großbuchstaben ist das zweier (symmetrisch) diagonal oben zusammenlaufender Linien und einer Waagerechten in der Mitte, jedoch folgen nicht alle Schriftarten und -familien diesem Konzept. Die Außenlinien können in Richtung und Strichstärke asymmetrisch sein oder unten parallel verlaufen und oben in einen Bogen (z. B. Bauhaus) oder in eine vierte, waagerechte Linie (z. B. Siebensegmentanzeige) übergehen. Teilweise entfällt die Mittellinie, wodurch sich das Aussehen einem griechischen Lambda (Λ) oder einem vergrößerten kleinen n annähert. In manchen gebrochenen Schriften (z. B. Fraktur) sinkt die Mittellinie auf die Grundlinie und die linke Außenlinie wird zu einem nach innen gewölbten Bogen, wodurch der Buchstabe oben statt unten offen ist. In der Schreibschrift wird häufig die Mittellinie sowie manchmal die Spitze oben als Schleife ausgeführt; in manchen Schreibweisen sieht der Großbuchstabe dem runden Kleinbuchstaben sehr ähnlich (z. B. Sütterlin).
+
+Es gibt zwei Grundformen der Kleinbuchstaben: offen und geschlossen/rund. Beide haben sich über die Schreibschrift (mit Feder) aus dem Großbuchstaben entwickelt. Die offene Form ähnelt einem kleinen, um 180° gedrehten e mit einem Abschluss unten rechts. Die geschlossene Form, bei der die Mittellinie ganz fehlt, hat Ähnlichkeit mit einem kleinen o, dem auf der rechten Seite eine senkrechte Tangente angefügt wurde, bzw. dem lateinischen Alpha (ɑ). Ansonsten sind je nach Schriftart die für alle Buchstaben üblichen Schleifen und Serifen anzutreffen. In Standard-Druckschriften wird meist die offene, in kursiven und in Schreibschriften die geschlossene Minuskel verwendet.
+In Unicode wird das große „A“ durch U+0041 und das kleine „a“ durch U+0061 dargestellt. Im ASCII ist das große „A“ der Code 65, das kleine „a“ der Code 97, daraus folgt im binär aufgebauten Dualsystem die Zeichenfolge 01000001 für das große „A“ und 01100001 für das kleine „a“. Im EBCDIC ist der Code für das große „A“ die 193 und für das kleine „a“ die 129. Die numerischen Darstellungen in HTML und XML sind „&#65;“ und „&#97;“ für den Groß- und den Kleinbuchstaben.
+Neben diesen direkten Darstellungen gibt es noch diverse bildliche oder sonstige Darstellungen des Buchstabens „A“. Dazu gehört beispielsweise der Morsecode:  ·– . In der Brailleschrift wird das „A“ durch eine Erhebung dargestellt. Weitere Darstellungsformen gibt es in der Gebärdensprache in Form der geschlossenen Faust im Fingeralphabet, in der optischen Telegrafie sowie im international gültigen Flaggenalphabet:
+
+
+== Aussprache ==
+Der Buchstabe A steht in verschiedenen Sprachen für unterschiedliche Vokallaute.
+Im Deutschen und vielen anderen Sprachen steht er für den offenen ungerundeten Zentral- ​[⁠ä⁠]​ oder Vorderzungenvokal ​[⁠a⁠]​: A ist der klangreichste der Vokale, bei dessen Hervorbringen der Stimmton frei aus den weit geöffneten Lippen hervorkommt, während die Zunge in eine flache Stellung niedergedrückt wird. In Norddeutschland gibt es zwei verschiedene Phoneme des Vokals: den Kurzvokal [a], wie z. B. in satt, und den weiter hinten im Rachenraum gebildeten (Ungerundeter offener Hinterzungenvokal) Langvokal [ɑː], wie z. B. in Rat, der sogar gerundet sein kann. Üblicher jedoch im deutschen Sprachraum ist eine eher zentrale Aussprache für beide.
+Die Länge des Vokals ist unterschiedlich gekennzeichnet.
+Langer Vokal:
+
+Folgend Einzelkonsonant: Rat, Tag
+Verdopplung des Vokals: Aar, Haar, Aachen
+folgendes h: Bahre
+am Silbenende: ja, Na(-)me, Ta(-)lerKurzer Vokal:
+
+Folgend mehrere Konsonanten: Amt, Matsch
+Verdopplung des folgenden Konsonanten: Matte
+vor -ch, -sch, -st, -tz: GlatzeAus einem A kann sich unter bestimmten Bedingungen ein Umlaut „ä“ bilden.
+
+hat: hätte
+Haus: HäuserMit A gebildete Zwielaute (Diphthonge) sind:
+
+au (Haut)
+ai (Hain)
+
+
+== Zitate ==
+Ich bin das A und das O, spricht Gott der Herr, der da ist und der da war und der da kommt, der Allmächtige. (Offb 1,8 ).
+A, der edelste, ursprünglichste aller laute, aus brust und kehle voll erschallend, den das kind zuerst und am leichtesten hervor bringen lernt, den mit recht die alphabete der meisten sprachen an ihre spitze stellen (aus dem Grimmschen Wörterbuch)
+Wer A sagt, muss auch B sagen. (Sprichwort)
+Wer A sagt, der muß nicht B sagen. Er kann auch erkennen, daß A falsch war. (Bertolt Brecht)
+
+
+== Siehe auch ==
+Α, α, der erste Buchstaben des griechischen Alphabets, siehe Alpha
+А, а, der erste Buchstabe des kyrillischen Alphabets, siehe А
+Ⱌ, Ⱍ, alpʰa, der erste Buchstabe des koptischen Alphabets
+א, der hebräisches Buchstabe Aleph
+das japanische Kana A, siehe A (Kana)
+UNICODE-Zeichen, die vom lateinischen A, a abgeleitet sind:
+At-Zeichen @
+Ångström-Zeichen Å (Einheitenzeichen, in der Regel die gleiche Glyphe wie A mit Ring)
+„für alle“: ∀ (Logik, Mathematik)
+feminines Ordinalzeichen ª
+Austral-Zeichen: ₳ (Währungszeichen)
+A mit… Gravis: À, à – …Akut: Á, á – …Zirkumflex: Â, â – …Tilde: Ã, ã – …Trema: Ä, ä – …Ring: Å, å – …Makron: Ā, ā – …Breve: Ă, ă – …Ogonek: Ą, ą – …Hatschek: Ǎ, ǎ – …Doppelgravis: Ȁ, ȁ – …gedrehtem Breve: Ȃ, ȃ – …Punkt: Ȧ, ȧ – …Ring darunter: Ḁ, ḁ – …Punkt darunter: Ạ, ạ – …Haken darüber: Ả, ả – kleines a mit Halbring: ẚ
+A mit… – …Trema und Makron: Ǟ, ǟ – …Punkt und Makron: Ǡ, ǡ – …Ring und Akut: Ǻ, ǻ – …Zirkumflex und Akut: Ấ, ấ – …Zirkumflex und Gravis: Ầ, ầ – …Zirkumflex und Haken: Ẩ, ẩ – …Zirkumflex und Tilde: Ẫ, ẫ – …Breve und Akut: Ắ, ắ – …Breve und Gravis: Ằ, ằ – …Breve und Haken: Ẳ, ẳ – …Breve und Tilde: Ẵ, ẵ – …Zirkumflex und Punkt darunter: Ậ, ậ – …Breve und Punkt darunter: Ặ, ặ
+durchstrichenes A: Ⱥ, ⱥ
+umkreistes A: Ⓐ, ⓐ (Großbuchstabe ähnlich dem Anarchie-Zeichen)
+geklammertes kleines a: ⒜
+AE-Ligatur: Æ, æ (Kleinbuchstabe auch IPA-Zeichen) – …mit Makron: Ǣ, ǣ – …mit Akut: Ǽ, ǽ
+Kapitälchen A: ᴀ – …AE-Ligatur: ᴁ
+lateinisches Alpha Ɑ, ɑ (Kleinbuchstabe auch IPA-Zeichen)
+gedrehte Zeichen: a: Ɐ ɐ (Großbuchstabe ähnlich dem „für alle“-Zeichen, s.o.; Kleinbuchstabe auch IPA-Zeichen) – …ae-Ligatur: ᴂ– …lateinisches Alpha: Ɒ, ɒ (Kleinbuchstabe auch IPA-Zeichen)
+gedrehtes v: ʌ, (als IPA-Zeichen für einen Laut ähnlich [a])
+
+
+== Weblinks ==
+
+A. In: Johann Heinrich Zedler: Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste. Band 1, Leipzig 1732, Sp. 1–5.
+„Evolution of Alphabets“ (englisch)

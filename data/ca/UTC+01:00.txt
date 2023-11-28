@@ -1,0 +1,107 @@
+UTC+01:00 és una zona horària d'UTC amb 1 hora més tard que l'UTC. El seu codi DTG és A-Alfa.
+
+
+== Zones horàries ==
+Central European Time (CET) (en català: Hora Central Europea)
+West Africa Time (WAT)
+Swatch Internet Time o Biel Mean Time (BMT) (en català: Hora Internet)Horaris d'estiu
+
+Western European Summer Time (WEST) (en català: Hora d'Europa Occidental d'Estiu)
+British Summer Time (BST)
+Irish Summer Time (IST)
+
+
+== Franges ==
+
+
+=== Temps estàndard (l'any sencer) ===
+ Algèria
+ Angola
+ Benín
+ Camerun
+ República Centreafricana
+ Rep. del Congo
+Equador
+Kinshasa
+Bandundu
+Bas-Congo
+ Gabon
+ Guinea Equatorial
+ Marroc
+ Níger
+ Nigèria
+ Txad
+
+
+=== Temps estàndard (hivern a l'hemisferi nord) ===
+Aquestes zones utilitzen el UTC+01:00 a l'hivern i el UTC+02:00 a l'estiu.
+
+ Albània
+ Alemanya
+ Andorra
+ Àustria
+ Bèlgica
+ Bòsnia i Hercegovina
+ Croàcia
+ Dinamarca
+ Eslovàquia
+ Eslovènia
+ Espanya (excepte Illes Canàries)
+ França
+Territori metropolità
+ Hongria
+ Itàlia
+ Liechtenstein
+ Luxemburg
+ Macau
+ Mònaco
+ Montenegro
+ Noruega
+Territori metropolità
+Svalbard
+Jan Mayen
+ Països Baixos
+ Polònia
+ Txèquia
+ San Marino
+ Sèrbia
+ Suècia
+ Suïssa
+ Regne Unit
+Gibraltar
+ Ciutat del Vaticà
+
+
+=== Temps d'estiu (estiu a l'hemisferi nord) ===
+Aquestes zones utilitzen el UTC±0 a l'hivern i el UTC+01:00 a l'estiu.
+
+ Dinamarca
+ Illes Fèroe
+ Espanya
+Illes Canàries
+ Irlanda
+ Portugal (menys les Açores)
+ Regne Unit
+Gran Bretanya
+Illa de Man
+Illes Anglonormandes
+
+
+== Geografia ==
+UTC+01 és la zona horària nàutica que comprèn l'alta mar entre 7,5°E i 22,5°E de longitud. En el temps solar aquest fus horari és el corresponent el meridià 15° est.
+Anecdòticament, el punt fronterer entre Finlàndia, Noruega i Rússia és l'únic lloc d'Europa en què tres zones horàries es troben (UTC+1, UTC+2 i UTC+3).
+
+
+== Història ==
+Diversos països que utilitzen l'UTC+1, abans utilitzaven l'UTC+0.
+
+Andorra (del 1901 al 1946)
+Bèlgica (del 1892 al 1914 i del 1919 al 1940)
+França (del 1911 al 1940 i del 1944 al 1945)
+Gibraltar (del 1880 al 1957)
+Luxemburg (del 1918 al 1940)
+Mònaco (del 1911 al 1945)Diversos països que utilitzen l'UTC+0, abans utilitzaven l'UTC+1.
+
+Lituània (del 1920 al 1940).
+Portugal (del 1966 al 1976 i del 1992 al 1996).
+Regne Unit i Irlanda (del 1940 al 1945 a l'hivern (UTC+2 a l'estiu). Entre 18 febrer 1968 i 31 d'octubre de 1971, UTC+1 es va utilitzar durant tot l'any).

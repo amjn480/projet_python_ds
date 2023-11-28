@@ -1,0 +1,45 @@
+Los términos demarcación administrativa, división política, subdivisión administrativa, subdivisión territorial, entidad subestatal, entidad subnacional y otros similares se aplican de manera genérica para designar entidades políticas que funcionan como demarcaciones o divisiones del territorio de cada Estado, realizadas con carácter formal para su organización territorial, y las instituciones que las administran. Se crean y funcionan a distintos niveles, desde el superior o regional hasta el inferior o local, pasando por niveles intermedios (provincial, comarcal, etcétera). Las divisiones de carácter político-administrativo pueden coincidir o no con las que se realizan para otros fines (militares, eclesiásticos, judiciales) o con las que se realizan en estudios geográficos (geocoras).
+La Unión Europea considera tres niveles de demarcaciones administrativas, inferiores al Estado miembro y superiores al municipio, denominadas NUTS (Nomenclatura de las Unidades Territoriales Estadísticas). También existen los conceptos de eurorregión (transfronteriza entre Estados miembros) o el de región ultraperiférica (las geográficamente alejadas del continente europeo, pero pertenecientes a un país miembro).
+El grado de autogobierno de cada una de estas entidades depende de la concepción centralista o descentralizada del Estado. Diferente consideración tienen los territorios dependientes (por ejemplo las colonias de un Imperio colonial), que no forman parte del núcleo de un Estado-nación.
+El término genérico utilizado para identificar a la entidad estatal o nacional a la que tales demarcaciones pertenecen puede ser muy diverso. A su condición de entidad geográfica («país») o política («Estado» o «nación», conceptos-términos de muy compleja identificación o diferenciación), se añade su forma de Estado en cuanto a la relación o articulación que se establece entre territorio, población y poder (Estado unitario, Estado complejo, Estado compuesto, Estado regional, Estado de las autonomías, Estado integral, federación, confederación, unión, imperio, mancomunidad y muchas otras).
+
+
+== Denominaciones ==
+En idioma español, algunos de los nombres de las demarcaciones administrativas o entidades subestatales en diferentes países son los siguientes (pueden coincidir o no con el significado y con la relevancia de sus equivalentes en otros idiomas):
+
+
+== Aspectos históricos ==
+La subdivisión territorial no es un proceso nuevo. Los griegos ya distinguían entre la Ecúmene, la Tierra habitada, y el territorio desconocido para ellos[1]​ La Oecumene se subdividió entonces en función de los países.
+Del mismo modo, los romanos compilaron cuidadosamente un catastro de propiedades, subdividiendo el territorio en parcelas y enumerando lo que era administrativamente relevante a efectos fiscales.
+
+En L'obsession des frontières, M. Foucher describe cuatro grandes periodos en la subdivisión del mundo.[2]​ En la época de los Grandes Descubrimientos, el Nuevo Mundo se subdividió arbitrariamente entre portugueses y españoles en virtud del Tratado de Tordesillas. Menos conocido, el mismo proceso tuvo lugar en Asia, tras la circunnavegación de Magallanes (Tratado de Zaragoza). Aunque M. Foucher lo considera el inicio de la primera globalización, también se trata de un reparto del territorio por descubrir. El final del siglo XIX estuvo marcado por el "reparto" de África en la Conferencia de Berlín. Los Estados europeos subdividieron realmente el territorio africano trazando grupos de territorios, a priori, en función de sus relaciones de poder y sin tener en cuenta a las poblaciones que vivían allí. Ello dio lugar a verdaderas divisiones "de libro", como en Egipto. El Telón de Acero y la Guerra Fría también dieron lugar a subdivisiones territoriales. La división de la ciudad de Berlín en cuatro sectores de ocupación es bien conocida, pero las implicaciones del Telón de Acero fueron más profundas. En primer lugar, a escala mundial, se distinguió entre países desarrollados, países comunistas y países en vías de desarrollo. En Europa, las fronteras fueron modificadas por los acuerdos de Yalta-Potsdam, y el Tercer Mundo sufrió las consecuencias de estas tensiones hasta en sus territorios. 
+La descolonización condujo a la creación de fronteras basadas en las antiguas subdivisiones territoriales entre países occidentales. Por último, la caída del Muro de Berlín en 1989 condujo a una reorganización de las subdivisiones territoriales, a menudo siguiendo líneas previamente existentes.
+Las prácticas aquí descritas no pretenden constituir una historia exhaustiva de la subdivisión territorial. Lo esencial es constatar que el territorio siempre ha estado subdividido, sean cuales sean las razones de estas subdivisiones y las escalas a las que se producen.
+A este respecto, también es importante separar los Estados federales de otras formas de Estado, en lo que respecta a la división de su territorio. Históricamente, los Estados federales no han tenido por lo general que subdividir su territorio, ya que el Estado central es el resultado de la agregación progresiva de las entidades que lo crearon. Algunos ejemplos son Suiza (creada por los cantones), Alemania (creada por los Länder) y Estados Unidos (creada por los estados). En estas estructuras federales, las subdivisiones territoriales ya existían, por defecto, sin que estos subgrupos quedaran fijados para siempre. En las otras formas de Estado, la división territorial estaba aún por hacer: la acción correspondía, pues, al Estado central. Sin embargo, esta separación entre estos dos tipos de régimen político no es una verdad absoluta, dada la diversidad de situaciones territoriales en el mundo. Esta distinción sólo permite elaborar un modelo muy general.
+
+
+== ¿Cómo se subdivide un territorio? ==
+Existen varias formas de expresar la subdivisión territorial y de hacerla efectiva. Sin embargo, dado que las fronteras y los límites pueden considerarse el resultado del proceso de subdivisión territorial, merece la pena referirse a estos dos conceptos geográficos para comprender las cuestiones que se plantean.
+
+
+== ¿Por qué subdividir un territorio? ==
+Como sugiere la historia, el proceso de subdivisión territorial puede surgir por motivos muy diversos. Son muchos los criterios que llevan a trazar subzonas dentro de un territorio determinado. La coherencia de esta subdivisión puede basarse en criterios funcionales, pero también puede tener orígenes históricos, administrativos o políticos. En la práctica, la subdivisión del territorio rara vez se basa en un único criterio; al contrario, a menudo se trata de razones que se entrecruzan. Del mismo modo, las agrupaciones formadas pueden parecer homogéneas o, por el contrario, basarse en complementariedades.
+
+
+== Referencias ==
+
+
+== Bibliografía citada ==
+P. Claval, Histoire de la géographie, Paris, PUF, 2001 (en francés)
+M. Foucher, L’obsession des frontières, Paris, Perrin, 2007  (en francés)
+
+
+== Véase también ==
+HASC (hierarchical administrative subdivision codes)
+Entidad de población
+Entidad de ámbito territorial inferior al municipio
+Anexo:Entidades subnacionales por población
+Anexo:Entidades subnacionales por superficie
+Frontera
+Región
+Circunscripción electoral

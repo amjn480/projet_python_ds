@@ -1,0 +1,46 @@
+H [hå] är den åttonde bokstaven i det moderna latinska alfabetet.
+
+
+== Betydelser ==
+
+
+=== Versalt H ===
+Nationalitetsbeteckning för motorfordon från Ungern
+Länsbokstav för Kalmar län i Sverige
+Kemiskt tecken för grundämnet väte
+henry, enheten för induktans
+entalpi, ett fysikaliskt begrepp
+I matematik betecknar H (fetstil) eller ℍ (svarttavelfetstil) ibland mängden eller skevkroppen av kvaternioner.
+SAB:H, bibliotekssignum för skönlitteratur
+Högerpartiet, gammalt svenskt politiskt parti som senare bytte namn till Moderata samlingspartiet
+Høyre, norskt politiskt parti
+En ton inom musiken, som i den anglosaxiska världen heter B
+Beteckning för Nytt juridiskt arkiv i lagboken
+H-mjölk
+H₀, Hubble-konstanten, se Hubbles lag
+HSDPA, kommunikationsteknik inom mobiltelefoni ibland kallad 3,5G
+Den statistiska kategorin Hold i baseboll.
+
+
+=== Gement h ===
+hekto, en måttprefixenhet som står för talet 100
+timme, tidsenhet
+Plancks konstant
+tonlös glottal frikativa, en grupp av konsonantljud
+
+
+=== Varianter av H ===
+ħ – Plancks strukna konstant eller Diracs konstant
+ɦ – tonande glottal frikativa, en grupp av konsonantljud
+
+
+== Historia ==
+Till det latinska alfabetet kom bokstaven H från den grekiska bokstaven Eta, som har samma versala utseende, men i den standardiserade klassiska grekiskan betecknar ett helt annat ljud. Ursprungligen före antiken kallades den grekiska bokstaven "heta", och betecknade He-ljud, såsom i stadsnamnet Heraklion/Ηρακλείου. H-ljudet föll bort i grekiska, men inte i latin. Grekerna hade i sin tur fått bokstaven "(h)eta" från feniciernas "heth", som ursprungligen betecknade ett staket eller en gård.
+
+
+== Datateknik ==
+I datorer lagras H samt förkomponerade bokstäver med H som bas och vissa andra varianter av H, plus bokstäver för glottal klusil, med följande kodpunkter:
+
+I ASCII-baserade kodningar lagras H med värdet 0x48 (hexadecimalt) och h med värdet 0x68 (hexadecimalt).
+I EBCDIC-baserade kodningar lagras H med värdet 0xC8 (hexadecimalt) och h med värdet 0x88 (hexadecimalt).
+Övriga varianter av H lagras med olika värden beroende på vilken kodning som används, om de alls kan representeras.

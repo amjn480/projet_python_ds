@@ -1,0 +1,32 @@
+D (d in stampatello minuscolo, D in stampatello maiuscolo; chiamata di, pron. /di/, in italiano) è la quarta lettera dell'alfabeto latino.
+[d] è anche il simbolo del suono occlusivo alveolare sonoro nell'alfabeto fonetico internazionale.
+
+
+== Storia ==
+La lettera D deriva dall'alfabeto lineare, dal grafema che rappresentava un pesce o da quello che rappresentava una porta (daleth). Vari geroglifici egiziani potrebbero esserne all'origine. Nelle lingue semitiche, così come nel greco antico e nel latino, la lettera era pronunciata [d]; nell'etrusco, invece, tale lettera era superflua, ma si mantenne lo stesso.
+La forma della minuscola d si sviluppò gradualmente dalla maiuscola.
+
+
+== Uso nelle lingue ==
+Nella maggior parte delle lingue scritte con l'alfabeto latino, la D rappresenta il suono [d] (lo stesso suono della lettera in italiano). Eccezioni sono lo spagnolo, dove può essere pronunciata [d] o [ð], e il vietnamita, dove può essere pronunciata [z] o [j].
+
+
+== Codici informatici ==
+Unicode: maiuscola U+0044, minuscola U+0064
+ASCII: maiuscola 68, minuscola 100; in binario 01000100 e 01100100 rispettivamente
+EBCDIC: maiuscola 196, minuscola 132
+Entity: maiuscola & #68, minuscola & #100
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni di o su D
+ Wikimedia Commons contiene immagini o altri file su D
+
+
+== Collegamenti esterni ==
+
+(EN) d, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Wikiquote contiene citazioni di o su D
+ Wikizionario contiene il lemma di dizionario «d»
+ Wikimedia Commons contiene immagini o altri file su D
