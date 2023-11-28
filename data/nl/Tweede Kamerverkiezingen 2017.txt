@@ -1,0 +1,51 @@
+De Tweede Kamerverkiezingen 2017 waren verkiezingen in Nederland voor de Tweede Kamer der Staten-Generaal. Zij vonden plaats op 15 maart 2017.
+De verkiezingen werden gehouden als gevolg van de afloop van de zittingstermijn van de Tweede Kamer die gekozen was bij de Tweede Kamerverkiezingen van 2012. Het voorlaatste kabinet dat een volledige regeerperiode volmaakte, was het kabinet-Kok I.
+
+
+== Aanloop ==
+De eerste publieke bewegingen voor deze verkiezingen begonnen op 22 augustus 2016, toen 50PLUS bekendmaakte dat partijleider Henk Krol weer lijsttrekker werd en de belangrijkste thema's presenteerde. Premier Mark Rutte gaf aan opnieuw premier te willen worden, en stelde zich beschikbaar als lijsttrekker voor de VVD. Bij de PVV werd Geert Wilders opnieuw de leider. Alexander Pechtold werd lijsttrekker voor D66. De SP maakte op 29 augustus 2016 haar concept-kandidatenlijst bekend met lijsttrekker Emile Roemer en de eerste 24 kandidaten. Diezelfde dag maakte voormalig GeenStijl-journalist Jan Roos bekend VNL-lijsttrekker te worden. Hij was niet de eerste BN'er die door een nieuwe partij aan boord werd gehesen: eerder waren dat korte tijd Bram Moszkowicz als beoogd lijsttrekker voor VNL, en Sylvana Simons voor DENK van de gewezen PvdA'ers Tunahan Kuzu en Selçuk Öztürk. Sylvana Simons besloot later DENK te verlaten en met een eigen partij deel te nemen. In september kondigde ook een andere initiatiefnemer van het Oekraïnereferendum, Thierry Baudet, aan de verkiezingen te zullen deelnemen met een eigen partij, het Forum voor Democratie.
+Bij de PvdA werd de lijsttrekker bepaald door een interne voorverkiezing tussen toenmalig partijleider Diederik Samsom en minister en vicepremier Lodewijk Asscher. Enkele andere kandidaten hadden zich gemeld, maar zij werden niet goedgekeurd door de kandidatencommissie van de partij. Na het niet eens te zijn met de voorwaarden besloot Jacques Monasch uit de partij te stappen. Op 28 november begon hij een eigen partij: Nieuwe Wegen. Op 8 december 2016 werd Asscher, met 54,5 procent van de stemmen, tot winnaar van de PvdA-lijsttrekkersverkiezing uitgeroepen.
+
+
+== Handmatig tellen van stemmen ==
+Op 30 januari 2017 werd bekend dat de software die gebruikt zou worden om de getelde stemmen van elk kiesbureau bij elkaar op te tellen en vaststellen van de verkiezingsuitslag, vatbaar was voor hackaanvallen. De ontdekking van het gebruik van verouderde cryptografie (SHA-1) werd door Sjoerd van der Hoorn gemeld aan RTL Nieuws. In opdracht van hen heeft beveiligingsonderzoeker Sijmen Ruwhof verder onderzoek gedaan en rapport uitgebracht. Op 3 maart heeft minister Plasterk aan de Tweede Kamer laten weten dat het papieren proces leidend zou zijn.Alhoewel er geen sprake zou zijn van het digitaal uitbrengen van een stem, moesten de stemtotalen per stembureau wel in de Ondersteunende Software Verkiezingen (OSV) ingevoerd worden. Deze software werd voor de verkiezingen per cd aan alle gemeenten uitgedeeld. Hoewel er instructies beschikbaar waren om de authenticiteit van de cd te controleren, werd dit niet geforceerd en bestond er de mogelijkheid dat kwaadwillenden de cd konden onderscheppen en vervangen. Daarnaast spraken de instructies ook over een onbeveiligde link via waar inhoud van de cd geverifieerd kon worden. Hierdoor ontstond de mogelijkheid dat iemand een malafide website voorgeschoteld zou krijgen.
+Het uitwisselen van de stemtotalen tussen bureaus zou plaats vinden door speciaal geprepareerde bestanden via een USB-stick uit te wisselen. Dit moest vergezeld worden van een papieren afdruk van dezelfde gegevens, waarop ook een SHA1-hashcode geprint werd. Deze hashcode zou bij de invoer van de gegevens in het volgende systeem, vergeleken moeten worden met de hashcode van de data op de USB-stick. Als de afzender echter een malafide versie van de OSV-software gebruikte óf zelf kwade bedoelingen had, was het simpel mogelijk om de bestanden op de USB-stick te manipuleren en een andere uitslag in te voeren. De papieren versie zou ongewijzigd blijven, behalve dat de hashcode zou worden aangepast om te corresponderen met de data op de USB-stick. Aangezien bij het ontvangen van de verkiezingsuitslag door OSV de ontvangen gegevens niet werden getoond en niet werd geforceerd om de hashcode te controleren, zou een dergelijke hack op een niveau tussen hoofdstembureaus kunnen leiden tot grootschalige manipulatie van de uitslag.
+
+
+== Deelnemende partijen ==
+Op 22 december 2016 maakte de Kiesraad bekend dat 81 politieke partijen een registratieverzoek ingediend hadden. Op 30 januari 2017 deelde de raad mee dat 33 partijen een kandidatenlijst ingediend hadden; de drie partijen MenS en Spirit, Basisinkomen Partij en V-R dienden een gezamenlijke lijst in.De kandidatenlijsten werden op 30 januari 2017 aangeleverd bij de Kiesraad. Partijen die voor het eerst meededen of bij de vorige verkiezing geen zetel behaald hadden, moesten tevens een waarborgsom van €11.250 storten, alsmede per kieskring 30 ondersteuningsverklaringen. In een kieskring waar onvoldoende ondersteuningsverklaringen ingeleverd waren, kon de betrokken partij niet toegelaten worden tot deze verkiezingen.
+Op 3 februari 2017 maakte de Kiesraad bekend dat er 28 lijsten op het stembiljet voor de Tweede Kamerverkiezingen zouden worden geplaatst. De kandidatenlijsten van Trots op Nederland (TROTS), de Vrouwen Partij (VP) en Respect werden ongeldig verklaard omdat deze partijen de waarborgsom van €11.250 niet hadden betaald. Vanwege een in eerste instantie verkeerde telling van het aantal kieskringen waarin StemNL meedeed, kreeg deze partij een lager lijstnummer dan JEZUS LEEFT.Op 10 en 13 februari 2017 deed de Afdeling bestuursrechtspraak van de Raad van State uitspraak in het beroep dat een aantal partijen had ingesteld tegen sommige besluiten van de Kiesraad. Als gevolg hiervan werd Lokaal in de Kamer toegelaten in de kieskring Zwolle. Voorts werden enige kandidaten van De Burger Beweging en van MenS en Spirit/Basisinkomen Partij/V-R alsnog toegelaten tot de kandidatenlijsten.
+Op 27 februari 2017 besloot de Kiesraad de namen van 51 politieke partijen die voor de verkiezingen van 15 maart 2017 geen (of geen geldige) kandidatenlijst hadden ingediend, te schrappen uit het register voor de Tweede Kamerverkiezingen.
+
+
+== Peilingen ==
+
+
+== Uitslag ==
+De Kiesraad hield op 21 maart 2017 een openbare zitting waarin de officiële uitslag bekend werd gemaakt van deze verkiezingen.
+
+
+=== Opkomst en kiesdeler ===
+Vanwege de relatief hoge opkomst tijdens deze verkiezingen ontstonden er problemen met het aantal stembiljetten. Enkele stembureaus kregen te maken met een tekort aan stembiljetten, waardoor er een nieuwe voorraad moest worden aangeleverd. Sommige stembureaus hadden geen stembiljetten meer over, waardoor mensen werden doorgestuurd naar andere stembureaus. Hierop besloten de gemeenten Nijmegen en Den Haag om de stembureaus langer dan tot 21:00 open te laten.
+
+
+=== Verkiezingsuitslag ===
+Beide regeringspartijen leden verlies maar vooral de PvdA. Deze leed het grootste verlies uit de Nederlandse parlementaire geschiedenis. Alle oppositiepartijen wonnen zetels, behalve ChristenUnie en SGP, die gelijk bleven; en de SP, die een zetel verloor. GroenLinks, de Partij voor de Dieren en 50Plus behaalden hun beste resultaat ooit. DENK en Forum voor Democratie kwamen met respectievelijk drie en twee zetels in de Kamer.
+
+
+=== Gekozen leden ===
+
+Om met voorkeurstemmen gekozen te worden diende een kandidaat meer dan een kwart van de kiesdeler aan stemmen te behalen (voorkeursdrempel), wat bij deze verkiezingen neerkwam op minimaal 17.527 stemmen. 46 kandidaten voldeden aan deze eis. Voor Jan Roos (VNL), Ancilla van de Leest (Piratenpartij) en Sylvana Simons (Artikel 1) gold echter dat de lijst waarvoor zij kandidaat waren de kiesdrempel niet haalde, waardoor zij niet gekozen werden.
+Vier kandidaten zouden op basis van hun plaats op de lijst niet verkozen zijn, maar kwamen op basis van voorkeurstemmen in de Tweede Kamer: Lilianne Ploumen (PvdA), Maurits von Martels (CDA), Isabelle Diks en Lisa Westerveld (beiden GroenLinks).
+
+
+=== Zittingsduur ===
+De leden van de Tweede Kamer werden op 23 maart 2017 geïnstalleerd. De zittingstermijn eindigde op 30 maart 2021.
+
+
+== Kabinetsformatie ==
+Op basis van de verkiezingsuitslag werd na een kabinetsformatie van 225 dagen op 26 oktober 2017 het kabinet-Rutte III (VVD, CDA, D66, CU) beëdigd.
+
+
+== Verder lezen ==
+N. Ruigrok, W. van Atteveldt, S. Gagestein en R. van Keulen, ‘15 minutes of fame’: De invloed van Nederlandse media tijdens de verkiezingscampagne van 2017, LJS Media Research/VU/Taalstrategie, 2017.

@@ -1,0 +1,181 @@
+De coronapandemie, coronacrisis of COVID-19-pandemie is de wereldwijde verspreiding van de ziekte COVID-19 en de ingrijpende gevolgen voor de samenleving. De veroorzaker is SARS-CoV-2, een voor de mens nieuw coronavirus, vermoedelijk afkomstig van een dierlijke gastheer.
+In december 2019 werd in de Chinese miljoenenstad Wuhan een cluster van symptomen van een "longontsteking van onbekende oorsprong" waargenomen. In januari werd het virus voor het eerst geïdentificeerd. Tot oktober 2021 raakten wereldwijd meer dan 200 miljoen mensen besmet; meer dan 4,5 miljoen van hen overleden aan de gevolgen van het virus. Sinds 11 maart 2020 wordt de uitbraak van COVID-19 erkend als een pandemie door de WHO.
+Het maatschappelijke leven in een aanzienlijk deel van de wereld kwam grotendeels tot stilstand, waardoor zich een economische recessie aandiende.
+De WHO verklaarde op 5 mei 2023 COVID-19 niet langer als mondiale noodsituatie te beschouwen.
+
+
+== Achtergrond ==
+Coronavirussen verspreiden zich onder vogels en zoogdieren. Tot 2019 waren er zes coronavirussen bekend die mensen infecteren. Vier daarvan veroorzaken een milde luchtweginfectie, zoals een simpele verkoudheid. Twee andere kunnen gevaarlijker zijn. In 2002 vond in China een uitbraak van Severe Acute Respiratory Syndrome (SARS) plaats, die leidde tot circa 800 dodelijke slachtoffers. In 2012 leidde in Saoedi-Arabië een uitbraak van Middle East respiratory syndrome (MERS) tot 850 doden in 27 landen.
+
+
+== Epidemiologie ==
+
+
+=== Eerste besmettingscluster ===
+Op 27 december melde het Hubei Provincial Hospital of Integrated Chinese and Western Medicine (HPHICWM) de eerste verdachte besmettingen aan de volksgezondheidsinstantie CCDC - het Chinese RIVM - van het Wuhan district Jianghan. Deze verdachte besmettingen betrof een moeder, vader en zoon en samen vormde de eerste cluster. Na overleg en informatie over zelfde gevallen in andere ziekenhuizen melde de vice-directeur van het betreffende ziekenhuis de besmettingen aan de CCDC's van Hubei en Wuhan op 29 december. Het Wuhan Central Hospital kreeg tussen 13 en 15 december zijn eerste besmettingsgeval en op 27 december werd Ai Fen, directeur spoedeisende hulp, bevestigd dat het een SARSr-CoV virus betrof. De toen nog naamloze "longontsteking van onbekende oorsprong" in Wuhan werd al snel in verband gebracht met een 'versmarkt' waar allerlei levende dieren werden verhandeld. Deze markt bestond uit zo'n duizend stallen waar onder meer vleermuizen, wasberen, marmotten, schubdieren, slangen, hertachtigen en de organen van konijnen en andere wilde dieren werden verkocht. Daardoor lijkt het erop dat dit virus afkomstig is van dergelijke dieren en werd gevreesd voor eenzelfde situatie als met de eerdere SARS-uitbraak, waarop de markt op 1 januari werd gesloten. Een dag eerder, op 31 december, werd de WHO door de Chinese autoriteiten ingelicht.
+
+
+==== 'Patient number zero' /  ‘coronapatiënt nul’ ====
+Een eerste onderzoek van Prof. Chaolin Huang et.al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China van 15 januari 2020 werd gesteld dat van alle personen die op dat moment opgenomen waren in het Jin Yin-tan ziekenhuis - waar alle patiënten naartoe werden gebracht, de eerste persoon die positief testte op 1 december aan het virus zou zijn blootgesteld. De Hongkongse krant South China Morning Post zou een rapport hebben ingezien waarin melding wordt gemaakt van een eerste geval van 17 november. De krant noch de officiële instelling hebben dit rapport naar buiten gebracht. Een onderzoek van het WHO in China naar de oorsprong van SARS-CoV-2, waar o.a. ook Prof. Dr. Marion Koopmans bij betrokken was, vond in het National Notifiable Disease Reporting System van China een patiënt die het virus opliep op 8 december. Het rapport maakt ook melding van een analyse van 76.253 verdachte gevallen in de periode van oktober tot november. Hier kwamen geen eerdere gevallen uit voort. Uit een onderzoek dat in oktober 2021 werd gepubliceerd bleek dat WeChat-gebruikers de term "Feidian" (longontsteking) begonnen te gebruiken rond de 16e december. Andere termen zoals "SARS" begonnen pas echt trending te worden rondom de 30ste toen ook de artsen hun bevindingen begonnen rond te sturen. Maar de term had ook een kleine piek rondom 1 december, dezelfde dag als die in het eerste onderzoek van Huang.
+
+
+==== Hypotheses en complottheorieën ====
+In 2020 circuleerden allerlei andere hypotheses over de mogelijke oorsprong van de pandemie. CNN meldde het bestaan van een vertrouwelijk rapport van de Chinese gezondheidsautoriteiten waarin melding gemaakt zou worden van een ongewoon sterke griepgolf in de provincie Hubei in de laatste maanden van 2019, maar CNN maakte het rapport niet openbaar. Een woordvoerder van het Chinese ministerie van Buitenlandse Zaken twitterde op 12 maart dat het misschien wel het Amerikaanse leger was dat het virus naar Wuhan had gebracht, tijdens een bezoek in oktober 2019 van militaire atleten aan Wuhan voor de World Military Games. De hypothese werd later herhaald door Global Times.
+
+
+==== Kiembron ====
+De kiembron van het SARS-CoV-2 is nog niet vastgesteld. Op 22 januari 2020 publiceerden wetenschappers van Universiteit van Peking, Guangxi Traditional Chinese Medical University, Universiteit van Ningbo en Wuhan Biology Engineering College een artikel waarin zij vermoedden dat het virus een natuurlijke recombinant is. Het zou veel gelijkenis vertonen met een vleermuizencoronavirus en ‘een coronavirus van onbekende oorsprong’. Zij zien een slangensoort als waarschijnlijkste besmettingsbron van SARS-CoV-2. Eerste wetenschappelijke reacties op dat artikel uitten twijfels over het bestaan van een virus dat zowel zoogdieren als koudbloedige dieren als gastheer heeft.Een bijgewerkte preprint van het artikel dat op 23 januari 2020 verscheen, legt de waarschijnlijke oorsprong van SARS-CoV-2 bij vleermuizen. Het genoom komt voor 96,2% overeen met dat van een vleermuizencoronavirus genaamd RaTG13. De kans dat SARS-CoV-2 op natuurlijke wijze geëvolueerd is uit RaTG13 is echter extreem klein, aangezien hier normaal gesproken zo'n 50 jaar, maar ten minste 20 jaar aan natuurlijke selectie overheen gaat.In maart 2021 publiceerde de WHO een rapport waarin ze vier mogelijke besmettingsbronnen adresseert:
+Directe zoönotische transmissie op de mens.
+Indirecte zoönotische transmissie via een tussendier.
+Indirecte zoönotische transmissie via geïnfecteerd voedsel.
+Niet-zoönotische transmissie door een laboratoriumincident.Een sluitend bewijs was niet mogelijk, mede doordat niet alle data door de Chinese overheid is vrijgegeven en grote politieke belangen meespelen.
+In juli 2023 heeft de Amerikaanse regering haar financiering van het Wuhan Institute of Virology gestopt, nadat dat al langere tijd onder de loep was genomen als de mogelijke oorsprong van COVID-19. Bij een beoordeling die in september begon, bleek het lab niet te voldoen aan de federale voorschriften. De inlichtingendiensten zijn dan nog steeds verdeeld over wat zij denken dat de pandemie heeft veroorzaakt. Vier instanties gaan uit van zoönotische overdracht, terwijl de FBI en het ministerie van Energie, dat toezicht houdt op de Amerikaanse biodefensielaboratoria, stellen dat een laboratoriumlek bij het Wuhan Institute of Virology tot Covid-19 heeft geleid. De CIA is niet bereid om definitief te verklaren hoe zij denken dat de pandemie is begonnen.
+Er is veel bewijsmateriaal dat het Wuhan Instituut voor Virologie in verband brengt met de uitbraak: de aard van het onderzoek, de vroegtijdig in het ziekenhuis opgenomen wetenschappers, de uitgaven aan beveiligings- en veiligheidsapparatuur en de tijdelijke sluiting van het Wuhan-laboratorium, samen met het tot zwijgen brengen en verdwijnen van klokkenluiders.
+
+
+=== Geografische verspreiding ===
+Het virus is in december 2019 voor het eerst ontdekt in Wuhan in Zuid-Centraal-China. Het verspreidde zich in de eerste helft van januari 2020 vanuit de provincie Hubei, waarvan Wuhan de hoofdstad is, naar andere delen van China. Eind januari liep het aantal besmettingen in China op tot boven de tienduizend. Het overgrote deel daarvan was in Hubei. In alle andere provincies was het virus intussen aangetroffen.
+Vanaf half januari 2020 dook het virus in naburige landen en gebieden op en in landen waarmee China veel internationaal verkeer heeft. Aanvankelijk waren er buiten China alleen patiënten die zelf recent in China waren als toerist, zakenreiziger of voor familiebezoek. Later traden infecties buiten China op.
+Per 13 februari waren bij de WHO 170 besmettingen buiten China bekend. 89% daarvan leidde niet tot verdere besmettingen. De overige 19 leidden tot vier grotere clusters met negen of meer besmettingen.
+
+
+==== Chronologie van de verspreiding ====
+De eerste landen en gebieden buiten China waar het virus vanaf half januari 2020 opdook, waren Thailand (13 januari); Japan (15 januari); Zuid-Korea (20 januari); Taiwan en de Verenigde Staten (21 januari); Hongkong en Macau (22 januari); Singapore (23 januari); Frankrijk, Nepal en Vietnam (24 januari); Maleisië en Australië (25 januari); Canada (26 januari); Cambodja (27 januari); Duitsland (28 januari); Finland, de Verenigde Arabische Emiraten en Sri Lanka (29 januari); Italië, India en de Filipijnen (30 januari); Verenigd Koninkrijk, Spanje, Rusland en Zweden (31 januari).
+In de loop van februari nam het aantal landen waar het virus opdook verder toe: met België (3 februari); Egypte (14 februari); Iran (19 februari); Israël en Libanon (21 februari); Afghanistan, Bahrein, Irak, Koeweit en Oman (24 februari); Algerije, Brazilië, Kroatië, Oostenrijk en Zwitserland (25 februari); Georgië, Griekenland, Noord-Macedonië, Noorwegen, Pakistan en Roemenië (26 februari); Denemarken, Estland, Nederland, Nigeria en San Marino (27 februari); Azerbeidzjan, IJsland, Litouwen, Mexico, Monaco, Nieuw-Zeeland en Wit-Rusland (28 februari); Ecuador, Ierland, Luxemburg en Qatar (29 februari).
+Bij onderzoek van stalen afgenomen bij patiënten in een ziekenhuis in Parijs in december 2019, is het COVID-19-virus gedetecteerd. De betrokken patiënt was voor zijn opname al maanden niet naar het buitenland geweest. Hij moet in december in Frankrijk besmet zijn geweest.
+Uit het onderzoek in december 2020 bleek ook dat er vóór 27 februari – toen de ‘eerste’ coronapatiënt in Nederland werd gemeld – vijf ouderen stierven aan een vermoedelijke Covid-19-infectie. Het merendeel was in Noord-Brabant waar huisartsen overlijdens met nooit eerder geziene acute zuurstofsaturatiedalingen zagen. Pas achteraf legden ze het verband met Covid-19.In maart dook het virus ook op in: Armenië, Tsjechië, Dominicaanse Republiek, Saint-Martin en Saint-Barthémely
+(1 maart); Andorra, Indonesië, Jordanië, Letland, Marokko, Portugal, Saoedi-Arabië, Senegal en Tunesië (2 maart); Argentinië, Chili, Gibraltar, Liechtenstein en Oekraïne (3 maart); Faeröer, Hongarije, Polen en Slovenië (4 maart); Bosnië en Herzegovina, Martinique, Palestina (Westelijke Jordaanoever) en Zuid-Afrika (5 maart); Bhutan, Colombia, Costa Rica, Kameroen, Peru, Servië, Slowakije, Togo en Vaticaanstad (6 maart); Maldiven, Malta, Moldavië en Paraguay (7 maart); Albanië, Bangladesh en Bulgarije (8 maart); Brunei, Cyprus, Guernsey en Panama (9 maart); Bolivia, Burkina Faso, Congo-Kinshasa, Jamaica, Jersey, Mongolië, Noord-Cyprus en Turkije (10 maart); Cuba, Frans-Polynesië, Honduras, Ivoorkust en Réunion (11 maart); Saint Vincent en de Grenadines en Trinidad en Tobago (12 maart); Antigua en Barbuda, Aruba, Kaaimaneilanden, Curaçao, Ethiopië, Gabon, Ghana, Guadeloupe, Guatemala, Guinee, Kazachstan, Kenia, Kosovo, Puerto Rico, Saint Lucia, Soedan, Suriname, Amerikaanse Maagdeneilanden, Uruguay en Venezuela (13 maart); Centraal-Afrikaanse Republiek, Congo-Brazzaville, Equatoriaal-Guinea, Swaziland, Mauritanië, Mayotte, Namibië, Rwanda en Seychellen (14 maart); Akrotiri en Dhekelia, Bahama's, Guam en Oezbekistan (15 maart); Benin, Groenland, Liberia, Somalië en Tanzania (16 maart); Barbados, Gambia, Montenegro, en Sint-Maarten (17 maart); Bermuda, Djibouti, El Salvador, Kirgizië, Mauritius, Montserrat, Nieuw-Caledonië, Nicaragua en Zambia (18 maart); Angola, Tsjaad, Fiji, Haïti, Man en Niger (19 maart); Kaapverdië, Oost-Timor, Madagaskar, Papoea-Nieuw-Guinea, Oeganda en Zimbabwe (20 maart); Åland, Eritrea en Transnistrië (21 maart); Dominica, Grenada, Mozambique, Syrië en de Gazastrook (22 maart); Belize, Myanmar en Turks- en Caicoseilanden (23 maart); Laos en Libië (24 maart); Britse Maagdeneilanden, Guinee-Bissau, Mali en Saint Kitts en Nevis (25 maart) Anguilla (26 maart); Noordelijke Marianen (29 maart); Botswana (30 maart); Burundi, Sierra Leone, Sint Eustatius en Somaliland (31 maart).
+Later in 2020 dook het virus ook op in Malawi (2 april); Falklandeilanden (3 april); Westelijke Sahara (Marokkaans gedeelte) (4 april); Saint-Pierre en Miquelon en Zuid-Soedan (5 april); Sao Tomé en Principe (6 april); Abchazië en Nagorno-Karabach (7 april); Jemen (10 april); Saba (11 april); Bonaire (16 april); Comoren en Tadzjikistan (30 April); Zuid-Ossetië (6 mei); Lesotho (13 mei); Sahrawi Arabische Democratische Republiek (25 juli); Salomonseilanden (3 oktober); Wallis en Futuna (16 oktober); Marshalleilanden (28 oktober); Amerikaans-Samoa (9 november); Vanuatu (11 november); Samoa (19 november); Antarctica (21 december).
+
+
+==== Verspreiding per werelddeel ====
+De verspreiding van het virus en COVID-19 over de verschillende werelddelen wordt nader besproken op de volgende pagina's:
+
+
+=== Internationale statistieken ===
+
+
+==== WHO-verspreidingsgetallen ====
+De WHO publiceerde de actuele verspreiding van het virus via een website.
+
+
+==== Europese Unie ====
+In Europa verzamelt het EuroMOMO-netwerk overlijdensstatistieken, in samenwerking met het Europees Centrum voor ziektepreventie en -bestrijding (ECDC) en het Regionaal Bureau voor Europa van de Wereldgezondheidsorganisatie (WHO).
+
+
+=== Sterfgevallen ===
+
+Het eerste sterfgeval buiten China vond plaats op de Filipijnen: daar overleed op 1 februari 2020 een 44-jarige Chinese man aan een ernstige longontsteking die door het virus was veroorzaakt. Op 7 februari waren er wereldwijd 638 sterfgevallen in verband gebracht met het virus.
+Op 9 februari 2020 overtrof het aantal van 881 gestorven personen dat van de SARS-epidemie uit 2002 en 2003 waaraan 774 mensen stierven. Het aantal besmette personen was al veel groter, omdat het sterftepercentage van 10% bij SARS hoger was dan bij het nieuwe virus, namelijk naar schatting 2%. Naarmate bij meer patiënten een zeer mild verloop van de ziekte wordt gezien, schatten deskundigen dat het sterftepercentage uiteindelijk lager zal blijken.
+Eind februari waren circa 2.800 mensen aan het virus gestorven. Op 10 april stond de teller op 87.987.
+
+
+== Preventie ==
+Doordat aanvankelijk de informatie rondom de nieuwe infectie onderdrukt werd, zowel in ziekenhuizen als tussen ziekenhuizen en in China, raakte veel medisch personeel besmet. Pas in de loop van januari konden medici, op basis van betere waarschuwingen, effectief strikte hygiënemaatregelen doorvoeren. Informatie over deze ongelukkige start van de preventie kwam pas eind januari mondjesmaat naar buiten.
+
+
+=== Preventie in andere landen ===
+Landen met directe vliegtuigverbindingen troffen in de loop van januari maatregelen op hun luchthavens om zieken te herkennen, bijvoorbeeld door screening met infraroodcamera's en thermometers. Bij vermoedens van besmetting werden sommige passagiers geïsoleerd en verder onderzocht en behandeld.
+Een Cochrane Rapid Review van maart 2021 onderzocht de maatregelen die werden genomen om internationale verspreiding door reizen tegen te gaan. Ze konden in dit onderzoek 62 internationale studies samenbrengen. Omdat de onderzoeken vaak snel werden opgezet, wordt meteen vermeld dat de resultaten mogelijk niet altijd de volledige realiteit weergeven. Toch zijn een aantal conclusies te trekken: Beperkingen opleggen aan reizen kan de verspreiding over grenzen heen tegengaan. Screenen aan de grens op basis van symptomen is waarschijnlijk niet effectief. Een PCR-test als screening aan de grens brengt waarschijnlijk meer gevallen aan het licht dan enkel testen op basis van symptomen of blootstelling hoewel vele gevallen gemist worden als dit enkel bij aankomst gebeurt. Een periode van quarantaine die lang genoeg is en goed wordt nageleefd voorkomt waarschijnlijk verspreiding via reizigers. Het combineren van PCR-test met quarantaine is mogelijk nog effectiever.
+
+
+=== Risico's verkleinen ===
+Het strategisch doel is het verkleinen van de kans op besmetting. Wordt en blijft het reproductiegetal kleiner dan 1, dan sterft de epidemie uit. Naast de aanbevolen algemene quarantainemaatregelen worden maatregelen aanbevolen voor individuen, baserend op de ervaringen met het MERS-virus:
+Gezonde mensen moeten:
+
+nabij contact vermijden met personen die een luchtweginfectie doormaken;
+grondig en regelmatig de handen wassen, in het bijzonder na contact met zieken en hun omgeving;
+hand geven en ander lichamelijk contact vermijden;
+niezen of hoesten (en ook o.a. gapen, zie het Engelse 'gleeking') in een wegwerpzakdoek of in de eigen kleding gevolgd door handen wassen;
+afstand bewaren tot gezonden en niemand aanhoesten of -niezen;
+afstand bewaren tot zieken.Patiënten met luchtweginfecties moeten:
+
+niet zelf een arts of ziekenhuis opzoeken, maar eerst telefonisch contact opnemen bij het vermoeden van besmetting. Dan kan hulp gegeven worden zonder dat andere personen per ongeluk besmet worden.Het verkleinen van het individuele besmettingsrisico heeft als tweede doel het vertragen van de verspreiding. Daardoor worden gezondheidsinstellingen minder overbelast en ontstaan minder logistieke problemen in de samenleving.
+
+
+=== Staat van paraatheid; Global Health Security Index ===
+De Global Health Security Index rangschikt 195 landen naar het niveau van beveiliging van de volksgezondheid, op pandemieën. De Index werd voor het eerst gepubliceerd in 2019. Nederland kwam daarbij uit in de top 10 (3e/195 landen, 75,6/100), België stond met 61,0/100 op 19/195, Suriname met 36,5/100 op 100/195.
+Op 27 februari 2020 toonde president Donald Trump een kaart die gebaseerd was op de GHS-index, waarop te zien was dat de Verenigde Staten "het best voorbereide land ter wereld was voor een pandemie". Critici wezen erop dat de VS weliswaar boven aan de lijst staat, maar er toch lacunes bestaan inzake de toegang tot de gezondheidszorg.
+
+
+=== Desinformatie ===
+Er werd lange tijd desinformatie verspreid over het coronavirus en de coronavaccins. Zo werd tijdens sommige cursussen voor alternatieve therapeuten de complottheorie gebezigd dat de mRNA-vaccins bedoeld waren om een ‘nieuw soort mens’ te creëren. Volgens een van de docenten zouden RNA-vaccins 'de genetische code van de mens' wijzigen. Vaccinologen stellen echter dat een RNA-vaccin zich niet in het DNA van menselijke cellen kan nestelen, en dus ook niet tot genetische modificatie kan leiden. Ook werd tijdens een virtueel congres voor alternatieve therapeuten gesteld dat er géén tweede coronagolf bestond, en dat de 'paniek' daarover aan foutieve testresultaten te wijten was. Ook op sociale media deden allerhande theorieën de ronde. De zogenoemde 'desinformatie' werd echter actief bestreden, in Nederland bijvoorbeeld door leden van een denktank op initiatief van het ministerie van VWS, waarbij berichten van de sociale media verdwenen.
+
+
+== Quarantainemaatregelen ==
+
+
+=== Quarantaine in Wuhan ===
+Wuhan is een internationaal vervoersknooppunt. Kort voor het Chinees Nieuwjaar, dat begint op 25 januari 2020, ontstond de angst dat de ziekte zich zou verspreiden omdat men dan traditioneel op familiebezoek gaat. De Chinese overheid greep in de loop van januari met quarantainemaatregelen in door het openbare verkeer en leven in Wuhan grotendeels plat te leggen en in overleg te treden met de Wereldgezondheidsorganisatie (WHO). Deze coördineerde al in de jaren 2000 internationaal de reacties op epidemieën zoals SARS (2003-2004), de Mexicaanse griep (2009) en MERS (2012-2017).
+
+
+=== Cruiseschepen in quarantaine ===
+
+Enkele passagiersschepen werden onder quarantaine gesteld. In het geval van de Diamond Princess die op 3 februari 2020 in Japan onder quarantaine kwam, breidde de infectie aan boord zich uit. De quarantaine werd opgeheven om de passagiers naar hun eigen land te laten terugreizen toen van de 3.700 passagiers meer dan 600 besmet waren geraakt. De Japanse infectioloog Kentaro Iwata rapporteerde over de omstandigheden aan boord: men had geen indeling gemaakt in zones met en zonder virus, en de bemanning was onvoldoende bekend met de noodzakelijke voorzorgsmaatregelen.
+
+
+=== Quarantaine in de westerse wereld ===
+Toen midden februari 2020 in Italië infectieclusters ontstonden, werden hier, en al snel ook in Spanje, quarantainemaatregelen getroffen. Daarbij werden hotels, dorpen en steden geïsoleerd. 
+In Noord-Europese landen als Nederland en België werden, om te voorkomen dat mensen dicht op elkaar zouden komen en zo het virus zouden kunnen verspreiden, diverse sport- en andere evenementen afgelast, uitgesteld of afgewerkt zonder publiek. Diverse competities werden stilgelegd of afgebroken. Ook evenementen waarbij mensen besmet raakten met het virus werden per direct stilgelegd om verdere verspreiding te voorkomen. In de VS werd een inreisverbod voor Europeanen ingesteld om de verspreiding aldaar te beperken. In sommige landen werden scholen voor onbepaalde tijd gesloten. Ook tv-programma's, zoals talkshows, werden in diverse landen zonder publiek opgenomen.
+Begin april waren in vrijwel alle Europese landen strikte maatregelen genomen: samenscholingsverboden ook voor kleine groepen van drie tot vijf personen, uitgaansverboden of ten minste strikte adviezen zo mogelijk thuis te blijven en thuis te werken, sluiting van alle niet-noodzakelijke winkels en politiecontroles. Wereldwijd werden soortgelijke maatregelen door vele regeringen overgenomen, afhankelijk van de plaatselijke situatie.
+In sommige landen werd een avondklok ingesteld. Binnen het Nederlands Koninkrijk was een dergelijke maatregel van kracht in Aruba (vanaf 21 maart 2020), Curaçao (van 21 maart tot 5 juni 2020). België volgde op 29 juli 2020: na een onverwacht snelle stijging van het aantal besmettingen in het Antwerpse stelde de Provinciale Crisiscel voor de hele provincie een avondklok in tussen 23u30 en 6 uur. De maatregel zou vier weken duren.
+
+
+== Wereldgezondheidsorganisatie ==
+
+De Wereldgezondheidsorganisatie maakte op 23 januari bekend, de internationale noodtoestand niet uit te roepen. De ziektegevallen waren hoofdzakelijk beperkt tot China, met name tot de regio van Wuhan. Volgens de WHO waren de getroffen maatregelen voldoende om verdere verspreiding te beperken. Op 30 januari riep de WHO alsnog de noodtoestand uit (PHEIC-status) nadat een comité van de VN-organisatie bepaalde dat de gezondheidsrisico's zeer ernstig en grensoverschrijdend zijn. De WHO zette verschillende samenwerkingsprojecten op en coördineerde en ondersteunde het onderzoek naar het virus en zijn gevolgen. Op 11 maart maakte de WHO bekend dat de uitbraak van COVID-19 een officiële pandemie was.
+De WHO coördineerde de inspanningen rond een COVID-19-vaccin in een wereldwijd samenwerkingsverband, de Access to COVID-19 Tools (ACT) Accelerator.In de financiële analyse Behind the numbers onderzochten journalisten van Politico en Die Welt in 2022 hoe enkele wereldwijde non-profits en filantropische stichtingen de internationale Covid-19-respons hebben gestuurd, en hoe zij zich hebben gepositioneerd om een belangrijke rol te spelen bij de volgende pandemie. In beeld kwamen vooral de Bill & Melinda Gates Foundation met de eraan gelinkte GAVI en CEPI, en de Britse Wellcome Trust. Journalisten erkennen de bijdrage van de privé-sector, maar stellen zich vragen wanneer vier organisaties samen 10 miljard dollar uitgaven aan de strijd tegen Covid-19, zonder al te veel transparantie en publieke verantwoording. Geen van de privé-stichtingen was ook voorstander van het Indiaas-Zuidafrikaans voorstel voor een tijdelijk opheffen van de patentregeling voor COVID-19-vaccins.Pfizer, BioNTech, Moderna en Sinovac maakten, in 2021 en 2022, 90 miljard dollar winst op hun COVID-19 vaccins en geneesmiddelen. Het SOMO-rapport Pharma’s Pandemic Profits geeft aan dat deze winsten te danken zijn aan decennialang onderzoek, gefinancierd door overheidsinvesteringen, miljarden aan subsidies voor ontwikkeling en productie en tientallen miljarden aan Advanced Purchase Agreements (APA’s) met overheden.
+De New York Times heeft de Europese Commissie voor de rechter gedaagd over het falen om inzage te geven in de tekstberichten van Ursula von der Leyen and Pfizer CEO Albert Bourla over de levering van vaccins aan de EU.
+
+
+== Maatschappelijke gevolgen ==
+
+
+=== Economische gevolgen ===
+
+In de eerste maand na vaststelling van de pandemie door de WHO werden de eerste gevolgen al meetbaar. Zo daalde de AEX-index binnen een week naar 535 punten, wat een krimp van 15% was. In de Verenigde Staten kwamen er in twee weken 9,9 miljoen werklozen bij. Ook voor de maatschappij zijn de gevolgen groot geweest: alleen al in Italië moesten 60 miljoen mensen in quarantaine en internationale toeleveringsketens lagen plat.
+
+
+=== Sekseverschillen ===
+In West-Europa en de VS zouden mannen twee derde van het totaal aantal overlijdens uitmaken. Bij de genezenen ervaren vrouwen meer economische gevolgen doordat ze meer deeltijds en in de informele economie werken, en daardoor minder verdienen. Vrouwen staan ook in de zorgsector "in de frontlinie". Tijdens de lockdowns nam het huiselijk geweld toe, en werd de seksespecifieke zorg voor vrouwen en meisjes in sommige landen belemmerd. Een studie van het Rode Kruis bevestigde in 2021 de ongelijke impact op vrouwen.
+
+
+=== Sociale ongelijkheid ===
+Het Rode Kruis voerde in 2021 onderzoek uit naar de sociale impact van de pandemie: vrouwen, mensen in stedelijke gebieden en vluchtelingen werden sterker getroffen door de sociaal-economische effecten van de COVID-19-pandemie. Meer bepaald zag het Rode Kruis: 
+
+meer werkloosheid en armoede
+toename van de voedselonzekerheid
+een grotere kwetsbaarheid voor (huiselijk) geweld
+een achteruitgang in het onderwijs en de ontwikkelingskansen voor kinderen
+een achteruitgang van de mentale-gezondheidstoestand.
+
+
+== Einde van de pandemie (2022) ==
+Halverwege september 2022 meldde de WHO dat het aantal mensen dat aan COVID-19 was bezweken, in de voorgaande week het laagst was uitgevallen sinds het begin van de pandemie in maart 2020. WHO-directeur-generaal Tedros Adhanom Ghebreyesus liet zich in een digitale persconferentie optimistisch uit over het verdere verloop van de pandemie en verklaarde dat het einde nu wel in zicht was. Tegelijk waarschuwde hij dat landen zich moesten blijven richten op het effectief bestrijden van het virus. 
+Inmiddels waren er sinds het begin van de pandemie in totaal 6,5 miljoen doden gevallen door COVID-19. Het totale aantal vastgestelde besmettingen bedroeg 609 miljoen.
+
+
+=== Evaluatie ===
+De Onderzoeksraad voor Veiligheid concludeerde in oktober 2022 in haar rapport 'Aanpak Coronacrisis deel 2' dat het kabinet de effecten van de coronamaatregelen nauwelijks heeft gemonitord of geëvalueerd. Ook gaf de OVV aan dat de rolverdeling tussen het kabinet als besluitvormer en de expert als adviseur niet duidelijk was, en dat het kabinet te weinig rekening heeft gehouden met de verschillende mogelijke scenario's.
+
+
+== Wetenschap ==
+Er ontstonden initiatieven om snel wetenschappelijke onderzoeksresultaten vrij te geven. Via instant messaging en preprint-servers kwamen voorlopige resultaten onmiddellijk voor commentaar van andere onderzoeksteams beschikbaar. Gerenommeerde tijdschriften publiceerden snel, zoals de New England Journal of Medicine waar een artikel twee dagen na ontvangst in druk verscheen in plaats van de gebruikelijke vele maanden. Publicaties en data rondom de uitbraak, het virus en de ziekte werden als open access op het internet ter beschikking gesteld.Veel wetenschappelijke activiteit viel stil door de beperkende maatregelen, zoals veel grote sterrenwachten.Methodologische problemen en niet gestandaardiseerde meetinstrumenten perken de bruikbaarheid van onderzoeksresultaten voor volksgezondheids- en pandemiebeleid in, aldus onderzoek dat voorjaar 2023 werd gepubliceerd in The Lancet.
+
+
+== Media ==
+
+
+=== Herdenkingen ===
+Kunstenaar Suzanne B. Firstenberg creëerde in 2020 en 2021 de outdoor-tentoonstelling In America, met zo'n 650.000 witte vlaggetjes – één voor elk COVID-19-slachtoffer in de V.S. – op de National Mall in Washington D.C..Tijdens een ceremonie in Toronto op 21 maart 2021 werden 2.753 kaarsen, voornamelijk LED's, geplaatst op de ijsbaan van Nathan Phillips Square, als herdenking van de slachtoffers in de stad sinds 21 maart 2020.
+
+
+=== Berichtgeving ===
+In de beginfase van de pandemie steeg de nieuwshonger sterk, ook omdat meer tijd online werd doorgebracht en sommige lokale nieuwsmedia uitvielen. De aandacht ging aanvankelijk vooral naar “betrouwbare” nieuwskanalen, maar al spoedig wonnen media met twijfelachtige berichten, analyses en zelfs complottheorieën veld, zo bleek uit onderzoek in 2021 van Engelstalige media op basis van cijfers van NewsGuard en Similarweb. Dit onlokte de Wereldgezondheidsorganisatie zelfs de uitspraak "We vechten niet alleen tegen een epidemie; we vechten tegen een infodemie". Anderzijds beweerde een groep Britse journalisten in 2021 dat “afwijkend Covid-19 nieuws” in de praktijk werd ondergeschoven om “één officiële verhaallijn" en “één wetenschappelijke versie” door te drukken. Ze wezen op tekortkomingen in de berichtgeving zoals ongenuanceerde statistieken, en te weinig aandacht voor alternatieve behandelingen, voor kritische doorlichting van de PCR-tests, voor onderzoek naar ongewenste bijwerkingen van vaccins, of voor een evaluatie van de kosten van lockdowns.In Amerikaans onderzoek van 2021 werd dan weer de politisering van de COVID-19 vaccins in de Amerikaanse en Chinese media geanalyseerd en betreurd.
+
+
+== Externe links ==
+Novel coronavirus op de site van het Europees Centrum voor ziektepreventie en -bestrijding (ECDC)
+Nieuw coronavirus in China, Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
+info-coronavirus.be, Federale Overheidsdienst Volksgezondheid
+Bing COVID-19-tracker

@@ -1,0 +1,184 @@
+Google LLC is het bedrijf achter (onder andere) de Google-zoekmachine en is opgericht door Larry Page en Sergey Brin. Het bedrijf telt 85.050 medewerkers (eerste kwartaal 2018). Het hoofdkantoor (genaamd het Googleplex) is gevestigd in Mountain View, Californië. Op 19 augustus 2004 werd het bedrijf beursgenoteerd. Sinds oktober 2015 is Google door een reorganisatie een dochteronderneming van Alphabet Inc.
+Binnen korte tijd groeide het bedrijf uit tot een van de grootste spelers in de ICT-branche en nam het verschillende andere sites/bedrijven over, zoals YouTube en DoubleClick.
+Volgens een onderzoek van Millward Brown Optimor was het merk Google in 2007 het sterkste ter wereld.
+
+
+== Herkomst van de naam Google ==
+Het woord is een variant van het woord "googol", dat werd verzonnen door Milton Sirotta, het neefje van de Amerikaanse wiskundige Edward Kasner. Googol is een synoniem voor een 1 met honderd nullen. De term weerspiegelt de bedrijfsmissie om alle informatie van de wereld toegankelijk en nuttig te maken. Het logo met de primaire kleuren is een eerbetoon aan het frame van de computer op de Stanford University, dat bijeen werd gehouden met LEGO-steentjes in die kleuren.Eigenlijk zou het bedrijf dus "Googol" heten, maar door een fout van een van de oprichters werd het Google.De naam van het hoofdkantoor Googleplex komt tevens van het getal googolplex, een 1 met googol nullen.
+
+
+== Geschiedenis ==
+Google begon in 1996 als een onderzoeksproject van Larry Page en Sergey Brin, twee studenten van Stanford University. De studenten vonden een systeem uit waarbij servers het internet afzoeken en deze sorteren op de zoekopdracht van de gebruiker. Dit systeem noemden ze PageRank. Ze noemden hun zoekmachine in eerste instantie BackRub, maar later veranderden ze dit in Google.
+De domeinnaam Google.com werd geregistreerd op 15 september 1997. Daarvoor kon Google bereikt worden via het domein van Stanford, google.stanford.edu en z.stanford.edu. Op 4 september 1998 werd de naam Google Inc. officieel geregistreerd als bedrijf. Het was toen gevestigd in de garage van een vriend uit Menlo Park, Californië. In februari 1999 verhuisde het naar Palo Alto, Californië. Later in 1999 verhuisde Google naar een nieuwe locatie die tegenwoordig het Googleplex is.In september 2001 kreeg het systeem van Google dat de beste informatie boven aan de lijst met zoekresultaten plaatst een patent, met Larry Page als uitvinder.
+Eind september 2005 ging Google een samenwerkingsverband aan met de Amerikaanse ruimtevaartorganisatie NASA, met als doel onderzoek te doen naar onder meer grootschalig datamanagement en distributed computing.In oktober 2005 kondigden Google en Sun Microsystems een samenwerking aan. In eerste instantie zullen de Google Toolbar en de Java Runtime Environment worden gekoppeld; later hoopt men ook webgebaseerde en platformonafhankelijke tekstverwerkers en groupware aan te bieden om zo een concurrent voor Microsoft te worden.
+In 2006 nam Google YouTube over voor $ 1,6 miljard. De overname werd betaald met aandelen en het was de grootste acquisitie van Google sinds de oprichting. Beide Amerikaanse internetbedrijven bleven onafhankelijk van elkaar opereren. Alle 67 medewerkers van YouTube, inclusief de beide oprichters Chad Hurley en Steve Chen, zijn meegegaan naar Google. YouTube maakte een stormachtige groei door sinds de introductie in februari 2005, geholpen door de opkomst van de mobiele telefoon met camera, de webcam en de breedbandverbinding.Google heeft - samen met Intel, Apple, Dell, EDS, Environmental Protection Agency (EPA), HP, IBM, Lenovo, Microsoft, Pacific Gas and Electric, WWF en nog tientallen andere organisaties – het Climate Savers Computing Initiative opgericht. Doel is het energiegebruik en de uitstoot van broeikasgassen terug te dringen door nieuwe, strengere richtlijnen op te stellen voor energiezuinige computers en componenten. Verder willen ze het wereldwijde gebruik van energiezuinige computers door consumenten en bedrijven stimuleren. In 2012 is de organisatie opgegaan in The Green Grid.
+Op 15 augustus 2011 nam Google de mobieletelefoonafdeling van Motorola, Motorola Mobility, over voor $ 12,5 miljard. Dit zou geen gevolgen hebben voor andere telefoonfabrikanten die gebruikmaken van Googles besturingssysteem voor mobiele telefoons, Android. In 2014 verkocht Google onderdelen van Motorola aan Lenovo voor $ 2,9 miljard. Lenovo nam 2000 patenten over en kreeg een licentie op de rest. Met de verkoop verlost Google zich van een onderdeel dat fors verlies leed, zelfs na het ontslag van zesduizend werknemers. Eerder verkocht het al Motorola Home, de settopbox-afdeling van het bedrijf, voor $ 2,5 miljard. Google houdt Motorola’s Advanced Technology-afdeling waar gewerkt wordt aan de modulaire smartphone en ook het merendeel van de 17.000 patenten en 7500 patentaanvragen.
+
+Begin 2014 kocht Google Nest Labs, een bedrijf dat onder meer slimme thermostaten en rookmelders maakt voor $ 3,2 miljard. Het is de grootste deal na de overname van Motorola in 2011. Nest Labs is in 2010 opgericht door ontwerper Tony Fadell, die eerder werkte bij Apple en hielp hij bij het ontwerpen van de iPod en iPhone. Nest Labs zal onder eigen naam en onafhankelijk van Google blijven opereren. Later in dat jaar nam Google Skybox, de Amerikaanse leverancier van satellietbeelden, over.Begin 2016 werd Google opgesplitst en ontstond Alphabet, een conglomeraat van activiteiten en bedrijven, die voorheen onder de paraplu van Google vielen. Onder Google bleven de basisactiviteiten van de zoekfunctie.
+
+
+=== Herstructurering ===
+Op 10 augustus 2015 maakten Google oprichters Larry Page en Sergey Brin bekend dat ze een nieuw bedrijf hadden opgericht. Het nieuwe beursgenoteerde conglomeraat ging Alphabet Inc. heten, met als grootste onderdeel Google LLC (tot 2017 Google Inc.). Page werd CEO van Alphabet Inc. en Sundar Pichai, het hoofd van onder meer Android en alle Google-apps, nam het stokje van Page over als CEO van Google. De opsplitsing van activiteiten en het onderbrengen daarvan onder één grote paraplu moest het bedrijf overzichtelijker en de verantwoordelijkheden duidelijker maken. De internetactiviteiten bleven bij Google. Onderdelen die binnen Alphabet buiten Google geplaatst werden, waren onder meer Life Sciences (dat werkte aan een glucosemetende contactlens), Calico (gericht op het tegengaan van veroudering van mensen) en het Google X Lab, met onder meer Wing, gericht op bezorging per drone.
+
+
+== Beursnotering ==
+Op 19 augustus 2004 werd Google beursgenoteerd aan de Amerikaanse Nasdaq. De beursintroductie was geen doorslaand succes. Aanvankelijk wilde men de aandelen introduceren binnen de koersrange van $ 108-135 per aandeel. Dit werd vlak voor de daadwerkelijke plaatsing verlaagd naar $ 85-95 en tot slot zijn de aandelen tegen $ 85 verkocht. Er werden maar 19,6 miljoen aandelen verkocht en de opbrengst was $ 1,67 miljard. De totale beurswaarde van Google was op dat moment zo’n $ 24 miljard. De introductie werd bijna geblokkeerd door toezichthouder Securities and Exchange Commission, omdat de oprichters een interview in de Playboy hadden gegeven dat niet was toegestaan.Tot 3 april 2014 was de ticker GOOG maar daarna is het GOOGL. Vanaf die datum kregen de C-aandelen ook een beursnotering met de oude ticker GOOG. In 2013 bereikte het aandeel een voorlopig hoogtepunt iets boven de $ 900.Google heeft drie aandelenklassen: A-, B- en C-aandelen. De beursgenoteerde A-aandelen hebben een stem per aandeel, de B-aandelen 10 stemmen per aandeel en de C-aandelen hebben helemaal geen stemrecht. Per jaareinde 2014 hadden Larry Page, Sergey Brin en Eric Schmidt zo'n 92,5% van de B-aandelen in handen en daarmee 60% van alle stemrechten. De B-aandelen zijn niet op een beurs genoteerd.
+In oktober 2015 werd Alphabet Inc. de nieuwe moedermaatschappij van Google Inc. (hernoemd naar Google LLC) en nam ook de beursnotering van Google Inc over. De historische financiële resultaten van Google Inc. worden nu door Alphabet Inc. voortgezet.
+
+
+== Google in de Lage Landen ==
+In Nederland bevindt zich een vestiging van Google: Google Netherlands BV aan de Claude Debussylaan te Amsterdam. Daarnaast zijn er twee datacentra van het bedrijf in Nederland, meer bepaald in Middenmeer en in de Eemshaven. In België is er een nv Google Belgium met adres in Brussel en een datacenter in Saint-Ghislain.
+
+
+== Activiteiten ==
+
+
+=== Advertentieprogramma's ===
+De inkomsten worden door Google voornamelijk gegenereerd met de verkoop van advertenties. Daarnaast kunnen websites tegen betaling gebruikmaken van de zoektechniek; vooral portaalsites betalen voor de zoekresultaten van Google op hun eigen site.
+Google verkoopt op twee manieren advertenties: naast en boven de zoekresultaten op de pagina's van de eigen zoekdiensten, en op pagina's van uitgevers die advertentieruimte beschikbaar hebben gesteld. Een adverteerder kan in het AdWords-programma zelf aangeven waar de advertenties dienen te verschijnen: alleen op de zoekresultatenpagina's of ook op pagina's van uitgevers. Advertenties van adverteerders kunnen verschijnen na zoekopdrachten die overeenkomen met een door de adverteerder gekozen woord. Adverteerders betalen per klik (CPC, cost per click), hoewel Google sinds juni 2005 ook werkt met betaling per vertoning (CPM, costs per mileage, kosten per 1000 vertoningen). Adverteerders kunnen bij populaire zoektermen tegen elkaar opbieden. Eigenlijk is het dus een veiling-systeem.
+Uitgevers kunnen zich aanmelden bij het AdSense-programma. Ze bepalen zelf op welke plek op de pagina van hun site de advertenties verschijnen, hoe groot de advertenties zijn en of het tekst- of beeldadvertenties zijn. Google probeert met zijn zoektechnologie de pagina's van de uitgevers te koppelen aan relevante advertenties. Op een zoekopdracht of webpagina over wasmachines zouden zodoende advertenties over wasmachines moeten verschijnen. Het koppelen gebeurt volautomatisch en gaat niet altijd helemaal goed: het is voor een computer nu eenmaal soms lastig te bepalen of een pagina over schilders handelt over kunstschilders of huisschilders. Uitgevers worden per klik betaald; zij ontvangen een onbekend deel van de prijs die de adverteerder heeft betaald (ongeveer 70%). Ook hier geldt dat sinds juni 2005 geëxperimenteerd wordt met het CPM-model.
+Het pay per click-model is gevoelig voor fraude. Google treedt hard op tegen fraudeurs: zodra klikfraude wordt geconstateerd met behulp van automatische algoritmes en/of manuele controle, wordt de uitgever uit het AdSense-programma verbannen en verliest hij al zijn nog niet uitbetaalde inkomsten. Verder communiceert Google niet open over fraude, klachten worden niet in behandeling genomen en geweigerde nieuwe aanmelders krijgen regelmatig de reden van hun afwijzing niet te horen.
+
+
+=== Producten ===
+
+
+==== Huidige producten ====
+Google is de zoekmachine van Google LLC.
+Gmail is een gratis webmaildienst waarbij ook van POP3 en IMAP gebruik kan worden gemaakt. Gmail combineert e-mail met Googles zoektechnologie. Gmail is sinds februari 2007 voor iedereen beschikbaar, vroeger kon dat alleen met een uitnodiging. Toen Gmail de Google-maildienst startte bood het een maildienst met een op dat moment revolutionaire één gigabyte opslagruimte aan. De opslagruimte steeg traag maar gestaag. In 2013 werd die voortdurende stijging stopgezet en werd de standaard opslagruimte opgetrokken tot 15 gigabyte, gedeeld met Google+ en Google Drive. De gebruiker kan wel meer opslagruimte aankopen.
+Google+ is een online, gratis sociaalnetwerksite. Sinds 2019 enkel op organisatieniveau beschikbaar.
+Google Videos is een dienst waarmee men miljoenen video's kan bekijken die geïndexeerd zijn vanuit verschillende uithoeken van het web. In het begin was het mogelijk om zelf video's te uploaden en te delen, nu is dat niet meer mogelijk.
+Google Maps of Google Local is een webgebaseerde dienst die kaarten en satellietbeelden van de wereld aanlevert. Een rubriek van Google Maps is Google Street View; deze bevat foto's van allerlei straten van onder andere Amerika, Europa, Australië en Japan.
+Google Earth is een programma waarbij de gebruiker op zeer gedetailleerde satellietfoto's wereldwijd allerlei diensten kan laten projecteren, zoals restaurants, cafés, theaters en bioscopen.
+Google Street View is een service waarbij de internetgebruiker 360°-panoramafoto's kan bekijken van straten in onder meer Amerika, Europa, Australië en Japan.
+Google Bedrijfsfoto's is een dienst waarbij de Street View-technologie wordt ingezet voor virtuele rondleidingen door winkels, horecagelegenheden, kantoren etc. De bedrijfsfoto's verschijnen in de zoekresultaten en op Google Maps, maar kunnen ook worden geïntegreerd in een website en/of op sociale media.
+Google Analytics is een dienst waarmee webmasters hun website in de gaten kunnen houden. Niet alleen de bezoekersaantallen worden bijgehouden, maar ook de bron van de bezoeker. Deze dienst is zeer uitgebreid en kan gebruikt worden in samenwerking met Google Adwords.
+Google Business Profiles is een hulpmiddel waarmee bedrijven en organisaties hun online aanwezigheid op Google kunnen beheren. Middels een API kunnen bedrijven hier hun aanwezigheid verbeteren.
+Google Panoramio is een website om afbeeldingen te delen en de afbeeldingenleverancier voor Google Maps, Google Earth en voor advertentievermarkting via Google API.
+Google Translate is een online vertaaldienst.
+Google SketchUp is een programma waarmee men 3D-tekeningen kan maken, overgenomen door Trimble.
+Google Docs is een online tekstverwerkerprogramma.
+Google Spreadsheets is een online spreadsheetprogramma.
+Google Presentaties is een onlinepresentatieprogramma.
+Google Books geeft de mogelijkheid om tekst van gedigitaliseerde boeken te doorzoeken.
+Google Drive is de online opslag- en synchronisatiedienst van Google.
+Google Product Search is een onderdeel voor het zoeken van onlineproducten. Het zoekt door verschillende winkels naar het product dat gezocht wordt en vergelijkt de resultaten.
+Google Trends is een dienst van Google die via grafieken inzicht geeft wanneer en hoe vaak op een bepaald woord is gezocht met Google. Ook vergelijking tussen steden, landen en talen in zoekgedrag is mogelijk.
+Google Groups is een archief van Usenet-nieuwsgroepen, dat is overgenomen van Deja. Nieuwsgroepen zijn via Google met een vertraging van een paar uur te lezen. Ook is het mogelijk te posten op Usenet via Google. Google Groups biedt geen binaire groepen aan.
+Google Images indexeert afbeeldingen. Daarbij wordt gebruikgemaakt van de bestandsnaam en van tekst op de pagina waar de afbeelding wordt gebruikt.
+Google News biedt een nieuwsservice aan, waarbij de verschillende nieuwssites op het internet regelmatig (veel vaker dan gewone sites) gescand worden op nieuwtjes.
+Google Scholar geeft de mogelijkheid in wetenschappelijke publicaties te zoeken.
+Google Toolbar is een speciale toolbar voor Internet Explorer en Firefox. Bij installatie verschijnt de toolbar bovenaan in de browser. Met deze toolbar kan men volledige URL's typen, maar het biedt de gebruiker ook de optie om enkel een zoekterm in te typen, zodat men meteen via Google kan zoeken. Het biedt ook de mogelijkheid om op bepaalde pagina's pop-ups te blokkeren of toe te laten.
+YouTube is een website waar gratis filmpjes kunnen worden bekeken.
+Blogger is een gratis weblogdienst.
+DoubleClick is een Amerikaans advertentiebedrijf. De grootste overname van een internetbedrijf tot nu toe.
+Google Alerts is een dienst die e-mail-updates verstuurt van de nieuwste zoekresultaten op Google, gebaseerd op de zoekopdracht of het onderwerp opgegeven onderwerp.
+FeedBurner biedt diensten voor webpublishers om hun content te promoten en hun bereik te meten.
+Google Agenda is een online agenda die met iCal en Microsoft Outlook kan samenwerken.
+Google Chrome is een internetbrowser en maakt gebruik van Blink.
+Google Chrome OS is een besturingssysteem gebaseerd op Google Chrome en de Linuxkernel.
+Google Android is een besturingssysteem voor mobiele apparaten.
+Google Sites is een dienst waarmee gebruikers een website kunnen bouwen.
+Google Voice is een telefoniedienst, waarbij gratis gebeld kan worden binnen een land tussen mobiele telefoons. Deze dienst is voorlopig alleen beschikbaar in de VS.
+Go is een opensourceprogrammeertaal gebaseerd op C en C++.
+Nexus is de merknaam waaronder Google smartphones en tablet-pc's uitbrengt, in samenwerking met hardwarefabrikanten.
+Google Pixel is de naam waaronder Google-ontworpen smartphones, tablet-pc's en accessoires worden uitgebracht. Dit is hun eigen ontworpen hardware.
+Google Play is de winkel voor applicaties op Androidsmartphones.
+Google Person Finder is een webapplicatie om vermiste personen na een ramp op te sporen.
+Google Hangouts is een berichtendienst die gebruikt kan worden in Chrome, iOS en Android. Hangouts is de vervanger van Google Talk en andere berichtendiensten van Google.
+Google Glass is een speciale elektronische bril.
+Chromecast is een apparaat waarmee inhoud van op internet op een televisiescherm kan worden getoond.
+Google Home is een persoonlijke assistent voor thuis (domotica) die volledig door spraaktechnologie zal aangestuurd worden.
+Google Duo is een videoconferencing-app.
+Google Stadia is een cloud-gaming-dienst.
+Grasshopper is een app om te leren programmeren.
+Google AI, met deelprojecten Google Brain en LaMDA
+
+
+==== Stopgezette producten ====
+DocVerse was een online opslagplaats voor verschillende documenten, zoals Word-, Excel- en Powerpointbestanden.
+Gears was een extensie voor een internetbrowser die het mogelijk maakt dat men offline gebruik kan maken van gegevens die anders alleen online beschikbaar zijn.
+Google Base was een database waar internetters zelf pagina's kunnen toevoegen. Door labels aan hun pagina te hangen, is het met de Google zoekmachine vindbaar. Op dit moment is het echter nog vooral een prikbord voor te koop aangeboden spullen.
+Google Checkout was een internetbetalingssysteem als alternatief voor PayPal.
+Google Code Search was een zoekmachine om broncode van software te doorzoeken.
+Google Desktop was een zoekmachine die alleen zoekt op de computer en net als Google zelf een webgebaseerde applicatie is.
+Google Helpouts was een dienst die dienstverlening van een helpout provider aan een klant regelde, in de vorm van een videosessie: gratis, of betaald (met 20% commissie voor Google) per sessie of per minuut.
+Google Sets gaf de mogelijkheid verzamelingen te genereren aan de hand van enkele voorbeelden.
+Google Reader was een online RSS-reader die het mogelijk maakt om RSS-feeds te lezen in de browser.
+Google Knol was een nog in bèta verkerende Wikipedia-variant waarbij de schrijver verdient als hij een bericht plaatst.
+Google Picasa is een programma van Google waarmee foto's beheerd kunnen worden door ze aan sleutelwoorden te koppelen. Tevens is het mogelijk foto's op te knappen en ze op het internet te zetten. Vanaf 15 maart 2016 is deze dienst niet meer actief.
+Google Squared was een experiment van Google, dat internetters helpt zoekresultaten gemakkelijk met elkaar te vergelijken. De zoekresultaten worden gepresenteerd in een overzichtelijke tabel.
+Google Talk was een instantmessaging-dienst sinds 24 augustus 2005. De dienst gebruikte het XMPP-protocol. Het werd stopgezet op 26 juni 2017.
+Google Wave was een vernieuwde manier van mailen.
+Orkut was een virtuele gemeenschap die ontwikkeld is om gebruikers te helpen bij het vinden van nieuwe vrienden en het onderhouden van bestaande relaties. Orkut is ontwikkeld door Google-medewerker Orkut Büyükkökten.
+
+
+=== Management ===
+CEO: Sundar Pichai
+CFO: Ruth M. Porat
+Chief Legal Officer: David C. Drummond
+
+
+=== Resultaten ===
+Google heeft sinds de oprichting een snelle omzetgroei laten zien. In 1999 had het een omzet van $ 220.000 en leed een verlies van $ 6,1 miljoen. In 2000 leed Google een verlies van $ 14,7 miljoen, maar sindsdien heeft het alleen maar winst gemaakt. De groei was vooral het gevolg van stijgende advertentie-inkomsten. In de laatste drie jaar is het aandeel van andere inkomsten verdubbeld, van 5% in 2012 naar 10% in 2014, maar is nog steeds marginaal. Bijna de helft van de omzet wordt in de Verenigde Staten behaald, in het Verenigd Koninkrijk zo’n 10% en de rest daarbuiten. Aan Onderzoek & Ontwikkeling (R&D) gaf Google in 2014 bijna $ 10 miljard uit. In 2014 werkten bijna 21.000 personen aan R&D projecten. De financiële positie van het bedrijf is zeer gezond, het heeft nauwelijks schulden en bijna uitsluitend eigen vermogen.
+
+Voor de resultaten vanaf 2015 zie Alphabet Inc.
+
+
+== Kritiek ==
+Net als de overige internetgiganten ligt het bedrijf onder vuur vanwege mogelijke misbruiken wegens monopolievorming.
+
+
+=== Mensenrechten en China ===
+Begin 2006 kwam Google negatief in het nieuws toen het bedrijf bekendmaakte dat het ook in China op het internet ging. Het communistische regime had hiervoor toestemming gegeven onder enkele voorwaarden: er mocht door Chinese burgers niet gezocht worden onder 'gevoelige onderwerpen' zoals Taiwan, mensenrechten in Tibet, de veertiende dalai lama, Falun Gong, etc. Als men hierop zoekt dan krijgt men geen resultaten en volgens sommigen krijgt tegelijkertijd de Chinese geheime dienst het adres door van de computer vanwaaruit deze 'staatsgevaarlijke' zoekopdracht werd gegeven. Door mensenrechtenorganisaties is hiertegen voornamelijk in het 2e deel van het eerste decennium van de 21e eeuw bij Google Inc. geprotesteerd.
+Begin 2010 dreigde Google met een volledige terugtrekking uit China, toen ontdekt werd dat er zeer geavanceerde hackaanvallen uitgevoerd waren op Gmailaccounts van Chinese mensenrechtenactivisten. Door het grootste deel van de westerse wereld werd vermoed dat de Chinese overheid achter de aanvallen zat. China deed deze beschuldigingen af als 'ongefundeerde beschuldigingen jegens China' en verklaarde dat het Chinese internet 'open' is.
+Negen dagen later verklaarde Google dat men met de Chinese overheid in gesprek is en dat Google voorlopig in China blijft.
+
+
+=== Google luistert draadloze netwerken af ===
+Begin 2010 werd bekend dat Google bij het maken van foto's ten behoeve van Street View, ook draadloze netwerken heeft afgeluisterd. Daarbij zijn onder andere wachtwoorden, geografische locaties van routers en inhoud van het berichtenverkeer opgeslagen. Diverse landen hebben hierover bij Google geklaagd. In eerste instantie ontkende Google, maar gaf dat later onder druk toe. In diverse landen onderzoeken de autoriteiten de mate waarin Google de privacyregels heeft overtreden.
+
+
+=== Privacyvoorwaarden ===
+Op 24 januari 2012 kondigde Google aan de gebruikers- en privacyvoorwaarden aan te passen per 1 maart 2012. De voorwaarden van de verschillende producten van Google worden samengevoegd. Ook wordt de gebruikersdata samengevoegd tot één gebruikersprofiel. Wanneer een gebruiker bijvoorbeeld zijn Gmail-account gebruikt voor Google Docs, Picasa en Google+, dan worden al zijn gegevens gecombineerd.
+Er is veel kritiek geuit op de nieuwe gebruikers- en privacyvoorwaarden van Google. Zo is het is niet mogelijk om gebruik te maken van een opt-outregeling, waardoor de gegevens van gebruikers niet samengevoegd worden in één profiel. De enige manier om niet akkoord te gaan, is door voor 1 maart 2012 Google-accounts op te zeggen. Voor het gebruik van een aantal functies van een Android-telefoon is een Google-account echter noodzakelijk, bijvoorbeeld voor het downloaden en installeren van apps in Google Play.Ook is er onduidelijkheid over welke gegevens Google heeft van gebruikers en waarvoor die gebruikt gaan worden. Informatieverstrekking kan afgestemd worden op de persoon door gebruik te maken van de gegevens in het gebruikersprofiel. Google zegt dat de wijzigingen in het voordeel van de gebruikers zijn, maar Google heeft zelf een groot belang bij het aanbieden van persoonsgerichte reclame en het persoonsgericht verwijzen naar bepaalde websites van adverteerders. De betrouwbaarheid en de onafhankelijkheid van informatie die aangeboden wordt, kan daardoor ernstig gevaar lopen.
+Jacob Kohnstamm (de Nederlandse voorzitter van de Europese privacywaakhond Artikel 29) heeft Google verzocht de invoering van de nieuwe voorwaarden uit te stellen. De gezamenlijke privacywaakhonden willen eerst uitzoeken wat de consequenties van het nieuwe beleid van Google zijn voor de gebruikers. Google heeft echter gemeld de invoering niet uit te stellen. Anderen, zoals Bits of Freedom en gebruikers van Nu.jij zijn als reactie op het nieuwe beleid van Google een boycot begonnen. Zij zoeken alternatieven voor Googleproducten, zoals de zoekmachines DuckDuckGo, Ixquick en Startpage.
+Uit onderzoek blijkt dat het nieuwe privacybeleid van Google in strijd is met Europese privacyregels.
+
+
+=== Nimbusproject Israël ===
+In de tweede helft van april 2021 (tijdens het Israëlisch-Palestijns conflict (2021)) wonnen Amazon en Google de aanbesteding van projecten in het kader van het Israëlisch Nimbusproject. Deze twee techgiganten zullen voor, met en in de staat Israël cloudservices, datacenters en netwerken bouwen en inrichten. Zij doen dat voor $ 1,2 miljard (4 miljard sjekel). Microsoft en Oracle hadden het nakijken, maar gaan in hoger beroep. Meer dan 300 werknemers van Amazon en meer dan 90 werknemers van Google hebben, anoniem, een brief in de Britse krant The Guardian gepubliceerd waarin zij hun directies vragen uit het project te stappen. Zij zijn het zeer oneens met het feit dat de technologie van hun bedrijven en van hun werkinspanningen worden misbruikt om "bij te dragen aan de onderdrukking (digitale surveillance, illegaal verzamelen van gegevens en faciliteren van illegale nederzettingen) van de Palestijnse bevolking" door de staat Israël.
+
+
+== Rechtszaken ==
+Tegen de vermeende monopoliepositie van Google werden meerdere vorderingen en rechtszaken ingesteld:
+
+
+=== Europese Unie ===
+
+
+==== EC geeft boete voor machtsmisbruik zoekmachine ====
+Medio 2017 legde de Europese Commissie (EC), bij monde van commissaris Vestager, Google een boete op van 2,42 miljard euro voor machtsmisbruik via zijn zoekmachine. Wanneer gebruikers via de zoekmachine van Google bepaalde producten zoeken, dan staan het productoverzicht van Google Shopping prominent bovenaan en dit gaat ten koste van concurrerende vergelijkingssites. Google is in beroep gegaan, volgens Google is nog volop keuze op webwinkelgebied en de EC heeft de markt te nauw gedefinieerd.
+
+
+==== Miljardenboete illegale praktijken met Android-toestellen ====
+In juli 2018 heeft de EC, opnieuw via commissaris Vestager, Google voor de tweede keer een recordboete opgelegd van 4,3 miljard euro wegens schending van de Europese antitrustregels. Sinds 2011 legt Google fabrikanten van Android-toestellen en mobiele-netwerkoperatoren illegale beperkingen op. Google versterkt hiermee zijn machtspositie bij algemene internetzoekdiensten. Koppelverkooppraktijken hebben ervoor gezorgd dat de zoekmachine en de browser van Google op alle toestellen met Google Android worden voorgeïnstalleerd en de exclusiviteitsbetalingen vormden een sterke ontmoediging om concurrerende zoekmachines voor te installeren. Google heeft ook daarmee de ontwikkeling belemmerd van concurrerende zoekmachines. Tot slot belet Google concurrerende zoekmachines meer gegevens te verzamelen van smart mobile devices, zoals zoek- en locatiegegevens, wat de machtspositie van Googles zoekmachine verder heeft versterkt. De EC eist ook dat Google binnen 90 dagen stopt met deze illegale activiteiten. Google gaat in beroep tegen de beslissing.
+
+
+==== Lidstaten ====
+De Italiaanse mededingingsautoriteit legde Google in mei 2021 een boete op van 102 miljoen euro, wegens het overtreden van de Europese concurrentieregels. Ook in Frankrijk liep Google om gelijkaardige redenen in juni 2021 een boete op van 200 miljoen euro.
+
+
+==== Nederlandse massaclaim (2023) ====
+Op 12 september 2023 werd Google door de Stichting Bescherming Privacybelangen en de Consumentenbond namens ruim 82.000 Nederlanders voor de rechter gedaagd wegens grootschalige privacyschendingen. Er wordt onder andere geëist dat Google stopt met zijn constante surveillance en het delen van persoonsgegevens via online advertentieveilingen. Gebleken is dat de internetactiviteiten en locaties van Europeanen gemiddeld bijna 380 keer per dag worden blootgesteld aan online advertentieveilingen.
+Voor de Google-gebruikers wordt ook een schadevergoeding van in eerste instantie € 750 geëist, wegens de privacyschendingen en het zonder toestemming verzamelen en verhandelen van de privégegevens. Dit bedrag dient nog te worden aangevuld op basis van nadere gegevens. De rechtszaak wordt gecoördineerd door de Consumentenbond Claimservice.
+
+
+=== Verenigde Staten ===
+Op 8 december 2020 spande de procureur-generaal van Texas bij het Hooggerechtshof een antitrustzaak aan, gericht op Googles advertentietechnologiediensten. Zeventien andere staten sloten zich hierbij aan.
+
+
+== Externe links ==
+Google-bedrijfsinformatie
+(en) Overzichtspagina van Google diensten en tools
+(en) Alphabet - bedrijfsgegevens en aandelenkoers - Google.be

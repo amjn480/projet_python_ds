@@ -1,14 +1,15 @@
 import requests
 import pickle
 import os
+
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 S = requests.Session()
 
-country_list = ["en", "pl", "fr", "es", "it", "de", "ca", "sv", "af"]
+language_list = ["en", "pl", "fr", "es", "it", "de", "ca", "sv", "af", "nl"]
 
-for elt in country_list:
-    URL = f"https://{elt}.wikipedia.org/w/api.php"
+for language in language_list:
+    URL = f"https://{language}.wikipedia.org/w/api.php"
     data = []
     for lettre in range(ord("A"), ord("Z")+1):
         PARAMS = {
@@ -19,9 +20,9 @@ for elt in country_list:
             "format": "json"
         }
 
-        R = S.get(url=URL, params=PARAMS)
-        data += R.json()[1]
-    file = open(f"list_of_wikiarticle/list_{elt}.pickle", "wb")
+        response = S.get(url=URL, params=PARAMS)
+        data += response.json()[1]
+    file = open(f"list_of_wikiarticle/list_{language}.pickle", "wb")
     pickle.dump(data, file)
     file.close()
 

@@ -14,7 +14,7 @@ dic = {"fr": "https://fr.wikipedia.org/w/api.php",
         "sv":"https://sv.wikipedia.org/w/api.php"}
 
 
-for language in ["pl", "sv"]:
+for language in ["nl"]:
     file = open(f"/home/onyxia/work/projet_python_ds/list_of_wikiarticle/list_{language}.pickle", "rb")
     requests_list = pickle.load(file)
     for request in requests_list:
@@ -30,7 +30,7 @@ for language in ["pl", "sv"]:
             page_content = list(data["query"]["pages"].values())[0]["extract"]
         else:
             print("La requête a échoué. Statut :", response.status_code)
-        try:  # if there is a bachslah in the request, the algorithm looks for a directory that doesn't exist
+        try:  # error if there is a backslash in the request
             with open(f"data/{language}/{request}.txt", "w", encoding='utf-8') as file2:
                 file2.write(page_content)
         except FileNotFoundError:

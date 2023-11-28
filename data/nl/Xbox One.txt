@@ -1,0 +1,65 @@
+Xbox One is een lijn van spelcomputers van de achtste generatie ontwikkeld door Microsoft. De console werd aangekondigd in mei 2013. Het is de opvolger van Xbox 360 en de derde spelcomputer van de Xbox-familie. De spelcomputer werd in november 2013 uitgebracht in Noord-Amerika, delen van Europa, Australië en Brazilië en in september 2014 in Japan, China en overige Europese landen. Volgens Microsoft is het apparaat een "alles-in-één- entertainmentsysteem". De Xbox One-lijn concurreert vooral met consoles zoals Sony's PlayStation 4 en Nintendo's Wii U en Switch.
+Er zijn in augustus 2016 en november 2017 twee bijgewerkte versies uitgebracht, respectievelijk onder de namen Xbox One S en Xbox One X.
+De productie van de Xbox One werd door Microsoft in 2016 beëindigd.
+
+
+== Beschrijving ==
+Xbox One stapt af van de PowerPC-gebaseerde architectuur van zijn voorganger en keert terug naar de x86-architectuur gebruikt in de originele Xbox. Het bevat een AMD Accelerated Processing Unit (APU) gebouwd rond de x86-64-instructieset. De controller van Xbox One heeft een vernieuwd ontwerp ten opzichte van die van de Xbox 360, met een vernieuwde D-pad en triggers die direct haptische feedback kunnen geven. De spelcomputer legt meer nadruk op cloudcomputing, sociale functies en de mogelijkheid om videoclips en schermopnamen van gameplay te maken en te delen en direct te live-streamen naar streamingservices zoals Mixer en Twitch. Spellen kunnen ook buiten de console om gespeeld worden via een local area network op ondersteunde Windows 10-apparaten. De console kan blu-raydisks en live televisieprogrammering afspelen vanuit een bestaande settopbox en een digitale tuner voor Digitenne met een uitgebreide programmagids. De spelcomputer bevatte optioneel een vernieuwde Kinect-sensor, die door Microsoft "Kinect 2.0" werd genoemd. De motion tracking en spraakherkenning van de Kinect-sensor die gebruikt kan worden in de grafische gebruikersomgeving (GUI) en spellen was verbeterd.
+Xbox One werd over het algemeen positief ontvangen vanwege het verfijnde ontwerp van de controller, multimedia-functies en spraaknavigatie. Het stillere en koelere ontwerp werd geprezen omdat dit de console betrouwbaarder maakte dan zijn voorganger, maar de console werd ook vaak bekritiseerd omdat spellen op een technisch lager grafisch niveau draaiden dan de PlayStation 4. De originele gebruikersomgeving werd bekritiseerd omdat deze niet intuïtief zou zijn, hoewel hier later wijzigingen aan zijn aangebracht. Andere aspecten van de software van de console werden positief ontvangen. De Kinect-sensor kreeg lof vanwege de verbeterde nauwkeurigheid van de bewegingssensor, de gezichtsherkenningsfunctie en de stemcommando's.
+
+
+== Hardware ==
+De Xbox One heeft 8 GB DDR3-RAM en beschikt over een harde schijf van 500 GB. Ook beschikt het over 32 MB ESRAM om de snelheid van de computer nog wat op te voeren. Op 9 juni 2015 kondigde Microsoft aan dat zij tijdens de E3 2015 een nieuwe variant van de Xbox One zouden uitgeven. Deze variant beschikt over een 1 terabyte harde schijf. De processor is een AMD-processor met 8 kernen. Ook beschikt de Xbox One over een blu-rayspeler. In totaal bevat de console zo'n 5 miljard transistoren.
+
+
+== Besturingssysteem ==
+De Xbox One werkt met drie besturingssystemen. Het eerste systeem is het standaardbesturingssysteem van de Xbox. Het tweede is gebaseerd op Windows NT, waar het waarschijnlijk gaat om dezelfde kernel die aanwezig is in Windows 8.1, versie 6.3. Het derde besturingssysteem zit tussen de eerste twee in en zorgt voor een vloeiende samenwerking. Doordat de Windowskernel aanwezig is, is er een relatief grote kans dat het voor ontwikkelaars ook makkelijker wordt om computerspellen te porten tussen Xbox One, Windows 8 en Windows Phone 8.Het ontwerp van het hoofdscherm is vrijwel hetzelfde als dat van de Xbox 360 en is gebaseerd op de Modern UI-interface van Microsoft.
+Sinds 12 november 2015 is de Xbox One uitgerust met een aangepaste versie van Windows 10.
+
+
+== Nieuwe functies ==
+
+
+=== Integratie met settopboxen ===
+Microsoft introduceert met de Xbox One ook functionaliteit voor integratie met settopboxen. Dit zal gebeuren door middel van het doorvoeren van HDMI-signalen (HDMI pass-through). De Xbox One zal hiervoor beschikken over zowel een HDMI-ingang als -uitgang. Door de Xbox One tussen de televisie en de settopbox aan te sluiten, kan men de gebruikersomgeving aanroepen als overlay op het tv-scherm.
+
+
+=== Kinect en stemherkenning ===
+De Xbox One beschikt, dankzij Kinect 2.0, ook over stemherkenning, gezichtsherkenning en nog een aantal andere functies. Daardoor kan de Xbox One, bijvoorbeeld als de controller doorgegeven is, automatisch vragen of de account van de persoon die de controller heeft moet aangemeld worden of niet, navigeren met spraakcommando's, enzovoort.
+Microsoft had oorspronkelijk aangegeven dat de Kinect 2.0 te allen tijde aangesloten moet zijn om gebruik te kunnen maken van de console, aangezien het een essentieel onderdeel is van de Xbox One. In mei 2014 heeft Microsoft, op aanvraag van de fans, echter bevestigt dat Kinect geen verplicht onderdeel meer is van de console en dat de Xbox One daarom ook vanaf juni 2014 verkocht wordt zonder Kinect.In tegenstelling tot de Xbox 360, zit de functionaliteit van de Kinect 2.0 in de Xbox One zelf.Midden 2014 bracht Microsoft Kinect 2.0 ook uit voor Windows. Deze Kinect heeft ongeveer dezelfde functionaliteit als die voor de Xbox One, maar werkt alleen met Windows.
+
+
+=== Xbox network ===
+Xbox network voor Xbox One draait op meer dan 300.000 servers. Dit is een aanzienlijke verhoging van de circa 15.000 servers die gebruikt worden voor de Xbox 360-gebruikers. Hierdoor kunnen muziek, films, computerspellen en spelgegevens worden opgeslagen in de cloud. Ook kunnen er beelden uit het spel opgenomen, bewerkt en gedeeld worden. Verder kunnen gebruikers van de Xbox One maximaal 1000 vrienden toevoegen aan hun vriendenlijst. Dit is maximaal 100 voor Xbox 360-gebruikers. De dienst stond bekend als Xbox Live en werd in maart 2021 hernoemd naar Xbox network.
+
+
+=== Profielen ===
+Xbox 360-profielen kunnen worden overgezet naar Xbox One, met alle behaalde gamerscores, identiteit en de gamertag. Het is ook mogelijk om met een camera een profielfoto in te stellen, maar de avatars zijn nog steeds beschikbaar.
+
+
+=== Achterwaartse compatibiliteit ===
+De Xbox One is wel achterwaarts compatibel met de spelers en een voorlopig beperkt aantal spellen van de Xbox 360 zowel op disc als digitaal (onthult op E3 door Microsoft).
+
+
+== Tweedehandsspellen ==
+Er was veel onzekerheid over de werking van tweedehandsspellen op de Xbox One na onthullingen van informatie tijdens hun persconferentie en de E3. Meerdere berichten van verschillende Microsoft-werknemers spraken elkaar tegen. Er werd onder andere beweerd dat spelers die een Xbox One-spel tweedehands kochten of leenden van iemand, opnieuw het volledige bedrag voor het spel moesten betalen om het te activeren en te kunnen spelen. Dit werd door Microsofts corporate vicepresident Phil Harrison bevestigd aan Kotaku. Andere werknemers van Microsoft spraken dit bericht echter tegen.Microsoft verspreidde een officieel bericht, waarin ze zeiden dat ze de berichtgeving onnauwkeurig en incompleet vonden en later meer informatie omtrent tweedehandsspellen zouden vrijgeven. Microsoft heeft in 2013 een update gemaakt in het beleid van de Xbox One waarin zij onder andere de geplande restricties aangaande tweedehandsspellen lieten vallen, zodat vrije verhandeling van spellen mogelijk is, identiek aan het beleid van de Xbox 360.
+
+
+== Xbox One S ==
+In augustus 2016 bracht Microsoft een vernieuwd Xbox One-model uit, de Xbox One S. Deze heeft een gestroomlijnd ontwerp en systeemeigen ondersteuning voor het afspelen en opschalen van 4K-video en HDR10.
+Het model werd verkrijgbaar met een harde schijf van 500 GB en 1 TB. De "special edition" heeft 2 TB opslagruimte en was al begin augustus 2016 verkrijgbaar. Microsoft onthulde ook speciale versies in de thema's van Gear of War 4, Battlefield 1, Forza Horizon 3 , Minecraft, Fortnite Battle Royale en Roblox.
+Xbox One S werd geprezen vanwege zijn kleinere formaat, visuele verbeteringen en het ontbreken van een externe voeding, maar er waren ook negatieve geluiden te horen vanwege het ontbreken van een systeemeigen Kinect-poort.
+Er verscheen ook een aangepaste versie van de Xbox One S, die op 7 mei 2019 onder de naam Xbox One S All-Digital Edition verscheen. In dit model ontbreekt de blu-rayspeler, zodat men uitsluitend online aangeboden spellen kan aanschaffen en downloaden. Het bevat een 1 TB harde schijf en werd standaard geïnstalleerd met de spellen Forza Horizon 3, Minecraft en Sea of Thieves. Deze uitvoering werd slechts een jaar verkocht, tot juli 2020.
+De productie van de Xbox One S werd door Microsoft eind 2020 stilzwijgend gestopt.
+
+
+== Xbox One X ==
+In juni 2017 werd de Xbox One X, een high-end-model, onthuld en deze werd uitgebracht op 7 november 2017. Xbox One X is voorzien van grote hardware-verbeteringen zodat games op 4K-resolutie kunnen worden gerenderd. Deze console is vier keer krachtiger dan de originele Xbox One die in 2013 uitkwam. Het werd aangekondigd onder de codenaam 'Project Scorpio' tijdens de E3 2016. Op E3 2017 toonde Microsoft deze console voor het eerst aan het publiek.
+Intern bevat de spelcomputer onder meer een SoC 2,3 GHz 8-core processor met een AMD Radeon grafische chip, die maximaal 6 teraflops kan verwerken. Er is 12 GB GDDR5 werkgeheugen, waarvan 9 GB beschikbaar is voor spellen, en een harde schijf van 1 TB.
+De Xbox One X is achterwaarts compatibel met bestaande Xbox One-software, waarvan bepaalde spellen (onder de titel Xbox One X Enhanced) speciaal zijn aangepast om gebruik te maken van de hogere prestaties van de spelconsole.
+De productie van de Xbox One X werd door Microsoft in juli 2020 stilzwijgend gestopt.
+
+
+== Externe links ==
+Officiële website van Xbox Nederland
+Officiële website van Xbox België

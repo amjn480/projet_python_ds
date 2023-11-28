@@ -1,0 +1,264 @@
+De OV-chipkaart is een elektronische pas met NFC-tag voor het registreren of betalen van reizen in het openbaar vervoer in Nederland. Kinderen jonger dan vier jaar kunnen kosteloos meereizen en hebben hierdoor geen OV-chipkaart nodig.
+
+
+== Korte geschiedenis ==
+
+Vanaf 1980 werden al diverse proeven gedaan met elektronische betaalsystemen in het Nederlandse openbaar vervoer. De meest in het oog springende proeven waren die met de magneetkaart van Siemens en de Tripperpas.
+De ontwikkeling van het OV-chipkaartsysteem begon in oktober 2001 met de oprichting van Trans Link Systems. Om ervaring op te doen ging een afvaardiging van de Nederlandse Spoorwegen al in 1999 op werkbezoek in Hongkong, waar twee jaar eerder de Octopus card was ingevoerd. Hierop is het systeem dat in Nederland wordt gebruikt grotendeels gebaseerd. In 2002 werden voor het eerst poortjes getest bij de RET in Rotterdam met de tournicard en in 2003 deed de NS testen met poortjes op de Hoekse Lijn. In 2005 was het systeem dusdanig ontwikkeld dat reizigers in Rotterdam de OV-chipkaart konden uitproberen. Het duurde tot 2012 voordat het systeem landelijk was geïmplementeerd.
+
+
+== Reis ==
+Bij gebruik van de chipkaart wordt vaak het woord reis gebruikt. Een reis begint op het moment van inchecken en eindigt 35 minuten na het uitchecken. Wordt binnen 35 minuten na het uitchecken op hetzelfde station weer ingecheckt, dan geldt dat als een overstap en het vervolg als deel van dezelfde reis. Dat is meestal goedkoper dan twee aparte reizen.
+Er is een uitzondering op het bovenstaande: zes uur na het begin is overstappen niet meer mogelijk. Wie bijvoorbeeld om 9.23 uur heeft ingecheckt kan daarna tot 15.23 uur naar hartenlust overstappen (uit- en inchecken binnen 35 minuten), maar na nog eens uitchecken resulteert inchecken na 15.23 uur in een nieuwe reis.
+Checkt men in bij een andere vervoerssoort (bijvoorbeeld van trein naar stads- en streekvervoer), dan is dat een nieuwe reis. Ook bij het overstappen van de ene treinvervoerder naar de andere ontstaat in sommige gevallen een nieuwe reis. Overstappen van bijvoorbeeld tram van GVB naar bus van Connexxion kan dus wel zonder opnieuw het basis-/opstaptarief te betalen.
+Wordt ingecheckt op een moment waarop spitstarief of daltarief geldt, dan geldt bij NS dat tarief sinds 2016 voor de hele reis. Tussendoor de trein verlaten om uit en in te checken om verder te reizen met daltarief heeft dus geen zin - tenzij de onderbreking meer dan 35 minuten duurt (zie volgende alinea voor een uitzondering).
+Dit kan heel ongunstig uitpakken: wie een abonnement heeft waarmee hij na 18.30 gratis reist en om 18.20 incheckt, moet voor de hele reis het spitstarief betalen.
+Een check-in kan geannuleerd worden door binnen 35 minuten op hetzelfde station uit te checken. Men doet dat om iemand uit te zwaaien op een station waar poortjes zijn. Merkt men dat men tijdens de spits heeft ingecheckt (zodat de hele reis voor spitstarief is) dan kan men onmiddellijk uitchecken, wachten op het daluur en weer inchecken. Dit geldt dus niet als overstap.
+Het is mogelijk twee reizen tegelijk te maken. Men kan bijvoorbeeld een treinreis onderbreken, een busreis maken en daarna de treinreis voortzetten. Heeft men daarbij bij het onderbreken en voortzetten van de treinreis niet uit- en ingecheckt bij het spoorbedrijf, dan geldt dat voor de OV-chipkaart als een ononderbroken treinreis. Het geldt als een ononderbroken treinreis als men wel uit en in heeft gecheckt (wat onvermijdelijk is als er poortjes zijn op het station en men zich daarbuiten wil begeven), maar dan alleen als dat binnen 35 minuten gebeurde.
+Soms zet men vóór men op reis gaat een speciaal tarief op de OV-chipkaart, bijvoorbeeld eerste klas of samenreiskorting. Dit geldt dan voor de eerstvolgende reis. Het speciale tarief blijft dus op de kaart staan als men na het uitchecken binnen 35 minuten weer incheckt.
+Een stempel op een strippenkaart had een beperkte geldigheidsduur, afhankelijk van het aantal gestempelde zones. Binnen die geldigheidsduur kon men het stempel als retour gebruiken - dit was uitdrukkelijk toegestaan. Met de OV-chipkaart geldt dat de terugrit als een vervolg van de reis geldt (dus voor lager tarief) als de onderbreking niet langer dan 35 minuten heeft geduurd.
+Dit geldt ook met een treinreis als men op het bestemmingsstation binnen 35 minuten na het uitchecken weer incheckt.
+Met de trein mocht men de reis op elk tussenstation onderbreken en later op de dag verder reizen, desnoods meer dan 35 minuten later. Met de OV-chipkaart is dat ook mogelijk, mits er geen poortjes zijn op het station waar men de reis onderbreekt. Het vervolg van de reis is dan voor hetzelfde tarief; als het daltarief intussen is ingegaan, kan het voordeliger zijn na de onderbreking een nieuwe reis te maken, dat wil zeggen uit te checken en na meer dan 35 minuten weer in te checken.
+
+
+== Afwijkende tarieven ==
+Door de invoering van de OV-chipkaart zijn enkele afwijkingen in de tariefberekening ontstaan. Doordat de websites alleen de tarieven geven voor de eenvoudigste reizen, is het niet altijd eenvoudig om erachter te komen wat het tarief van een bepaalde reis is.
+Vanouds gold dat de prijs van een retour lager was dan de prijs van twee enkele treinreizen. In de overgangsperiode werd de prijs van een enkele reis verlaagd en de prijs van een retour navenant verhoogd.
+Sommige reizigers kochten, bijvoorbeeld, niet een retour van Utrecht CS naar Den Haag, maar een enkele reis van Utrecht CS naar Utrecht Lunetten via Den Haag, om door de langeafstandskorting (LAK) toch minder te betalen dan tweemaal een enkele reis. De kaartautomaten accepteerden dit, mits het begin- en eindstation niet hetzelfde waren.
+Met de OV-chipkaart is een retourkorting nog steeds mogelijk, namelijk door binnen 35 minuten uit en in te checken - wat niet betekent dat men binnen 35 minuten terugreist. Heen- en terugreis gelden dan als een enkele reis met overstap. Door het degressief tarief bij NS is dit goedkoper. Met de LAK wordt het degressief tarief ook toegepast op niet NS-treinen. Er is een maximumtarief, als het maximumtarief is bereikt, zijn alle volgende ritten gratis, mits er steeds na uitchecken binnen 35 minuten weer wordt ingecheckt. De eerste incheck bepaalt of er voor de hele reis met dal- of spitstarief gereisd wordt.Wie een abonnement heeft, reist soms met korting of zelfs gratis. Het tijdstip van inchecken geldt, en dat tijdstip geldt voor de hele reis. Met het abonnement Weekend Vrij reist men gratis vanaf vrijdag 18.30, maar als men iets eerder, bijvoorbeeld om 18.15, heeft ingecheckt, moet men voor de hele reis het volle tarief betalen.
+Om voor het daltarief te reizen, moet men tijdens de daluren inchecken. Het kan ook vijf minuten eerder, dus wie na 8.55 incheckt, reist voor het daltarief. De bedoeling daarvan is dat de reiziger dan nog tijd heeft om een trein te halen die kort na 9.00 vertrekt. Wie per ongeluk iets eerder incheckt, bijvoorbeeld om 8.54, kan uitchecken en na 8.55 inchecken, want wie uitcheckt zonder gereisd te hebben annuleert zijn check-in. Bij opnieuw inchecken begint de reis dus pas. De keerzijde is dat als men vóór de spits incheckt, maar weer uitcheckt op hetzelfde station en dan in de spits weer incheckt, men tegen spitstarief gaat reizen.
+Een fiets mag alleen tijdens de daluren meegenomen worden. Dat geldt (in tegenstelling tot het tarief dat de reiziger betaalt) ook als tussentijds de spits is begonnen. Wie tijdens de daluren vertrekt mag voor daltarief verder reizen als de spits is begonnen, maar de fiets mag dan niet meer mee. Dat is nog wel uit te leggen als de trein vertraagd is, maar het is lastiger als er na een vertraging wordt overgestapt. Vóór de invoering van de OV-chipkaart bestond dit probleem niet, omdat er toen alleen een ochtendspits en geen middagspits was.
+Bij verstoringen mag men in principe zonder bijbetaling een andere reisweg volgen. In de praktijk kan dit anders uitpakken. Zet de vervoerder een bus in, dan kan voor het tarief van de vervoerder met die bus worden gereisd. Om dit mogelijk te maken worden bij de betrokken station OVC-poorten open gelaten, zodat overstappende bus/treinreizigers niet verplicht worden in en uit te checken. Vaak worden er dan bij het busstation verplaatsbare chippalen geplaatst. Maar als er een omweg moet worden gemaakt en er onderweg in- en uitgecheckt moet worden kan een langere reisroute in rekening worden gebracht.
+Is er een verstoring tussen Utrecht en Amersfoort, dan kan men omreizen via Hilversum. Het kan dan nodig zijn dat men in Hilversum naar een ander perron moet gaan en via poortjes moet lopen. Er wordt dan een langere reisroute in rekening gebracht. Loopt men bij de overstap niet via poortjes, dan is er geen probleem (mits de conducteur van de verstoring op de hoogte is).
+Is er een onverwachte verstoring tussen Arnhem en Deventer, dan kan men omreizen via Utrecht en Amersfoort. Deze grote omweg wordt door de NS Reisplanner geadviseerd en geeft geen probleem, want de hele reis is met NS. Men kan echter ook omreizen via Winterswijk en dan betaalt men voor de omweg met Arriva.
+Voor gehandicapten zijn er weer andere problemen. Iemand die reist van Deventer naar Borne, kan ervoor kiezen niet in Almelo maar in Hengelo over te stappen van NS naar Keolis. In Hengelo is namelijk betere assistentie om de rolstoel uit de NS-trein te rijden. Er is geen assistentie nodig om verder te reizen met Keolis, want die trein heeft een gelijkvloerse instap. De reiziger moet dan echter in Hengelo uitchecken bij NS en inchecken bij Blauwnet en betaalt een hoger tarief.
+Ook gelden er afwijkende tarieven in gebieden waar de OV-chipkaart (nog) niet is ingevoerd, zoals op de stadslijnen van Meppel en bij TwentsFlex in Twente. Ook kunnen de afwijkende tarieven alleen op bepaalde momenten gelden, zoals bij de stadsdienst van Woerden waar alleen 's avonds en op zondag een afwijkend tarief geldt. Ook op sommige buurtbussen kan het tarief afwijken.
+
+
+== In- en uitchecken ==
+In- en uitchecken gebeurt door de OV-chipkaart bij een OV-chipkaartlezer van de vervoersmaatschappij te houden (kortweg ook wel tappen genoemd).
+Aan het begin van de reis moet de OV-chipkaart tegen een OV-chipkaartlezer op een chippaal of bij een poortje van de vervoersmaatschappij worden gehouden, het “inchecken”. Aan het einde van de reis doet men weer hetzelfde, het “uitchecken”. Soms is bij een overstap “omchecken” nodig. Deze kaartlezers kunnen zich in de vervoermiddelen bevinden (bij de deuren) of erbuiten, op de stations of haltes. Ze zijn te herkennen aan het pictogram van een hand die een gestileerde roze ov-chipkaart vasthoudt; dit pictogram markeert de plaats waar men de kaart moet presenteren. Ook hebben ze veelal het logo van de betreffende vervoersmaatschappij, wat van belang is op stations die worden bediend door verschillende bedrijven. Iedere vervoerder heeft namelijk eigen kaartlezers (ook nog gesplitst per vervoerwijze, zoals stadstram en sneltram). Op stations en haltes waar verschillende in- en uitchecksystemen naast elkaar worden gebruikt moeten reizigers dus oppassen de benodigde handeling niet bij de verkeerde lezer te verrichten.
+
+
+=== Plaatsing van de kaartlezers ===
+Bij de spoorwegen staan de chippalen in de hal van het station of op het perron. Dezelfde palen worden gebruikt voor inchecken en uitchecken.
+Grotere stations en sommige metrostations hebben de kaartlezers geïntegreerd in toegangspoortjes die pas opengaan als de reiziger een ov-chipkaart aanbiedt. In dat geval is elk poortje uitsluitend geschikt voor inchecken of uitsluitend voor uitchecken. De poortjes kunnen ook geopend worden met de 2D-streepjescode van een e-ticket.
+Wordt een station door meerdere vervoerders bediend, dan heeft elke vervoerder zijn eigen chippalen of poortjes. Zijn er poortjes bij de ingang van het station, dan staan er toch nog palen op het perron, voor het overstappen. Die kan tot verwarring leiden: een reiziger stapt uit, checkt uit op het perron en ontdekt daarna tot zijn schrik dat hij door een poortje moet lopen om het station te verlaten. Het poortje gaat echter probleemloos en kosteloos open voor een reiziger die al uitgecheckt is.
+De meeste busbedrijven hebben de kaartlezer in de voertuigen. Soms gaat het om een mobiele kaartlezer bij de chauffeur.
+De meeste tram- en metrobedrijven hebben de kaartlezer in de voertuigen of op het perron.
+Is de treindienst verstoord, dan worden er bussen ingezet. Bovendien zet men dan mobiele chippalen bij de bushalte.
+
+
+=== Overstappen ===
+Een reiziger die in een voertuig heeft ingecheckt, checkt bij het uitstappen in hetzelfde voertuig uit. Dat doet de reiziger ook als hij overstapt op een ander voertuig, zelfs als dat een voertuig van hetzelfde vervoerbedrijf is (“omchecken”).
+Een reiziger die op het perron of bij een poortje heeft ingecheckt, kan meestal zonder formaliteiten overstappen op een voertuig van hetzelfde vervoerbedrijf. Op enkele stations moet hij, om over te stappen, via poortjes naar een ander perron lopen, en is “omchecken” onvermijdelijk. Bij Arriva wordt een ander soort systeem getest (zie Touch&Travel).
+Een reiziger die overstapt naar een andere vervoerder, moet altijd omchecken. Er staan voor elke vervoerder chippalen op het perron, zelfs als het station toegangspoortjes heeft.
+Reis je op saldo en stap je over van Blauwnet op een aansluitende bus van Arriva of Keolis dan betaal je in de bus niet opnieuw het opstaptarief. Dit geldt ook andersom.
+
+
+=== De juiste kaartlezer ===
+Wordt een station door meerdere vervoerders bediend, dan heeft elke vervoerder zijn eigen chippalen of toegangspoortjes. De reiziger moet erop letten dat hij bij de juiste vervoerder in- en uitcheckt. Soms rijden meerdere vervoerders op hetzelfde traject en de reiziger die het eerste het beste voertuig neemt, moet dan vooraf weten met welke vervoerder hij gaat reizen.
+Bij RandstadRail rijden op hetzelfde traject voertuigen van HTM met kaartlezers en van RET zonder kaartlezers. In het laatste geval moet op het perron worden in- en uitgecheckt. Ook dan geldt dat de reiziger die het eerste het beste voertuig neemt, pas op het laatste moment weet hoe hij moet inchecken.
+
+
+=== Gang van zaken ===
+Als er voldoende saldo of een geldig reisproduct (bijvoorbeeld abonnement) op de kaart staat, gaat het poortje open of geeft de kaartlezer een toegangssignaal en brandt er een groen lampje. Aan het eind van de reis dient men de kaart wederom bij een kaartlezer te houden om uit te checken. Het systeem berekent dan wat de reis heeft gekost en welk saldo op de kaart overblijft en toont dit op het beeldscherm.
+Door het overstappen op een andere vervoerder wordt de reis soms duurder dan wanneer men het hele traject bij dezelfde vervoerder aflegt en het kan voordeliger zijn een omweg te maken bij dezelfde vervoerder, bijvoorbeeld doordat de regel geldt dat het moment van inchecken het tarief bepaalt voor de hele reis.
+
+
+=== Uitzonderingen ===
+In de meeste provincies kan in de bus ook nog een kaartje worden gekocht bij de chauffeur met de pinpas. Dit is met name bedoeld voor incidentele reizigers. In sommige buurtbuslijnen kan niet op saldo worden gereisd.
+Bij GVB Amsterdam en RET Rotterdam wordt bij de chauffeur een papieren OV-chipkaart verkocht. In de regiotaxi's die tot het openbaar vervoer worden gerekend, is de OV-chipkaart niet te gebruiken. In bepaalde nachtbussen is de OV-chipkaart geldig, maar geldt een hoger tarief.
+
+
+=== Grensoverschrijdend reizen met de OV-chipkaart ===
+De Duitse stations Weener, Leer aan de spoorlijn Groningen-Leer. Op deze stations staan kaartlezers en soms ook een kaartautomaat van Arriva. Zie ook: Arriva-vervoerbewijzen Groningen-Leer.
+Op de spoorlijn Enschede - Gronau is de OV-chipkaart geldig. Sinds augustus 2021 is het mogelijk om naar station Gronau op het Nederlandse tarief te reizen door middel van in- en uitcheckpalen van Blauwnet. Wil men verder reizen richting Dortmund of Münster dan dient men gebruik te maken van Duitse vervoerbewijzen.
+Op de spoorlijn Zevenaar - Emmerich is het sinds 23 juni 2022 mogelijk met de OV-chipkaart te reizen van en naar Elten, Emmerich en Praest, dit is onder meer gedaan omdat het handig kan zijn om  vanuit 's-Heerenberg of Megchelen via een van deze stations naar Arnhem Centraal te reizen. Er staan incheckpalen van Arriva.
+Op de spoorlijn Maastricht - Luik-Guillemins is de OV-chipkaart op het binnenlandse deel geldig, voor Maastricht Randwyck en Eijsden worden voor treinreizen met NMBS gezien als Nederlandse tariefpunten. Op deze stations staan kaartlezers en een kaartautomaat van NS.
+Op de drielandentrein tussen Maastricht en Aken kan met OV-chipkaart worden gereisd. Er zijn ook chippalen in de Duitse stations Herzogenrath, Aachen West en Aachen Hauptbahnhof waar de trein stopt (check-in Arriva).
+De OV-chipkaart is geldig op buslijnen die de Nederlandse grens passeren, mits deze worden gereden door Nederlandse exploitanten. Soms wordt voor het deel buiten Nederland een hoger tarief berekend.
+In ASEAG-lijn 44 Heerlen-Kerkrade-Aken kan op vertoon van een OV-chipkaart een papieren kaartje worden gekocht tegen het OV-chipkaarttarief (eventueel met korting).
+Op lijn 42 Brugge - Breskens kan tussen Sluis en Breskens ook met de OV-chipkaart worden gereisd in de bussen van De Lijn. Voor en achter in de bus zijn lezers geïnstalleerd. In- en uitchecken op het andere traject kan wel, maar er wordt geen bedrag berekend omdat daar het tariefsysteem van De Lijn van toepassing is.
+Op lijn 58 Nijmegen - Emmerik kan op het volledige traject met ov-chipkaart gereisd worden in de bussen van het Duitse NIAG. Hoewel er niet altijd ov-chipkaartlezers aanwezig zijn, is het mogelijk te reizen met de ov-chipkaart. Dit is ook toegestaan voor grensoverschrijdende reizen of zelfs voor reizen die enkel op Duits grondgebied plaatsvinden.Met andere buitenlandse openbaarvervoerbedrijven is geen regeling getroffen en daar is de OV-chipkaart niet geldig. Bij grensoverschrijdende reizen dient een internationaal vervoerbewijs voor de gehele reis te worden gekocht. Afhankelijk van het abonnement dat op de OV-chipkaart staat kan dit een kaartje met korting of vrij reizen voor het Nederlandse traject zijn. Op het gehele traject (inclusief aansluitende binnenlandse treinen) hoeft niet in- en uitgecheckt te worden. De conducteur kan het abonnement dat op de OV-chipkaart staat op geldigheid controleren.
+
+
+=== Omchecken ===
+Omchecken is uitchecken en direct daarna weer inchecken met dezelfde of een andere kaart; dit is soms nodig of voordeliger.
+Het is bij NS niet mogelijk binnen 15 seconden twee keer met dezelfde chipkaart bij dezelfde paal te checken. De paal zal de foutmelding "U bent al uit/ingecheckt" geven.
+
+
+=== Bezoek aan het station ===
+Zijn er toegangspoortjes op het station, dan is een chipkaart ook nodig voor bezoekers die niet op reis gaan. Wordt er binnen 60 minuten in- en weer uitgecheckt, dan betaalt men niets.
+Het is nodig dat er voldoende saldo op de kaart staat. Als men automatisch opwaarderen heeft ingesteld, dan bestaat de kans dat er op dit moment wordt opgewaardeerd.
+Een incorrecte incheck in een bus niet gratis: wie in een bus incheckt, ontdekt dat hij in de verkeerde bus zit en weer uitcheckt, betaalt een minimumtarief, al heeft de bus geen meter gereden.
+Men kan proberen het bedrag bij de busmaatschappij terug te vragen. Dit is niet nodig als men vervolgens alsnog in een andere bus stapt, omdat daar het basis- of opstaptarief dan niet meer van de kaart wordt afgeschreven.
+
+
+== OV-chipkaarttypes ==
+Er zijn verschillende kaartsoorten. Anders dan elders in Europa (bijvoorbeeld Engeland en Zwitserland) of elders in de wereld (bijvoorbeeld Singapore en Japan) is de elektronische kaart meestal niet kosteloos verkrijgbaar en wordt het aankoopbedrag niet geretourneerd bij inlevering.
+
+
+=== Wegwerpkaart ===
+Een wegwerpkaart of eenmalige OV-chipkaart is een OV-chipkaart waarop een niet te veranderen reisrecht staat. Het elektronische hart bevindt zich tussen twee dunne kunststof folies. Hierop zijn aan voor- en achterzijde papieren vellen geplakt. De kaart heeft de prijs van het product dat erop gedrukt staat. Op de kaart kunnen allerlei reisgegevens gedrukt en/of ingevuld worden. Met de kaart kunnen ook de toegangspoortjes van een vervoerder geopend worden. Het reisrecht is alleen geldig wanneer er op de juiste manier in- en uitgecheckt wordt. Het uitchecken na de laatste rit heeft geen gevolgen voor de reiziger, behalve voor schadevergoedingen bij reisklachten.
+Het papieren treinkaartje is sinds 9 juli 2014 ook van een chip voorzien (eenmalige chipkaart). Voor dit kaartje geldt 1 euro toeslag, omdat de productiekosten van een chipkaart hoger zouden zijn dan die van een papieren kaartje. Deze worden verkocht via de loketten en de automaten. Dit treinkaartje kan sinds april 2015 bij NS tot 8 dagen vooruit worden aangeschaft. Het is pas geldig als er is ingecheckt.
+Voor een hond of fiets kan men ook een wegwerpkaartje kopen. Op deze kaartjes staat dat er in- en uitgecheckt moet worden, maar vaak werkt dat niet.
+Verder verkopen de stadsvervoerbedrijven RET, GVB en de HTM wegwerpkaarten. Deze kaarten kunnen soms voor meerdere ritten worden gebruikt (het langste is 7 dagen, bij een GVB weekabonnement). Ook deze kaarten zijn vaak duurder ten opzichte van reizen op saldo.
+
+
+=== Anonieme OV-chipkaart ===
+Een anonieme OV-chipkaart staat niet op naam en kan door meerdere personen gebruikt worden, maar niet tegelijk. De kaart is geschikt voor reizen op saldo en een beperkt aantal reisproducten zonder persoonlijke korting.
+
+
+=== Persoonlijke OV-chipkaart ===
+De persoonlijke OV-chipkaart staat op naam en is voorzien van een pasfoto van de kaarthouder, die door de producent op de kaart worden afgedrukt. De kaart is behalve voor reizen op saldo ook geschikt voor alle andere reisproducten, zoals abonnementen en kortingsregelingen. In de eerste jaren konden alleen houders van een persoonlijke chipkaart op de OV-chipkaartenwebsite een overzicht van hun reisgegevens opvragen.
+De geboortedatum van de kaarthouder staat tegenwoordig niet meer op de kaart, maar wel nog op de chip in de kaart.
+Een persoonlijke Ov-chipkaart is te verkrijgen op de website van Ov-chipkaart.
+Ondanks de persoonlijke gegevens en pasfoto op de persoonlijke OV-chipkaart, telt deze niet als identiteitsbewijs. Wie is vergeten in te checken zal aan de conducteur die een boete of uitstel van betaling uitschrijft, een apart identiteitsbewijs moeten laten zien, zoals een identiteitskaart. Daartegenover staat dat de persoonlijke OV-chipkaart niet hoeft te worden afgehaald en dat de pasfoto niet hoeft te voldoen aan de strenge eisen voor foto's op identiteitsbewijzen.
+Het saldo op de kaart kan worden teruggestort. Daarvoor is het nodig dat automatisch opwaarderen uitgeschakeld is (de reiziger moet dat dus eerst uitzetten) en dat de kaart wordt opgestuurd (zodat er niet gereisd kan worden voordat de reiziger de kaart terug heeft ontvangen). Natuurlijk kan het restsaldo van een verlopen kaart (na vijf jaar) ook worden teruggevraagd; dit gebeurt niet automatisch.
+
+
+=== Zakelijk ===
+Hiervan zijn een aantal vormen:
+
+Een werkgever kan aan zijn personeel, onder bepaalde voorwaarden, belastingvrij een persoonlijke OV-chipkaart verstrekken.
+Een zakelijke OV-chipkaart, bijvoorbeeld de NS-Business Card en Mobility Card. Met deze kaarten reist men met de postpaid betaalmethode reizen op rekening. Hierbij worden de reiskosten en ketendiensten achteraf door de vervoerder berekend en periodiek in een nota naar het bedrijf gestuurd.
+
+
+=== OVpay ===
+Met OVpay is reizen tegen vol tarief (bij de trein alleen in de 2e klas) mogelijk met in- en uitchecken met een betaalpas, of een elektronisch equivalent op de telefoon. OVpay is dus niet bruikbaar voor reizen in de 1e klas en/of met korting, bijvoorbeeld via een reisproduct en/of leeftijdskorting (4 tot en met 11 jaar en 65 jaar of ouder). Degenen voor wie het bruikbaar is kunnen per reis kiezen tussen OVpay en de al langer bestaande mogelijkheden, waaronder de OV-chipkaart. Vanaf januari 2023 werden deze mogelijkheden geïntroduceerd.Wie niet kan of wil reizen met OVpay moet er wel rekening mee houden dat per ongeluk een betaalpas in de buurt van een paaltje of de scanner van een poortje houden kosten met zich meebrengt (voorheen gaf het alleen een foutmelding). OVpay kan voor de betaalpas niet uitgezet worden, of alleen door contactloos betalen helemaal uit te zetten (voor zover mogelijk).
+
+
+== Reizen op saldo ==
+Een OV-chipkaart kan worden voorzien van maximaal 150 euro saldo om te kunnen reizen.
+
+
+=== Instaptarief (borg) ===
+Het instaptarief (door sommige kaartlezers inifee genoemd, afkorting van initial fee; niet te verwarren met opstaptarief, een ander woord voor het verderop besproken basistarief) wordt bij het inchecken als borg van het saldo afgetrokken en afhankelijk van de daadwerkelijke ritprijs wordt het restant bij het uitchecken teruggeboekt of alsnog afgeschreven.
+Dit instaptarief (borg) verschilt per vervoerder en loopt bij bus, tram en metro van € 4,–, € 8,- tot € 10,– en bij trein van € 10,– tot € 20,–. Dit is min of meer gebaseerd op de gemiddelde ritprijs. Het minimumbedrag om te kunnen inchecken is vier euro lager. Het instaptarief kan ook afhangen van de kaartsoort (anoniem of persoonlijk) of van de aanwezigheid van een abonnement; de keuze voor 1e of 2e klas in de trein maakt niet uit.
+
+
+=== Basis- en kilometertarief ===
+Bij reizen op saldo begint de reissom met een basistarief (ook wel opstaptarief, niet te verwarren met het hierboven besproken instaptarief, de borg).
+Het basistarief door de jaren heen:
+
+Bij een overstap binnen 35 minuten na uitchecken binnen het stads- en streekvervoer wordt het basistarief niet opnieuw berekend, mits op beide lijnen op vol tarief wordt gereisd of dezelfde kortingregeling geldt (bij een dalurenproduct: binnen dezelfde tijdcategorie, spits of daluur).
+Boven op het basistarief komt een kilometertarief. Bij het uitchecken wordt berekend hoeveel kilometer is afgelegd en zo komt het totaalbedrag voor de reis tot stand. Het kilometertarief verschilt per regio of verbinding en ligt sinds 2006 in de meeste gevallen tussen de €0,15 en €0,25 per kilometer bij berekening in vol tarief. Hierop kunnen nog kortingen gelden, bijvoorbeeld via een reisproduct en/of leeftijdskorting (4 tot en met 11 jaar en 65 jaar of ouder). Op bepaalde verbindingen geldt een maximumtarief (aftoppen), waarbij het reisbedrag nooit hoger wordt dan het bepaalde bedrag. De prijs tussen de heenreis en terugreis over exact hetzelfde traject kan verschillen, omdat de routes apart zijn ingemeten. In bepaalde plaatsen geldt een vast tarief (basistarief plus kilometertarief).
+Voor de trein geldt een ander tariefsysteem. Als na een trein-uitcheck binnen 35 minuten weer wordt ingecheckt bij de trein wordt dit beschouwd als een reisonderbreking en wordt de boodschap ‘overstap’ getoond.
+Het maken van een omweg met de trein is niet zonder meer toegestaan. Bij controle moet de reiziger op een logische route reizen vanaf het incheckstation. De eindbestemming is voor de controleur immers onbekend. Bij een omweg, rondreis of terugreis moet men uit- en weer inchecken op het moment dat aan de logische route niet meer voldaan wordt. Geschiedt dat binnen 35 minuten, dan geldt dat als een vervolg van de reis.
+Het is toegestaan de reis op een tussenstation te onderbreken en later verder te reizen. Dat is probleemloos als er geen poortjes zijn op het station waar men de reis onderbreekt. Zijn er wel poortjes en duurt de onderbreking langer dan 35 minuten, dan geldt het vervolg als een nieuwe reis.
+Wordt de reiziger, wegens een verstoring of werkzaamheden, gedwongen een omweg te maken, dan moet hij onderweg niet uit- en inchecken. Soms moet hij op het overstappunt door poortjes lopen. De reis kost dan meer, want de reisroute is langer. Heeft hij een trajectabonnement, dan betaalt hij zelfs voor een reis die niets had mogen kosten. Het te veel betaalde kan bij het spoorbedrijf worden teruggevraagd.
+De situatie kan anders zijn als de gedwongen omweg met twee vervoerders is. Bijvoorbeeld van Almelo via Zwolle (met Blauwnet) en verder naar Amersfoort (met NS), wegens een verstoring op het rechtstreekse traject. Volgens de NS-reisplanner betaalt de reiziger in dat geval meer.
+
+
+=== Saldo opladen ===
+Saldo opladen kan op de volgende manieren:
+
+Online 10, 20, 30, 40 of 50 euro saldo bestellen en betalen via OV-chipkaart.nl en vervolgens opladen bij een OV-chipkaart-oplaadautomaat of NS-kaartjesautomaat.
+Saldo direct betalen en opladen bij een OV-chipkaart-oplaadautomaat of NS-kaartjesautomaat, naar keuze met of tot een rond bedrag van 5 euro tot 50 euro. Betaling kan met een bankpas, muntgeld (alleen bij NS kaartverkoopautomaat) of creditcard (alleen bij NS kaartverkoopautomaat en met toeslag van € 0,50).
+Via een automatische incasso kan het saldo met 10, 20 of 50 euro per keer worden opgewaardeerd. Dit gebeurt als bij het in- of uitchecken het saldo negatief dreigt te worden. Dit automatisch opladen dient apart te worden aangevraagd met een speciaal formulier dat verkrijgbaar is op stations of te downloaden is via internet en via een oplaadautomaat te worden geactiveerd
+Met contant geld bij een NS-service- en verkooppunt (alleen op de grotere stations aanwezig).
+Overzetten van saldo van geldige OV-chipkaart naar een andere geldige OV-chipkaart bij een NS-service- en verkooppunt (alleen op de grotere stations aanwezig).
+
+
+=== Reizen op saldo bij de NS ===
+Bij de Nederlandse Spoorwegen kan pas op saldo gereisd worden wanneer de OV-chipkaart ervoor 'geactiveerd' is. Dit is nodig om de klasse in te stellen (eerste of tweede klas). Dit activeren kan op drie manieren, zoals door minimaal één keer bij een NS-kaartautomaat het saldo op te laden. Het activeren van een NS-kortingproduct (zoals voordeelurenkorting) activeert ook automatisch het reizen op saldo. Bij nieuwe persoonlijke kaarten ter vervanging van een vervallen kaart met een dergelijk product is activeren helemaal niet nodig. In andere gevallen kan men via de optie “Laden overige producten” op de kaartjesautomaat de kaart ook geschikt maken voor “Reizen op saldo zonder NS-abonnement”.
+
+
+=== Reizen zonder uit te checken ===
+Reizen zonder uit te checken heeft, behalve bij vrij reizen met een abonnement, tot gevolg dat na het betalen van het instaptarief geen verrekening plaatsvindt van het te veel of te weinig betaalde.
+Tussen januari en juni en tussen juli en december mag een kaarthouder voor maximaal drie ritten per vervoerder saldo terugvragen. Saldo terugvragen is niet mogelijk als de rit langer dan 180 dagen geleden is; bij Qbuzz niet langer dan 63 dagen geleden. In de meeste gevallen kan saldo na 14 dagen na de reis worden teruggevraagd. Voor NS gelden andere voorwaarden.
+Als een reiziger ondanks waarschuwingen vaak niet uitcheckt treedt NS hiertegen op, omdat hij dan mogelijk steeds te weinig betaalt.
+
+
+== Reizen op rekening ==
+Men kan op de kaart instellen dat er op rekening wordt gereisd. Er hoeft dan geen saldo op de kaart te staan. De reiziger ontvangt maandelijks een factuur. De factuur wordt door NS verstuurd en vermeldt ook de reizen die met andere vervoerders zijn gemaakt.
+Een bezwaar van Reizen op rekening is dat de ritprijs niet op de chippalen wordt vermeld en evenmin op de website van de chipkaart. De reiziger ziet pas op de factuur wat de reis hem gekost heeft.
+
+
+== NS Flex ==
+NS biedt NS Flex aan, met of zonder abonnement voor korting of vrij reizen. GVB biedt GVB Flex aan, alleen in combinatie met een abonnement (diverse varianten). De abonnementskosten en reiskosten worden maandelijks op een factuur in rekening gebracht en achteraf van de betaalrekening afgeschreven.
+
+
+== Vervoerbewijzen ==
+Een OV-chipkaart kan naast saldo ook één of meerdere abonnementen, kortingsrechten, dagkaarten, toeslagbewijzen (zoals de Toeslag eerste klas of de toeslag voor Intercity Direct) en van tevoren bestelde vervoersbewijzen voor een enkele rit bevatten. Dit wordt door de vervoerders vaak een reisproduct genoemd. Ook de dagkaart voor fiets of hond is een reisproduct, evenals het bovengenoemde “Reizen op saldo zonder NS-abonnement” (dit in tegenstelling tot andere vervoerders, waar men zonder reisproduct zonder korting op saldo kan reizen).
+Bij het inchecken gaat het OV-chipkaartsysteem na welke reisproducten op dat moment van toepassing zijn, zodat de juiste tarieven worden toegepast. Sommige abonnementen of reisproducten geven onderling conflicten, bijvoorbeeld dezelfde korting op hetzelfde moment; dan kunnen ze beter niet op één OV-chipkaart staan. Als op een bepaald tijdstip geen kortingsrecht van toepassing is, kan een reisproduct soms toch enig voordeel geven (bij een NS-abonnement is het instaptarief lager voor abonnementhouders, ook in de spits).
+Er zijn meer dan 170 abonnementen om goedkoper mee te kunnen reizen.
+Naast de abonnementen die recht geven op vrij reizen (100% korting, dergelijke abonnementen hebben vaak het woord 'Vrij' in de naam) wordt het woord ‘abonnement’ soms gebruikt voor reisproducten die recht geven op een korting van bijvoorbeeld 20, 40 of 50% (voorheen kortingskaarten).
+Reisproducten zijn verkrijgbaar via de vervoermaatschappijen, via hun website, via een servicebalie of (ook) via een kaartautomaat van de vervoerder (onder meer NS, GVB, RET en HTM hebben eigen kaartautomaten). Wanneer reisproducten worden besteld via internet moeten deze nog op de kaart worden geladen bij een ophaal- of oplaadautomaat. Abonnementen kunnen alleen op een persoonlijke OV-chipkaart worden gezet.
+
+
+=== Landelijk, voor al het openbaar vervoer ===
+In februari 2017 lanceerde NS de OV-Dagkaart onder de naam: Holland Travel Ticket voor € 59,00 en de OV-Dagkaart Daluren onder de naam: Holland Travel Ticket Off Peak voor € 39,00. Deze dagkaart is uitsluitend bij een NS-automaat te verkrijgen.Verder zijn er:
+
+OV Vrij (niet geldig in Waterbus Rotterdam-Drechtsteden)
+Studentenreisproduct
+
+
+=== Landelijk – trein ===
+Er is een aantal treinabonnementen die bij alle treinvervoerders in Nederland geldig zijn. Ze zijn verkrijgbaar bij de Nederlandse Spoorwegen. Deze treinabonnementen zijn meestal minimaal een jaar geldig. Na dit jaar kan het treinabonnementen elke maand worden opgezegd. Ze kunnen na bestelling op een persoonlijke OV-chipkaart worden gezet via een oplaadautomaat of men krijgt indien gewenst het abonnement op gekochte  nieuwe persoonlijke OV-chipkaart thuisgestuurd.
+
+Voordeelurenabonnement: 40% korting na 9.00 uur en in de spitsuren (middag/avond), reizen op saldo, samenreiskorting en dergelijke (sinds 1 augustus 2011 niet meer verkrijgbaar, slechts te verlengen per jaar).
+Keuzedag: na 9.00 uur en sinds 1 januari 2021 niet meer geldig tussen 16.00 en 18.30 uur (middagspits).
+Dal Voordeel: 40% korting in de daluren en dergelijke (sinds 1 januari 2021 niet meer verkrijgbaar, slechts te verlengen per jaar).
+Keuzedag: vóór 6.30 uur de hele dag vrij reizen, na 9.00 uur de hele dag vrij reizen. Sinds 1 januari 2021 niet meer geldig tussen 16.00 en 18.30 uur (middagspits).
+Altijd Voordeel: 20% korting in spitsuren; 40% korting in daluren.
+Traject Vrij: Vrij reizen op een vast traject. 40% korting in de daluren buiten het traject.
+Weekend Vrij: Vrij reizen van vrijdagavond 18.30 uur tot maandagochtend 4.00 uur en sinds 2016 alle algemeen erkende feestdagen. 40% korting in de overige daluren.
+Dal Vrij: 40% korting vóór 6.30 uur, tussen 9.00 en 16.00 uur en na 18.30 uur.
+Altijd Vrij: Vrij reizen in spits- en daluren.
+
+
+=== Kinderen ===
+Kinderen van 4 t/m 11 jaar kunnen voordelig met de trein reizen. Een Railrunner voor een alleenreizend kind is verkrijgbaar in de automaat als eenmalige chipkaart van € 2,50 of te laden op de OV-chipkaart van het kind. Nog voordeliger is het abonnement Kids Vrij, men betaalt alleen voor de OV-chipkaart (op naam van het kind) en er moet een volwassene meereizen.Voor het stads- en streekvervoer was er voorheen een roze strippenkaart waarmee alle kinderen onder de twaalf met korting konden reizen. Kinderen moeten een persoonlijke OV-chipkaart hebben om korting te krijgen, op basis van de geboortedatum die in de kaart is vastgelegd krijgen ze 34% korting op alle reizen met andere vervoerders dan NS.
+
+
+=== Landelijk – bus, tram en metro ===
+Bij de landelijke abonnementen voor bus, tram en metro valt op dat een landelijk Dal Vrij-product ontbreekt. Voor vrij reizen is men aangewezen op het Netabonnement dat zelfs nog flink duurder is dan de eersteklasversie van Dal Vrij voor de trein.
+Onderstaande abonnementen kunnen alleen op een persoonlijke OV-chipkaart worden geladen. Ze zijn te bestellen via een regionale vervoersmaatschappij.
+
+
+=== Regionaal ===
+Het aanbod verschilt per regio en/of vervoerder. In veel regio's zijn abonnementen verkrijgbaar op basis van zones als vervanger van het per 1 januari 2013 afgeschafte VBN-sterabonnement. Daarnaast worden er vaak abonnementen aangeboden die korting geven (bijvoorbeeld 20%, 50% of 100%) op het basis- en kilometertarief bij reizen op saldo met de OV-chipkaart in een bepaalde periode (bijvoorbeeld de daluren, de avond of in het weekend) in een bepaalde regio of op bepaalde lijnen. Sommige abonnementen zijn bedoeld voor een specifieke leeftijdscategorie, bijvoorbeeld scholieren van 12 t/m 18 jaar of senioren.
+Er zijn enkele initiatieven waarbij senioren (met een laag inkomen) of iedereen met een laag inkomen in aanmerking komen voor een abonnement waarmee gratis met het openbaar vervoer in de regio mag worden gereisd.
+
+
+=== Parkeren ===
+Op het parkeerterrein P+R Euroborg/P3 in Groningen is op 22 april 2013 betaald parkeren ingevoerd. In de betaalautomaat kan de parkeerkaart met een gebruikte OV-chipkaart (minimaal 1 kilometer) gebruikt worden om gratis uit te rijden (bij meer dan 24 uur parkeren geldt het normale parkeertarief). Dit kan ook met het P+R buskaartje met barcode.
+Op sommige parkeerterreinen krijgt men korting op parkeren als men de OV-chipkaart heeft gebruikt. Het betalen voor parkeren is (nog) niet mogelijk met de OV-chipkaart, maar dient apart afgerekend te worden met contant geld of een betaalkaart.
+
+
+=== Fietsenstalling ===
+In een deel van de bewaakte fietsenstallingen is de OV-chipkaart ingevoerd voor betaling en controle op de stallingsduur. Fietsers checken hun fiets in met de OV-chipkaart in bij het incheckpunt aan de ingang. Men checkt later uit bij de beheerder, die de stallingsduur controleert en het geld int. De gebruiker van een OV-chipkaart kan zich ook laten registreren op internet, kaartgegevens koppelen aan een bankrekening en achteraf betalen. Er zijn stallingen waar (op basis van afspraken met de gemeente) de eerste dag gratis is.
+
+
+== Wachttijd bij kaartlezers ==
+De wachttijd van kaartlezers (ook wel anti-passback-tijd genoemd) bij bussen, trams en poortjes, paaltjes bij stations en perrons voorkomt dat een reiziger die heeft ingecheckt, onbedoeld direct weer uit kan checken als de kaart per ongeluk tweemaal achter elkaar voor de lezer wordt gehouden (of na uitchecken onbedoeld direct weer inchecken). Er zijn ook reizigers die twijfelen of ze wel juist zijn in- of uitgecheckt en het voor de zekerheid nog eens doen. De wachttijd van kaartlezers (paaltjes) verschilt per vervoerder en varieert van 100 seconden bij NS tot 3 minuten bij andere spoorvervoerders en bij bus-, tram- en metrovervoerders van 0 seconden tot 1 minuut. Bij toegangspoortjes is er alleen een wachttijd indien men na in- of uitchecken niet door het toegangspoortje gaat lopen en de wachttijd opnieuw gaat in- of uitchecken.
+Heeft men per ongeluk ingecheckt, dan kan men niet direct bij dezelfde paal uitchecken. Bij NS kan men bij een andere paal direct uitchecken. Bij andere vervoerder lukt dit soms. Wat soms ook werkt: eerst een andere chipkaart tegen de paal houden, en dat hoeft geen OV-chipkaart te zijn.
+
+
+== Restitutie bij fouten ==
+Doordat het OV-chipkaartsysteem complex is, neemt de kans op fouten toe. Sommige fouten zijn te wijten aan de reiziger, andere niet. Te veel afgeschreven reissaldo wordt gerestitueerd in de volgende situaties:
+
+Vergeten uit te checken bij een kaartlezer. Dit kwam vooral in de begintijd van de OV-chipkaart veel voor doordat de reizigers niet gewend waren aan formaliteiten bij het einde van de reis. Soms "vergeten" sommige reizigers na een lange reis uit te checken, omdat dit voordeliger is. Het hogere bedrag wordt dan kwijtgescholden, maar als het vaker gebeurt kan de chipkaart ongeldig worden verklaard.
+Een andere reisroute wegens een verstoring, waarbij onderweg door poortjes moet worden gelopen of met een andere vervoerder moet worden gereisd.Meestal wordt het instaptarief minus de minimale ritprijs uitgekeerd. Er is geen restitutieregeling voor anonieme OV-chipkaarten. NS betaalt de volledige ritprijs terug als er een uur of meer vertraging is.
+Per jaar verliezen reizigers in totaal miljoenen euro's door mislukte/foutieve transacties. Niet alle reizigers vragen hun geld terug. Op 19 april 2011 is een motie van de SP in de Tweede Kamer aangenomen, die stelt dat te veel betaald saldo door reizigers die zijn vergeten uit te checken, ten goede moet komen aan investeringen in beter openbaar vervoer. In september 2014 werd bekend dat de vervoerders nog 16 miljoen euro per jaar incasseren doordat reizigers vergeten uit te checken. Dit geld wordt vanaf 2015 gebruikt om kinderen tot 12 jaar gratis te laten meereizen in de trein (met de Railrunner of Kids Vrij abonnement).
+
+
+== Transactieoverzicht ==
+
+Het transactieoverzicht van een OV-chipkaart bestaat uit een logboek van gemaakte reizen en de eventueel daaraan verbonden kosten. De laatste transacties zijn opgeslagen op de OV-chipkaart zelf en kunnen bij de meeste ophaalpunten worden uitgelezen en soms worden uitgeprint. Een uitgebreid transactieoverzicht is te bekijken via internet. In verband met de privacywetgeving moet expliciet op de website worden aangegeven dat de reiziger de transacties online wil kunnen inzien.
+Bij controle van de OV-chipkaart door de vervoerder wordt een kenmerk op de ov-chipkaart achtergelaten. Bij de kaartautomaat kan de reiziger dit zien. Het kenmerk bestaat uit de datum en tijd en de gegevens van de controleur. Dit is vergelijkbaar met het stempel dat op een papieren vervoerbewijs wordt gezet.
+
+
+== Wettelijke bepalingen ==
+De Wet personenvervoer 2000 regelt onder meer de regionale tariefvrijheid. Het op die wet gebaseerde Besluit personenvervoer 2000 spreekt van een elektronisch vervoerbewijs, in artikel 1 gedefinieerd als een vervoerbewijs waarmee de reiziger zich na elektronische registratie toegang kan verschaffen tot het openbaar vervoer. Artikel 47 lid 2b van diezelfde wet zegt dat een voorwaarde voor geldigheid is dat het vertrekpunt elektronisch is geregistreerd. Zelfs een houder van een vrij-reizenabonnement kan dus wettelijk gezien beboet worden als de kaart niet is ingecheckt.
+
+
+== Zie ook ==
+OV-chipkaartsysteem
+Vervoerbewijs op elektronische betaalkaarten
+
+
+== Externe links ==
+Officiële website OV-chipkaart

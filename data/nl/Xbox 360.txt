@@ -1,0 +1,124 @@
+De Xbox 360 is een spelcomputer geproduceerd door Microsoft en ontwikkeld door een samenwerkingsverband van IBM, ATI, Samsung en SiS. Met de Xbox network-dienst kunnen spelers online tegen elkaar spelen en arcadespellen, trailers, tv-programma's, muziekvideo's en gehuurde films downloaden. De Xbox 360 is de opvolger van de Xbox en concurreert met Sony's PlayStation 3 en Nintendo's Wii, beide spelcomputers van de zevende generatie. Het is de eerste console die tegelijkertijd in de drie hoofdregio's van de wereld (Verenigde Staten, Europa en Japan) werd gelanceerd en die vanaf het begin draadloze controllers ondersteunt.
+De Xbox 360 werd op 12 mei 2005 officieel onthuld op MTV, met een gedetailleerde introductie en spelinformatie op E3. Het apparaat raakte tijdens de introductie op slag uitverkocht (behalve in Japan) en er waren in december 2011 wereldwijd reeds 57 miljoen exemplaren verkocht.
+Het design is kleiner gemaakt dan bij de eerste Xbox. Hierdoor is wel de voeding buiten de console gebracht. De standaardconsole heeft een witte kleur met groene tinten. De voorkantjes kunnen worden verwisseld, met het idee om iedereen een unieke Xbox 360 te laten hebben.
+Microsoft heeft de Xbox One, opvolger van de Xbox 360, aangekondigd op E3 op 10 juni 2013.
+
+
+== Geschiedenis ==
+
+
+=== Ontwikkeling ===
+Tijdens de ontwikkeling, die begon in 2003, stond de Xbox 360 bekend als de Xenon, Xbox 2, Xbox FS, Xbox Next of NextBox. In februari 2003 begon de planning voor het Xenon-platform onder leiding van Microsoft-medewerker J. Allard. In die maand hield Microsoft een evenement voor 400 ontwikkelaars in Bellevue, Washington om ondersteuning te krijgen voor het systeem. Ook in die maand werd Peter Moore, voormalig voorzitter van Sega in de Verenigde Staten, aan het team van Microsoft toegevoegd. Op 12 augustus 2003 tekende ATI een contract om de graphics processing unit te maken. De volgende maand tekende IBM om de triple-core CPU te ontwikkelen voor de console. Voor de lancering van de Xbox 360 waren er verschillende alpha ontwikkelingskits gezien die Apple Power Mac G5 hardware gebruikten. Microsoft koos om deze systemen te gebruiken voor hun PowerPC-architectuur, die vergelijkbaar is met de Xenon CPU die gebruikt wordt in het uiteindelijke systeem, waarvan de CPU tot drie maal krachtiger werd dan de G5. Op 24 oktober 2005 werd Xbox Live tijdelijk uitgeschakeld om te upgraden naar de Xbox 360. De Xbox 360 bevat Neon, een muziekvisualisatieprogramma geprogrammeerd door Jeff Minter, waarmee afgespeelde muziek grafisch in beeld gebracht wordt.
+
+
+=== Lancering ===
+De lanceringscampagne voor de Xbox 360 begon op 14 maart 2005, met als opening een alternate reality game genaamd OurColony. In maart en april werden er uitdagingen aangeboden aan de community, die beloond werden met kleine afbeeldingen van de console en schermafbeeldingen van computerspellen. Het slot van OurColony volgde op 12 mei 2005 met een video die door J. Allard van Microsoft werd gepresenteerd waarin de Xbox 360-console te zien was. De officiële onthulling van de Xbox 360 vond op dezelfde dag plaats op MTV in een programma genaamd MTV Presents: The Next Generation Xbox Revealed. In oktober 2005 werd een vergelijkbare alternate reality game gemaakt, Hex168, om het systeem te promoten voor de lancering.
+De Xbox 360 werd op 22 november 2005 uitgegeven in de Verenigde Staten en Canada, op 2 december 2005 in Europa en in Japan op 10 december 2005. De console werd later uitgegeven in Mexico, Colombia, Zuid-Korea, Hongkong, Singapore, Taiwan, Australië, Nieuw-Zeeland, Zuid-Afrika, Chili, India, Brazilië, Polen en Tsjechië. Microsoft kondigde officieel aan om het systeem later aan te bieden in Hongarije, Slowakije en de Filipijnen. In het eerste jaar dat het zich op de markt gevestigd heeft werd het systeem in 36 landen gelijktijdig uitgegeven, wat nog nooit met een andere console was gebeurd. Door zijn vroege lancering had de Xbox 360 bijna een jaar voorsprong op zijn concurrenten, Sony's PlayStation 3 en Nintendo's Wii.
+
+
+== Hardware ==
+
+
+=== Technische specificaties ===
+De Xbox 360 bevat:
+
+Draadloze controller(s)
+Op IBM PowerPC gebaseerde processoren. De Xbox 360 heeft één processor met drie cores, iedere core heeft twee hardware-threads, wat dus op zes hardware-threads neerkomt.
+Processor Core Spec 3 Cores, twee hardware-threads per core
+1 MB Level 2 Cache
+Processor Custom IBM PowerPC CPU
+Custom IBM PowerPC Processor
+1 MB Level 2 Cache
+3.2 GHz
+Marketing Performance Measurement 1 teraflops
+Een ATI grafische kaart van 500 MHz die Shader Model 3.0 ondersteunt
+Een harde schijf van 250 GB (optioneel, in Premium Pack inbegrepen)
+Een GDDR3-systeemgeheugen van 512 MB
+
+
+=== Accessoires ===
+Er zijn verschillende accessoires beschikbaar voor de Xbox 360:
+
+
+=== Verschillende pakketten, bundels en modellen ===
+De pakketten worden soms geleverd met een spel, zoals Gears of War, Saints Row, of andere.
+
+
+==== Xbox 360 Arcade ====
+Deze bundel, toepasselijk Arcade genoemd, bevat naast de Xbox 360 een draadloze controller en vijf Xbox Live Arcade-spellen, te weten UNO, Pac-Man Championship Edition, Feeding Frenzy, Luxor 2 en Boom Boom Rocket, en een memory unit van 256 MiB (soms is deze ingebouwd in de console zelf). Voor het bestaan van de Arcade-versie was er een gelijkwaardige versie: Xbox 360 Core.
+
+
+==== Xbox 360 Elite ====
+Op 24 augustus 2007 verscheen de Xbox 360 Elite in Nederland. Deze nieuwe uitvoering beschikt over een harde schijf van 120 GB en over een HDMI 1.2-aansluiting. Bovendien is de kleur van de console zwart, waarop ook een aantal accessoires in zwart zijn uitgebracht. Volgens de geruchten zou de Elite de Premium vervangen, maar dit bleek niet waar en kwam hij naast de Premium te staan in het assortiment. Op 14 maart 2008 werden de prijzen van alle Xbox 360-consoles verlaagd met 80 euro. Dit om klanten te lokken vlak voordat Grand Theft Auto IV werd uitgebracht op 29 april 2008 en om de concurrentie van de Wii van Nintendo en de PlayStation 3 van Sony bij te benen.
+
+
+==== Xbox 360 S ====
+Op 13 juni 2010 kwamen de eerste beelden binnen van de Xbox 360 S, deze werd later op 14 juni 2010 tijdens de E3 bevestigd door Microsoft. Bij de Xbox 360 S zit ofwel een standaardgeheugen van 4GB, ofwel een geheugen van 250GB. Veelal wordt de Xbox 360 S verkocht met een Kinect. De Xbox 360 S heeft dan ook een ingebouwde Wi-Fi-adapter en tevens een aansluiting voor Kinect. Sinds 16 juli 2010 ligt de Xbox 360 S in de winkels in Europa. In 2013 werd de Xbox 360 E uitgebracht, die veel lijkt op de Xbox One.
+
+
+== Xbox network ==
+
+Xbox network is een online dienst voor de Xbox 360 die tot 2021 bekend was als Xbox Live. Het dient als basis voor verschillende extraatjes, zoals downloadbare toevoegingen aan spellen, online spelen met andere personen, en praten met vrienden door middel van een headset of Kinect. Met Xbox network kan de gebruiker de Kinect-scores van Kinect-spellen opslaan en bekijken.
+Er zijn twee soorten Xbox network: Silver (gratis) en Live Gold (betalend). Met Silver kan men scoreboards bekijken en extra's downloaden. Met Gold kan men ook online spelen. Dergelijke toepassingen zorgen voor enorme datastromen. Een breedbandaansluiting is dan ook vrijwel noodzakelijk voor Xbox network.
+
+
+== Beveiliging en hacks ==
+De beveiliging van de Xbox 360 is sterk verbeterd ten opzichte van de originele Xbox. Ten eerste heeft Microsoft in iedere CPU van de Xbox een code meegegeven. Daardoor is het niet mogelijk het BIOS en de dvd-speler van de ene Xbox 360 over te zetten in een andere Xbox 360. Ook alle gegevens die over het moederbord verstuurd worden zijn versleuteld. Het is tot op heden niet gelukt dit af te tappen. De processor van de Xbox 360 bevat ook eFuses. Deze ingebouwde zekeringen maken het onmogelijk oude dashboards te draaien op de Xbox 360. Ook softwarematig zit er de nodige beveiliging in de Xbox 360 gebouwd. De kernel van de Xbox 360 wordt beheerd door de Hypervisor. De kernel is het belangrijkste deel van het geheugen waarin het besturingssysteem draait. In de Hypervisor zit een protectie ingebouwd die een bufferoverflow tegen moet gaan.
+
+
+=== DVD drive firmware ===
+Ondanks alle beveiligingen is de Xbox 360 uiteindelijk al meerdere keren gekraakt. De eerste hack was de dvd-drive-hack van TheSpecialist. Deze hacker had de Hitachi-LG-drive gekraakt. Met deze hack was het mogelijk een 'back-up' te spelen, oftewel een gekopieerd spel. TheSpecialist maakte deze hack niet openbaar. Commodore4Eva kraakt in die tijd daarna de dvd-speler van de originele Xbox, de beveiliging van de dvd-speler van de originele Xbox zou volgens kenners grote overeenkomsten vertonen met de beveiliging van de Xbox 360. Nadat Commordore4Eva de dvd-speler van de originele Xbox gekraakt had, kraakte hij de dvd-speler van de Xbox 360. Hij kraakte in tegenstelling tot TheSpecialist niet de Hitachi-LG-drive maar de Toshiba-Samsung-drive. Hij maakte deze hack wel openbaar en deze hack staat nu bekend als de Xtreme Firmware. Niet lang na de hack van de Toshiba-Samsung drive werd er ook een Xtreme Firmware voor de Hitachi-LG gemaakt. De eerste versies van de Xtreme firmwares waren door Microsoft makkelijk te herkennen. De Xtreme firmwares zijn en worden daarom ook continu doorontwikkeld om Microsoft geen kans te geven de Xtreme firmwares te detecteren.
+
+
+==== KingKong Exploit ====
+Met de Xtreme Firmware is het echter niet mogelijk om zelf eigen software te draaien, alleen een complete originele kopie van een spel werkt. Bij sommige spellen werd echter ontdekt dat sommige bestanden aan te passen waren zonder dat men daarmee de encryptie van de disc verbrak. Later is er echter in de Kernel-versies 4532 en 4548 een exploit gevonden in de Hypervisor van de Xbox 360. Hierdoor is het mogelijk zelf eigen software op de Xbox 360 te draaien, bijvoorbeeld Linux. De werking van de exploit berust op een aantal dingen. Ten eerste op het feit dat de shaders van het spel King Kong aan te passen zijn zonder dat men daarmee de encryptie van het spel breekt, ten tweede op de iXtreme firmware omdat die het mogelijk maakt eigen discs te draaien. Ten derde uiteraard op de uiteindelijke exploit. Door het aanpassen van de shaders kan via de exploit verwezen worden naar een ander geheugenadres vanwaar eigen code gedraaid kan worden. De eigen code wordt via een seriële poort geïnjecteerd. Met deze hack hebben hackers ook toegang tot de kernel van de Xbox 360 en is de console eigenlijk volledig gekraakt. Microsoft heeft de fout al voortijdig gerepareerd waardoor de Xbox 360's die op Xbox Live aangesloten waren al geüpgraded waren naar een nieuwer dashboard die deze fout niet meer bevatte. Ook heeft Microsoft voor deze update een eFuse gebruikt waardoor het niet mogelijk is terug te gaan naar het oude dashboard die de exploit bevat.
+Microsoft heeft reeds een groot aantal mensen die hun Xbox gehackt hebben, geblokkeerd op Xbox Live en hun garantie laten vervallen. Het is niet bekend of uiteindelijk iedereen verbannen gaat worden en of dit alleen bij bepaalde firmwares voorkomt. Wel is duidelijk dat mensen die gebruikmaken van een stealth firmware niet door Microsoft zijn gedetecteerd. Alles duidt er dan ook op dat Microsoft de illegale back-ups weet te detecteren via de PFI-beveiligingsbestanden.
+
+
+=== Jtag ===
+Nadat Microsoft over de KingKong exploit leerde, werd het lek nog voordat deze publiek werd gemaakt (responsible disclosure) gedicht en ging men op zoek naar andere methoden om eigen code te draaien. Hierbij werd ook gekeken naar de JTAG poort die als standaard in de industrie op veel apparaten aanwezig is.
+De kernel moet wel lager zijn dan 2.0.7371.0.
+Na de KingKong exploit bleek de Hypervisor van de Xbox nog steeds beïnvloedbaar maar dan via de SMC (System Management Controller) en de GPU.
+Door de NAND (waar de bios, kernel en gedeelte van de dasboard staan opgeslagen) aan te passen waar de SMC een aantal configuraties uitleest kan de SMC geïnstrueerd worden om via DMA de hypervisor eigen code uit te voeren. Dit lijkt sterk op de kingkong exploit, maar in plaats van een shader wordt de SMC hiervoor gebruikt. Omdat er vanuit de SMC niet het exacte adres aanpasbaar bleek, gebruikt met een truc via de Jtag connector op de GPU om het adres dusdanig aan te passen en tegelijk via de SMC en de NAND op het moment dat de kernel begint met opstarten. zonder de GPU jtag hack kan de SMC namelijk alleen maar het laatste adres waar de kernel was aanpassen, en dat is meestal nul.
+Zodra je dus de juiste hardware op de GPU Jtag poort soldeert en de juiste code in de NAND plaatst, kunnen Xbox 360 met een kernel ouder dan 7371 een aangepaste kernel laden. De efuses worden hierbij helaas niet gepasseerd maar met wat aangepaste hashes, een 1920 2BL die gevoelig is voor de Timing-attack en een 1888 kernel waar we in terecht komen door de oorspronkelijke jtag hack, kunnen we bijna alle kernels starten als we de juiste CPU key gebruiken om de kernel de encrypten.
+
+
+==== RGH* ====
+Microsoft kwam erachter dat de kernel versies 4532 en 4548 werd gebruikt door de mensen die hun Xbox360 unsigned code wisten uit te voeren. Microsoft paste hierop de hypervisor dusdanig aan waardoor een hash werd vergeleken met wat de bootloader probeerde te laden en als deze overeen kwam, weigerde te starten.
+De zogenaamde ResetGlitchHack werkt doordat tijdens het starten de POST code wordt uitgelezen en hier wordt bepaald wanneer de memcmp wordt uitgevoerd.
+Deze memcmp is namelijk de vergelijking tussen de opgeslagen SHA hash van de volgende bootloader en de werkelijke bootloader op de NAND. Als men namelijk deze heeft aangepast, dan zal de memcmp vertellen dat er verschillen zijn. Door de POST code tijdens het uitvoeren van memcmp uit te lezen en zo te bepalen wanneer deze instructie plaatsvindt, De CPU te resetten, kan de uitkomst van deze memcmp veranderen. Dit moet wel gebeuren door de CPU op dit moment heel langzaam te laten draaien. Door CPU_PLL_BYPASS een signaal te geven, zal de processor rond de 520Khz draaien, en de reset zal de CPU niet echt resetten maar wel de uitkomst van de instructie, deze zal dan "glitchen". En zo, bij een "vals" verschil is de RGH succesvol.
+Dit zal niet altijd succesvol zijn, en daarom wordt er een nieuwe SMC-programma geladen (door middel van een aangepaste NAND-inhoud) die in plaats van 5 keer proberen en daarna RROD (fout toestand van de Xbox360), we nu een oneindige loop van deze bootloader ladingen doen, en dus oneindige keren proberen we de glitch hack. Resulterend is ongeveer minder dan 30 seconde boottijd.
+Op Xbox 360 slims, bleek CPU_PLL_BYPASS niet vindbaar en werd via de I2C-bus die de SMC deelt met de HANA (Video Scaler), de HANA aangestuurd. De HANA bleek namelijk verantwoordelijk voor de PLL en systeem klok en nu kun je dus de CPU tijdens de boven beschreven memcmp een reset geven en langzaam laten draaien.
+
+
+==== RGH2 ====
+In 2009 volgde een patch voor de bootloader van de Xbox 360. Waar tijdens de RGH de bootloader glitchbaar was, werd nu een unglitchbare bootlader gemaakt die een encrypted bootloader laadt. Vanaf dat moment kon officieel niet meer geglitcht worden, en kon men geen eigen bootloader meer laden.
+
+
+==== RGH1.2 ====
+Omdat RGH2 langer duurde met opstarten dan een RGH1, vond een Russische programmeur met de bijnaam 15432 dat de RGH1 op xboxen met dashboard 14699 en nieuwer moest werken. Hij paste daarom de timings van de oude hack aan de nieuwe bootloaders en paste wat aan de aansluitingen aan.
+
+
+==== S-RGH ====
+Nieuwe timings voor Slim Xbox, de S-RGH is een RGH2 aangepast voor Slims.
+Hacken van de Xbox 360 is niet zonder risico, er is een kans dat de Xbox van de hacker verbannen wordt en zijn/haar garantie vervalt bij het verbreken van de garantiezegel.
+
+
+== Bekende problemen ==
+Volgens het VARA-programma Kassa kan Microsofts Xbox 360 krassen op spelschijfjes veroorzaken. Microsoft stelt echter dat het probleem bij de gebruikers ligt, die de spelcomputer niet altijd op een stabiele plek neerzetten. In de Kassa-uitzending van 14 april 2007 van het programma werd echter toch toegegeven door Microsoft dat de Xbox uit zichzelf krassen kan veroorzaken. Kassa had dit eerder al bewezen door een test, uitgevoerd door Hardware.info. In deze test werd met een zwarte stift een spelschijfje gekleurd die geraakt bleek te zijn door een object binnenin de Xbox. Na demontage bleek dat de stootkussentjes op de lens ontbraken, waardoor de fysieke lens in aanraking kan komen met de schijf. Dit defect lijkt bij 1 à 2 miljoen spelcomputers aanwezig te zijn.
+Op het internet werd melding gemaakt van het probleem. Kassa kreeg circa 200 meldingen van Nederlandse Xbox 360-gebruikers. Microsoft ging verschillend om met de klachten, volgens het consumentenprogramma. Sommige gebruikers konden wel hun Xbox 360 omruilen voor een ander exemplaar, waar anderen dit niet konden. Enkele klanten kregen te horen dat 'het beleid van Microsoft is dat de Xbox geen krassen maakt'.Volgens advocaat Richard de Lange mogen klanten verwachten dat een spelcomputer niet zo snel problemen vertoont. Koen Crijns van Hardware.info gaf aan dat Microsoft geen precedenten wil scheppen en het bedrijf daarom niet snel beschadigde games vergoedt.Een ander grootschalig optredend probleem is de slechte afvoer van warmte binnen de console. De oververhitting heeft als gevolg dat het moederbord buigt, waardoor soldeercontacten breken. Dit is ook de oorzaak van de gevreesde "red ring of death". De nieuwere consoles hebben daarom een heat pipe om de warmte van de grafische processor beter af te voeren. Door de technische problemen met de Xbox 360 Microsoft besloot de garantie van 1 jaar naar 3 jaar te verlengen op nieuwe en reeds verkochte consoles.Zowel het probleem met krassen als het probleem met de kans op oververhitting is bij nieuwere consoles vrijwel opgelost.
+
+
+== Emulatoren ==
+Voor de pc zijn er maar een paar emulatoren beschikbaar:
+
+ex360e - Een experimentele emulator met weinig ondersteuning.
+Fission - Microsofts officiële Xbox- en Xbox 360-emulator voor op de Xbox One.
+Project Giano - Een multi-systems-emulatoronderzoeksproject van Microsoft. Ondersteunt geen enkele game en bevat een zeer uitgeklede testversie van een dashboard en kernel.
+Xenia - Een van de eerste goedwerkende Xbox 360-emulatoren, met ondersteuning van 90 games. Ontwikkeld in eerste instantie door Ben Vanik.
+
+
+== Externe links ==
+
+Officiële Nederlandse website
+Officiële Belgische website
