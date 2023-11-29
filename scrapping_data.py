@@ -11,11 +11,11 @@ language_list = ["en", "pl", "fr", "es", "it", "de", "ca", "sv", "af", "nl"]
 for language in language_list:
     URL = f"https://{language}.wikipedia.org/w/api.php"
     data = []
-    for lettre in range(ord("A"), ord("Z")+1):
+    for letter in range(ord("A"), ord("Z")+1):
         PARAMS = {
             "action": "opensearch",
             "namespace": "0",
-            "search": chr(lettre),  
+            "search": chr(letter),
             "limit": "15",
             "format": "json"
         }
@@ -25,5 +25,3 @@ for language in language_list:
     file = open(f"list_of_wikiarticle/list_{language}.pickle", "wb")
     pickle.dump(data, file)
     file.close()
-
-
