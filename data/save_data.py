@@ -2,7 +2,7 @@ import requests
 import pickle
 
 # URL de l'API de Wikipedia
-dic = {"fr": "https://fr.wikipedia.org/w/api.php",
+dic_api = {"fr": "https://fr.wikipedia.org/w/api.php",
         "en": "https://en.wikipedia.org/w/api.php",
         "es": "https://es.wikipedia.org/w/api.php",
         "de": "https://de.wikipedia.org/w/api.php",
@@ -14,7 +14,7 @@ dic = {"fr": "https://fr.wikipedia.org/w/api.php",
         "sv":"https://sv.wikipedia.org/w/api.php"}
 
 
-for language in ["nl"]:
+for language in dic_api.keys():
     file = open(f"/home/onyxia/work/projet_python_ds/list_of_wikiarticle/list_{language}.pickle", "rb")
     requests_list = pickle.load(file)
     for request in requests_list:
@@ -24,7 +24,7 @@ for language in ["nl"]:
             "titles": request,
             "prop": "extracts",
             "explaintext": True}
-        response = requests.get(dic[language], params=params)
+        response = requests.get(dic_api[language], params=params)
         if response.status_code == 200:
             data = response.json()
             page_content = list(data["query"]["pages"].values())[0]["extract"]
