@@ -1,8 +1,1 @@
-Die Virtual International Authority File (VIAF) is 'n internasionale gesaglêer. Dit is 'n gesamentlike projek wat deur verskeie nasionale biblioteke begin is en wat deur die Online Computer Library Center (OCLC) bedryf word.
-
-
-== Verwysings ==
-
-
-== Eksterne skakels ==
-Amptelike webwerf
+['die', 'virtual', 'international', 'authority', 'file', 'viaf', 'is', "'n", 'internasionale', 'gesaglêer', 'dit', 'is', "'n", 'gesamentlike', 'projek', 'wat', 'deur', 'verskeie', 'nasionale', 'biblioteke', 'begin', 'is', 'en', 'wat', 'deur', 'die', 'online', 'computer', 'library', 'center', 'oclc', 'bedryf', 'word', 'verwysings', 'eksterne', 'skakels', 'amptelike', 'webwerf']

@@ -1,5 +1,1 @@
-'n Digitale objek-identifiseerder (of DOI) is 'n nommer wat gebruik word om 'n dokument permanent te identifiseer sonder om na sy ligging te verwys. As voorbeeld kan 'n unieke nommer aan 'n wetenskaplike proefskrif of artikel toegeken word en dit dan later weer gebruik word om die dokument te vind. 'n DOI-opspoorstelsel word ingespan om die huidige ligging van die dokument te bepaal. As die dokument geskuif word, word slegs die opspoorstelsel met die nuwe ligging opdateer.
-
-
-== Eksterne skakels ==
-Die DOI-opspoorstelsel.
+["'n", 'digitale', 'objekidentifiseerder', 'of', 'doi', 'is', "'n", 'nommer', 'wat', 'gebruik', 'word', 'om', "'n", 'dokument', 'permanent', 'te', 'identifiseer', 'sonder', 'om', 'na', 'sy', 'ligging', 'te', 'verwys', 'as', 'voorbeeld', 'kan', "'n", 'unieke', 'nommer', 'aan', "'n", 'wetenskaplike', 'proefskrif', 'of', 'artikel', 'toegeken', 'word', 'en', 'dit', 'dan', 'later', 'weer', 'gebruik', 'word', 'om', 'die', 'dokument', 'te', 'vind', "'n", 'doiopspoorstelsel', 'word', 'ingespan', 'om', 'die', 'huidige', 'ligging', 'van', 'die', 'dokument', 'te', 'bepaal', 'as', 'die', 'dokument', 'geskuif', 'word', 'word', 'slegs', 'die', 'opspoorstelsel', 'met', 'die', 'nuwe', 'ligging', 'opdateer', 'eksterne', 'skakels', 'die', 'doiopspoorstelsel']

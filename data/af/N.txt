@@ -1,12 +1,1 @@
-Hierdie artikel handel oor die Latynse letter N. Vir ander betekenisse sien N (dubbelsinnig).Die letter N, n is die 14de letter van die moderne Latynse alfabet. In Navo se internasionale spellingsalfabet word N uitgespreek met die woord "November".
-
-
-== N met skryftekens ==
-Ń, ń
-Ñ, ñ
-Ņ, ņ
-Ň, ň
-
-
-== Sien ook ==
-ŉ, verouderde karakter in Afrikaanse Unicode
+['hierdie', 'artikel', 'handel', 'oor', 'die', 'latynse', 'letter', 'n', 'vir', 'ander', 'betekenisse', 'sien', 'n', 'dubbelsinnigdie', 'letter', 'n', 'n', 'is', 'die', 'de', 'letter', 'van', 'die', 'moderne', 'latynse', 'alfabet', 'in', 'navo', 'se', 'internasionale', 'spellingsalfabet', 'word', 'n', 'uitgespreek', 'met', 'die', 'woord', '"november"', 'n', 'met', 'skryftekens', 'ñ', 'ñ', 'sien', 'ook', 'verouderde', 'karakter', 'in', 'afrikaanse', 'unicode']

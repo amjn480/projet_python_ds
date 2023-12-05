@@ -1,11 +1,1 @@
-Gemeinsame Normdatei (GND) – kartoteka wzorcowa, stanowiąca element centralnego katalogu Niemieckiej Biblioteki Narodowej (DNB), utrzymywanego wspólnie przez niemieckie i austriackie sieci biblioteczne.
-
-
-== Bibliografia ==
-Eva-Maria Gulder: Die Gemeinsame Normdatei (GND). Bayerische Staatsbibliothek München (Normdatenredaktion), wrzesień 2011
-Christel Hengel-Dittrich: Das Projekt Gemeinsame Normdatei – GND. [w:] Dialog mit Bibliotheken. Jg. 22, H. 1, s. 36.
-
-
-== Linki zewnętrzne ==
-Online-GND (OGND)
-Informationen über die GND. dnb.de. [zarchiwizowane z tego adresu (2012-05-08)]. (DNB) (niem.)
+['gemeinsame', 'normdatei', 'gnd', 'kartoteka', 'wzorcowa', 'stanowica', 'element', 'centralnego', 'katalogu', 'niemieckiej', 'biblioteki', 'narodowej', 'dnb', 'utrzymywanego', 'wspólnie', 'przez', 'niemieckie', 'i', 'austriackie', 'sieci', 'biblioteczne', 'bibliografia', 'evamaria', 'gulder', 'die', 'gemeinsame', 'normdatei', 'gnd', 'bayerische', 'staatsbibliothek', 'münchen', 'normdatenredaktion', 'wrzesie', 'christel', 'hengeldittrich', 'das', 'projekt', 'gemeinsame', 'normdatei', 'gnd', '[w]', 'dialog', 'mit', 'bibliotheken', 'jg', 'h', 's', 'linki', 'zewntrzne', 'onlinegnd', 'ognd', 'informationen', 'über', 'die', 'gnd', 'dnbde', '[zarchiwizowane', 'z', 'tego', 'adresu', ']', 'dnb', 'niem']

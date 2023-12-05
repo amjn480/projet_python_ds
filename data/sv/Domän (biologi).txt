@@ -1,11 +1,1 @@
-En domän (latin regio) inom systematiken i biologin är den högsta sortens indelning. Alla organismer tillhör enligt modern systematik någon av följande domäner:
-bakterier - Bacteria
-arkéer - Archaea
-eukaryoter - EukaryaVirus, som i viss mening kan betraktas som en form av liv, ingår inte i ovanstående indelningssystem, utan behandlas normalt helt separat.
-Enligt äldre systematik delades organismerna endast in i två domäner, prokaryoter och eukaryoter. Denna klassificering baserades på studier av cellernas utseende, närmare bestämt på förekomsten av cellkärna (hos eukaryoter) eller avsaknaden av densamma (hos prokaryoter). Den moderna klassificeringen är istället baserad på jämförelse av DNA och RNA.
-
-
-== Historia ==
-
-
-== Referenser ==
+['en', 'domän', 'latin', 'regio', 'inom', 'systematiken', 'i', 'biologin', 'är', 'den', 'högsta', 'sortens', 'indelning', 'alla', 'organismer', 'tillhör', 'enligt', 'modern', 'systematik', 'någon', 'av', 'följande', 'domäner', 'bakterier', 'bacteria', 'arkéer', 'archaea', 'eukaryoter', 'eukaryavirus', 'som', 'i', 'viss', 'mening', 'kan', 'betraktas', 'som', 'en', 'form', 'av', 'liv', 'ingår', 'inte', 'i', 'ovanstående', 'indelningssystem', 'utan', 'behandlas', 'normalt', 'helt', 'separat', 'enligt', 'äldre', 'systematik', 'delades', 'organismerna', 'endast', 'in', 'i', 'två', 'domäner', 'prokaryoter', 'och', 'eukaryoter', 'denna', 'klassificering', 'baserades', 'på', 'studier', 'av', 'cellernas', 'utseende', 'närmare', 'bestämt', 'på', 'förekomsten', 'av', 'cellkärna', 'hos', 'eukaryoter', 'eller', 'avsaknaden', 'av', 'densamma', 'hos', 'prokaryoter', 'den', 'moderna', 'klassificeringen', 'är', 'istället', 'baserad', 'på', 'jämförelse', 'av', 'dna', 'och', 'rna', 'historia', 'referenser']

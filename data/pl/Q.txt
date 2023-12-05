@@ -1,12 +1,1 @@
-Q (minuskuła: q) (ku) jest siedemnastą literą alfabetu łacińskiego (pochodzi od greckiej litery koppa). W językach europejskich prawie zawsze występuje w połączeniu qu, oznaczającym dźwięk [kf], [kw] lub [kv]. W transliteracji języka arabskiego oznacza [q] (w oryginalnej pisowni ﻕ), w języku maltańskim – zwarcie krtaniowe, w języku polskim występuje tylko w zapożyczeniach.
-Prawdopodobnie była używana w języku polskim w XVI wieku do zapisywania połączeń [kv] w wyrazach rodzimych. W utworze „Nowy karakter polski” Jana Januszowskiego z 1594 Jan Kochanowski opisał literę Q następująco Q, rzadko, albo nigdy nie używamy, jako: kwaśny, abo quaśny, natomiast Łukasz Górnicki My nie używamy Polacy, chyba by kto Mosquę tak chciał pisać.
-
-
-== Inne reprezentacje litery Q ==
-
-
-== Zobacz też ==
-źródło Q
-
-
-== Przypisy ==
+['q', 'minuskua', 'q', 'ku', 'jest', 'siedemnast', 'liter', 'alfabetu', 'aciskiego', 'pochodzi', 'od', 'greckiej', 'litery', 'koppa', 'w', 'jzykach', 'europejskich', 'prawie', 'zawsze', 'wystpuje', 'w', 'poczeniu', 'qu', 'oznaczajcym', 'dwik', '[kf]', '[kw]', 'lub', '[kv]', 'w', 'transliteracji', 'jzyka', 'arabskiego', 'oznacza', '[q]', 'w', 'oryginalnej', 'pisowni', 'w', 'jzyku', 'maltaskim', 'zwarcie', 'krtaniowe', 'w', 'jzyku', 'polskim', 'wystpuje', 'tylko', 'w', 'zapoyczeniach', 'prawdopodobnie', 'bya', 'uywana', 'w', 'jzyku', 'polskim', 'w', 'xvi', 'wieku', 'do', 'zapisywania', 'pocze', '[kv]', 'w', 'wyrazach', 'rodzimych', 'w', 'utworze', 'nowy', 'karakter', 'polski', 'jana', 'januszowskiego', 'z', 'jan', 'kochanowski', 'opisa', 'liter', 'q', 'nastpujco', 'q', 'rzadko', 'albo', 'nigdy', 'nie', 'uywamy', 'jako', 'kwany', 'abo', 'quany', 'natomiast', 'ukasz', 'górnicki', 'my', 'nie', 'uywamy', 'polacy', 'chyba', 'by', 'kto', 'mosqu', 'tak', 'chcia', 'pisa', 'inne', 'reprezentacje', 'litery', 'q', 'zobacz', 'te', 'ródo', 'q', 'przypisy']

@@ -1,10 +1,1 @@
-L (minuskuła: l) jest dwunastą literą alfabetu łacińskiego, piętnastą literą alfabetu polskiego. Oznacza zwykle w danym języku spółgłoskę płynną boczną, np. [l].
-
-
-== Inne reprezentacje litery L ==
-
-
-== Zobacz też ==
-Ł
-Л (cyrylica)
-Λ (lambda)
+['l', 'minuskua', 'l', 'jest', 'dwunast', 'liter', 'alfabetu', 'aciskiego', 'pitnast', 'liter', 'alfabetu', 'polskiego', 'oznacza', 'zwykle', 'w', 'danym', 'jzyku', 'spógosk', 'pynn', 'boczn', 'np', '[l]', 'inne', 'reprezentacje', 'litery', 'l', 'zobacz', 'te', 'cyrylica', 'lambda']

@@ -1,1 +1,1 @@
-Die letter X, x is die 24ste letter van die Latynse alfabet. In Navo se internasionale spellingsalfabet word X uitgespreek met die woord "X-ray".
+['die', 'letter', 'x', 'x', 'is', 'die', 'ste', 'letter', 'van', 'die', 'latynse', 'alfabet', 'in', 'navo', 'se', 'internasionale', 'spellingsalfabet', 'word', 'x', 'uitgespreek', 'met', 'die', 'woord', '"xray"']

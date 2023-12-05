@@ -1,12 +1,1 @@
-Y (minuskuła: y) (igrek) – dwudziesta piąta litera alfabetu łacińskiego, dwudziesta dziewiąta litera alfabetu polskiego. Litera nazywana jest igrek (z łac. y graeca). W języku polskim oznacza dźwięk [ɨ] lub [ɘ], niekiedy oznacza spółgłoskę [j], np. w starszym zapisie nazwiska Zamoyski. Literą tą w języku polskim zaczyna się tylko kilka słów, będących zapożyczeniami, i czyta się jak zwykle [j]: yale, yeti, yorkshire oraz yuppie. Wyjątkami są słowa ypsilon i ylid, czytane przez [ɨ]. „Słownik języka polskiego” pod redakcją Jana Karłowicza, Adama Kryńskiego i Władysława Niedźwiedzkiego (1900–1927) podaje wyrazy ykać i ykanie jako regionalne odpowiedniki wyrazów czkać i czkanie oraz wykrzykniki ychy, ychychy, yja, yjo. W innych językach może oznaczać na przykład samogłoskę [y] (np. niem. sympathisch [zʏmˈpaːtɪʃ]), [ɪ] (np. cz. my [mɪ]) lub spółgłoskę [j] (np. hisz. ayer [aˈjeɾ]).
-
-
-== Inne reprezentacje litery Y ==
-
-
-== Zobacz też ==
-Υ (ypsilon)
-Ы (cyrylica), У (cyrylica)
-
-
-== Przypisy ==
+['y', 'minuskua', 'y', 'igrek', 'dwudziesta', 'pita', 'litera', 'alfabetu', 'aciskiego', 'dwudziesta', 'dziewita', 'litera', 'alfabetu', 'polskiego', 'litera', 'nazywana', 'jest', 'igrek', 'z', 'ac', 'y', 'graeca', 'w', 'jzyku', 'polskim', 'oznacza', 'dwik', '[]', 'lub', '[]', 'niekiedy', 'oznacza', 'spógosk', '[j]', 'np', 'w', 'starszym', 'zapisie', 'nazwiska', 'zamoyski', 'liter', 't', 'w', 'jzyku', 'polskim', 'zaczyna', 'si', 'tylko', 'kilka', 'sów', 'bdcych', 'zapoyczeniami', 'i', 'czyta', 'si', 'jak', 'zwykle', '[j]', 'yale', 'yeti', 'yorkshire', 'oraz', 'yuppie', 'wyjtkami', 's', 'sowa', 'ypsilon', 'i', 'ylid', 'czytane', 'przez', '[]', 'sownik', 'jzyka', 'polskiego', 'pod', 'redakcj', 'jana', 'karowicza', 'adama', 'kryskiego', 'i', 'wadysawa', 'niedwiedzkiego', 'podaje', 'wyrazy', 'yka', 'i', 'ykanie', 'jako', 'regionalne', 'odpowiedniki', 'wyrazów', 'czka', 'i', 'czkanie', 'oraz', 'wykrzykniki', 'ychy', 'ychychy', 'yja', 'yjo', 'w', 'innych', 'jzykach', 'moe', 'oznacza', 'na', 'przykad', 'samogosk', '[y]', 'np', 'niem', 'sympathisch', '[zmpat]', '[]', 'np', 'cz', 'my', '[m]', 'lub', 'spógosk', '[j]', 'np', 'hisz', 'ayer', '[aje]', 'inne', 'reprezentacje', 'litery', 'y', 'zobacz', 'te', 'ypsilon', 'cyrylica', 'cyrylica', 'przypisy']

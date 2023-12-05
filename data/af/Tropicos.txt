@@ -1,9 +1,1 @@
-Tropicos is 'n aanlyn botamiese databasis wat taksonomiese inligting bevat oor plante bevat, hoofsaaklik uit die Neotropiese ekosone (Sentraal- en Suid-Amerika). Dit word deur die Missouri Botaniese Tuin onderhou en is meer as 25 jaar gelede gestig. 
-Die databasis bevat beelde en taksonomiese en bibliografiese data op meer as 4,2 miljoen herbariummonsters. Daarbenewens bevat dit inligting oor meer as 49 000 wetenskaplike publikasies. Die databasis kan in Engels, Frans of Spaans besoek word. Die oudste rekords in die databasis dateer terug na 1703. 
-
-
-== Verwysings ==
-
-
-== Eksterne skakels ==
-Amptelike webwerf
+['tropicos', 'is', "'n", 'aanlyn', 'botamiese', 'databasis', 'wat', 'taksonomiese', 'inligting', 'bevat', 'oor', 'plante', 'bevat', 'hoofsaaklik', 'uit', 'die', 'neotropiese', 'ekosone', 'sentraal', 'en', 'suidamerika', 'dit', 'word', 'deur', 'die', 'missouri', 'botaniese', 'tuin', 'onderhou', 'en', 'is', 'meer', 'as', 'jaar', 'gelede', 'gestig', 'die', 'databasis', 'bevat', 'beelde', 'en', 'taksonomiese', 'en', 'bibliografiese', 'data', 'op', 'meer', 'as', 'miljoen', 'herbariummonsters', 'daarbenewens', 'bevat', 'dit', 'inligting', 'oor', 'meer', 'as', 'wetenskaplike', 'publikasies', 'die', 'databasis', 'kan', 'in', 'engels', 'frans', 'of', 'spaans', 'besoek', 'word', 'die', 'oudste', 'rekords', 'in', 'die', 'databasis', 'dateer', 'terug', 'na', 'verwysings', 'eksterne', 'skakels', 'amptelike', 'webwerf']

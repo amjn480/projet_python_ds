@@ -1,8 +1,1 @@
-iNaturalist is ’n projek en aanlyn sosiale netwerk van naturaliste, wetenskaplikes en bioloë wat waarnemings van biodiversiteit oor die wêreld heen karteer en deel. Dit verskaf nuttige inligting aan ’n verskeidenheid navorsingsprojekte, museums, botaniese tuine, parke en ander organisasies.Gebruikers van iNaturalist het al meer as agt miljoen waarnemings bygedra sedert dit in 2008 gestig is.
-
-
-== Verwysings ==
-
-
-== Eksterne skakels ==
- Wikimedia Commons het meer media in die kategorie INaturalist.
+['inaturalist', 'is', 'n', 'projek', 'en', 'aanlyn', 'sosiale', 'netwerk', 'van', 'naturaliste', 'wetenskaplikes', 'en', 'bioloë', 'wat', 'waarnemings', 'van', 'biodiversiteit', 'oor', 'die', 'wêreld', 'heen', 'karteer', 'en', 'deel', 'dit', 'verskaf', 'nuttige', 'inligting', 'aan', 'n', 'verskeidenheid', 'navorsingsprojekte', 'museums', 'botaniese', 'tuine', 'parke', 'en', 'ander', 'organisasiesgebruikers', 'van', 'inaturalist', 'het', 'al', 'meer', 'as', 'agt', 'miljoen', 'waarnemings', 'bygedra', 'sedert', 'dit', 'in', 'gestig', 'is', 'verwysings', 'eksterne', 'skakels', 'wikimedia', 'commons', 'het', 'meer', 'media', 'in', 'die', 'kategorie', 'inaturalist']

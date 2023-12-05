@@ -1,17 +1,1 @@
-La J és la desena lletra de l'alfabet català i setena de les consonants. El seu nom és jota.
-
-
-== Fonètica ==
-En català representa la fricativa postalveolar sonora entre vocals i a inici de mot en els dialectes central i balear. Té un so prepalatal africat sonor en el català nord occidental, en el català tarragoní i el valencià no apitxat mentre que l'apitxat és prepalatal africat sord. És una lletra que en un principi va desenvolupar-se de la lletra i per representar el so semivocàlic i que va acabar representant un so diferent. Per això és inexistent en l'alfabet llatí. Juntament amb la lletra t fa el dígraf (tj)
-
-
-== Significats de la J ==
-Cronologia: als calendaris designa els mesos d'estiu juny i juliol.
-Física: en majúscula, símbol del joule en el Sistema Internacional (però el nom de la unitat s'escriu en minúscula).
-Electromagnetisme: en minúscula, símbol de la densitat de corrent.
-Matemàtiques: segon imaginari del quaternió.
-Matemàtiques: símbol a la Funció de Bessel.
-
-
-== Símbols derivats o relacionats ==
-Viccionari
+['la', 'j', 'és', 'la', 'desena', 'lletra', 'de', "l'alfabet", 'català', 'i', 'setena', 'de', 'les', 'consonants', 'el', 'seu', 'nom', 'és', 'jota', 'fonètica', 'en', 'català', 'representa', 'la', 'fricativa', 'postalveolar', 'sonora', 'entre', 'vocals', 'i', 'a', 'inici', 'de', 'mot', 'en', 'els', 'dialectes', 'central', 'i', 'balear', 'té', 'un', 'so', 'prepalatal', 'africat', 'sonor', 'en', 'el', 'català', 'nord', 'occidental', 'en', 'el', 'català', 'tarragoní', 'i', 'el', 'valencià', 'no', 'apitxat', 'mentre', 'que', "l'apitxat", 'és', 'prepalatal', 'africat', 'sord', 'és', 'una', 'lletra', 'que', 'en', 'un', 'principi', 'va', 'desenvoluparse', 'de', 'la', 'lletra', 'i', 'per', 'representar', 'el', 'so', 'semivocàlic', 'i', 'que', 'va', 'acabar', 'representant', 'un', 'so', 'diferent', 'per', 'això', 'és', 'inexistent', 'en', "l'alfabet", 'llatí', 'juntament', 'amb', 'la', 'lletra', 't', 'fa', 'el', 'dígraf', 'tj', 'significats', 'de', 'la', 'j', 'cronologia', 'als', 'calendaris', 'designa', 'els', 'mesos', "d'estiu", 'juny', 'i', 'juliol', 'física', 'en', 'majúscula', 'símbol', 'del', 'joule', 'en', 'el', 'sistema', 'internacional', 'però', 'el', 'nom', 'de', 'la', 'unitat', "s'escriu", 'en', 'minúscula', 'electromagnetisme', 'en', 'minúscula', 'símbol', 'de', 'la', 'densitat', 'de', 'corrent', 'matemàtiques', 'segon', 'imaginari', 'del', 'quaternió', 'matemàtiques', 'símbol', 'a', 'la', 'funció', 'de', 'bessel', 'símbols', 'derivats', 'o', 'relacionats', 'viccionari']

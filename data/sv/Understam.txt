@@ -1,2 +1,1 @@
-Inom systema naturae består en stam (fylum) av en eller flera understammar. Som exempel är ryggradsdjur en understam till ryggsträngsdjur.
-Understammarna i sin tur indelas i överklasser eller klasser.
+['inom', 'systema', 'naturae', 'består', 'en', 'stam', 'fylum', 'av', 'en', 'eller', 'flera', 'understammar', 'som', 'exempel', 'är', 'ryggradsdjur', 'en', 'understam', 'till', 'ryggsträngsdjur', 'understammarna', 'i', 'sin', 'tur', 'indelas', 'i', 'överklasser', 'eller', 'klasser']

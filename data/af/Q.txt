@@ -1,1 +1,1 @@
-Die letter Q, q is die 17de letter van die moderne Latynse alfabet. In Navo se internasionale spellingsalfabet word Q uitgespreek met die woord "Quebec".
+['die', 'letter', 'q', 'q', 'is', 'die', 'de', 'letter', 'van', 'die', 'moderne', 'latynse', 'alfabet', 'in', 'navo', 'se', 'internasionale', 'spellingsalfabet', 'word', 'q', 'uitgespreek', 'met', 'die', 'woord', '"quebec"']

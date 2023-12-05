@@ -1,8 +1,1 @@
-Die Gemeinsame Normdatei (GND) is 'n internasionale gesaglêer vir die organisering van data van biblioteekkatalogusse.
-
-
-== Eksterne skakels ==
-Inligting oor die GND[dooie skakel] van die Duitse Nasionale Biblioteek
-Soek via OGND (Bibliotheksservice-Zentrum Baden-Württemberg)
-Bereitstellung des ersten GND-Grundbestandes Geargiveer 26 Mei 2012 op Wayback Machine DNB, 19 April 2012
-"Van gesagkontrole tot geskakelde normdata" Geargiveer 3 Maart 2016 op Wayback Machine, voorlegging deur Reinhold Heuvelmann (Duitse Nasionale Biblioteek) aan die ALA MARC Formats Interest Group, Junie 2012
+['die', 'gemeinsame', 'normdatei', 'gnd', 'is', "'n", 'internasionale', 'gesaglêer', 'vir', 'die', 'organisering', 'van', 'data', 'van', 'biblioteekkatalogusse', 'eksterne', 'skakels', 'inligting', 'oor', 'die', 'gnd[dooie', 'skakel]', 'van', 'die', 'duitse', 'nasionale', 'biblioteek', 'soek', 'via', 'ognd', 'bibliotheksservicezentrum', 'badenwürttemberg', 'bereitstellung', 'des', 'ersten', 'gndgrundbestandes', 'geargiveer', 'mei', 'op', 'wayback', 'machine', 'dnb', 'april', '"van', 'gesagkontrole', 'tot', 'geskakelde', 'normdata"', 'geargiveer', 'maart', 'op', 'wayback', 'machine', 'voorlegging', 'deur', 'reinhold', 'heuvelmann', 'duitse', 'nasionale', 'biblioteek', 'aan', 'die', 'ala', 'marc', 'formats', 'interest', 'group', 'junie']

@@ -1,8 +1,1 @@
-Die Internasionale Plantnaamindeks (IPNI) word beskryf as ’n "databasis met die name en verwante basiese bibliografiese besonderhede van saadplante, varings en likofiete". Die beste dekking word op spesie- en genusvlak gegee. Dit sluit basiese bibliografiese besonderhede met die name in. Sy doelwitte sluit in die uitskakeling van herhaalde verwysings na primêre bronne vir basiese bibliografiese inligting oor plantname.Die IPNI verskaf name wat in wetenskaplike publikasies verskyn het met die doel om ’n indeks van gepubliseerde name te verskaf, eerder as om die aanvaarde botaniese name voor te skryf. Dit bevat ook ’n lys van gestandaardiseerde skrywersafkortings. Nuwe name en afkortings word voortdurend bygevoeg.
-
-
-== Verwysings ==
-
-
-== Eksterne skakels ==
-Amptelike webtuiste van die IPNI wat deursoek kan word
+['die', 'internasionale', 'plantnaamindeks', 'ipni', 'word', 'beskryf', 'as', 'n', '"databasis', 'met', 'die', 'name', 'en', 'verwante', 'basiese', 'bibliografiese', 'besonderhede', 'van', 'saadplante', 'varings', 'en', 'likofiete"', 'die', 'beste', 'dekking', 'word', 'op', 'spesie', 'en', 'genusvlak', 'gegee', 'dit', 'sluit', 'basiese', 'bibliografiese', 'besonderhede', 'met', 'die', 'name', 'in', 'sy', 'doelwitte', 'sluit', 'in', 'die', 'uitskakeling', 'van', 'herhaalde', 'verwysings', 'na', 'primêre', 'bronne', 'vir', 'basiese', 'bibliografiese', 'inligting', 'oor', 'plantnamedie', 'ipni', 'verskaf', 'name', 'wat', 'in', 'wetenskaplike', 'publikasies', 'verskyn', 'het', 'met', 'die', 'doel', 'om', 'n', 'indeks', 'van', 'gepubliseerde', 'name', 'te', 'verskaf', 'eerder', 'as', 'om', 'die', 'aanvaarde', 'botaniese', 'name', 'voor', 'te', 'skryf', 'dit', 'bevat', 'ook', 'n', 'lys', 'van', 'gestandaardiseerde', 'skrywersafkortings', 'nuwe', 'name', 'en', 'afkortings', 'word', 'voortdurend', 'bygevoeg', 'verwysings', 'eksterne', 'skakels', 'amptelike', 'webtuiste', 'van', 'die', 'ipni', 'wat', 'deursoek', 'kan', 'word']

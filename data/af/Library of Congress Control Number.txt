@@ -1,1 +1,1 @@
-Die Library of Congress Control mlNumber (LCCN) is 'n reeksnommerstelsel vir rekords in die Biblioteek van die V.S.A. Kongres in die Verenigde State.
+['die', 'library', 'of', 'congress', 'control', 'mlnumber', 'lccn', 'is', "'n", 'reeksnommerstelsel', 'vir', 'rekords', 'in', 'die', 'biblioteek', 'van', 'die', 'vsa', 'kongres', 'in', 'die', 'verenigde', 'state']

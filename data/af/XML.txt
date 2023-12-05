@@ -1,18 +1,1 @@
-XML (Extensible Markup Language, Uitbreibare markeertaal) is 'n voorstel van die W3C om markeertale vir spesiale doelwitte te skep. Dit is 'n vereenvoudigde subversameling van SGML wat gebruik kan word om verskeie tipes data te beskryf. Die hoofdoel van XML is vir gestruktureerde voorstelling van data, veral vir versending oor die Internet. 
-Struktuur word in XML voorgestel met bykomende inligting wat die data definieer. Hierdie metadata maak dit moontlik om die data weer inteligent te interpreteer by ontvangs van die dokument, sonder dat die ontvanger noodwendig beskik oor vooraf kennis van die data.
-
-
-== Sien ook ==
-Document Object Model
-XHTML, 'n toepassing van XML
-
-
-== Eksterne skakels ==
-XML-spesifikasies
-Geannoteerde XML-spesifikasie
-World Wide Web Consortium - webwerf
-World Wide Web Consortium - XML-tuisblad
-Die XML 1.1-spesifikasie
-Die XML 1.0-spesifikasie
-XeML.net Uitleg van XML
-XML met Java Geargiveer 7 April 2014 op Wayback Machine
+['xml', 'extensible', 'markup', 'language', 'uitbreibare', 'markeertaal', 'is', "'n", 'voorstel', 'van', 'die', 'wc', 'om', 'markeertale', 'vir', 'spesiale', 'doelwitte', 'te', 'skep', 'dit', 'is', "'n", 'vereenvoudigde', 'subversameling', 'van', 'sgml', 'wat', 'gebruik', 'kan', 'word', 'om', 'verskeie', 'tipes', 'data', 'te', 'beskryf', 'die', 'hoofdoel', 'van', 'xml', 'is', 'vir', 'gestruktureerde', 'voorstelling', 'van', 'data', 'veral', 'vir', 'versending', 'oor', 'die', 'internet', 'struktuur', 'word', 'in', 'xml', 'voorgestel', 'met', 'bykomende', 'inligting', 'wat', 'die', 'data', 'definieer', 'hierdie', 'metadata', 'maak', 'dit', 'moontlik', 'om', 'die', 'data', 'weer', 'inteligent', 'te', 'interpreteer', 'by', 'ontvangs', 'van', 'die', 'dokument', 'sonder', 'dat', 'die', 'ontvanger', 'noodwendig', 'beskik', 'oor', 'vooraf', 'kennis', 'van', 'die', 'data', 'sien', 'ook', 'document', 'object', 'model', 'xhtml', "'n", 'toepassing', 'van', 'xml', 'eksterne', 'skakels', 'xmlspesifikasies', 'geannoteerde', 'xmlspesifikasie', 'world', 'wide', 'web', 'consortium', 'webwerf', 'world', 'wide', 'web', 'consortium', 'xmltuisblad', 'die', 'xml', 'spesifikasie', 'die', 'xml', 'spesifikasie', 'xemlnet', 'uitleg', 'van', 'xml', 'xml', 'met', 'java', 'geargiveer', 'april', 'op', 'wayback', 'machine']

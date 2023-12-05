@@ -1,17 +1,1 @@
-Il chilometro quadrato (il cui simbolo è km² e che è spesso erroneamente abbreviato con kmq) è un'unità di misura di superficie ed è per definizione l'area racchiusa da un quadrato di lato pari a un chilometro. Il chilometro quadrato è un'unità derivata del sistema internazionale di unità di misura, multiplo del metro quadro (simbolo m², spesso impropriamente abbreviato con mq).L'uso di mq e kmq è improprio in quanto q è il simbolo di quintale, e quindi mq potrebbe essere interpretato come milli-quintale, ovvero un ettogrammo, mentre kmq potrebbe essere inteso come chilometro per quintale.Viene utilizzato per esprimere le estensioni di comuni, regioni, stati e più in generale di porzioni di territorio.
-
-
-== Conversioni ==
-1 km² = 1000000 m²
-1 km² = 100 ettari
-1 km² = 10 000 are
-1 m² = 0,000001 km²
-1 ettaro = 0,01 km²
-
-
-== Note ==
-
-
-== Altri progetti ==
-
- Wikimedia Commons contiene immagini o altri file su chilometro quadrato
+['il', 'chilometro', 'quadrato', 'il', 'cui', 'simbolo', 'è', 'km²', 'e', 'che', 'è', 'spesso', 'erroneamente', 'abbreviato', 'con', 'kmq', 'è', "un'unità", 'di', 'misura', 'di', 'superficie', 'ed', 'è', 'per', 'definizione', "l'area", 'racchiusa', 'da', 'un', 'quadrato', 'di', 'lato', 'pari', 'a', 'un', 'chilometro', 'il', 'chilometro', 'quadrato', 'è', "un'unità", 'derivata', 'del', 'sistema', 'internazionale', 'di', 'unità', 'di', 'misura', 'multiplo', 'del', 'metro', 'quadro', 'simbolo', 'm²', 'spesso', 'impropriamente', 'abbreviato', 'con', "mql'uso", 'di', 'mq', 'e', 'kmq', 'è', 'improprio', 'in', 'quanto', 'q', 'è', 'il', 'simbolo', 'di', 'quintale', 'e', 'quindi', 'mq', 'potrebbe', 'essere', 'interpretato', 'come', 'milliquintale', 'ovvero', 'un', 'ettogrammo', 'mentre', 'kmq', 'potrebbe', 'essere', 'inteso', 'come', 'chilometro', 'per', 'quintaleviene', 'utilizzato', 'per', 'esprimere', 'le', 'estensioni', 'di', 'comuni', 'regioni', 'stati', 'e', 'più', 'in', 'generale', 'di', 'porzioni', 'di', 'territorio', 'conversioni', 'km²', 'm²', 'km²', 'ettari', 'km²', 'are', 'm²', 'km²', 'ettaro', 'km²', 'note', 'altri', 'progetti', 'wikimedia', 'commons', 'contiene', 'immagini', 'o', 'altri', 'file', 'su', 'chilometro', 'quadrato']

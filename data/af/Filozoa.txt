@@ -1,12 +1,1 @@
-Die Filozoa is 'n monofiletiese groep binne die Opisthokonta. Dit sluit in diere en hulle naaste eensellige familie (die organismes wat nader aan diere verwant is as aan swamme of Mesomycetozoa).Dit groepe is tans toegewys aan die klade Filozoa:
-
-Groep Filasterea - onlangs geskep om die genera Ministeria en Capsaspora te huisves
-Groep Choanoflagellatea - gekraagde sweepdiertjies
-Koningkryk Animalia - behoorlike diere
-
-
-== Etimologie ==
-Van Latyn filum wat "draad" beteken, en Grieks zōion wat "dier" beteken.
-
-
-== Verwysings ==
+['die', 'filozoa', 'is', "'n", 'monofiletiese', 'groep', 'binne', 'die', 'opisthokonta', 'dit', 'sluit', 'in', 'diere', 'en', 'hulle', 'naaste', 'eensellige', 'familie', 'die', 'organismes', 'wat', 'nader', 'aan', 'diere', 'verwant', 'is', 'as', 'aan', 'swamme', 'of', 'mesomycetozoadit', 'groepe', 'is', 'tans', 'toegewys', 'aan', 'die', 'klade', 'filozoa', 'groep', 'filasterea', 'onlangs', 'geskep', 'om', 'die', 'genera', 'ministeria', 'en', 'capsaspora', 'te', 'huisves', 'groep', 'choanoflagellatea', 'gekraagde', 'sweepdiertjies', 'koningkryk', 'animalia', 'behoorlike', 'diere', 'etimologie', 'van', 'latyn', 'filum', 'wat', '"draad"', 'beteken', 'en', 'grieks', 'zion', 'wat', '"dier"', 'beteken', 'verwysings']

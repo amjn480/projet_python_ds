@@ -1,16 +1,1 @@
-G is de zevende letter uit het moderne Latijnse alfabet. Ze wordt in het Nederlandse taalgebied niet altijd op dezelfde manier uitgesproken. De letter kan verwijzen naar:
-
-In de natuurkundeg, aanduiding voor de valversnelling of zwaarteveldsterkte door de zwaartekracht van de aarde (g=9,81 m/s2)
-G, aanduiding voor de elektrische geleidbaarheid
-G, symbool voor de gravitatieconstante, de constante van Cavendish
-g, de gram (eenheid), de natuurkundige eenheid van massa
-G, symbool voor het voorvoegsel giga (109) in de natuurwetenschappen
-G, Vrije energie, Gibbs vrije energie
-G, symbool voor de niet-SI-eenheid gauss van magnetische fluxdichtheidIn de scheikundeg, afkorting voor gas (aggregatietoestand)FilmsG (1983) van Staffan Hildebrand met Joakim Schröder, Sebastian Håkansson en Niclas Wahlgren
-G (2002) van Christopher Scott Cherot met Richard T. JonesNederlandse marineHr.Ms. G 13 (1914) - torpedoboot
-Hr.Ms. G 15 (1914) - torpedoboot
-Hr.Ms. G 16 (1914) - torpedobootOverigG (roman), een roman van John Berger uit 1972
-G, op de lijst van landcodes voor voertuigen de landcode op motorvoertuigen uit Gabon
-G (muziek), een toon in de muziek
-G, een afkorting voor gangster, uitgesproken als [djie]
-g, in het EMS systeem van kleurcodering voor katten de aanduiding voor blauw torti
+['g', 'is', 'de', 'zevende', 'letter', 'uit', 'het', 'moderne', 'latijnse', 'alfabet', 'ze', 'wordt', 'in', 'het', 'nederlandse', 'taalgebied', 'niet', 'altijd', 'op', 'dezelfde', 'manier', 'uitgesproken', 'de', 'letter', 'kan', 'verwijzen', 'naar', 'in', 'de', 'natuurkundeg', 'aanduiding', 'voor', 'de', 'valversnelling', 'of', 'zwaarteveldsterkte', 'door', 'de', 'zwaartekracht', 'van', 'de', 'aarde', 'g', 'ms', 'g', 'aanduiding', 'voor', 'de', 'elektrische', 'geleidbaarheid', 'g', 'symbool', 'voor', 'de', 'gravitatieconstante', 'de', 'constante', 'van', 'cavendish', 'g', 'de', 'gram', 'eenheid', 'de', 'natuurkundige', 'eenheid', 'van', 'massa', 'g', 'symbool', 'voor', 'het', 'voorvoegsel', 'giga', 'in', 'de', 'natuurwetenschappen', 'g', 'vrije', 'energie', 'gibbs', 'vrije', 'energie', 'g', 'symbool', 'voor', 'de', 'nietsieenheid', 'gauss', 'van', 'magnetische', 'fluxdichtheidin', 'de', 'scheikundeg', 'afkorting', 'voor', 'gas', 'aggregatietoestandfilmsg', 'van', 'staffan', 'hildebrand', 'met', 'joakim', 'schröder', 'sebastian', 'håkansson', 'en', 'niclas', 'wahlgren', 'g', 'van', 'christopher', 'scott', 'cherot', 'met', 'richard', 't', 'jonesnederlandse', 'marinehrms', 'g', 'torpedoboot', 'hrms', 'g', 'torpedoboot', 'hrms', 'g', 'torpedobootoverigg', 'roman', 'een', 'roman', 'van', 'john', 'berger', 'uit', 'g', 'op', 'de', 'lijst', 'van', 'landcodes', 'voor', 'voertuigen', 'de', 'landcode', 'op', 'motorvoertuigen', 'uit', 'gabon', 'g', 'muziek', 'een', 'toon', 'in', 'de', 'muziek', 'g', 'een', 'afkorting', 'voor', 'gangster', 'uitgesproken', 'als', '[djie]', 'g', 'in', 'het', 'ems', 'systeem', 'van', 'kleurcodering', 'voor', 'katten', 'de', 'aanduiding', 'voor', 'blauw', 'torti']

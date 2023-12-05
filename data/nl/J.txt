@@ -1,11 +1,1 @@
-De J is de tiende letter uit het moderne Latijnse alfabet. De letter kan verwijzen naar:
-
-Fictief figuurJ of Agent J, personage uit de Amerikaanse sciencefictionfilms Men in Black en Men in Black IIMuziekdj Airbase, met bijnaam J., van de Zweedse producer Jezper Söderlund
-J Records, Amerikaanse platenmaatschappijNatuurkundeJ, aanduiding voor elektrische stroomdichtheid (A/m2)
-J, aanduiding voor traagheidsmoment (kg·m2). Meestal wordt echter de hoofdletter I gebruikt.
-J, aanduiding voor magnetische polarisatie (tesla)
-J, symbool voor joule, de eenheid van energieTransportJ, de landcode op motorvoertuigen in Japan
-Lijn J/Z (metro van New York), Lijn J van de New Yorkse metroWiskundej, aanduiding voor de imaginaire eenheid in de elektrotechniek
-j-invariant, een begrip in de complexe functietheorieOverigJ (programmeertaal), programmeertaal, met als afgeleiden J♯ en J++
-Het jaar in de notatie van een datum, bijvoorbeeld: dd-mm-jjjj
-Jahwist, in de Bijbelwetenschap de aangeduid als J
+['de', 'j', 'is', 'de', 'tiende', 'letter', 'uit', 'het', 'moderne', 'latijnse', 'alfabet', 'de', 'letter', 'kan', 'verwijzen', 'naar', 'fictief', 'figuurj', 'of', 'agent', 'j', 'personage', 'uit', 'de', 'amerikaanse', 'sciencefictionfilms', 'men', 'in', 'black', 'en', 'men', 'in', 'black', 'iimuziekdj', 'airbase', 'met', 'bijnaam', 'j', 'van', 'de', 'zweedse', 'producer', 'jezper', 'söderlund', 'j', 'records', 'amerikaanse', 'platenmaatschappijnatuurkundej', 'aanduiding', 'voor', 'elektrische', 'stroomdichtheid', 'am', 'j', 'aanduiding', 'voor', 'traagheidsmoment', 'kg·m', 'meestal', 'wordt', 'echter', 'de', 'hoofdletter', 'i', 'gebruikt', 'j', 'aanduiding', 'voor', 'magnetische', 'polarisatie', 'tesla', 'j', 'symbool', 'voor', 'joule', 'de', 'eenheid', 'van', 'energietransportj', 'de', 'landcode', 'op', 'motorvoertuigen', 'in', 'japan', 'lijn', 'jz', 'metro', 'van', 'new', 'york', 'lijn', 'j', 'van', 'de', 'new', 'yorkse', 'metrowiskundej', 'aanduiding', 'voor', 'de', 'imaginaire', 'eenheid', 'in', 'de', 'elektrotechniek', 'jinvariant', 'een', 'begrip', 'in', 'de', 'complexe', 'functietheorieoverigj', 'programmeertaal', 'programmeertaal', 'met', 'als', 'afgeleiden', 'j', 'en', 'j++', 'het', 'jaar', 'in', 'de', 'notatie', 'van', 'een', 'datum', 'bijvoorbeeld', 'ddmmjjjj', 'jahwist', 'in', 'de', 'bijbelwetenschap', 'de', 'aangeduid', 'als', 'j']

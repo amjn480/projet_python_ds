@@ -1,8 +1,1 @@
-The Plant List is ’n lys botaniese name van spesies plante wat geskep is deur die Royal Botanic Gardens, Kew en die Missouri Botanical Garden. Dit is in 2010 van stapel gestuur.Die lys was bedoel as ’n omvattende rekord van alle bekende name van plantspesies en om ’n "aanlyn flora van alle bekende plante" te skep. Dit is sedert 2013 nog nie weer bygewerk nie en is deur World Flora Online vervang.
-
-
-== Verwysings ==
-
-
-== Eksterne skakels ==
-Amptelike webtuiste
+['the', 'plant', 'list', 'is', 'n', 'lys', 'botaniese', 'name', 'van', 'spesies', 'plante', 'wat', 'geskep', 'is', 'deur', 'die', 'royal', 'botanic', 'gardens', 'kew', 'en', 'die', 'missouri', 'botanical', 'garden', 'dit', 'is', 'in', 'van', 'stapel', 'gestuurdie', 'lys', 'was', 'bedoel', 'as', 'n', 'omvattende', 'rekord', 'van', 'alle', 'bekende', 'name', 'van', 'plantspesies', 'en', 'om', 'n', '"aanlyn', 'flora', 'van', 'alle', 'bekende', 'plante"', 'te', 'skep', 'dit', 'is', 'sedert', 'nog', 'nie', 'weer', 'bygewerk', 'nie', 'en', 'is', 'deur', 'world', 'flora', 'online', 'vervang', 'verwysings', 'eksterne', 'skakels', 'amptelike', 'webtuiste']

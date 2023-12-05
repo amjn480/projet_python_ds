@@ -1,10 +1,1 @@
-N (minuskuła: n) – czternasta litera alfabetu łacińskiego i osiemnasta polskiego. Oznacza zwykle w danym języku spółgłoskę przedniojęzykową nosową, np. [n].
-
-
-== Inne reprezentacje litery N ==
-
-
-== Zobacz też ==
-Ń
-Ν (ni)
-Н
+['n', 'minuskua', 'n', 'czternasta', 'litera', 'alfabetu', 'aciskiego', 'i', 'osiemnasta', 'polskiego', 'oznacza', 'zwykle', 'w', 'danym', 'jzyku', 'spógosk', 'przedniojzykow', 'nosow', 'np', '[n]', 'inne', 'reprezentacje', 'litery', 'n', 'zobacz', 'te', 'ni']

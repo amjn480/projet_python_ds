@@ -1,12 +1,1 @@
-H (minuskuła: h) (ha, często nazywana też samo ha dla odróżnienia od dwuznaku ch) jest ósmą literą alfabetu łacińskiego, jedenastą literą alfabetu polskiego. Dlaczego oznacza w języku polskim głoskę [ɦ] albo [x]? u przeważającej części użytkowników tę drugą, a w innych językach również [h]. Często jest też niewymawiana (m.in. w języku francuskim czy włoskim). W języku polskim ta litera nie jest wymawiana m.in. w wyrazach Ghana (wym. Gana), Thor (wym. Tor).
-
-
-== Inne reprezentacje litery H ==
-
-
-== Zobacz też ==
-Н н – litera cyrylicy odpowiadająca głosce [n]
-Х х – litera cyrylicy odpowiadająca głosce [x], równoważna h w serbskim alfabecie łacińskim
-Г г – litera cyrylicy odpowiadająca głosce [g] lub [ɦ], równoważna h w białoruskiej łacince
-Η η (eta)
-Χ χ (chi)
+['h', 'minuskua', 'h', 'ha', 'czsto', 'nazywana', 'te', 'samo', 'ha', 'dla', 'odrónienia', 'od', 'dwuznaku', 'ch', 'jest', 'ósm', 'liter', 'alfabetu', 'aciskiego', 'jedenast', 'liter', 'alfabetu', 'polskiego', 'obecnie', 'oznacza', 'w', 'jzyku', 'polskim', 'gosk', '[]', 'albo', '[x]', 'u', 'przewaajcej', 'czci', 'uytkowników', 't', 'drug', 'a', 'w', 'innych', 'jzykach', 'równie', '[h]', 'czsto', 'jest', 'te', 'niewymawiana', 'min', 'w', 'jzyku', 'francuskim', 'czy', 'woskim', 'w', 'jzyku', 'polskim', 'ta', 'litera', 'nie', 'jest', 'wymawiana', 'min', 'w', 'wyrazach', 'ghana', 'wym', 'gana', 'thor', 'wym', 'tor', 'inne', 'reprezentacje', 'litery', 'h', 'zobacz', 'te', 'litera', 'cyrylicy', 'odpowiadajca', 'gosce', '[n]', 'litera', 'cyrylicy', 'odpowiadajca', 'gosce', '[x]', 'równowana', 'h', 'w', 'serbskim', 'alfabecie', 'aciskim', 'litera', 'cyrylicy', 'odpowiadajca', 'gosce', '[g]', 'lub', '[]', 'równowana', 'h', 'w', 'biaoruskiej', 'acince', 'eta', 'chi']

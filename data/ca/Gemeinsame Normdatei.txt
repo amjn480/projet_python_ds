@@ -1,18 +1,1 @@
-El Gemeinsame Normdatei (abreujat GND), en anglès Integrated Authority File (IAF), és un control d'autoria internacional per l'organització de noms personals, encapçalaments de tema i organitzacions corporatives de catàlegs. Es fa servir principalment per documentació en biblioteques i arxius. El GND és controlat per la Biblioteca Nacional d'Alemanya en cooperació amb diverses xarxes de biblioteques. El GND es troba dins de la llicència Creative Commons Zero (C00).L'especificació GND proveeix una jerarquia d'entitats d'alt nivell i subclasses, útils per la classificació bibliotecària, i una aproximació a la identificació inequívoca d'elements. També comprèn una ontologia de noms de propietats i tipus de dades, pensats per la representació del coneixement en el web semàntic, disponible en el format XML.Alguns altres controls d'autoria són: Virtual International Authority File (VIAF), Autories de la Biblioteca del Congrés dels Estats Units (LCNAF), Autoritats Web NDL de la Biblioteca Nacional de la Dieta del Japó i LIBRIS de la Biblioteca Nacional de Suècia.
-
-
-== Tipus d'entitats GND d'alt nivell ==
-El Gemeinsame Normdatei esdevingué operatiu l'abril de 2012 i integra el contingut dels següents controls d'autoria que, des de llavors, són obsolets:
-
-Personennamendatei (PND)
-Gemeinsame Körperschaftsdatei (GKD)
-Schlagwortnormdatei (SWD)
-Einheitssachtitel-Datei des Deutschen Musikarchivs (DMA-EST)En el moment de la seva introducció (5 d'abril de 2012) el GND contenia 9.493.860 entrades, incloent-hi 2,650,000 noms personalitzats.
-Hi ha sis tipus principals d'entitats GND:
-
-
-== Referències ==
-
-
-== Enllaços externs ==
-Search via OGND (anglès), (alemany)
+['el', 'gemeinsame', 'normdatei', 'abreujat', 'gnd', 'en', 'anglès', 'integrated', 'authority', 'file', 'iaf', 'és', 'un', 'control', "d'autoria", 'internacional', 'per', "l'organització", 'de', 'noms', 'personals', 'encapçalaments', 'de', 'tema', 'i', 'organitzacions', 'corporatives', 'de', 'catàlegs', 'es', 'fa', 'servir', 'principalment', 'per', 'documentació', 'en', 'biblioteques', 'i', 'arxius', 'el', 'gnd', 'és', 'controlat', 'per', 'la', 'biblioteca', 'nacional', "d'alemanya", 'en', 'cooperació', 'amb', 'diverses', 'xarxes', 'de', 'biblioteques', 'el', 'gnd', 'es', 'troba', 'dins', 'de', 'la', 'llicència', 'creative', 'commons', 'zero', "cl'especificació", 'gnd', 'proveeix', 'una', 'jerarquia', "d'entitats", "d'alt", 'nivell', 'i', 'subclasses', 'útils', 'per', 'la', 'classificació', 'bibliotecària', 'i', 'una', 'aproximació', 'a', 'la', 'identificació', 'inequívoca', "d'elements", 'també', 'comprèn', 'una', 'ontologia', 'de', 'noms', 'de', 'propietats', 'i', 'tipus', 'de', 'dades', 'pensats', 'per', 'la', 'representació', 'del', 'coneixement', 'en', 'el', 'web', 'semàntic', 'disponible', 'en', 'el', 'format', 'xmlalguns', 'altres', 'controls', "d'autoria", 'són', 'virtual', 'international', 'authority', 'file', 'viaf', 'autories', 'de', 'la', 'biblioteca', 'del', 'congrés', 'dels', 'estats', 'units', 'lcnaf', 'autoritats', 'web', 'ndl', 'de', 'la', 'biblioteca', 'nacional', 'de', 'la', 'dieta', 'del', 'japó', 'i', 'libris', 'de', 'la', 'biblioteca', 'nacional', 'de', 'suècia', 'tipus', "d'entitats", 'gnd', "d'alt", 'nivell', 'el', 'gemeinsame', 'normdatei', 'esdevingué', 'operatiu', "l'abril", 'de', 'i', 'integra', 'el', 'contingut', 'dels', 'següents', 'controls', "d'autoria", 'que', 'des', 'de', 'llavors', 'són', 'obsolets', 'personennamendatei', 'pnd', 'gemeinsame', 'körperschaftsdatei', 'gkd', 'schlagwortnormdatei', 'swd', 'einheitssachtiteldatei', 'des', 'deutschen', 'musikarchivs', 'dmaesten', 'el', 'moment', 'de', 'la', 'seva', 'introducció', "d'abril", 'de', 'el', 'gnd', 'contenia', 'entrades', 'incloenthi', 'noms', 'personalitzats', 'hi', 'ha', 'sis', 'tipus', 'principals', "d'entitats", 'gnd', 'referències', 'enllaços', 'externs', 'search', 'via', 'ognd', 'anglès', 'alemany']

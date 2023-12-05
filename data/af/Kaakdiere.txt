@@ -1,16 +1,1 @@
-Die Gnathostomata of kaakdiere is 'n groep van diere wat tot die gewerweldes (Vertebrata) behoort. Die groep word gekenmerk deur die besit van kraakbeenagtige kake wat deur die meeste anatome as die eerste kieuboog beskou word.Andere kenmerke wat by die groep voorkom:
-
-Die kieuboog is intern ten opsigte van die kieue.
-Drie halfsirkelvormige kanale in plaas van twee in die binneoor.
-Sekere senuweevesels is met omhulsels van miolien omring.
-Die hemoglobien bevat kettings van 4 aminosure 2α en 2β.Die Gnathostomata omvat die kraakbeenvisse (Chondrichthyes) en die beenvisse (Osteichthyes). Hierdie laaste groep omvat egter nie slegs die moderne beenvisse nie, maar ook al hul landlewende verwante; die Tetrapoda. Feitlik alle huidige gewerwelde diere (reptiele, visse, voëls, amfibieë en soogdiere) behoort daarom tot die Gnathostomata.
-
-
-== Verwysings ==
-
-
-== Eksterne skakels ==
-
- Wikispecies het meer inligting verwant aan Kaakdiere
-
- Wikimedia Commons het meer media in die kategorie Kaakdiere.
+['die', 'gnathostomata', 'of', 'kaakdiere', 'is', "'n", 'groep', 'van', 'diere', 'wat', 'tot', 'die', 'gewerweldes', 'vertebrata', 'behoort', 'die', 'groep', 'word', 'gekenmerk', 'deur', 'die', 'besit', 'van', 'kraakbeenagtige', 'kake', 'wat', 'deur', 'die', 'meeste', 'anatome', 'as', 'die', 'eerste', 'kieuboog', 'beskou', 'wordandere', 'kenmerke', 'wat', 'by', 'die', 'groep', 'voorkom', 'die', 'kieuboog', 'is', 'intern', 'ten', 'opsigte', 'van', 'die', 'kieue', 'drie', 'halfsirkelvormige', 'kanale', 'in', 'plaas', 'van', 'twee', 'in', 'die', 'binneoor', 'sekere', 'senuweevesels', 'is', 'met', 'omhulsels', 'van', 'miolien', 'omring', 'die', 'hemoglobien', 'bevat', 'kettings', 'van', 'aminosure', 'en', 'die', 'gnathostomata', 'omvat', 'die', 'kraakbeenvisse', 'chondrichthyes', 'en', 'die', 'beenvisse', 'osteichthyes', 'hierdie', 'laaste', 'groep', 'omvat', 'egter', 'nie', 'slegs', 'die', 'moderne', 'beenvisse', 'nie', 'maar', 'ook', 'al', 'hul', 'landlewende', 'verwante', 'die', 'tetrapoda', 'feitlik', 'alle', 'huidige', 'gewerwelde', 'diere', 'reptiele', 'visse', 'voëls', 'amfibieë', 'en', 'soogdiere', 'behoort', 'daarom', 'tot', 'die', 'gnathostomata', 'verwysings', 'eksterne', 'skakels', 'wikispecies', 'het', 'meer', 'inligting', 'verwant', 'aan', 'kaakdiere', 'wikimedia', 'commons', 'het', 'meer', 'media', 'in', 'die', 'kategorie', 'kaakdiere']

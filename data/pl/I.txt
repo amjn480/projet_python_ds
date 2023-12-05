@@ -1,11 +1,1 @@
-I (minuskuła: i) – dziewiąta litera alfabetu łacińskiego, dwunasta litera alfabetu polskiego. Oznacza zwykle w danym języku samogłoskę przednią wysoką, np. [i] lub [ɪ].
-
-
-== Inne reprezentacje litery I ==
-
-
-== Zobacz też ==
-İi (i z kropką)
-Iı (ı bez kropki)
-Ī ī (ī z makronem)
-И (cyrylica)
+['i', 'minuskua', 'i', 'dziewita', 'litera', 'alfabetu', 'aciskiego', 'dwunasta', 'litera', 'alfabetu', 'polskiego', 'oznacza', 'zwykle', 'w', 'danym', 'jzyku', 'samogosk', 'przedni', 'wysok', 'np', '[i]', 'lub', '[]', 'inne', 'reprezentacje', 'litery', 'i', 'zobacz', 'te', 'ii', 'i', 'z', 'kropk', 'i', 'bez', 'kropki', 'z', 'makronem', 'cyrylica']

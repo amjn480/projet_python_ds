@@ -1,9 +1,1 @@
-R (minuskuła: r) – osiemnasta litera alfabetu łacińskiego i dwudziesta trzecia alfabetu polskiego. Oznacza zwykle w danym języku spółgłoskę rotyczną, np. [r], [ɾ] lub [ɹ].
-
-
-== Inne reprezentacje litery R ==
-
-
-== Zobacz też ==
-Ρ (ro)
-Р
+['r', 'minuskua', 'r', 'osiemnasta', 'litera', 'alfabetu', 'aciskiego', 'i', 'dwudziesta', 'trzecia', 'alfabetu', 'polskiego', 'oznacza', 'zwykle', 'w', 'danym', 'jzyku', 'spógosk', 'rotyczn', 'np', '[r]', '[]', 'lub', '[]', 'inne', 'reprezentacje', 'litery', 'r', 'zobacz', 'te', 'ro']

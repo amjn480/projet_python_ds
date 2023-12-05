@@ -1,13 +1,1 @@
-Opisthokonta (van die Griekse ὀπίσθιος opísthios, "agter" + κοντός kontós, "pool", dus "flagellum") is ’n groot groep eukariote, insluitende die koninkryke diere en swamme, asook die eukariotiese mikro-organismes wat soms geplaas word in die parafiletiese filum Choanozoa (konvensioneel deel van die koninkryk Protista). Opisthokonta, wat soms die "Fungi/Metazoa-groep" genoem word, word gewoonlik beskou as ’n monofiletiese klade.
-
-
-== Flagella ==
-Een gemeenskaplike eienskap van die Opisthokonta is dat flagellumselle, soos die sperma van die meeste diere en die spore van die swamme, voortbeweeg deur middel van ’n enkele flagellum (sweephaar) aan hul agterkant. Die groep se naam kom van dié eienskap.
-In teenstelling daarmee beweeg flagellumselle in ander eukariotiese groepe voort met een of meer flagella aan hul voorkant. In sommige Opisthokonta-groepe, soos die meeste van die swamme, het flagellumselle verlore gegaan.
-
-
-== Kladogram ==
-Die verwantskap van die Opisthokonta is steeds 'n onderwerp van navorsing. Hierdie is 'n vereenvoudigde kladogram wat die belangrikste groepe toon
-
-
-== Verwysings ==
+['opisthokonta', 'van', 'die', 'griekse', 'opísthios', '"agter"', '+', 'kontós', '"pool"', 'dus', '"flagellum"', 'is', 'n', 'groot', 'groep', 'eukariote', 'insluitende', 'die', 'koninkryke', 'diere', 'en', 'swamme', 'asook', 'die', 'eukariotiese', 'mikroorganismes', 'wat', 'soms', 'geplaas', 'word', 'in', 'die', 'parafiletiese', 'filum', 'choanozoa', 'konvensioneel', 'deel', 'van', 'die', 'koninkryk', 'protista', 'opisthokonta', 'wat', 'soms', 'die', '"fungimetazoagroep"', 'genoem', 'word', 'word', 'gewoonlik', 'beskou', 'as', 'n', 'monofiletiese', 'klade', 'flagella', 'een', 'gemeenskaplike', 'eienskap', 'van', 'die', 'opisthokonta', 'is', 'dat', 'flagellumselle', 'soos', 'die', 'sperma', 'van', 'die', 'meeste', 'diere', 'en', 'die', 'spore', 'van', 'die', 'swamme', 'voortbeweeg', 'deur', 'middel', 'van', 'n', 'enkele', 'flagellum', 'sweephaar', 'aan', 'hul', 'agterkant', 'die', 'groep', 'se', 'naam', 'kom', 'van', 'dié', 'eienskap', 'in', 'teenstelling', 'daarmee', 'beweeg', 'flagellumselle', 'in', 'ander', 'eukariotiese', 'groepe', 'voort', 'met', 'een', 'of', 'meer', 'flagella', 'aan', 'hul', 'voorkant', 'in', 'sommige', 'opisthokontagroepe', 'soos', 'die', 'meeste', 'van', 'die', 'swamme', 'het', 'flagellumselle', 'verlore', 'gegaan', 'kladogram', 'die', 'verwantskap', 'van', 'die', 'opisthokonta', 'is', 'steeds', "'n", 'onderwerp', 'van', 'navorsing', 'hierdie', 'is', "'n", 'vereenvoudigde', 'kladogram', 'wat', 'die', 'belangrikste', 'groepe', 'toon', 'verwysings']

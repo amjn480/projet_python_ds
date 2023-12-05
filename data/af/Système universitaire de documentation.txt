@@ -1,5 +1,1 @@
-Die système universitaire de documentation of SUDOC is 'n stelsel wat deur die biblioteke van Franse universiteite en instellings vir hoër onderwys gebruik word om die dokumente wat in hul besit is, te identifiseer, op te spoor en te bestuur. Die katalogus, wat byna 13 miljoen verwysings bevat, stel studente en navorsers in staat om in meer as 3 400 dokumentasiesentrums na bibliografiese en liggingsinligting te soek. Dit word deur die Bibliographic Agency for Higher Education  (ABES) onderhou . 
-
-
-== Eksterne skakels ==
-Webwerf
+['die', 'système', 'universitaire', 'de', 'documentation', 'of', 'sudoc', 'is', "'n", 'stelsel', 'wat', 'deur', 'die', 'biblioteke', 'van', 'franse', 'universiteite', 'en', 'instellings', 'vir', 'hoër', 'onderwys', 'gebruik', 'word', 'om', 'die', 'dokumente', 'wat', 'in', 'hul', 'besit', 'is', 'te', 'identifiseer', 'op', 'te', 'spoor', 'en', 'te', 'bestuur', 'die', 'katalogus', 'wat', 'byna', 'miljoen', 'verwysings', 'bevat', 'stel', 'studente', 'en', 'navorsers', 'in', 'staat', 'om', 'in', 'meer', 'as', 'dokumentasiesentrums', 'na', 'bibliografiese', 'en', 'liggingsinligting', 'te', 'soek', 'dit', 'word', 'deur', 'die', 'bibliographic', 'agency', 'for', 'higher', 'education', 'abes', 'onderhou', 'eksterne', 'skakels', 'webwerf']

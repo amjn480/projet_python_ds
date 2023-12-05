@@ -1,14 +1,1 @@
-W (wu, minuskuła: w) – dwudziesta trzecia litera alfabetu łacińskiego, dwudziesta ósma litera alfabetu polskiego. W języku polskim i niemieckim oznacza spółgłoskę [v], a w angielskim – [w].
-
-
-== Kodowanie ==
-
-
-== Inne reprezentacje litery W ==
-
-
-== Zobacz też ==
-В (cyrylica)
-
-
-== Przypisy ==
+['w', 'wu', 'minuskua', 'w', 'dwudziesta', 'trzecia', 'litera', 'alfabetu', 'aciskiego', 'dwudziesta', 'ósma', 'litera', 'alfabetu', 'polskiego', 'w', 'jzyku', 'polskim', 'i', 'niemieckim', 'oznacza', 'spógosk', '[v]', 'a', 'w', 'angielskim', '[w]', 'kodowanie', 'inne', 'reprezentacje', 'litery', 'w', 'zobacz', 'te', 'cyrylica', 'przypisy']

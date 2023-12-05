@@ -1,9 +1,1 @@
-M (minuskuła: m) – trzynasta litera alfabetu łacińskiego i siedemnasta alfabetu polskiego. Oznacza zwykle w danym języku spółgłoskę wargową nosową, np. [m].
-
-
-== Inne reprezentacje litery M ==
-
-
-== Zobacz też ==
-Μ (mi)
-М
+['m', 'minuskua', 'm', 'trzynasta', 'litera', 'alfabetu', 'aciskiego', 'i', 'siedemnasta', 'alfabetu', 'polskiego', 'oznacza', 'zwykle', 'w', 'danym', 'jzyku', 'spógosk', 'wargow', 'nosow', 'np', '[m]', 'inne', 'reprezentacje', 'litery', 'm', 'zobacz', 'te', 'mi']

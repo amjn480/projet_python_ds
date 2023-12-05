@@ -1,16 +1,1 @@
-Eukariote is lede van die domein Eukaryota: organismes wat organelle binne-in hul selle bevat, soos die selkern, golgi-apparaat, mitochondrium en in plante, chloroplaste. Die domein bevat alle plante, diere, alge, swamme en protiste.
-In taksonomie word eukariote beskou as een van die drie biologiese domeine waarin lewe verdeel kan word. Die ander twee domeine, Archaea en Bacteria, word saam "prokariote" genoem.
-
-
-== Kladogram ==
-Die verwantskap tussen die eukariote is steeds 'n onderwerp van navorsing. Hierdie is 'n vereenvoudigde kladogram wat die belangrikste groepe toon:
-
-
-== Verwysings ==
-
-
-== Eksterne skakels ==
-
- Wikimedia Commons het meer media in die kategorie Eukarioot.
-
- Wikispecies het meer inligting verwant aan Eukarioot
+['eukariote', 'is', 'lede', 'van', 'die', 'domein', 'eukaryota', 'organismes', 'wat', 'organelle', 'binnein', 'hul', 'selle', 'bevat', 'soos', 'die', 'selkern', 'golgiapparaat', 'mitochondrium', 'en', 'in', 'plante', 'chloroplaste', 'die', 'domein', 'bevat', 'alle', 'plante', 'diere', 'alge', 'swamme', 'en', 'protiste', 'in', 'taksonomie', 'word', 'eukariote', 'beskou', 'as', 'een', 'van', 'die', 'drie', 'biologiese', 'domeine', 'waarin', 'lewe', 'verdeel', 'kan', 'word', 'die', 'ander', 'twee', 'domeine', 'archaea', 'en', 'bacteria', 'word', 'saam', '"prokariote"', 'genoem', 'kladogram', 'die', 'verwantskap', 'tussen', 'die', 'eukariote', 'is', 'steeds', "'n", 'onderwerp', 'van', 'navorsing', 'hierdie', 'is', "'n", 'vereenvoudigde', 'kladogram', 'wat', 'die', 'belangrikste', 'groepe', 'toon', 'verwysings', 'eksterne', 'skakels', 'wikimedia', 'commons', 'het', 'meer', 'media', 'in', 'die', 'kategorie', 'eukarioot', 'wikispecies', 'het', 'meer', 'inligting', 'verwant', 'aan', 'eukarioot']
