@@ -4,9 +4,10 @@ import json
 import conf_data
 
 def main():
-    for language in ['fr']:
+
+    for language in conf_data.dic_api.keys():
         file = open(
-            f"/home/onyxia/work/projet_python_ds/list_of_wikiarticle/list_{language}.pickle",
+            f"/home/onyxia/work/projet_python_ds/data/list_of_wikiarticle/list_{language}.pickle",
             "rb")
         requests_list = pickle.load(file)
         for request in requests_list:
