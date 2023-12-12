@@ -1,5 +1,7 @@
 # File to configure the different settings
 
+import os
+
 # The different languages we are going to train the model
 dic_api = {
             "fr": "https://fr.wikipedia.org/w/api.php",

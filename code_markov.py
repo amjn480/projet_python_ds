@@ -25,7 +25,8 @@ class Matrix():
         self.normalize()
 
     def update_matrix(self, file):
-        with open(f"/home/onyxia/work/projet_python_ds/data/{self.language}/{file}", 'r') as data:
+        with open(f"/home/onyxia/work/projet_python_ds/data/{self.language}/{file}", 'r', encoding='utf-8') as file2:
+            data = file2.read()
             for word in data:
                 self.matrix[32][ord(word[0])] += 1
                 self.total[32] += 1
@@ -47,5 +48,19 @@ class Matrix():
             if self.total[k] != 0:
                 self.matrix[k] = self.matrix[k]/self.total[k]
 
+    def compute_proba(self, text):
+        """text is a list of word"""
+        proba = 1
+        for word in text:
+            proba *= self.matrix[32][ord(word[0])]
+            for k in range(len(word)-1):
+                character = word[k]
+                next_character = word[k+1]
+                i = ord(character)
+                j = ord(next_character)
+                proba *= self.matrix[i][j]
+            proba *= self.matrix[ord(word[-1])][32]
+        return proba
+
 # Pour visualiser la matrice
-# np.savetxt('matrix', Matrix(language='fr').matrix)
+np.savetxt('matrix', Matrix(language='fr').matrix)
