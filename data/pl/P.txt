@@ -1,1 +1,1 @@
-['p', 'minuskua', 'p', 'jest', 'szesnast', 'liter', 'alfabetu', 'aciskiego', 'dwudziest', 'drug', 'liter', 'alfabetu', 'polskiego', 'i', 'oznacza', 'gosk', '[p]', 'inne', 'reprezentacje', 'litery', 'p', 'zobacz', 'te', 'pi', 'ro', 'cyrylica']
+["p", "minuskua", "p", "jest", "szesnast", "liter", "alfabetu", "aciskiego", "dwudziest", "drug", "liter", "alfabetu", "polskiego", "i", "oznacza", "gosk", "p", "inne", "reprezentacje", "litery", "p", "zobacz", "te", "pi", "ro", "cyrylica"]

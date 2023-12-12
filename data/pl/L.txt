@@ -1,1 +1,1 @@
-['l', 'minuskua', 'l', 'jest', 'dwunast', 'liter', 'alfabetu', 'aciskiego', 'pitnast', 'liter', 'alfabetu', 'polskiego', 'oznacza', 'zwykle', 'w', 'danym', 'jzyku', 'spógosk', 'pynn', 'boczn', 'np', '[l]', 'inne', 'reprezentacje', 'litery', 'l', 'zobacz', 'te', 'cyrylica', 'lambda']
+["l", "minuskua", "l", "jest", "dwunast", "liter", "alfabetu", "aciskiego", "pitnast", "liter", "alfabetu", "polskiego", "oznacza", "zwykle", "w", "danym", "jzyku", "sp\u00f3gosk", "pynn", "boczn", "np", "l", "inne", "reprezentacje", "litery", "l", "zobacz", "te", "cyrylica", "lambda"]

@@ -1,1 +1,1 @@
-['m', 'minuskua', 'm', 'trzynasta', 'litera', 'alfabetu', 'aciskiego', 'i', 'siedemnasta', 'alfabetu', 'polskiego', 'oznacza', 'zwykle', 'w', 'danym', 'jzyku', 'spógosk', 'wargow', 'nosow', 'np', '[m]', 'inne', 'reprezentacje', 'litery', 'm', 'zobacz', 'te', 'mi']
+["m", "minuskua", "m", "trzynasta", "litera", "alfabetu", "aciskiego", "i", "siedemnasta", "alfabetu", "polskiego", "oznacza", "zwykle", "w", "danym", "jzyku", "sp\u00f3gosk", "wargow", "nosow", "np", "m", "inne", "reprezentacje", "litery", "m", "zobacz", "te", "mi"]

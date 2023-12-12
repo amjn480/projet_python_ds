@@ -1,1 +1,1 @@
-['n', 'minuskua', 'n', 'czternasta', 'litera', 'alfabetu', 'aciskiego', 'i', 'osiemnasta', 'polskiego', 'oznacza', 'zwykle', 'w', 'danym', 'jzyku', 'spógosk', 'przedniojzykow', 'nosow', 'np', '[n]', 'inne', 'reprezentacje', 'litery', 'n', 'zobacz', 'te', 'ni']
+["n", "minuskua", "n", "czternasta", "litera", "alfabetu", "aciskiego", "i", "osiemnasta", "polskiego", "oznacza", "zwykle", "w", "danym", "jzyku", "sp\u00f3gosk", "przedniojzykow", "nosow", "np", "n", "inne", "reprezentacje", "litery", "n", "zobacz", "te", "ni"]

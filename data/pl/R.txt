@@ -1,1 +1,1 @@
-['r', 'minuskua', 'r', 'osiemnasta', 'litera', 'alfabetu', 'aciskiego', 'i', 'dwudziesta', 'trzecia', 'alfabetu', 'polskiego', 'oznacza', 'zwykle', 'w', 'danym', 'jzyku', 'spógosk', 'rotyczn', 'np', '[r]', '[]', 'lub', '[]', 'inne', 'reprezentacje', 'litery', 'r', 'zobacz', 'te', 'ro']
+["r", "minuskua", "r", "osiemnasta", "litera", "alfabetu", "aciskiego", "i", "dwudziesta", "trzecia", "alfabetu", "polskiego", "oznacza", "zwykle", "w", "danym", "jzyku", "sp\u00f3gosk", "rotyczn", "np", "r", "lub", "inne", "reprezentacje", "litery", "r", "zobacz", "te", "ro"]
