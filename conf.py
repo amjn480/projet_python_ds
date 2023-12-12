@@ -1,7 +1,5 @@
 # File to configure the different settings
 
-import os
-
 # The different languages we are going to train the model
 dic_api = {
             "fr": "https://fr.wikipedia.org/w/api.php",
@@ -15,6 +13,3 @@ dic_api = {
             "pl": "https://pl.wikipedia.org/w/api.php",
             "sv": "https://sv.wikipedia.org/w/api.php"
             }
-
-# To make the path begin at "projet_python_ds"
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
