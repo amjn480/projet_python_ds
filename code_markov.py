@@ -1,6 +1,6 @@
 import numpy as np
 import os
-import conf
+import json
 
 code_space = 0
 
@@ -26,7 +26,8 @@ class Matrix():
 
     def update_matrix(self, file):
         with open(f"/home/onyxia/work/projet_python_ds/data/{self.language}/{file}", 'r', encoding='utf-8') as file2:
-            data = file2.read()
+            data = json.load(file2)
+            print(data)
             for word in data:
                 self.matrix[32][ord(word[0])] += 1
                 self.total[32] += 1

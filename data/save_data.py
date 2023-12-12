@@ -1,11 +1,10 @@
 import requests
 import pickle
+import json
 import conf_data
-import conf
-
 
 def main():
-    for language in conf.dic_api.keys():
+    for language in ['fr']:
         file = open(
             f"/home/onyxia/work/projet_python_ds/list_of_wikiarticle/list_{language}.pickle",
             "rb")
@@ -17,7 +16,7 @@ def main():
                 "titles": request,
                 "prop": "extracts",
                 "explaintext": True}
-            response = requests.get(conf.dic_api[language], params=params)
+            response = requests.get(conf_data.dic_api[language], params=params)
             if response.status_code == 200:
                 data = response.json()
                 page_content = list(data["query"]["pages"].values())[0]["extract"]
@@ -31,9 +30,9 @@ def main():
                 print("La requête a échoué. Statut :", response.status_code)
             try:  # error if there is a backslash in the request
                 with open(
-                    f"data/{language}/{request}.txt", "w",
+                    f"/home/onyxia/work/projet_python_ds/data/{language}/{request}.txt", "w",
                     encoding=conf_data.encoding_type) as file2:
-                    file2.write(str(data))
+                    json.dump(data, file2)
             except FileNotFoundError:
                 print(f"problem for the request: {request}")
 
