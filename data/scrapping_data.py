@@ -1,6 +1,5 @@
 import requests
 import pickle
-import os
 import conf
 
 S = requests.Session()
@@ -21,6 +20,6 @@ for language in language_list:
 
         response = S.get(url=URL, params=PARAMS)
         data += response.json()[1]
-    file = open(f"list_of_wikiarticle/list_{language}.pickle", "wb")
+    file = open(f"/home/onyxia/work/projet_python_ds/data/list_{language}.pickle", "wb")
     pickle.dump(data, file)
     file.close()
