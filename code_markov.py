@@ -1,13 +1,14 @@
 import numpy as np
 import os
 
+code_space = 0
 
-# def encoding(c):
-# #cette fonction permettra de convertir un caractère ASCII en un entier
-#     return None
+def encoding(c):
+    '''This function encodes an ASCII character'''
+    return None
 
 
-class bigram():
+class Matrix():
     def __init__(self, number_char, language):
         self.language = language
         self.nb = number_char
@@ -15,7 +16,7 @@ class bigram():
         self.total = np.zeros(number_char)
         self.list_articles = os.listdir(f"data/{language}")
 
-    def matrix_transition(self, language, file):
+    def update_matrix(self, language, file):
         with open(f"data/{language}/{file}.txt", 'r') as data:
             for word in data:
                 for k in range(len(word)-1):
@@ -24,30 +25,14 @@ class bigram():
                     i = encoding(character)
                     j = encoding(next_character)
                     self.matrix[i][j] += 1
-                    self.total[i]+=1
-                self.matrix[encoding[word[-1]]]
-        
-        f.close()
-    # on fait tourner sur tous les textes pour une langue
-    def proba(language , number_char ) :
-        URL = f"https://{language}.wikipedia.org/w/api.php"
-        data = []
-        for letter in range(ord("A"), ord("Z")+1):
-            PARAMS = {
-                "action": "opensearch",
-                "namespace": "0",
-                "search": chr(letter),
-                "limit": "15",
-                "format": "json"
-            }
+                    self.total[i] += 1
+                self.matrix[encoding[word[-1]], code_space] += 1
 
-            response = S.get(url=URL, params=PARAMS)
-            data += response.json()[1]
-        classe=bigram(number_char, language)
-        for elmt in data :
-            classe.matrix_transition(elmt)
-        proba=classe.matrix
-        total=classe.total
+    def train(self):
+        for file in self.list_articles:
+            self.update_matrix(language=language, file=file)
+
+
         #il faudra diviser les probas par total pour avoir bien une matrice de transition et voir comment on calcule les epsilon
 
 
