@@ -1,5 +1,6 @@
 import numpy as np
 import os
+import conf
 
 code_space = 0
 
