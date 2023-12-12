@@ -27,6 +27,8 @@ class Matrix():
     def update_matrix(self, file):
         with open(f"/home/onyxia/work/projet_python_ds/data/{self.language}/{file}", 'r') as data:
             for word in data:
+                self.matrix[32][ord(word[0])] += 1
+                self.total[32] += 1
                 for k in range(len(word)-1):
                     character = word[k]
                     next_character = word[k+1]
