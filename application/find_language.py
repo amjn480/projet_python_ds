@@ -41,7 +41,7 @@ def compute_proba(matrix, text):
         for word in text:
             proba = 1
             for k in range(len(word)-1):
-                character = word[k]
+                character = word[k] 
                 next_character = word[k+1]
                 i = ord(character)
                 j = ord(next_character)
