@@ -37,17 +37,18 @@ def find_language(request, language_request):
 
 def compute_proba(matrix, text):
         """text is a list of word"""
-        proba = 1
+        proba_totale = 0
         for word in text:
-            proba *= matrix[32][ord(word[0])]
+            proba = 1
             for k in range(len(word)-1):
                 character = word[k]
                 next_character = word[k+1]
                 i = ord(character)
                 j = ord(next_character)
-                proba *= matrix[i][j]
-            proba *= matrix[ord(word[-1])][32]
-        return proba
+                proba = proba*matrix[i][j]
+            proba = proba*matrix[ord(word[-1])][32]
+            proba_totale += proba
+        return proba_totale/len(text)
 
 
 print(find_language("Football", "fr"))
