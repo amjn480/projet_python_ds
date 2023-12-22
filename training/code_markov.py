@@ -68,13 +68,18 @@ class Frequency():
     def train(self):
         number_characters = 0
         for file in self.list_articles:
-            with open(f"/home/onyxia/work/projet_python_ds/data/{self.language}/{file}", 'r', encoding='utf-8') as file2:
+            with open(f"/home/onyxia/work/projet_python_ds/data/{self.language}/{file}", 'r') as file2:
                 try:
                     data = json.load(file2)
                     for word in data:
                         number_characters += len(word)
                         for letter in word:
                             self.frequencies[ord(letter)] += 1
-                except json.decoder.JSONDecodeError:
+                except (json.decoder.JSONDecodeError, UnicodeDecodeError):
                     print(f"error collecting the data :{file}")
         self.frequencies = self.frequencies/number_characters
+
+
+# Pour visualiser les fréquences des lettres par langues
+for language in conf_training.dic_api.keys():
+    np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Frequencies_{language}.txt", Frequency(language=language).frequencies)

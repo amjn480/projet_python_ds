@@ -4,6 +4,7 @@ import numpy as np
 
 S = requests.Session()
 
+
 def find_language(request, language_request):
 
     url = f"https://{language_request}.wikipedia.org/w/api.php"
@@ -23,7 +24,7 @@ def find_language(request, language_request):
         page_content = list(data["query"]["pages"].values())[0]["extract"]
         page_content = [word for word in page_content.split()]
         data = [chaine.translate(conf_data.traduction_table).lower()
-                            for chaine in page_content]
+                    for chaine in page_content]
         data = [''.join([c for c in word if ord(c) < 255]) 
                             for word in data]
         data = list(filter(lambda x: x != '', data))
@@ -32,7 +33,9 @@ def find_language(request, language_request):
 
     for language in conf_data.dic_api.keys():
         proba = compute_proba(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt"), data)
-        print(f"The probabilty for {language} is :{proba}")
+        distance = compute_distance_frequency()
+        print(f"The probabilty with the Matrix for {language} is :{proba}")
+        print(f"The distance for {language} is : {distance}")
 
 
 def compute_proba(matrix, text):
@@ -51,4 +54,4 @@ def compute_proba(matrix, text):
         return proba_totale/len(text)
 
 
-print(find_language("Franco", "es"))
+def compute_frequencies(frequencies, t)
