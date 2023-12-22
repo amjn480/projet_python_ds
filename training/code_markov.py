@@ -80,6 +80,9 @@ class Frequency():
         self.frequencies = self.frequencies/number_characters
 
 
-# Pour visualiser les fréquences des lettres par langues
-for language in conf_training.dic_api.keys():
-    np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt", Frequency(language=language).frequencies)
+# # Pour visualiser les fréquences des lettres par langues
+# for language in conf_training.dic_api.keys():
+#     np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt", Frequency(language=language).frequencies)
+
+
+
