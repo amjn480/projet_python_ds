@@ -1,7 +1,6 @@
 import requests
 import conf_data
 import numpy as np
-from math import norm
 
 S = requests.Session()
 
@@ -34,7 +33,7 @@ def find_language(request, language_request):
 
     for language in conf_data.dic_api.keys():
         proba = compute_proba(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt"), data)
-        distance = compute_distance_frequency(np.load(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt"), data)
+        distance = compute_distance_frequency(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt"), data)
         print(f"The probabilty with the Matrix for {language} is :{proba}")
         print(f"The distance for {language} is : {distance}")
 
@@ -63,6 +62,7 @@ def compute_distance_frequency(frequencies, text):
         for letter in word:
             frequencies_text[ord(letter)] += 1
     frequencies_text = frequencies_text/number_characters
-    print(np.norm(frequencies, frequencies_text))
+    return np.linalg.norm(frequencies - frequencies_text)
 
 
+print(find_language("Football", 'fr'))
