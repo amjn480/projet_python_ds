@@ -41,7 +41,7 @@ def compute_proba(matrix, text):
         for word in text:
             proba = 1
             for k in range(len(word)-1):
-                character = word[k] 
+                character = word[k]
                 next_character = word[k+1]
                 i = ord(character)
                 j = ord(next_character)
@@ -51,4 +51,4 @@ def compute_proba(matrix, text):
         return proba_totale/len(text)
 
 
-print(find_language("Football", "fr"))
+print(find_language("Franco", "es"))
