@@ -16,7 +16,8 @@ for i in range(len(matrix)):
 colors_hsv = np.zeros((255, 255, 3))  # Matrice pour stocker les couleurs en HSV
 for i in range(255):
     for j in range(255):
-        colors_hsv[i, j, 0] = matrix[i, j]  # Teinte correspondant à la fréquence
+        alpha=0.25
+        colors_hsv[i, j, 0] = matrix[i, j]**alpha  # Teinte correspondant à la fréquence
 
 # Conversion des couleurs de l'espace HSV à RGB pour l'affichage
 colors_rgb = plt.get_cmap('hsv')(colors_hsv[:, :, 0])  # Utilisation uniquement de la teinte pour la colormap
@@ -29,4 +30,4 @@ plt.xlabel('Lettre suivante')
 plt.ylabel('Lettre actuelle')
 plt.colorbar()  # Barre de couleur pour référence
 plt.show(block=True)
-#plt.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}.jpeg")
+plt.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}.png")
