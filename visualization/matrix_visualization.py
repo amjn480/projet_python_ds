@@ -52,7 +52,7 @@ plt.colorbar() """
 
 # Affichage des couleurs représentant les fréquences
 plt.figure(figsize=(15, 15))
-plt.imshow(submatrix, interpolation='nearest', cmap='spring')
+plt.imshow(submatrix, interpolation='nearest', cmap='summer')
 plt.axis('off')
 
 
