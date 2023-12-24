@@ -75,6 +75,5 @@ rs = RectangleSelector(ax, onselect)
 
 # Display the plot
 plt.show()
-
-# Save the plot after interactive features (e.g., zooming) are done
-plt.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}_zoomed.png")
+fig.canvas.draw()
+fig.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}_zoomed.png")
