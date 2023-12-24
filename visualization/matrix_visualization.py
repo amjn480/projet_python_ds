@@ -50,6 +50,13 @@ def onselect(eclick, erelease):
     # Redraw the plot with the zoomed region
     plt.draw()
 
+def onselect(eclick, erelease):
+    x1, y1 = eclick.xdata, eclick.ydata
+    x2, y2 = erelease.xdata, erelease.ydata
+    ax.set_xlim(min(x1, x2), max(x1, x2))
+    ax.set_ylim(min(y1, y2), max(y1, y2))
+    plt.draw()
+
 language = "fr"
 matrix = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt")
 colors_hsv = np.zeros((255, 255, 3))
@@ -80,4 +87,6 @@ rs = RectangleSelector(ax, onselect)
 
 # Display the plot
 plt.show()
+
+# Save the plot after interactive features (e.g., zooming) are done
 plt.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}.png")
