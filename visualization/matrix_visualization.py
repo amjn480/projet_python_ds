@@ -21,7 +21,7 @@ cols_to_keep = np.array([32] + list(range(97, 123)) + list(range(224, 255)))
 
 # Use advanced indexing to keep the desired portion
 submatrix = matrix[rows_to_keep[:, np.newaxis], cols_to_keep].copy()
-submatrix=(submatrix.astype('float'))**0.25
+submatrix=(submatrix.astype('float'))**0.5
 """colors = np.zeros((len(matrix), len(matrix[0]), 3))
 for i in range(len(matrix)):
     for j in range(len(matrix)):
