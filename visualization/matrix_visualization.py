@@ -1,4 +1,8 @@
 import numpy as np
+
+import matplotlib
+matplotlib.use('Agg')
+
 import matplotlib.pyplot as plt
 
 
@@ -24,4 +28,5 @@ plt.title('Couleurs en fonction des fréquences')
 plt.xlabel('Lettre suivante')
 plt.ylabel('Lettre actuelle')
 plt.colorbar()  # Barre de couleur pour référence
-plt.show()
+plt.show(block=True)
+#plt.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}.jpeg")
