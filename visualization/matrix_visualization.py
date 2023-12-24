@@ -16,7 +16,11 @@ import matplotlib.pyplot as plt
 
 language = "fr"
 matrix = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt")
-submatrix= matrix[97:123, 97:123].copy()
+rows_to_keep = np.array([32] + list(range(97, 123)) + list(range(224, 255)))
+cols_to_keep = np.array([32] + list(range(97, 123)) + list(range(224, 255)))
+
+# Use advanced indexing to keep the desired portion
+submatrix = matrix[rows_to_keep[:, np.newaxis], cols_to_keep].copy()
 submatrix=(submatrix.astype('float'))**0.25
 """colors = np.zeros((len(matrix), len(matrix[0]), 3))
 for i in range(len(matrix)):
@@ -44,17 +48,14 @@ plt.colorbar() """
 
 
 
-# Conversion des couleurs de l'espace HSV à RGB pour l'affichage
-#colors_rgb = plt.get_cmap('hsv')(colors_hsv[:, :, 0])  # Utilisation uniquement de la teinte pour la colormap
 
 # Affichage des couleurs représentant les fréquences
 plt.figure(figsize=(8, 8))
-plt.imshow(submatrix, interpolation='nearest', cmap='Greys')
+plt.imshow(submatrix, interpolation='nearest', cmap='BuGn')
 plt.axis('off')
-plt.title('Couleurs en fonction des fréquences')
-#plt.xlabel('Lettre suivante')
-#plt.ylabel('Lettre actuelle')
-for ip,i in enumerate([32]+list(range(65,91))) :
+
+
+for ip,i in enumerate([32]+list(range(97,123))+list(range(224,256))):
     plt.text(-1,ip,chr(i), horizontalalignment='center', verticalalignment='center')
     plt.text(ip,-1,chr(i), horizontalalignment='center', verticalalignment='center')
 plt.colorbar()
