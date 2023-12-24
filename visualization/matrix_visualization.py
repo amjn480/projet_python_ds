@@ -54,14 +54,17 @@ for i in range(len(submatrix)):
         colors_hsv[i, j, 0] = submatrix[i, j]**alpha  # Teinte correspondant à la fréquence
 
 # Conversion des couleurs de l'espace HSV à RGB pour l'affichage
-colors_rgb = plt.get_cmap('hsv')(colors_hsv[:, :, 0])  # Utilisation uniquement de la teinte pour la colormap
+#colors_rgb = plt.get_cmap('hsv')(colors_hsv[:, :, 0])  # Utilisation uniquement de la teinte pour la colormap
 
 # Affichage des couleurs représentant les fréquences
-plt.figure(figsize=(8, 6))
-plt.imshow(colors_rgb, interpolation='nearest')
+plt.figure(figsize=(8, 8))
+plt.imshow(colors_hsv, interpolation='nearest', cmap='Greys')
 plt.title('Couleurs en fonction des fréquences')
-plt.xlabel('Lettre suivante')
-plt.ylabel('Lettre actuelle')
+#plt.xlabel('Lettre suivante')
+#plt.ylabel('Lettre actuelle')
+for ip,i in enumerate([32]+list(range(65,91))) :
+    plt.text(-1,ip,chr(i), horizontalalignment='center', verticalalignment='center')
+    plt.text(ip,-1,chr(i), horizontalalignment='center', verticalalignment='center')
 plt.colorbar()
 plt.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}_zoomed.png")
 
