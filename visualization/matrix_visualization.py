@@ -39,18 +39,6 @@ import matplotlib.pyplot as plt
 from matplotlib.widgets import RectangleSelector
 
 def onselect(eclick, erelease):
-    # eclick and erelease are the press and release events
-    x1, y1 = eclick.xdata, eclick.ydata
-    x2, y2 = erelease.xdata, erelease.ydata
-
-    # Set the limits for zooming
-    ax.set_xlim(min(x1, x2), max(x1, x2))
-    ax.set_ylim(min(y1, y2), max(y1, y2))
-
-    # Redraw the plot with the zoomed region
-    plt.draw()
-
-def onselect(eclick, erelease):
     x1, y1 = eclick.xdata, eclick.ydata
     x2, y2 = erelease.xdata, erelease.ydata
     ax.set_xlim(min(x1, x2), max(x1, x2))
@@ -89,4 +77,4 @@ rs = RectangleSelector(ax, onselect)
 plt.show()
 
 # Save the plot after interactive features (e.g., zooming) are done
-plt.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}.png")
+plt.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}_zoomed.png")
