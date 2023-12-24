@@ -4,8 +4,86 @@ import matplotlib
 matplotlib.use('Agg')
 
 import matplotlib.pyplot as plt
+from matplotlib.transforms import Bbox, TransformedBbox, \
+blended_transform_factory
+from mpl_toolkits.axes_grid1.inset_locator import BboxPatch, BboxConnector,\
+BboxConnectorPatch
 
-"""language = "fr"
+
+
+
+
+def connect_bbox(bbox1, bbox2,
+                 loc1a, loc2a, loc1b, loc2b,
+                 prop_lines, prop_patches=None):
+    if prop_patches is None:
+        prop_patches = prop_lines.copy()
+        prop_patches["alpha"] = prop_patches.get("alpha", 1)*0.2
+
+    c1 = BboxConnector(bbox1, bbox2, loc1=loc1a, loc2=loc2a, **prop_lines)
+    c1.set_clip_on(False)
+    c2 = BboxConnector(bbox1, bbox2, loc1=loc1b, loc2=loc2b, **prop_lines)
+    c2.set_clip_on(False)
+
+    bbox_patch1 = BboxPatch(bbox1, **prop_patches)
+    bbox_patch2 = BboxPatch(bbox2, **prop_patches)
+
+    p = BboxConnectorPatch(bbox1, bbox2,
+                           # loc1a=3, loc2a=2, loc1b=4, loc2b=1,
+                           loc1a=loc1a, loc2a=loc2a, loc1b=loc1b, loc2b=loc2b,
+                           **prop_patches)
+    p.set_clip_on(False)
+
+    return c1, c2, bbox_patch1, bbox_patch2, p
+
+
+def zoom_effect01(ax1, ax2, xmin, xmax, **kwargs):
+    """
+    ax1 : the main axes
+    ax1 : the zoomed axes
+    (xmin,xmax) : the limits of the colored area in both plot axes.
+
+    connect ax1 & ax2. The x-range of (xmin, xmax) in both axes will
+    be marked.  The keywords parameters will be used ti create
+    patches.
+
+    """
+
+    trans1 = blended_transform_factory(ax1.transData, ax1.transAxes)
+    trans2 = blended_transform_factory(ax2.transData, ax2.transAxes)
+
+    bbox = Bbox.from_extents(xmin, 0, xmax, 1)
+
+    mybbox1 = TransformedBbox(bbox, trans1)
+    mybbox2 = TransformedBbox(bbox, trans2)
+
+    prop_patches = kwargs.copy()
+    prop_patches["ec"] = "none"
+    prop_patches["alpha"] = 0.2
+
+    c1, c2, bbox_patch1, bbox_patch2, p = \
+        connect_bbox(mybbox1, mybbox2,
+                     loc1a=3, loc2a=2, loc1b=4, loc2b=1,
+                     prop_lines=kwargs, prop_patches=prop_patches)
+
+    ax1.add_patch(bbox_patch1)
+    ax2.add_patch(bbox_patch2)
+    ax2.add_patch(c1)
+    ax2.add_patch(c2)
+    ax2.add_patch(p)
+
+    return c1, c2, bbox_patch1, bbox_patch2, p
+
+
+
+
+
+
+
+
+
+
+language = "fr"
 matrix = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt")
 colors = np.zeros((len(matrix), len(matrix[0]), 3))
 for i in range(len(matrix)):
@@ -27,53 +105,16 @@ plt.imshow(colors_rgb, interpolation='nearest')
 plt.title('Couleurs en fonction des fréquences')
 plt.xlabel('Lettre suivante')
 plt.ylabel('Lettre actuelle')
-plt.colorbar()  # Barre de couleur pour référence
+
+
+
+plt.colorbar() 
+
+ax1 = plt.subplot(221)
+ax2 = plt.subplot(212)
+ax2.set_xlim(0, 1)
+ax2.set_xlim(0, 5)
+zoom_effect01(ax1, ax2, 0.2, 0.8) # Barre de couleur pour référence
 plt.show(block=True)
-plt.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}.png")
-"""
+plt.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}_zoomed.png")
 
-import numpy as np
-import matplotlib
-matplotlib.use('Agg')  # Use TkAgg for interactive zooming
-import matplotlib.pyplot as plt
-from matplotlib.widgets import RectangleSelector
-
-def onselect(eclick, erelease):
-    x1, y1 = eclick.xdata, eclick.ydata
-    x2, y2 = erelease.xdata, erelease.ydata
-    ax.set_xlim(min(x1, x2), max(x1, x2))
-    ax.set_ylim(min(y1, y2), max(y1, y2))
-    plt.draw()
-
-language = "fr"
-matrix = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt")
-colors_hsv = np.zeros((255, 255, 3))
-
-for i in range(255):
-    for j in range(255):
-        alpha = 0.25
-        colors_hsv[i, j, 0] = matrix[i, j] ** alpha
-
-colors_rgb = plt.get_cmap('hsv')(colors_hsv[:, :, 0])
-
-# Create a figure and axis object
-fig, ax = plt.subplots(figsize=(8, 6))
-
-# Display the colors representing frequencies
-im = ax.imshow(colors_rgb, interpolation='nearest')
-
-# Set title and labels
-ax.set_title('Couleurs en fonction des fréquences')
-ax.set_xlabel('Lettre suivante')
-ax.set_ylabel('Lettre actuelle')
-
-# Add colorbar for reference
-cbar = plt.colorbar(im)
-
-# Enable zooming functionality
-rs = RectangleSelector(ax, onselect)
-
-# Display the plot
-plt.show()
-fig.canvas.draw()
-fig.savefig(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_viz_{language}_zoomed.png")
