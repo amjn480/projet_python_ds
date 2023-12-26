@@ -13,3 +13,5 @@ dic_api = {
             "pl": "https://pl.wikipedia.org/w/api.php",
             "sv": "https://sv.wikipedia.org/w/api.php"
             }
+
+print(dic_api.keys())
