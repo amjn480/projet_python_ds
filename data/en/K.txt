@@ -1,1 +1,87 @@
-["k", "or", "k", "is", "the", "th", "letter", "in", "the", "latin", "alphabet", "used", "in", "the", "modern", "english", "alphabet", "the", "alphabets", "of", "other", "western", "european", "languages", "and", "others", "worldwide", "its", "name", "in", "english", "is", "kay", "pronounced", "plural", "kays", "the", "letter", "k", "usually", "represents", "the", "voiceless", "velar", "plosive", "history", "the", "letter", "k", "comes", "from", "the", "greek", "letter", "kappa", "which", "was", "taken", "from", "the", "semitic", "kaph", "the", "symbol", "for", "an", "open", "hand", "this", "in", "turn", "was", "likely", "adapted", "by", "semitic", "tribes", "who", "had", "lived", "in", "egypt", "from", "the", "hieroglyph", "for", "\"hand\"", "representing", "in", "the", "egyptian", "word", "for", "hand", "rt", "likely", "pronounced", "caat", "in", "old", "egyptian", "the", "semites", "evidently", "assigned", "it", "the", "sound", "value", "k", "instead", "because", "their", "word", "for", "hand", "started", "with", "that", "soundk", "was", "brought", "into", "the", "latin", "alphabet", "with", "the", "name", "ka", "ka", "to", "differentiate", "it", "from", "c", "named", "ce", "pronounced", "ke", "and", "q", "named", "qu", "and", "pronounced", "ku", "in", "the", "earliest", "latin", "inscriptions", "the", "letters", "c", "k", "and", "q", "were", "all", "used", "to", "represent", "the", "sounds", "k", "and", "which", "were", "not", "differentiated", "in", "writing", "of", "these", "q", "was", "used", "before", "a", "rounded", "vowel", "eg", "eqo", "'ego'", "k", "before", "a", "eg", "kalendis", "'calendis'", "and", "c", "elsewhere", "later", "the", "use", "of", "c", "and", "its", "variant", "g", "replaced", "most", "usages", "of", "k", "and", "q", "k", "survived", "only", "in", "a", "few", "fossilized", "forms", "such", "as", "kalendae", "\"the", "calends\"after", "greek", "words", "were", "taken", "into", "latin", "the", "kappa", "was", "transliterated", "as", "a", "c", "loanwords", "from", "other", "alphabets", "with", "the", "sound", "k", "were", "also", "transliterated", "with", "c", "hence", "the", "romance", "languages", "generally", "use", "c", "in", "imitating", "classical", "latin's", "practice", "and", "have", "k", "only", "in", "later", "loanwords", "from", "other", "language", "groups", "the", "celtic", "languages", "also", "tended", "to", "use", "c", "instead", "of", "k", "and", "this", "influence", "carried", "over", "into", "old", "english", "pronunciation", "and", "use", "english", "english", "is", "now", "the", "only", "germanic", "language", "to", "productively", "use", "\"hard\"", "c", "outside", "the", "digraph", "ck", "rather", "than", "k", "although", "dutch", "uses", "it", "in", "loan", "words", "of", "latin", "origin", "and", "the", "pronunciation", "of", "these", "words", "follows", "the", "same", "hardsoft", "distinction", "as", "in", "englishthe", "letter", "k", "is", "silent", "at", "the", "start", "of", "an", "english", "word", "when", "it", "comes", "before", "the", "letter", "n", "as", "in", "the", "words", "knight", "knife", "knot", "know", "and", "knee", "like", "j", "x", "q", "and", "z", "the", "letter", "k", "is", "not", "used", "very", "frequently", "in", "english", "it", "is", "the", "fifth", "least", "frequently", "used", "letter", "in", "the", "english", "language", "with", "a", "frequency", "in", "words", "of", "about", "number", "in", "the", "international", "system", "of", "units", "si", "the", "si", "prefix", "for", "one", "thousand", "is", "kilo", "officially", "abbreviated", "as", "k", "for", "example", "prefixed", "to", "metremeter", "or", "its", "abbreviation", "m", "kilometre", "or", "km", "signifies", "a", "thousand", "metres", "as", "such", "people", "occasionally", "represent", "numbers", "in", "a", "nonstandard", "notation", "by", "replacing", "the", "last", "three", "zeros", "of", "the", "general", "numeral", "with", "k", "as", "in", "k", "for", "other", "languages", "in", "most", "languages", "where", "it", "is", "employed", "this", "letter", "represents", "the", "sound", "k", "with", "or", "without", "aspiration", "or", "some", "similar", "sound", "other", "systems", "the", "international", "phonetic", "alphabet", "uses", "k", "for", "the", "voiceless", "velar", "plosive", "related", "characters", "ancestors", "descendants", "and", "siblings", "semitic", "letter", "kaph", "from", "which", "the", "following", "symbols", "originally", "derive", "greek", "letter", "kappa", "from", "which", "k", "derives", "cyrillic", "letter", "ka", "also", "derived", "from", "kappa", "k", "with", "diacritics", "and", "were", "used", "in", "latvian", "orthography", "before", "the", "uralic", "phonetic", "alphabet", "uses", "various", "forms", "of", "the", "letter", "ku+db", "latin", "letter", "small", "capital", "k", "u+d", "modifier", "letter", "capital", "k", "u+df", "modifier", "letter", "small", "k", "subscript", "small", "k", "was", "used", "in", "the", "uralic", "phonetic", "alphabet", "prior", "to", "its", "formal", "standardization", "in", "turned", "capital", "and", "small", "k", "were", "used", "in", "transcriptions", "of", "the", "dakota", "language", "in", "publications", "of", "the", "american", "board", "of", "ethnology", "in", "the", "late", "th", "century", "turned", "small", "k", "was", "also", "used", "for", "a", "velar", "click", "in", "the", "international", "phonetic", "alphabet", "but", "its", "use", "was", "withdrawn", "in", "small", "capital", "turned", "k", "is", "used", "as", "a", "click", "letter", "small", "letter", "reversed", "k", "is", "used", "as", "a", "voice", "quality", "symbol", "voqs", "ligatures", "and", "abbreviations", "lao", "kip", "various", "forms", "of", "k", "were", "used", "for", "medieval", "scribal", "abbreviations", "computing", "codes", "also", "for", "encodings", "based", "on", "ascii", "including", "the", "dos", "windows", "iso", "and", "macintosh", "families", "of", "encodings", "other", "representation", "other", "usage", "\"k\"", "replacing", "\"c\"", "in", "satiric", "misspelling", "k", "is", "the", "unit", "symbol", "for", "the", "kelvin", "used", "to", "measure", "thermodynamic", "temperature", "note", "degree", "sign", "is", "not", "used", "with", "this", "symbol", "k", "is", "the", "chemical", "symbol", "for", "element", "potassium", "from", "its", "latin", "name", "kalium", "triangle", "k", "unit", "prefix", "k", "meaning", "times", "josef", "k", "is", "the", "name", "of", "the", "principal", "character", "in", "franz", "kafka's", "novel", "the", "trial", "in", "chess", "notation", "the", "letter", "k", "represents", "the", "king", "wk", "for", "white", "king", "bk", "for", "black", "king", "in", "baseball", "scoring", "the", "letter", "k", "is", "used", "to", "represent", "a", "strikeout", "a", "forwards", "oriented", "k", "represents", "a", "\"strikeout", "swinging\"", "a", "backwards", "oriented", "k", "represents", "a", "\"strikeout", "looking\"", "as", "abbreviation", "for", "ok", "often", "used", "in", "emails", "and", "short", "text", "messages", "k", "is", "used", "as", "a", "slang", "term", "for", "ketamine", "among", "recreational", "drug", "users", "in", "the", "cmyk", "color", "model", "k", "represents", "black", "ink", "in", "international", "morse", "code", "it", "is", "used", "to", "mean", "\"over\"", "in", "fracture", "mechanics", "k", "is", "used", "to", "represent", "the", "stress", "intensity", "factor", "in", "physics", "k", "usually", "stands", "for", "the", "boltzmann", "constant", "in", "argentinian", "politcs", "k", "is", "used", "as", "a", "symbol", "for", "kirchnerism", "k", "logic", "k", "is", "used", "colloquially", "to", "mean", "kilometre", "as", "in", "\"a", "k", "run\"", "k", "is", "used", "to", "indicate", "thousands", "especially", "when", "expressing", "amounts", "of", "money", "eg", "$k", "twenty", "thousand", "dollars", "in", "the", "united", "kingdom", "under", "the", "old", "system", "before", "a", "licence", "plate", "that", "begins", "with", "\"k\"", "for", "example", "\"k", "xyz\"", "would", "correspond", "to", "a", "vehicle", "registered", "between", "august", "and", "july", "again", "under", "the", "old", "system", "a", "licence", "plate", "that", "ends", "with", "\"k\"", "for", "example", "\"abc", "k\"", "would", "correspond", "to", "a", "vehicle", "that", "was", "registered", "between", "august", "and", "july", "on", "idaho", "license", "plates", "an", "initial", "k", "in", "the", "plate", "number", "indicates", "it", "was", "issued", "in", "kootenai", "county", "references", "external", "links", "media", "related", "to", "k", "at", "wikimedia", "commons", "the", "dictionary", "definition", "of", "k", "at", "wiktionary", "the", "dictionary", "definition", "of", "k", "at", "wiktionary"]
+k, or k, is the 11th letter in the latin alphabet, used in the modern english alphabet, the alphabets of other western european languages and others worldwide. its name in english is kay (pronounced ), plural kays. the letter k usually represents the voiceless velar plosive.
+
+
+== history ==
+the letter k comes from the greek letter κ (kappa), which was taken from the semitic kaph, the symbol for an open hand. this, in turn, was likely adapted by semitic tribes who had lived in egypt from the hieroglyph for "hand" representing /ḏ/ in the egyptian word for hand, ⟨ḏ-r-t⟩ (likely pronounced /ˈcʼaːɾat/ in old egyptian). the semites evidently assigned it the sound value /k/ instead, because their word for hand started with that sound.k was brought into the latin alphabet with the name ka /kaː/ to differentiate it from c, named ce (pronounced /keː/) and q, named qu and pronounced /kuː/. in the earliest latin inscriptions, the letters c, k and q were all used to represent the sounds /k/ and /ɡ/ (which were not differentiated in writing). of these, q was used before a rounded vowel (e.g. ⟨eqo⟩ 'ego'), k before /a/ (e.g. ⟨kalendis⟩ 'calendis'), and c elsewhere. later, the use of c and its variant g replaced most usages of k and q. k survived only in a few fossilized forms such as kalendae, "the calends".after greek words were taken into latin, the kappa was transliterated as a c. loanwords from other alphabets with the sound /k/ were also transliterated with c. hence, the romance languages generally use c, in imitating classical latin's practice, and have k only in later loanwords from other language groups. the celtic languages also tended to use c instead of k, and this influence carried over into old english.
+
+
+== pronunciation and use ==
+
+
+=== english ===
+english is now the only germanic language to productively use "hard" ⟨c⟩ (outside the digraph ⟨ck⟩) rather than ⟨k⟩ (although dutch uses it in loan words of latin origin, and the pronunciation of these words follows the same hard/soft distinction as in english).the letter ⟨k⟩ is silent at the start of an english word when it comes before the letter ⟨n⟩, as in the words knight, knife, knot, know, and knee.
+like j, x, q, and z, the letter k is not used very frequently in english. it is the fifth least frequently used letter in the english language, with a frequency in words of about 0.8%.
+
+
+=== number ===
+in the international system of units (si), the si prefix for one thousand is kilo-, officially abbreviated as k: for example, prefixed to metre/meter or its abbreviation m, kilometre or km signifies a thousand metres. as such, people occasionally represent numbers in a non-standard notation by replacing the last three zeros of the general numeral with k, as in 30k for 30,000.
+
+
+=== other languages ===
+in most languages where it is employed, this letter represents the sound /k/ (with or without aspiration) or some similar sound.
+
+
+=== other systems ===
+the international phonetic alphabet uses ⟨k⟩ for the voiceless velar plosive.
+
+
+== related characters ==
+
+
+=== ancestors, descendants and siblings ===
+𐤊 : semitic letter kaph, from which the following symbols originally derive
+κ κ/ϰ : greek letter kappa, from which k derives
+к к : cyrillic letter ka, also derived from kappa
+k with diacritics: ƙ ƙ, ꝁ ꝁ, ḱ ḱ, ǩ ǩ, ḳ ḳ, ķ ķ, ᶄ, ⱪ ⱪ, ḵ ḵ
+ꞣ and ꞣ were used in latvian orthography before 1921
+the uralic phonetic alphabet uses various forms of the letter k:u+1d0b ᴋ latin letter small capital k
+u+1d37 ᴷ modifier letter capital k
+u+1d4f ᵏ modifier letter small k
+ₖ : subscript small k was used in the uralic phonetic alphabet prior to its formal standardization in 1902
+ʞ ʞ : turned capital and small k were used in transcriptions of the dakota language in publications of the american board of ethnology in the late 19th century. turned small k was also used for a velar click in the international phonetic alphabet but its use was withdrawn in 1970.
+𝼐 : small capital turned k is used as a click letter
+𝼃 : small letter reversed k is used as a voice quality symbol (voqs)
+
+
+=== ligatures and abbreviations ===
+₭ : lao kip
+ꝃ ꝃ, ꝅ ꝅ : various forms of k were used for medieval scribal abbreviations
+
+
+== computing codes ==
+1 also for encodings based on ascii, including the dos, windows, iso-8859 and macintosh families of encodings.
+
+
+== other representation ==
+
+
+== other usage ==
+"k" replacing "c" in satiric misspelling.
+k is the unit symbol for the kelvin, used to measure thermodynamic temperature (note: degree sign is not used with this symbol).
+k is the chemical symbol for element potassium (from its latin name kalium).
+triangle k.
+unit prefix k, meaning 1000 times.
+josef k is the name of the principal character in franz kafka's novel the trial.
+in chess notation, the letter k represents the king (wk for white king, bk for black king).
+in baseball scoring, the letter k is used to represent a strikeout.  a forwards oriented k represents a "strikeout swinging"; a backwards oriented k () represents a "strikeout looking".
+as abbreviation for ok, often used in emails and short text messages.
+k is used as a slang term for ketamine among recreational drug users.
+in the cmyk color model, k represents black ink.
+in international morse code it is used to mean "over".
+in fracture mechanics, k is used to represent the stress intensity factor.
+in physics, k usually stands for the boltzmann constant.
+in argentinian politcs, k is used as a symbol for kirchnerism
+k (logic).
+k is used colloquially to mean kilometre (as in "a 10k run").
+k is used to indicate thousands, especially when expressing amounts of money, e.g. $20k = twenty thousand dollars.
+in the united kingdom under the old system (before 2001), a licence plate that begins with "k" for example "k123 xyz" would correspond to a vehicle registered between august 1, 1992, and july 31, 1993. again under the old system, a licence plate that ends with "k" for example "abc 123k" would correspond to a vehicle that was registered between august 1, 1971, and july 31, 1972.
+on idaho license plates, an initial k in the plate number indicates it was issued in kootenai county.
+
+
+== references ==
+
+
+== external links ==
+ media related to k at wikimedia commons
+ the dictionary definition of k at wiktionary
+ the dictionary definition of k at wiktionary

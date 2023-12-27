@@ -1,1 +1,661 @@
-["argentina", "oficialmente", "rep\u00fablica", "argentinaa", "es", "un", "pa\u00eds", "soberano", "de", "am\u00e9rica", "del", "sur", "ubicado", "en", "el", "extremo", "sur", "y", "sudeste", "de", "dicho", "subcontinente", "adopta", "la", "forma", "de", "gobierno", "republicana", "democr\u00e1tica", "representativa", "y", "federal", "la", "argentina", "est\u00e1", "organizada", "como", "un", "estado", "federal", "descentralizado", "integrado", "desde", "por", "veintitr\u00e9s", "provincias", "y", "la", "ciudad", "aut\u00f3noma", "de", "buenos", "aires", "caba", "capital", "federal", "del", "pa\u00edsi", "las", "veinticuatro", "jurisdicciones", "o", "distritos", "autogobernados", "tienen", "constituci\u00f3n", "bandera", "y", "fuerza", "de", "seguridad", "propias", "las", "provincias", "mantienen", "todos", "los", "poderes", "no", "delegados", "al", "estado", "nacional", "tienen", "tres", "poderes", "aut\u00f3nomos", "y", "garantizan", "la", "autonom\u00eda", "de", "sus", "municipios", "integra", "el", "mercosur", "bloque", "del", "que", "fue", "fundador", "en", "la", "comunidad", "de", "estados", "latinoamericanos", "y", "caribe\u00f1os", "celac", "y", "la", "organizaci\u00f3n", "de", "estados", "americanos", "oea", "para", "con", "una", "puntuaci\u00f3n", "neta", "de", "argentina", "es", "el", "segundo", "pa\u00eds", "con", "el", "mayor", "\u00edndice", "de", "desarrollo", "humano", "idh", "de", "am\u00e9rica", "latina", "solamente", "detr\u00e1s", "de", "su", "vecino", "chile", "ajustado", "por", "desigualdad", "la", "argentina", "retrocede", "cuatro", "lugares", "en", "la", "clasificaci\u00f3n", "en", "tanto", "que", "seg\u00fan", "el", "\u00edndice", "de", "desigualdad", "de", "g\u00e9nero", "su", "ubicaci\u00f3n", "retrocede", "al", "puesto", "en", "educaci\u00f3n", "la", "ley", "establece", "que", "el", "gasto", "p\u00fablico", "en", "educaci\u00f3n", "no", "debe", "ser", "inferior", "al", "del", "pbi", "con", "una", "tasa", "de", "alfabetismo", "de", "las", "personas", "mayores", "de", "a\u00f1os", "superior", "al", "la", "econom\u00eda", "argentina", "es", "la", "segunda", "m\u00e1s", "desarrollada", "e", "importante", "en", "sudam\u00e9rica", "seg\u00fan", "el", "banco", "mundial", "su", "pib", "nominal", "es", "el", "\u00ba", "del", "mundo", "debido", "a", "su", "importancia", "geopol\u00edtica", "y", "econ\u00f3mica", "es", "uno", "de", "los", "tres", "estados", "soberanos", "latinoamericanos", "que", "forman", "parte", "del", "denominado", "grupo", "de", "los", "e", "integra", "adem\u00e1s", "el", "grupo", "de", "los", "nic", "o", "nuevos", "pa\u00edses", "industrializados", "es", "el", "\u00fanico", "pa\u00eds", "latinoamericano", "que", "tiene", "un", "centro", "de", "investigaci\u00f3n", "y", "ense\u00f1anza", "cient\u00edfica", "entre", "los", "diez", "mejores", "del", "mundo", "y", "el", "pa\u00eds", "iberoamericano", "con", "mayor", "cantidad", "de", "premios", "nobel", "en", "ciencias", "su", "capacidad", "tecnol\u00f3gica", "y", "cient\u00edfica", "le", "ha", "permitido", "dise\u00f1ar", "producir", "y", "exportar", "sat\u00e9lites", "construir", "reactores", "nucleares", "y", "ser", "el", "primer", "productor", "de", "software", "aeronaves", "entre", "otras", "cosas", "es", "considerada", "una", "potencia", "regional", "ha", "brindado", "una", "creciente", "cooperaci\u00f3n", "nuclear", "a", "pa\u00edses", "de", "am\u00e9rica", "latina", "el", "magreb", "el", "golfo", "p\u00e9rsico", "el", "sudeste", "asi\u00e1tico", "y", "ocean\u00eda", "a", "partir", "de", "las", "capacidades", "desarrolladas", "por", "la", "comisi\u00f3n", "nacional", "de", "energ\u00eda", "at\u00f3mica", "cnea", "y", "por", "la", "prestigiosa", "empresa", "estatal", "invap", "es", "el", "pa\u00eds", "latinoamericano", "que", "m\u00e1s", "premios", "nobel", "ha", "ganado", "cinco", "en", "total", "tres", "de", "ellos", "vinculados", "con", "la", "ciencia", "es", "un", "pa\u00eds", "bicontinental", "con", "una", "superficie", "de", "km\u00b2", "es", "el", "pa\u00eds", "hispanohablante", "m\u00e1s", "extenso", "del", "planeta", "el", "segundo", "m\u00e1s", "grande", "de", "am\u00e9rica", "latina", "y", "octavo", "en", "el", "mundo", "si", "se", "considera", "solo", "la", "superficie", "continental", "sujeta", "a", "soberan\u00eda", "efectiva", "su", "plataforma", "continental", "reconocida", "por", "la", "onu", "en", "alcanza", "los", "km\u00b2", "convirti\u00e9ndose", "en", "una", "de", "las", "m\u00e1s", "grandes", "del", "mundo", "extendi\u00e9ndose", "desde", "el", "continente", "americano", "hasta", "el", "polo", "sur", "en", "la", "ant\u00e1rtida", "a", "trav\u00e9s", "del", "atl\u00e1ntico", "sur", "si", "se", "cuentan", "las", "islas", "malvinas", "georgias", "del", "sur", "sandwich", "del", "sur", "y", "otras", "numerosas", "islas", "menores", "administradas", "por", "el", "reino", "unido", "pero", "de", "soberan\u00eda", "en", "litigio", "m\u00e1s", "una", "porci\u00f3n", "del", "\u00e1rea", "ant\u00e1rtica", "llamada", "ant\u00e1rtida", "argentina", "al", "sur", "del", "paralelo", "\u00b0", "s", "sobre", "la", "cual", "argentina", "reclama", "soberan\u00eda", "la", "superficie", "se", "eleva", "a", "km\u00b2", "es", "uno", "de", "los", "veinte", "pa\u00edses", "que", "tienen", "presencia", "permanente", "en", "la", "ant\u00e1rtida", "siendo", "entre", "ellos", "el", "que", "tiene", "mayor", "cantidad", "de", "bases", "permanentes", "con", "seis", "bases", "en", "total", "su", "territorio", "re\u00fane", "una", "gran", "diversidad", "de", "climas", "causada", "por", "una", "amplitud", "latitudinal", "que", "supera", "los", "\u00b0", "incluyendo", "varias", "zonas", "geoastron\u00f3micas", "una", "diferencia", "en", "la", "altitud", "que", "va", "de", "m", "bajo", "el", "nivel", "del", "mar", "laguna", "del", "carb\u00f3n", "a", "casi", "m", "s", "n", "m", "y", "la", "extensi\u00f3n", "del", "litoral", "mar\u00edtimo", "que", "alcanza", "km", "amplias", "llanuras", "h\u00famedas", "limitan", "con", "extensos", "desiertos", "y", "altas", "monta\u00f1as", "mientras", "que", "la", "presencia", "de", "climas", "tropicales", "y", "subtropicales", "en", "el", "norte", "contrastan", "con", "las", "nevadas", "y", "fr\u00edos", "extremos", "en", "las", "zonas", "cordilleranas", "y", "el", "sur", "su", "territorio", "continental", "americano", "que", "abarca", "gran", "parte", "del", "cono", "sur", "limita", "al", "norte", "con", "bolivia", "y", "paraguay", "al", "nordeste", "con", "brasil", "al", "este", "con", "uruguay", "y", "el", "oc\u00e9ano", "atl\u00e1ntico", "al", "oeste", "con", "chile", "y", "siempre", "en", "su", "sector", "americano", "al", "sur", "con", "chile", "y", "las", "aguas", "atl\u00e1nticas", "del", "pasaje", "de", "drake", "los", "primeros", "registros", "de", "pobladores", "en", "el", "actual", "territorio", "argentino", "se", "remontan", "a", "los", "trece", "mil", "a\u00f1os", "ap", "durante", "el", "paleoamericano", "en", "tiempos", "protohist\u00f3ricos", "periodo", "precolombino", "fue", "habitado", "por", "numerosos", "pueblos", "ind\u00edgenas", "algunos", "de", "los", "cuales", "a\u00fan", "habitan", "el", "pa\u00eds", "entre", "ellos", "guaycur\u00faes", "guaran\u00edes", "mapuches", "tehuelches", "y", "diaguitas", "estos", "\u00faltimos", "formaban", "parte", "del", "imperio", "incaico", "la", "colonizaci\u00f3n", "espa\u00f1ola", "del", "actual", "territorio", "argentino", "comenz\u00f3", "con", "viajes", "exploratorios", "desde", "el", "a\u00f1o", "el", "establecimiento", "de", "una", "poblaci\u00f3n", "en", "y", "la", "distribuci\u00f3n", "del", "territorio", "a", "los", "adelantados", "m\u00e1s", "tarde", "qued\u00f3", "bajo", "la", "jurisdicci\u00f3n", "del", "virreinato", "del", "per\u00fa", "en", "la", "corona", "espa\u00f1ola", "fund\u00f3", "el", "virreinato", "del", "r\u00edo", "de", "la", "plata", "el", "cual", "ser\u00eda", "una", "entidad", "pol\u00edtica", "precedente", "a", "la", "actual", "rep\u00fablica", "argentina", "el", "de", "mayo", "de", "alcanz\u00f3", "la", "independencia", "de", "facto", "cuando", "fue", "depuesto", "el", "\u00faltimo", "virrey", "espa\u00f1ol", "que", "gobern\u00f3", "desde", "buenos", "aires", "organiz\u00e1ndose", "la", "primera", "junta", "de", "gobierno", "el", "d\u00eda", "de", "julio", "de", "fue", "proclamada", "la", "independencia", "en", "san", "miguel", "de", "tucum\u00e1n", "toponimia", "el", "nombre", "oficial", "del", "pa\u00eds", "es", "rep\u00fablica", "argentina", "literalmente", "\"rep\u00fablica", "del", "plata\"", "por", "elipsis", "suele", "denominarse", "\"la", "argentina\"", "el", "uso", "sin", "art\u00edculo", "est\u00e1", "muy", "extendido", "y", "no", "se", "considera", "incorrecto", "si", "bien", "la", "academia", "argentina", "de", "letras", "lo", "ha", "calificado", "de", "\"reprensible\"", "argentina", "es", "el", "femenino", "del", "adjetivo", "po\u00e9tico", "\"argentino\"", "que", "indica", "algo", "que", "tiene", "cualidades", "de", "la", "plata", "o", "relacionado", "con", "ella", "del", "lat\u00edn", "argentum", "que", "significa", "\"plata\"", "argentum", "a", "su", "vez", "procede", "del", "protoit\u00e1lico", "*argentom", "derivado", "del", "protoindoeuropeo", "*hrnt\u00f3m", "sustantivo", "formado", "a", "partir", "del", "adjetivo", "*her", "que", "significa", "blanco", "o", "bien", "\"brillante\"", "argentina", "fue", "una", "denominaci\u00f3n", "po\u00e9tica", "de", "los", "pa\u00edses", "ribere\u00f1os", "del", "plata", "r\u00edo", "llamado", "as\u00ed", "porque", "era", "un", "acceso", "a", "los", "yacimientos", "argent\u00edferos", "del", "alto", "per\u00fa", "donde", "la", "ciudad", "de", "la", "plata", "charcas", "actual", "sucre", "era", "tambi\u00e9n", "llamada", "civitas", "argentina", "ciudad", "argentina", "el", "uso", "como", "top\u00f3nimo", "aunque", "con", "una", "declinaci\u00f3n", "diferente", "aparece", "por", "primera", "vez", "en", "en", "el", "mapa", "de", "lopo", "homem", "donde", "los", "territorios", "de", "la", "regi\u00f3n", "litoral", "son", "llamados", "terra", "argentea", "m\u00e1s", "tarde", "mart\u00edn", "del", "barco", "centenera", "la", "eligi\u00f3", "a", "imitaci\u00f3n", "de", "la", "araucana", "como", "t\u00edtulo", "de", "un", "poema", "\u00e9pico", "sobre", "la", "conquista", "la", "argentina", "desde", "entonces", "y", "hasta", "finales", "del", "siglo", "xviii", "argentina", "y", "argentino", "fueron", "denominaciones", "literarias", "del", "territorio", "y", "los", "pobladores", "de", "la", "regi\u00f3n", "rioplatense", "con", "la", "creaci\u00f3n", "del", "virreinato", "del", "r\u00edo", "de", "la", "plata", "y", "su", "posterior", "independencia", "como", "provincias", "unidas", "del", "r\u00edo", "de", "la", "plata", "argentina", "y", "argentino", "se", "hicieron", "m\u00e1s", "comunes", "aunque", "a", "veces", "con", "una", "connotaci\u00f3n", "restringida", "a", "buenos", "aires", "y", "las", "provincias", "cercanas", "la", "constituci\u00f3n", "de", "us\u00f3", "argentina", "como", "nombre", "oficial", "del", "estado", "y", "desde", "entonces", "a", "pesar", "del", "rechazo", "a", "dicha", "constituci\u00f3n", "fue", "usado", "de", "manera", "habitual", "a", "partir", "de", "la", "d\u00e9cada", "de", "rosas", "formalmente", "gobernador", "de", "buenos", "aires", "era", "el", "\"encargado", "de", "dirigir", "las", "relaciones", "exteriores", "de", "la", "rep\u00fablica", "argentina\"", "la", "reforma", "constitucional", "argentina", "de", "sancion\u00f3", "como", "art\u00edculo", "la", "norma", "que", "estableci\u00f3", "los", "nombres", "oficiales", "del", "pa\u00eds", "vigente", "desde", "entonces", "en", "en", "la", "ciudad", "de", "paran\u00e1", "entonces", "capital", "de", "la", "confederaci\u00f3n", "argentina", "el", "presidente", "derqui", "decret\u00f3", "que", "para", "\"uniformar", "los", "actos", "administrativos\"", "se", "usar\u00eda", "siempre", "rep\u00fablica", "argentina", "dos", "a\u00f1os", "m\u00e1s", "tarde", "en", "bartolom\u00e9", "mitre", "primer", "presidente", "del", "pa\u00eds", "reunificado", "se", "refiri\u00f3", "a", "su", "cargo", "como", "presidente", "de", "la", "naci\u00f3n", "argentina", "historia", "per\u00edodo", "prehisp\u00e1nico", "conquista", "y", "colonizaci\u00f3n", "espa\u00f1ola", "independencia", "primera", "junta", "de", "gobierno", "la", "primera", "junta", "de", "gobierno", "oficialmente", "junta", "provisional", "gubernativa", "de", "las", "provincias", "del", "r\u00edo", "de", "la", "plata", "a", "nombre", "del", "se\u00f1or", "don", "fernando", "vii", "fue", "la", "junta", "de", "gobierno", "surgida", "el", "viernes", "de", "mayo", "de", "en", "buenos", "aires", "capital", "del", "virreinato", "del", "r\u00edo", "de", "la", "plata", "como", "consecuencia", "del", "triunfo", "de", "la", "revoluci\u00f3n", "de", "mayo", "que", "destituy\u00f3", "al", "virrey", "baltasar", "hidalgo", "de", "cisneros", "y", "nombr\u00f3", "a", "cornelio", "saavedra", "como", "el", "presidente", "de", "la", "primera", "junta", "de", "las", "provincias", "unidas", "del", "r\u00edo", "de", "la", "plata", "la", "sede", "del", "gobierno", "fue", "fijada", "en", "el", "fuerte", "de", "buenos", "aires", "que", "sirviera", "desde", "como", "residencia", "de", "los", "virreyes", "y", "donde", "hoy", "se", "encuentra", "la", "casa", "de", "gobierno", "la", "primera", "junta", "existi\u00f3", "como", "tal", "hasta", "el", "de", "diciembre", "del", "mismo", "a\u00f1o", "ya", "que", "con", "la", "incorporaci\u00f3n", "de", "diputados", "del", "interior", "se", "transform\u00f3", "en", "la", "junta", "grande", "que", "dio", "origen", "a", "la", "prolongada", "guerra", "de", "la", "independencia", "de", "las", "provincias", "unidas", "del", "r\u00edo", "de", "la", "plata", "contra", "espa\u00f1a", "mientras", "se", "desarrollaba", "la", "guerra", "de", "independencia", "tambi\u00e9n", "ten\u00eda", "lugar", "una", "compleja", "disputa", "por", "la", "forma", "de", "organizaci\u00f3n", "del", "nuevo", "estado", "que", "gener\u00f3", "en", "el", "inicio", "de", "una", "guerra", "civil", "que", "con", "intermitencias", "durar\u00eda", "m\u00e1s", "de", "medio", "siglo", "el", "l\u00edder", "de", "la", "fracci\u00f3n", "federal", "el", "oriental", "jos\u00e9", "gervasio", "artigas", "fue", "proclamado", "protector", "de", "la", "uni\u00f3n", "de", "los", "pueblos", "libres", "una", "liga", "de", "provincias", "que", "se", "negaban", "a", "ser", "administrados", "por", "el", "gobierno", "unitario", "de", "buenos", "aires", "la", "misma", "organiz\u00f3", "el", "llamado", "congreso", "de", "oriente", "en", "concepci\u00f3n", "del", "uruguay", "del", "cual", "a\u00fan", "se", "discute", "si", "alcanz\u00f3", "a", "proclamar", "como", "se", "propon\u00eda", "la", "independencia", "de", "espa\u00f1a", "el", "de", "julio", "de", "en", "la", "ciudad", "de", "san", "miguel", "de", "tucum\u00e1n", "reunido", "el", "congreso", "de", "diputados", "de", "las", "provincias", "del", "noroeste", "y", "centrooeste", "del", "pa\u00eds", "y", "de", "la", "de", "buenos", "aires", "junto", "con", "algunos", "diputados", "exiliados", "del", "alto", "per\u00fak", "proclam\u00f3", "la", "independencia", "de", "las", "provincias", "unidas", "en", "sud", "am\u00e9rica", "utilizando", "la", "siguiente", "f\u00f3rmula", "en", "varios", "puntos", "de", "sudam\u00e9rica", "los", "nuevos", "gobiernos", "debieron", "enfrentar", "la", "resistencia", "contrarrevolucionaria", "de", "los", "ej\u00e9rcitos", "realistas", "que", "intentaban", "restaurar", "la", "autoridad", "de", "la", "monarqu\u00eda", "espa\u00f1ola", "en", "la", "regi\u00f3n", "comenzaron", "las", "guerras", "por", "la", "independencia", "algunos", "de", "los", "principales", "comandantes", "fueron", "manuel", "belgrano", "al", "mando", "del", "ej\u00e9rcito", "del", "norte", "jos\u00e9", "de", "san", "mart\u00edn", "creador", "del", "ej\u00e9rcito", "de", "los", "andes", "mart\u00edn", "miguel", "de", "g\u00fcemes", "organizador", "de", "la", "guerra", "gaucha", "y", "juana", "azurduy", "comandante", "de", "la", "guerra", "de", "guerrillas", "en", "el", "alto", "per\u00fa", "el", "estado", "argentino", "considera", "a", "san", "mart\u00edn", "como", "el", "mayor", "h\u00e9roe", "militar", "de", "su", "independencia", "y", "lo", "honra", "con", "el", "t\u00edtulo", "de", "padre", "de", "la", "patria", "junto", "a", "sim\u00f3n", "bol\u00edvar", "fueron", "los", "m\u00e1ximos", "responsables", "de", "las", "gestas", "libertadoras", "que", "terminaron", "con", "la", "presencia", "espa\u00f1ola", "en", "el", "continente", "la", "formaci\u00f3n", "del", "estado", "federal", "las", "primeras", "d\u00e9cadas", "como", "pa\u00eds", "independiente", "fueron", "conflictivas", "ante", "la", "hegemon\u00eda", "de", "los", "unitarios", "los", "federales", "se", "alzaron", "repetidamente", "en", "defensa", "de", "la", "autonom\u00eda", "de", "las", "provincias", "llevando", "tras", "la", "llamada", "anarqu\u00eda", "del", "a\u00f1o", "xx", "a", "la", "divisi\u00f3n", "del", "pa\u00eds", "en", "provincias", "aut\u00f3nomas", "gobernadas", "generalmente", "por", "caudillos", "militares", "mientras", "que", "el", "pa\u00eds", "excepto", "un", "breve", "intervalo", "entre", "y", "careci\u00f3", "de", "un", "gobierno", "nacional", "hasta", "cada", "provincia", "asumi\u00f3", "la", "plenitud", "del", "gobierno", "en", "el", "\u00e1mbito", "de", "su", "territorio", "la", "guerra", "de", "la", "independencia", "continu\u00f3", "hasta", "el", "a\u00f1o", "pero", "se", "luch\u00f3", "preferentemente", "en", "la", "frontera", "norte", "y", "en", "el", "per\u00fa", "mientras", "tanto", "la", "provincia", "oriental", "fue", "invadida", "por", "el", "reino", "de", "portugal", "de", "quien", "pas\u00f3", "al", "imperio", "de", "brasil", "la", "consecuente", "guerra", "del", "brasil", "culmin\u00f3", "con", "la", "convenci\u00f3n", "preliminar", "de", "paz", "de", "que", "declar\u00f3", "independiente", "al", "territorio", "en", "disputa", "con", "el", "nombre", "de", "estado", "oriental", "del", "uruguay", "poco", "antes", "en", "el", "alto", "per\u00fa", "form\u00f3", "la", "rep\u00fablica", "de", "bolivia", "y", "al", "a\u00f1o", "siguiente", "le", "fue", "agregada", "la", "ciudad", "de", "tarija", "y", "su", "jurisdicci\u00f3n", "el", "territorio", "restante", "que", "hab\u00eda", "logrado", "aumentar", "en", "algo", "su", "control", "territorial", "con", "algunas", "exitosas", "campa\u00f1as", "militares", "contra", "los", "ind\u00edgenas", "comenz\u00f3", "a", "usar", "el", "nombre", "de", "argentina", "de", "manera", "oficial", "a", "mediados", "de", "la", "d\u00e9cada", "de", "la", "denominaci\u00f3n", "oficial", "provincias", "unidas", "del", "r\u00edo", "de", "la", "plata", "contin\u00faa", "consider\u00e1ndose", "constitucionalmente", "un", "nombre", "alternativo", "para", "el", "pa\u00eds", "aunque", "ha", "ca\u00eddo", "en", "pr\u00e1ctico", "desuso", "a", "principios", "de", "los", "a\u00f1os", "los", "federales", "lograron", "triunfar", "en", "todo", "el", "pa\u00eds", "que", "adopt\u00f3", "el", "nombre", "de", "confederaci\u00f3n", "argentina", "durante", "m\u00e1s", "de", "veinte", "a\u00f1os", "el", "gobernador", "federal", "de", "buenos", "aires", "juan", "manuel", "de", "rosas", "asumi\u00f3", "en", "los", "hechos", "la", "m\u00e1xima", "autoridad", "nacional", "aunque", "en", "teor\u00eda", "solo", "era", "el", "depositario", "de", "la", "representaci\u00f3n", "externa", "del", "conjunto", "de", "las", "provincias", "durante", "la", "\u00e9poca", "de", "su", "hegemon\u00eda", "combati\u00f3", "y", "derrot\u00f3", "sucesivos", "levantamientos", "de", "los", "unitariosm", "un", "bloqueo", "del", "r\u00edo", "de", "la", "plata", "por", "parte", "de", "francia", "y", "luego", "otro", "bloqueo", "conjunto", "por", "parte", "de", "gran", "breta\u00f1a", "y", "francia", "tambi\u00e9n", "mantuvo", "conflictos", "b\u00e9licos", "contra", "la", "confederaci\u00f3n", "per\u00faboliviana", "y", "contra", "el", "llamado", "gobierno", "de", "la", "defensa", "de", "montevideo", "la", "capital", "uruguaya", "debido", "a", "la", "injerencia", "de", "los", "dos", "partidos", "de", "ese", "pa\u00eds", "blancos", "y", "colorados", "en", "las", "guerras", "civiles", "argentinas", "pese", "a", "la", "paz", "que", "fue", "capaz", "de", "imponer", "y", "el", "crecimiento", "econ\u00f3mico", "al", "menos", "de", "las", "provincias", "del", "litoral", "los", "enemigos", "de", "rosas", "reclamaban", "libertades", "individuales", "pol\u00edticas", "y", "de", "expresi\u00f3n", "que", "eran", "f\u00e9rreamente", "anuladas", "por", "el", "gobernador", "porte\u00f1o", "el", "n\u00facleo", "de", "sus", "reclamos", "era", "la", "sanci\u00f3n", "de", "una", "constituci\u00f3n", "pol\u00edtica", "que", "organizara", "formalmente", "el", "estado", "nacional", "y", "garantizara", "los", "derechos", "de", "los", "ciudadanos", "organizaci\u00f3n", "nacional", "en", "rosas", "fue", "derrotado", "en", "la", "batalla", "de", "caseros", "por", "el", "ej\u00e9rcito", "grande", "una", "alianza", "entre", "las", "provincias", "de", "entre", "r\u00edos", "y", "corrientes", "las", "tropas", "coloradas", "de", "uruguay", "y", "otras", "de", "brasil", "la", "alianza", "fue", "encabezada", "por", "el", "federal", "antirrosista", "justo", "jos\u00e9", "de", "urquiza", "gobernador", "de", "entre", "r\u00edos", "quien", "asumi\u00f3", "la", "presidencia", "provisional", "este", "per\u00edodo", "dur\u00f3", "hasta", "la", "sanci\u00f3n", "de", "una", "constituci\u00f3n", "en", "que", "con", "algunos", "cambios", "ha", "regido", "en", "el", "pa\u00eds", "hasta", "la", "actualidad", "la", "misma", "adopt\u00f3", "un", "r\u00e9gimen", "federal", "pero", "la", "provincia", "de", "buenos", "aires", "se", "separ\u00f3", "de", "la", "confederaci\u00f3n", "argentina", "que", "debi\u00f3", "establecer", "su", "capital", "en", "la", "ciudad", "de", "paran\u00e1", "en", "la", "confederaci\u00f3n", "derrot\u00f3", "a", "buenos", "aires", "en", "la", "batalla", "de", "cepeda", "forz\u00e1ndola", "a", "firmar", "el", "pacto", "de", "san", "jos\u00e9", "de", "flores", "por", "el", "cual", "buenos", "aires", "se", "reincorporaba", "a", "la", "que", "desde", "entonces", "pas\u00f3", "a", "llamarse", "rep\u00fablica", "argentina", "no", "obstante", "la", "reunificaci\u00f3n", "definitiva", "fue", "lograda", "bajo", "la", "direcci\u00f3n", "de", "buenos", "aires", "tras", "la", "batalla", "de", "pav\u00f3n", "durante", "la", "presidencia", "de", "bartolom\u00e9", "mitre", "en", "la", "argentina", "se", "involucr\u00f3", "nuevamente", "en", "una", "guerra", "civil", "en", "uruguay", "a", "lo", "cual", "el", "paraguay", "respondi\u00f3", "ocupando", "la", "ciudad", "de", "corrientes", "tras", "firmar", "una", "triple", "alianza", "con", "el", "brasil", "y", "uruguay", "la", "argentina", "tom\u00f3", "parte", "en", "la", "guerra", "de", "la", "triple", "alianza", "contra", "el", "paraguay", "que", "dur\u00f3", "cinco", "a\u00f1os", "y", "requiri\u00f3", "la", "participaci\u00f3n", "de", "diez", "mil", "soldados", "argentinos", "el", "paraguay", "result\u00f3", "finalmente", "derrotado", "en", "quedando", "totalmente", "devastado", "y", "muerta", "una", "gran", "parte", "de", "su", "poblaci\u00f3n", "masculina", "pese", "a", "su", "enorme", "costo", "econ\u00f3mico", "y", "en", "vidas", "humanas", "y", "a", "que", "fue", "causa", "de", "la", "continuaci\u00f3n", "de", "las", "guerras", "civiles", "en", "la", "argentina", "este", "pa\u00eds", "logr\u00f3", "consolidar", "sus", "l\u00edmites", "en", "el", "noreste", "ya", "que", "se", "fij\u00f3", "la", "frontera", "en", "los", "r\u00edos", "pilcomayo", "paraguay", "y", "paran\u00e1", "durante", "las", "presidencias", "de", "mitre", "y", "sobre", "todo", "de", "sarmiento", "y", "avellaneda", "la", "argentina", "se", "insert\u00f3", "en", "la", "econom\u00eda", "mundial", "como", "un", "pa\u00eds", "agroexportador", "sostenido", "por", "una", "amplia", "red", "ferroviaria", "y", "el", "avance", "del", "sistema", "educativo", "tras", "dos", "sangrientas", "revoluciones", "en", "y", "en", "este", "\u00faltimo", "a\u00f1o", "la", "ciudad", "de", "buenos", "aires", "fue", "federalizada", "y", "se", "estableci\u00f3", "un", "equilibrio", "durable", "entre", "las", "provincias", "y", "la", "capital", "gobiernos", "conservadores", "y", "primeros", "gobiernos", "radicales", "entre", "y", "se", "produjeron", "las", "llamadas", "conquista", "del", "desierto", "y", "del", "chaco", "con", "el", "objeto", "de", "dar", "por", "t\u00e9rmino", "a", "los", "constantes", "enfrentamientos", "entre", "ind\u00edgenas", "y", "criollos", "en", "la", "frontera", "y", "apropiarse", "de", "los", "territorios", "ind\u00edgenas", "triplicando", "el", "territorio", "argentino", "la", "primera", "conquista", "impulsada", "por", "julio", "a", "roca", "consisti\u00f3", "en", "una", "serie", "de", "incursiones", "militares", "a", "los", "territorios", "pampeanos", "y", "patag\u00f3nicos", "dominados", "por", "los", "pueblos", "originarios", "reparti\u00e9ndolos", "entre", "los", "miembros", "de", "la", "sociedad", "rural", "financiadores", "de", "las", "expediciones", "la", "conquista", "del", "chaco", "dur\u00f3", "hasta", "fines", "del", "siglo", "dado", "que", "su", "incorporaci\u00f3n", "plena", "al", "sistema", "econ\u00f3mico", "nacional", "solo", "tuvo", "lugar", "cuando", "se", "reemplaz\u00f3", "la", "mera", "extracci\u00f3n", "de", "maderas", "y", "tanino", "por", "la", "producci\u00f3n", "de", "algod\u00f3n", "el", "gobierno", "argentino", "consider\u00f3", "a", "los", "ind\u00edgenas", "como", "seres", "inferiores", "sin", "los", "mismos", "derechos", "que", "los", "criollos", "y", "europeos", "entre", "y", "el", "partido", "autonomista", "nacional", "pan", "monopoliz\u00f3", "el", "poder", "sobre", "la", "base", "de", "elecciones", "fraudulentas", "propiciado", "por", "el", "sistema", "del", "voto", "cantado", "y", "durante", "a\u00f1os", "la", "figura", "excluyente", "fue", "el", "general", "julio", "argentino", "roca", "la", "llamada", "rep\u00fablica", "conservadora", "o", "rep\u00fablica", "olig\u00e1rquica", "organiz\u00f3", "un", "exitoso", "y", "moderno", "modelo", "agroexportador", "basado", "en", "la", "llamada", "divisi\u00f3n", "internacional", "del", "trabajo", "impuesta", "por", "el", "imperio", "brit\u00e1nico", "orientado", "principalmente", "a", "la", "producci\u00f3n", "de", "carne", "y", "granos", "con", "destino", "al", "mercado", "brit\u00e1nico", "en", "el", "relato", "tradicional", "el", "pa\u00eds", "fue", "visto", "en", "esa", "\u00e9poca", "como", "el", "granero", "del", "mundo", "este", "modelo", "econ\u00f3mico", "gener\u00f3", "una", "concentraci\u00f3n", "de", "la", "riqueza", "en", "pocas", "manos", "y", "la", "exclusi\u00f3n", "social", "de", "las", "clases", "trabajadoras", "y", "de", "las", "poblaciones", "asentadas", "fuera", "de", "la", "regi\u00f3n", "pampeana", "la", "econom\u00eda", "alcanz\u00f3", "altos", "niveles", "de", "crecimiento", "que", "atrajeron", "una", "gran", "corriente", "inmigratoria", "principalmente", "constituida", "por", "millones", "de", "italianos", "y", "espa\u00f1oles", "y", "en", "menor", "medida", "de", "seguidos", "de", "europeos", "orientales", "y", "asi\u00e1ticos", "occidentales", "la", "poblaci\u00f3n", "argentina", "que", "representaba", "el", "de", "la", "poblaci\u00f3n", "mundial", "en", "pasar\u00eda", "a", "representar", "el", "en", "proporci\u00f3n", "en", "la", "que", "aproximadamente", "se", "estabilizar\u00eda", "desde", "entonces", "la", "prosperidad", "de", "la", "econom\u00eda", "impuls\u00f3", "el", "crecimiento", "de", "una", "considerable", "clase", "media", "integrada", "mayoritariamente", "por", "inmigrantes", "o", "sus", "descendientes", "los", "inmigrantes", "europeos", "tambi\u00e9n", "introdujeron", "en", "el", "pa\u00eds", "ideas", "pol\u00edticas", "nuevas", "como", "el", "socialismo", "y", "el", "anarquismo", "as\u00ed", "como", "participaron", "junto", "a", "la", "poblaci\u00f3n", "local", "especialmente", "la", "afroargentina", "en", "la", "creaci\u00f3n", "de", "organizaciones", "de", "ayuda", "mutua", "y", "sindicatos", "surgieron", "partidos", "pol\u00edticos", "modernos", "como", "la", "uni\u00f3n", "c\u00edvica", "radical", "ucr", "y", "el", "partido", "socialista", "ps", "despu\u00e9s", "de", "m\u00e1s", "de", "dos", "d\u00e9cadas", "de", "conflictos", "pol\u00edticos", "y", "sociales", "fraudes", "electorales", "y", "graves", "actos", "de", "represi\u00f3n", "en", "fue", "sancionada", "la", "ley", "s\u00e1enz", "pe\u00f1a", "que", "estableci\u00f3", "el", "sufragio", "secreto", "obligatorio", "y", "universal", "para", "votantes", "masculinos", "en", "la", "primera", "elecci\u00f3n", "presidencial", "con", "sufragio", "secreto", "los", "conservadores", "fueron", "desplazados", "del", "poder", "por", "los", "radicales", "dirigidos", "por", "hip\u00f3lito", "yrigoyen", "que", "fue", "presidente", "entre", "y", "y", "entre", "y", "durante", "su", "primer", "gobierno", "se", "inici\u00f3", "el", "movimiento", "estudiantil", "conocido", "como", "la", "reforma", "universitaria", "que", "se", "extendi\u00f3", "por", "toda", "am\u00e9rica", "latina", "y", "se", "produjeron", "las", "masacres", "obreras", "de", "la", "semana", "tr\u00e1gica", "y", "la", "patagonia", "rebelde", "entre", "ambos", "gobiernos", "de", "yrigoyen", "fue", "elegido", "presidente", "el", "tambi\u00e9n", "radical", "marcelo", "torcuato", "de", "alvear", "alternancia", "entre", "golpes", "de", "estado", "y", "reg\u00edmenes", "democr\u00e1ticos", "el", "de", "septiembre", "de", "se", "produjo", "el", "primero", "de", "una", "serie", "de", "golpes", "de", "estado", "en", "argentina", "que", "llev\u00f3", "a", "un", "grupo", "c\u00edvicomilitar", "a", "establecer", "una", "dictadura", "justificada", "por", "la", "corte", "suprema", "como", "gobierno", "de", "facto", "despu\u00e9s", "de", "derrocar", "a", "hip\u00f3lito", "yrigoyen", "este", "golpe", "de", "estado", "inici\u00f3", "una", "secuela", "de", "gobiernos", "fraudulentos", "conocidos", "como", "la", "d\u00e9cada", "infamen", "el", "modelo", "agroexportador", "argentino", "entr\u00f3", "en", "crisis", "por", "el", "cierre", "de", "los", "mercados", "internacionales", "causado", "por", "la", "crisis", "de", "el", "pa\u00eds", "impuls\u00f3", "un", "proceso", "de", "sustituci\u00f3n", "de", "importaciones", "que", "desarroll\u00f3", "un", "amplio", "sector", "industrial", "la", "d\u00e9cada", "infame", "fue", "derrocada", "por", "la", "revoluci\u00f3n", "del", "un", "segundo", "golpe", "de", "estado", "que", "instal\u00f3", "un", "gobierno", "militar", "en", "cuyo", "seno", "se", "producir\u00eda", "una", "alianza", "entre", "sindicatos", "y", "algunos", "militares", "que", "dieron", "origen", "al", "peronismo", "a", "pesar", "de", "la", "presi\u00f3n", "de", "estados", "unidos", "desde", "que", "este", "pa\u00eds", "entr\u00f3", "a", "la", "guerra", "a", "fines", "de", "cuando", "fue", "atacado", "por", "jap\u00f3n", "la", "argentina", "se", "mantuvo", "neutral", "durante", "la", "mayor", "parte", "del", "resto", "de", "la", "ii", "guerra", "mundial", "uni\u00e9ndose", "a", "los", "aliados", "el", "de", "marzo", "de", "durante", "el", "gobierno", "del", "general", "edelmiro", "farrell", "poco", "antes", "de", "la", "terminaci\u00f3n", "de", "la", "guerra", "en", "fue", "elegido", "presidente", "juan", "domingo", "per\u00f3n", "con", "apoyo", "de", "los", "sindicatos", "organizados", "en", "el", "partido", "laborista", "per\u00f3n", "acompa\u00f1ado", "por", "su", "esposa", "evita", "encabez\u00f3", "un", "nuevo", "movimiento", "que", "puso", "el", "acento", "en", "la", "justicia", "social", "la", "soberan\u00eda", "pol\u00edtica", "y", "la", "independencia", "econ\u00f3mica", "bajo", "su", "gobierno", "se", "estableci\u00f3", "el", "sufragio", "femenino", "en", "la", "igualdad", "de", "hombres", "y", "mujeres", "en", "el", "derecho", "familiar", "la", "igualdad", "de", "los", "hijos", "nacidos", "dentro", "o", "fuera", "del", "matrimonio", "la", "gratuidad", "de", "la", "ense\u00f1anza", "universitaria", "se", "erradic\u00f3", "el", "paludismo", "etc", "a", "trav\u00e9s", "de", "la", "fundaci\u00f3n", "eva", "per\u00f3n", "se", "desarroll\u00f3", "una", "ayuda", "social", "sin", "precedentes", "en", "el", "pa\u00eds", "brindando", "apoyo", "econ\u00f3mico", "a", "los", "sectores", "m\u00e1s", "vulnerables", "tambi\u00e9n", "se", "nacionalizaron", "los", "ferrocarriles", "y", "el", "comercio", "exterior", "y", "se", "gener\u00f3", "un", "fuerte", "proceso", "de", "industrializaci\u00f3n", "promoviendo", "la", "industria", "pesada", "en", "per\u00f3n", "fue", "reelegido", "para", "un", "nuevo", "per\u00edodo", "presidencial", "con", "el", "de", "los", "votos", "en", "lo", "que", "constituy\u00f3", "la", "primera", "elecci\u00f3n", "con", "sufragio", "universal", "de", "hombres", "y", "mujeres", "en", "la", "argentina", "en", "muri\u00f3", "evita", "casi", "a\u00f1os", "despu\u00e9s", "ser\u00eda", "declarada", "la", "mujer", "del", "bicentenario", "como", "el", "s\u00edmbolo", "del", "protagonismo", "de", "la", "mujer", "en", "la", "historia", "argentina", "el", "peronismo", "cont\u00f3", "con", "una", "amplia", "adhesi\u00f3n", "de", "la", "poblaci\u00f3n", "pero", "tambi\u00e9n", "con", "un", "fuerte", "rechazo", "de", "los", "sectores", "opositores", "polariz\u00e1ndose", "la", "sociedad", "argentina", "en", "peronistas", "y", "antiperonistas", "su", "pol\u00edtica", "perjudic\u00f3", "a", "los", "intereses", "brit\u00e1nicos", "dominantes", "hasta", "entonces", "en", "la", "econom\u00eda", "que", "apoyaron", "a", "los", "opositores", "el", "inicio", "de", "un", "conflicto", "con", "la", "iglesia", "cat\u00f3lica", "debilit\u00f3", "la", "lealtad", "al", "gobierno", "de", "vastos", "sectores", "y", "unific\u00f3", "a", "la", "oposici\u00f3n", "el", "de", "junio", "de", "una", "conjura", "c\u00edvicomilitar", "utilizando", "unos", "treinta", "aviones", "de", "la", "armada", "y", "de", "la", "fuerza", "a\u00e9rea", "bombardearon", "y", "ametrallaron", "a", "la", "poblaci\u00f3n", "de", "buenos", "aires", "en", "la", "plaza", "de", "mayo", "y", "otros", "lugares", "este", "ataque", "produjo", "v\u00edctimas", "oficialmente", "identificadas", "entre", "ellas", "activistas", "sindicales", "que", "incluyen", "a", "mujeres", "un", "n\u00famero", "de", "muertos", "que", "no", "pudieron", "ser", "individualizados", "debido", "a", "las", "mutilaciones", "y", "m\u00e1s", "de", "heridos", "en", "septiembre", "per\u00f3n", "fue", "derrocado", "por", "un", "nuevo", "golpe", "autodenominado", "revoluci\u00f3n", "libertadora", "que", "proscribi\u00f3", "al", "peronismo", "muchos", "de", "cuyos", "partidarios", "fueron", "encarcelados", "o", "fusilados", "lo", "que", "le", "vali\u00f3", "al", "golpismo", "el", "mote", "de", "revoluci\u00f3n", "fusiladora", "per\u00f3n", "se", "vio", "obligado", "a", "exiliarse", "hasta", "el", "final", "de", "la", "proscripci\u00f3n", "en", "durante", "la", "proscripci\u00f3n", "el", "peronismo", "continuar\u00e1", "teniendo", "influencia", "en", "la", "pol\u00edtica", "y", "el", "sindicalismo", "\u00e1mbito", "en", "el", "que", "gan\u00f3", "la", "mayor\u00eda", "de", "las", "elecciones", "negando", "legitimidad", "a", "las", "autoridades", "instaladas", "por", "medios", "no", "democr\u00e1ticos", "y", "desarrollando", "una", "actividad", "opositora", "conocida", "por", "la", "resistencia", "peronista", "en", "fue", "elegido", "presidente", "arturo", "frondizi", "ucri", "en", "elecciones", "con", "el", "peronismo", "proscripto", "pero", "despu\u00e9s", "de", "realizar", "un", "pacto", "electoral", "con", "per\u00f3n", "siendo", "derrocado", "por", "un", "nuevo", "golpe", "militar", "en", "el", "golpe", "esta", "vez", "tuvo", "la", "particularidad", "de", "que", "el", "poder", "fue", "asumido", "por", "el", "civil", "jos\u00e9", "mar\u00eda", "guido", "nombrado", "presidente", "por", "la", "corte", "suprema", "de", "justicia", "ese", "mismo", "d\u00eda", "tras", "el", "derrocamiento", "y", "arresto", "de", "frondizi", "alegando", "para", "su", "nombramiento", "un", "vac\u00edo", "de", "poder", "a", "pesar", "de", "que", "formalmente", "guido", "ejerc\u00eda", "la", "presidencia", "el", "verdadero", "poder", "material", "resid\u00eda", "en", "la", "esfera", "militar", "durante", "su", "mandato", "se", "agudizaron", "los", "enfrentamientos", "entre", "dos", "facciones", "del", "ej\u00e9rcito", "argentino", "conocidas", "como", "azules", "y", "colorados", "lleg\u00e1ndose", "a", "enfrentamientos", "armados", "la", "victoria", "del", "sector", "azul", "permiti\u00f3", "al", "general", "juan", "carlos", "ongan\u00eda", "reunificar", "al", "ej\u00e9rcito", "con", "el", "peronismo", "todav\u00eda", "proscripto", "y", "el", "expresidente", "frondizi", "detenido", "en", "fue", "elegido", "como", "mandatario", "arturo", "umberto", "illia", "ucrp", "quien", "tambi\u00e9n", "ser\u00eda", "depuesto", "por", "un", "golpe", "militar", "en", "que", "llevar\u00eda", "al", "gobierno", "a", "ongan\u00eda", "su", "dictadura", "la", "primera", "de", "las", "tres", "que", "conformaron", "la", "autodenominada", "revoluci\u00f3n", "argentina", "fue", "tambi\u00e9n", "la", "primera", "dictadura", "permanente", "instalada", "en", "el", "marco", "de", "los", "reg\u00edmenes", "militares", "que", "se", "multiplicaron", "en", "am\u00e9rica", "latina", "con", "apoyo", "activo", "de", "estados", "unidos", "a", "trav\u00e9s", "de", "la", "escuela", "de", "las", "am\u00e9ricas", "y", "la", "doctrina", "de", "la", "seguridad", "nacional", "en", "el", "marco", "global", "de", "la", "guerra", "fr\u00eda", "la", "abolici\u00f3n", "de", "la", "actividad", "pol\u00edtica", "y", "el", "terrorismo", "de", "estado", "provoc\u00f3", "un", "estado", "insurreccional", "de", "la", "poblaci\u00f3n", "que", "se", "manifest\u00f3", "en", "la", "aparici\u00f3n", "de", "varias", "organizaciones", "guerrilleras", "como", "montoneros", "las", "far", "y", "el", "erp", "y", "gran", "cantidad", "de", "puebladas", "insurreccionales", "como", "el", "cordobazo", "el", "rosariazo", "y", "el", "tucumanazo", "entre", "otras", "acorralada", "por", "la", "insurrecci\u00f3n", "popular", "la", "dictadura", "organiz\u00f3", "una", "salida", "electoral", "con", "participaci\u00f3n", "del", "peronismo", "aunque", "impidiendo", "la", "candidatura", "de", "per\u00f3n", "en", "el", "peronismo", "fue", "legalizado", "y", "triunf\u00f3", "en", "las", "elecciones", "presidenciales", "dando", "inicio", "a", "lo", "que", "ha", "dado", "en", "llamarse", "el", "tercer", "peronismo", "tras", "la", "renuncia", "del", "presidente", "h\u00e9ctor", "jos\u00e9", "c\u00e1mpora", "ese", "mismo", "a\u00f1o", "juan", "domingo", "per\u00f3n", "fue", "elegido", "presidente", "por", "tercera", "vez", "precipitando", "as\u00ed", "su", "muerte", "nueve", "meses", "despu\u00e9s", "lo", "sucedi\u00f3", "su", "vicepresidenta", "y", "esposa", "mar\u00eda", "estela", "mart\u00ednez", "de", "per\u00f3n", "este", "per\u00edodo", "se", "caracteriz\u00f3", "por", "un", "acelerado", "deterioro", "de", "la", "situaci\u00f3n", "interna", "producto", "de", "la", "crisis", "del", "petr\u00f3leo", "de", "y", "la", "generalizada", "violencia", "pol\u00edtica", "incluyendo", "la", "organizaci\u00f3n", "desde", "el", "gobierno", "de", "una", "fuerza", "parapolicial", "llamada", "la", "alianza", "anticomunista", "argentina", "triple", "a", "que", "junto", "a", "las", "fuerzas", "policiales", "y", "militares", "asesinaron", "a", "cientos", "de", "opositores", "desde", "varios", "de", "ellos", "detenidos", "desaparecidos", "as\u00ed", "como", "la", "instalaci\u00f3n", "de", "centros", "clandestinos", "de", "detenci\u00f3n", "en", "el", "marco", "de", "la", "represi\u00f3n", "ordenada", "por", "los", "llamados", "decretos", "de", "aniquilamiento", "el", "de", "marzo", "de", "se", "produjo", "un", "nuevo", "golpe", "militar", "que", "instal\u00f3", "una", "nueva", "dictadura", "permanente", "autodenominada", "proceso", "de", "reorganizaci\u00f3n", "nacional", "que", "durar\u00eda", "casi", "ocho", "a\u00f1os", "y", "que", "estar\u00eda", "internacionalmente", "coordinada", "con", "las", "dem\u00e1s", "dictaduras", "sudamericanas", "mediante", "el", "plan", "c\u00f3ndor", "bajo", "el", "amparo", "de", "estados", "unidos", "durante", "la", "misma", "se", "implant\u00f3", "un", "r\u00e9gimen", "de", "terrorismo", "de", "estado", "que", "llev\u00f3", "a", "cabo", "un", "plan", "sistem\u00e1tico", "de", "secuestro", "tortura", "y", "eliminaci\u00f3n", "de", "opositores", "calificado", "por", "la", "justicia", "de", "genocidio", "causando", "miles", "desaparecidos", "y", "cientos", "de", "ni\u00f1os", "que", "sufrieron", "la", "supresi\u00f3n", "de", "su", "identidad", "como", "respuesta", "se", "formaron", "organizaciones", "de", "derechos", "humanos", "como", "las", "madres", "de", "plaza", "de", "mayo", "y", "las", "abuelas", "de", "plaza", "de", "mayo", "que", "desempe\u00f1ar\u00e1n", "un", "rol", "crucial", "en", "el", "juicio", "y", "castigo", "a", "los", "culpables", "y", "en", "la", "recuperaci\u00f3n", "de", "los", "beb\u00e9s", "secuestrados", "cuya", "identidad", "hab\u00eda", "sido", "suprimida", "tambi\u00e9n", "el", "movimiento", "sindical", "opuso", "una", "fuerte", "resistencia", "llegando", "a", "declarar", "varias", "huelgas", "generales", "a", "pesar", "de", "las", "desapariciones", "que", "lo", "afectaron", "masivamente", "la", "disoluci\u00f3n", "de", "la", "cgt", "y", "la", "intervenci\u00f3n", "de", "los", "sindicatos", "la", "dictadura", "cont\u00f3", "con", "apoyo", "activo", "de", "los", "principales", "grupos", "empresariales", "ocupando", "funciones", "claves", "del", "gobierno", "as\u00ed", "como", "del", "fondo", "monetario", "internacional", "las", "empresas", "multinacionales", "los", "principales", "medios", "de", "prensa", "junto", "a", "periodistas", "y", "comunicadores", "destacados", "el", "plan", "econ\u00f3mico", "sigui\u00f3", "los", "lineamientos", "de", "la", "escuela", "de", "chicago", "frecuentemente", "identificada", "con", "el", "neoliberalismo", "un", "sector", "importante", "de", "la", "poblaci\u00f3n", "apoy\u00f3", "la", "dictadura", "en", "tanto", "que", "otro", "sector", "la", "resisti\u00f3", "mediante", "la", "acci\u00f3n", "guerrillera", "la", "creaci\u00f3n", "de", "organizaciones", "de", "derechos", "humanos", "como", "las", "madres", "de", "plaza", "de", "mayo", "o", "la", "acci\u00f3n", "sindical", "y", "las", "huelgas", "la", "deuda", "externa", "que", "condicionar\u00e1", "a", "los", "gobiernos", "democr\u00e1ticos", "a", "partir", "de", "pas\u00f3", "de", "millones", "en", "a", "millones", "de", "d\u00f3lares", "en", "en", "muchos", "casos", "fruto", "de", "operaciones", "delictivas", "en", "beneficio", "de", "los", "grupos", "econ\u00f3micos", "y", "las", "empresas", "multinacionales", "en", "se", "produjo", "una", "grave", "crisis", "con", "chile", "por", "los", "l\u00edmites", "en", "la", "zona", "del", "canal", "beagle", "que", "llev\u00f3", "a", "ambos", "pa\u00edses", "al", "borde", "de", "la", "guerra", "en", "se", "desarroll\u00f3", "la", "guerra", "de", "las", "malvinas", "con", "el", "reino", "unido", "la", "derrota", "argentina", "fue", "uno", "de", "los", "factores", "que", "llevaron", "al", "colapso", "del", "r\u00e9gimen", "militar", "y", "al", "llamado", "a", "elecciones", "generales", "para", "el", "a\u00f1o", "siguiente", "recuperaci\u00f3n", "de", "la", "democracia", "kirchnerismo", "y", "macrismo", "el", "de", "diciembre", "de", "asumi\u00f3", "el", "presidente", "electo", "javier", "milei", "como", "presidente", "de", "argentina", "en", "el", "palacio", "del", "congreso", "de", "la", "naci\u00f3n", "argentina", "donde", "recibi\u00f3", "la", "banda", "y", "bast\u00f3n", "del", "expresidente", "alberto", "fern\u00e1ndez", "gobierno", "y", "pol\u00edtica", "poder", "ejecutivo", "poder", "legislativo", "poder", "judicial", "ministerio", "p\u00fablico", "gobiernos", "provinciales", "relaciones", "exteriores", "defensa", "y", "seguridad", "fuerzas", "armadas", "fuerzas", "de", "seguridad", "la", "seguridad", "de", "las", "aguas", "territoriales", "corresponde", "a", "la", "prefectura", "naval", "argentina", "pna", "la", "de", "regiones", "fronterizas", "y", "obras", "de", "infraestructura", "cr\u00edticas", "a", "la", "gendarmer\u00eda", "nacional", "argentina", "gna", "y", "la", "de", "los", "aeropuertos", "a", "la", "polic\u00eda", "de", "seguridad", "aeroportuaria", "psa", "estas", "fuerzas", "de", "seguridad", "dependen", "del", "ministerio", "de", "seguridad", "el", "sistema", "de", "inteligencia", "nacional", "dirige", "las", "acciones", "de", "inteligencia", "dentro", "de", "los", "que", "se", "destaca", "la", "agencia", "federal", "de", "inteligencia", "afi", "aunque", "tambi\u00e9n", "existen", "diferentes", "organismos", "p\u00fablicos", "como", "la", "direcci\u00f3n", "de", "observaciones", "judiciales", "el", "departamento", "de", "intercepci\u00f3n", "y", "captaci\u00f3n", "de", "las", "comunicaciones", "la", "inteligencia", "de", "la", "gendarmer\u00eda", "nacional", "la", "oficina", "anticorrupci\u00f3n", "entre", "otras", "cada", "provincia", "cuenta", "con", "su", "propia", "polic\u00eda", "que", "puede", "trabajar", "en", "conjunto", "con", "la", "pfa", "la", "fuerza", "de", "seguridad", "que", "se", "encarga", "de", "los", "delitos", "de", "\u00e1mbito", "exclusivamente", "federal", "o", "que", "involucran", "a", "m\u00e1s", "de", "una", "jurisdicci\u00f3n", "la", "polic\u00eda", "federal", "fue", "hasta", "la", "fuerza", "policial", "de", "la", "ciudad", "de", "buenos", "aires", "cuando", "el", "entonces", "jefe", "de", "gobierno", "porte\u00f1o", "mauricio", "macri", "cre\u00f3", "la", "polic\u00eda", "metropolitana", "de", "buenos", "aires", "la", "misma", "fue", "creada", "en", "el", "marco", "de", "la", "ley", "n\u00ba", "de", "seguridad", "p\u00fablica", "que", "fue", "sancionada", "el", "de", "octubre", "de", "y", "promulgada", "por", "medio", "del", "decreto", "del", "de", "noviembre", "de", "ese", "a\u00f1o", "la", "reglamentaci\u00f3n", "de", "la", "norma", "se", "registr\u00f3", "el", "de", "marzo", "de", "por", "medio", "del", "decreto", "derechos", "humanos", "en", "su", "constituci\u00f3n", "argentina", "establece", "la", "jerarqu\u00eda", "constitucional", "de", "los", "tratados", "de", "derechos", "humanos", "de", "acuerdo", "con", "el", "informe", "sobre", "desarrollo", "humano", "del", "programa", "de", "las", "naciones", "unidas", "para", "el", "desarrollo", "de", "la", "argentina", "tiene", "un", "\u00edndice", "de", "desarrollo", "humano", "idh", "de", "a", "nivel", "mundial", "se", "sit\u00faa", "en", "el", "puesto", "dentro", "de", "los", "estados", "que", "participan", "en", "la", "clasificaci\u00f3n", "encasillado", "como", "un", "pa\u00eds", "de", "idh", "muy", "alto", "que", "junto", "con", "chile", "y", "uruguay", "son", "los", "\u00fanicos", "pa\u00edses", "de", "am\u00e9rica", "latina", "que", "se", "encuentran", "en", "este", "nivel", "de", "idh", "en", "materia", "de", "derechos", "humanos", "respecto", "a", "la", "pertenencia", "a", "los", "siete", "organismos", "de", "la", "carta", "internacional", "de", "derechos", "humanos", "que", "incluyen", "al", "comit\u00e9", "de", "derechos", "humanos", "hrc", "argentina", "ha", "firmado", "o", "ratificado", "organizaci\u00f3n", "territorial", "provincias", "ciudad", "aut\u00f3noma", "de", "buenos", "aires", "regiones", "para", "el", "desarrollo", "econ\u00f3mico", "y", "social", "geograf\u00eda", "geograf\u00eda", "pol\u00edtica", "ubicaci\u00f3n", "regiones", "naturales", "relieve", "hidrograf\u00eda", "clima", "efectos", "del", "cambio", "clim\u00e1tico", "problemas", "ambientales", "s\u00edmbolos", "patrios", "bandera", "sol", "de", "mayo", "escudo", "himno", "escarapela", "lema", "logo", "s\u00edmbolos", "patrios", "provinciales", "flora", "y", "fauna", "flora", "fauna", "bosques", "econom\u00eda", "agricultura", "y", "ganader\u00eda", "petr\u00f3leo", "miner\u00eda", "manufacturas", "turismo", "transporte", "energ\u00eda", "el", "sector", "el\u00e9ctrico", "en", "la", "argentina", "se", "organiza", "a", "partir", "de", "la", "articulaci\u00f3n", "de", "entidades", "o", "empresas", "que", "desarrollan", "la", "generaci\u00f3n", "el", "transporte", "y", "la", "distribuci\u00f3n", "de", "la", "energ\u00eda", "en", "argentina", "fue", "el", "\u00ba", "mayor", "productor", "de", "gas", "natural", "del", "mundo", "millones", "de", "metros", "c\u00fabicos", "el", "\u00ba", "mayor", "productor", "de", "petr\u00f3leo", "del", "mundo", "barrilesd\u00eda", "el", "er", "mayor", "productor", "de", "energ\u00eda", "hidroel\u00e9ctrica", "del", "mundo", "con", "gw", "de", "potencia", "instalada", "el", "\u00ba", "mayor", "productor", "de", "energ\u00eda", "e\u00f3lica", "del", "mundo", "con", "gw", "de", "potencia", "instalada", "y", "el", "\u00ba", "mayor", "productor", "de", "energ\u00eda", "solar", "del", "mundo", "con", "gw", "de", "potencia", "instalada", "el", "potencial", "e\u00f3lico", "de", "la", "regi\u00f3n", "de", "la", "patagonia", "se", "considera", "gigantesco", "con", "estimaciones", "de", "que", "el", "\u00e1rea", "podr\u00eda", "proporcionar", "suficiente", "electricidad", "para", "sostener", "el", "consumo", "de", "un", "pa\u00eds", "como", "brasil", "solo", "sin", "embargo", "argentina", "tiene", "deficiencias", "de", "infraestructura", "para", "llevar", "a", "cabo", "la", "transmisi\u00f3n", "de", "energ\u00eda", "el\u00e9ctrica", "desde", "\u00e1reas", "deshabitadas", "y", "con", "mucho", "viento", "hacia", "los", "grandes", "centros", "del", "pa\u00eds", "la", "generaci\u00f3n", "de", "energ\u00eda", "el\u00e9ctrica", "alcanz\u00f3", "los", "gwh", "en", "lo", "que", "representa", "un", "crecimiento", "de", "algo", "m\u00e1s", "del", "respecto", "de", "los", "gwh", "registrados", "en", "el", "se", "gener\u00f3", "en", "plantas", "t\u00e9rmicas", "el", "hidr\u00e1ulicas", "el", "nucleares", "y", "solamente", "el", "e\u00f3licas", "y", "solares", "el", "desarrollo", "de", "instalaciones", "de", "generaci\u00f3n", "de", "energ\u00eda", "a", "partir", "de", "recursos", "renovables", "se", "encuentra", "en", "pleno", "desarrollo", "hacia", "finales", "del", "a\u00f1o", "exist\u00eda", "una", "potencia", "instalada", "de", "mw", "de", "generaci\u00f3n", "de", "energ\u00eda", "e\u00f3lica", "en", "la", "regi\u00f3n", "patag\u00f3nica", "y", "noroeste", "argentino", "y", "mw", "de", "generaci\u00f3n", "de", "energ\u00eda", "solar", "en", "la", "regi\u00f3n", "cuyana", "argentina", "cuenta", "con", "gran", "potencial", "de", "generaci\u00f3n", "de", "energ\u00eda", "mareomotriz", "dadas", "las", "condiciones", "de", "las", "corrientes", "y", "la", "amplitud", "de", "mareas", "de", "la", "costa", "patag\u00f3nica", "en", "diciembre", "de", "se", "instalaron", "en", "la", "provincia", "de", "santa", "cruz", "los", "primeros", "dos", "equipos", "para", "la", "obtenci\u00f3n", "de", "datos", "sobre", "la", "potencialidad", "de", "este", "recurso", "esta", "naci\u00f3n", "fue", "la", "primera", "en", "am\u00e9rica", "latina", "en", "construir", "una", "central", "nuclear", "actualmente", "cuenta", "con", "tres", "campos", "nucleares", "atucha", "i", "juan", "domingo", "per\u00f3n", "atucha", "ii", "dr", "n\u00e9stor", "kirchner", "y", "embalse", "y", "una", "cuarta", "en", "per\u00edodo", "de", "construcci\u00f3n", "el", "desarrollo", "de", "la", "energ\u00eda", "geot\u00e9rmica", "pr\u00e1cticamente", "no", "presenta", "avances", "destacables", "pese", "a", "la", "presencia", "de", "afluentes", "termales", "y", "la", "evidencia", "de", "actividad", "volc\u00e1nica", "potencial", "en", "diversos", "puntos", "del", "pa\u00eds", "el", "transporte", "de", "energ\u00eda", "el\u00e9ctrica", "se", "desarrolla", "a", "trav\u00e9s", "de", "una", "red", "de", "l\u00edneas", "de", "alta", "tensi\u00f3n", "y", "distribuci\u00f3n", "troncal", "de", "km", "de", "longitud", "lo", "que", "representa", "un", "incremento", "de", "m\u00e1s", "del", "en", "la", "longitud", "del", "sistema", "de", "redes", "existente", "en", "la", "distribuci\u00f3n", "de", "energ\u00eda", "el\u00e9ctrica", "est\u00e1", "a", "cargo", "de", "empresas", "que", "a", "fines", "del", "a\u00f1o", "sumaban", "m\u00e1s", "de", "entidades", "cubriendo", "un", "\u00e1rea", "de", "km\u00b2", "lo", "que", "representa", "algo", "m\u00e1s", "del", "de", "la", "superficie", "del", "pa\u00eds", "y", "proporcionando", "el", "servicio", "a", "usuarios", "de", "peque\u00f1os", "consumos", "demanda", "menor", "a", "kwhbimestre", "la", "mayor\u00eda", "usuarios", "residenciales", "en", "se", "produjeron", "m\u00b3", "de", "petr\u00f3leo", "y", "millones", "de", "metros", "c\u00fabicos", "de", "gas", "natural", "paralelamente", "durante", "los", "\u00faltimos", "a\u00f1os", "cobr\u00f3", "notoriedad", "el", "hallazgo", "de", "grandes", "vol\u00famenes", "de", "hidrocarburos", "en", "reservorios", "no", "convencionales", "ie", "gas", "de", "lutita", "seg\u00fan", "un", "informe", "argentina", "estar\u00eda", "en", "el", "segundo", "puesto", "a", "nivel", "mundial", "en", "cuanto", "a", "este", "tipo", "de", "reservas", "ciencia", "y", "tecnolog\u00eda", "medios", "de", "comunicaci\u00f3n", "telecomunicaciones", "diarios", "poblaci\u00f3n", "demograf\u00eda", "composici\u00f3n", "\u00e9tnica", "emigraci\u00f3n", "inmigraci\u00f3n", "el", "censo", "nacional", "de", "estim\u00f3", "que", "al", "momento", "resid\u00edan", "en", "argentina", "un", "total", "de", "inmigrantes", "nacidos", "en", "otro", "pa\u00eds", "equivalente", "a", "un", "de", "la", "poblaci\u00f3n", "y", "registrando", "por", "primera", "vez", "desde", "el", "pico", "de", "un", "leve", "incremento", "en", "el", "porcentaje", "de", "extranjeros", "relativo", "a", "los", "nativos", "y", "luego", "del", "m\u00ednimo", "hist\u00f3rico", "alcanzado", "en", "de", "acuerdo", "con", "dos", "sucesivos", "informes", "de", "la", "organizaci\u00f3n", "de", "las", "naciones", "unidas", "onu", "al", "argentina", "contaba", "con", "inmigrantes", "y", "al", "con", "equivalentes", "a", "un", "y", "de", "la", "poblaci\u00f3n", "respectivamente", "asentando", "esta", "tendencia", "creciente", "la", "tasa", "de", "extranjeros", "en", "proporci\u00f3n", "a", "los", "nacidos", "en", "el", "pa\u00eds", "es", "muy", "peque\u00f1a", "en", "comparaci\u00f3n", "con", "otras", "naciones", "\u00ba", "pero", "medido", "en", "t\u00e9rminos", "absolutos", "argentina", "es", "el", "mayor", "receptor", "de", "inmigrantes", "de", "toda", "am\u00e9rica", "latina", "as\u00ed", "como", "el", "que", "m\u00e1s", "cantidad", "tiene", "en", "la", "regi\u00f3n", "y", "se", "ubica", "\u00ba", "en", "el", "ranking", "mundial", "las", "mayores", "comunidades", "inmigrantes", "seg\u00fan", "los", "censos", "nacionales", "de", "y", "fuente", "instituto", "nacional", "de", "estad\u00edstica", "y", "censos", "indec", "pueblos", "ind\u00edgenas", "salud", "discapacidad", "en", "el", "indec", "llev\u00f3", "a", "cabo", "una", "encuesta", "nacional", "en", "localidades", "de", "m\u00e1s", "de", "habitantes", "de", "la", "que", "surgi\u00f3", "que", "el", "de", "la", "poblaci\u00f3n", "total", "padece", "alg\u00fan", "tipo", "de", "discapacidadp", "de", "ese", "total", "un", "tiene", "alguna", "discapacidad", "motora", "con", "un", "con", "dificultades", "para", "caminar", "un", "con", "dificultades", "en", "los", "miembros", "superiores", "y", "con", "ambas", "otro", "del", "conjunto", "de", "las", "personas", "con", "discapacidades", "tiene", "dificultades", "visuales", "de", "las", "cuales", "el", "casi", "uno", "de", "cada", "mil", "habitantes", "son", "completamente", "no", "videntes", "del", "total", "de", "personas", "con", "discapacidad", "el", "tiene", "dificultades", "en", "la", "audici\u00f3n", "de", "los", "cuales", "el", "no", "pueden", "o\u00edr", "sin", "aud\u00edfono", "un", "de", "la", "poblaci\u00f3n", "total", "del", "total", "de", "personas", "con", "dificultades", "el", "tiene", "dificultades", "en", "el", "habla", "y", "de", "ellos", "el", "algo", "menos", "de", "uno", "de", "cada", "mil", "habitantes", "no", "puede", "hablar", "en", "absoluto", "un", "tiene", "dificultades", "para", "comprender", "lo", "que", "oye", "o", "aprender", "lo", "que", "estudia", "o", "se", "le", "ense\u00f1a", "un", "del", "total", "de", "la", "poblaci\u00f3n", "de", "entre", "los", "cuales", "uno", "de", "cada", "ocho", "afirma", "no", "poder", "aprender", "nada", "el", "mismo", "estudio", "detalla", "tambi\u00e9n", "que", "el", "porcentaje", "de", "personas", "de", "m\u00e1s", "de", "catorce", "a\u00f1os", "de", "edad", "con", "alguna", "discapacidad", "que", "desempe\u00f1a", "alguna", "tarea", "remunerada", "es", "del", "pero", "alcanzando", "al", "para", "el", "grupo", "de", "edad", "de", "entre", "y", "a\u00f1os", "y", "disminuyendo", "al", "para", "a\u00f1os", "de", "edad", "y", "m\u00e1s", "urbanizaci\u00f3n", "ciudades", "principales", "cultura", "literatura", "m\u00fasica", "cine", "teatro", "pintura", "historieta", "idioma", "religi\u00f3n", "educaci\u00f3n", "museos", "espacios", "de", "memoria", "y", "salas", "de", "espect\u00e1culos", "los", "museos", "m\u00e1s", "sobresalientes", "son", "el", "museo", "hist\u00f3rico", "nacional", "de", "argentina", "y", "el", "malba", "donde", "se", "hacen", "exposiciones", "de", "pintura", "y", "escultura", "son", "muy", "importantes", "tambi\u00e9n", "los", "museos", "paleontol\u00f3gicos", "de", "la", "patagonia", "trelew", "plaza", "huincul", "etc", "las", "ruinas", "jesu\u00edticas", "de", "san", "ignacio", "en", "misiones", "o", "el", "palacio", "san", "jos\u00e9", "en", "entre", "r\u00edos", "tambi\u00e9n", "son", "importantes", "los", "espacios", "de", "memoria", "creados", "donde", "funcionaron", "centros", "de", "detenci\u00f3n", "clandestina", "durante", "la", "dictadura", "de", "videla", "como", "la", "esma", "en", "buenos", "aires", "y", "la", "perla", "en", "c\u00f3rdoba", "por", "otro", "lado", "se", "destaca", "la", "actividad", "cultural", "veraniega", "en", "mar", "del", "plata", "y", "villa", "carlos", "paz", "y", "las", "fiestas", "y", "festivales", "populares", "como", "el", "festival", "de", "cosqu\u00edn", "o", "el", "de", "jes\u00fas", "mar\u00eda", "en", "la", "provincia", "de", "c\u00f3rdoba", "el", "carnaval", "de", "gualeguaych\u00fa", "es", "el", "espect\u00e1culo", "teatral", "a", "cielo", "abierto", "m\u00e1s", "grande", "de", "la", "argentina", "y", "considerado", "el", "tercer", "carnaval", "m\u00e1s", "importante", "del", "mundo", "cientos", "de", "fiestas", "nacionales", "se", "desarrollan", "en", "el", "pa\u00eds", "durante", "todo", "el", "a\u00f1o", "en", "buenos", "aires", "existen", "alrededor", "de", "cines", "y", "teatros", "con", "una", "abundante", "cartelera", "de", "espect\u00e1culos", "la", "capital", "de", "argentina", "tambi\u00e9n", "se", "distingue", "en", "la", "presentaci\u00f3n", "de", "espect\u00e1culos", "o", "artistas", "de", "renombre", "internacional", "se", "encuentran", "entre", "otros", "los", "centros", "culturales", "como", "el", "borges", "el", "recoleta", "o", "el", "san", "mart\u00edn", "gastronom\u00eda", "deporte", "d\u00edas", "festivos", "v\u00e9ase", "tambi\u00e9n", "portalargentina", "contenido", "relacionado", "con", "argentina", "notas", "referencias", "bibliograf\u00eda", "abad", "de", "santill\u00e1n", "diego", "historia", "argentina", "buenos", "aires", "tea", "tipogr\u00e1fica", "editora", "argentina", "alonso", "roberto", "elisalde", "v\u00e1zquez", "enrique", "historia", "argentina", "y", "el", "mundo", "contempor\u00e1neo", "buenos", "aires", "editorial", "aique", "isbn", "gerchunoff", "pablo", "llach", "lucas", "el", "ciclo", "de", "la", "ilusi\u00f3n", "y", "el", "desencanto", "un", "siglo", "de", "pol\u00edticas", "econ\u00f3micas", "argentinas", "buenos", "aires", "ariel", "isbn", "gu\u00eda", "tur\u00edstica", "argentina", "buenos", "aires", "autom\u00f3vil", "club", "argentino", "isbn", "lopresti", "roberto", "p", "constituci\u00f3n", "argentina", "comentada", "buenos", "aires", "unilat", "isbn", "luna", "f\u00e9lix", "breve", "historia", "de", "los", "argentinos", "buenos", "aires", "planetaespejo", "de", "la", "argentina", "isbn", "enlaces", "externos", "wikimedia", "commons", "alberga", "una", "galer\u00eda", "multimedia", "sobre", "argentina", "wikimedia", "atlas", "argentina", "wikcionario", "tiene", "definiciones", "y", "otra", "informaci\u00f3n", "sobre", "argentina", "wikisource", "contiene", "obras", "originales", "de", "o", "sobre", "argentina", "wikiviajes", "alberga", "gu\u00edas", "de", "viajes", "de", "o", "sobre", "argentina", "portal", "oficial", "del", "estado", "argentino", "sitio", "oficial", "de", "la", "presidencia", "de", "la", "naci\u00f3n", "sitio", "oficial", "de", "la", "secretar\u00eda", "de", "turismo", "perfiles", "de", "pa\u00edses", "argentina", "academia", "argentina", "de", "letras", "sobre", "el", "uso", "del", "art\u00edculo", "la", "ante", "el", "nombre", "de", "nuestro", "pa\u00eds", "y", "de", "algunas", "provincias", "de", "la", "argentina", "p\u00e1gina"]
+argentina, oficialmente república argentina,[a]​ es un país soberano de américa del sur, ubicado en el extremo sur y sudeste de dicho subcontinente. adopta la forma de gobierno republicana, democrática, representativa y federal.
+la argentina está organizada como un estado federal descentralizado, integrado desde 1994 por veintitrés provincias y la ciudad autónoma de buenos aires (caba), capital federal del país.[8]​[i]​ las veinticuatro jurisdicciones o distritos autogobernados tienen constitución, bandera y fuerza de seguridad propias. las provincias mantienen todos los poderes no delegados al estado nacional, tienen tres poderes autónomos y garantizan la autonomía de sus municipios.[9]​[10]​
+integra el mercosur —bloque del que fue fundador en 1991—, la comunidad de estados latinoamericanos y caribeños (celac) y la organización de estados americanos (oea).
+para 2020, con una puntuación neta de 0,845, argentina es el segundo país con el mayor índice de desarrollo humano (idh) de américa latina, solamente detrás de su vecino chile.[11]​ ajustado por desigualdad la argentina retrocede cuatro lugares en la clasificación, en tanto que según el índice de desigualdad de género su ubicación retrocede al puesto 75.[11]​ en educación la ley establece que el gasto público en educación no debe ser inferior al 6 % del pbi,[12]​ con una tasa de alfabetismo de las personas mayores de 15 años superior al 99 %.[13]​
+la economía argentina es la segunda más desarrollada e importante en sudamérica. según el banco mundial, su pib nominal es el 27.º del mundo.[14]​ debido a su importancia geopolítica y económica, es uno de los tres estados soberanos latinoamericanos que forman parte del denominado grupo de los 20 e integra además el grupo de los nic o nuevos países industrializados.[15]​
+es el único país latinoamericano que tiene un centro de investigación y enseñanza científica entre los diez mejores del mundo,[16]​ y el país iberoamericano con mayor cantidad de premios nobel en ciencias. su capacidad tecnológica y científica le ha permitido diseñar, producir y exportar satélites,[17]​ construir reactores nucleares y ser el primer productor de software, aeronaves, entre otras cosas. es considerada una potencia regional.[18]​
+ha brindado una creciente cooperación nuclear a países de américa latina, el magreb, el golfo pérsico, el sudeste asiático y oceanía, a partir de las capacidades desarrolladas por la comisión nacional de energía atómica (cnea) y por la prestigiosa empresa estatal invap.[19]​ es el país latinoamericano que más premios nobel ha ganado —cinco en total—, tres de ellos vinculados con la ciencia.
+es un país bicontinental con una superficie de 2 780 400 km²,[2]​ es el país hispanohablante más extenso del planeta, el segundo más grande de américa latina y octavo en el mundo, si se considera solo la superficie continental sujeta a soberanía efectiva. su plataforma continental, reconocida por la onu en 2016, alcanza los 6 581 500 km²,[20]​ convirtiéndose en una de las más grandes del mundo,[21]​ extendiéndose desde el continente americano hasta el polo sur en la antártida, a través del atlántico sur. si se cuentan las islas malvinas, georgias del sur, sandwich del sur y otras numerosas islas menores (administradas por el reino unido, pero de soberanía en litigio), más una porción del área antártica llamada antártida argentina al sur del paralelo 60° s, sobre la cual argentina reclama soberanía, la superficie se eleva a 3 761 274 km².[22]​ es uno de los veinte países que tienen presencia permanente en la antártida, siendo entre ellos el que tiene mayor cantidad de bases permanentes, con seis bases en total.
+su territorio reúne una gran diversidad de climas, causada por una amplitud latitudinal que supera los 30° —incluyendo varias zonas geoastronómicas—, una diferencia en la altitud que va de 107 m bajo el nivel del mar (laguna del carbón) a casi 7000 m s. n. m. y la extensión del litoral marítimo que alcanza 4725 km. amplias llanuras húmedas limitan con extensos desiertos y altas montañas, mientras que la presencia de climas tropicales y subtropicales en el norte, contrastan con las nevadas y fríos extremos en las zonas cordilleranas y el sur.
+su territorio continental americano, que abarca gran parte del cono sur, limita al norte con bolivia y paraguay, al nordeste con brasil, al este con uruguay y el océano atlántico, al oeste con chile y, siempre en su sector americano, al sur con chile y las aguas atlánticas del pasaje de drake.
+los primeros registros de pobladores en el actual territorio argentino se remontan a los trece mil años ap, durante el paleoamericano. en tiempos protohistóricos, periodo precolombino, fue habitado por numerosos pueblos indígenas, algunos de los cuales aún habitan el país; entre ellos guaycurúes, guaraníes, mapuches, tehuelches y diaguitas, estos últimos formaban parte del imperio incaico. la colonización española del actual territorio argentino comenzó con viajes exploratorios desde el año 1512, el establecimiento de una población en 1528 y la distribución del territorio a los adelantados. más tarde, quedó bajo la jurisdicción del virreinato del perú. en 1776, la corona española fundó el virreinato del río de la plata, el cual sería una entidad política precedente a la actual república argentina. el 25 de mayo de 1810 alcanzó la independencia de facto cuando fue depuesto el último virrey español que gobernó desde buenos aires,[23]​ organizándose la primera junta de gobierno. el día 9 de julio de 1816 fue proclamada la independencia en san miguel de tucumán.[24]​
+
+
+== toponimia ==
+
+el nombre oficial del país es república argentina, literalmente, "república del plata". por elipsis, suele denominarse, "la argentina". el uso sin artículo, está muy extendido y no se considera incorrecto,[25]​ si bien la academia argentina de letras lo ha calificado de "reprensible".[26]​
+argentina es el femenino del adjetivo poético "argentino" que indica algo que tiene cualidades de la plata o relacionado con ella,[27]​ del latín argentum que significa "plata".[28]​ argentum, a su vez, procede del protoitálico: *argentom, derivado del protoindoeuropeo: *h₂r̥ǵn̥tóm, sustantivo formado a partir del adjetivo *h₂erǵ- que significa: “blanco” o bien "brillante".[29]​[30]​[31]​[32]​
+argentina fue una denominación poética de los países ribereños del plata,[33]​ río llamado así porque era un acceso a los yacimientos argentíferos del alto perú, donde la ciudad de la plata (charcas, actual sucre) era también llamada civitas argentina (ciudad argentina).[34]​
+el uso como topónimo, aunque con una declinación diferente, aparece por primera vez en 1554 en el mapa de lopo homem: donde los territorios de la región litoral son llamados: terra argentea.[35]​ más tarde, martín del barco centenera la eligió, a imitación de la araucana (1569), como título de un poema épico sobre la conquista: la argentina (1602).[25]​ desde entonces y hasta finales del siglo xviii, argentina y argentino fueron denominaciones literarias del territorio y los pobladores de la región rioplatense.[25]​
+con la creación del virreinato del río de la plata y su posterior independencia como provincias unidas del río de la plata, argentina y argentino se hicieron más comunes, aunque a veces con una connotación restringida a buenos aires y las provincias cercanas.[25]​
+la constitución de 1826, usó argentina como nombre oficial del estado y, desde entonces, a pesar del rechazo a dicha constitución, fue usado de manera habitual. a partir de la década de 1830, rosas, formalmente gobernador de buenos aires, era el "encargado de dirigir las relaciones exteriores de la república argentina".[34]​
+la reforma constitucional argentina de 1860 sancionó como artículo 35 la norma que estableció los nombres oficiales del país, vigente desde entonces:
+
+ 
+
+en 1860, en la ciudad de paraná, entonces capital de la confederación argentina, el presidente derqui decretó que para "uniformar los actos administrativos" se usaría siempre república argentina.[36]​ dos años más tarde, en 1862, bartolomé mitre, primer presidente del país reunificado, se refirió a su cargo como: presidente de la nación argentina.[37]​
+
+
+== historia ==
+
+
+=== período prehispánico ===
+
+
+=== conquista y colonización española ===
+
+
+=== independencia ===
+
+
+=== primera junta de gobierno ===
+
+la primera junta de gobierno, oficialmente junta provisional gubernativa de las provincias del río de la plata a nombre del señor don fernando vii fue la junta de gobierno surgida el viernes 25 de mayo de 1810 en buenos aires, capital del virreinato del río de la plata, como consecuencia del triunfo de la revolución de mayo que destituyó al virrey baltasar hidalgo de cisneros y nombró a cornelio saavedra como el presidente de la primera junta de las provincias unidas del río de la plata. la sede del gobierno fue fijada en el fuerte de buenos aires, que sirviera desde 1776 como residencia de los virreyes y donde hoy se encuentra la casa de gobierno. la primera junta existió como tal hasta el 18 de diciembre del mismo año, ya que con la incorporación de diputados del interior se transformó en la junta grande, que dio origen a la prolongada guerra de la independencia de las provincias unidas del río de la plata contra españa (1810-1824).
+mientras se desarrollaba la guerra de independencia, también tenía lugar una compleja disputa por la forma de organización del nuevo estado, que generó en 1814 el inicio de una guerra civil que —con intermitencias— duraría más de medio siglo. el líder de la fracción federal, el oriental josé gervasio artigas fue proclamado protector de la unión de los pueblos libres, una liga de provincias que se negaban a ser administrados por el gobierno unitario de buenos aires. la misma organizó el llamado congreso de oriente en concepción del uruguay, del cual aún se discute si alcanzó a proclamar —como se proponía— la independencia de españa.[55]​
+el 9 de julio de 1816, en la ciudad de san miguel de tucumán, reunido el congreso de diputados de las provincias del noroeste y centro-oeste del país y de la de buenos aires, junto con algunos diputados exiliados del alto perú,[k]​ proclamó la independencia de las provincias unidas en sud américa, utilizando la siguiente fórmula:[56]​
+
+ 
+
+en varios puntos de sudamérica los nuevos gobiernos debieron enfrentar la resistencia contrarrevolucionaria de los ejércitos realistas, que intentaban restaurar la autoridad de la monarquía española en la región. comenzaron las guerras por la independencia. algunos de los principales comandantes fueron manuel belgrano, al mando del ejército del norte, josé de san martín, creador del ejército de los andes, martín miguel de güemes, organizador de la guerra gaucha y juana azurduy, comandante de la guerra de guerrillas en el alto perú. el estado argentino considera a san martín como el mayor héroe militar de su independencia y lo honra con el título de «padre de la patria». junto a simón bolívar, fueron los máximos responsables de las gestas libertadoras que terminaron con la presencia española en el continente.
+
+
+=== la formación del estado federal ===
+
+las primeras décadas como país independiente fueron conflictivas: ante la hegemonía de los unitarios, los federales se alzaron repetidamente en defensa de la autonomía de las provincias, llevando —tras la llamada anarquía del año xx— a la división del país en provincias autónomas gobernadas generalmente por caudillos militares, mientras que el país —excepto un breve intervalo entre 1825 y 1827— careció de un gobierno nacional hasta 1852. cada provincia asumió la plenitud del gobierno en el ámbito de su territorio.
+la guerra de la independencia continuó hasta el año 1825, pero se luchó preferentemente en la frontera norte y en el perú. mientras tanto, la provincia oriental fue invadida por el reino de portugal, de quien pasó al imperio de brasil. la consecuente guerra del brasil culminó con la convención preliminar de paz de 1828, que declaró independiente al territorio en disputa, con el nombre de estado oriental del uruguay.[57]​ poco antes, en 1825, el alto perú formó la república de bolivia y al año siguiente le fue agregada la ciudad de tarija y su jurisdicción.
+el territorio restante —que había logrado aumentar en algo su control territorial con algunas exitosas campañas militares contra los indígenas— comenzó a usar el nombre de «argentina» de manera oficial a mediados de la década de 1820. la denominación oficial «provincias unidas del río de la plata» continúa considerándose, constitucionalmente, un nombre alternativo para el país, aunque ha caído en práctico desuso.[58]​
+a principios de los años 1830, los federales lograron triunfar en todo el país, que adoptó el nombre de confederación argentina. durante más de veinte años, el gobernador federal de buenos aires, juan manuel de rosas, asumió en los hechos la máxima autoridad nacional, aunque en teoría solo era el depositario de la representación externa del conjunto de las provincias.[59]​
+durante la época de su hegemonía combatió y derrotó sucesivos levantamientos de los unitarios,[m]​ un bloqueo del río de la plata por parte de francia y luego otro bloqueo conjunto por parte de gran bretaña y francia. también mantuvo conflictos bélicos contra la confederación perú-boliviana y contra el llamado gobierno de la defensa de montevideo, la capital uruguaya, debido a la injerencia de los dos partidos de ese país —blancos y colorados— en las guerras civiles argentinas.
+pese a la paz que fue capaz de imponer y el crecimiento económico —al menos de las provincias del litoral—, los enemigos de rosas reclamaban libertades individuales, políticas y de expresión, que eran férreamente anuladas por el gobernador porteño; el núcleo de sus reclamos era la sanción de una constitución política que organizara formalmente el estado nacional y garantizara los derechos de los ciudadanos.
+
+
+=== organización nacional ===
+
+en 1852, rosas fue derrotado en la batalla de caseros por el ejército grande, una alianza entre las provincias de entre ríos y corrientes, las tropas coloradas de uruguay y otras de brasil. la alianza fue encabezada por el federal antirrosista justo josé de urquiza, gobernador de entre ríos, quien asumió la presidencia provisional.[60]​
+este período duró hasta la sanción de una constitución en 1853, que con algunos cambios ha regido en el país hasta la actualidad. la misma adoptó un régimen federal, pero la provincia de buenos aires se separó de la confederación argentina, que debió establecer su capital en la ciudad de paraná. en 1859, la confederación derrotó a buenos aires en la batalla de cepeda, forzándola a firmar el pacto de san josé de flores, por el cual buenos aires se reincorporaba a la que desde entonces pasó a llamarse república argentina. no obstante, la reunificación definitiva fue lograda bajo la dirección de buenos aires tras la batalla de pavón (1861), durante la presidencia de bartolomé mitre.
+en 1865, la argentina se involucró nuevamente en una guerra civil en uruguay, a lo cual el paraguay respondió ocupando la ciudad de corrientes. tras firmar una triple alianza con el brasil y uruguay,[61]​ la argentina tomó parte en la guerra de la triple alianza contra el paraguay, que duró cinco años y requirió la participación de diez mil soldados argentinos.[62]​ el paraguay resultó finalmente derrotado en 1870, quedando totalmente devastado y muerta una gran parte de su población masculina.[63]​ pese a su enorme costo económico y en vidas humanas y a que fue causa de la continuación de las guerras civiles en la argentina, este país logró consolidar sus límites en el noreste, ya que se fijó la frontera en los ríos pilcomayo, paraguay y paraná.[63]​
+durante las presidencias de mitre y sobre todo de sarmiento y avellaneda, la argentina se insertó en la economía mundial como un país agroexportador, sostenido por una amplia red ferroviaria y el avance del sistema educativo. tras dos sangrientas revoluciones en 1874 y 1880, en este último año la ciudad de buenos aires fue federalizada y se estableció un equilibrio durable entre las provincias y la capital.
+
+
+=== gobiernos conservadores y primeros gobiernos radicales ===
+
+entre 1878 y 1884 se produjeron las llamadas conquista del desierto y del chaco, con el objeto de dar por término a los constantes enfrentamientos entre indígenas y criollos en la frontera y apropiarse de los territorios indígenas, triplicando el territorio argentino. la primera conquista, impulsada por julio a. roca, consistió en una serie de incursiones militares a los territorios pampeanos y patagónicos dominados por los pueblos originarios, repartiéndolos entre los miembros de la sociedad rural, financiadores de las expediciones.[64]​ la conquista del chaco duró hasta fines del siglo,[65]​ dado que su incorporación plena al sistema económico nacional solo tuvo lugar cuando se reemplazó la mera extracción de maderas y tanino por la producción de algodón. el gobierno argentino consideró a los indígenas como seres inferiores, sin los mismos derechos que los criollos y europeos.[66]​
+entre 1880 y 1916, el partido autonomista nacional (pan) monopolizó el poder sobre la base de elecciones fraudulentas, propiciado por el sistema del voto cantado y durante 25 años, la figura excluyente fue el general julio argentino roca. la llamada república conservadora o república oligárquica organizó un exitoso y moderno modelo agroexportador basado en la llamada división internacional del trabajo impuesta por el imperio británico, orientado principalmente a la producción de carne y granos con destino al mercado británico. en el relato tradicional el país fue visto en esa época como «el granero del mundo».[67]​
+este modelo económico generó una concentración de la riqueza en pocas manos y la exclusión social de las clases trabajadoras y de las poblaciones asentadas fuera de la región pampeana. la economía alcanzó altos niveles de crecimiento que atrajeron una gran corriente inmigratoria principalmente constituida por millones de italianos y españoles y en menor medida de seguidos de europeos orientales y asiáticos occidentales. la población argentina, que representaba el 0,13 % de la población mundial en 1869, pasaría a representar el 0,55 % en 1930, proporción en la que, aproximadamente, se estabilizaría desde entonces.[68]​
+la prosperidad de la economía impulsó el crecimiento de una considerable clase media, integrada mayoritariamente por inmigrantes o sus descendientes. los inmigrantes europeos también introdujeron en el país ideas políticas nuevas como el socialismo y el anarquismo, así como participaron junto a la población local, especialmente la afroargentina, en la creación de organizaciones de ayuda mutua y sindicatos.[69]​[70]​ surgieron partidos políticos modernos como la unión cívica radical (ucr) y el partido socialista (ps).
+después de más de dos décadas de conflictos políticos y sociales, fraudes electorales y graves actos de represión, en 1912 fue sancionada la ley sáenz peña, que estableció el sufragio secreto, obligatorio y universal para votantes masculinos. en la primera elección presidencial con sufragio secreto, los conservadores fueron desplazados del poder por los radicales dirigidos por hipólito yrigoyen, que fue presidente entre 1916 y 1922, y entre 1928 y 1930. durante su primer gobierno se inició el movimiento estudiantil conocido como la reforma universitaria, que se extendió por toda américa latina y se produjeron las masacres obreras de la semana trágica y la patagonia rebelde. entre ambos gobiernos de yrigoyen fue elegido presidente el también radical marcelo torcuato de alvear.
+
+
+=== alternancia entre golpes de estado y regímenes democráticos ===
+
+el 6 de septiembre de 1930 se produjo el primero de una serie de golpes de estado en argentina que llevó a un grupo cívico-militar a establecer una dictadura justificada por la corte suprema como «gobierno de facto», después de derrocar a hipólito yrigoyen. este golpe de estado inició una secuela de gobiernos fraudulentos conocidos como la década infame.[n]​
+el modelo agroexportador argentino entró en crisis por el cierre de los mercados internacionales causado por la crisis de 1929. el país impulsó un proceso de sustitución de importaciones que desarrolló un amplio sector industrial.[71]​ la década infame fue derrocada por la revolución del 43, un segundo golpe de estado que instaló un gobierno militar en cuyo seno se produciría una alianza entre sindicatos y algunos militares que dieron origen al peronismo. a pesar de la presión de estados unidos desde que este país entró a la guerra a fines de 1941 cuando fue atacado por japón, la argentina se mantuvo neutral durante la mayor parte del resto de la ii guerra mundial, uniéndose a los aliados el 27 de marzo de 1945, durante el gobierno del general edelmiro farrell, poco antes de la terminación de la guerra.
+en 1946 fue elegido presidente juan domingo perón con apoyo de los sindicatos organizados en el partido laborista. perón, acompañado por su esposa evita, encabezó un nuevo movimiento que puso el acento en la justicia social, la soberanía política y la independencia económica. bajo su gobierno se estableció el sufragio femenino en 1947, la igualdad de hombres y mujeres en el derecho familiar, la igualdad de los hijos nacidos dentro o fuera del matrimonio, la gratuidad de la enseñanza universitaria, se erradicó el paludismo, etc.[72]​
+a través de la fundación eva perón, se desarrolló una ayuda social sin precedentes en el país, brindando apoyo económico a los sectores más vulnerables. también se nacionalizaron los ferrocarriles y el comercio exterior, y se generó un fuerte proceso de industrialización, promoviendo la industria pesada.
+en 1951 perón fue reelegido para un nuevo período presidencial con el 63,40 % de los votos en lo que constituyó la primera elección con sufragio universal de hombres y mujeres en la argentina. en 1952 murió evita. casi 60 años después, sería declarada la mujer del bicentenario, como el símbolo del protagonismo de la mujer en la historia argentina.[72]​
+el peronismo contó con una amplia adhesión de la población, pero también con un fuerte rechazo de los sectores opositores, polarizándose la sociedad argentina en peronistas y antiperonistas. su política perjudicó a los intereses británicos, dominantes hasta entonces en la economía, que apoyaron a los opositores.[73]​
+el inicio de un conflicto con la iglesia católica debilitó la lealtad al gobierno de vastos sectores y unificó a la oposición.[74]​
+el 16 de junio de 1955 una conjura cívico-militar, utilizando unos treinta aviones de la armada y de la fuerza aérea, bombardearon y ametrallaron a la población de buenos aires en la plaza de mayo y otros lugares.[75]​ este ataque produjo 308 víctimas oficialmente identificadas —entre ellas 111 activistas sindicales que incluyen a 23 mujeres—, un número de muertos que no pudieron ser individualizados debido a las mutilaciones y más de 700 heridos.[76]​
+en septiembre perón fue derrocado por un nuevo golpe autodenominado revolución libertadora, que proscribió al peronismo, muchos de cuyos partidarios fueron encarcelados o fusilados, lo que le valió al golpismo el mote de «revolución fusiladora». perón se vio obligado a exiliarse hasta el final de la proscripción en 1973.[73]​
+durante la proscripción, el peronismo continuará teniendo influencia en la política y el sindicalismo —ámbito en el que ganó la mayoría de las elecciones—, negando legitimidad a las autoridades instaladas por medios no democráticos y desarrollando una actividad opositora conocida por la resistencia peronista.
+en 1958 fue elegido presidente arturo frondizi (ucri) en elecciones con el peronismo proscripto pero después de realizar un pacto electoral con perón, siendo derrocado por un nuevo golpe militar en 1962. el golpe esta vez tuvo la particularidad de que el poder fue asumido por el civil josé maría guido, nombrado presidente por la corte suprema de justicia ese mismo día tras el derrocamiento y arresto de frondizi, alegando para su nombramiento un vacío de poder. a pesar de que formalmente guido ejercía la presidencia, el verdadero poder material residía en la esfera militar. durante su mandato se agudizaron los enfrentamientos entre dos facciones del ejército argentino, conocidas como azules y colorados, llegándose a enfrentamientos armados. la victoria del sector «azul» permitió al general juan carlos onganía reunificar al ejército.
+con el peronismo todavía proscripto y el expresidente frondizi detenido,[77]​ en 1963 fue elegido como mandatario arturo umberto illia (ucrp), quien también sería depuesto por un golpe militar en 1966, que llevaría al gobierno a onganía.
+su dictadura, la primera de las tres que conformaron la autodenominada revolución argentina (1966-1973), fue también la primera dictadura permanente instalada en el marco de los regímenes militares que se multiplicaron en américa latina con apoyo activo de estados unidos a través de la escuela de las américas y la doctrina de la seguridad nacional en el marco global de la guerra fría. la abolición de la actividad política y el terrorismo de estado, provocó un estado insurreccional de la población que se manifestó en la aparición de varias organizaciones guerrilleras —como montoneros, las far y el erp— y gran cantidad de puebladas insurreccionales, como el cordobazo, el rosariazo y el tucumanazo, entre otras.[78]​ acorralada por la insurrección popular, la dictadura organizó una salida electoral con participación del peronismo —aunque impidiendo la candidatura de perón—.
+en 1973 el peronismo fue legalizado y triunfó en las elecciones presidenciales, dando inicio a lo que ha dado en llamarse el tercer peronismo. tras la renuncia del presidente héctor josé cámpora, ese mismo año, juan domingo perón fue elegido presidente por tercera vez, precipitando así su muerte nueve meses después. lo sucedió su vicepresidenta y esposa, maría estela martínez de perón. este período se caracterizó por un acelerado deterioro de la situación interna, producto de la crisis del petróleo de 1973 y la generalizada violencia política, incluyendo la organización desde el gobierno de una fuerza parapolicial llamada la alianza anticomunista argentina (triple a) que junto a las fuerzas policiales y militares, asesinaron a cientos de opositores desde 1973 —varios de ellos «detenidos desaparecidos»—, así como la instalación de centros clandestinos de detención en el marco de la represión ordenada por los llamados decretos de aniquilamiento.[79]​
+el 24 de marzo de 1976 se produjo un nuevo golpe militar que instaló una nueva dictadura permanente autodenominada proceso de reorganización nacional, que duraría casi ocho años y que estaría internacionalmente coordinada con las demás dictaduras sudamericanas mediante el plan cóndor, bajo el amparo de estados unidos. durante la misma se implantó un régimen de terrorismo de estado que llevó a cabo un plan sistemático de secuestro, tortura y eliminación de opositores, calificado por la justicia de genocidio, causando miles desaparecidos y cientos de niños que sufrieron la supresión de su identidad.
+
+como respuesta se formaron organizaciones de derechos humanos, como las madres de plaza de mayo y las abuelas de plaza de mayo, que desempeñarán un rol crucial en el «juicio y castigo a los culpables» y en la recuperación de los bebés secuestrados cuya identidad había sido suprimida. también el movimiento sindical opuso una fuerte resistencia, llegando a declarar varias huelgas generales, a pesar de las desapariciones que lo afectaron masivamente, la disolución de la cgt y la intervención de los sindicatos.
+la dictadura contó con apoyo activo de los principales grupos empresariales, ocupando funciones claves del gobierno, así como del fondo monetario internacional, las empresas multinacionales, los principales medios de prensa, junto a periodistas y comunicadores destacados. el plan económico siguió los lineamientos de la escuela de chicago —frecuentemente identificada con el neoliberalismo—. un sector importante de la población apoyó la dictadura, en tanto que otro sector la resistió mediante la acción guerrillera, la creación de organizaciones de derechos humanos como las madres de plaza de mayo, o la acción sindical y las huelgas.
+la deuda externa, que condicionará a los gobiernos democráticos a partir de 1983, pasó de 7700 millones en 1976 a 45 000 millones de dólares en 1983, en muchos casos fruto de operaciones delictivas en beneficio de los grupos económicos y las empresas multinacionales. en 1978, se produjo una grave crisis con chile por los límites en la zona del canal beagle, que llevó a ambos países al borde de la guerra. en 1982 se desarrolló la guerra de las malvinas con el reino unido; la derrota argentina fue uno de los factores que llevaron al colapso del régimen militar y al llamado a elecciones generales para el año siguiente.
+
+
+=== recuperación de la democracia ===
+
+
+=== kirchnerismo y macrismo ===
+el 10 de diciembre de 2023 asumió el presidente electo javier milei como presidente de argentina en el palacio del congreso de la nación argentina. donde recibió la banda y bastón del expresidente alberto fernández.[124]​
+
+
+== gobierno y política ==
+
+
+=== poder ejecutivo ===
+
+
+=== poder legislativo ===
+
+
+=== poder judicial ===
+
+
+=== ministerio público ===
+
+
+=== gobiernos provinciales ===
+
+
+=== relaciones exteriores ===
+
+
+=== defensa y seguridad ===
+
+
+==== fuerzas armadas ====
+
+
+==== fuerzas de seguridad ====
+la seguridad de las aguas territoriales corresponde a la prefectura naval argentina (pna), la de regiones fronterizas y obras de infraestructura críticas a la gendarmería nacional argentina (gna) y la de los aeropuertos a la policía de seguridad aeroportuaria (psa); estas fuerzas de seguridad dependen del ministerio de seguridad.
+el sistema de inteligencia nacional dirige las acciones de inteligencia, dentro de los que se destaca la agencia federal de inteligencia (afi), aunque también existen diferentes organismos públicos como la dirección de observaciones judiciales, el departamento de intercepción y captación de las comunicaciones, la inteligencia de la gendarmería nacional, la oficina anticorrupción, entre otras.[162]​
+cada provincia cuenta con su propia policía, que puede trabajar en conjunto con la pfa la fuerza de seguridad que se encarga de los delitos de ámbito exclusivamente federal o que involucran a más de una jurisdicción. la policía federal fue hasta 2009 la fuerza policial de la ciudad de buenos aires, cuando el entonces jefe de gobierno porteño mauricio macri creó la policía metropolitana de buenos aires, la misma fue creada en el marco de la ley n.º 2894, de seguridad pública, que fue sancionada el 28 de octubre de 2008 y promulgada por medio del decreto 1354 del 18 de noviembre de ese año. la reglamentación de la norma se registró el 20 de marzo de 2009 por medio del decreto 210.[163]​
+
+
+=== derechos humanos ===
+en su constitución, argentina establece la jerarquía constitucional de los tratados de derechos humanos.[164]​
+de acuerdo con el informe sobre desarrollo humano del programa de las naciones unidas para el desarrollo de 2018, la argentina tiene un índice de desarrollo humano (idh) de 0,825. a nivel mundial, se sitúa en el puesto 47 dentro de los 189 estados que participan en la clasificación, encasillado como un país de idh muy alto que junto con chile y uruguay son los únicos países de américa latina que se encuentran en este nivel de idh.[165]​
+en materia de derechos humanos, respecto a la pertenencia a los siete organismos de la carta internacional de derechos humanos, que incluyen al comité de derechos humanos (hrc), argentina ha firmado o ratificado:
+
+
+== organización territorial ==
+
+
+=== provincias ===
+
+
+=== ciudad autónoma de buenos aires ===
+
+
+=== regiones para el desarrollo económico y social ===
+
+
+== geografía ==
+
+
+=== geografía política ===
+
+
+==== ubicación ====
+
+
+=== regiones naturales ===
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== relieve ===
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== hidrografía ===
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== clima ===
+
+
+==== efectos del cambio climático ====
+
+
+=== problemas ambientales ===
+
+
+== símbolos patrios ==
+
+
+=== bandera ===
+
+
+=== sol de mayo ===
+
+
+=== escudo ===
+
+
+=== himno ===
+
+
+=== escarapela ===
+
+
+=== lema ===
+
+
+=== logo ===
+
+
+=== símbolos patrios provinciales ===
+
+
+== flora y fauna ==
+
+
+=== flora ===
+
+
+=== fauna ===
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== bosques ===
+
+
+== economía ==
+
+
+=== agricultura y ganadería ===
+
+
+=== petróleo ===
+
+
+=== minería ===
+
+
+=== manufacturas ===
+
+
+=== turismo ===
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== transporte ===
+
+
+=== energía ===
+
+el sector eléctrico en la argentina se organiza a partir de la articulación de entidades o empresas que desarrollan la generación, el transporte y la distribución de la energía.[467]​
+en 2020, argentina fue el 18.º mayor productor de gas natural del mundo (44,6 millones de metros cúbicos);[468]​ el 28.º mayor productor de petróleo del mundo (440 000 barriles/día);[469]​ el 21.er mayor productor de energía hidroeléctrica del mundo, con 11,3 gw de potencia instalada; el 27.º mayor productor de energía eólica del mundo, con 2,6 gw de potencia instalada; y el 42.º mayor productor de energía solar del mundo, con 0,7 gw de potencia instalada.[470]​
+el potencial eólico de la región de la patagonia se considera gigantesco, con estimaciones de que el área podría proporcionar suficiente electricidad para sostener el consumo de un país como brasil solo. sin embargo, argentina tiene deficiencias de infraestructura para llevar a cabo la transmisión de energía eléctrica desde áreas deshabitadas y con mucho viento hacia los grandes centros del país.[471]​
+la generación de energía eléctrica alcanzó los 129 815 gwh en 2014, lo que representa un crecimiento de algo más del 40 % respecto de los 91 845 gwh registrados en 2004. el 64 % se generó en plantas térmicas, el 31 % hidráulicas, el 4 % nucleares y solamente el 1 % eólicas y solares.[472]​
+el desarrollo de instalaciones de generación de energía a partir de recursos renovables se encuentra en pleno desarrollo. hacia finales del año 2014, existía una potencia instalada de 187 mw de generación de energía eólica en la región patagónica y noroeste argentino y 8 mw de generación de energía solar en la región cuyana.[473]​
+argentina cuenta con gran potencial de generación de energía mareomotriz, dadas las condiciones de las corrientes y la amplitud de mareas de la costa patagónica.[474]​ en diciembre de 2014, se instalaron en la provincia de santa cruz los primeros dos equipos para la obtención de datos sobre la potencialidad de este recurso.[475]​
+esta nación fue la primera en américa latina en construir una central nuclear, actualmente cuenta con tres campos nucleares (atucha i «juan domingo perón», atucha ii «dr néstor kirchner» y «embalse») y una cuarta en período de construcción.[476]​
+el desarrollo de la energía geotérmica prácticamente no presenta avances destacables, pese a la presencia de afluentes termales y la evidencia de actividad volcánica potencial en diversos puntos del país.[477]​
+el transporte de energía eléctrica se desarrolla a través de una red de líneas de alta tensión y distribución troncal de 33 453 km de longitud lo que representa un incremento de más del 65 % en la longitud del sistema de redes existente en 2004.[472]​
+la distribución de energía eléctrica está a cargo de empresas que, a fines del año 2014 sumaban más de 40 entidades, cubriendo un área de 2 262 664 km², lo que representa algo más del 80 % de la superficie del país y proporcionando el servicio a 13 496 085 usuarios de pequeños consumos (demanda menor a 4000 kwh/bimestre), la mayoría usuarios residenciales.[478]​
+en 2014, se produjeron 30 880 627 m³ de petróleo y 41 483 811 millones de metros cúbicos de gas natural.[479]​ paralelamente, durante los últimos años cobró notoriedad el hallazgo de grandes volúmenes de hidrocarburos en reservorios no convencionales (i.e: gas de lutita). según un informe, argentina estaría en el segundo puesto a nivel mundial en cuanto a este tipo de reservas.[480]​
+
+
+== ciencia y tecnología ==
+
+
+== medios de comunicación ==
+
+
+=== telecomunicaciones ===
+
+
+=== diarios ===
+
+
+== población ==
+
+
+=== demografía ===
+
+
+=== composición étnica ===
+
+
+=== emigración ===
+
+
+=== inmigración ===
+
+el censo nacional de 2010 estimó que al momento residían en argentina un total de 1 805 957 inmigrantes nacidos en otro país, equivalente a un 4,5 % de la población y registrando por primera vez desde el pico de 1914 (29,9 %) un leve incremento en el porcentaje de extranjeros relativo a los nativos y luego del mínimo histórico alcanzado en 2001 (4,1 %).[533]​
+de acuerdo con dos sucesivos informes de la organización de las naciones unidas (onu), al 2015, argentina contaba con 2 086 302 inmigrantes y, al 2017, con 2 164 524, equivalentes a un 4,6 % y 4,9 % de la población, respectivamente, asentando esta tendencia creciente.
+la tasa de extranjeros en proporción a los nacidos en el país es muy pequeña en comparación con otras naciones (121.º), pero medido en términos absolutos, argentina es el mayor receptor de inmigrantes de toda américa latina, así como el que más cantidad tiene en la región y se ubica 28.º en el ranking mundial.[534]​[535]​[536]​[537]​[538]​
+
+
+==== las 20 mayores comunidades inmigrantes según los censos nacionales de 1991, 2001 y 2010 ====
+fuente: instituto nacional de estadística y censos (indec), 1991, 2001, 2010.
+
+
+=== pueblos indígenas ===
+
+
+=== salud ===
+
+
+==== discapacidad ====
+en 2018, el indec llevó a cabo una encuesta nacional en localidades de más de 5000 habitantes, de la que surgió que el 10,2 % de la población total padece algún tipo de discapacidad.[p]​
+de ese total, un 48,8 % tiene alguna discapacidad motora, con un 30,0 % con dificultades para caminar, un 6,1 % con dificultades en los miembros superiores, y 12,9 % con ambas. otro 25 % del conjunto de las personas con discapacidades tiene dificultades visuales, de las cuales el 3,6 % —casi uno de cada mil habitantes— son completamente no videntes. del total de personas con discapacidad, el 20,8 % tiene dificultades en la audición, de los cuales el 49 % no pueden oír sin audífono —un 1 % de la población total. del total de personas con dificultades, el 7,9 % tiene dificultades en el habla y de ellos el 10,6 % —algo menos de uno de cada mil habitantes— no puede hablar en absoluto. un 12,3 % tiene dificultades para comprender lo que oye o aprender lo que estudia o se le enseña —un 1,25 % del total de la población—, de entre los cuales uno de cada ocho afirma no poder aprender nada.[554]​
+el mismo estudio detalla también que el porcentaje de personas de más de catorce años de edad con alguna discapacidad que desempeña alguna tarea remunerada es del 35,9 %, pero alcanzando al 64,3 % para el grupo de edad de entre 30 y 49 años, y disminuyendo al 13,3 % para 65 años de edad y más.[555]​
+
+
+=== urbanización ===
+
+
+=== ciudades principales ===
+
+
+== cultura ==
+
+
+=== literatura ===
+
+
+=== música ===
+
+
+=== cine ===
+
+
+=== teatro ===
+
+
+=== pintura ===
+
+
+=== historieta ===
+
+
+=== idioma ===
+
+
+=== religión ===
+
+
+=== educación ===
+
+
+=== museos, espacios de memoria y salas de espectáculos ===
+los museos más sobresalientes son el museo histórico nacional de argentina y el malba, donde se hacen exposiciones de pintura y escultura. son muy importantes también los museos paleontológicos de la patagonia (trelew, plaza huincul, etc.); las ruinas jesuíticas de san ignacio, en misiones o el palacio san josé en entre ríos.
+también son importantes los espacios de memoria creados donde funcionaron centros de detención clandestina durante la dictadura de videla, como la esma en buenos aires y la perla en córdoba.
+por otro lado, se destaca la actividad cultural veraniega en mar del plata y villa carlos paz; y las fiestas y festivales populares como el festival de cosquín o el de jesús maría en la provincia de córdoba. el carnaval de gualeguaychú es el espectáculo teatral a cielo abierto más grande de la argentina y considerado el tercer carnaval más importante del mundo.[630]​
+cientos de fiestas nacionales se desarrollan en el país durante todo el año.
+en buenos aires existen alrededor de 100 cines y 90 teatros, con una abundante cartelera de espectáculos. la capital de argentina también se distingue en la presentación de espectáculos o artistas de renombre internacional. se encuentran, entre otros, los centros culturales como el borges, el recoleta o el san martín.
+
+
+=== gastronomía ===
+
+
+=== deporte ===
+
+
+=== días festivos ===
+
+
+== véase también ==
+
+ portal:argentina. contenido relacionado con argentina.
+
+
+== notas ==
+
+
+== referencias ==
+
+
+== bibliografía ==
+abad de santillán, diego (1965). historia argentina. buenos aires: tea (tipográfica editora argentina). 
+alonso, roberto; elisalde; vázquez, enrique (1994). historia argentina y el mundo contemporáneo. buenos aires: editorial aique. isbn 950-701-203-6. 
+gerchunoff, pablo; llach, lucas (1998). el ciclo de la ilusión y el desencanto: un siglo de políticas económicas argentinas. buenos aires: ariel. isbn 950-9122-57-2. 
+guía turística argentina. buenos aires: automóvil club argentino. 2008-2009. isbn 978-987-529046-4. 
+lopresti, roberto p (1998). constitución argentina comentada. buenos aires: unilat. isbn 987-96049-3-8. 
+luna, félix (1994). breve historia de los argentinos. buenos aires: planeta/espejo de la argentina. isbn 950-742-415-6. 
+
+
+== enlaces externos ==
+
+ wikimedia commons alberga una galería multimedia sobre argentina.
+
+ wikimedia atlas: argentina
+
+ wikcionario  tiene definiciones y otra información sobre argentina.
+
+ wikisource contiene obras originales de o sobre argentina.
+
+ wikiviajes alberga guías de viajes de o sobre argentina.
+portal oficial del estado argentino
+sitio oficial de la presidencia de la nación
+sitio oficial de la secretaría de turismo
+perfiles de países: argentina
+academia argentina de letras: “sobre el uso del artículo la ante el nombre de nuestro país y de algunas provincias de la argentina” (página 8)

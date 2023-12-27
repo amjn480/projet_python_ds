@@ -1,1 +1,103 @@
-["l", "or", "l", "is", "the", "th", "letter", "in", "the", "latin", "alphabet", "used", "in", "the", "modern", "english", "alphabet", "the", "alphabets", "of", "other", "western", "european", "languages", "and", "others", "worldwide", "its", "name", "in", "english", "is", "el", "pronounced", "plural", "els", "history", "lamedh", "may", "have", "come", "from", "a", "pictogram", "of", "an", "ox", "goad", "or", "cattle", "prod", "some", "have", "suggested", "a", "shepherd's", "staff", "use", "in", "writing", "systems", "phonetic", "and", "phonemic", "transcription", "in", "phonetic", "and", "phonemic", "transcription", "the", "international", "phonetic", "alphabet", "uses", "l", "to", "represent", "the", "lateral", "alveolar", "approximant", "english", "in", "english", "orthography", "l", "usually", "represents", "the", "phoneme", "which", "can", "have", "several", "sound", "values", "depending", "on", "the", "speaker's", "accent", "and", "whether", "it", "occurs", "before", "or", "after", "a", "vowel", "the", "alveolar", "lateral", "approximant", "the", "sound", "represented", "in", "ipa", "by", "lowercase", "l", "occurs", "before", "a", "vowel", "as", "in", "lip", "or", "blend", "while", "the", "velarized", "alveolar", "lateral", "approximant", "ipa", "occurs", "in", "bell", "and", "milk", "this", "velarization", "does", "not", "occur", "in", "many", "european", "languages", "that", "use", "l", "it", "is", "also", "a", "factor", "making", "the", "pronunciation", "of", "l", "difficult", "for", "users", "of", "languages", "that", "lack", "l", "or", "have", "different", "values", "for", "it", "such", "as", "japanese", "or", "some", "southern", "dialects", "of", "chinese", "a", "medical", "condition", "or", "speech", "impediment", "restricting", "the", "pronunciation", "of", "l", "is", "known", "as", "lambdacism", "in", "english", "orthography", "l", "is", "often", "silent", "in", "such", "words", "as", "walk", "or", "could", "though", "its", "presence", "can", "modify", "the", "preceding", "vowel", "letter's", "value", "and", "it", "is", "usually", "silent", "in", "such", "words", "as", "palm", "and", "psalm", "however", "there", "is", "some", "regional", "variation", "l", "is", "the", "eleventh", "most", "frequently", "used", "letter", "in", "the", "english", "language", "other", "languages", "l", "usually", "represents", "the", "sound", "l", "or", "some", "other", "lateral", "consonant", "common", "digraphs", "include", "ll", "which", "has", "a", "value", "identical", "to", "l", "in", "english", "but", "has", "the", "separate", "value", "voiceless", "alveolar", "lateral", "fricative", "ipa", "in", "welsh", "where", "it", "can", "appear", "in", "an", "initial", "position", "in", "spanish", "ll", "represents", "j", "or", "depending", "on", "dialect", "a", "palatal", "lateral", "approximant", "or", "palatal", "l", "ipa", "occurs", "in", "many", "languages", "and", "is", "represented", "by", "gli", "in", "italian", "ll", "in", "spanish", "and", "catalan", "lh", "in", "portuguese", "and", "in", "latvian", "in", "washo", "lowercase", "l", "represents", "a", "typical", "l", "sound", "while", "uppercase", "l", "represents", "a", "voiceless", "l", "sound", "a", "bit", "like", "double", "ll", "in", "welsh", "other", "uses", "the", "capital", "letter", "l", "is", "used", "as", "the", "currency", "sign", "for", "the", "albanian", "lek", "and", "the", "honduran", "lempira", "it", "was", "often", "used", "especially", "in", "handwriting", "as", "the", "currency", "sign", "for", "the", "italian", "lira", "historically", "it", "was", "commonly", "used", "as", "a", "currency", "sign", "for", "the", "british", "pound", "sterling", "to", "abbreviate", "the", "latin", "libra", "a", "pound", "see", "\u00a3sd", "in", "modern", "usage", "it", "has", "been", "overtaken", "by", "the", "pound", "sign", "\u00a3", "which", "is", "based", "on", "the", "blackletter", "form", "of", "the", "letter", "in", "running", "text", "its", "lowercase", "form", "usually", "italicised", "l", "was", "more", "often", "seenthe", "roman", "numeral", "l", "represents", "the", "number", "in", "the", "international", "system", "of", "units", "the", "liter", "or", "litre", "is", "abbreviated", "using", "an", "uppercase", "or", "a", "lowercase", "lin", "watchmaking", "the", "ligne", "a", "traditional", "french", "measure", "of", "length", "still", "used", "in", "that", "industry", "is", "abbreviated", "using", "an", "uppercase", "lin", "chemistry", "l", "is", "used", "as", "a", "symbol", "for", "the", "avogadro", "constant", "forms", "and", "variants", "in", "most", "sansserif", "typefaces", "the", "lowercase", "letter", "ell", "l", "written", "l", "may", "be", "difficult", "to", "distinguish", "from", "the", "uppercase", "letter", "\"eye\"", "i", "in", "some", "serif", "typefaces", "the", "glyph", "l", "may", "be", "confused", "with", "the", "glyph", "the", "digit", "one", "to", "avoid", "such", "confusion", "some", "newer", "computer", "fonts", "such", "as", "trebuchet", "ms", "have", "a", "finial", "a", "curve", "to", "the", "right", "at", "the", "bottom", "of", "the", "lowercase", "letter", "ell", "another", "means", "of", "reducing", "such", "confusion", "used", "in", "mathematics", "european", "road", "signs", "and", "in", "advertisements", "is", "to", "use", "symbol", "which", "is", "a", "cursive", "handwritingstyle", "lowercase", "form", "of", "the", "letter", "\"ell\"", "in", "unicode", "this", "symbol", "is", "u+", "script", "small", "l", "from", "the", "\"letterlike", "symbols\"", "block", "in", "japan", "for", "example", "this", "is", "the", "symbol", "for", "the", "liter", "however", "the", "international", "committee", "for", "weights", "and", "measures", "recommends", "using", "l", "or", "l", "for", "the", "liter", "without", "specifying", "a", "typeface", "another", "solution", "sometimes", "seen", "in", "web", "typography", "uses", "a", "serif", "font", "for", "the", "lowercase", "letter", "ell", "such", "as", "l", "in", "otherwise", "sansserif", "text", "in", "the", "blackletter", "type", "used", "in", "england", "until", "the", "seventeenth", "century", "the", "letter", "l", "is", "rendered", "as", "l", "{mathfrak", "{l}}", "related", "characters", "descendants", "and", "related", "characters", "in", "the", "latin", "alphabet", "ipaspecific", "symbols", "related", "to", "l", "ipa", "superscript", "symbols", "related", "to", "l", "extensions", "to", "ipa", "for", "disordered", "speech", "extipa", "uralic", "phonetic", "alphabetspecific", "symbols", "related", "to", "l", "u+dc", "latin", "letter", "small", "capital", "l", "with", "stroke", "and", "u+d", "modifier", "letter", "capital", "l", "subscript", "small", "l", "was", "used", "in", "the", "uralic", "phonetic", "alphabet", "prior", "to", "its", "formal", "standardization", "in", "l", "with", "curl", "is", "used", "in", "sinotibetanist", "linguistics", "turned", "l", "was", "used", "by", "william", "pryce", "to", "designate", "the", "welsh", "voiced", "lateral", "spirant", "the", "lower", "case", "is", "also", "used", "in", "the", "romic", "alphabet", "in", "unicode", "these", "are", "u+a", "latin", "capital", "letter", "turned", "l", "and", "u+a", "latin", "small", "letter", "turned", "l", "small", "letter", "l", "with", "midheight", "left", "hook", "was", "used", "by", "the", "british", "and", "foreign", "bible", "society", "in", "the", "early", "th", "century", "for", "romanization", "of", "the", "malayalam", "language", "other", "variations", "are", "used", "for", "phonetic", "transcription", "broken", "l", "was", "used", "in", "some", "medieval", "nordic", "manuscripts", "teuthonista", "phonetic", "transcriptionspecific", "symbols", "related", "to", "lu+ab", "latin", "small", "letter", "l", "with", "inverted", "lazy", "s", "u+ab", "latin", "small", "letter", "l", "with", "double", "middle", "tilde", "u+ab", "latin", "small", "letter", "l", "with", "middle", "ring", "u+abd", "modifier", "letter", "small", "l", "with", "inverted", "lazy", "s", "u+abe", "modifier", "letter", "small", "l", "with", "middle", "tilde", "l", "with", "diacritics", "l", "l", "derived", "signs", "symbols", "and", "abbreviations", "script", "letter", "l", "capital", "and", "lowercase", "respectively", "\u00a3", "pound", "sign", "forms", "of", "l", "were", "used", "for", "medieval", "scribal", "abbreviations", "or", "\"l", "with", "stroke\"", "used", "in", "polish", "and", "many", "neighbouring", "languages", "ancestors", "and", "siblings", "in", "other", "alphabets", "semitic", "letter", "lamedh", "from", "which", "the", "following", "symbols", "originally", "derive", "greek", "letter", "lambda", "from", "which", "the", "following", "letters", "derive", "cyrillic", "letter", "el", "coptic", "letter", "lamda", "old", "italic", "letter", "l", "which", "is", "the", "ancestor", "of", "modern", "latin", "l", "runic", "letter", "laguz", "which", "might", "derive", "from", "old", "italic", "l", "gothic", "letter", "laaz", "computing", "codes", "also", "for", "encodings", "based", "on", "ascii", "including", "the", "dos", "windows", "iso", "and", "macintosh", "families", "of", "encodings", "other", "representations", "notes", "references", "external", "links", "media", "related", "to", "l", "at", "wikimedia", "commons", "the", "dictionary", "definition", "of", "l", "at", "wiktionary", "the", "dictionary", "definition", "of", "l", "at", "wiktionary", "the", "dictionary", "definition", "of", "at", "wiktionary"]
+l, or l, is the 12th letter in the latin alphabet, used in the modern english alphabet, the alphabets of other western european languages and others worldwide. its name in english is el (pronounced ), plural els.
+
+
+== history ==
+lamedh may have come from a pictogram of an ox goad or cattle prod. some have suggested a shepherd's staff.
+
+
+== use in writing systems ==
+
+
+=== phonetic and phonemic transcription ===
+in phonetic and phonemic transcription, the international phonetic alphabet uses ⟨l⟩ to represent the lateral alveolar approximant.
+
+
+=== english ===
+in english orthography, ⟨l⟩ usually represents the phoneme , which can have several sound values, depending on the speaker's accent, and whether it occurs before or after a vowel. the alveolar lateral approximant (the sound represented in ipa by lowercase [l]) occurs before a vowel, as in lip or blend, while the velarized alveolar lateral approximant (ipa [ɫ]) occurs in bell and milk. this velarization does not occur in many european languages that use ⟨l⟩; it is also a factor making the pronunciation of ⟨l⟩ difficult for users of languages that lack ⟨l⟩ or have different values for it, such as japanese or some southern dialects of chinese. a medical condition or speech impediment restricting the pronunciation of ⟨l⟩ is known as lambdacism.
+in english orthography, ⟨l⟩ is often silent in such words as walk or could (though its presence can modify the preceding vowel letter's value), and it is usually silent in such words as palm and psalm; however, there is some regional variation. l is the eleventh most frequently used letter in the english language.
+
+
+=== other languages ===
+⟨l⟩ usually represents the sound [l] or some other lateral consonant.
+common digraphs include ⟨ll⟩, which has a value identical to ⟨l⟩ in english, but has the separate value voiceless alveolar lateral fricative (ipa [ɬ]) in welsh, where it can appear in an initial position. in spanish, ⟨ll⟩ represents [ʎ], [j], [ʝ], [ɟʝ], or [ʃ], depending on dialect.
+a palatal lateral approximant or palatal ⟨l⟩ (ipa [ʎ]) occurs in many languages, and is represented by ⟨gli⟩ in italian, ⟨ll⟩ in spanish and catalan, ⟨lh⟩ in portuguese, and ⟨ļ⟩ in latvian.
+in washo, lower-case ⟨l⟩ represents a typical [l] sound, while upper-case ⟨l⟩ represents a voiceless [l̥] sound, a bit like double ⟨ll⟩ in welsh.
+
+
+== other uses ==
+the capital letter l is used as the currency sign for the albanian lek and the honduran lempira. it was often used, especially in handwriting, as the currency sign for the italian lira. historically, it was commonly used as a currency sign for the british pound sterling (to abbreviate the latin libra, a pound, see £sd); in modern usage it has been overtaken by the pound sign (£), which is based on the blackletter form of the letter. in running text, its lower-case form (usually italicised), l, was more often seen.the roman numeral l represents the number 50.in the international system of units, the liter (or litre) is abbreviated using an upper-case (or a lower-case) l.in watchmaking, the ligne (a traditional french measure of length still used in that industry) is abbreviated using an upper-case l.in chemistry, l is used as a symbol for the avogadro constant.
+
+
+== forms and variants ==
+
+in most sans-serif typefaces, the lowercase letter ell ⟨l⟩, written l, may be difficult to distinguish from the uppercase letter "eye" ⟨i⟩; in some serif typefaces, the glyph l may be confused with the glyph 1, the digit one. to avoid such confusion, some newer computer fonts (such as trebuchet ms) have a finial, a curve to the right at the bottom of the lowercase letter ell.
+another means of reducing such confusion –  used in mathematics, european road signs and in advertisements –  is to use symbol ℓ, which is a cursive, handwriting-style lowercase form of the letter "ell". in unicode, this symbol is u+2113 ℓ script small l from the "letter-like symbols" block. in japan, for example, this is the symbol for the liter. however, the international committee for weights and measures recommends using l or l for the liter. (without specifying a typeface). 
+another solution, sometimes seen in web typography, uses a serif font for the lowercase letter ell, such as l, in otherwise sans-serif text.
+in the blackletter type used in england until the seventeenth century, the letter l is rendered as 
+  
+    
+      
+        l
+      
+    
+    {\mathfrak {l}}
+  .
+
+
+== related characters ==
+
+
+=== descendants and related characters in the latin alphabet ===
+ipa-specific symbols related to l: ʟ ɫ ɬ ɭ ɺ ɮ ꞎ ˡ
+ipa superscript symbols related to l: 𐞛 𐞜
+extensions to ipa for disordered speech (extipa): 𝼄 𐞝
+uralic phonetic alphabet-specific symbols related to l: u+1d0c ᴌ latin letter small capital l with stroke and u+1d38 ᴸ modifier letter capital l
+ₗ : subscript small l was used in the uralic phonetic alphabet prior to its formal standardization in 1902
+ȴ : l with curl is used in sino-tibetanist linguistics
+ꞁ ꞁ : turned l was used by william pryce to designate the welsh voiced lateral spirant [ɬ] the lower case is also used in the romic alphabet. in unicode, these are u+a780 ꞁ latin capital letter turned l, and u+a781 ꞁ latin small letter turned l.
+𝼦 : small letter l with mid-height left hook was used by the british and foreign bible society in the early 20th century for romanization of the malayalam language.
+other variations are used for phonetic transcription: ᶅ ᶩ ᶪ ᶫ 𝼑 𝼓
+ꝇ ꝇ : broken l was used in some medieval nordic manuscripts
+teuthonista phonetic transcription-specific symbols related to l:u+ab37 ꬷ latin small letter l with inverted lazy s
+u+ab38 ꬸ latin small letter l with double middle tilde
+u+ab39 ꬹ latin small letter l with middle ring
+u+ab5d ꭝ modifier letter small l with inverted lazy s
+u+ab5e ꭞ modifier letter small l with middle tilde
+l with diacritics: ĺ ĺ ł ł ľ ľ ḹ ḹ l̃ l̃ ļ ļ ŀ ŀ ḷ ḷ ḻ ḻ ḽ ḽ ƚ ƚ ⱡ ⱡ
+
+
+=== derived signs, symbols and abbreviations ===
+ℒ ℓ : script letter l (capital and lowercase, respectively)
+£ : pound sign
+ꝉ ꝉ : forms of l were used for medieval scribal abbreviations
+ł or ł, "l with stroke" used in polish and many neighbouring languages
+
+
+=== ancestors and siblings in other alphabets ===
+𐤋 : semitic letter lamedh, from which the following symbols originally derive
+λ λ : greek letter lambda, from which the following letters derive
+л л : cyrillic letter el
+ⲗⲗ : coptic letter lamda
+𐌋 : old italic letter l, which is the ancestor of modern latin l
+ᛚ : runic letter laguz, which might derive from old italic l
+𐌻 : gothic letter laaz
+
+
+== computing codes ==
+1 also for encodings based on ascii, including the dos, windows, iso-8859 and macintosh families of encodings.
+
+
+== other representations ==
+
+
+== notes ==
+
+
+== references ==
+
+
+== external links ==
+ media related to l at wikimedia commons
+ the dictionary definition of l at wiktionary
+ the dictionary definition of l at wiktionary
+ the dictionary definition of ℓ at wiktionary

@@ -1,1 +1,86 @@
-["n", "or", "n", "is", "the", "th", "letter", "in", "the", "latin", "alphabet", "used", "in", "the", "modern", "english", "alphabet", "the", "alphabets", "of", "other", "western", "european", "languages", "and", "others", "worldwide", "its", "name", "in", "english", "is", "en", "pronounced", "plural", "ens", "history", "one", "of", "the", "most", "common", "hieroglyphs", "snake", "was", "used", "in", "egyptian", "writing", "to", "stand", "for", "a", "sound", "like", "the", "english", "j", "because", "the", "egyptian", "word", "for", "\"snake\"", "was", "djet", "it", "is", "speculated", "by", "many", "that", "semitic", "speakers", "working", "in", "egypt", "adapted", "hieroglyphics", "to", "create", "the", "first", "alphabet", "and", "that", "they", "used", "the", "same", "snake", "symbol", "to", "represent", "n", "because", "their", "word", "for", "\"snake\"", "may", "have", "begun", "with", "that", "sound", "however", "the", "name", "for", "the", "letter", "in", "the", "phoenician", "hebrew", "aramaic", "and", "arabic", "alphabets", "is", "nun", "which", "means", "\"fish\"", "in", "some", "of", "these", "languages", "the", "sound", "value", "of", "the", "letter", "was", "nas", "in", "greek", "etruscan", "latin", "and", "modern", "languages", "use", "in", "writing", "systems", "n", "represents", "a", "dental", "or", "alveolar", "nasal", "in", "virtually", "all", "languages", "that", "use", "the", "latin", "alphabet", "and", "in", "the", "international", "phonetic", "alphabet", "a", "common", "digraph", "with", "n", "is", "ng", "which", "represents", "a", "velar", "nasal", "in", "a", "variety", "of", "languages", "usually", "positioned", "wordfinally", "in", "english", "often", "before", "a", "velar", "plosive", "as", "in", "ink", "or", "jungle", "n", "alone", "represents", "a", "velar", "nasal", "in", "italian", "and", "french", "gn", "represents", "a", "palatal", "nasal", "the", "portuguese", "and", "vietnamese", "spelling", "for", "this", "sound", "is", "nh", "while", "spanish", "breton", "and", "a", "few", "other", "languages", "use", "the", "letter", "\u00f1", "in", "english", "n", "is", "generally", "silent", "when", "it", "is", "preceded", "by", "an", "m", "at", "the", "end", "of", "words", "as", "in", "hymn", "however", "it", "is", "pronounced", "in", "this", "combination", "when", "occurring", "word", "medially", "as", "in", "hymnal", "on", "the", "other", "hand", "other", "consonants", "are", "often", "silent", "when", "they", "precede", "an", "n", "at", "the", "beginning", "of", "an", "english", "word", "examples", "include", "gnome", "knife", "mnemonic", "and", "pneumonia", "n", "is", "the", "sixthmost", "common", "letter", "and", "the", "secondmost", "commonly", "used", "consonant", "in", "the", "english", "language", "after", "t", "other", "uses", "in", "mathematics", "the", "italic", "form", "n", "is", "a", "particularly", "common", "symbol", "for", "a", "variable", "quantity", "which", "represents", "a", "natural", "number", "the", "set", "of", "natural", "numbers", "is", "referred", "to", "as", "n", "mathbb", "{n}", "related", "characters", "descendants", "and", "related", "characters", "in", "the", "latin", "alphabet", "n", "with", "diacritics", "\u00f1", "\u00f1", "phonetic", "alphabet", "symbols", "related", "to", "n", "the", "international", "phonetic", "alphabet", "only", "uses", "lowercase", "but", "uppercase", "forms", "are", "used", "in", "some", "other", "writing", "systems", "latin", "letter", "eng", "which", "represents", "a", "velar", "nasal", "in", "the", "ipa", "small", "letter", "eng", "with", "palatal", "hook", "which", "is", "used", "in", "phonetic", "transcription", "small", "letter", "reversed", "eng", "which", "is", "an", "extension", "to", "ipa", "for", "disordered", "speech", "extipa", "latin", "letter", "which", "represents", "a", "palatal", "nasal", "or", "an", "alveolopalatal", "nasal", "in", "the", "ipa", "n", "superscript", "small", "n", "which", "represents", "a", "nasal", "release", "in", "the", "ipa", "latin", "letter", "encoded", "in", "unicode", "as", "\"n", "with", "long", "right", "leg\"", "a", "mostly", "obsolete", "letter", "used", "to", "transcribe", "various", "nasal", "sounds", "latin", "letter", "n", "with", "a", "hook", "which", "represents", "a", "retroflex", "nasal", "in", "the", "ipa", "modifier", "letter", "small", "n", "with", "retroflex", "hook", "modifier", "letter", "small", "n", "with", "left", "hook", "small", "capital", "n", "which", "represents", "a", "uvular", "nasal", "in", "the", "ipa", "modifier", "letter", "small", "capital", "n", "uralic", "phonetic", "alphabetspecific", "symbols", "related", "to", "nu+de", "latin", "letter", "small", "capital", "reversed", "n", "u+da", "modifier", "letter", "capital", "n", "u+db", "modifier", "letter", "capital", "reversed", "n", "u+d", "modifier", "letter", "small", "eng", "n", "subscript", "small", "n", "was", "used", "in", "the", "uralic", "phonetic", "alphabet", "prior", "to", "its", "formal", "standardization", "in", "teuthonista", "phonetic", "transcription", "system", "uses", "u+abb", "latin", "small", "letter", "n", "with", "crossedtail", "and", "u+abc", "latin", "small", "letter", "eng", "with", "crossedtail", "n", "with", "curl", "is", "used", "in", "sinotibetanist", "linguistics", "n", "with", "descender", "small", "letter", "n", "with", "midheight", "left", "hook", "was", "used", "by", "the", "british", "and", "foreign", "bible", "society", "in", "the", "early", "th", "century", "for", "romanization", "of", "the", "malayalam", "language", "ancestors", "and", "siblings", "in", "other", "alphabets", "semitic", "letter", "nun", "from", "which", "the", "following", "symbols", "originally", "derive", "greek", "letter", "nu", "from", "which", "the", "following", "symbols", "originally", "derive", "coptic", "letter", "ne", "cyrillic", "letter", "en", "old", "italic", "n", "which", "is", "the", "ancestor", "of", "modern", "latin", "n", "gothic", "letter", "nau\u00fes", "derived", "signs", "symbols", "and", "abbreviations", "nigerian", "naira", "computing", "codes", "also", "for", "encodings", "based", "on", "ascii", "including", "the", "dos", "windows", "iso", "and", "macintosh", "families", "of", "encodings", "other", "representations", "see", "also", "u+", "cyrillic", "capital", "letter", "i", "u+de", "latin", "small", "capital", "reversed", "n", "phonetic", "symbol", "references", "external", "links", "media", "related", "to", "n", "at", "wikimedia", "commons", "the", "dictionary", "definition", "of", "n", "at", "wiktionary"]
+n, or n, is the 14th letter in the latin alphabet, used in the modern english alphabet, the alphabets of other western european languages and others worldwide. its name in english is en (pronounced ), plural ens.
+
+
+== history ==
+one of the most common hieroglyphs, snake, was used  in egyptian writing to stand for a sound like the english ⟨j⟩, because the egyptian word for "snake" was djet. it is speculated by many that semitic speakers working in egypt adapted hieroglyphics to create the first alphabet, and that they used the same snake symbol to represent n, because their word for "snake" may have begun with that sound. however, the name for the letter in the phoenician, hebrew, aramaic and arabic alphabets is nun, which means "fish" in some of these languages. the sound value of the letter was /n/—as in greek, etruscan, latin and modern languages.
+
+
+== use in writing systems ==
+⟨n⟩ represents a dental or alveolar nasal in virtually all languages that use the latin alphabet, and in the international phonetic alphabet. a common digraph with ⟨n⟩ is ⟨ng⟩, which represents a velar nasal in a variety of languages, usually positioned word-finally in english. often, before a velar plosive (as in ink or jungle), ⟨n⟩ alone represents a velar nasal. in italian and french, ⟨gn⟩ represents a palatal nasal /ɲ/. the portuguese and vietnamese spelling for this sound is ⟨nh⟩, while spanish, breton, and a few other languages use the letter ⟨ñ⟩.
+in english, ⟨n⟩ is generally silent when it is preceded by an ⟨m⟩ at the end of words, as in hymn; however, it is pronounced in this combination when occurring word medially, as in hymnal.
+on the other hand, other consonants are often silent when they precede an ⟨n⟩ at the beginning of an english word. examples include gnome, knife, mnemonic, and pneumonia.
+⟨n⟩ is the sixth-most common letter and the second-most commonly used consonant in the english language (after ⟨t⟩).
+
+
+== other uses ==
+in mathematics, the italic form n is a particularly common symbol for a variable quantity which represents a natural number. the set of natural numbers is referred to as 
+  
+    
+      
+        n
+      
+      .
+    
+    \mathbb {n} .
+  
+
+
+== related characters ==
+
+
+=== descendants and related characters in the latin alphabet ===
+n with diacritics: ń ń ñ ñ ň ň ǹ ǹ ṅ ṅ ṇ ṇ ņ ņ ṉ ṉ ṋ ṋ ꞥ ꞥ ᵰ ᶇ
+phonetic alphabet symbols related to n (the international phonetic alphabet only uses lowercase, but uppercase forms are used in some other writing systems):
+ŋ ŋ : latin letter eng, which represents a velar nasal in the ipa
+𝼔 : small letter eng with palatal hook, which is used in phonetic transcription
+𝼇 : small letter reversed eng, which is an extension to ipa for disordered speech (extipa)
+ɲ ɲ : latin letter ɲ, which represents a palatal nasal or an alveolo-palatal nasal in the ipa
+n : superscript small n, which represents a nasal release in the ipa
+ƞ ƞ : latin letter ƞ (encoded in unicode as "n with long right leg"), a mostly obsolete letter used to transcribe various nasal sounds
+ɳ : latin letter n with a hook, which represents a retroflex nasal in the ipa
+ᶯ : modifier letter small n with retroflex hook
+ᶮ : modifier letter small n with left hook
+ɴ : small capital n, which represents a uvular nasal in the ipa
+ᶰ : modifier letter small capital n
+uralic phonetic alphabet-specific symbols related to n:u+1d0e ᴎ latin letter small capital reversed n
+u+1d3a ᴺ modifier letter capital n
+u+1d3b ᴻ modifier letter capital reversed n
+u+1d51 ᵑ modifier letter small eng
+n : subscript small n was used in the uralic phonetic alphabet prior to its formal standardization in 1902
+teuthonista phonetic transcription system uses u+ab3b ꬻ latin small letter n with crossed-tail and u+ab3c ꬼ latin small letter eng with crossed-tail
+ȵ : n with curl is used in sino-tibetanist linguistics
+ꞑ ꞑ : n with descender
+small letter n with mid-height left hook was used by the british and foreign bible society in the early 20th century for romanization of the malayalam language.
+
+
+=== ancestors and siblings in other alphabets ===
+𐤍 : semitic letter nun, from which the following symbols originally derive
+ν ν : greek letter nu, from which the following symbols originally derive
+ⲛ ⲛ : coptic letter ne
+н н : cyrillic letter en
+𐌍 : old italic n, which is the ancestor of modern latin n
+𐌽 : gothic letter nauþs
+
+
+=== derived signs, symbols and abbreviations ===
+₦ : nigerian naira
+
+
+== computing codes ==
+1 also for encodings based on ascii, including the dos, windows, iso-8859 and macintosh families of encodings.
+
+
+== other representations ==
+
+
+== see also ==
+u+0418 и cyrillic capital letter i
+u+1d0e ᴎ latin small capital reversed n - phonetic symbol
+
+
+== references ==
+
+
+== external links ==
+ media related to n at wikimedia commons
+ the dictionary definition of n at wiktionary

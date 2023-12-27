@@ -1,0 +1,128 @@
+sex is the trait that determines whether a sexually reproducing organism produces male or female gametes. a male organism produces small mobile gametes (spermatozoa, sperm, pollen), while a female organism produces larger, non-mobile gametes (ova, often called egg cells). an organism that produces both types of gamete is called a hermaphrodite.  during sexual reproduction, a male and a female gamete fuse to form a zygote, which develops into an offspring that inherits traits from each parent.
+the male and female of a species may be physically alike (sexual monomorphism) or have physical differences (sexual dimorphism) that reflect various reproductive pressures on each sex. sexual selection or mate choice can accelerate the evolution of differences between the sexes.
+the terms 'male' and 'female' typically do not apply in sexually undifferentiated species in which the individuals are isomorphic (look the same) and the gametes are isogamous (indistinguishable in size and shape), such as the green alga ulva lactuca. some kinds of functional differences between individuals, such as in fungi, may be referred to as mating types.there are several sex-determination systems.  most mammalian species have the xy sex-determination system, where the male usually carries an x and a y chromosome (xy), and the female usually carries two x chromosomes (xx). other chromosomal sex-determination systems in animals include the zw system in birds, and the xo system in insects. various environmental systems include temperature-dependent sex determination in reptiles and crustaceans.
+
+
+== sexual reproduction ==
+
+sexual reproduction is a process exclusive to eukaryotes in which two individuals produce an offspring that possesses a selection of the genetic traits of each parent. genetic traits are encoded in the deoxyribonucleic acid (dna) of chromosomes. the eukaryote cell has a set of paired homologous chromosomes, one from each parent, and this double-chromosome stage is called "diploid". during sexual reproduction, a diploid organism produces specialized haploid sex cells called gametes via meiosis, each of which has a single set of chromosomes. meiosis involves a stage of genetic recombination  via chromosomal crossover, in which regions of dna are exchanged between matched pairs of chromosomes, to form new chromosomes, each with a new combination of the genes of the parents. then the chromosomes are separated into single sets in the gametes. each gamete in the offspring thus has half of the genetic material of the mother and half of the father. the combination of chromosomal crossover and fertilization, bringing the two single sets of chromosomes together to make a new diploid zygote, results in a new organism that contains a different set of the genetic traits of each parent.
+in animals, the haploid stage only occurs in the gametes, the haploid cells that are specialized to fuse to form a zygote that develops into a new diploid organism. in a plant species, the diploid organism produces a type of haploid spore by meiosis that is capable of undergoing repeated cell division to produce a multicellular haploid organism. in either case, the gametes may be externally similar (isogamy) as in the green alga ulva or may be different in size and other aspects (anisogamy).  the size difference is greatest in oogamy, a type of anisogamy in which a small, motile gamete combines with a much larger, non-motile gamete.in anisogamic organisms, by convention, the larger gamete (called an ovum, or egg cell) is considered female, while the smaller gamete (called a spermatozoon, or sperm cell) is considered male. an individual that produces large gametes is female, and one that produces small gametes is male. an individual that produces both types of gamete is a hermaphrodite. in some species, a hermaphrodite can self-fertilize and produce an offspring on its own.             
+
+
+=== animals ===
+
+most sexually reproducing animals spend their lives as diploid, with the haploid stage reduced to single-cell gametes. the gametes of animals have male and female forms—spermatozoa and egg cells, respectively. these gametes combine to form embryos which develop into new organisms.
+the male gamete, a spermatozoon (produced in vertebrates within the testes), is a small cell containing a single long flagellum which propels it.
+spermatozoa are extremely reduced cells, lacking many cellular components that would be necessary for embryonic development. they are specialized for motility, seeking out an egg cell and fusing with it in a process called fertilization.
+female gametes are egg cells. in vertebrates, they are produced within the ovaries. they are large, immobile cells that contain the nutrients and cellular components necessary for a developing embryo. egg cells are often associated with other cells which support the development of the embryo, forming an egg. in mammals, the fertilized embryo instead develops within the female, receiving nutrition directly from its mother.
+animals are usually mobile and seek out a partner of the opposite sex for mating. animals which live in the water can mate using external fertilization, where the eggs and sperm are released into and combine within the surrounding water. most animals that live outside of water, however, use internal fertilization, transferring sperm directly into the female to prevent the gametes from drying up.
+in most birds, both excretion and reproduction are done through a single posterior opening, called the cloaca—male and female birds touch cloaca to transfer sperm, a process called "cloacal kissing". in many other terrestrial animals, males use specialized sex organs to assist the transport of sperm—these male sex organs are called intromittent organs. in humans and other mammals, this male organ is known as the penis, which enters the female reproductive tract (called the vagina) to achieve insemination—a process called sexual intercourse. the penis contains a tube through which semen (a fluid containing sperm) travels. in female mammals, the vagina connects with the uterus, an organ which directly supports the development of a fertilized embryo within (a process called gestation).
+because of their motility, animal sexual behavior can involve coercive sex. traumatic insemination, for example, is used by some insect species to inseminate females through a wound in the abdominal cavity—a process detrimental to the female's health.
+
+
+=== plants ===
+
+like animals, land plants have specialized male and female gametes. in seed plants, male gametes are produced by reduced male gametophytes that are contained within hard coats, forming pollen. the female gametes of seed plants are contained within ovules. once fertilized, these form seeds which, like eggs, contain the nutrients necessary for the initial development of the embryonic plant.
+
+the flowers of flowering plants contain their sexual organs. flowers are usually hermaphroditic, containing both male and female sexual organs. the female parts, in the center of a flower, are the pistils, each unit consisting of a carpel, a style and a stigma. two or more of these reproductive units may be merged to form a single compound pistil, the fused carpels forming an ovary. within the carpels are ovules which develop into seeds after fertilization. the male parts of the flower are the stamens: these consist of long filaments arranged between the pistil and the petals that produce pollen in anthers at their tips. when a pollen grain lands upon the stigma on top of a carpel's style, it germinates to produce a pollen tube that grows down through the tissues of the style into the carpel, where it delivers male gamete nuclei to fertilize an ovule that eventually develops into a seed.
+some hermaphroditic plants are self-fertile, but plants have evolved multiple different self-incompatibility mechanisms to avoid self-fertilization, involving sequential hermaphroditism, molecular recognition systems and morphological mechanisms such as heterostyly.: 73, 74 in pines and other conifers, the sex organs are produced within cones that have male and female forms. male cones are smaller than female ones and produce pollen, which is transported by wind to land in female cones. the larger and longer-lived female cones are typically more durable, and contain ovules within them that develop into seeds after fertilization.
+because seed plants are immobile, they depend upon passive methods for transporting pollen grains to other plants. many, including conifers and grasses, produce lightweight pollen which is carried by wind to neighboring plants. some flowering plants have heavier, sticky pollen that is specialized for transportation by insects or larger animals such as hummingbirds and bats, which may be attracted to flowers containing rewards of nectar and pollen. these animals transport the pollen as they move to other flowers, which also contain female reproductive organs, resulting in pollination.
+
+
+=== fungi ===
+
+most species of fungus can reproduce sexually and have life cycles with both haploid and diploid phases. these species of fungus are typically isogamous, i.e. lacking male and female specialization. one haploid fungus grows into contact with another, and then they fuse their cells. in some cases, the fusion is asymmetric, and the cell which donates only a nucleus (and no accompanying cellular material) could arguably be considered male. fungi may also have more complex allelic mating systems, with other sexes not accurately described as male, female, or hermaphroditic.some fungi, including baker's yeast, have mating types that determine compatibility. yeasts with the same mating types will not fuse with each other to form diploid cells, only with yeast carrying another mating type.many species of higher fungi produce mushrooms as part of their sexual reproduction. within the mushroom, diploid cells are formed, later dividing into haploid spores.
+
+
+== sexual systems ==
+a sexual system is a distribution of male and female functions across organisms in a species.
+
+
+=== animals ===
+approximately 95% of animal species have separate male and female individuals, and are said to be gonochoric. about 5% of animal species are hermaphroditic. this low percentage is partially attributable to the very large number of insect species, in which hermaphroditism is absent. about 99% of vertebrates are gonochoric, and the remaining 1% that are hermaphroditic are almost all fishes.
+
+
+=== plants ===
+the majority of plants are bisexual,: 212  either hermaphrodite (with both stamens and pistil in the same flower) or monoecious. in dioecious species male and female sexes are on separate plants. about 5% of flowering plants are dioecious, resulting from as many as 5000 independent origins. dioecy is common in gymnosperms, in which about 65% of species are dioecious, but most conifers are monoecious.
+
+
+== evolution of sex ==
+
+it is generally accepted that isogamy was ancestral to anisogamy and that anisogamy evolved several times independently in different groups of eukaryotes, including protists, algae, plants, and animals. the evolution of anisogamy is synonymous with the origin of male and the origin of female. it is also the first step towards sexual dimorphism and influenced the evolution of various sex differences.however, the evolution of anisogamy has left no fossil evidence and until 2006 there was no genetic evidence for the evolutionary link between sexes and mating types. it is unclear whether anisogamy first led to the evolution of hermaphroditism or the evolution of gonochorism.: 213 but a 1.2 billion year old fossil from bangiomorpha pubescens has provided the oldest fossil record for the differentiation of male and female reproductive types and shown that sexes evolved early in eukaryotes.the original form of sex was external fertilization. internal fertilization, or sex as we know it, evolved later and became dominant for vertebrates after their emergence on land.
+
+
+== sex-determination systems ==
+
+the biological cause of an organism developing into one sex or the other is called sex determination.  the cause may be genetic, environmental, haplodiploidy, or multiple factors.  within animals and other organisms that have genetic sex-determination systems, the determining factor may be the presence of a sex chromosome. in plants that are sexually dimorphic, such as ginkgo biloba,: 203  the liverwort marchantia polymorpha or the dioecious species in the flowering plant genus silene, sex may also be determined by sex chromosomes. non-genetic systems may use environmental cues, such as the temperature during early development in crocodiles, to determine the sex of the offspring.sex determination is often distinct from sex differentiation. sex determination is the designation for the development stage towards either male or female while sex differentiation is the pathway towards the development of the phenotype.
+
+
+=== genetic ===
+
+
+==== xy sex determination ====
+humans and most other mammals have an xy sex-determination system: the y chromosome carries factors responsible for triggering male development, making xy sex determination mostly based on the presence or absence of the y chromosome. it is the male gamete that determines the sex of the offspring. in this system xx mammals typically are female and xy typically are male. however, individuals with xxy or xyy are males, while individuals with x and xxx are females. unusually, the platypus, a monotreme mammal, has ten sex chromosomes; females have ten x chromosomes, and males have five x chromosomes and five y chromosomes. platypus egg cells all have five x chromosomes, whereas sperm cells can either have five x chromosomes or five y chromosomes.xy sex determination is found in other organisms, including insects like the common fruit fly, and some plants. in some cases, it is the number of x chromosomes that determines sex rather than the presence of a y chromosome. in the fruit fly individuals with xy are male and individuals with xx are female; however, individuals with xxy or xxx can also be female, and individuals with x can be males.
+
+
+==== zw sex determination ====
+in birds, which have a zw sex-determination system, the w chromosome carries factors responsible for female development, and default development is male. in this case, zz individuals are male and zw are female. it is the female gamete that determines the sex of the offspring. this system is used by birds, some fish, and some crustaceans.the majority of butterflies and moths also have a zw sex-determination system. females can have z, zzw, and even zzww.
+
+
+==== xo sex determination ====
+in the xo sex-determination system, males have one x chromosome (xo) while females have two (xx). all other chromosomes in these diploid organisms are paired, but organisms may inherit one or two x chromosomes. this system is found in most arachnids, insects such as silverfish (apterygota), dragonflies (paleoptera) and grasshoppers (exopterygota), and some nematodes, crustaceans, and gastropods.in field crickets, for example, insects with a single x chromosome develop as male, while those with two develop as female.in the nematode caenorhabditis elegans, most worms are self-fertilizing hermaphrodites with an xx karyotype, but occasional abnormalities in chromosome inheritance can give rise to individuals with only one x chromosome—these xo individuals are fertile males (and half their offspring are male).
+
+
+==== zo sex determination ====
+in the zo sex-determination system, males have two z chromosomes whereas females have one. this system is found in several species of moths.
+
+
+=== environmental ===
+
+for many species, sex is not determined by inherited traits, but instead by environmental factors such as temperature experienced during development or later in life.in the fern ceratopteris and other homosporous fern species, the default sex is hermaphrodite, but individuals which grow in soil that has previously supported hermaphrodites are influenced by the pheromone antheridiogen to develop as male. the bonelliidae larvae can only develop as males when they encounter a female.
+
+
+==== sequential hermaphroditism ====
+some species can change sex over the course of their lifespan, a phenomenon called sequential hermaphroditism. teleost fishes are the only vertebrate lineage where sequential hermaphroditism occurs. in clownfish, smaller fish are male, and the dominant and largest fish in a group becomes female; when a dominant female is absent, then her partner changes sex. in many wrasses the opposite is true—the fish are initially female and become male when they reach a certain size. sequential hermaphroditism also occurs in plants such as arisaema triphyllum.
+
+
+==== temperature-dependent sex determination ====
+many reptiles, including all crocodiles and most turtles, have temperature-dependent sex determination. in these species, the temperature experienced by the embryos during their development determines their sex. in some turtles, for example, males are produced at lower temperatures than females; but macroclemys females are produced at temperatures lower than 22 °c or above 28 °c, while males are produced in between those temperatures.
+
+
+==== haplodiploidy ====
+certain insects, such as honey bees and ants, use a haplodiploid sex-determination system. diploid bees and ants are generally female, and haploid individuals (which develop from unfertilized eggs) are male. this sex-determination system results in highly biased sex ratios, as the sex of offspring is determined by fertilization (arrhenotoky or pseudo-arrhenotoky resulting in males) rather than the assortment of chromosomes during meiosis.
+
+
+== sex ratio ==
+
+
+== sex differences ==
+
+anisogamy is the fundamental difference between male and female. richard dawkins has stated that it is possible to interpret all the differences between the sexes as stemming from this.sex differences in humans include a generally larger size and more body hair in men, while women have larger breasts, wider hips, and a higher body fat percentage. in other species, there may be differences in coloration or other features, and may be so pronounced that the different sexes may be mistaken for two entirely different taxa.
+
+
+=== sexual dimorphism ===
+
+in many animals and some plants, individuals of male and female sex differ in size and appearance, a phenomenon called sexual dimorphism. sexual dimorphism in animals is often associated with sexual selection—the mating competition between individuals of one sex vis-à-vis the opposite sex. in many cases, the male of a species is larger than the female. mammal species with extreme sexual size dimorphism tend to have highly polygynous mating systems—presumably due to selection for success in competition with other males—such as the elephant seals. other examples demonstrate that it is the preference of females that drives sexual dimorphism, such as in the case of the stalk-eyed fly.females are the larger sex in a majority of animals. for instance, female southern black widow spiders are typically twice as long as the males. this size disparity may be associated with the cost of producing egg cells, which requires more nutrition than producing sperm: larger females are able to produce more eggs.sexual dimorphism can be extreme, with males, such as some anglerfish, living parasitically on the female. some plant species also exhibit dimorphism in which the females are significantly larger than the males, such as in the moss genus dicranum and the liverwort genus sphaerocarpos. there is some evidence that, in these genera, the dimorphism may be tied to a sex chromosome, or to chemical signalling from females.in birds, males often have a more colorful appearance and may have features (like the long tail of male peacocks) that would seem to put them at a disadvantage (e.g. bright colors would seem to make a bird more visible to predators). one proposed explanation for this is the handicap principle. this hypothesis argues that, by demonstrating he can survive with such handicaps, the male is advertising his genetic fitness to females—traits that will benefit daughters as well, who will not be encumbered with such handicaps.
+
+
+=== sexual characteristics ===
+
+
+=== sex differences in behavior ===
+
+the sexes across gonochoric species usually differ in behavior. in most animal species females invest more in parental care, although in some species, such as some coucals, the males invest more parental care. females also tend to be more choosy for who they mate with, such as most bird species. males tend to be more competitive for mating than females.
+
+
+== see also ==
+
+
+== references ==
+
+
+== further reading ==
+
+
+== external links ==
+
+human sexual differentiation (archived (2010)) – geneva foundation for medical education and research (gfmer)
+sexual reproduction and the evolution of sex (archived (2023)) − nature journal (2008)

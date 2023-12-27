@@ -1,6 +1,6 @@
 import requests
 import pickle
-import conf
+# import conf
 
 S = requests.Session()
 

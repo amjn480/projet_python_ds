@@ -1,1 +1,68 @@
-["p", "or", "p", "is", "the", "th", "letter", "of", "the", "latin", "alphabet", "used", "in", "the", "modern", "english", "alphabet", "the", "alphabets", "of", "other", "western", "european", "languages", "and", "others", "worldwide", "its", "name", "in", "english", "is", "pee", "pronounced", "plural", "pees", "history", "the", "semitic", "p\u00ea", "mouth", "as", "well", "as", "the", "greek", "or", "pi", "and", "the", "etruscan", "and", "latin", "letters", "that", "developed", "from", "the", "former", "alphabet", "all", "symbolized", "p", "a", "voiceless", "bilabial", "plosive", "use", "in", "writing", "systems", "in", "english", "orthography", "and", "most", "other", "european", "languages", "p", "represents", "the", "sound", "p", "a", "common", "digraph", "in", "english", "is", "ph", "which", "represents", "the", "sound", "and", "can", "be", "used", "to", "transliterate", "phi", "in", "loanwords", "from", "greek", "in", "german", "the", "digraph", "pf", "is", "common", "representing", "a", "labial", "affricate", "pf", "most", "english", "words", "beginning", "with", "p", "are", "of", "foreign", "origin", "primarily", "french", "latin", "and", "greek", "these", "languages", "preserve", "protoindoeuropean", "initial", "*p", "native", "english", "cognates", "of", "such", "words", "often", "start", "with", "f", "since", "english", "is", "a", "germanic", "language", "and", "thus", "has", "undergone", "grimm's", "law", "a", "native", "english", "word", "with", "initial", "p", "would", "reflect", "protoindoeuropean", "initial", "*b", "which", "is", "so", "rare", "that", "its", "existence", "as", "a", "phoneme", "is", "disputed", "however", "native", "english", "words", "with", "noninitial", "p", "are", "quite", "common", "such", "words", "can", "come", "from", "either", "kluge's", "law", "or", "the", "consonant", "cluster", "sp", "pie", "*p", "has", "been", "preserved", "after", "s", "in", "the", "international", "phonetic", "alphabet", "p", "is", "used", "to", "represent", "the", "voiceless", "bilabial", "plosive", "p", "is", "the", "eighth", "least", "frequently", "used", "letter", "in", "the", "english", "language", "music", "a", "bold", "italic", "letter", "p", "is", "used", "in", "musical", "notation", "as", "a", "dynamic", "indicator", "for", "\"quiet\"", "it", "stands", "for", "the", "italian", "word", "piano", "related", "characters", "ancestors", "descendants", "and", "siblings", "the", "latin", "letter", "p", "represents", "the", "same", "sound", "as", "the", "greek", "letter", "pi", "but", "it", "looks", "like", "the", "greek", "letter", "rho", "semitic", "letter", "pe", "from", "which", "the", "following", "symbols", "originally", "derive", "greek", "letter", "pi", "old", "italic", "and", "old", "latin", "p", "which", "derives", "from", "greek", "pi", "and", "is", "the", "ancestor", "of", "modern", "latin", "p", "the", "roman", "p", "had", "this", "form", "on", "coins", "and", "inscriptions", "until", "the", "reign", "of", "claudius", "c", "ad", "see", "also", "claudian", "letters", "gothic", "letter", "pertrapair\u00fea", "which", "derives", "from", "greek", "pi", "cyrillic", "letter", "pe", "which", "also", "derives", "from", "pi", "coptic", "letter", "pi", "armenian", "letter", "pe", "p", "with", "diacritics", "turned", "p", "uralic", "phonetic", "alphabetspecific", "symbols", "related", "to", "pu+d", "latin", "letter", "small", "capital", "p", "u+de", "modifier", "letter", "capital", "p", "u+d", "modifier", "letter", "small", "p", "p", "subscript", "small", "p", "was", "used", "in", "the", "uralic", "phonetic", "alphabet", "prior", "to", "its", "formal", "standardization", "in", "derived", "ligatures", "abbreviations", "signs", "and", "symbols", "philippine", "peso", "sign", "script", "letter", "p", "see", "weierstrass", "p", "sound", "recording", "copyright", "symbol", "pluto", "symbol", "reversed", "p", "was", "used", "in", "ancient", "roman", "texts", "to", "stand", "for", "puella", "girl", "various", "forms", "of", "p", "were", "used", "for", "medieval", "scribal", "abbreviations", "computing", "codes", "other", "representations", "see", "also", "mind", "your", "ps", "and", "qs", "pence", "or", "\"penny\"", "the", "english", "slang", "for", "which", "is", "p", "eg", "\"p\"", "pence", "references", "external", "links", "media", "related", "to", "p", "at", "wikimedia", "commons", "the", "dictionary", "definition", "of", "p", "at", "wiktionary", "the", "dictionary", "definition", "of", "p", "at", "wiktionary"]
+p, or p, is the 16th letter of the latin alphabet, used in the modern english alphabet, the alphabets of other western european languages and others worldwide. its name in english is pee (pronounced ), plural pees.
+
+
+== history ==
+the semitic pê (mouth), as well as the greek π or π (pi), and the etruscan and latin letters that developed from the former alphabet, all symbolized /p/, a voiceless bilabial plosive.
+
+
+== use in writing systems ==
+in english orthography and most other european languages, ⟨p⟩ represents the sound /p/.
+a common digraph in english is ⟨ph⟩, which represents the sound , and can be used to transliterate ⟨φ⟩ phi in loanwords from greek. in german, the digraph ⟨pf⟩ is common, representing a labial affricate /pf/.
+most english words beginning with ⟨p⟩ are of foreign origin, primarily french, latin and greek; these languages preserve proto-indo-european initial *p.    native english cognates of such words often start with ⟨f⟩, since english is a germanic language and thus has undergone grimm's law; a native english word with initial /p/ would reflect proto-indo-european initial *b, which is so rare that its existence as a phoneme is disputed.
+however, native english words with non-initial ⟨p⟩ are quite common; such words can come from either kluge's law or the consonant cluster /sp/ (pie *p has been preserved after s).
+in the international phonetic alphabet, /p/ is used to represent the voiceless bilabial plosive.
+p is the eighth least frequently used letter in the english language.
+
+
+=== music ===
+a bold italic letter p is used in musical notation as a dynamic indicator for "quiet". it stands for the italian word piano.
+
+
+== related characters ==
+
+
+=== ancestors, descendants and siblings ===
+the latin letter p represents the same sound as the greek letter pi, but it looks like the greek letter rho.
+
+𐤐 : semitic letter pe, from which the following symbols originally derive
+π π : greek letter pi
+𐌐 : old italic and old latin p, which derives from greek pi, and is the ancestor of modern latin p. the roman p had this form (𐌐) on coins and inscriptions until the reign of claudius, c. 50 ad (see also claudian letters).
+𐍀 : gothic letter pertra/pairþa, which derives from greek pi
+п п : cyrillic letter pe, which also derives from pi
+ⲡ ⲡ : coptic letter pi
+պ պ: armenian letter pe
+p with diacritics: ṕ ṕ ṗ ṗ ᵽ ᵽ ƥ ƥ ᵱ ᶈ
+turned p
+uralic phonetic alphabet-specific symbols related to p:u+1d18 ᴘ latin letter small capital p
+u+1d3e ᴾ modifier letter capital p
+u+1d56 ᵖ modifier letter small p
+p : subscript small p was used in the uralic phonetic alphabet prior to its formal standardization in 1902
+
+
+=== derived ligatures, abbreviations, signs and symbols ===
+₱ : philippine peso sign
+℘ : script letter p, see weierstrass p
+℗ : sound recording copyright symbol
+♇ : pluto symbol
+ꟼ : reversed p was used in ancient roman texts to stand for puella (girl)
+ꝑ ꝑ, ꝓ ꝓ, ꝕ, ꝕ : various forms of p were used for medieval scribal abbreviations
+
+
+== computing codes ==
+
+
+== other representations ==
+
+
+== see also ==
+mind your ps and qs
+pence or "penny," the english slang for which is p (e.g. "20p" = 20 pence)
+
+
+== references ==
+
+
+== external links ==
+ media related to p at wikimedia commons
+ the dictionary definition of p at wiktionary
+ the dictionary definition of p at wiktionary

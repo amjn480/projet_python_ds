@@ -1,1 +1,1 @@
-["p", "minuskua", "p", "jest", "szesnast", "liter", "alfabetu", "aciskiego", "dwudziest", "drug", "liter", "alfabetu", "polskiego", "i", "oznacza", "gosk", "p", "inne", "reprezentacje", "litery", "p", "zobacz", "te", "pi", "ro", "cyrylica"]
+"p (minusku\u0142a: p) jest szesnast\u0105 liter\u0105 alfabetu \u0142aci\u0144skiego, dwudziest\u0105 drug\u0105 liter\u0105 alfabetu polskiego i oznacza g\u0142osk\u0119 [p].\n\n\n== inne reprezentacje litery p ==\n\n\n== zobacz te\u017c ==\n\u03c0 (pi), \u03c1 (ro)\n\u043f (cyrylica), \u0440"

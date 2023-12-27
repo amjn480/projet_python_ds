@@ -1,1 +1,109 @@
-["s", "or", "s", "is", "the", "th", "letter", "in", "the", "latin", "alphabet", "used", "in", "the", "modern", "english", "alphabet", "the", "alphabets", "of", "other", "western", "european", "languages", "and", "others", "worldwide", "its", "name", "in", "english", "is", "ess", "pronounced", "plural", "esses", "history", "origin", "northwest", "semitic", "\u00een", "represented", "a", "voiceless", "postalveolar", "fricative", "as", "in", "'ship'", "it", "originated", "most", "likely", "as", "a", "pictogram", "of", "a", "tooth", "and", "represented", "the", "phoneme", "via", "the", "acrophonic", "principleancient", "greek", "did", "not", "have", "a", "phoneme", "so", "the", "derived", "greek", "letter", "sigma", "came", "to", "represent", "the", "voiceless", "alveolar", "sibilant", "s", "while", "the", "letter", "shape", "continues", "phoenician", "\u00een", "its", "name", "sigma", "is", "taken", "from", "the", "letter", "samekh", "while", "the", "shape", "and", "position", "of", "samekh", "but", "name", "of", "\u00een", "is", "continued", "in", "the", "xi", "within", "greek", "the", "name", "of", "sigma", "was", "influenced", "by", "its", "association", "with", "the", "greek", "word", "earlier", "*sigj", "\"to", "hiss\"", "the", "original", "name", "of", "the", "letter", "\"sigma\"", "may", "have", "been", "san", "but", "due", "to", "the", "complicated", "early", "history", "of", "the", "greek", "epichoric", "alphabets", "\"san\"", "came", "to", "be", "identified", "as", "a", "separate", "letter", "herodotus", "reports", "that", "\"san\"", "was", "the", "name", "given", "by", "the", "dorians", "to", "the", "same", "letter", "called", "\"sigma\"", "by", "the", "ioniansthe", "western", "greek", "alphabet", "used", "in", "cumae", "was", "adopted", "by", "the", "etruscans", "and", "latins", "in", "the", "th", "century", "bc", "over", "the", "following", "centuries", "developing", "into", "a", "range", "of", "old", "italic", "alphabets", "including", "the", "etruscan", "alphabet", "and", "the", "early", "latin", "alphabet", "in", "etruscan", "the", "value", "s", "of", "greek", "sigma", "was", "maintained", "while", "san", "represented", "a", "separate", "phoneme", "most", "likely", "transliterated", "as", "the", "early", "latin", "alphabet", "adopted", "sigma", "but", "not", "san", "as", "old", "latin", "did", "not", "have", "a", "phoneme", "the", "shape", "of", "latin", "s", "arises", "from", "greek", "by", "dropping", "one", "out", "of", "the", "four", "strokes", "of", "that", "letter", "the", "angular", "sshape", "composed", "of", "three", "strokes", "existed", "as", "a", "variant", "of", "the", "fourstroke", "letter", "already", "in", "the", "epigraphy", "in", "western", "greek", "alphabets", "and", "the", "three", "and", "four", "strokes", "variants", "existed", "alongside", "one", "another", "in", "the", "classical", "etruscan", "alphabet", "in", "other", "italic", "alphabets", "venetic", "lepontic", "the", "letter", "could", "be", "represented", "as", "a", "zigzagging", "line", "of", "any", "number", "between", "three", "and", "six", "strokes", "the", "italic", "letter", "was", "also", "adopted", "into", "elder", "futhark", "as", "sowil", "and", "appears", "with", "four", "to", "eight", "strokes", "in", "the", "earliest", "runic", "inscriptions", "but", "is", "occasionally", "reduced", "to", "three", "strokes", "from", "the", "later", "th", "century", "and", "appears", "regularly", "with", "three", "strokes", "in", "younger", "futhark", "long", "s", "the", "minuscule", "form", "called", "the", "long", "s", "developed", "in", "the", "early", "medieval", "period", "within", "the", "visigothic", "and", "carolingian", "hands", "with", "predecessors", "in", "the", "halfuncial", "and", "cursive", "scripts", "of", "late", "antiquity", "it", "remained", "standard", "in", "western", "writing", "throughout", "the", "medieval", "period", "and", "was", "adopted", "in", "early", "printing", "with", "movable", "types", "it", "existed", "alongside", "minuscule", "\"round\"", "or", "\"short\"", "s", "which", "was", "at", "the", "time", "only", "used", "at", "the", "end", "of", "words", "in", "most", "western", "orthographies", "the", "gradually", "fell", "out", "of", "use", "during", "the", "second", "half", "of", "the", "th", "century", "although", "it", "remained", "in", "occasional", "use", "into", "the", "th", "century", "in", "spain", "the", "change", "was", "mainly", "accomplished", "between", "and", "in", "france", "the", "change", "occurred", "between", "and", "printers", "in", "the", "united", "states", "stopped", "using", "the", "long", "s", "between", "and", "in", "english", "orthography", "the", "london", "printer", "john", "bell", "pioneered", "the", "change", "his", "edition", "of", "shakespeare", "in", "was", "advertised", "with", "the", "claim", "that", "he", "\"ventured", "to", "depart", "from", "the", "common", "mode", "by", "rejecting", "the", "long", "''", "in", "favor", "of", "the", "round", "one", "as", "being", "less", "liable", "to", "error\"", "the", "times", "of", "london", "made", "the", "switch", "from", "the", "long", "to", "the", "short", "s", "with", "its", "issue", "of", "september", "encyclop\u00e6dia", "britannica's", "th", "edition", "completed", "in", "was", "the", "last", "edition", "to", "use", "the", "long", "s", "in", "german", "orthography", "long", "s", "was", "retained", "in", "fraktur", "schwabacher", "type", "as", "well", "as", "in", "standard", "cursive", "s\u00fctterlin", "well", "into", "the", "th", "century", "and", "was", "officially", "abolished", "in", "the", "ligature", "of", "s", "or", "z", "was", "retained", "however", "giving", "rise", "to", "the", "eszett", "\u00df", "in", "contemporary", "german", "orthography", "use", "in", "writing", "systems", "the", "letter", "s", "is", "the", "seventh", "most", "common", "letter", "in", "english", "and", "the", "thirdmost", "common", "consonant", "after", "t", "and", "n", "it", "is", "the", "most", "common", "letter", "for", "the", "first", "letter", "of", "a", "word", "in", "the", "english", "languagein", "english", "and", "several", "other", "languages", "primarily", "western", "romance", "ones", "like", "spanish", "and", "french", "final", "s", "is", "the", "usual", "mark", "of", "plural", "nouns", "it", "is", "the", "regular", "ending", "of", "english", "third", "person", "present", "tense", "verbs", "s", "represents", "the", "voiceless", "alveolar", "or", "voiceless", "dental", "sibilant", "s", "in", "most", "languages", "as", "well", "as", "in", "the", "international", "phonetic", "alphabet", "it", "also", "commonly", "represents", "the", "voiced", "alveolar", "or", "voiced", "dental", "sibilant", "z", "as", "in", "portuguese", "mesa", "table", "or", "english", "'rose'", "and", "'bands'", "or", "it", "may", "represent", "the", "voiceless", "palatoalveolar", "fricative", "as", "in", "most", "portuguese", "dialects", "when", "syllablefinally", "in", "hungarian", "in", "german", "before", "p", "t", "and", "some", "english", "words", "as", "'sugar'", "since", "yodcoalescence", "became", "a", "dominant", "feature", "and", "as", "in", "english", "'measure'", "also", "because", "of", "yodcoalescence", "european", "portuguese", "isl\u00e3o", "islam", "or", "in", "many", "sociolects", "of", "brazilian", "portuguese", "esdr\u00faxulo", "proparoxytone", "in", "some", "andalusian", "dialects", "it", "merged", "with", "peninsular", "spanish", "c", "and", "z", "and", "is", "now", "pronounced", "in", "some", "english", "words", "of", "french", "origin", "the", "letter", "s", "is", "silent", "as", "in", "'isle'", "or", "'debris'", "in", "turkmen", "s", "represents", "the", "sh", "digraph", "for", "english", "arises", "in", "middle", "english", "alongside", "sch", "replacing", "the", "old", "english", "sc", "digraph", "similarly", "old", "high", "german", "sc", "was", "replaced", "by", "sch", "in", "early", "modern", "high", "german", "orthography", "related", "characters", "descendants", "and", "related", "characters", "in", "the", "latin", "alphabet", "latin", "letter", "long", "s", "an", "obsolete", "variant", "of", "s", "various", "forms", "of", "long", "s", "were", "used", "for", "medieval", "scribal", "abbreviations", "\u00df", "\u00df", "german", "eszett", "or", "\"sharp", "s\"", "derived", "from", "a", "ligature", "of", "long", "s", "followed", "by", "either", "s", "or", "z", "s", "with", "diacritics", "s", "s", "s", "s", "subscript", "small", "s", "was", "used", "in", "the", "uralic", "phonetic", "alphabet", "prior", "to", "its", "formal", "standardization", "in", "modifier", "letter", "small", "s", "is", "used", "for", "phonetic", "transcription", "small", "capital", "s", "was", "used", "in", "the", "icelandic", "first", "grammatical", "treatise", "to", "mark", "gemination", "s", "with", "hook", "used", "for", "writing", "mandarin", "chinese", "using", "the", "early", "draft", "version", "of", "pinyin", "romanization", "during", "the", "mids", "latin", "letter", "reversed", "s", "used", "in", "zhuang", "transliteration", "latin", "small", "letter", "s", "with", "midheight", "left", "hook", "was", "used", "by", "the", "british", "and", "foreign", "bible", "society", "in", "the", "early", "th", "century", "for", "romanization", "of", "the", "malayalam", "language", "ipaspecific", "symbols", "related", "to", "s", "paraipa", "version", "of", "the", "ipa", "fricative", "insular", "s", "used", "in", "middle", "scots", "latin", "letter", "sigmoid", "s", "was", "used", "in", "medieval", "palaeography", "derived", "signs", "symbols", "and", "abbreviations", "$", "dollar", "sign", "spesmilo", "\u00a7", "section", "sign", "service", "mark", "symbol", "integral", "symbol", "short", "for", "summation", "derived", "from", "long", "s", "ancestors", "and", "siblings", "in", "other", "alphabets", "semitic", "letter", "shin", "from", "which", "the", "following", "symbols", "originally", "derive", "archaic", "greek", "sigma", "could", "be", "written", "with", "different", "numbers", "of", "angles", "and", "strokes", "besides", "the", "classical", "form", "with", "four", "strokes", "a", "threestroke", "form", "resembling", "an", "angular", "latin", "s", "was", "commonly", "found", "and", "was", "particularly", "characteristic", "of", "some", "mainland", "greek", "varieties", "including", "attic", "and", "several", "\"red\"", "alphabets", "classical", "greek", "letter", "sigma", "greek", "lunate", "sigma", "coptic", "letter", "sima", "cyrillic", "letter", "es", "derived", "from", "a", "form", "of", "sigma", "old", "italic", "letter", "s", "includes", "the", "variants", "also", "found", "in", "the", "archaic", "greek", "letter", "s", "latin", "letter", "s", "runic", "letter", "sowilo", "which", "is", "derived", "from", "old", "italic", "s", "gothic", "letter", "sigil", "armenian", "letter", "se", "computing", "codes", "also", "for", "encodings", "based", "on", "ascii", "including", "the", "dos", "windows", "iso", "and", "macintosh", "families", "of", "encodings", "other", "representations", "chemistry", "the", "letter", "s", "is", "used", "in", "a", "chemical", "formula", "to", "represent", "sulfur", "for", "example", "so", "is", "sulfur", "dioxide", "in", "the", "preferred", "iupac", "name", "for", "a", "chemical", "to", "indicate", "a", "specific", "enantiomer", "for", "example", "\"schloromethylphenoxypropanoic", "acid\"", "is", "one", "of", "the", "enantiomers", "of", "mecoprop", "see", "also", "cool", "s", "see", "about", "in", "enclosed", "alphanumerics", "notes", "references", "external", "links", "media", "related", "to", "s", "at", "wikimedia", "commons", "the", "dictionary", "definition", "of", "s", "at", "wiktionary", "the", "dictionary", "definition", "of", "s", "at", "wiktionary", "\"s\"", "the", "new", "student's", "reference", "work"]
+s, or s, is the 19th letter in the latin alphabet, used in the modern english alphabet, the alphabets of other western european languages and others worldwide. its name in english is ess (pronounced ), plural esses.
+
+
+== history ==
+
+
+=== origin ===
+
+northwest semitic šîn represented a voiceless postalveolar fricative /ʃ/ (as in 'ship'). it originated most likely as a pictogram of a tooth (שנא) and represented the phoneme /ʃ/ via the acrophonic principle.ancient greek did not have a  /ʃ/ phoneme, so the derived greek letter sigma (σ) came to represent the voiceless alveolar sibilant /s/. 
+while the letter shape σ continues phoenician šîn, its name sigma is taken from the letter samekh, while the shape and position of samekh but name of šîn is continued in the xi.
+within greek, the name of sigma was influenced by its association with the greek word σίζω (earlier *sigj-) "to hiss". the original name of the letter "sigma" may have been san, but due to the complicated early history of the greek epichoric alphabets, "san" came to be identified as a separate letter, ϻ. herodotus reports that "san" was the name given by the  dorians to the same letter called "sigma" by the ionians.the western greek alphabet used in cumae was adopted by the etruscans and latins in the 7th century bc, over the following centuries developing into a range of old italic alphabets including the etruscan alphabet and the early latin alphabet.
+in etruscan, the value /s/ of greek sigma (𐌔) was maintained, while san (𐌑)
+represented a separate phoneme, most likely /ʃ/ (transliterated as ś). 
+the early latin alphabet adopted sigma, but not san, as old latin did not have a  /ʃ/ phoneme.
+the shape of latin s arises from greek σ by dropping one out of the four strokes of that letter.
+the (angular) s-shape composed of three strokes existed as a variant of the four-stroke letter σ already in the epigraphy in western greek alphabets, and the three and four strokes variants existed alongside one another in the classical etruscan alphabet. in other italic alphabets (venetic, lepontic), the letter could be represented as a zig-zagging line of any number between three and six strokes.
+the italic letter was also adopted into elder futhark, as sowilō (ᛊ), and appears with four to eight strokes in the earliest runic inscriptions, but is occasionally reduced to three strokes (ᛋ) from the later 5th century, and appears regularly with three strokes in younger futhark.
+
+
+=== long s ===
+
+the minuscule form  ſ, called the long s, developed in the early medieval period, within the visigothic and carolingian hands, with predecessors in the half-uncial and cursive scripts of late antiquity. it remained standard in western writing throughout the medieval period and was adopted in early printing with movable types. 
+it existed alongside minuscule "round" or "short" s, which was at the time only used at the end of words.
+in most western orthographies, the ſ gradually fell out of use during the second half of the 18th century, although it remained in occasional use into the 19th century.
+in spain, the change was mainly accomplished between 1760 and 1766. in france, the change occurred between 1782 and 1793. printers in the united states stopped using the long s between 1795 and 1810. in english orthography, the london printer john bell (1745–1831) pioneered the change. his edition of shakespeare, in 1785, was advertised with the claim that he "ventured to depart from the common mode by rejecting the long 'ſ' in favor of the round one, as being less liable to error....."   the times of london made the switch from the long to the short s with its issue of 10 september 1803. 
+encyclopædia britannica's 5th edition, completed in 1817, was the last edition to use the long s.
+in german orthography, long s was retained in fraktur (schwabacher) type as well as in standard cursive (sütterlin) well into the 20th century, until official use of that typeface was abolished in 1941.
+the ligature of ſs (or ſz) was retained, however, giving rise to the eszett ⟨ß⟩, in contemporary german orthography.
+
+
+== use in writing systems ==
+the letter ⟨s⟩ is the seventh most common letter in english and the third-most common consonant after ⟨t⟩ and ⟨n⟩. it is the most common letter for the first letter of a word in the english language.in english and several other languages, primarily western romance ones like spanish and french, final ⟨s⟩ is the usual mark of plural nouns. it is the regular ending of english third person present tense verbs.
+⟨s⟩ represents the voiceless alveolar or voiceless dental sibilant /s/ in most languages as well as in the international phonetic alphabet. it also commonly represents the voiced alveolar or voiced dental sibilant /z/, as in portuguese mesa (table) or english 'rose' and 'bands', or it may represent the voiceless palato-alveolar fricative [ʃ], as in most portuguese dialects when syllable-finally, in hungarian, in german (before ⟨p⟩, ⟨t⟩) and some english words as 'sugar', since yod-coalescence became a dominant feature, and [ʒ], as in english 'measure' (also because of yod-coalescence), european portuguese islão (islam) or, in many sociolects of brazilian portuguese, esdrúxulo (proparoxytone) in some andalusian dialects, it merged with peninsular spanish ⟨c⟩ and ⟨z⟩ and is now pronounced [θ].  in some english words of french origin, the letter ⟨s⟩ is silent, as in 'isle' or 'debris'. in turkmen, ⟨s⟩ represents [θ].
+the ⟨sh⟩ digraph for english  /ʃ/ arises in middle english (alongside ⟨sch⟩), replacing the old english ⟨sc⟩ digraph. similarly, old high german ⟨sc⟩ was replaced by ⟨sch⟩ in early modern high german orthography.
+
+
+== related characters ==
+
+
+=== descendants and related characters in the latin alphabet ===
+ſ : latin letter long s, an obsolete variant of s
+ẜ ẝ : various forms of long s were used for medieval scribal abbreviations
+ß ß : german eszett or "sharp s", derived from a ligature of long s followed by either s or z
+s with diacritics: ś ś ṡ ṡ ẛ ṩ ṩ ṥ ṥ ṣ ṣ s̩ s̩ ꞩ ꞩ ꟊꟊ ŝ ŝ ṧ ṧ š š ş ş ș ș s̈ s̈ ᶊ ȿ ȿ ᵴ ᶳ
+ₛ : subscript small s was used in the uralic phonetic alphabet prior to its formal standardization in 1902
+ˢ : modifier letter small s is used for phonetic transcription
+ꜱ : small capital s was used in the icelandic first grammatical treatise to mark gemination
+ʂ ʂ : s with hook, used for writing mandarin chinese using the early draft version of pinyin romanization during the mid-1950s
+ƨ ƨ : latin letter reversed s (used in zhuang transliteration)
+𝼩 : latin small letter s with mid-height left hook was used by the british and foreign bible society in the early 20th century for romanization of the malayalam language.
+ipa-specific symbols related to s: ʃ ɧ ʂ
+para-ipa version of the ipa fricative ɕ: 𝼞 𐞺
+ꞅ ꞅ : insular s
+Ꟗ ꟗ : used in middle scots
+Ꟙ ꟙ : latin letter sigmoid s was used in medieval palaeography
+
+
+=== derived signs, symbols, and abbreviations ===
+$ : dollar sign
+₷ : spesmilo
+§ : section sign
+℠ : service mark symbol
+∫ : integral symbol, short for summation (derived from long s)
+
+
+=== ancestors and siblings in other alphabets ===
+𐤔 : semitic letter shin, from which the following symbols originally derive
+archaic greek sigma could be written with different numbers of angles and strokes. besides the classical form with four strokes (), a three-stroke form resembling an angular latin s () was commonly found, and was particularly characteristic of some mainland greek varieties including attic and several "red" alphabets.
+σ: classical greek letter sigma
+ϲ ϲ: greek lunate sigma
+ⲥ ⲥ : coptic letter sima
+с с : cyrillic letter es, derived from a form of sigma
+𐌔 : old italic letter s, includes the variants also found in the archaic greek letter
+s: latin letter s
+ᛊ, ᛋ, ᛌ : runic letter sowilo, which is derived from old italic s
+𐍃: gothic letter sigil
+ս : armenian letter se
+
+
+== computing codes ==
+1 also for encodings based on ascii, including the dos, windows, iso-8859 and macintosh families of encodings.
+
+
+== other representations ==
+
+
+== chemistry ==
+the letter s is used:
+
+in a chemical formula to represent sulfur. for example, so2 is sulfur dioxide.
+in the preferred iupac name for a chemical, to indicate a specific enantiomer. for example, "(s)-2-(4-chloro-2-methylphenoxy)propanoic acid" is one of the enantiomers of mecoprop.
+
+
+== see also ==
+cool s
+see about ⓢ in enclosed alphanumerics
+
+
+== notes ==
+
+
+== references ==
+
+
+== external links ==
+ media related to s at wikimedia commons
+ the dictionary definition of s at wiktionary
+ the dictionary definition of s at wiktionary
+"s" . the new student's reference work . 1914.

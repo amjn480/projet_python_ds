@@ -1,1 +1,75 @@
-["m", "or", "m", "is", "the", "th", "letter", "in", "the", "latin", "alphabet", "used", "in", "the", "modern", "english", "alphabet", "the", "alphabets", "of", "other", "western", "european", "languages", "and", "others", "worldwide", "its", "name", "in", "english", "is", "em", "pronounced", "plural", "ems", "history", "the", "letter", "m", "is", "derived", "from", "the", "phoenician", "mem", "via", "the", "greek", "mu", "semitic", "mem", "is", "most", "likely", "derived", "from", "a", "\"protosinaitic\"", "bronze", "age", "adoption", "of", "the", "\"water\"", "ideogram", "in", "egyptian", "writing", "the", "egyptian", "sign", "had", "the", "acrophonic", "value", "n", "from", "the", "egyptian", "word", "for", "\"water\"", "nt", "the", "adoption", "as", "the", "semitic", "letter", "for", "m", "was", "presumably", "also", "on", "acrophonic", "grounds", "from", "the", "semitic", "word", "for", "\"water\"", "*my", "use", "in", "writing", "systems", "the", "letter", "m", "represents", "the", "bilabial", "nasal", "consonant", "sound", "m", "in", "the", "orthography", "of", "latin", "as", "well", "as", "in", "that", "of", "many", "modern", "languages", "and", "also", "in", "the", "international", "phonetic", "alphabet", "in", "english", "the", "oxford", "english", "dictionary", "first", "edition", "says", "that", "m", "is", "sometimes", "a", "vowel", "in", "words", "like", "spasm", "and", "in", "the", "suffix", "ism", "in", "modern", "terminology", "this", "is", "described", "as", "a", "syllabic", "consonant", "ipa", "m", "m", "is", "the", "fourteenth", "most", "frequently", "used", "letter", "in", "the", "english", "language", "in", "washo", "lowercase", "m", "represents", "a", "typical", "em", "sound", "while", "uppercase", "m", "represents", "a", "voiceless", "em", "sound", "other", "uses", "the", "roman", "numeral", "m", "represents", "the", "number", "though", "it", "was", "not", "used", "in", "roman", "times", "there", "is", "however", "scant", "evidence", "that", "the", "letter", "was", "later", "introduced", "in", "the", "early", "centuries", "ad", "by", "the", "romans", "unit", "prefix", "m", "mega", "meaning", "one", "million", "times", "and", "m", "milli", "meaning", "onethousandth", "m", "is", "the", "standard", "abbreviation", "for", "metre", "or", "meter", "in", "the", "international", "system", "of", "units", "si", "however", "m", "is", "also", "used", "as", "an", "abbreviation", "for", "mile", "m", "is", "used", "as", "the", "unit", "abbreviation", "for", "molarity", "with", "money", "amounts", "m", "or", "m", "can", "mean", "one", "million", "for", "example", "$m", "is", "five", "million", "dollars", "m", "often", "represents", "male", "or", "masculine", "especially", "in", "conjunction", "with", "f", "for", "female", "or", "feminine", "m", "james", "bond", "is", "a", "fictional", "character", "in", "ian", "fleming's", "james", "bond", "book", "and", "film", "series", "in", "typography", "an", "em", "dash", "is", "a", "punctuation", "symbol", "whose", "width", "is", "equal", "to", "that", "of", "a", "capital", "letter", "m", "related", "characters", "descendants", "and", "related", "characters", "in", "the", "latin", "alphabet", "m", "with", "diacritics", "m", "m", "ipaspecific", "symbols", "related", "to", "m", "capital", "m", "with", "hook", "uralic", "phonetic", "alphabetspecific", "symbols", "related", "to", "mu+dd", "latin", "letter", "small", "capital", "m", "u+df", "latin", "small", "letter", "sideways", "turned", "m", "u+d", "modifier", "letter", "capital", "m", "u+d", "modifier", "letter", "small", "m", "u+da", "modifier", "letter", "small", "turned", "m", "some", "symbols", "related", "to", "m", "were", "used", "by", "the", "uralic", "phonetic", "alphabet", "prior", "to", "its", "formal", "standardization", "in", "u+", "latin", "subscript", "small", "letter", "m", "u+afa", "latin", "letter", "small", "capital", "turned", "m", "the", "teuthonista", "phonetic", "transcription", "system", "uses", "u+aba", "latin", "small", "letter", "m", "with", "crossedtail", "other", "variations", "used", "for", "phonetic", "transcription", "turned", "m", "inverted", "m", "was", "used", "in", "ancient", "roman", "texts", "to", "stand", "for", "mulier", "woman", "archaic", "m", "was", "used", "in", "ancient", "roman", "texts", "to", "abbreviate", "the", "personal", "name", "'manius'", "a", "regular", "capital", "m", "was", "used", "for", "the", "more", "common", "personal", "name", "'marcus'", "currency", "symbol", "for", "mark", "ancestors", "and", "siblings", "in", "other", "alphabets", "semitic", "letter", "mem", "from", "which", "the", "following", "symbols", "originally", "derive", "greek", "letter", "mu", "from", "which", "m", "derives", "coptic", "letter", "me", "which", "derives", "from", "greek", "mu", "cyrillic", "letter", "em", "also", "derived", "from", "mu", "old", "italic", "m", "which", "derives", "from", "greek", "mu", "and", "is", "the", "ancestor", "of", "modern", "latin", "m", "runic", "letter", "mannaz", "which", "derives", "from", "old", "italic", "m", "gothic", "letter", "manna", "which", "derives", "from", "greek", "mu", "ligatures", "and", "abbreviations", "mill", "currency", "trademark", "symbol", "service", "mark", "symbol", "computing", "codes", "also", "for", "encodings", "based", "on", "ascii", "including", "the", "dos", "windows", "iso", "and", "macintosh", "families", "of", "encodings", "other", "representations", "references", "external", "links", "media", "related", "to", "m", "at", "wikimedia", "commons", "the", "dictionary", "definition", "of", "m", "at", "wiktionary", "the", "dictionary", "definition", "of", "m", "at", "wiktionary"]
+m, or m, is the 13th letter in the latin alphabet, used in the modern english alphabet, the alphabets of other western european languages and others worldwide. its name in english is em (pronounced ), plural ems.
+
+
+== history ==
+the letter m is derived from the phoenician mem, via the greek mu (μ, μ). semitic mem is most likely derived from a "proto-sinaitic"  (bronze age) adoption of the  "water" ideogram in egyptian writing. the egyptian sign had the acrophonic value /n/, from the egyptian word for "water", nt; the adoption as the semitic letter for /m/ was presumably also on acrophonic grounds, from the semitic word for "water", *mā(y)-.
+
+
+== use in writing systems ==
+the letter ⟨m⟩ represents the bilabial nasal consonant sound [m] in the orthography of latin as well as in that of many modern languages, and also in the international phonetic alphabet. in english, the oxford english dictionary (first edition) says that ⟨m⟩ is sometimes a vowel, in words like spasm and in the suffix -ism. in modern terminology, this is described as a syllabic consonant (ipa [m̩]). m is the fourteenth most frequently used letter in the english language.
+in washo, lower-case ⟨m⟩ represents a typical em sound, while upper-case ⟨m⟩ represents a voiceless em sound.
+
+
+== other uses ==
+the roman numeral m represents the number 1000, though it was not used in roman times. there is, however, scant evidence that the letter was later introduced in the early centuries a.d. by the romans.
+unit prefix m (mega), meaning one million times, and m (milli) meaning one-thousandth.
+m is the standard abbreviation for metre (or meter) in the international system of units (si). however, m is also used as an abbreviation for mile.
+m is used as the unit abbreviation for molarity.
+with money amounts, m or m can mean one million: for example, $5m is five million dollars.
+m often represents male or masculine, especially in conjunction with f for female or feminine.
+m (james bond) is a fictional character in ian fleming's james bond book and film series.
+in typography, an em dash is a punctuation symbol whose width is equal to that of a capital letter m.
+
+
+== related characters ==
+
+
+=== descendants and related characters in the latin alphabet ===
+m with diacritics: ḿ ḿ ṁ ṁ ṃ ṃ m̃ m̃ ᵯ
+ipa-specific symbols related to m: ɱ ɰ
+ɱ : capital m with hook
+uralic phonetic alphabet-specific symbols related to m:u+1d0d ᴍ latin letter small capital m
+u+1d1f ᴟ latin small letter sideways turned m
+u+1d39 ᴹ modifier letter capital m
+u+1d50 ᵐ modifier letter small m
+u+1d5a ᵚ modifier letter small turned m
+some symbols related to m were used by the uralic phonetic alphabet prior to its formal standardization in 1902:u+2098 ₘ latin subscript small letter m
+u+a7fa ꟺ latin letter small capital turned m
+the teuthonista phonetic transcription system uses u+ab3a ꬺ latin small letter m with crossed-tail
+other variations used for phonetic transcription: ᶆ ᶬ ᶭ
+ɯ ɯ : turned m
+ꟽ : inverted m was used in ancient roman texts to stand for mulier (woman)
+ꟿ : archaic m was used in ancient roman texts to abbreviate the personal name 'manius' (a regular capital m was used for the more common personal name 'marcus')
+ℳ : currency symbol for mark
+
+
+=== ancestors and siblings in other alphabets ===
+𐤌 : semitic letter mem, from which the following symbols originally derive
+μ μ : greek letter mu, from which m derives
+ⲙ ⲙ : coptic letter me, which derives from greek mu
+м м : cyrillic letter em, also derived from mu
+𐌌 : old italic m, which derives from greek mu, and is the ancestor of modern latin m
+ᛗ : runic letter mannaz, which derives from old italic m
+𐌼 : gothic letter manna, which derives from greek mu
+
+
+=== ligatures and abbreviations ===
+₥ : mill (currency)
+™ : trademark symbol
+℠ : service mark symbol
+
+
+== computing codes ==
+1 also for encodings based on ascii, including the dos, windows, iso-8859 and macintosh families of encodings.
+
+
+== other representations ==
+
+
+== references ==
+
+
+== external links ==
+ media related to m at wikimedia commons
+ the dictionary definition of m at wiktionary
+ the dictionary definition of m at wiktionary

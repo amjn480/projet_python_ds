@@ -1,1 +1,102 @@
-["la", "a", "en", "may\u00fascula", "a", "nombre", "a", "plural", "aes", "es", "la", "primera", "letra", "del", "alfabeto", "latino", "b\u00e1sico", "y", "de", "los", "alfabetos", "derivados", "del", "mismo", "en", "el", "alfabeto", "fon\u00e9tico", "internacional", "representa", "la", "vocal", "abierta", "central", "no", "redondeada", "\u00e4", "en", "la", "ortograf\u00eda", "de", "numerosas", "lenguas", "de", "escritura", "latina", "tiene", "ese", "mismo", "valor", "historia", "la", "letra", "a", "proviene", "de", "la", "letra", "griega", "alfa", "que", "a", "su", "vez", "proviene", "de", "alep", "la", "primera", "letra", "del", "alfabeto", "fenicio", "alep", "podr\u00eda", "provenir", "del", "pictograma", "de", "la", "cabeza", "de", "un", "buey", "en", "la", "escritura", "protosina\u00edtica", "los", "fenicios", "precisamente", "nombraron", "a", "esta", "letra", "'aleph'", "que", "significa", "buey", "en", "fenicio", "por", "su", "parecido", "a", "la", "cabeza", "de", "un", "toro", "la", "forma", "de", "este", "pictograma", "procede", "de", "la", "antigua", "escritura", "hier\u00e1tica", "egipcia", "que", "representaba", "la", "cabeza", "del", "dios", "apis", "un", "buey", "con", "cuernos", "y", "que", "se", "muestra", "en", "la", "figura", "en", "el", "idioma", "fenicio", "y", "otras", "lenguas", "sem\u00edticas", "alep", "representaba", "una", "oclusiva", "glotal", "cuando", "los", "antiguos", "griegos", "adoptaron", "el", "alfabeto", "fenicio", "al", "no", "usar", "este", "sonido", "crearon", "una", "adaptaci\u00f3n", "de", "este", "signo", "para", "representar", "la", "vocal", "a", "y", "le", "dieron", "el", "nombre", "similar", "de", "alfa", "en", "las", "inscripciones", "griegas", "tempranas", "luego", "de", "la", "edad", "oscura", "que", "datan", "del", "siglo", "viii", "a", "c", "la", "forma", "de", "esta", "letra", "se", "parece", "a", "su", "predecesora", "alep", "con", "forma", "de", "una", "a", "may\u00fascula", "que", "descansa", "sobre", "su", "costado", "izquierdo", "pero", "en", "el", "alfabeto", "griego", "de", "tiempos", "posteriores", "generalmente", "parece", "una", "a", "moderna", "aunque", "todav\u00eda", "se", "distinguen", "muchas", "variedades", "locales", "que", "se", "diferencian", "por", "el", "acortamiento", "de", "una", "pierna", "o", "el", "cambio", "de", "\u00e1ngulo", "de", "la", "barra", "que", "atraviesa", "el", "centro", "los", "etruscos", "trajeron", "el", "alfabeto", "griego", "a", "su", "civilizaci\u00f3n", "en", "la", "pen\u00ednsula", "it\u00e1lica", "y", "no", "cambiaron", "esta", "letra", "luego", "los", "romanos", "adoptaron", "el", "alfabeto", "etrusco", "para", "escribir", "el", "lat\u00edn", "y", "la", "letra", "resultante", "fue", "preservada", "en", "el", "alfabeto", "latino", "variantes", "tipogr\u00e1ficas", "durante", "la", "era", "romana", "eran", "variadas", "las", "formas", "de", "escribir", "la", "letra", "a", "el", "estilo", "que", "prevaleci\u00f3", "fue", "el", "monumental", "o", "lapidario", "usado", "para", "textos", "inscritos", "en", "piedra", "u", "otros", "medios", "permanentes", "para", "los", "medios", "perecederos", "usados", "a", "diario", "por", "utilidad", "se", "usaba", "un", "estilo", "que", "se", "pas\u00f3", "a", "llamar", "cursiva", "el", "cual", "sobrevivi\u00f3", "hasta", "nuestros", "d\u00edas", "existiendo", "hoy", "la", "letra", "may\u00fascula", "cursiva", "min\u00fascula", "cursiva", "y", "min\u00fascula", "semicursiva", "tambi\u00e9n", "hubo", "variantes", "intermedias", "entre", "el", "estilo", "cursivo", "y", "el", "monumental", "en", "las", "que", "se", "incluye", "la", "temprana", "caligraf\u00eda", "semiuncial", "la", "uncial", "y", "la", "posterior", "semiuncial", "al", "finalizar", "el", "imperio", "romano", "siglo", "v", "aparecieron", "muchas", "variantes", "de", "la", "cursiva", "min\u00fascula", "en", "el", "este", "de", "europa", "entre", "estas", "se", "encontraba", "la", "semicursiva", "min\u00fascula", "de", "italia", "la", "escritura", "merovingia", "en", "francia", "la", "escritura", "visig\u00f3tica", "en", "espa\u00f1a", "y", "la", "insular", "o", "semicursiva", "hibernosajona", "de", "gran", "breta\u00f1a", "en", "el", "siglo", "ix", "la", "escritura", "carolingia", "muy", "similar", "a", "la", "de", "ahora", "fue", "la", "predilecta", "en", "la", "producci\u00f3n", "de", "libros", "antes", "de", "la", "llegada", "de", "la", "imprenta", "en", "la", "italia", "del", "siglo", "xv", "nacieron", "dos", "variantes", "tipogr\u00e1ficas", "conocidas", "hoy", "en", "d\u00eda", "ambas", "la", "it\u00e1lica", "y", "la", "romana", "fueron", "derivadas", "de", "la", "escritura", "carolingia", "la", "forma", "it\u00e1lica", "de", "la", "a", "min\u00fascula", "usada", "en", "la", "escritura", "manual", "consiste", "en", "un", "anillo", "o", "c\u00edrculo", "pegado", "a", "un", "asta", "vertical", "por", "la", "derecha", "llamada", "alfa", "latina", "mientras", "que", "la", "mayor\u00eda", "de", "los", "escritos", "impresos", "o", "no", "manuales", "usan", "el", "estilo", "romano", "que", "consiste", "en", "un", "peque\u00f1o", "bucle", "unido", "a", "un", "asta", "que", "se", "prolonga", "en", "un", "brazo", "arqueado", "a", "en", "ambos", "estilos", "la", "a", "may\u00fascula", "se", "mantiene", "inalterable", "a", "estas", "dos", "formas", "surgieron", "ya", "que", "en", "la", "escritura", "manual", "griega", "era", "com\u00fan", "escribir", "la", "a", "may\u00fascula", "uniendo", "la", "pierna", "izquierda", "y", "la", "barra", "horizontal", "con", "un", "solo", "trazo", "formando", "un", "bucle", "como", "queda", "demostrado", "en", "versi\u00f3n", "uncial", "mostrada", "m\u00e1s", "abajo", "muchas", "fuentes", "de", "letra", "comenzaron", "entonces", "a", "escribir", "verticalmente", "la", "pierna", "izquierda", "en", "algunas", "de", "estas", "la", "pierna", "derecha", "de", "la", "letra", "se", "convirti\u00f3", "en", "un", "arco", "por", "la", "parte", "de", "arriba", "y", "en", "otras", "solo", "se", "mantuvo", "unido", "al", "bucle", "que", "se", "comenz\u00f3", "a", "escribir", "m\u00e1s", "redondeado", "resultando", "en", "las", "dos", "formas", "mencionadas", "uso", "gr\u00e1fico", "la", "a", "representa", "en", "la", "notaci\u00f3n", "anglosajona", "a", "la", "nota", "musical", "la", "en", "la", "notaci\u00f3n", "fon\u00e9tica", "en", "xsampa", "una", "vocal", "abierta", "posterior", "no", "redondeada", "muchos", "sin\u00f3logos", "usan", "el", "s\u00edmbolo", "no", "oficial", "una", "a", "peque\u00f1a", "para", "representar", "una", "vocal", "abierta", "central", "no", "redondeada", "en", "varios", "centros", "educativos", "del", "mundo", "una", "nota", "calificativa", "dentro", "de", "un", "sistema", "basado", "en", "letras", "que", "van", "de", "la", "a", "a", "la", "f", "y", "en", "el", "que", "a", "es", "la", "mayor", "nota", "posible", "a", "un", "tipo", "de", "pila", "en", "medicina", "a", "una", "vitamina", "la", "a", "en", "geometr\u00eda", "se", "usa", "para", "denotar", "l\u00edneas", "segmentos", "v\u00e9rtices", "\u00e1ngulos", "etc", "en", "f\u00edsica", "la", "unidad", "de", "intensidad", "de", "corriente", "el\u00e9ctrica", "el", "amperio", "la", "constante", "de", "proporcionalidad", "el", "coeficiente", "de", "einstein", "designa", "el", "n\u00famero", "de", "masa", "de", "un", "n\u00facleo", "en", "bioqu\u00edmica", "un", "grupo", "sangu\u00edneo", "en", "el", "que", "los", "gl\u00f3bulos", "rojos", "s\u00f3lo", "portan", "aglutinas", "a", "un", "amino\u00e1cido", "la", "alanina", "una", "de", "las", "cinco", "bases", "nitrogenadas", "que", "forman", "parte", "de", "los", "\u00e1cidos", "nucleicos", "la", "adeninala", "a", "representa", "en", "notaci\u00f3n", "fon\u00e9tica", "en", "el", "alfabeto", "fon\u00e9tico", "internacional", "y", "en", "xsampa", "una", "vocal", "abierta", "anterior", "no", "redondeada", "a", "y", "una", "vocal", "abierta", "posterior", "no", "redondeada", "en", "el", "alfabeto", "fon\u00e9tico", "internacional", "una", "vocal", "abierta", "central", "no", "redondeada", "en", "matem\u00e1ticas", "en", "\u00e1lgebra", "representa", "un", "valor", "constante", "a", "la", "medida", "de", "extensi\u00f3n", "el", "\u00e1rea", "al", "prefijo", "atto", "que", "representa", "la", "cantidad", "en", "el", "sistema", "hexadecimal", "el", "valor", "de", "frecuencia", "de", "aparici\u00f3n", "la", "'a'", "es", "la", "letra", "que", "se", "repite", "con", "m\u00e1s", "frecuencia", "en", "el", "diccionario", "de", "la", "real", "academia", "espa\u00f1ola", "pero", "en", "cualquier", "texto", "escrito", "o", "di\u00e1logo", "el", "uso", "frecuente", "de", "las", "part\u00edculas", "que", "el", "se", "me", "te", "le", "etc", "adem\u00e1s", "de", "las", "conjugaciones", "de", "los", "verbos", "hace", "que", "la", "letra", "'e'", "se", "use", "con", "mayor", "frecuencia", "en", "el", "idioma", "espa\u00f1olcita", "requeridaen", "el", "idioma", "ingl\u00e9s", "la", "letra", "'a'", "se", "computa", "como", "la", "tercera", "m\u00e1s", "usada", "con", "una", "frecuencia", "de", "y", "en", "franc\u00e9s", "se", "encuentra", "en", "segundo", "lugar", "con", "un", "uso", "de", "en", "los", "textos", "alemanes", "tiene", "una", "frecuencia", "de", "figurando", "en", "el", "sexto", "lugar", "y", "en", "portugu\u00e9s", "es", "la", "tercera", "letra", "m\u00e1s", "usada", "con", "frecuencia", "relativa", "de", "a", "continuaci\u00f3n", "se", "presenta", "un", "cuadro", "con", "los", "usos", "de", "la", "letra", "a", "en", "comparaci\u00f3n", "con", "otros", "idiomascita", "requerida", "fuentes", "c\u00f3digos", "en", "computaci\u00f3n", "nota", "tambi\u00e9n", "para", "codificaciones", "basadas", "en", "ascii", "incluyendo", "dos", "windows", "iso", "y", "las", "familias", "de", "codificaciones", "de", "macintosh", "representaciones", "alternativas", "seg\u00fan", "alfabetos", "especiales", "la", "letra", "ha", "tomado", "diferentes", "formas", "o", "valores", "a", "continuaci\u00f3n", "se", "representan", "algunas", "de", "sus", "variadas", "formas", "en", "alfabeto", "fon\u00e9tico", "aeron\u00e1utico", "se", "le", "asigna", "la", "palabra", "alfa", "en", "ingl\u00e9s", "alpha", "en", "c\u00f3digo", "morse", "es", "la", "bandera", "de", "corneta", "azul", "y", "blanco", "que", "representa", "a", "letra", "'a'", "y", "que", "es", "usada", "en", "el", "c\u00f3digo", "internacional", "de", "se\u00f1ales", "significa", "tengo", "buzo", "sumergido", "mant\u00e9ngase", "bien", "alejado", "de", "m\u00ed", "y", "a", "poca", "velocidad", "letras", "y", "caracteres", "relacionados", "la", "letra", "cir\u00edlica", "\u00e4", "a", "un", "car\u00e1cter", "usado", "en", "muchos", "alfabetos", "\u00e5", "una", "letra", "usada", "como", "vocal", "usada", "en", "varios", "idiomas", "\u00e6", "la", "letra", "latina", "ash", "una", "a", "con", "breve", "usada", "en", "el", "idioma", "rumano", "una", "a", "con", "colita", "letra", "usada", "en", "varios", "idiomas", "\u00e3", "una", "a", "con", "virgulilla", "usada", "en", "algunos", "lenguajes", "\u00e2", "una", "a", "con", "acento", "circunflejo", "usada", "en", "varios", "idiomas", "notas", "y", "referencias", "enlaces", "externos", "wikimedia", "commons", "alberga", "una", "categor\u00eda", "multimedia", "sobre", "a", "wikcionario", "tiene", "definiciones", "y", "otra", "informaci\u00f3n", "sobre", "a", "diccionarios", "digitales", "letra", "a", "archivado", "el", "de", "noviembre", "de", "en", "wayback", "machine"]
+la a (en mayúscula a, nombre a, plural aes) es la primera letra del alfabeto latino básico, y de los alfabetos derivados del mismo. en el alfabeto fonético internacional representa la vocal abierta central no redondeada /ä/. en la ortografía de numerosas lenguas de escritura latina, tiene ese mismo valor.[1]​
+
+
+== historia ==
+la letra a proviene de la letra griega alfa (α α), que a su vez proviene de «alep» (𐤀), la primera letra del alfabeto fenicio. alep podría provenir del pictograma de la cabeza de un buey en la escritura protosinaítica. los fenicios, precisamente, nombraron a esta letra 'aleph', que significa «buey» en fenicio, por su parecido a la cabeza de un toro.[2]​ la forma de este pictograma procede de la antigua escritura hierática egipcia, que representaba la cabeza del dios apis (un buey con cuernos), y que se muestra en la figura.
+en el idioma fenicio y otras lenguas semíticas, alep representaba una oclusiva glotal. cuando los antiguos griegos adoptaron el alfabeto fenicio, al no usar este sonido, crearon una adaptación de este signo para representar la vocal /a/, y le dieron el nombre similar de «alfa». en las inscripciones griegas tempranas luego de la edad oscura, que datan del siglo viii a. c., la forma de esta letra se parece a su predecesora «alep»: con forma de una «a» mayúscula que descansa sobre su costado izquierdo. pero en el alfabeto griego de tiempos posteriores generalmente parece una «a» moderna, aunque todavía se distinguen muchas variedades locales que se diferencian por el acortamiento de una pierna o el cambio de ángulo de la barra que atraviesa el centro.
+los etruscos trajeron el alfabeto griego a su civilización en la península itálica y no cambiaron esta letra. luego los romanos adoptaron el alfabeto etrusco para escribir el latín, y la letra resultante fue preservada en el alfabeto latino.
+
+
+=== variantes tipográficas ===
+
+durante la era romana eran variadas las formas de escribir la letra «a»; el estilo que prevaleció fue el monumental o lapidario, usado para textos inscritos en piedra u otros medios «permanentes». para los medios perecederos usados a diario por utilidad, se usaba un estilo que se pasó a llamar cursiva, el cual sobrevivió hasta nuestros días, existiendo hoy la letra mayúscula cursiva, minúscula cursiva y minúscula semicursiva. también hubo variantes intermedias entre el estilo cursivo y el monumental, en las que se incluye la temprana caligrafía semi-uncial, la uncial y la posterior semi-uncial.[3]​
+al finalizar el imperio romano (siglo v), aparecieron muchas variantes de la cursiva minúscula en el este de europa. entre estas se encontraba la semicursiva minúscula de italia, la escritura merovingia en francia, la escritura visigótica en españa y la insular o semicursiva hiberno-sajona de gran bretaña. en el siglo ix, la escritura carolingia, muy similar a la de ahora, fue la predilecta en la producción de libros, antes de la llegada de la imprenta.[3]​
+en la italia del siglo xv nacieron dos variantes tipográficas conocidas hoy en día. ambas, la «itálica» y la «romana» fueron derivadas de la escritura carolingia. la forma itálica de la «a» minúscula, usada en la escritura manual, consiste en un anillo o círculo pegado a un asta vertical por la derecha: «ɑ», llamada «alfa latina». mientras que la mayoría de los escritos «impresos» o no manuales usan el estilo romano, que consiste en un pequeño bucle unido a un asta que se prolonga en un brazo arqueado: «a».[3]​  en ambos estilos la a mayúscula se mantiene inalterable: «a». estas dos formas surgieron ya que en la escritura manual griega, era común escribir la «a» mayúscula uniendo la pierna izquierda y la barra horizontal con un solo trazo, formando un bucle; como queda demostrado en versión uncial mostrada más abajo. muchas fuentes de letra comenzaron entonces a escribir verticalmente la pierna izquierda. en algunas de estas, la pierna derecha de la letra se convirtió en un arco por la parte de arriba y en otras solo se mantuvo unido al bucle, que se comenzó a escribir más redondeado, resultando en las dos formas mencionadas.
+
+
+== uso ==
+
+
+=== gráfico ===
+la «a» representa:
+
+en la notación anglosajona, a la nota musical «la».
+en la notación fonética:
+en x-sampa, una vocal abierta posterior no redondeada.
+muchos sinólogos usan el símbolo no oficial «ᴀ», una «a» pequeña para representar una vocal abierta central no redondeada.
+en varios centros educativos del mundo, una nota calificativa dentro de un sistema basado en letras que van de la «a» a la «f», y en el que «a» es la mayor nota posible.
+a un tipo de pila.
+en medicina, a una vitamina, la a.
+en geometría, se usa para denotar líneas, segmentos, vértices, ángulos, etc.
+en física:
+la unidad de intensidad de corriente eléctrica, el amperio.
+la constante de proporcionalidad, el coeficiente de einstein.
+designa el número de masa de un núcleo.
+en bioquímica:
+un grupo sanguíneo en el que los glóbulos rojos sólo portan aglutinas a.
+un aminoácido, la alanina.
+una de las cinco bases nitrogenadas que forman parte de los ácidos nucleicos, la adenina.la «a» representa:
+
+en notación fonética:
+en el alfabeto fonético internacional y en x-sampa: una vocal abierta anterior no redondeada /a/ y una vocal abierta posterior no redondeada /ɑ/.
+en el alfabeto fonético internacional, una vocal abierta central no redondeada.
+en matemáticas:
+en álgebra, representa un valor constante.
+a la medida de extensión, el área.
+al prefijo «atto», que representa la cantidad 10−18.
+en el sistema hexadecimal, el valor de 10.
+
+
+== frecuencia de aparición ==
+la 'a' es la letra que se repite con más frecuencia en el diccionario de la real academia española, pero en cualquier texto escrito o diálogo, el uso frecuente de las partículas que, el, se, me, te, le, etc., además de las conjugaciones de los verbos, hace que la letra 'e' se use con mayor frecuencia en el idioma español.[cita requerida]en el idioma inglés la letra 'a' se computa como la tercera más usada, con una frecuencia de 8 % y en francés se encuentra en segundo lugar con un uso de 7.6 %. en los textos alemanes tiene una frecuencia de 6.51 %, figurando en el sexto lugar, y en portugués es la tercera letra más usada, con frecuencia relativa de 36.8 %.
+a continuación se presenta un cuadro con los usos de la letra a en comparación con otros idiomas[cita requerida]:
+
+
+== fuentes ==
+
+
+== códigos en computación ==
+nota: también para codificaciones basadas en ascii, incluyendo dos, windows, iso-8859 y las familias de codificaciones de macintosh.
+
+
+== representaciones alternativas ==
+según alfabetos especiales la letra ha tomado diferentes formas o valores, a continuación se representan algunas de sus variadas formas:
+
+en alfabeto fonético aeronáutico se le asigna la palabra «alfa» (en inglés «alpha»).
+en código morse es: • — 
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+la bandera de corneta azul y blanco, que representa a letra 'a' y que es usada en el código internacional de señales, significa «tengo buzo sumergido; manténgase bien alejado de mí y a poca velocidad».
+
+
+== letras y caracteres relacionados ==
+а, а : la letra cirílica.
+ä, a : un carácter usado en muchos alfabetos.
+å : una letra usada como vocal usada en varios idiomas.
+æ : la letra latina ash.
+ă: una a con breve, usada en el idioma rumano.
+ą : una a con colita, letra usada en varios idiomas.
+ã : una a con virgulilla, usada en algunos lenguajes.
+â : una a con acento circunflejo usada en varios idiomas.
+
+
+== notas y referencias ==
+
+
+== enlaces externos ==
+ wikimedia commons alberga una categoría multimedia sobre a.
+ wikcionario  tiene definiciones y otra información sobre a.
+diccionarios digitales: letra a. archivado el 15 de noviembre de 2007 en wayback machine.

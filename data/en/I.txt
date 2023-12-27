@@ -1,1 +1,82 @@
-["i", "or", "i", "is", "the", "ninth", "letter", "and", "the", "third", "vowel", "letter", "of", "the", "latin", "alphabet", "used", "in", "the", "modern", "english", "alphabet", "the", "alphabets", "of", "other", "western", "european", "languages", "and", "others", "worldwide", "its", "name", "in", "english", "is", "i", "pronounced", "plural", "ies", "history", "in", "the", "phoenician", "alphabet", "the", "letter", "may", "have", "originated", "in", "a", "hieroglyph", "for", "an", "arm", "that", "represented", "a", "voiced", "pharyngeal", "fricative", "in", "egyptian", "but", "was", "reassigned", "to", "j", "as", "in", "english", "\"yes\"", "by", "semites", "because", "their", "word", "for", "\"arm\"", "began", "with", "that", "sound", "this", "letter", "could", "also", "be", "used", "to", "represent", "i", "the", "close", "front", "unrounded", "vowel", "mainly", "in", "foreign", "words", "the", "greeks", "adopted", "a", "form", "of", "this", "phoenician", "yodh", "as", "their", "letter", "iota", "to", "represent", "i", "the", "same", "as", "in", "the", "old", "italic", "alphabet", "in", "latin", "as", "in", "modern", "greek", "it", "was", "also", "used", "to", "represent", "j", "and", "this", "use", "persists", "in", "the", "languages", "that", "descended", "from", "latin", "the", "modern", "letter", "'j'", "originated", "as", "a", "variation", "of", "'i'", "and", "both", "were", "used", "interchangeably", "for", "both", "the", "vowel", "and", "the", "consonant", "coming", "to", "be", "differentiated", "only", "in", "the", "th", "century", "the", "dot", "over", "the", "lowercase", "'i'", "is", "sometimes", "called", "a", "tittle", "in", "the", "turkish", "alphabet", "dotted", "and", "dotless", "i", "are", "considered", "separate", "letters", "representing", "a", "front", "and", "back", "vowel", "respectively", "and", "both", "have", "uppercase", "'i'", "'i'", "and", "lowercase", "''", "'i'", "forms", "use", "in", "writing", "systems", "english", "in", "modern", "english", "spelling", "i", "represents", "several", "different", "sounds", "either", "the", "diphthong", "\"long\"", "i", "as", "in", "kite", "the", "short", "as", "in", "bill", "or", "the", "ee", "sound", "in", "the", "last", "syllable", "of", "machine", "the", "diphthong", "a", "developed", "from", "middle", "english", "i", "through", "a", "series", "of", "vowel", "shifts", "in", "the", "great", "vowel", "shift", "middle", "english", "i", "changed", "to", "early", "modern", "english", "ei", "which", "later", "changed", "to", "i", "and", "finally", "to", "the", "modern", "english", "diphthong", "a", "in", "general", "american", "and", "received", "pronunciation", "because", "the", "diphthong", "a", "developed", "from", "a", "middle", "english", "long", "vowel", "it", "is", "called", "\"long\"", "i", "in", "traditional", "english", "grammarthe", "letter", "i", "is", "the", "fifth", "most", "common", "letter", "in", "the", "english", "languagethe", "english", "firstperson", "singular", "nominative", "pronoun", "is", "\"i\"", "pronounced", "and", "always", "written", "with", "a", "capital", "letter", "this", "pattern", "arose", "for", "basically", "the", "same", "reason", "that", "lowercase", "i", "acquired", "a", "dot", "so", "it", "wouldn't", "get", "lost", "in", "manuscripts", "before", "the", "age", "of", "printing", "the", "capitalized", "\"i\"", "first", "showed", "up", "about", "in", "the", "northern", "and", "midland", "dialects", "of", "england", "according", "to", "the", "chambers", "dictionary", "of", "etymology", "chambers", "notes", "however", "that", "the", "capitalized", "form", "didn't", "become", "established", "in", "the", "south", "of", "england", "\"until", "the", "s", "although", "it", "appears", "sporadically", "before", "that", "time", "capitalizing", "the", "pronoun", "chambers", "explains", "made", "it", "more", "distinct", "thus", "\"avoiding", "misreading", "handwritten", "manuscripts\"", "other", "languages", "in", "many", "languages'", "orthographies", "i", "is", "used", "to", "represent", "the", "sound", "i", "or", "more", "rarely", "other", "uses", "the", "roman", "numeral", "i", "represents", "the", "number", "in", "mathematics", "a", "lowercase", "\"i\"", "is", "used", "to", "represent", "the", "unit", "imaginary", "number", "while", "an", "uppercase", "\"i\"", "serves", "to", "denote", "an", "identity", "matrix", "forms", "and", "variants", "in", "some", "sans", "serif", "typefaces", "the", "uppercase", "letter", "i", "'i'", "may", "be", "difficult", "to", "distinguish", "from", "the", "lowercase", "letter", "l", "'l'", "the", "vertical", "bar", "character", "'|'", "or", "the", "digit", "one", "''", "in", "serifed", "typefaces", "the", "capital", "form", "of", "the", "letter", "has", "both", "a", "baseline", "and", "a", "cap", "height", "serif", "while", "the", "lowercase", "l", "generally", "has", "a", "hooked", "ascender", "and", "a", "baseline", "serif", "the", "uppercase", "i", "does", "not", "have", "a", "dot", "tittle", "while", "the", "lowercase", "i", "has", "one", "in", "most", "latinderived", "alphabets", "however", "some", "schemes", "such", "as", "the", "turkish", "alphabet", "have", "two", "kinds", "of", "i", "dotted", "ii", "and", "dotless", "i", "the", "uppercase", "i", "has", "two", "kinds", "of", "shapes", "with", "serifs", "and", "without", "serifs", "usually", "these", "are", "considered", "equivalent", "but", "they", "are", "distinguished", "in", "some", "extended", "latin", "alphabet", "systems", "such", "as", "the", "version", "of", "the", "african", "reference", "alphabet", "in", "that", "system", "the", "former", "is", "the", "uppercase", "counterpart", "of", "and", "the", "latter", "is", "the", "counterpart", "of", "'i'", "computing", "codes", "also", "for", "encodings", "based", "on", "ascii", "including", "the", "dos", "windows", "iso", "and", "macintosh", "families", "of", "encodings", "other", "representations", "related", "characters", "descendants", "and", "related", "characters", "in", "the", "latin", "alphabet", "i", "with", "diacritics", "\u00ee", "\u00ee", "\u00ef", "\u00ef", "\u00ed", "\u00ed", "\u00ec", "\u00ec", "i", "i", "and", "i", "latin", "letters", "dotted", "and", "dotless", "i", "ipaspecific", "symbols", "related", "to", "i", "the", "uralic", "phonetic", "alphabet", "uses", "various", "forms", "of", "the", "letter", "iu+d", "modifier", "letter", "capital", "i", "u+d", "latin", "subscript", "small", "letter", "i", "u+d", "latin", "small", "letter", "turned", "i", "u+de", "modifier", "letter", "small", "turned", "i", "other", "variations", "used", "in", "phonetic", "transcription", "i", "superscript", "small", "i", "is", "used", "for", "computer", "terminal", "graphics", "glottal", "i", "used", "for", "egyptological", "yod", "small", "capital", "i", "long", "i", "sideways", "i", "ancestors", "and", "siblings", "in", "other", "alphabets", "semitic", "letter", "yodh", "from", "which", "the", "following", "symbols", "originally", "derive", "greek", "letter", "iota", "from", "which", "the", "following", "letters", "derive", "coptic", "letter", "yota", "cyrillic", "letter", "softdotted", "i", "old", "italic", "i", "which", "is", "the", "ancestor", "of", "modern", "latin", "i", "runic", "letter", "isaz", "which", "probably", "derives", "from", "old", "italic", "i", "gothic", "letter", "iiz", "see", "also", "tittle", "references", "external", "links", "media", "related", "to", "i", "at", "wikimedia", "commons", "the", "dictionary", "definition", "of", "i", "at", "wiktionary"]
+i, or i, is the ninth letter and the third vowel letter of the latin alphabet, used in the modern english alphabet, the alphabets of other western european languages and others worldwide. its name in english is i (pronounced ), plural ies.
+
+
+== history ==
+in the phoenician alphabet, the letter may have originated in a hieroglyph for an arm that represented a voiced pharyngeal fricative (/ʕ/) in egyptian, but was reassigned to /j/ (as in english "yes") by semites, because their word for "arm" began with that sound. this letter could also be used to represent /i/, the close front unrounded vowel, mainly in foreign words.
+the greeks adopted a form of this phoenician yodh as their letter iota (⟨ι, ι⟩) to represent /i/, the same as in the old italic alphabet. in latin (as in modern greek), it was also used to represent /j/ and this use persists in the languages that descended from latin. the modern letter 'j' originated as a variation of 'i', and both were used interchangeably for both the vowel and the consonant, coming to be differentiated only in the 16th century.  the dot over the lowercase 'i' is sometimes called a tittle.  in the turkish alphabet, dotted and dotless i are considered separate letters, representing a front and back vowel, respectively, and both have uppercase ('i', 'i̇') and lowercase ('ı', 'i') forms.
+
+
+== use in writing systems ==
+
+
+=== english ===
+in modern english spelling, ⟨i⟩ represents several different sounds, either the diphthong  ("long" ⟨i⟩) as in kite, the short  as in bill, or the ⟨ee⟩ sound  in the last syllable of machine. the diphthong /aɪ/ developed from middle english /iː/ through a series of vowel shifts. in the great vowel shift, middle english /iː/ changed to early modern english /ei/, which later changed to /əi/ and finally to the modern english diphthong /aɪ/ in general american and received pronunciation. because the diphthong /aɪ/ developed from a middle english long vowel, it is called "long" ⟨i⟩ in traditional english grammar.the letter ⟨i⟩ is the fifth most common letter in the english language.the english first-person singular nominative pronoun is "i", pronounced  and always written with a capital letter. this pattern arose for basically the same reason that lowercase ⟨i⟩ acquired a dot: so it wouldn't get lost in manuscripts before the age of printing:
+
+the capitalized "i" first showed up about 1250 in the northern and midland dialects of england, according to the chambers dictionary of etymology.
+chambers notes, however, that the capitalized form didn't become established in the south of england "until the 1700s (although it appears sporadically before that time).
+
+capitalizing the pronoun, chambers explains, made it more distinct, thus "avoiding misreading handwritten manuscripts."
+
+
+=== other languages ===
+in many languages' orthographies, ⟨i⟩ is used to represent the sound /i/ or, more rarely, /ɪ/.
+
+
+== other uses ==
+the roman numeral i represents the number 1. in mathematics, a lowercase "i" is used to represent the unit imaginary number, while an uppercase "i" serves to denote an identity matrix.
+
+
+== forms and variants ==
+
+in some sans serif typefaces, the uppercase letter i, 'i' may be difficult to distinguish from the lowercase letter l, 'l', the vertical bar character '|', or the digit one '1'. in serifed typefaces, the capital form of the letter has both a baseline and a cap height serif, while the lowercase l generally has a hooked ascender and a baseline serif.
+the uppercase i does not have a dot (tittle) while the lowercase i has one in most latin-derived alphabets. however, some schemes, such as the turkish alphabet, have two kinds of i: dotted (i̇i) and dotless (iı).
+the uppercase i has two kinds of shapes, with serifs () and without serifs (). usually these are considered equivalent, but they are distinguished in some extended latin alphabet systems, such as the 1978 version of the african reference alphabet. in that system, the former is the uppercase counterpart of ɪ and the latter is the counterpart of 'i'.
+
+
+== computing codes ==
+1also for encodings based on ascii, including the dos, windows, iso-8859 and macintosh families of encodings.
+
+
+== other representations ==
+
+
+== related characters ==
+
+
+=== descendants and related characters in the latin alphabet ===
+i with diacritics: ị ị ĭ ĭ î î ǐ ǐ ɨ ɨ ï ï ḯ ḯ í í ì ì ȉ ȉ į į į́ į̃ ī ī ī̀ ī̀ ᶖ ỉ ỉ ȋ ȋ ĩ ĩ ḭ ḭ ᶤ
+i̇ i and i ı : latin letters dotted and dotless i
+ipa-specific symbols related to i: ɪ ɨ
+the uralic phonetic alphabet uses various forms of the letter i:u+1d35 ᴵ modifier letter capital i
+u+1d62 ᵢ latin subscript small letter i
+u+1d09 ᴉ latin small letter turned i
+u+1d4e ᵎ modifier letter small turned i
+other variations used in phonetic transcription: ᵻ ᶤ ᶦ ᶧ 𝼚
+i : superscript small i is used for computer terminal graphics
+ꞽ ꞽ : glottal i, used for egyptological yod
+ɪ ɪ : small capital i
+ꟾ : long i
+ꟷ : sideways i
+
+
+=== ancestors and siblings in other alphabets ===
+𐤉 : semitic letter yodh, from which the following symbols originally derive
+ι ι: greek letter iota, from which the following letters derive
+ⲓ ⲓ : coptic letter yota
+і і : cyrillic letter soft-dotted i
+𐌉 : old italic i, which is the ancestor of modern latin i
+ᛁ : runic letter isaz, which probably derives from old italic i
+𐌹 : gothic letter iiz
+
+
+== see also ==
+tittle
+
+
+== references ==
+
+
+== external links ==
+
+ media related to i at wikimedia commons
+ the dictionary definition of i at wiktionary

@@ -1,1 +1,39 @@
-["the", "virtual", "international", "authority", "file", "viaf", "is", "an", "international", "authority", "file", "it", "is", "a", "joint", "project", "of", "several", "national", "libraries", "and", "operated", "by", "the", "online", "computer", "library", "center", "oclc", "history", "discussions", "about", "having", "a", "joint", "international", "authority", "started", "in", "the", "late", "s", "after", "several", "failed", "attempts", "to", "develop", "a", "unique", "joint", "authority", "file", "the", "new", "idea", "was", "to", "link", "existing", "national", "authorities", "this", "would", "present", "all", "the", "benefits", "of", "a", "standard", "file", "without", "requiring", "a", "significant", "investment", "of", "time", "and", "expense", "in", "the", "processthe", "project", "was", "initiated", "by", "the", "american", "library", "of", "congress", "loc", "the", "german", "national", "library", "dnb", "and", "the", "oclc", "in", "april", "as", "a", "proofofconcept", "that", "authority", "records", "can", "be", "linked", "after", "extensive", "testing", "the", "viaf", "consortium", "was", "formed", "at", "the", "world", "library", "and", "information", "congress", "hosted", "by", "the", "international", "federation", "of", "library", "associations", "on", "august", "and", "by", "september", "it", "had", "its", "own", "page", "at", "the", "oclc", "website", "the", "biblioth\u00e8que", "nationale", "de", "france", "bnf", "joined", "the", "project", "on", "october", "the", "project", "transitioned", "to", "being", "a", "service", "of", "the", "oclc", "on", "april", "the", "aim", "is", "to", "link", "the", "national", "authority", "files", "such", "as", "the", "german", "name", "authority", "file", "to", "a", "single", "virtual", "authority", "file", "in", "this", "file", "identical", "records", "from", "the", "different", "data", "sets", "are", "linked", "together", "a", "viaf", "record", "receives", "a", "standard", "data", "number", "contains", "the", "primary", "\"see\"", "and", "\"see", "also\"", "records", "from", "the", "original", "documents", "and", "refers", "to", "the", "original", "authority", "records", "the", "data", "is", "made", "available", "online", "and", "is", "available", "for", "research", "and", "data", "exchange", "and", "sharing", "reciprocal", "updating", "uses", "the", "open", "archives", "initiative", "protocol", "for", "metadata", "harvesting", "oaipmh", "protocol", "the", "file", "numbers", "are", "also", "being", "added", "to", "wikipedia", "biographical", "articles", "and", "are", "incorporated", "into", "wikidatachristine", "l", "borgman", "groups", "viaf", "with", "the", "international", "standard", "name", "identifier", "and", "orcid", "systems", "describing", "all", "three", "as", "\"loosely", "coordinated", "efforts", "to", "standardize", "name", "forms\"", "borgman", "characterizes", "all", "three", "systems", "as", "attempts", "to", "solve", "the", "problem", "of", "author", "name", "disambiguation", "which", "has", "grown", "in", "scale", "as", "the", "quantity", "of", "data", "multiplies", "she", "notes", "that", "viaf", "unlike", "the", "other", "two", "systems", "is", "led", "by", "libraries", "as", "opposed", "to", "individual", "authors", "or", "creators", "viaf", "clusters", "viaf's", "clustering", "algorithm", "is", "run", "every", "month", "as", "more", "data", "are", "added", "from", "participating", "libraries", "clusters", "of", "authority", "records", "may", "coalesce", "or", "split", "leading", "to", "some", "fluctuation", "in", "the", "viaf", "identifier", "of", "certain", "authority", "records", "participating", "libraries", "and", "organizations", "libraries", "added", "for", "testing", "purposes", "see", "also", "authority", "control", "faceted", "application", "of", "subject", "terminology", "fast", "integrated", "authority", "file", "gnd", "international", "standard", "authority", "data", "number", "isadn", "international", "standard", "name", "identifier", "isni", "wikipedia's", "authority", "control", "template", "for", "articles", "references", "sources", "borgman", "christine", "l", "big", "data", "little", "data", "no", "data", "scholarship", "in", "the", "networked", "world", "mit", "press", "isbn", "oclc", "external", "links", "official", "website", "viaf", "at", "oclc"]
+the virtual international authority file (viaf) is an international authority file. it is a joint project of several national libraries and operated by the online computer library center (oclc).
+
+
+== history ==
+discussions about having a joint international authority started in the late 1990s. after several failed attempts to develop a unique joint authority file, the new idea was to link existing national authorities. this would present all the benefits of a standard file without requiring a significant investment of time and expense in the process.the project was initiated by the american library of congress (loc), the german national library (dnb), and the oclc in april 1998 as a proof-of-concept that authority records can be linked. after extensive testing, the viaf consortium was formed at the 2003 world library and information congress, hosted by the international federation of library associations. on 6 august 2003, and by september it had its own page at the oclc website. the bibliothèque nationale de france (bnf) joined the project on 5 october 2007.
+the project transitioned to being a service of the oclc on 4 april 2012.the aim is to link the national authority files (such as the german name authority file) to a single virtual authority file. in this file, identical records from the different data sets are linked together. a viaf record receives a standard data number, contains the primary "see" and "see also" records from the original documents, and refers to the original authority records. the data is made available online and is available for research and, data exchange and sharing. reciprocal updating uses the open archives initiative protocol for metadata harvesting (oai-pmh) protocol.
+the file numbers are also being added to wikipedia biographical articles and are incorporated into wikidata.christine l. borgman groups viaf with the international standard name identifier and orcid systems, describing all three as "loosely coordinated efforts to standardize name forms". borgman characterizes all three systems as attempts to solve the problem of author name disambiguation, which has grown in scale as the quantity of data multiplies. she notes that viaf, unlike the other two systems, is led by libraries, as opposed to individual authors or creators.
+
+
+== viaf clusters ==
+viaf's clustering algorithm is run every month.  as more data are added from participating libraries, clusters of authority records may coalesce or split, leading to some fluctuation in the viaf identifier of certain authority records.
+
+
+== participating libraries and organizations ==
+
+
+=== libraries added for testing purposes ===
+
+
+== see also ==
+authority control
+faceted application of subject terminology (fast)
+integrated authority file (gnd)
+international standard authority data number (isadn)
+international standard name identifier (isni)
+wikipedia's authority control template for articles
+
+
+== references ==
+
+
+== sources ==
+borgman, christine l. (2015). big data, little data, no data: scholarship in the networked world. mit press. isbn 978-0-262-32786-2. oclc 900409008.
+
+
+== external links ==
+
+official website 
+viaf at oclc

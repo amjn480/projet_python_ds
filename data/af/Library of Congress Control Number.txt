@@ -1,1 +1,1 @@
-["die", "library", "of", "congress", "control", "mlnumber", "lccn", "is", "'n", "reeksnommerstelsel", "vir", "rekords", "in", "die", "biblioteek", "van", "die", "vsa", "kongres", "in", "die", "verenigde", "state"]
+"die library of congress control mlnumber (lccn) is 'n reeksnommerstelsel vir rekords in die biblioteek van die v.s.a. kongres in die verenigde state."

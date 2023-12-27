@@ -1,1 +1,94 @@
-["u", "or", "u", "is", "the", "st", "letter", "and", "fifth", "vowel", "letter", "of", "the", "latin", "alphabet", "used", "in", "the", "modern", "english", "alphabet", "the", "alphabets", "of", "other", "western", "european", "languages", "and", "others", "worldwide", "its", "name", "in", "english", "is", "u", "pronounced", "plural", "ues", "history", "u", "derives", "from", "the", "semitic", "waw", "as", "does", "f", "and", "later", "y", "w", "and", "v", "its", "oldest", "ancestor", "goes", "to", "egyptian", "hieroglyphs", "and", "is", "probably", "from", "a", "hieroglyph", "of", "a", "mace", "or", "fowl", "representing", "the", "sound", "v", "or", "the", "sound", "w", "this", "was", "borrowed", "to", "phoenician", "where", "it", "represented", "the", "sound", "w", "and", "seldom", "the", "vowel", "u", "in", "greek", "two", "letters", "were", "adapted", "from", "the", "phoenician", "waw", "the", "letter", "was", "adapted", "but", "split", "in", "two", "with", "digamma", "or", "wau", "being", "adapted", "to", "represent", "w", "and", "the", "second", "one", "being", "upsilon", "which", "was", "originally", "adapted", "to", "represent", "u", "later", "fronted", "becoming", "y", "in", "latin", "a", "stemless", "variant", "shape", "of", "the", "upsilon", "was", "borrowed", "in", "early", "times", "as", "u", "taking", "the", "form", "of", "modernday", "v", "either", "directly", "from", "the", "western", "greek", "alphabet", "or", "from", "the", "etruscan", "alphabet", "as", "an", "intermediary", "to", "represent", "the", "same", "u", "sound", "as", "well", "as", "the", "consonantal", "w", "num", "originally", "spelled", "nvm", "was", "pronounced", "num", "and", "via", "was", "pronounced", "wia", "from", "the", "st", "century", "ad", "on", "depending", "on", "vulgar", "latin", "dialect", "consonantal", "w", "developed", "into", "kept", "in", "spanish", "then", "later", "to", "v", "during", "the", "late", "middle", "ages", "two", "minuscule", "forms", "developed", "which", "were", "both", "used", "for", "v", "or", "the", "vowel", "u", "the", "pointed", "form", "v", "was", "written", "at", "the", "beginning", "of", "a", "word", "while", "a", "rounded", "form", "u", "was", "used", "in", "the", "middle", "or", "end", "regardless", "of", "sound", "so", "whereas", "'valour'", "and", "'excuse'", "appeared", "as", "in", "modern", "printing", "'have'", "and", "'upon'", "were", "printed", "'haue'", "and", "'vpon'", "respectively", "the", "first", "recorded", "use", "of", "u", "and", "v", "as", "distinct", "letters", "is", "in", "a", "gothic", "alphabet", "from", "where", "v", "preceded", "u", "printers", "eschewed", "capital", "u", "in", "favor", "of", "v", "into", "the", "th", "century", "and", "the", "distinction", "between", "the", "two", "letters", "was", "not", "fully", "accepted", "by", "the", "french", "academy", "until", "the", "rounded", "variant", "became", "the", "modernday", "version", "of", "u", "and", "its", "former", "pointed", "form", "became", "v", "pronunciation", "and", "use", "english", "in", "english", "the", "letter", "u", "has", "four", "main", "pronunciations", "there", "are", "\"long\"", "and", "\"short\"", "pronunciations", "short", "u", "found", "originally", "in", "closed", "syllables", "most", "commonly", "represents", "as", "in", "'duck'", "though", "it", "retains", "its", "old", "pronunciation", "after", "labial", "consonants", "in", "some", "words", "as", "in", "'put'", "and", "occasionally", "elsewhere", "as", "in", "'sugar'", "long", "u", "found", "originally", "in", "words", "of", "french", "origin", "the", "descendant", "of", "old", "english", "long", "u", "was", "respelled", "as", "ou", "most", "commonly", "represents", "as", "in", "'mule'", "reducing", "to", "u", "after", "r", "as", "in", "'rule'", "j", "as", "in", "'june'", "and", "sometimes", "or", "optionally", "after", "l", "as", "in", "'lute'", "and", "after", "additional", "consonants", "in", "american", "english", "see", "dodew", "merger", "after", "s", "sju", "zju", "have", "assimilated", "to", "u", "u", "in", "some", "words", "in", "a", "few", "words", "short", "u", "represents", "other", "sounds", "such", "as", "in", "'business'", "and", "in", "'bury'", "the", "letter", "u", "is", "used", "in", "the", "digraphs", "au", "ou", "various", "pronunciations", "but", "usually", "a", "and", "with", "the", "value", "of", "long", "u", "in", "eu", "ue", "and", "in", "a", "few", "words", "ui", "as", "in", "'fruit'", "it", "often", "has", "the", "sound", "w", "before", "a", "vowel", "in", "the", "sequences", "qu", "as", "in", "'quick'", "gu", "as", "in", "'anguish'", "and", "su", "as", "in", "'suave'", "though", "it", "is", "silent", "in", "final", "que", "as", "in", "'unique'", "and", "in", "many", "words", "with", "gu", "as", "in", "'guard'", "additionally", "the", "letter", "u", "is", "used", "in", "text", "messaging", "internet", "and", "other", "written", "slang", "to", "denote", "'you'", "by", "virtue", "of", "both", "being", "pronounced", "one", "thing", "to", "note", "is", "that", "certain", "varieties", "of", "the", "english", "language", "ie", "british", "english", "canadian", "english", "etc", "use", "the", "letter", "u", "in", "words", "such", "as", "colour", "labour", "valour", "etc", "however", "in", "american", "english", "the", "letter", "is", "not", "used", "and", "said", "words", "mentioned", "are", "spelled", "as", "color", "and", "so", "on", "it", "is", "the", "thirteenth", "most", "frequently", "used", "letter", "in", "the", "english", "language", "with", "a", "frequency", "of", "about", "in", "words", "other", "languages", "in", "most", "languages", "that", "use", "the", "latin", "alphabet", "u", "represents", "the", "close", "back", "rounded", "vowel", "u", "or", "a", "similar", "vowel", "in", "french", "orthography", "the", "letter", "represents", "the", "close", "front", "rounded", "vowel", "y", "u", "is", "represented", "by", "ou", "in", "dutch", "and", "afrikaans", "it", "represents", "either", "y", "or", "a", "nearclose", "nearfront", "rounded", "vowel", "likewise", "the", "phoneme", "u", "is", "represented", "by", "oe", "in", "welsh", "orthography", "the", "letter", "can", "represent", "a", "long", "close", "front", "unrounded", "vowel", "i", "or", "short", "nearclose", "nearfront", "unrounded", "vowel", "in", "southern", "dialects", "in", "northern", "dialects", "the", "corresponding", "long", "and", "short", "vowels", "are", "a", "long", "close", "central", "unrounded", "vowel", "and", "a", "short", "lowered", "close", "central", "unrounded", "vowel", "respectively", "u", "and", "are", "represented", "by", "w", "other", "uses", "the", "symbol", "'u'", "is", "the", "chemical", "symbol", "for", "uranium", "in", "the", "context", "of", "newtonian", "mechanics", "'u'", "is", "the", "symbol", "for", "the", "potential", "energy", "of", "a", "system", "'u'", "is", "the", "symbol", "for", "the", "atomic", "mass", "unit", "and", "'u'", "is", "the", "symbol", "for", "one", "enzyme", "unit", "in", "the", "international", "phonetic", "alphabet", "the", "close", "back", "rounded", "vowel", "is", "represented", "by", "the", "lower", "case", "u", "u", "is", "also", "the", "source", "of", "the", "mathematical", "symbol", "representing", "a", "union", "it", "is", "used", "mainly", "for", "venn", "diagrams", "and", "geometry", "it", "is", "used", "as", "for", "micro", "in", "metric", "measurements", "as", "a", "replacement", "for", "the", "greek", "letter", "mu", "of", "which", "it", "is", "a", "graphic", "approximation", "when", "that", "greek", "letter", "is", "not", "available", "as", "in", "\"um\"", "for", "m", "micrometer", "some", "universities", "such", "as", "the", "university", "of", "miami", "and", "the", "university", "of", "utah", "are", "locally", "known", "as", "\"the", "u\"", "u", "or", "sometimes", "ru", "is", "a", "standard", "height", "unit", "of", "measure", "in", "rack", "units", "with", "each", "u", "equal", "to", "millimetres", "in", "u", "is", "used", "in", "the", "symbol", "of", "the", "world", "war", "ii", "organization", "ustae", "u", "is", "an", "honorific", "in", "burmese", "related", "characters", "ancestors", "descendants", "and", "siblings", "semitic", "letter", "waw", "from", "which", "the", "following", "symbols", "originally", "derive", "greek", "letter", "upsilon", "from", "which", "u", "derives", "v", "v", "latin", "letter", "v", "descended", "from", "u", "w", "w", "latin", "letter", "w", "descended", "from", "vu", "y", "y", "latin", "letter", "y", "also", "descended", "from", "upsilon", "cyrillic", "letter", "u", "which", "also", "derives", "from", "upsilon", "cyrillic", "letter", "ue", "greek", "letter", "digamma", "f", "f", "latin", "letter", "f", "derived", "from", "digamma", "ipaspecific", "symbols", "related", "to", "u", "uralic", "phonetic", "alphabetspecific", "symbols", "related", "to", "uu+dc", "latin", "letter", "small", "capital", "u", "u+d", "modifier", "letter", "capital", "u", "u+d", "modifier", "letter", "small", "u", "u+d", "latin", "subscript", "small", "letter", "u", "u+dd", "latin", "small", "letter", "sideways", "u", "u+de", "latin", "small", "letter", "sideways", "diaeresized", "u", "u+d", "modifier", "letter", "small", "sideways", "u", "teuthonista", "phonetic", "transcriptionspecific", "symbols", "related", "to", "uu+abe", "latin", "small", "letter", "u", "with", "short", "right", "leg", "u+abf", "latin", "small", "letter", "u", "bar", "with", "short", "right", "leg", "u+ab", "latin", "small", "letter", "turned", "ui", "u+ab", "latin", "small", "letter", "u", "with", "left", "hook", "u+abf", "modifier", "letter", "small", "u", "with", "left", "hook", "u+db", "modifier", "letter", "small", "capital", "u", "used", "for", "phonetic", "transcription", "glottal", "u", "used", "in", "the", "transliteration", "of", "ugaritic", "u", "with", "diacritics", "\u00fc", "\u00fc", "\u00fa", "\u00fa", "\u00f9", "\u00f9", "\u00fb", "\u00fb", "u+ab", "latin", "capital", "letter", "u", "with", "stroke", "and", "u+ab", "latin", "small", "letter", "u", "with", "stroke", "are", "used", "in", "the", "mazahua", "language", "and", "feature", "a", "bar", "diacritic", "ligatures", "and", "abbreviations", "union", "intersection", "an", "upsidedown", "upper", "case", "\"u\"", "computing", "codes", "other", "representations", "notes", "references", "external", "links", "media", "related", "to", "u", "at", "wikimedia", "commons", "the", "dictionary", "definition", "of", "u", "at", "wiktionary", "the", "dictionary", "definition", "of", "u", "at", "wiktionary"]
+u, or u, is the 21st letter and fifth vowel letter of the latin alphabet, used in the modern english alphabet, the alphabets of other western european languages, and others worldwide. its name in english is u (pronounced ), plural ues.
+
+
+== history ==
+u derives from the semitic waw, as does f, and later, y, w, and v. its oldest ancestor goes to egyptian hieroglyphs, and is probably from a hieroglyph of a mace or fowl, representing the sound [v] or the sound [w]. this was borrowed to phoenician, where it represented the sound [w], and seldom the vowel [u].
+in greek, two letters were adapted from the phoenician waw. the letter was adapted, but split in two, with digamma or wau ⟨ϝ⟩ being adapted to represent [w], and the second one being upsilon ⟨υ⟩, which was originally adapted to represent [u], later fronted, becoming [y].
+in latin, a stemless variant shape of the upsilon was borrowed in early times as u, taking the form of modern-day v – either directly from the western greek alphabet or from the etruscan alphabet as an intermediary – to represent the same /u/ sound, as well as the consonantal /w/, num – originally spelled nvm – was pronounced /num/ and via was pronounced [ˈwia]. from the 1st century ad on, depending on vulgar latin dialect, consonantal /w/ developed into /β/ (kept in spanish), then later to /v/.
+during the late middle ages, two minuscule forms developed, which were both used for /v/ or the vowel /u/. the pointed form ⟨v⟩ was written at the beginning of a word, while a rounded form ⟨u⟩ was used in the middle or end, regardless of sound. so whereas 'valour' and 'excuse' appeared as in modern printing, 'have' and 'upon' were printed 'haue' and 'vpon', respectively. the first recorded use of ⟨u⟩ and ⟨v⟩ as distinct letters is in a gothic alphabet from 1386, where ⟨v⟩ preceded ⟨u⟩. printers eschewed capital ⟨u⟩ in favor of ⟨v⟩ into the 17th century and the distinction between the two letters was not fully accepted by the french academy until 1762. the rounded variant became the modern-day version of u and its former pointed form became v.
+
+
+== pronunciation and use ==
+
+
+=== english ===
+in english, the letter ⟨u⟩ has four main pronunciations. there are "long" and "short" pronunciations. short ⟨u⟩, found originally in closed syllables, most commonly represents /ʌ/ (as in 'duck'), though it retains its old pronunciation /ʊ/ after labial consonants in some words (as in 'put') and occasionally elsewhere (as in 'sugar'). long ⟨u⟩, found originally in words of french origin (the descendant of old english long ⟨u⟩ was respelled as ⟨ou⟩), most commonly represents  (as in 'mule'), reducing to /uː/ after ⟨r⟩ (as in 'rule'), ⟨j⟩ (as in 'june') and sometimes (or optionally) after ⟨l⟩ (as in 'lute'), and after additional consonants in american english (see do–dew merger).  (after ⟨s⟩, /sjuː, zjuː/ have assimilated to /ʃuː, ʒuː/ in some words) in a few words, short ⟨u⟩ represents other sounds, such as /ɪ/ in 'business' and /ɛ/ in 'bury'.
+the letter ⟨u⟩ is used in the digraphs ⟨au⟩ /ɔː/, ⟨ou⟩ (various pronunciations, but usually /aʊ/), and with the value of long ⟨u⟩ in ⟨eu⟩, ⟨ue⟩, and in a few words ⟨ui⟩ (as in 'fruit'). it often has the sound /w/ before a vowel in the sequences ⟨qu⟩ (as in 'quick'), ⟨gu⟩ (as in 'anguish'), and ⟨su⟩ (as in 'suave'), though it is silent in final ⟨que⟩ (as in 'unique') and in many words with ⟨gu⟩ (as in 'guard').
+additionally, the letter ⟨u⟩ is used in text messaging, internet and other written slang to denote 'you', by virtue of both being pronounced .
+one thing to note is that certain varieties of the english language (i.e. british english, canadian english, etc.) use the letter u in words such as colour, labour, valour, etc.; however, in american english the letter is not used and said words mentioned are spelled as color and so on. it is the thirteenth most frequently used letter in the english language, with a frequency of about 2.8% in words.
+
+
+=== other languages ===
+in most languages that use the latin alphabet, ⟨u⟩ represents the close back rounded vowel /u/ or a similar vowel.
+in french orthography the letter represents the close front rounded vowel /y/; /u/ is represented by ⟨ou⟩.
+in dutch and afrikaans, it represents either /y/, or a near-close near-front rounded vowel /ʏ/; likewise, the phoneme /u/ is represented by ⟨oe⟩.
+in welsh orthography the letter can represent a long close front unrounded vowel /iː/ or short near-close near-front unrounded vowel /ɪ/ in southern dialects. in northern dialects, the corresponding long and short vowels are a long close central unrounded vowel /ɨː/ and a short lowered close central unrounded vowel /ɨ̞/, respectively. /uː/ and /ʊ/ are represented by ⟨w⟩.
+
+
+== other uses ==
+
+the symbol 'u' is the chemical symbol for uranium.
+in the context of newtonian mechanics 'u' is the symbol for the potential energy of a system.
+'u' is the symbol for the atomic mass unit and 'u' is the symbol for one enzyme unit.
+in the international phonetic alphabet, the close back rounded vowel is represented by the lower case ⟨u⟩.
+u is also the source of the mathematical symbol ∪, representing a union. it is used mainly for venn diagrams and geometry.
+it is used as for micro- in metric measurements as a replacement for the greek letter μ (mu), of which it is a graphic approximation when that greek letter is not available, as in "um" for μm (micrometer).
+some universities, such as the university of miami and the university of utah, are locally known as "the u".
+u (or sometimes ru) is a standard height unit of measure in rack units, with each u equal to 44.50 millimetres (1.75 in).
+u is used in the symbol of the world war ii organization ustaše.
+u is an honorific in burmese.
+
+
+== related characters ==
+
+
+=== ancestors, descendants and siblings ===
+⟨𐤅‎⟩: semitic letter waw, from which the following symbols originally derive
+⟨υ υ⟩: greek letter upsilon, from which u derives
+⟨v v⟩: latin letter v, descended from u
+⟨w w⟩: latin letter w, descended from v/u
+⟨y y⟩: latin letter y, also descended from upsilon
+⟨у у⟩: cyrillic letter u, which also derives from upsilon
+⟨ү ү⟩: cyrillic letter ue
+⟨ϝ ϝ⟩: greek letter digamma
+⟨f f⟩: latin letter f, derived from digamma
+ipa-specific symbols related to u: ⟨ʊ⟩ ⟨ɥ⟩
+uralic phonetic alphabet-specific symbols related to u:u+1d1c ᴜ latin letter small capital u
+u+1d41 ᵁ modifier letter capital u
+u+1d58 ᵘ modifier letter small u
+u+1d64 ᵤ latin subscript small letter u
+u+1d1d ᴝ latin small letter sideways u
+u+1d1e ᴞ latin small letter sideways diaeresized u
+u+1d59 ᵙ modifier letter small sideways u
+teuthonista phonetic transcription-specific symbols related to u:u+ab4e ꭎ latin small letter u with short right leg
+u+ab4f ꭏ latin small letter u bar with short right leg
+u+ab51 ꭑ latin small letter turned ui
+u+ab52 ꭒ latin small letter u with left hook
+u+ab5f ꭟ modifier letter small u with left hook
+u+1db8 ᶸ modifier letter small capital u: used for phonetic transcription
+⟨ꞿ ꞿ⟩: glottal u, used in the transliteration of ugaritic
+u with diacritics: ⟨ŭ ŭ ʉ ʉ ᵾ⟩ ⟨ᶶ⟩ ⟨ꞹ⟩  ⟨ꞹ⟩ ⟨ụ ụ⟩ ⟨ü ü⟩ ⟨ǜ ǜ⟩ ⟨ǘ ǘ⟩ ⟨ǚ ǚ⟩ ⟨ǖ ǖ⟩ ⟨ṳ ṳ⟩ ⟨ú ú⟩ ⟨ù ù⟩ ⟨û û ṷ ṷ⟩ ⟨ǔ ǔ⟩ ⟨ȗ ȗ⟩ ⟨ű ű⟩ ⟨ŭ ŭ⟩ ⟨ư ư⟩ ⟨ứ ứ⟩ ⟨ừ ừ⟩ ⟨ử ử⟩ ⟨ự ự⟩ ⟨ữ ữ⟩ ⟨ủ ủ⟩ ⟨ū ū⟩ ⟨ū̀ ū̀⟩ ⟨ū́ ū́⟩ ⟨ṻ ṻ⟩ ⟨ū̃ ū̃⟩ ⟨ũ ũ⟩ ⟨ṹ ṹ⟩ ⟨ṵ ṵ⟩ ⟨ᶙ⟩ ⟨ų ų ų́ ų́ ų̃ ų̃⟩ ⟨ȕ ȕ⟩ ⟨ů ů⟩
+u+a7b8 ꞹ latin capital letter u with stroke and u+a7b9 ꞹ latin small letter u with stroke are used in the mazahua language and feature a bar diacritic
+
+
+=== ligatures and abbreviations ===
+∪: union
+∩: intersection, an upside-down upper case "u"
+
+
+== computing codes ==
+
+
+== other representations ==
+
+
+== notes ==
+
+
+== references ==
+
+
+== external links ==
+ media related to u at wikimedia commons
+ the dictionary definition of u at wiktionary
+ the dictionary definition of u at wiktionary

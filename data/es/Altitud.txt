@@ -1,1 +1,27 @@
-["se", "denomina", "altitud", "a", "la", "distancia", "vertical", "que", "existe", "entre", "cualquier", "punto", "de", "la", "tierra", "en", "relaci\u00f3n", "con", "el", "nivel", "del", "mar", "para", "calcular", "la", "altitud", "se", "toma", "como", "referencia", "el", "nivel", "del", "mar", "y", "por", "eso", "la", "altitud", "se", "expresa", "con", "una", "cifra", "en", "metros", "seguida", "de", "la", "abreviatura", "s", "n", "m", "es", "decir", "m", "s", "n", "m", "metros", "sobre", "el", "nivel", "del", "mar", "en", "geograf\u00eda", "la", "altitud", "es", "la", "distancia", "vertical", "de", "un", "punto", "de", "la", "tierra", "con", "respecto", "al", "nivel", "del", "mar", "llamada", "elevaci\u00f3n", "sobre", "el", "nivel", "medio", "del", "mar", "en", "contraste", "con", "la", "altura", "que", "indica", "la", "distancia", "vertical", "existente", "entre", "dos", "puntos", "de", "la", "superficie", "terrestre", "y", "el", "nivel", "de", "vuelo", "que", "es", "la", "altitud", "seg\u00fan", "la", "presi\u00f3n", "est\u00e1ndar", "mediante", "un", "alt\u00edmetro", "que", "se", "encuentra", "a", "m\u00e1s", "de", "pies", "sobre", "el", "nivel", "medio", "del", "mar", "en", "la", "europa", "continental", "casi", "toda", "iberoam\u00e9rica", "y", "en", "otras", "partes", "del", "mundo", "la", "altitud", "se", "mide", "en", "metros", "en", "estados", "unidos", "se", "mide", "generalmente", "en", "pies", "pero", "este", "pa\u00eds", "ha", "convenido", "en", "ir", "reemplazando", "ese", "sistema", "de", "medici\u00f3n", "por", "el", "sistema", "internacional", "de", "unidades", "sicita", "requerida", "en", "aviaci\u00f3n", "generalmente", "se", "utilizan", "los", "pies", "en", "todo", "el", "mundo", "excepto", "en", "los", "pa\u00edses", "del", "antiguo", "bloque", "del", "este", "ya", "que", "los", "aviones", "de", "la", "antigua", "uni\u00f3n", "sovi\u00e9tica", "llevan", "los", "indicadores", "de", "altitud", "en", "metros", "en", "meteorolog\u00eda", "la", "altitud", "es", "un", "factor", "de", "cambios", "de", "temperatura", "puesto", "que", "esta", "disminuye", "como", "media", "\u00b0c", "cada", "cien", "metros", "de", "altitud", "en", "las", "latitudes", "medias", "en", "las", "zonas", "templadas", "y", "subtropicales", "del", "mundo", "en", "espa\u00f1a", "normalmente", "se", "mide", "la", "altitud", "desde", "el", "nivel", "del", "mar", "en", "alicante", "comunidad", "valenciana", "v\u00e9ase", "tambi\u00e9n", "altimetr\u00eda", "altura", "desnivel", "latitud", "longitud", "mal", "de", "monta\u00f1a", "metros", "sobre", "el", "nivel", "del", "mar", "pendiente", "pisos", "t\u00e9rmicos", "prominencia", "relevancia", "orograf\u00eda", "visor", "de", "ign", "referencias", "enlaces", "externos", "wikcionario", "tiene", "definiciones", "y", "otra", "informaci\u00f3n", "sobre", "altitud"]
+se denomina altitud a la distancia vertical que existe entre cualquier punto de la tierra en relación con el nivel del mar. para calcular la altitud, se toma como referencia el nivel del mar, y por eso la altitud se expresa con una cifra en metros seguida de la abreviatura s. n. m., es decir, m s. n. m. (‘metros sobre el nivel del mar’).[1]​[2]​[3]​
+en geografía, la altitud es la distancia vertical de un punto de la tierra con respecto al nivel del mar, llamada elevación sobre el nivel medio del mar, en contraste con la altura, que indica la distancia vertical existente entre dos puntos de la superficie terrestre; y el nivel de vuelo, que es la altitud según la presión estándar mediante un altímetro, que se encuentra a más de 20 000 pies sobre el nivel medio del mar.
+en la europa continental, casi toda iberoamérica y en otras partes del mundo, la altitud se mide en metros. en estados unidos se mide generalmente en pies, pero este país ha convenido en ir reemplazando ese sistema de medición por el sistema internacional de unidades (si)[4]​.[cita requerida] en aviación, generalmente, se utilizan los pies en todo el mundo excepto en los países del antiguo bloque del este, ya que los aviones de la antigua unión soviética llevan los indicadores de altitud en metros.
+en meteorología, la altitud es un factor de cambios de temperatura, puesto que esta disminuye, como media, 0,65 °c cada cien metros de altitud en las latitudes medias (en las zonas templadas y subtropicales del mundo).
+en españa normalmente se mide la altitud desde el nivel del mar en alicante, comunidad valenciana.
+
+
+== véase también ==
+altimetría
+altura
+desnivel
+latitud
+longitud
+mal de montaña
+metros sobre el nivel del mar
+pendiente
+pisos térmicos
+prominencia
+relevancia (orografía)
+visor de ign
+
+
+== referencias ==
+
+
+== enlaces externos ==
+ wikcionario  tiene definiciones y otra información sobre altitud.

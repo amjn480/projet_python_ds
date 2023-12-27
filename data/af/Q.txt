@@ -1,1 +1,1 @@
-["die", "letter", "q", "q", "is", "die", "de", "letter", "van", "die", "moderne", "latynse", "alfabet", "in", "navo", "se", "internasionale", "spellingsalfabet", "word", "q", "uitgespreek", "met", "die", "woord", "\"quebec\""]
+"die letter q, q is die 17de letter van die moderne latynse alfabet. in navo se internasionale spellingsalfabet word q uitgespreek met die woord \"quebec\"."

@@ -1,1 +1,1 @@
-["die", "letter", "x", "x", "is", "die", "ste", "letter", "van", "die", "latynse", "alfabet", "in", "navo", "se", "internasionale", "spellingsalfabet", "word", "x", "uitgespreek", "met", "die", "woord", "\"xray\""]
+"die letter x, x is die 24ste letter van die latynse alfabet. in navo se internasionale spellingsalfabet word x uitgespreek met die woord \"x-ray\"."
