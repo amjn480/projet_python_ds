@@ -20,7 +20,7 @@ for language in conf_training.dic_api.keys():
 
     # Affichage des couleurs représentant les fréquences
     plt.figure(figsize=(15, 15))
-    plt.imshow(matrix, interpolation='nearest', cmap='BuPu')
+    plt.imshow(submatrix, interpolation='nearest', cmap='BuPu')
     plt.axis('off')
 
 
