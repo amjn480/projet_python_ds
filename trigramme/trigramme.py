@@ -5,12 +5,11 @@ import json
 code_space = 0
 
 
-
 class Trigramme():
     def __init__(self, language):
         self.language = language
-        self.matrix = np.zeros((255**2, 255**2))
-        self.total = np.zeros(255**2)
+        self.matrix = np.zeros((256**2, 256**2))
+        self.total = np.zeros(256**2)
         self.list_articles = os.listdir(f"/home/onyxia/work/projet_python_ds/data/{language}")
         self.train()
         self.normalize()
@@ -23,20 +22,26 @@ class Trigramme():
         with open(f"/home/onyxia/work/projet_python_ds/data/{self.language}/{file}", 'r', encoding='utf-8') as file2:
             try:
                 data = json.load(file2)
-                for word in data:
-                    print(word)
-                    self.matrix[32][ord(word[0])] += 1 #a changer c faux
-                    self.total[32] += 1
-                    for k in range(len(word)-3):
-                        bicar = word[k:(k+2)]
-                        print(bicar)
-                        i = Trigramme.encoding(bicar)
-                        j = Trigramme.encoding(word[k+1:k+3])
-                        self.matrix[i][j] += 1
-                        self.total[i] += 1                    
-                    print(word[-1])
-                    print(word)
-                    self.matrix[Trigramme.encoding(word[-2:]), Trigramme.encoding(word[-1])] += 1
+                data = ''.join(data)
+                for k in range(len(data)-3):
+                    prev = Trigramme.encoding(data[k:k+1])
+                    next = Trigramme.encoding(data[k+2:k+3])
+                    self.matrix[prev][next] += 1
+                    self.total[prev] += 1
+                # for word in data:
+                #     print(word)
+                #     self.matrix[32][ord(word[0])] += 1 #a changer c faux
+                #     self.total[32] += 1
+                #     for k in range(len(word)-3):
+                #         bicar = word[k:(k+2)]
+                #         print(bicar)
+                #         i = Trigramme.encoding(bicar)
+                #         j = Trigramme.encoding(word[k+1:k+3])
+                #         self.matrix[i][j] += 1
+                #         self.total[i] += 1                    
+                #     print(word[-1])
+                #     print(word)
+                #     self.matrix[Trigramme.encoding(word[-2:]), Trigramme.encoding(word[-1])] += 1
             except json.decoder.JSONDecodeError:
                 print(f"error collecting the data :{file}")
 
@@ -45,6 +50,6 @@ class Trigramme():
             self.update_matrix(file=file)
     
     def normalize(self):
-        for k in range(255):
+        for k in range(256):
             if self.total[k] != 0:
                 self.matrix[k] = self.matrix[k]/self.total[k]
