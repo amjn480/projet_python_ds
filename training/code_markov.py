@@ -40,7 +40,7 @@ class Matrix():
                         self.matrix[i][j] += 1
                         self.total[i] += 1
                     self.matrix[ord(word[-1])][32] += 1
-            except json.decoder.JSONDecodeError:
+            except (json.decoder.JSONDecodeError, UnicodeDecodeError):
                 print(f"error collecting the data :{file}")
 
     def train(self):
@@ -86,3 +86,4 @@ class Frequency():
 
 
 
+print(Matrix(language='fr').total)
