@@ -17,13 +17,15 @@ def matrix_visualiation(language):
     # Conversion des couleurs de l'espace HSV à RGB pour l'affichage
     colors_rgb = plt.get_cmap('Blues')(colors_hsv[:, :, 0])  # Utilisation uniquement de la teinte pour la colormap
 
-    # Affichage des couleurs représentant les fréquences
     plt.figure(figsize=(8, 6))
-    plt.imshow(colors_rgb, interpolation='nearest')
+    plt.imshow(colors_rgb, interpolation='nearest', cmap='Blues')
     plt.title('Couleurs en fonction des fréquences')
     plt.xlabel('Lettre suivante')
     plt.ylabel('Lettre actuelle')
-    plt.colorbar()  # Barre de couleur pour référence
+
+    cbar = plt.colorbar()
+    cbar.set_label("Valeur des fréquences")
+
     plt.show()
     plt.savefig(f'/home/onyxia/work/projet_python_ds/visualization/matrix_visualization/matrix_{language}.png')
 
