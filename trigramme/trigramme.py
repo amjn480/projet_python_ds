@@ -22,7 +22,7 @@ class Trigramme():
         with open(f"/home/onyxia/work/projet_python_ds/data/{self.language}/{file}", 'r', encoding='utf-8') as file2:
             try:
                 data = json.load(file2)
-                data = ''.join(data)
+                data = ' '.join(data)
                 for k in range(len(data)-3):
                     prev = Trigramme.encoding(data[k:k+2])
                     next = Trigramme.encoding(data[k+1:k+3])
