@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from wordcloud import WordCloud
 
 
 def frequency_visualization(language):
@@ -17,11 +18,22 @@ def frequency_visualization(language):
     plt.xlim(0, len(frequencies))
     plt.ylim(0, 1)
     plt.axis('off')  # Masquer les axes
-
     plt.show()
     plt.savefig(f'/home/onyxia/work/projet_python_ds/visualization/frequency_visualization/frequencies_{language}.png')
+
+
+def worcloud_visualization(language):
+    frequencies = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt")
+    freq = {chr(n): frequencies[n] for n in range(255)}
+    wordcloud = WordCloud(width=800, height=400, background_color='white', prefer_horizontal=1.0).generate_from_frequencies(freq)
+    plt.figure(figsize=(10, 8))
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis('off')
+    plt.show()
+    plt.savefig(f'/home/onyxia/work/projet_python_ds/visualization/frequency_visualization/wordcloud_{language}.png')
 
 
 # To save the different matrix
 for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']:
     frequency_visualization(language=language)
+    worcloud_visualization(language=language)
