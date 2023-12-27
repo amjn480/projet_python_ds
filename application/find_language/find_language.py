@@ -33,9 +33,11 @@ def find_language(request, language_request):
 
     for language in conf_data.dic_api.keys():
         proba = compute_proba(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt"), data)
-        distance = compute_distance_frequency(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt"), data)
+        # distance = compute_distance_frequency(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt"), data)
+        # proba_trigramme = compute_proba_tri(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_trigramme_{language}.txt"), data)
         print(f"The probabilty with the Matrix for {language} is : {proba}")
-        print(f"The distance for {language} is : {distance}")
+        # print(f"The probability for the Matrix trigramme for {language} is : {proba_trigramme}")
+        # print(f"The distance for {language} is : {distance}")
 
 
 def compute_proba(matrix, text):
@@ -48,9 +50,9 @@ def compute_proba(matrix, text):
                 next_character = word[k+1]
                 i = ord(character)
                 j = ord(next_character)
-                proba = proba*(1/matrix[i][j])
-            proba = proba*(1/matrix[ord(word[-1])][32])
-            proba_totale += 1/proba
+                proba = proba*(matrix[i][j])
+            proba = proba*(matrix[ord(word[-1])][32])
+            proba_totale += proba
         return proba_totale/len(text)
 
 
@@ -63,6 +65,23 @@ def compute_distance_frequency(frequencies, text):
             frequencies_text[ord(letter)] += 1
     frequencies_text = frequencies_text/number_characters
     return np.linalg.norm(frequencies - frequencies_text)
+
+
+def compute_proba_tri(matrix, text):
+    text = ' '.join(text)
+    proba_totale = 0
+    for k in range(len(text)//15):
+        proba = 1
+        for j in range(text[15*k:15*(k + 1)-3]):
+            prev = encoding_tri(text[j:j+2])
+            next = encoding_tri(text[j+1:j+3])
+            proba *= matrix[prev][next]
+        proba_totale += proba
+    return proba_totale/(len(text//15))
+
+
+def encoding_tri(c):
+    return ord(c[0])+ord(c[1])*256
 
 
 print(find_language("Football", 'fr'))

@@ -30,5 +30,5 @@ def genere_txt(n) :
 
     return generated_text
 txt=genere_txt(50)
-print(txt)
+print(txt) 
 print(perplexity(txt))
