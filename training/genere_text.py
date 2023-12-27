@@ -18,12 +18,13 @@ def perplexity(s) :
     return res
 
 def genere_txt(n) :
-    current_state = random.choices(range(len(matrix)), weights=freq)[0]
+    current_state = random.choices(range(len(matrix)), weights=freq)[0]    
     generated_text = chr(current_state)
 
     # Générer le reste du texte en suivant la chaîne de Markov
-    for _ in range(1, n):
-        next_state = random.choices(range(len(matrix)), weights=matrix[current_state])[0]
+    for _ in range(1, n):        
+        next_state = random.choices(range(len(matrix)), weights=matrix[current_state])[0]        
+        print(next_state)
         generated_text+=chr(next_state)
         current_state = next_state
 
