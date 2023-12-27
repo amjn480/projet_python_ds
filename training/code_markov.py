@@ -54,9 +54,9 @@ class Matrix():
                 self.matrix[k] = self.matrix[k]/self.total[k]
 
 
-# Pour visualiser la matrice
-for language in conf_training.dic_api.keys():
-    np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt", Matrix(language=language).matrix)
+# To save the matrix in a file
+# for language in conf_training.dic_api.keys():
+#     np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt", Matrix(language=language).matrix)
 
 
 class Frequency():
@@ -81,7 +81,7 @@ class Frequency():
         self.frequencies = self.frequencies/number_characters
 
 
-# # Pour visualiser les fréquences des lettres par langues
+# To save the list in a file
 # for language in conf_training.dic_api.keys():
 #     np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt", Frequency(language=language).frequencies)
 
