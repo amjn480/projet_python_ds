@@ -40,6 +40,7 @@ class Matrix():
                         self.matrix[i][j] += 1
                         self.total[i] += 1
                     self.matrix[ord(word[-1])][32] += 1
+                    self.total[ord(word[-1])] += 1
             except (json.decoder.JSONDecodeError, UnicodeDecodeError):
                 print(f"error collecting the data :{file}")
 
@@ -53,9 +54,9 @@ class Matrix():
                 self.matrix[k] = self.matrix[k]/self.total[k]
 
 
-# # Pour visualiser la matrice
-# for language in conf_training.dic_api.keys():
-#     np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt", Matrix(language=language).matrix)
+# Pour visualiser la matrice
+for language in conf_training.dic_api.keys():
+    np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt", Matrix(language=language).matrix)
 
 
 class Frequency():
@@ -84,6 +85,3 @@ class Frequency():
 # for language in conf_training.dic_api.keys():
 #     np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt", Frequency(language=language).frequencies)
 
-
-
-print(Matrix(language='fr').total)

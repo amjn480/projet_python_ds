@@ -34,7 +34,7 @@ def find_language(request, language_request):
     for language in conf_data.dic_api.keys():
         proba = compute_proba(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt"), data)
         distance = compute_distance_frequency(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt"), data)
-        print(f"The probabilty with the Matrix for {language} is :{proba}")
+        print(f"The probabilty with the Matrix for {language} is : {proba}")
         print(f"The distance for {language} is : {distance}")
 
 
@@ -48,9 +48,9 @@ def compute_proba(matrix, text):
                 next_character = word[k+1]
                 i = ord(character)
                 j = ord(next_character)
-                proba = proba*matrix[i][j]
-            proba = proba*matrix[ord(word[-1])][32]
-            proba_totale += proba
+                proba = proba*(1/matrix[i][j])
+            proba = proba*(1/matrix[ord(word[-1])][32])
+            proba_totale += 1/proba
         return proba_totale/len(text)
 
 
