@@ -24,7 +24,7 @@ for language in conf_training.dic_api.keys():
     plt.axis('off')
 
 
-    for ip,i in enumerate(list(range(0,256))):
+    for ip,i in enumerate([32] + list(range(97, 123)) + list(range(224, 255))):
         plt.text(-1,ip,chr(i), horizontalalignment='center', verticalalignment='center')
         plt.text(ip,-1,chr(i), horizontalalignment='center', verticalalignment='center')
     plt.colorbar()
