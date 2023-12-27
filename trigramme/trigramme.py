@@ -1,7 +1,7 @@
 import numpy as np
 import os
 import json
-
+import conf_training
 code_space = 0
 
 
@@ -24,32 +24,22 @@ class Trigramme():
                 data = json.load(file2)
                 data = ''.join(data)
                 for k in range(len(data)-3):
-                    prev = Trigramme.encoding(data[k:k+1])
-                    next = Trigramme.encoding(data[k+2:k+3])
+                    prev = Trigramme.encoding(data[k:k+2])
+                    next = Trigramme.encoding(data[k+1:k+3])
                     self.matrix[prev][next] += 1
-                    self.total[prev] += 1
-                # for word in data:
-                #     print(word)
-                #     self.matrix[32][ord(word[0])] += 1 #a changer c faux
-                #     self.total[32] += 1
-                #     for k in range(len(word)-3):
-                #         bicar = word[k:(k+2)]
-                #         print(bicar)
-                #         i = Trigramme.encoding(bicar)
-                #         j = Trigramme.encoding(word[k+1:k+3])
-                #         self.matrix[i][j] += 1
-                #         self.total[i] += 1                    
-                #     print(word[-1])
-                #     print(word)
-                #     self.matrix[Trigramme.encoding(word[-2:]), Trigramme.encoding(word[-1])] += 1
-            except json.decoder.JSONDecodeError:
+                    self.total[prev] += 1             
+            except (json.decoder.JSONDecodeError, UnicodeDecodeError) :
                 print(f"error collecting the data :{file}")
-
+            
     def train(self):
         for file in self.list_articles:
             self.update_matrix(file=file)
     
     def normalize(self):
-        for k in range(256):
+        for k in range(256**2):
             if self.total[k] != 0:
                 self.matrix[k] = self.matrix[k]/self.total[k]
+for language in conf_training.dic_api.keys():
+    rows_to_keep = np.array([32] + list(range(97, 123))+list(range(224,255)))
+    cols_to_keep = np.array([32] + list(range(97, 123))+list(range(224,255)))
+    np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_trigramme_{language}.txt", Trigramme(language=language).matrix[np.ix_(rows_to_keep,cols_to_keep)])
