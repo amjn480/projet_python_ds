@@ -81,7 +81,21 @@ def compute_proba_tri(matrix, text):
 
 
 def encoding_tri(c):
-    return ord(c[0])+ord(c[1])*256
+    enc1 = code(c[0])
+    enc2 = code(c[1])
+    return enc1 + enc2*60
+
+
+def code(c):
+    if ord(c) == 32:
+        enc1 = 0
+    elif ord(c) <= 122 and ord(c) >= 97:
+        enc1 = ord(c)-96
+    elif ord(c) <= 255 and ord(c) >= 224:
+        enc1 = ord(c)-197
+    else:
+        enc1 = 59
+    return enc1
 
 
 print(find_language("Football", 'fr'))
