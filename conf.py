@@ -1,4 +1,5 @@
 # File to configure the different settings
+import os
 
 # The different languages we are going to train the model
 dic_api = {
@@ -14,4 +15,5 @@ dic_api = {
             "sv": "https://sv.wikipedia.org/w/api.php"
             }
 
-print(dic_api.keys())
+# App root
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))  # Project root
