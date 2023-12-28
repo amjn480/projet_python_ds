@@ -39,20 +39,24 @@ def worcloud_visualization(language):
 
 
 def frequency_visualization_zoom(language):
-    """Provide an histogram of the first visualization of frequencies."""
+    """Provide a zoom of the first visualization of frequencies."""
     frequencies = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt")
-    #frequencies=frequencies[np.ix_([32] + list(range(97, 123)) + list(range(224, 255)))]
-    plt.hist(frequencies)
-    
+    frequencies=frequencies[np.ix_([32] + list(range(97, 123)) + list(range(224, 255)))]
+    colors = plt.cm.Blues(frequencies)
+    plt.figure(figsize=(58, 50))
+    for i, freq in enumerate(colors):
+        plt.fill_between([i, i + 1], 0, 1, color=freq)
+        plt.text(i + 0.5, 1.1, chr(i), ha='center', fontsize=8)
 
     plt.title('Exemple de fréquences des caractères ASCII')
     plt.xlabel('Caractères ASCII')
     plt.ylabel('Fréquence')
 
-  
+    plt.xlim(0, len(frequencies))
+    plt.ylim(0, 1)
+    plt.axis('off')  # Masquer les axes
     plt.show()
     plt.savefig(f'/home/onyxia/work/projet_python_ds/visualization/frequency_visualization/frequencies_zoom_{language}.png')
-    plt.close()
 
 
 # To save the different matrix
