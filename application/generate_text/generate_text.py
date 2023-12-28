@@ -6,13 +6,20 @@ eps = 1e-6
 
 
 def generate_bigramme(language, lenght_sentence):
+
+    """Generate a sequence of coherent letters using the transition matrix of bigrams for a language.
+    Parameters :
+    length_sentence : the length of the sequence"""
+
+    # Data importation
     matrix = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt")
     freq = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt")
-
+    # First letter
     current_state = random.choices(range(len(matrix)), weights=freq)[0]
     generated_text = chr(current_state)
-
+    
     for _ in range(1, lenght_sentence):
+        #We take a randomly weighted letter based on transition probabilities
         next_state = random.choices(range(len(matrix)), weights=matrix[current_state])[0]
         generated_text += chr(next_state)
         current_state = next_state
@@ -21,6 +28,9 @@ def generate_bigramme(language, lenght_sentence):
 
 
 def generate_trigramme(language, lenght_sentence):
+    """Generate a sequence of coherent letters using the transition matrix of trigrams for a language.
+    Parameters :
+    length_sentence : the length of the sequence"""
     matrix2 = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt")
     freq = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt")
     rows_to_keep = np.array([32] + list(range(97, 123))+list(range(224, 255)))
@@ -51,6 +61,9 @@ def generate_trigramme(language, lenght_sentence):
 
 
 def perplexity(text, language):
+
+    """Measure the plausibility of a text."""
+
     matrix = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt")
     res = 0
     c1 = text[0]
@@ -63,21 +76,28 @@ def perplexity(text, language):
 
 
 def revient(nb):
-    """permet de se ramener dans le bon intervalle"""
+    """Brings characters back into the correct intervals for ASCII tables.
+    """
+    # Space is encoded as 0 in our matrix and 32 in ASCII characters.
     if nb == 0:
         return 32
+    # Numbers between 97 and 122 are lowercases letters in ASCII tables.
     elif nb <= 26:
         return nb+96
+    # Numbers between 224 and 255 are lowercases letters with accent
     elif nb <= 58:
         return nb+197
+    # For all others letters we have decided not to count them since they doesn't appear often
     else:
         return -1
 
 
 def decode(nb):
-    """trouve les nombres en base 10 pour réassocier la chaine de caractere"""
+    """Converts a number into its associated character string."""
+    # If nb==-1, then we don't keep this character
     if nb < 0:
         return -1
+    # Else we convert the  number into a sequence of character
     c = ''
     c += chr(revient(nb % 60))
     c += chr(revient(nb//60))
