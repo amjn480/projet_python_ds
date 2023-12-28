@@ -49,9 +49,7 @@ def frequency_visualization_zoom(language):
     plt.xlabel('Caractères ASCII')
     plt.ylabel('Fréquence')
 
-    plt.xlim(0, len(frequencies))
-    plt.ylim(0, 1)
-    plt.axis('off')  # Masquer les axes
+  
     plt.show()
     plt.savefig(f'/home/onyxia/work/projet_python_ds/visualization/frequency_visualization/frequencies_zoom_{language}.png')
 
