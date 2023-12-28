@@ -23,7 +23,7 @@ for language in conf_training.dic_api.keys():
     plt.figure(figsize=(15, 15))
     plt.imshow(submatrix, interpolation='nearest', cmap='BuPu')
     plt.axis('off')
-    plt.title("Affichage de la matrice de transition",fontsize=16, y=1.05)
+    plt.title("Affichage de la matrice de transition",fontsize=16, y=1.20)
 
     for ip,i in enumerate([32] + list(range(97, 123)) + list(range(224, 255))):
         plt.text(-1,ip,chr(i), horizontalalignment='center', verticalalignment='center')
