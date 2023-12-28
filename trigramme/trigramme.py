@@ -5,18 +5,32 @@ import conf_training
 code_space = 0
 
 
+def code(c):
+    if ord(c) == 32:
+        enc1 = 0
+    elif ord(c) <= 122 and ord(c) >= 97:
+        enc1 = ord(c)-96
+    elif ord(c) <= 255 and ord(c) >= 224:
+        enc1 = ord(c)-197
+    else:
+        enc1 = 59
+    return enc1
+
+
 class Trigramme():
     def __init__(self, language):
         self.language = language
-        self.matrix = np.zeros((256**2, 256**2))
-        self.total = np.zeros(256**2)
+        self.matrix = np.zeros((60**2, 60**2))
+        self.total = np.zeros(60**2)
         self.list_articles = os.listdir(f"/home/onyxia/work/projet_python_ds/data/{language}")
         self.train()
         self.normalize()
 
     @staticmethod
     def encoding(c):
-        return ord(c[0])+ord(c[1])*256
+        enc1 = code(c[0])
+        enc2 = code(c[1])
+        return enc1 + enc2*60
 
     def update_matrix(self, file):
         with open(f"/home/onyxia/work/projet_python_ds/data/{self.language}/{file}", 'r', encoding='utf-8') as file2:
@@ -36,12 +50,10 @@ class Trigramme():
             self.update_matrix(file=file)
     
     def normalize(self):
-        for k in range(256**2):
+        for k in range(60**2):
             if self.total[k] != 0:
                 self.matrix[k] = self.matrix[k]/self.total[k]
 
 
 for language in conf_training.dic_api.keys():
-    rows_to_keep = np.array([32] + list(range(97, 123))+list(range(224, 255)))
-    cols_to_keep = np.array([32] + list(range(97, 123))+list(range(224, 255)))
-    np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_trigramme_{language}.txt", Trigramme(language=language).matrix[np.ix_(rows_to_keep,cols_to_keep)])
+    np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt", Trigramme(language=language).matrix)

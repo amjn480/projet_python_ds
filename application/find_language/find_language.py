@@ -1,8 +1,14 @@
 import requests
-import conf_data
 import numpy as np
 
 S = requests.Session()
+
+characters_to_remove = [
+    '=', '.', ',', '(', ')', '0', '1', '2', '3', '4', '5', '6',
+    '7', '8', '9', '«', '»', '-', '_', 'ⓐ', '\\', ';', '/', '%'
+    ':', '?', '[', ']']
+
+traduction_table = str.maketrans('', '', ''.join(characters_to_remove))
 
 
 def find_language(request, language_request):
@@ -23,7 +29,7 @@ def find_language(request, language_request):
         data = response.json()
         page_content = list(data["query"]["pages"].values())[0]["extract"]
         page_content = [word for word in page_content.split()]
-        data = [chaine.translate(conf_data.traduction_table).lower()
+        data = [chaine.translate(traduction_table).lower()
                     for chaine in page_content]
         data = [''.join([c for c in word if ord(c) < 255]) 
                             for word in data]
@@ -31,12 +37,12 @@ def find_language(request, language_request):
     else:
         print("La requête a échoué. Statut :", response.status_code)
 
-    for language in conf_data.dic_api.keys():
-        proba = compute_proba(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt"), data)
+    for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']:
+        # proba = compute_proba(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt"), data)
         # distance = compute_distance_frequency(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt"), data)
-        # proba_trigramme = compute_proba_tri(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_trigramme_{language}.txt"), data)
-        print(f"The probabilty with the Matrix for {language} is : {proba}")
-        # print(f"The probability for the Matrix trigramme for {language} is : {proba_trigramme}")
+        proba_trigramme = compute_proba_tri(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt"), data)
+        # print(f"The probabilty with the Matrix for {language} is : {proba}")
+        print(f"The probability for the Matrix trigramme for {language} is : {proba_trigramme}")
         # print(f"The distance for {language} is : {distance}")
 
 
@@ -72,16 +78,30 @@ def compute_proba_tri(matrix, text):
     proba_totale = 0
     for k in range(len(text)//15):
         proba = 1
-        for j in range(text[15*k:15*(k + 1)-3]):
+        for j in range(15*k, 15*(k + 1) - 3):
             prev = encoding_tri(text[j:j+2])
             next = encoding_tri(text[j+1:j+3])
             proba *= matrix[prev][next]
         proba_totale += proba
-    return proba_totale/(len(text//15))
+    return proba_totale/(len(text)//15)
 
 
 def encoding_tri(c):
-    return ord(c[0])+ord(c[1])*256
+    enc1 = code(c[0])
+    enc2 = code(c[1])
+    return enc1 + enc2*60
+
+
+def code(c):
+    if ord(c) == 32:
+        enc1 = 0
+    elif ord(c) <= 122 and ord(c) >= 97:
+        enc1 = ord(c)-96
+    elif ord(c) <= 255 and ord(c) >= 224:
+        enc1 = ord(c)-197
+    else:
+        enc1 = 59
+    return enc1
 
 
 print(find_language("Football", 'fr'))
