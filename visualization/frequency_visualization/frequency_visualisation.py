@@ -41,7 +41,7 @@ def worcloud_visualization(language):
 def frequency_visualization_zoom(language):
     """Provide an histogram of the first visualization of frequencies."""
     frequencies = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt")
-    frequencies=frequencies[np.ix_([32] + list(range(97, 123)) + list(range(224, 255)))]
+    #frequencies=frequencies[np.ix_([32] + list(range(97, 123)) + list(range(224, 255)))]
     plt.hist(frequencies)
     
 
