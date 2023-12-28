@@ -38,12 +38,12 @@ def find_language(request, language_request):
         print("La requête a échoué. Statut :", response.status_code)
 
     for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']:
-        # proba = compute_proba(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt"), data)
-        # distance = compute_distance_frequency(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt"), data)
+        proba = compute_proba(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt"), data)
+        distance = compute_distance_frequency(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt"), data)
         proba_trigramme = compute_proba_tri(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt"), data)
-        # print(f"The probabilty with the Matrix for {language} is : {proba}")
+        print(f"The probabilty with the Matrix for {language} is : {proba}")
         print(f"The probability for the Matrix trigramme for {language} is : {proba_trigramme}")
-        # print(f"The distance for {language} is : {distance}")
+        print(f"The distance for {language} is : {distance}")
 
 
 def compute_proba(matrix, text):
@@ -104,4 +104,4 @@ def code(c):
     return enc1
 
 
-print(find_language("Football", 'fr'))
+print(find_language("Football", 'en'))
