@@ -1,8 +1,14 @@
 import requests
-import conf_data
 import numpy as np
 
 S = requests.Session()
+
+characters_to_remove = [
+    '=', '.', ',', '(', ')', '0', '1', '2', '3', '4', '5', '6',
+    '7', '8', '9', '«', '»', '-', '_', 'ⓐ', '\\', ';', '/', '%'
+    ':', '?', '[', ']']
+
+traduction_table = str.maketrans('', '', ''.join(characters_to_remove))
 
 
 def find_language(request, language_request):
@@ -23,7 +29,7 @@ def find_language(request, language_request):
         data = response.json()
         page_content = list(data["query"]["pages"].values())[0]["extract"]
         page_content = [word for word in page_content.split()]
-        data = [chaine.translate(conf_data.traduction_table).lower()
+        data = [chaine.translate(traduction_table).lower()
                     for chaine in page_content]
         data = [''.join([c for c in word if ord(c) < 255]) 
                             for word in data]
@@ -31,7 +37,7 @@ def find_language(request, language_request):
     else:
         print("La requête a échoué. Statut :", response.status_code)
 
-    for language in conf_data.dic_api.keys():
+    for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']:
         # proba = compute_proba(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt"), data)
         # distance = compute_distance_frequency(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt"), data)
         proba_trigramme = compute_proba_tri(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt"), data)
