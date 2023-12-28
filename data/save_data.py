@@ -3,8 +3,9 @@ import pickle
 import json
 import conf_data
 
-def main():
 
+def main():
+    '''Scrapes and saves Wikipedia chosen articles into a text file for each language.'''
     for language in conf_data.dic_api.keys():
         file = open(
             f"/home/onyxia/work/projet_python_ds/data/{language}/list_{language}.pickle",

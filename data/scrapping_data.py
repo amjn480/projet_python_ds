@@ -2,6 +2,8 @@ import requests
 import pickle
 import conf
 
+# Retrieve the first titles of Wikipedia articles for each letter in each language.
+
 S = requests.Session()
 
 language_list = ["en", "pl", "fr", "es", "it", "de", "ca", "sv", "af", "nl"]
