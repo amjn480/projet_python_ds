@@ -52,7 +52,7 @@ def frequency_visualization_zoom(language):
   
     plt.show()
     plt.savefig(f'/home/onyxia/work/projet_python_ds/visualization/frequency_visualization/frequencies_zoom_{language}.png')
-
+    plt.close()
 
 
 # To save the different matrix
