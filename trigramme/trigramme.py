@@ -2,7 +2,9 @@ import numpy as np
 import os
 import json
 import conf_training
+from conf import ROOT_DIR
 code_space = 0
+
 
 def code(c):
     if ord(c)==32 :
@@ -14,6 +16,7 @@ def code(c):
     else :
         enc1=59
     return enc1
+
 
 class Trigramme():
     def __init__(self, language):
@@ -54,4 +57,5 @@ class Trigramme():
 
 
 for language in conf_training.dic_api.keys():
-    np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt", Trigramme(language=language).matrix)
+    trigramme_file = "%s/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt" % ROOT_DIR
+    np.savetxt(trigramme_file, Trigramme(language=language).matrix)
