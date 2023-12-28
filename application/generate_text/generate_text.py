@@ -41,22 +41,26 @@ def perplexity(text, language):
 #print(generate_bigramme(language='fr', lenght_sentence=50))
 
 def revient(nb):
+    """permet de se ramener dans le bon intervalle"""
     if nb==0 :
         return 32
     elif nb<=26 :
-        return nb+97
+        return nb+96
     elif nb<=58:
         return nb+197
     else :
         return -1
 def decode(nb):
+    """trouve les nombres en base 10 pour réassocier la chaine de caractere"""
     if nb<0 :
         return -1
     c=''
-    c+=chr(revient(nb//60))
     c+=chr(revient(nb%60))
+    c+=chr(revient(nb//60))
     return c
-matrix2 = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_trigramme_{language}.txt")
+print('res=',decode((62)))
+language='fr'
+matrix2 = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt")
 print(matrix2.shape)
 freq=np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt")
 rows_to_keep = np.array([32] + list(range(97, 123))+list(range(224,255)))
@@ -67,18 +71,26 @@ def genere_txt(n) :
     while current_state2==-1 :
         current_state2=random.choices(range(60), weights=freq)[0]      
     current_state=current_state2*60
+    print(current_state,"current_state" )
     generated_text = decode(current_state)
 
     # Générer le reste du texte en suivant la chaîne de Markov
     for _ in range(1, n):  
         nb=random.choices(range(len(matrix2)), weights=matrix2[current_state])[0]  
-        print('nb', nb)  
-        while nb==-1 :
-            nb=random.choices(range(len(matrix2)), weights=matrix2[current_state])[0]   
-        next_state = nb*60+current_state2    
-        print(next_state)
-        generated_text+=decode(next_state)
-        current_state2 = nb
+        nb1=nb%60
+        print(nb1==current_state2, nb1, current_state2)
+        nb2=nb//60
+        print('nb', nb) 
+        print('revient', revient(nb2)) 
+        while revient(nb2)==-1 :
+            nb=random.choices(range(len(matrix2)), weights=matrix2[current_state])[0]
+            nb2=nb//60
+            nb1=nb%60
+        next_state =nb  
+        
+        generated_text+=decode(next_state)[1]
+        current_state2 = nb2
+        current_state=nb
 
     return generated_text
 print(genere_txt(50))
