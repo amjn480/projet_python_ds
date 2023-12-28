@@ -29,4 +29,5 @@ for language in conf_training.dic_api.keys():
         plt.text(-1,ip,chr(i), horizontalalignment='center', verticalalignment='center')
         plt.text(ip,-1,chr(i), horizontalalignment='center', verticalalignment='center')
     plt.colorbar()
+    # Save the plot
     plt.savefig(f"/home/onyxia/work/projet_python_ds/visualization/matrix_visualization/Matrix_viz_{language}_zoomed.png")

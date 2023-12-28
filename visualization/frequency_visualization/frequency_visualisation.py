@@ -48,7 +48,7 @@ def frequency_visualization_zoom(language):
         plt.fill_between([i, i + 1], 0, 1, color=freq)
         plt.text(i + 0.5, 1.1, chr(i), ha='center', fontsize=8)
 
-    plt.title('Exemple de fréquences des caractères ASCII', fontsize=36)
+    plt.title('Exemple de fréquences des caractères ASCII', fontsize=36,  y=1.05)
     plt.xlabel('Caractères ASCII')
     plt.ylabel('Fréquence')
 

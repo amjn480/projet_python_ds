@@ -3,18 +3,19 @@ import matplotlib.pyplot as plt
 
 
 def matrix_visualiation(language):
+    """Save a visualization of transition matrices"""
     matrix = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt")
     colors = np.zeros((len(matrix), len(matrix[0]), 3))
     for i in range(len(matrix)):
         for j in range(len(matrix)):
             colors[i][j] = [matrix[i][j], matrix[i][j], matrix[i][j]]
 
-    colors_hsv = np.zeros((255, 255, 3))  # Matrice pour stocker les couleurs en HSV
+    colors_hsv = np.zeros((255, 255, 3))  # Matrix to store colors in HSV (Hue, Saturation, Value).
     for i in range(255):
         for j in range(255):
-            colors_hsv[i, j, 0] = matrix[i, j]  # Teinte correspondant à la fréquence
+            colors_hsv[i, j, 0] = matrix[i, j]  # Hue corresponding to frequency
 
-    # Conversion des couleurs de l'espace HSV à RGB pour l'affichage
+    # Conversion of colors from HSV space to RGB for display
     colors_rgb = plt.get_cmap('Blues')(colors_hsv[:, :, 0])  # Utilisation uniquement de la teinte pour la colormap
 
     plt.figure(figsize=(8, 6))

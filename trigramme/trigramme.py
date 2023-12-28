@@ -6,6 +6,7 @@ code_space = 0
 
 
 def code(c):
+    """Encodes the chain of character """
     if ord(c) == 32:
         enc1 = 0
     elif ord(c) <= 122 and ord(c) >= 97:
