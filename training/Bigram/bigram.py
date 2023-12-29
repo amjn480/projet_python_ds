@@ -1,6 +1,9 @@
 import numpy as np
-import os
 import json
+import os
+
+path_script = os.path.abspath(__file__)
+path_root = os.path.dirname(os.path.dirname(os.path.dirname(path_script)))
 
 
 def encoding(c):
@@ -23,14 +26,14 @@ class Matrix():
         self.matrix = np.zeros((256, 256))
         # Total[i] counts the nummber of transitions whose first letter is i for all i
         self.total = np.zeros(256)
-        self.list_articles = os.listdir(f"/home/onyxia/work/projet_python_ds/data/{language}")
+        self.list_articles = os.listdir(path_root + f"/data/{language}")
         self.train()
         self.normalize()
 
     def update_matrix(self, file):
         """ Update matrix of a language by training it with a new file""" 
         # Open the file
-        with open(f"/home/onyxia/work/projet_python_ds/data/{self.language}/{file}", 'r', encoding='utf-8') as file2:
+        with open(path_root + f"/data/{self.language}/{file}", 'r', encoding='utf-8') as file2:
             try:
                 data = json.load(file2)
                 # Read the file
@@ -64,5 +67,5 @@ class Matrix():
 
 # To save the matrix in a file
 for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']:
-    np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt", Matrix(language=language).matrix)
+    np.savetxt(path_root + f"/training/Matrix/Matrix_{language}.txt", Matrix(language=language).matrix)
 
