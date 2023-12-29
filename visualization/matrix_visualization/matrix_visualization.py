@@ -1,10 +1,14 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import os
+
+path_script = os.path.abspath(__file__)
+path_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(path_script))))
 
 
 def matrix_visualiation(language):
     """Save a visualization of transition matrices"""
-    matrix = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt")
+    matrix = np.loadtxt(path_root + f"/training/Matrix/Matrix_{language}.txt")
     colors = np.zeros((len(matrix), len(matrix[0]), 3))
     for i in range(len(matrix)):
         for j in range(len(matrix)):
@@ -28,7 +32,7 @@ def matrix_visualiation(language):
     cbar.set_label("Valeur des fréquences")
 
     plt.show()
-    plt.savefig(f'/home/onyxia/work/projet_python_ds/visualization/matrix_visualization/matrix_{language}.png')
+    plt.savefig(path_root + f'/visualization/matrix_visualization/matrix_{language}.png')
 
 
 # To save the different matrix
