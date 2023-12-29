@@ -1,9 +1,6 @@
 import numpy as np
 import os
 import json
-import conf_training
-
-code_space = 0
 
 
 def encoding(c):
@@ -66,6 +63,6 @@ class Matrix():
 
 
 # To save the matrix in a file
-# for language in conf_training.dic_api.keys():
-#     np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt", Matrix(language=language).matrix)
+for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']:
+    np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt", Matrix(language=language).matrix)
 
