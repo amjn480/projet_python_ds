@@ -98,16 +98,16 @@ for language in conf_data.dic_api.keys():
 
 
 languages = list(conf_data.dic_api.keys())
-success = [unigram[language][0] for language in languages]
-total = [unigram[language][1] for language in languages]
+success_unigram = [unigram[language][0] for language in languages]
+total_unigram = [unigram[language][1] for language in languages]
 frequencies = [r_succes / r_total for r_succes, r_total in zip(success, total)]
 
 plt.figure(figsize=(10, 6))
 plt.bar(languages, frequencies, color='skyblue')
 plt.title('Fréquence du nombre de réalisations justes par langue')
-plt.xlabel('Langue')
-plt.ylabel('Fréquence')
-plt.ylim(0, 1)  # Limite de l'axe des y de 0 à 1
-plt.xticks(rotation=45)  # Rotation des étiquettes des langues pour la lisibilité
+plt.xlabel('Languages')
+plt.ylabel('Pourcentage')
+plt.ylim(0, 100)  # The y axis is between 0 and 100
+plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig('/home/onyxia/work/projet_python_ds/algo_test/unigram_test.png')
