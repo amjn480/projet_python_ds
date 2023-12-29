@@ -1,6 +1,10 @@
 import math
 import numpy as np
 import random
+import os
+
+path_script = os.path.abspath(__file__)
+path_root = os.path.dirname(os.path.dirname(os.path.dirname(path_script)))
 
 eps = 1e-6
 
@@ -12,8 +16,8 @@ def generate_bigramme(language, lenght_sentence):
     length_sentence : the length of the sequence"""
 
     # Data importation
-    matrix = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt")
-    freq = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt")
+    matrix = np.loadtxt(path_root + f"/training/Matrix/Matrix_{language}.txt")
+    freq = np.loadtxt(path_root + f"/training/Frequency/Frequencies_{language}.txt")
     # First letter
     current_state = random.choices(range(len(matrix)), weights=freq)[0]
     generated_text = chr(current_state)
@@ -32,8 +36,8 @@ def generate_trigramme(language, lenght_sentence):
     Parameters :
     length_sentence : the length of the sequence"""
     # Load the transition matrix and frequencies
-    matrix2 = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt")
-    freq = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt")
+    matrix2 = np.loadtxt(path_root + f"/training/Matrix/Matrix_Trigramme_{language}.txt")
+    freq = np.loadtxt(path_root + f"/training/Frequency/Frequencies_{language}.txt")
     rows_to_keep = np.array([32] + list(range(97, 123))+list(range(224, 255))) #We keep the letters we have chosen to keep
     freq = freq[np.ix_(rows_to_keep)]
     #Selection of the first letter
@@ -65,7 +69,7 @@ def perplexity(text, language):
 
     """Measure the plausibility of a text."""
 
-    matrix = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt")
+    matrix = np.loadtxt(path_root + f"/training/Matrix/Matrix_{language}.txt")
     res = 0
     c1 = text[0]
     for c2 in text[1:]:
