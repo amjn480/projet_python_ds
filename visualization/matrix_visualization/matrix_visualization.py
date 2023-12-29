@@ -20,7 +20,7 @@ def matrix_visualiation(language):
 
     plt.figure(figsize=(8, 6))
     plt.imshow(colors_rgb, interpolation='nearest', cmap='Blues')
-    plt.title('Couleurs en fonction des fréquences')
+    plt.title(f'Couleurs en fonction des fréquences en {language}')
     plt.xlabel('Lettre suivante')
     plt.ylabel('Lettre actuelle')
 
