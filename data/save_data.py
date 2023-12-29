@@ -7,11 +7,12 @@ import os
 path_script = os.path.abspath(__file__)
 path_root = os.path.dirname(os.path.dirname(path_script))
 
+
 def main():
     '''Scrapes and saves Wikipedia chosen articles into a text file for each language.'''
     for language in conf_data.dic_api.keys():
         file = open(path_root + 
-            f"/data/{language}/list_{language}.pickle",
+            f"/data/wikipedia_articles/list_{language}.pickle",
             "rb")
         requests_list = pickle.load(file)
         for request in requests_list:
