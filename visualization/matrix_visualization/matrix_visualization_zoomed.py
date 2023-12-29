@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import os
 
 path_script = os.path.abspath(__file__)
-path_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(path_script))))
+path_root = os.path.dirname(os.path.dirname(os.path.dirname(path_script)))
 
 
 # For all languages
@@ -29,4 +29,4 @@ for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']:
         plt.text(ip, -1, chr(i), horizontalalignment='center', verticalalignment='center')
     plt.colorbar()
     # Save the plot
-    plt.savefig(path_root + f"/visualization/matrix_visualization/Matrix_viz_{language}_zoomed.png")
+    # plt.savefig(path_root + f"/visualization/matrix_visualization/Matrix_viz_{language}_zoomed.png")
