@@ -10,9 +10,9 @@ def matrix_visualiation(language):
         for j in range(len(matrix)):
             colors[i][j] = [matrix[i][j], matrix[i][j], matrix[i][j]]
 
-    colors_hsv = np.zeros((255, 255, 3))  # Matrix to store colors in HSV (Hue, Saturation, Value).
-    for i in range(255):
-        for j in range(255):
+    colors_hsv = np.zeros((256, 256, 3))  # Matrix to store colors in HSV (Hue, Saturation, Value).
+    for i in range(256):
+        for j in range(256):
             colors_hsv[i, j, 0] = matrix[i, j]  # Hue corresponding to frequency
 
     # Conversion of colors from HSV space to RGB for display
