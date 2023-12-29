@@ -72,7 +72,7 @@ def code(c):
     return enc1
 
 
-# Test for the unigram model
+# Tests with long sentences
 
 unigram = {language: [0, 0] for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
 bigram = {language: [0, 0] for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
@@ -98,9 +98,6 @@ for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']:
             except (json.decoder.JSONDecodeError, UnicodeDecodeError):
                 print(f'error collecting the data : {file}')
 
-unigram = {'fr': [103, 104], 'en': [104, 104], 'es': [104, 104], 'de': [104, 104],'nl': [98, 101],'it': [103, 104],'af': [101, 104],'ca': [103, 104],'pl': [104, 104],'sv': [104, 104]}
-bigram = {'fr': [104, 104], 'en': [74, 104], 'es': [104, 104], 'de': [77, 104],'nl': [86, 101],'it': [104, 104],'af': [75, 104],'ca': [78, 104],'pl': [102, 104],'sv': [43, 104]}
-trigram = {'fr': [103, 104], 'en': [104, 104], 'es': [103, 104], 'de': [103, 104],'nl': [99, 101],'it': [104, 104],'af': [102, 104],'ca': [103, 104],'pl': [100, 104],'sv': [103, 104]}
 
 plot = ['unigram', 'bigram', 'trigram']
 index = 0
@@ -119,4 +116,51 @@ for ngram in [unigram, bigram, trigram]:
     plt.xticks(rotation=45)
     plt.tight_layout()
     plt.savefig(path_root + f'/tests/results/' + plot[index] +'_test_long.png')
+    index += 1
+
+
+# Test with the first 25 characters
+
+unigram = {language: [0, 0] for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
+bigram = {language: [0, 0] for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
+trigram = {language: [0, 0] for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
+
+for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']:
+    for file in os.listdir(f"/home/onyxia/work/projet_python_ds/tests/data_test/articles_test/{language}"):
+        print(file)
+        with open(f"/home/onyxia/work/projet_python_ds/tests/data_test/articles_test/{language}/{file}", 'r') as file2:
+            try:
+                data = json.load(file2)[:25]
+                language_detected = function_language_detected(data=data)
+                print(language_detected)
+                if language_detected[0] == language:
+                    unigram[language][0] += 1
+                unigram[language][1] += 1
+                if language_detected[1] == language:
+                    bigram[language][0] += 1
+                bigram[language][1] += 1
+                if language_detected[2] == language:
+                    trigram[language][0] += 1
+                trigram[language][1] += 1
+            except (json.decoder.JSONDecodeError, UnicodeDecodeError):
+                print(f'error collecting the data : {file}')
+
+
+plot = ['unigram', 'bigram', 'trigram']
+index = 0
+for ngram in [unigram, bigram, trigram]:
+    languages = ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']
+    success = [ngram[language][0] for language in languages]
+    total = [ngram[language][1] for language in languages]
+    frequencies = [r_succes / r_total for r_succes, r_total in zip(success, total)]
+
+    plt.figure(figsize=(10, 6))
+    plt.bar(languages, frequencies, color='skyblue')
+    plt.title('Pourcentage of good detection')
+    plt.xlabel('Languages')
+    plt.ylabel('Pourcentage')
+    plt.ylim(0, 1)  # The y axis is between 0 and 100
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig(path_root + f'/tests/results/' + plot[index] +'_test_short.png')
     index += 1
