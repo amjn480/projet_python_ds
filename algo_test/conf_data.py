@@ -1,4 +1,5 @@
-# choix des charactères que l'on garde dans les données récupérées
+# Selection of characters to retain in the retrieved data" ou "selection of characters to keep in
+# the retrieved data
 characters_to_remove = [
     '=', '.', ',', '(', ')', '0', '1', '2', '3', '4', '5', '6',
     '7', '8', '9', '«', '»', '-', '_', 'ⓐ', '\\', ';', '/', '%'
