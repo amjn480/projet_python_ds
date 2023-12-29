@@ -97,17 +97,18 @@ for language in conf_data.dic_api.keys():
                 print(f'error collecting the data : {file}')
 
 
-languages = list(conf_data.dic_api.keys())
-success_unigram = [unigram[language][0] for language in languages]
-total_unigram = [unigram[language][1] for language in languages]
-frequencies = [r_succes / r_total for r_succes, r_total in zip(success, total)]
+for ngram in [unigram, bigram, trigram]:
+    languages = list(conf_data.dic_api.keys())
+    success = [ngram[language][0] for language in languages]
+    total = [ngram[language][1] for language in languages]
+    frequencies = [r_succes / r_total for r_succes, r_total in zip(success, total)]
 
-plt.figure(figsize=(10, 6))
-plt.bar(languages, frequencies, color='skyblue')
-plt.title('Fréquence du nombre de réalisations justes par langue')
-plt.xlabel('Languages')
-plt.ylabel('Pourcentage')
-plt.ylim(0, 100)  # The y axis is between 0 and 100
-plt.xticks(rotation=45)
-plt.tight_layout()
-plt.savefig('/home/onyxia/work/projet_python_ds/algo_test/unigram_test.png')
+    plt.figure(figsize=(10, 6))
+    plt.bar(languages, frequencies, color='skyblue')
+    plt.title('Pourcentage of good detection')
+    plt.xlabel('Languages')
+    plt.ylabel('Pourcentage')
+    plt.ylim(0, 100)  # The y axis is between 0 and 100
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig(f'/home/onyxia/work/projet_python_ds/algo_test/{ngram}_test.png')
