@@ -10,7 +10,7 @@ for elt in language_list:
             try:
                 article = json.load(article)
                 for word in article:
-                    total_char += (1+ len(word))
+                    total_char += (1 + len(word))
             except:
                 pass
     print(elt, total_char, "\n")
