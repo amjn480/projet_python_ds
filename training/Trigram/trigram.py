@@ -55,5 +55,5 @@ class Trigramme():
                 self.matrix[k] = self.matrix[k]/self.total[k]
 
 
-for language in conf_training.dic_api.keys():
+for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']:
     np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt", Trigramme(language=language).matrix)
