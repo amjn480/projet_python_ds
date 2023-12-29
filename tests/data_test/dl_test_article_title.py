@@ -25,6 +25,6 @@ for language in language_list:
             if elt not in training_data and count < 4:
                 data += [elt]
                 count += 1
-    file = open(f"/home/onyxia/work/projet_python_ds/algo_test/article_title_test/list_{language}_test.pickle", "wb")
+    file = open(f"/home/onyxia/work/projet_python_ds/tests/article_title_test/list_{language}_test.pickle", "wb")
     pickle.dump(data, file)
     file.close()
