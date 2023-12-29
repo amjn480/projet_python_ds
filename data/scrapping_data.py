@@ -1,6 +1,10 @@
 import requests
 import pickle
 import conf
+import os
+
+path_script = os.path.abspath(__file__)
+path_root = os.path.dirname(os.path.dirname(path_script))
 
 # Retrieve the first titles of Wikipedia articles for each letter in each language.
 
@@ -22,6 +26,6 @@ for language in language_list:
 
         response = S.get(url=URL, params=PARAMS)
         data += response.json()[1]
-    file = open(f"/home/onyxia/work/projet_python_ds/data/list_{language}.pickle", "wb")
+    file = open(path_root + f"/data/list_{language}.pickle", "wb")
     pickle.dump(data, file)
     file.close()
