@@ -1,12 +1,17 @@
 import requests
 import pickle
+import os
+
+path_script = os.path.abspath(__file__)
+
+path_root = os.path.dirname(os.path.dirname(os.path.dirname(path_script)))
 
 S = requests.Session()
 
 language_list = ["en", "pl", "fr", "es", "it", "de", "ca", "sv", "af", "nl"]
 
 for language in language_list:
-    with open(f"/home/onyxia/work/projet_python_ds/data/wikipedia_articles/list_{language}.pickle", "rb") as f:
+    with open(path_root + f"/data/wikipedia_articles/list_{language}.pickle", "rb") as f:
         training_data = pickle.load(f)
     URL = f"https://{language}.wikipedia.org/w/api.php"
     data = []
@@ -25,6 +30,6 @@ for language in language_list:
             if elt not in training_data and count < 4:
                 data += [elt]
                 count += 1
-    file = open(f"/home/onyxia/work/projet_python_ds/tests/data_test/article_title_test/list_{language}_test.pickle", "wb")
+    file = open(path_root + f"/tests/data_test/article_title_test/list_{language}_test.pickle", "wb")
     pickle.dump(data, file)
     file.close()
