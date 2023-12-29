@@ -60,7 +60,7 @@ def compute_proba(matrix, text):
 
 
 def compute_distance_frequency(frequencies, text):
-    frequencies_text = np.zeros(255)
+    frequencies_text = np.zeros(256)
     number_characters = 0
     for word in text:
         number_characters += len(word)
