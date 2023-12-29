@@ -2,6 +2,7 @@ import conf_data
 import os
 import json
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 def function_language_detected(data):
@@ -9,6 +10,7 @@ def function_language_detected(data):
     bigram = {language : compute_proba(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt"), data) for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
     trigram = {language : compute_proba_tri(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt"), data) for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
     return (min(unigram, key=unigram.get), max(bigram, key=bigram.get), max(trigram, key=trigram.get))
+
 
 def compute_proba(matrix, text):
         """text is a list of word"""
@@ -71,49 +73,41 @@ def code(c):
 # Test for the unigram model
 
 unigram = {language: [0, 0] for language in conf_data.dic_api.keys()}
-
-for language in conf_data.dic_api.keys():
-    for file in os.listdir(f"/home/onyxia/work/projet_python_ds/algo_test/articles_test/{language}"):
-        with open(f"/home/onyxia/work/projet_python_ds/algo_test/articles_test/{language}/{file}", 'r') as file2:
-            try:
-                data = json.load(file2)
-                language_detected = function_language_detected(data=data)[0]
-                if language_detected == language:
-                    unigram[language][0] += 1
-                unigram[language][1] += 1
-            except (json.decoder.JSONDecodeError, UnicodeDecodeError):
-                print(f'error collecting the data : {file}')
-
-
-# Test for the bigram model
-
 bigram = {language: [0, 0] for language in conf_data.dic_api.keys()}
-
-for language in conf_data.dic_api.keys():
-    for file in os.listdir(f"/home/onyxia/work/projet_python_ds/algo_test/articles_test/{language}"):
-        with open(file, 'r') as file2:
-            try:
-                data = json.load(file2)
-                language_detected = function_language_detected(data=data)[1]
-                if language_detected == language:
-                    bigram[language][0] += 1
-                bigram[language][1] += 1
-            except (json.decoder.JSONDecodeError, UnicodeDecodeError):
-                print(f'error collecting the data : {file}')
-
-
-# Test for the trigram model
-
 trigram = {language: [0, 0] for language in conf_data.dic_api.keys()}
 
 for language in conf_data.dic_api.keys():
-    for file in os.listdir(f"/home/onyxia/work/projet_python_ds/algo_test/articles_test/{language}"):
-        with open(file, 'r') as file2:
+    for file in os.listdir(f"/home/onyxia/work/projet_python_ds/algo_test/articles_test/{language}")[:2]:
+        print(file)
+        with open(f"/home/onyxia/work/projet_python_ds/algo_test/articles_test/{language}/{file}", 'r') as file2:
             try:
                 data = json.load(file2)
-                language_detected = function_language_detected(data=data)[2]
-                if language_detected == language:
+                language_detected = function_language_detected(data=data)
+                print(language_detected)
+                if language_detected[0] == language:
+                    unigram[language][0] += 1
+                unigram[language][1] += 1
+                if language_detected[1] == language:
+                    bigram[language][0] += 1
+                bigram[language][1] += 1
+                if language_detected[2] == language:
                     trigram[language][0] += 1
                 trigram[language][1] += 1
             except (json.decoder.JSONDecodeError, UnicodeDecodeError):
                 print(f'error collecting the data : {file}')
+
+
+languages = list(conf_data.dic_api.keys())
+success = [unigram[language][0] for language in languages]
+total = [unigram[language][1] for language in languages]
+frequencies = [r_succes / r_total for r_succes, r_total in zip(success, total)]
+
+plt.figure(figsize=(10, 6))
+plt.bar(languages, frequencies, color='skyblue')
+plt.title('Fréquence du nombre de réalisations justes par langue')
+plt.xlabel('Langue')
+plt.ylabel('Fréquence')
+plt.ylim(0, 1)  # Limite de l'axe des y de 0 à 1
+plt.xticks(rotation=45)  # Rotation des étiquettes des langues pour la lisibilité
+plt.tight_layout()
+plt.savefig('/home/onyxia/work/projet_python_ds/algo_test/unigram_test.png')
