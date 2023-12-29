@@ -19,7 +19,7 @@ def generate_bigramme(language, lenght_sentence):
     generated_text = chr(current_state)
     
     for _ in range(1, lenght_sentence):
-        #We take a randomly weighted letter based on transition probabilities
+        # We take a randomly weighted letter based on transition probabilities which will be the next letter
         next_state = random.choices(range(len(matrix)), weights=matrix[current_state])[0]
         generated_text += chr(next_state)
         current_state = next_state
@@ -31,29 +31,30 @@ def generate_trigramme(language, lenght_sentence):
     """Generate a sequence of coherent letters using the transition matrix of trigrams for a language.
     Parameters :
     length_sentence : the length of the sequence"""
+    # Load the transition matrix and frequencies
     matrix2 = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt")
     freq = np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt")
-    rows_to_keep = np.array([32] + list(range(97, 123))+list(range(224, 255)))
+    rows_to_keep = np.array([32] + list(range(97, 123))+list(range(224, 255))) #We keep the letters we have chosen to keep
     freq = freq[np.ix_(rows_to_keep)]
-
+    #Selection of the first letter
     current_state2 = random.choices(range(len(freq)), weights=freq)[0]
 
-    while current_state2 == -1:
+    while current_state2 == -1: # If it is true, then it is a character that we don't want so we have to change it
         current_state2 = random.choices(range(60), weights=freq)[0]   
-    current_state = current_state2*60
-    print(current_state, "current_state")
+    current_state = current_state2*60 
     generated_text = decode(current_state)
 
     for _ in range(1, lenght_sentence):  
+        #Selection of the next letter
         nb = random.choices(range(len(matrix2)), weights=matrix2[current_state])[0]  
-        nb1 = nb % 60
-        nb2 = nb//60
+        nb1 = nb % 60 # Corresponds to the ord of the first character
+        nb2 = nb//60 # Corresponds to the ord of the second character
         while revient(nb2) == -1:
             nb = random.choices(range(len(matrix2)), weights=matrix2[current_state])[0]
             nb2 = nb//60
             nb1 = nb % 60
         next_state = nb  
-        
+        # We decode the number to convert it in a str
         generated_text += decode(next_state)[1]
         current_state2 = nb2
         current_state = nb
@@ -97,7 +98,7 @@ def decode(nb):
     # If nb==-1, then we don't keep this character
     if nb < 0:
         return -1
-    # Else we convert the  number into a sequence of character
+    # Else we convert the  number into a string chain
     c = ''
     c += chr(revient(nb % 60))
     c += chr(revient(nb//60))
