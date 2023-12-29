@@ -7,7 +7,7 @@ class Frequency():
     def __init__(self, language):
         """Initializes all the parameters"""
         self.language = language
-        self.frequencies = np.zeros(255)
+        self.frequencies = np.zeros(256)
         self.list_articles = os.listdir(f"/home/onyxia/work/projet_python_ds/data/{language}")
         self.train()
     

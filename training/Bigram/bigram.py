@@ -23,9 +23,9 @@ class Matrix():
         """Initializes all the parameters"""
         self.language = language
         # Matrix represents the transition matrix of Markov chain
-        self.matrix = np.zeros((255, 255))
+        self.matrix = np.zeros((256, 256))
         # Total[i] counts the nummber of transitions whose first letter is i for all i
-        self.total = np.zeros(255)
+        self.total = np.zeros(256)
         self.list_articles = os.listdir(f"/home/onyxia/work/projet_python_ds/data/{language}")
         self.train()
         self.normalize()
@@ -60,7 +60,7 @@ class Matrix():
     
     def normalize(self):
         """Normalize the matrix"""
-        for k in range(255):
+        for k in range(256):
             if self.total[k] != 0:
                 self.matrix[k] = self.matrix[k]/self.total[k]
 
