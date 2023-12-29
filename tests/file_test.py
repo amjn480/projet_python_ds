@@ -1,13 +1,16 @@
-import os
 import json
 import numpy as np
 import matplotlib.pyplot as plt
+import os
+
+path_script = os.path.abspath(__file__)
+path_root = os.path.dirname(os.path.dirname(path_script))
 
 
 def function_language_detected(data):
-    unigram = {language : compute_distance_frequency(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt"), data) for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
-    bigram = {language : compute_proba(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_{language}.txt"), data) for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
-    trigram = {language : compute_proba_tri(np.loadtxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt"), data) for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
+    unigram = {language : compute_distance_frequency(np.loadtxt(path_root + f"/training/Frequency/Frequencies_{language}.txt"), data) for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
+    bigram = {language : compute_proba(np.loadtxt(path_root + f"/training/Matrix/Matrix_{language}.txt"), data) for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
+    trigram = {language : compute_proba_tri(np.loadtxt(path_root + f"/training/Matrix/Matrix_Trigramme_{language}.txt"), data) for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']}
     return (min(unigram, key=unigram.get), max(bigram, key=bigram.get), max(trigram, key=trigram.get))
 
 
@@ -113,6 +116,5 @@ for ngram in [unigram, bigram, trigram]:
     plt.ylim(0, 1)  # The y axis is between 0 and 100
     plt.xticks(rotation=45)
     plt.tight_layout()
-    plt.savefig(f'/home/onyxia/work/projet_python_ds/tests/results/{ngram}_test.png')
+    plt.savefig(path_root + f'/tests/results/{ngram}_test.png')
 
-print(str(unigram))
