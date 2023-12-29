@@ -2,13 +2,15 @@ import numpy as np
 import json
 import os
 
+path_script = os.path.abspath(__file__)
+path_root = os.path.dirname(os.path.dirname(os.path.dirname(path_script)))
 
 class Frequency():
     def __init__(self, language):
         """Initializes all the parameters"""
         self.language = language
         self.frequencies = np.zeros(256)
-        self.list_articles = os.listdir(f"/home/onyxia/work/projet_python_ds/data/{language}")
+        self.list_articles = os.listdir(path_root + f"/data/{language}")
         self.train()
     
     def train(self):
@@ -17,7 +19,7 @@ class Frequency():
         #We read all the files
         for file in self.list_articles:
             # We open a file
-            with open(f"/home/onyxia/work/projet_python_ds/data/{self.language}/{file}", 'r') as file2:
+            with open(path_root + f"/data/{self.language}/{file}", 'r') as file2:
                 try:
                     data = json.load(file2)
                     # We read a file
@@ -33,5 +35,5 @@ class Frequency():
 
 # To save the list in a file
 for language in ['fr', 'en', 'es', 'de', 'nl', 'it', 'af', 'ca', 'pl', 'sv']:
-    np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Frequency/Frequencies_{language}.txt", Frequency(language=language).frequencies)
+    np.savetxt(path_root + f"/training/Frequency/Frequencies_{language}.txt", Frequency(language=language).frequencies)
 
