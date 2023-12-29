@@ -1,7 +1,6 @@
 import numpy as np
 import os
 import json
-import conf_training
 code_space = 0
 
 
@@ -55,5 +54,5 @@ class Trigramme():
                 self.matrix[k] = self.matrix[k]/self.total[k]
 
 
-for language in conf_training.dic_api.keys():
+for language in ["en", "pl", "fr", "es", "it", "de", "ca", "sv", "af", "nl"]:
     np.savetxt(f"/home/onyxia/work/projet_python_ds/training/Matrix/Matrix_Trigramme_{language}.txt", Trigramme(language=language).matrix)
