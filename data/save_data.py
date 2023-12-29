@@ -2,13 +2,16 @@ import requests
 import pickle
 import json
 import conf_data
+import os
 
+path_script = os.path.abspath(__file__)
+path_root = os.path.dirname(os.path.dirname(path_script))
 
 def main():
     '''Scrapes and saves Wikipedia chosen articles into a text file for each language.'''
     for language in conf_data.dic_api.keys():
-        file = open(
-            f"/home/onyxia/work/projet_python_ds/data/{language}/list_{language}.pickle",
+        file = open(path_root + 
+            f"/data/{language}/list_{language}.pickle",
             "rb")
         requests_list = pickle.load(file)
         for request in requests_list:
@@ -31,8 +34,8 @@ def main():
             else:
                 print("La requête a échoué. Statut :", response.status_code)
             try:  # error if there is a backslash in the request
-                with open(
-                    f"/home/onyxia/work/projet_python_ds/data/{language}/{request}.txt", "w",
+                with open(path_root + 
+                    f"/data/{language}/{request}.txt", "w",
                     encoding=conf_data.encoding_type) as file2:
                     json.dump(data, file2)
             except FileNotFoundError:
